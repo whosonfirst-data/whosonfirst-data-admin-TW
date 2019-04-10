@@ -1,0 +1,80 @@
+{
+  "id": 1226148965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5042,22.5118,120.5042,22.5118",
+    "geom:latitude":22.5118,
+    "geom:longitude":120.5042,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T18",
+    "gn:admin4_code":"10013180001.0",
+    "gn:asciiname":"Yamenkou",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665638,
+    "gn:latitude":22.5118,
+    "gn:longitude":120.5042,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yamenkou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u8859\u9580\u53e3",
+        "Yamenkou"
+    ],
+    "name:zho_x_preferred":[
+        "Ya-men-k\u2019ou"
+    ],
+    "name:zho_x_variant":[
+        "\u8859\u9580\u53e3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665638
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4d5b131e4cad4543979dcd8dd19b6428",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226148965,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1226148965,
+    "wof:lastmodified":1537708448,
+    "wof:name":"Yamenkou",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5042,
+    22.5118,
+    120.5042,
+    22.5118
+],
+  "geometry": {"coordinates":[120.5042,22.5118],"type":"Point"}
+}

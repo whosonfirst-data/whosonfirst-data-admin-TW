@@ -1,0 +1,76 @@
+{
+  "id": 1276228001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47685,23.23915,120.47685,23.23915",
+    "geom:latitude":23.23915,
+    "geom:longitude":120.47685,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R06",
+    "gn:admin4_code":"67000060013.0",
+    "gn:asciiname":"Henglu",
+    "gn:country_code":"TW",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676218,
+    "gn:latitude":23.23915,
+    "gn:longitude":120.47685,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Henglu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heng-lu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a2a\u8def"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676218
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4f4994e8e2b1d2918c033454c20819d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276228001,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1276228001,
+    "wof:lastmodified":1537709198,
+    "wof:name":"Henglu",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47685,
+    23.23915,
+    120.47685,
+    23.23915
+],
+  "geometry": {"coordinates":[120.47685,23.23915],"type":"Point"}
+}

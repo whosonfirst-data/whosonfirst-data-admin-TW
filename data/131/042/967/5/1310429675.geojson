@@ -1,0 +1,76 @@
+{
+  "id": 1310429675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.79944,22.06611,120.79944,22.06611",
+    "geom:latitude":22.06611,
+    "geom:longitude":120.79944,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T33",
+    "gn:admin4_code":"10013330006.0",
+    "gn:asciiname":"Hutou Buluo",
+    "gn:country_code":"TW",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6603011,
+    "gn:latitude":22.06611,
+    "gn:longitude":120.79944,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hutou Buluo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u864e\u982d\u90e8\u843d"
+    ],
+    "name:zho_x_variant":[
+        "Hu-t\u2019ou-pu-lo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6603011
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"56c91167adc5068eb94a52f13f946bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310429675,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1310429675,
+    "wof:lastmodified":1537709672,
+    "wof:name":"Hutou Buluo",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.79944,
+    22.06611,
+    120.79944,
+    22.06611
+],
+  "geometry": {"coordinates":[120.79944,22.06611],"type":"Point"}
+}

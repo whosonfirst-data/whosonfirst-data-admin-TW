@@ -1,0 +1,78 @@
+{
+  "id": 1260188447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.58833,23.72444,120.58833,23.72444",
+    "geom:latitude":23.72444,
+    "geom:longitude":120.58833,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P01",
+    "gn:admin4_code":"10009010026.0",
+    "gn:asciiname":"Shiliu",
+    "gn:country_code":"TW",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6578845,
+    "gn:latitude":23.72444,
+    "gn:longitude":120.58833,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shiliu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihliou",
+        "Shiliu",
+        "Shih-liu"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u69b4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6578845
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f444ca4f16af3b30ca5df05b6bc2c84e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260188447,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1260188447,
+    "wof:lastmodified":1537709542,
+    "wof:name":"Shiliu",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.58833,
+    23.72444,
+    120.58833,
+    23.72444
+],
+  "geometry": {"coordinates":[120.58833,23.72444],"type":"Point"}
+}

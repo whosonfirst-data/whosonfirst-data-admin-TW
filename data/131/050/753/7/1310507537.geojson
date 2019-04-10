@@ -1,0 +1,81 @@
+{
+  "id": 1310507537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.44611,24.06806,120.44611,24.06806",
+    "geom:latitude":24.06806,
+    "geom:longitude":120.44611,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N02",
+    "gn:admin4_code":"10007020005.0",
+    "gn:asciiname":"Tuokuzhuang",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667112,
+    "gn:latitude":24.06806,
+    "gn:longitude":120.44611,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tuokuzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuokujhuang",
+        "Tuokuzhuang"
+    ],
+    "name:zho_x_preferred":[
+        "Ting-ts\u2019o"
+    ],
+    "name:zho_x_variant":[
+        "\u812b\u8932\u838a",
+        "T\u2019o-k\u2019u-chuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667112
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"443d4c1f344a3888e7b68d41cc1d7c1f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310507537,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1310507537,
+    "wof:lastmodified":1537708542,
+    "wof:name":"Tuokuzhuang",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.44611,
+    24.06806,
+    120.44611,
+    24.06806
+],
+  "geometry": {"coordinates":[120.44611,24.06806],"type":"Point"}
+}

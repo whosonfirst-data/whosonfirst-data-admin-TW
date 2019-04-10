@@ -1,0 +1,73 @@
+{
+  "id": 1226557559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.0002,26.24355,120.0002,26.24355",
+    "geom:latitude":26.24355,
+    "geom:longitude":120.0002,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"LIE",
+    "gn:asciiname":"Daqiucun",
+    "gn:country_code":"TW",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668572,
+    "gn:latitude":26.24355,
+    "gn:longitude":120.0002,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Daqiucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019iao-ts\u2019un",
+        "Ta-ch\u2019iu-ts\u2019un",
+        "Daqiucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u4e18\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668572
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ceab09e5146b135e6a8f0498d0e04527",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226557559,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226557559,
+    "wof:lastmodified":1537708637,
+    "wof:name":"Daqiucun",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.0002,
+    26.24355,
+    120.0002,
+    26.24355
+],
+  "geometry": {"coordinates":[120.00020000000001,26.24355],"type":"Point"}
+}

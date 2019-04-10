@@ -1,0 +1,77 @@
+{
+  "id": 1260285231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.76779,24.74467,121.76779,24.74467",
+    "geom:latitude":24.74467,
+    "geom:longitude":121.76779,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G01",
+    "gn:admin4_code":"10002010014.0",
+    "gn:asciiname":"Zhuangsan",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677666,
+    "gn:latitude":24.74467,
+    "gn:longitude":121.76779,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhuangsan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhuangsan",
+        "Chuang-san"
+    ],
+    "name:zho_x_preferred":[
+        "\u58ef\u4e09"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677666
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"329e6b1815ec777356de2d6e5aea8357",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260285231,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1260285231,
+    "wof:lastmodified":1537709313,
+    "wof:name":"Zhuangsan",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.76779,
+    24.74467000000001,
+    121.76779,
+    24.74467000000001
+],
+  "geometry": {"coordinates":[121.76779000000001,24.74467000000001],"type":"Point"}
+}

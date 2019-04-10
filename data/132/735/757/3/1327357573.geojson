@@ -1,0 +1,82 @@
+{
+  "id": 1327357573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.80056,24.44611,121.80056,24.44611",
+    "geom:latitude":24.44611,
+    "geom:longitude":121.80056,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G09",
+    "gn:admin4_code":"10002030026.0",
+    "gn:asciiname":"Hai'an",
+    "gn:country_code":"TW",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679017,
+    "gn:latitude":24.44611,
+    "gn:longitude":121.80056,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hai\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chao-yang-li",
+        "Hai-an"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u5cb8"
+    ],
+    "name:zho_x_variant":[
+        "Hai\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679567,
+        102191569,
+        85632403,
+        1108499379,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679017
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e6ec76a8af08ac31086cb8f69521a668",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327357573,
+            "macrocounty_id":1108499379,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1327357573,
+    "wof:lastmodified":1537709405,
+    "wof:name":"Hai'an",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.80056,
+    24.44611,
+    121.80056,
+    24.44611
+],
+  "geometry": {"coordinates":[121.80056,24.44611],"type":"Point"}
+}

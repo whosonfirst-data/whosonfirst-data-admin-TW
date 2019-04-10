@@ -1,0 +1,82 @@
+{
+  "id": 1310305857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.88472,23.61722,120.88472,23.61722",
+    "geom:latitude":23.61722,
+    "geom:longitude":120.88472,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M12",
+    "gn:admin4_code":"10008120008.0",
+    "gn:asciiname":"Jiumei",
+    "gn:country_code":"TW",
+    "gn:dem":840,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677805,
+    "gn:latitude":23.61722,
+    "gn:longitude":120.88472,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiumei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiu-mei-she",
+        "Jiumei",
+        "Jioumei",
+        "Chiu-mei"
+    ],
+    "name:zho_x_preferred":[
+        "Chiu-mei-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u4e45\u7f8e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677805
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"40c197a9d8464acb4e1c41a436ffb4d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310305857,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1310305857,
+    "wof:lastmodified":1537709324,
+    "wof:name":"Jiumei",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.88472,
+    23.61722,
+    120.88472,
+    23.61722
+],
+  "geometry": {"coordinates":[120.88472,23.61722],"type":"Point"}
+}

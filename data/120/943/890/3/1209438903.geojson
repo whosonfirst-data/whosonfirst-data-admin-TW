@@ -1,0 +1,76 @@
+{
+  "id": 1209438903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.83196,24.67589,121.83196,24.67589",
+    "geom:latitude":24.67589,
+    "geom:longitude":121.83196,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G07",
+    "gn:admin4_code":"10002090015.0",
+    "gn:asciiname":"Xiaqingshui",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675886,
+    "gn:latitude":24.67589,
+    "gn:longitude":121.83196,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaqingshui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siacingshuei",
+        "Xiaqingshui"
+    ],
+    "name:zho_x_preferred":[
+        "Hsia-ch\u2019ing-she"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0b\u6e05\u6c34",
+        "Hsia-ch\u2019ing",
+        "Hsia-ch\u2019ing-shui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675886
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"290e826960d91d30f2b815535884585c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209438903
+        }
+    ],
+    "wof:id":1209438903,
+    "wof:lastmodified":1537709173,
+    "wof:name":"Xiaqingshui",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.83196,
+    24.67589,
+    121.83196,
+    24.67589
+],
+  "geometry": {"coordinates":[121.83196,24.67589],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209315505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.56667,24.24944,120.56667,24.24944",
+    "geom:latitude":24.24944,
+    "geom:longitude":120.56667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B13",
+    "gn:admin4_code":"66000130008.0",
+    "gn:asciiname":"Luliao",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672537,
+    "gn:latitude":24.24944,
+    "gn:longitude":120.56667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Luliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lu-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u9e7f\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672537
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"149ed7c05f5a1be64b7185f9d4dffb09",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209315505
+        }
+    ],
+    "wof:id":1209315505,
+    "wof:lastmodified":1537708912,
+    "wof:name":"Luliao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.56667,
+    24.24944,
+    120.56667,
+    24.24944
+],
+  "geometry": {"coordinates":[120.56667,24.24944],"type":"Point"}
+}

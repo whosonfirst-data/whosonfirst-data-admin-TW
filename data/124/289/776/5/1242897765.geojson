@@ -1,0 +1,76 @@
+{
+  "id": 1242897765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.94881,23.78445,120.94881,23.78445",
+    "geom:latitude":23.78445,
+    "geom:longitude":120.94881,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M12",
+    "gn:admin4_code":"10008120012.0",
+    "gn:asciiname":"Shuanglong",
+    "gn:country_code":"TW",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669055,
+    "gn:latitude":23.78445,
+    "gn:longitude":120.94881,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuanglong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuang-lung"
+    ],
+    "name:zho_x_preferred":[
+        "\u96d9\u9f8d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669055
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"59080fc244eeb938e35d1a0b42f74add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242897765,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1242897765,
+    "wof:lastmodified":1537708676,
+    "wof:name":"Shuanglong",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.94881,
+    23.78445,
+    120.94881,
+    23.78445
+],
+  "geometry": {"coordinates":[120.94880999999999,23.78445],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1276898561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.02917,24.97889,121.02917,24.97889",
+    "geom:latitude":24.97889,
+    "geom:longitude":121.02917,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H11",
+    "gn:admin4_code":"68000110017.0",
+    "gn:asciiname":"Licuo",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6571370,
+    "gn:latitude":24.97889,
+    "gn:longitude":121.02917,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Licuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Li-wu"
+    ],
+    "name:zho_x_preferred":[
+        "\u674e\u539d"
+    ],
+    "name:zho_x_variant":[
+        "Li-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6571370
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2246acfb8b1f46216014d5f943c4b7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276898561,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1276898561,
+    "wof:lastmodified":1537709509,
+    "wof:name":"Licuo",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.02917,
+    24.97889,
+    121.02917,
+    24.97889
+],
+  "geometry": {"coordinates":[121.02916999999999,24.97889],"type":"Point"}
+}

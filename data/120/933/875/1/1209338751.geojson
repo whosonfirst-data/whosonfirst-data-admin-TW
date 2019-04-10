@@ -1,0 +1,75 @@
+{
+  "id": 1209338751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.40048,23.11549,121.40048,23.11549",
+    "geom:latitude":23.11549,
+    "geom:longitude":121.40048,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V02",
+    "gn:admin4_code":"10014020003.0",
+    "gn:asciiname":"Jihui",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678288,
+    "gn:latitude":23.11549,
+    "gn:longitude":121.40048,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jihui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jihuei",
+        "Jihui",
+        "Chi-hui"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u7fec"
+    ],
+    "name:zho_x_variant":[
+        "Chi-y\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678288
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"52b0b1104d8aeb2209704a922c14ece6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209338751
+        }
+    ],
+    "wof:id":1209338751,
+    "wof:lastmodified":1537709357,
+    "wof:name":"Jihui",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.40048,
+    23.11549,
+    121.40048,
+    23.11549
+],
+  "geometry": {"coordinates":[121.40048,23.11549],"type":"Point"}
+}

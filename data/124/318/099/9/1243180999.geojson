@@ -1,0 +1,80 @@
+{
+  "id": 1243180999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.41111,22.90556,120.41111,22.90556",
+    "geom:latitude":22.90556,
+    "geom:longitude":120.41111,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E22",
+    "gn:admin4_code":"64000220009.0",
+    "gn:asciiname":"Beishitou",
+    "gn:country_code":"TW",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602138,
+    "gn:latitude":22.90556,
+    "gn:longitude":120.41111,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Beishitou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beishihtou",
+        "Beishitou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u52e2\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Pei-shih-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602138
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7fd471878c2dcee1e7d351c601787654",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243180999,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1243180999,
+    "wof:lastmodified":1537709651,
+    "wof:name":"Beishitou",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.41111,
+    22.90556,
+    120.41111,
+    22.90556
+],
+  "geometry": {"coordinates":[120.41110999999999,22.90556],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209039673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60528,23.57083,120.60528,23.57083",
+    "geom:latitude":23.57083,
+    "geom:longitude":120.60528,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q16",
+    "gn:admin4_code":"10010150005.0",
+    "gn:asciiname":"Lizijiao",
+    "gn:country_code":"TW",
+    "gn:dem":880,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676700,
+    "gn:latitude":23.57083,
+    "gn:longitude":120.60528,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lizijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fei-tzu-chiao",
+        "Lizihjiao",
+        "Lizijiao",
+        "Li-tzu-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "P\u2019ei-tzu-chiao"
+    ],
+    "name:zho_x_variant":[
+        "\u68a8\u5b50\u811a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676700
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7181c1e14798964fa68e66ee0516ce90",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209039673
+        }
+    ],
+    "wof:id":1209039673,
+    "wof:lastmodified":1537709233,
+    "wof:name":"Lizijiao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60528,
+    23.57083,
+    120.60528,
+    23.57083
+],
+  "geometry": {"coordinates":[120.60527999999999,23.57083],"type":"Point"}
+}

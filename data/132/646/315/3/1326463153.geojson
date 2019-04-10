@@ -1,0 +1,79 @@
+{
+  "id": 1326463153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.80911,24.24533,120.80911,24.24533",
+    "geom:latitude":24.24533,
+    "geom:longitude":120.80911,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B19",
+    "gn:admin4_code":"66000190001.0",
+    "gn:asciiname":"Xinshe",
+    "gn:country_code":"TW",
+    "gn:dem":440,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992787,
+    "gn:latitude":24.24533,
+    "gn:longitude":120.80911,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinshe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-she",
+        "\u65b0\u793e",
+        "Xinshe",
+        "Sinshe"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992787
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a7099fa5a4d14418197489f9dbde6477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326463153,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1326463153,
+    "wof:lastmodified":1537709470,
+    "wof:name":"Xinshe",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.80911,
+    24.24533,
+    120.80911,
+    24.24533
+],
+  "geometry": {"coordinates":[120.80911,24.24533],"type":"Point"}
+}

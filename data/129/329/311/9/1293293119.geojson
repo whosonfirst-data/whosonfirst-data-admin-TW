@@ -1,0 +1,81 @@
+{
+  "id": 1293293119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.45861,24.05639,120.45861,24.05639",
+    "geom:latitude":24.05639,
+    "geom:longitude":120.45861,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N02",
+    "gn:admin4_code":"10007020006.0",
+    "gn:asciiname":"Datiexiang",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667685,
+    "gn:latitude":24.05639,
+    "gn:longitude":120.45861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Datiexiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Datiesiang",
+        "Datiexiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6253\u9435\u5df7"
+    ],
+    "name:zho_x_variant":[
+        "Ta-t\u2019ieh-ts\u2019o",
+        "Ta-t\u2019ieh-hsiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667685
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fe798c55ac1de215216f2404626677d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293293119,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1293293119,
+    "wof:lastmodified":1537708586,
+    "wof:name":"Datiexiang",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.45861,
+    24.05639,
+    120.45861,
+    24.05639
+],
+  "geometry": {"coordinates":[120.45860999999999,24.05639],"type":"Point"}
+}

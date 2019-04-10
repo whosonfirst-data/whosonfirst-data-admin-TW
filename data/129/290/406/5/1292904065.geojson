@@ -1,0 +1,77 @@
+{
+  "id": 1292904065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.70056,25.12284,121.70056,25.12284",
+    "geom:latitude":25.12284,
+    "geom:longitude":121.70056,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"KEE",
+    "gn:admin3_code":"C02",
+    "gn:admin4_code":"10017020013.0",
+    "gn:asciiname":"Dongshizhonggu",
+    "gn:country_code":"TW",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6729007,
+    "gn:latitude":25.12284,
+    "gn:longitude":121.70056,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongshizhonggu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongshihjhonggu",
+        "Tung-shih-chung-ku"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u52e2\u4e2d\u80a1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679571,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6729007
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"71af4699b24c7d5831eb80e87a7876ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1292904065,
+            "macroregion_id":1108808557,
+            "region_id":85679571
+        }
+    ],
+    "wof:id":1292904065,
+    "wof:lastmodified":1537709914,
+    "wof:name":"Dongshizhonggu",
+    "wof:parent_id":85679571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.70056,
+    25.12284,
+    121.70056,
+    25.12284
+],
+  "geometry": {"coordinates":[121.70056,25.12284],"type":"Point"}
+}

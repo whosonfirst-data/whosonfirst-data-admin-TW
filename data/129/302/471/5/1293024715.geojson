@@ -1,0 +1,78 @@
+{
+  "id": 1293024715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.10667,23.10389,120.10667,23.10389",
+    "geom:latitude":23.10389,
+    "geom:longitude":120.10667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R14",
+    "gn:admin4_code":"67000150022.0",
+    "gn:asciiname":"Jiugu",
+    "gn:country_code":"TW",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677816,
+    "gn:latitude":23.10389,
+    "gn:longitude":120.10667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiugu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiougu",
+        "Chiu-ku-tzu",
+        "Chiu-ku"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e5d\u80a1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677816
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bb01ed2bdb32e99ccfa7088a4638c1db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293024715,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1293024715,
+    "wof:lastmodified":1537709325,
+    "wof:name":"Jiugu",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.10667,
+    23.10389,
+    120.10667,
+    23.10389
+],
+  "geometry": {"coordinates":[120.10666999999999,23.10389],"type":"Point"}
+}

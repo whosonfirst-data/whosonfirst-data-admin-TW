@@ -1,0 +1,78 @@
+{
+  "id": 1310525475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.30384,23.12306,120.30384,23.12306",
+    "geom:latitude":23.12306,
+    "geom:longitude":120.30384,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R19",
+    "gn:admin4_code":"67000190002.0",
+    "gn:asciiname":"Zuojia",
+    "gn:country_code":"TW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666827,
+    "gn:latitude":23.12306,
+    "gn:longitude":120.30384,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zuojia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tso-chia-li",
+        "Zuojia",
+        "Tso-chia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5750\u99d5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666827
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d745c90b23d855c6f28713cd0720125a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310525475,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1310525475,
+    "wof:lastmodified":1537708524,
+    "wof:name":"Zuojia",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.30384,
+    23.12306,
+    120.30384,
+    23.12306
+],
+  "geometry": {"coordinates":[120.30383999999999,23.12306],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243460431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7717,24.26807,120.7717,24.26807",
+    "geom:latitude":24.26807,
+    "geom:longitude":120.7717,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B20",
+    "gn:admin4_code":"66000200004.0",
+    "gn:asciiname":"Tanyaoke",
+    "gn:country_code":"TW",
+    "gn:dem":328,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652206,
+    "gn:latitude":24.26807,
+    "gn:longitude":120.7717,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tanyaoke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u70ad\u7ab0\u5d59"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019an-yao-k\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652206
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"258a91591b097d1d885164b3095938dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243460431,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1243460431,
+    "wof:lastmodified":1537709818,
+    "wof:name":"Tanyaoke",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7717,
+    24.26807,
+    120.7717,
+    24.26807
+],
+  "geometry": {"coordinates":[120.7717,24.26807],"type":"Point"}
+}

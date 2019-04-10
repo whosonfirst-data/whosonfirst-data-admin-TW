@@ -1,0 +1,79 @@
+{
+  "id": 1326830645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.68972,24.37361,120.68972,24.37361",
+    "geom:latitude":24.37361,
+    "geom:longitude":120.68972,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B11",
+    "gn:admin4_code":"66000110023.0",
+    "gn:asciiname":"Miucuozhuang",
+    "gn:country_code":"TW",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6587724,
+    "gn:latitude":24.37361,
+    "gn:longitude":120.68972,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Miucuozhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mioucuojhuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u7e46\u539d\u5e84"
+    ],
+    "name:zho_x_variant":[
+        "Miu-ts\u2019o-chuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6587724
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3d687c76dd714536de4e16cd0bb53759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326830645,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1326830645,
+    "wof:lastmodified":1537709593,
+    "wof:name":"Miucuozhuang",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.68972,
+    24.37361,
+    120.68972,
+    24.37361
+],
+  "geometry": {"coordinates":[120.68971999999999,24.37361],"type":"Point"}
+}

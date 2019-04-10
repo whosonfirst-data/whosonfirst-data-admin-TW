@@ -1,0 +1,80 @@
+{
+  "id": 1293891203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.85541,25.10946,121.85541,25.10946",
+    "geom:latitude":25.10946,
+    "geom:longitude":121.85541,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F21",
+    "gn:admin4_code":"65000120026.0",
+    "gn:asciiname":"Jinguashi",
+    "gn:country_code":"TW",
+    "gn:dem":254,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678023,
+    "gn:latitude":25.10946,
+    "gn:longitude":121.85541,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jinguashi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chin-kwa-shih",
+        "Jinguashih",
+        "Jinguashi",
+        "Chin-kua-shih"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u74dc\u77f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678023,
+        "wk:page":"Jinguashi"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7fd7767719a9ebba98ede48675c22e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293891203,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1293891203,
+    "wof:lastmodified":1537709340,
+    "wof:name":"Jinguashi",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.85541,
+    25.10946,
+    121.85541,
+    25.10946
+],
+  "geometry": {"coordinates":[121.85541000000001,25.10946],"type":"Point"}
+}

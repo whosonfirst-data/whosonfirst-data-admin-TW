@@ -1,0 +1,82 @@
+{
+  "id": 1293689737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.43041,22.56486,120.43041,22.56486",
+    "geom:latitude":22.56486,
+    "geom:longitude":120.43041,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E14",
+    "gn:admin4_code":"64000140014.0",
+    "gn:asciiname":"Chaoliao",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679033,
+    "gn:latitude":22.56486,
+    "gn:longitude":120.43041,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chaoliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6f6e\u5bee",
+        "Chaoliao"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019ao-chou-liao"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ao-liao",
+        "Ch\u2019ao-liao-ts\u2019un",
+        "\u6f6e\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679033
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fdac68faf5c16be9dffbb91e7ae6f2a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293689737,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1293689737,
+    "wof:lastmodified":1537709406,
+    "wof:name":"Chaoliao",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.43041,
+    22.56486,
+    120.43041,
+    22.56486
+],
+  "geometry": {"coordinates":[120.43040999999999,22.56486],"type":"Point"}
+}

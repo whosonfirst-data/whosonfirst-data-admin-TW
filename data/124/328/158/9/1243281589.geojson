@@ -1,0 +1,75 @@
+{
+  "id": 1243281589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.30917,24.39583,118.30917,24.39583",
+    "geom:latitude":24.39583,
+    "geom:longitude":118.30917,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W03",
+    "gn:admin4_code":"9020010005.0",
+    "gn:asciiname":"Guta",
+    "gn:country_code":"TW",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673390,
+    "gn:latitude":24.39583,
+    "gn:longitude":118.30917,
+    "gn:modification_date":"2017-11-03",
+    "gn:name":"Guta",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ku-kang",
+        "Ku-t\u2019a",
+        "Guta"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673390
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ec43029c25c3c1b1b51ed1c4fb1b4992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243281589,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1243281589,
+    "wof:lastmodified":1537708968,
+    "wof:name":"Guta",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.30917,
+    24.39583,
+    118.30917,
+    24.39583
+],
+  "geometry": {"coordinates":[118.30916999999999,24.39583],"type":"Point"}
+}

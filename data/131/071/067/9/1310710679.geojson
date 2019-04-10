@@ -1,0 +1,81 @@
+{
+  "id": 1310710679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4242,22.7273,120.4242,22.7273",
+    "geom:latitude":22.7273,
+    "geom:longitude":120.4242,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E15",
+    "gn:admin4_code":"64000150015.0",
+    "gn:asciiname":"Neikengnei",
+    "gn:country_code":"TW",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673746,
+    "gn:latitude":22.7273,
+    "gn:longitude":120.4242,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Neikengnei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5185\u5751\u5185",
+        "Neikengnei"
+    ],
+    "name:zho_x_preferred":[
+        "Nei-k\u2019eng-nei"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019eng-nei",
+        "\u5185\u5751\u5185"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673746
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"be25a14d51cc2d7527563aad37029d11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310710679,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1310710679,
+    "wof:lastmodified":1537708991,
+    "wof:name":"Neikengnei",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4242,
+    22.7273,
+    120.4242,
+    22.7273
+],
+  "geometry": {"coordinates":[120.4242,22.7273],"type":"Point"}
+}

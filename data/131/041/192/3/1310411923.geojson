@@ -1,0 +1,81 @@
+{
+  "id": 1310411923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48806,24.02,120.48806,24.02",
+    "geom:latitude":24.02,
+    "geom:longitude":120.48806,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N11",
+    "gn:admin4_code":"10007060007.0",
+    "gn:asciiname":"Sanbiantou",
+    "gn:country_code":"TW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669987,
+    "gn:latitude":24.02,
+    "gn:longitude":120.48806,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanbiantou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-pien",
+        "Sanbiantou"
+    ],
+    "name:zho_x_preferred":[
+        "Hsia-san-pien-t\u2019ou"
+    ],
+    "name:zho_x_variant":[
+        "\u4e09\u6c74\u982d",
+        "San-pien-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669987
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"38ec2ff6fbbbcf144b7b7b27e6951de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310411923,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1310411923,
+    "wof:lastmodified":1537708750,
+    "wof:name":"Sanbiantou",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48806,
+    24.02,
+    120.48806,
+    24.02
+],
+  "geometry": {"coordinates":[120.48806,24.02],"type":"Point"}
+}

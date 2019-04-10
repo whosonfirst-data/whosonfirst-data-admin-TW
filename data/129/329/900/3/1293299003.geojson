@@ -1,0 +1,82 @@
+{
+  "id": 1293299003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.45111,24.09861,120.45111,24.09861",
+    "geom:latitude":24.09861,
+    "geom:longitude":120.45111,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N02",
+    "gn:admin4_code":"10007020028.0",
+    "gn:asciiname":"Yangzicuo",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665600,
+    "gn:latitude":24.09861,
+    "gn:longitude":120.45111,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yangzicuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangzihcuo"
+    ],
+    "name:zho_x_preferred":[
+        "Ting-yang-tzu-ts\u2019o"
+    ],
+    "name:zho_x_variant":[
+        "Yang-ts\u2019o",
+        "Yang-ts\u2019o-li",
+        "\u6d0b\u5b50\u539d",
+        "Yang-tzu-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665600
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c6cc57c1bd70a515640fdf35ebeae4a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293299003,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1293299003,
+    "wof:lastmodified":1537708445,
+    "wof:name":"Yangzicuo",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.45111,
+    24.09861,
+    120.45111,
+    24.09861
+],
+  "geometry": {"coordinates":[120.45111,24.09861],"type":"Point"}
+}

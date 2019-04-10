@@ -1,0 +1,75 @@
+{
+  "id": 1360208891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7245,24.21289,120.7245,24.21289",
+    "geom:latitude":24.21289,
+    "geom:longitude":120.7245,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B17",
+    "gn:admin4_code":"66000170012.0",
+    "gn:asciiname":"Longhudou",
+    "gn:country_code":"TW",
+    "gn:dem":194,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993164,
+    "gn:latitude":24.21289,
+    "gn:longitude":120.7245,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Longhudou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9f8d\u864e\u6597",
+        "Longhudou",
+        "Lung-hu-tou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993164
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4d34494058a80da3e275f3490ac9f297",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360208891,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1360208891,
+    "wof:lastmodified":1537709475,
+    "wof:name":"Longhudou",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7245,
+    24.21289,
+    120.7245,
+    24.21289
+],
+  "geometry": {"coordinates":[120.72450000000001,24.21289],"type":"Point"}
+}

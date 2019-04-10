@@ -1,0 +1,79 @@
+{
+  "id": 1309917291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.41328,25.12425,121.41328,25.12425",
+    "geom:latitude":25.12425,
+    "geom:longitude":121.41328,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F32",
+    "gn:admin4_code":"65000230008.0",
+    "gn:asciiname":"Qiding",
+    "gn:country_code":"TW",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6748827,
+    "gn:latitude":25.12425,
+    "gn:longitude":121.41328,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qiding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciding"
+    ],
+    "name:zho_x_preferred":[
+        "\u5d0e\u9802"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019i-ting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6748827
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ac62c9d452cd72ea470ce7d68ceb017b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309917291,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1309917291,
+    "wof:lastmodified":1537709938,
+    "wof:name":"Qiding",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.41328,
+    25.12425,
+    121.41328,
+    25.12425
+],
+  "geometry": {"coordinates":[121.41328,25.12425],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1226648035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5,25.26667,121.5,25.26667",
+    "geom:latitude":25.26667,
+    "geom:longitude":121.5,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F30",
+    "gn:admin4_code":"65000210004.0",
+    "gn:asciiname":"Xinmang",
+    "gn:country_code":"TW",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674916,
+    "gn:latitude":25.26667,
+    "gn:longitude":121.5,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinmang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-hsiao-chi-lung",
+        "Hsin-mang",
+        "Xinmang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674916
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"dddbe0c6fcd45474513b13618c316c20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226648035,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1226648035,
+    "wof:lastmodified":1537709081,
+    "wof:name":"Xinmang",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5,
+    25.26667,
+    121.5,
+    25.26667
+],
+  "geometry": {"coordinates":[121.5,25.26667],"type":"Point"}
+}

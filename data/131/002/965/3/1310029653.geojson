@@ -1,0 +1,76 @@
+{
+  "id": 1310029653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.62389,24.43028,120.62389,24.43028",
+    "geom:latitude":24.43028,
+    "geom:longitude":120.62389,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B11",
+    "gn:admin4_code":"66000110028.0",
+    "gn:asciiname":"Chuantoubu",
+    "gn:country_code":"TW",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677636,
+    "gn:latitude":24.43028,
+    "gn:longitude":120.62389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chuantoubu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8239\u982d\u57d4"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019uan-t\u2019ou-pu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677636
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b0311d98a86be6273000726d2ee2efae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310029653,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1310029653,
+    "wof:lastmodified":1537709310,
+    "wof:name":"Chuantoubu",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.62389,
+    24.43028,
+    120.62389,
+    24.43028
+],
+  "geometry": {"coordinates":[120.62389,24.43028],"type":"Point"}
+}

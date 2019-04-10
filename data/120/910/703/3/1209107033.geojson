@@ -1,0 +1,67 @@
+{
+  "id": 1209107033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.93333,24.0,120.93333,24.0",
+    "geom:latitude":24.0,
+    "geom:longitude":120.93333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M02",
+    "gn:admin4_code":"10008020022.0",
+    "gn:asciiname":"Zhongniukeng",
+    "gn:country_code":"TW",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677261,
+    "gn:latitude":24.0,
+    "gn:longitude":120.93333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongniukeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chung-niu-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677261
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6bab4893636348884bd7e2f9bae11719",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209107033
+        }
+    ],
+    "wof:id":1209107033,
+    "wof:lastmodified":1537709279,
+    "wof:name":"Zhongniukeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.93333,
+    24.0,
+    120.93333,
+    24.0
+],
+  "geometry": {"coordinates":[120.93333,24.0],"type":"Point"}
+}

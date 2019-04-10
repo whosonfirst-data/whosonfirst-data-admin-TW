@@ -1,0 +1,71 @@
+{
+  "id": 1209220861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.59966,22.77709,120.59966,22.77709",
+    "geom:latitude":22.77709,
+    "geom:longitude":120.59966,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T11",
+    "gn:admin4_code":"10013110013.0",
+    "gn:asciiname":"Xiajiunanshi",
+    "gn:country_code":"TW",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658214,
+    "gn:latitude":22.77709,
+    "gn:longitude":120.59966,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiajiunanshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsia-chiu-nan-shih",
+        "Xiajiunanshi"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u820a\u5357\u52e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658214
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"104ac08fce52a7259a8b56c6a6987486",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209220861
+        }
+    ],
+    "wof:id":1209220861,
+    "wof:lastmodified":1537709895,
+    "wof:name":"Xiajiunanshi",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.59966,
+    22.77709,
+    120.59966,
+    22.77709
+],
+  "geometry": {"coordinates":[120.59966,22.77709],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1259483531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48826,23.13628,120.48826,23.13628",
+    "geom:latitude":23.13628,
+    "geom:longitude":120.48826,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R24",
+    "gn:admin4_code":"67000240006.0",
+    "gn:asciiname":"Linkou",
+    "gn:country_code":"TW",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750065,
+    "gn:latitude":23.13628,
+    "gn:longitude":120.48826,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Linkou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shan-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "Lin-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750065
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ed97e4f3bf18d633383250a7094840a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259483531,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1259483531,
+    "wof:lastmodified":1537709963,
+    "wof:name":"Linkou",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48826,
+    23.13628,
+    120.48826,
+    23.13628
+],
+  "geometry": {"coordinates":[120.48826,23.13628],"type":"Point"}
+}

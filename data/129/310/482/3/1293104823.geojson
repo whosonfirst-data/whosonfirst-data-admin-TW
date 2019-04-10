@@ -1,0 +1,80 @@
+{
+  "id": 1293104823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.01563,24.19165,121.01563,24.19165",
+    "geom:latitude":24.19165,
+    "geom:longitude":121.01563,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B29",
+    "gn:admin4_code":"66000290003.0",
+    "gn:asciiname":"Jiabaotai",
+    "gn:country_code":"TW",
+    "gn:dem":905,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678658,
+    "gn:latitude":24.19165,
+    "gn:longitude":121.01563,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiabaotai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chia-po-tai"
+    ],
+    "name:zho_x_preferred":[
+        "Pa-hsien-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u4f73\u4fdd\u81fa",
+        "Chia-pao-t\u2019ai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678658
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4e960e79b25e53730667bd25288b8688",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293104823,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1293104823,
+    "wof:lastmodified":1537709381,
+    "wof:name":"Jiabaotai",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.01563,
+    24.19165,
+    121.01563,
+    24.19165
+],
+  "geometry": {"coordinates":[121.01563,24.19165],"type":"Point"}
+}

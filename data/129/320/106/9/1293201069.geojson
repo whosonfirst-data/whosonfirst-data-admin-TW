@@ -1,0 +1,77 @@
+{
+  "id": 1293201069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.66039,23.99428,120.66039,23.99428",
+    "geom:latitude":23.99428,
+    "geom:longitude":120.66039,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M03",
+    "gn:admin4_code":"10008030015.0",
+    "gn:asciiname":"Guoxizi",
+    "gn:country_code":"TW",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650443,
+    "gn:latitude":23.99428,
+    "gn:longitude":120.66039,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Guoxizi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guosizih",
+        "Kuo-hsi-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u904e\u6eaa\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650443
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c3a76e895c76056fc47c175e3d3f5000",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293201069,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1293201069,
+    "wof:lastmodified":1537709805,
+    "wof:name":"Guoxizi",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.66039,
+    23.99428,
+    120.66039,
+    23.99428
+],
+  "geometry": {"coordinates":[120.66039000000001,23.99428],"type":"Point"}
+}

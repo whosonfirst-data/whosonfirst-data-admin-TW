@@ -1,0 +1,78 @@
+{
+  "id": 1260182685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.88452,24.46775,120.88452,24.46775",
+    "geom:latitude":24.46775,
+    "geom:longitude":120.88452,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K17",
+    "gn:admin4_code":"10005170007.0",
+    "gn:asciiname":"Guizhulin",
+    "gn:country_code":"TW",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673460,
+    "gn:latitude":24.46775,
+    "gn:longitude":120.88452,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Guizhulin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuei-chu-lin",
+        "Guizhulin",
+        "Gueijhulin"
+    ],
+    "name:zho_x_preferred":[
+        "\u6842\u7af9\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673460
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a93491ee7880cf8098c3eedd1e29c0c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260182685,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1260182685,
+    "wof:lastmodified":1537708973,
+    "wof:name":"Guizhulin",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.88452,
+    24.46775,
+    120.88452,
+    24.46775
+],
+  "geometry": {"coordinates":[120.88451999999999,24.46775],"type":"Point"}
+}

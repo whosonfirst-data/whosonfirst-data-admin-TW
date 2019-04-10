@@ -1,0 +1,71 @@
+{
+  "id": 1209621261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.75691,24.6516,121.75691,24.6516",
+    "geom:latitude":24.6516,
+    "geom:longitude":121.75691,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G08",
+    "gn:admin4_code":"10002080015.0",
+    "gn:asciiname":"Xixin",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647256,
+    "gn:latitude":24.6516,
+    "gn:longitude":121.75691,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xixin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sisin",
+        "Hsi-hsin"
+    ],
+    "name:zho_x_preferred":[
+        "\u6eaa\u5fc3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647256
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a61a7fd6871dd701fd54cb4f640dc7a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209621261
+        }
+    ],
+    "wof:id":1209621261,
+    "wof:lastmodified":1537709754,
+    "wof:name":"Xixin",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.75691,
+    24.6516,
+    121.75691,
+    24.6516
+],
+  "geometry": {"coordinates":[121.75691,24.6516],"type":"Point"}
+}

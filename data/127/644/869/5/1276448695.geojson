@@ -1,0 +1,80 @@
+{
+  "id": 1276448695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.74944,24.44472,120.74944,24.44472",
+    "geom:latitude":24.44472,
+    "geom:longitude":120.74944,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K03",
+    "gn:admin4_code":"10005030008.0",
+    "gn:asciiname":"Taoyanqi",
+    "gn:country_code":"TW",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988496,
+    "gn:latitude":24.44472,
+    "gn:longitude":120.74944,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Taoyanqi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taoyanci"
+    ],
+    "name:zho_x_preferred":[
+        "T\u2019ao-yan-ch\u2019i"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019iao-yen-ch\u2019i",
+        "T\u2019ao-yen-ch\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988496
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6931090c6be7aebe025ed8dffd0930bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276448695,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1276448695,
+    "wof:lastmodified":1537709434,
+    "wof:name":"Taoyanqi",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.74944,
+    24.44472,
+    120.74944,
+    24.44472
+],
+  "geometry": {"coordinates":[120.74944000000001,24.44472],"type":"Point"}
+}

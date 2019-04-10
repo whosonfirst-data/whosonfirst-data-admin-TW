@@ -1,0 +1,77 @@
+{
+  "id": 890468269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.53333,25.03333,121.53333,25.03333",
+    "geom:latitude":25.03333,
+    "geom:longitude":121.53333,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:unk_x_variant":[
+        "Ta-an"
+    ],
+    "name:zho_x_preferred":[
+        "Ta-an Ch\u2019\u00fc"
+    ],
+    "name:zho_x_variant":[
+        "Da-an Cyu",
+        "Da\u2019an Qu",
+        "\u5927\u5b89\u5340"
+    ],
+    "qs:name":"Da\u2019an District",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":37,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668646,
+        "qs:id":350615,
+        "wk:page":"Da'an District"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053696,
+    "wof:geomhash":"61885e0290ff595f3acf79f3071cc5b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890468269,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":890468269,
+    "wof:lastmodified":1527792967,
+    "wof:name":"Da\u2019an District",
+    "wof:parent_id":85679583,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.53333,
+    25.03333,
+    121.53333,
+    25.03333
+],
+  "geometry": {"coordinates":[121.53333000000001,25.03333],"type":"Point"}
+}

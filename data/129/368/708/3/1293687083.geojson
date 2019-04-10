@@ -1,0 +1,81 @@
+{
+  "id": 1293687083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2938,23.09922,120.2938,23.09922",
+    "geom:latitude":23.09922,
+    "geom:longitude":120.2938,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R20",
+    "gn:admin4_code":"67000200006.0",
+    "gn:asciiname":"Sanshecun",
+    "gn:country_code":"TW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669978,
+    "gn:latitude":23.09922,
+    "gn:longitude":120.2938,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanshecun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yeh-shu-chiao",
+        "San-she",
+        "Sanshecun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u820d\u6751"
+    ],
+    "name:zho_x_variant":[
+        "San-she-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669978
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"579bad6e718e0f242f2b6c14e92eeb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293687083,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1293687083,
+    "wof:lastmodified":1537708749,
+    "wof:name":"Sanshecun",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2938,
+    23.09922000000001,
+    120.2938,
+    23.09922000000001
+],
+  "geometry": {"coordinates":[120.2938,23.09922000000001],"type":"Point"}
+}

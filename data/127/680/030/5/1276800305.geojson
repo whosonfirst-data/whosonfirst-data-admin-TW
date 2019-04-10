@@ -1,0 +1,80 @@
+{
+  "id": 1276800305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.38106,23.15809,120.38106,23.15809",
+    "geom:latitude":23.15809,
+    "geom:longitude":120.38106,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R11",
+    "gn:admin4_code":"67000110007.0",
+    "gn:asciiname":"Pizijiao",
+    "gn:country_code":"TW",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750433,
+    "gn:latitude":23.15809,
+    "gn:longitude":120.38106,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pizijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pizihjiao",
+        "Pizijiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u57e4\u5b50\u8173"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019i-tzu-chiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750433
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"344c117a1f71ee15a03a8fabc5f43b66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276800305,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1276800305,
+    "wof:lastmodified":1537709964,
+    "wof:name":"Pizijiao",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.38106,
+    23.15809,
+    120.38106,
+    23.15809
+],
+  "geometry": {"coordinates":[120.38106000000001,23.15809],"type":"Point"}
+}

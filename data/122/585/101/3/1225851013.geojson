@@ -1,0 +1,78 @@
+{
+  "id": 1225851013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3174,23.54151,120.3174,23.54151",
+    "geom:latitude":23.54151,
+    "geom:longitude":120.3174,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q07",
+    "gn:admin4_code":"10010070021.0",
+    "gn:asciiname":"Zhuweizi",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676995,
+    "gn:latitude":23.54151,
+    "gn:longitude":120.3174,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhuweizi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhuweizih",
+        "Zhuweizi",
+        "Chu-wei-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u570d\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676995
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c42360a5319f44d96d4a850e3b2f9bf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225851013,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1225851013,
+    "wof:lastmodified":1537709255,
+    "wof:name":"Zhuweizi",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3174,
+    23.54151,
+    120.3174,
+    23.54151
+],
+  "geometry": {"coordinates":[120.31740000000001,23.54151],"type":"Point"}
+}

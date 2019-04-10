@@ -1,0 +1,76 @@
+{
+  "id": 1209721525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.53522,25.08325,121.53522,25.08325",
+    "geom:latitude":25.08325,
+    "geom:longitude":121.53522,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A10",
+    "gn:admin4_code":"63000040013.0",
+    "gn:asciiname":"Neihunei",
+    "gn:country_code":"TW",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671464,
+    "gn:latitude":25.08325,
+    "gn:longitude":121.53522,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Neihunei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nei-hu-nei"
+    ],
+    "name:zho_x_preferred":[
+        "\u5167\u6e56\u5167"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671464
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e10b304d1e2e809f5ca8851d901deb3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209721525,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1209721525,
+    "wof:lastmodified":1537708844,
+    "wof:name":"Neihunei",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.53522,
+    25.08325,
+    121.53522,
+    25.08325
+],
+  "geometry": {"coordinates":[121.53522,25.08325],"type":"Point"}
+}

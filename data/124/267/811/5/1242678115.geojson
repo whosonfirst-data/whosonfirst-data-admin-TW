@@ -1,0 +1,80 @@
+{
+  "id": 1242678115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.43554,23.90765,120.43554,23.90765",
+    "geom:latitude":23.90765,
+    "geom:longitude":120.43554,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N08",
+    "gn:admin4_code":"10007200021.0",
+    "gn:asciiname":"Mianqianlun",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671957,
+    "gn:latitude":23.90765,
+    "gn:longitude":120.43554,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Mianqianlun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Miancianlun",
+        "Mianqianlun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9762\u524d\u5d19"
+    ],
+    "name:zho_x_variant":[
+        "Mien-ch\u2019ien-lun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671957
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7cf67766e084bb34357a3379d1458237",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242678115,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1242678115,
+    "wof:lastmodified":1537708874,
+    "wof:name":"Mianqianlun",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.43554,
+    23.90765,
+    120.43554,
+    23.90765
+],
+  "geometry": {"coordinates":[120.43554,23.90765],"type":"Point"}
+}

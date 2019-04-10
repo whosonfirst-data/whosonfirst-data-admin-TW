@@ -1,0 +1,81 @@
+{
+  "id": 1276348345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.68361,23.10722,120.68361,23.10722",
+    "geom:latitude":23.10722,
+    "geom:longitude":120.68361,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E37",
+    "gn:admin4_code":"64000370003.0",
+    "gn:asciiname":"Jianshan",
+    "gn:country_code":"TW",
+    "gn:dem":537,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678458,
+    "gn:latitude":23.10722,
+    "gn:longitude":120.68361,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jianshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yang-tzu-chiao",
+        "Jianshan",
+        "Chien-shan"
+    ],
+    "name:zho_x_preferred":[
+        "Chien-shan-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u5efa\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678458
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5c11e71334eaa4a50a1341eddf4ee8ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276348345,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1276348345,
+    "wof:lastmodified":1537709369,
+    "wof:name":"Jianshan",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.68361000000002,
+    23.10722,
+    120.68361000000002,
+    23.10722
+],
+  "geometry": {"coordinates":[120.68361000000002,23.10722],"type":"Point"}
+}

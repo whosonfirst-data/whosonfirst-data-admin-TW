@@ -1,0 +1,81 @@
+{
+  "id": 1259707645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.33123,24.83257,121.33123,24.83257",
+    "geom:latitude":24.83257,
+    "geom:longitude":121.33123,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H13",
+    "gn:admin4_code":"68000130001.0",
+    "gn:asciiname":"Sanmin",
+    "gn:country_code":"TW",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670001,
+    "gn:latitude":24.83257,
+    "gn:longitude":121.33123,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanmin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shui-liu-tung",
+        "Sanmin",
+        "San-min"
+    ],
+    "name:zho_x_preferred":[
+        "San-min-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u4e09\u6c11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670001
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1738bb7359f516f8970ea343f57d2f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259707645,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1259707645,
+    "wof:lastmodified":1537708751,
+    "wof:name":"Sanmin",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.33123,
+    24.83257,
+    121.33123,
+    24.83257
+],
+  "geometry": {"coordinates":[121.33123000000001,24.83257],"type":"Point"}
+}

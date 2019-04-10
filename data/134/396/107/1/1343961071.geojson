@@ -1,0 +1,80 @@
+{
+  "id": 1343961071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.44667,22.88556,120.44667,22.88556",
+    "geom:latitude":22.88556,
+    "geom:longitude":120.44667,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E30",
+    "gn:admin4_code":"64000300016.0",
+    "gn:asciiname":"Qitingxiang",
+    "gn:country_code":"TW",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6600986,
+    "gn:latitude":22.88556,
+    "gn:longitude":120.44667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qitingxiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Citingsiang",
+        "Qitingxiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u65d7\u4ead\u5df7"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019i-t\u2019ing-hsiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6600986
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3e1458bec0c5900543659c3a41483978",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343961071,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1343961071,
+    "wof:lastmodified":1537709636,
+    "wof:name":"Qitingxiang",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.44667,
+    22.88556,
+    120.44667,
+    22.88556
+],
+  "geometry": {"coordinates":[120.44667,22.88556],"type":"Point"}
+}

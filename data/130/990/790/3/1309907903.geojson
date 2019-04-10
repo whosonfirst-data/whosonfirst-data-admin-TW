@@ -1,0 +1,82 @@
+{
+  "id": 1309907903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.63699,25.22151,121.63699,25.22151",
+    "geom:latitude":25.22151,
+    "geom:longitude":121.63699,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F25",
+    "gn:admin4_code":"65000270015.0",
+    "gn:asciiname":"Jinshan",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677981,
+    "gn:latitude":25.22151,
+    "gn:longitude":121.63699,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jinshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chin-pao-li",
+        "Chin-shan-chuang",
+        "Jinshan",
+        "Chin-shan"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679585,
+        102191569,
+        85632403,
+        1108756871,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677981,
+        "wk:page":"Jinshan_District%2C_New_Taipei"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"434bfec50cbbb8ed5154b3a564be2a31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309907903,
+            "macrocounty_id":1108756871,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1309907903,
+    "wof:lastmodified":1537709338,
+    "wof:name":"Jinshan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.63699,
+    25.22151,
+    121.63699,
+    25.22151
+],
+  "geometry": {"coordinates":[121.63699,25.22151],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209119069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.32278,22.89056,120.32278,22.89056",
+    "geom:latitude":22.89056,
+    "geom:longitude":120.32278,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E23",
+    "gn:admin4_code":"64000230009.0",
+    "gn:asciiname":"Dingcuo",
+    "gn:country_code":"TW",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667115,
+    "gn:latitude":22.89056,
+    "gn:longitude":120.32278,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingcuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9802\u539d"
+    ],
+    "name:zho_x_variant":[
+        "Ting-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667115
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"17102f1e4424ddb3f30e0da890427642",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209119069
+        }
+    ],
+    "wof:id":1209119069,
+    "wof:lastmodified":1537708542,
+    "wof:name":"Dingcuo",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.32278,
+    22.89056,
+    120.32278,
+    22.89056
+],
+  "geometry": {"coordinates":[120.32277999999999,22.89056],"type":"Point"}
+}

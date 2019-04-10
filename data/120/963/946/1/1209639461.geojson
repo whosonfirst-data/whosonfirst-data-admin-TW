@@ -1,0 +1,70 @@
+{
+  "id": 1209639461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.25972,23.56694,120.25972,23.56694",
+    "geom:latitude":23.56694,
+    "geom:longitude":120.25972,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P20",
+    "gn:admin4_code":"10009200004.0",
+    "gn:asciiname":"Huangcuoliao",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674466,
+    "gn:latitude":23.56694,
+    "gn:longitude":120.25972,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Huangcuoliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ec3\u539d\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Huang-ts\u2019o-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674466
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f2ccc5c6275fdcf4036bddf73fc27bf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209639461
+        }
+    ],
+    "wof:id":1209639461,
+    "wof:lastmodified":1537709043,
+    "wof:name":"Huangcuoliao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.25972,
+    23.56694,
+    120.25972,
+    23.56694
+],
+  "geometry": {"coordinates":[120.25972,23.56694],"type":"Point"}
+}

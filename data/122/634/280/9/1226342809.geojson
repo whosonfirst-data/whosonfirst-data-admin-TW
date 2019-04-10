@@ -1,0 +1,84 @@
+{
+  "id": 1226342809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.65134,24.12662,121.65134,24.12662",
+    "geom:latitude":24.12662,
+    "geom:longitude":121.65134,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U04",
+    "gn:admin4_code":"10015040001.0",
+    "gn:asciiname":"Xincheng",
+    "gn:country_code":"TW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675200,
+    "gn:latitude":24.12662,
+    "gn:longitude":121.65134,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Xincheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yen-hai",
+        "Sincheng",
+        "Xincheng"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u57ce"
+    ],
+    "name:zho_x_variant":[
+        "Hsin-ch\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679607,
+        102191569,
+        85632403,
+        1108498083,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675200,
+        "wk:page":"Xincheng,_Hualien"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"093e9318788bd8559e805bbcd18c145f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226342809,
+            "macrocounty_id":1108498083,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1226342809,
+    "wof:lastmodified":1537709109,
+    "wof:name":"Xincheng",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.65134,
+    24.12662000000001,
+    121.65134,
+    24.12662000000001
+],
+  "geometry": {"coordinates":[121.65134,24.12662000000001],"type":"Point"}
+}

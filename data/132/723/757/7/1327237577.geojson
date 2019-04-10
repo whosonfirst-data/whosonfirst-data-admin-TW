@@ -1,0 +1,80 @@
+{
+  "id": 1327237577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5205,24.1233,120.5205,24.1233",
+    "geom:latitude":24.1233,
+    "geom:longitude":120.5205,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N03",
+    "gn:admin4_code":"10007030008.0",
+    "gn:asciiname":"Dongshishe",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667983,
+    "gn:latitude":24.1233,
+    "gn:longitude":120.5205,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongshishe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019an-she",
+        "Tung-she",
+        "T\u2019an-she-li",
+        "Tung-shih-t\u2019ou",
+        "\u6771\u52e2\u793e",
+        "Dongshishe",
+        "Dongshihshe",
+        "Tung-shih-she"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667983
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b9ff74801beb9b448535bb6ad33b788d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327237577,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1327237577,
+    "wof:lastmodified":1537708602,
+    "wof:name":"Dongshishe",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5205,
+    24.1233,
+    120.5205,
+    24.1233
+],
+  "geometry": {"coordinates":[120.5205,24.1233],"type":"Point"}
+}

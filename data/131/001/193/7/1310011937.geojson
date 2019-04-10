@@ -1,0 +1,79 @@
+{
+  "id": 1310011937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.50422,23.55742,120.50422,23.55742",
+    "geom:latitude":23.55742,
+    "geom:longitude":120.50422,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q04",
+    "gn:admin4_code":"10010040013.0",
+    "gn:asciiname":"Huijiacuo",
+    "gn:country_code":"TW",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6655126,
+    "gn:latitude":23.55742,
+    "gn:longitude":120.50422,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Huijiacuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hueijiacuo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6703\u5bb6\u539d"
+    ],
+    "name:zho_x_variant":[
+        "Hui-chia-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6655126
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6f0388ac9c84f51362d73b72b0bf1ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310011937,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1310011937,
+    "wof:lastmodified":1537709852,
+    "wof:name":"Huijiacuo",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.50422,
+    23.55742,
+    120.50422,
+    23.55742
+],
+  "geometry": {"coordinates":[120.50422,23.55742],"type":"Point"}
+}

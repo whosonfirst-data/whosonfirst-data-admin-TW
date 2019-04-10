@@ -1,0 +1,77 @@
+{
+  "id": 1276657769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8283,24.15214,120.8283,24.15214",
+    "geom:latitude":24.15214,
+    "geom:longitude":120.8283,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B19",
+    "gn:admin4_code":"66000190012.0",
+    "gn:asciiname":"Anying",
+    "gn:country_code":"TW",
+    "gn:dem":575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1991492,
+    "gn:latitude":24.15214,
+    "gn:longitude":120.8283,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Anying",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An-ling",
+        "An-ying"
+    ],
+    "name:zho_x_preferred":[
+        "\u6697\u5f71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1991492
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2c56f9c268e0c0165bfb2779e0221b59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276657769,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1276657769,
+    "wof:lastmodified":1537709450,
+    "wof:name":"Anying",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8283,
+    24.15214,
+    120.8283,
+    24.15214
+],
+  "geometry": {"coordinates":[120.8283,24.15214],"type":"Point"}
+}

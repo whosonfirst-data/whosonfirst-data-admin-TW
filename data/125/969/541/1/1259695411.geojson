@@ -1,0 +1,77 @@
+{
+  "id": 1259695411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.50595,25.21368,121.50595,25.21368",
+    "geom:latitude":25.21368,
+    "geom:longitude":121.50595,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F30",
+    "gn:admin4_code":"65000210012.0",
+    "gn:asciiname":"Guizishan",
+    "gn:country_code":"TW",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673403,
+    "gn:latitude":25.21368,
+    "gn:longitude":121.50595,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Guizishan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gueizihshan",
+        "Kuei-tzu-shan"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f9c\u5b50\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673403
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2cc945c4ab66467aeb0a2666f1bd2b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259695411,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1259695411,
+    "wof:lastmodified":1537708969,
+    "wof:name":"Guizishan",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.50595,
+    25.21368,
+    121.50595,
+    25.21368
+],
+  "geometry": {"coordinates":[121.50595,25.21368],"type":"Point"}
+}

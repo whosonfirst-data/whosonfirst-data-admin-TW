@@ -1,0 +1,80 @@
+{
+  "id": 1226658989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.18389,22.90028,120.18389,22.90028",
+    "geom:latitude":22.90028,
+    "geom:longitude":120.18389,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E26",
+    "gn:admin4_code":"64000260011.0",
+    "gn:asciiname":"Qieding",
+    "gn:country_code":"TW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678573,
+    "gn:latitude":22.90028,
+    "gn:longitude":120.18389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qieding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cieding",
+        "Qieding"
+    ],
+    "name:zho_x_preferred":[
+        "\u8304\u8423"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ieh-ting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678573
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"47dc2db5bb2410fdb6cb5b8b06b42519",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226658989,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1226658989,
+    "wof:lastmodified":1537709376,
+    "wof:name":"Qieding",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.18389,
+    22.90028,
+    120.18389,
+    22.90028
+],
+  "geometry": {"coordinates":[120.18389000000001,22.90028],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293304145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.58542,24.95416,121.58542,24.95416",
+    "geom:latitude":24.95416,
+    "geom:longitude":121.58542,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F07",
+    "gn:admin4_code":"65000060024.0",
+    "gn:asciiname":"Liufenzi",
+    "gn:country_code":"TW",
+    "gn:dem":302,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672731,
+    "gn:latitude":24.95416,
+    "gn:longitude":121.58542,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liufenzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liu-fen",
+        "Liufenzi",
+        "Lioufenzih",
+        "Liu-fen-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u516d\u5206\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672731
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"71b42db26c5cdd0b9f7d2df088696219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293304145,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1293304145,
+    "wof:lastmodified":1537708924,
+    "wof:name":"Liufenzi",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.58542,
+    24.95416,
+    121.58542,
+    24.95416
+],
+  "geometry": {"coordinates":[121.58542,24.95416],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1293224655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.2225,24.97722,121.2225,24.97722",
+    "geom:latitude":24.97722,
+    "geom:longitude":121.2225,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H03",
+    "gn:admin4_code":"68000020054.0",
+    "gn:asciiname":"Xingnan",
+    "gn:country_code":"TW",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675059,
+    "gn:latitude":24.97722,
+    "gn:longitude":121.2225,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xingnan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsing-kao-li",
+        "Hsing-kuo-li",
+        "Hsing-kuo",
+        "Xingnan",
+        "Singnan",
+        "Hsing-nan"
+    ],
+    "name:zho_x_preferred":[
+        "\u8208\u5357"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675059
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7e6037ea2c6e72d3afa36d9cd48c6393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293224655,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1293224655,
+    "wof:lastmodified":1537709094,
+    "wof:name":"Xingnan",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.2225,
+    24.97722000000001,
+    121.2225,
+    24.97722000000001
+],
+  "geometry": {"coordinates":[121.2225,24.97722000000001],"type":"Point"}
+}

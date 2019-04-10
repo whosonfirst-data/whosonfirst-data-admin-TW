@@ -1,0 +1,78 @@
+{
+  "id": 1344263077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.87875,24.69612,120.87875,24.69612",
+    "geom:latitude":24.69612,
+    "geom:longitude":120.87875,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040023.0",
+    "gn:asciiname":"Zhaonan",
+    "gn:country_code":"TW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646046,
+    "gn:latitude":24.69612,
+    "gn:longitude":120.87875,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhaonan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhaonan",
+        "Zhaonan",
+        "Chao-nan"
+    ],
+    "name:zho_x_preferred":[
+        "\u7167\u5357"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646046
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1cfdcf4d4247d048a4d59cb1bb22c7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344263077,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1344263077,
+    "wof:lastmodified":1537709717,
+    "wof:name":"Zhaonan",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.87875,
+    24.69612,
+    120.87875,
+    24.69612
+],
+  "geometry": {"coordinates":[120.87875,24.69612],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226042857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.29572,23.64744,120.29572,23.64744",
+    "geom:latitude":23.64744,
+    "geom:longitude":120.29572,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P17",
+    "gn:admin4_code":"10009170009.0",
+    "gn:asciiname":"Hedong",
+    "gn:country_code":"TW",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6655413,
+    "gn:latitude":23.64744,
+    "gn:longitude":120.29572,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho-tung"
+    ],
+    "name:zho_x_preferred":[
+        "\u5408\u6771"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6655413
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d2ac815e4bece8e5a94de74c89cfe32f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226042857,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1226042857,
+    "wof:lastmodified":1537709855,
+    "wof:name":"Hedong",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.29572,
+    23.64744,
+    120.29572,
+    23.64744
+],
+  "geometry": {"coordinates":[120.29572,23.64744],"type":"Point"}
+}

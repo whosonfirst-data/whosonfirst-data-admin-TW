@@ -1,0 +1,70 @@
+{
+  "id": 1209215119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.27389,24.12444,121.27389,24.12444",
+    "geom:latitude":24.12444,
+    "geom:longitude":121.27389,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M13",
+    "gn:admin4_code":"10008130007.0",
+    "gn:asciiname":"Kunyang",
+    "gn:country_code":"TW",
+    "gn:dem":2994,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673265,
+    "gn:latitude":24.12444,
+    "gn:longitude":121.27389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kunyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6606\u967d"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019un-yang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673265
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a745cc1bb96c1847875365b36bdda671",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209215119
+        }
+    ],
+    "wof:id":1209215119,
+    "wof:lastmodified":1537708960,
+    "wof:name":"Kunyang",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.27389,
+    24.12444,
+    121.27389,
+    24.12444
+],
+  "geometry": {"coordinates":[121.27388999999999,24.12444],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226042879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.58889,24.2975,120.58889,24.2975",
+    "geom:latitude":24.2975,
+    "geom:longitude":120.58889,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B12",
+    "gn:admin4_code":"66000120024.0",
+    "gn:asciiname":"Jingbu",
+    "gn:country_code":"TW",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678135,
+    "gn:latitude":24.2975,
+    "gn:longitude":120.58889,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jingbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ching-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u83c1\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678135
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e472189beb025a697c9c25eaa41d1bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226042879,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1226042879,
+    "wof:lastmodified":1537709347,
+    "wof:name":"Jingbu",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.58889,
+    24.2975,
+    120.58889,
+    24.2975
+],
+  "geometry": {"coordinates":[120.58889000000001,24.2975],"type":"Point"}
+}

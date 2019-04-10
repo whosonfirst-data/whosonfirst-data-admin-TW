@@ -1,0 +1,80 @@
+{
+  "id": 890467559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.66145,24.15926,120.66145,24.15926",
+    "geom:latitude":24.15926,
+    "geom:longitude":120.66145,
+    "gn:country":"TW",
+    "gn:fcode":"ADM2",
+    "gn:pop":1050000,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Tai Chung Municipality"
+    ],
+    "name:zho_x_preferred":[
+        "\u81fa\u4e2d\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u53f0\u4e2d\u5e02",
+        "T\u2019ai-chung Shih"
+    ],
+    "qs:name":"Taichung",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"12",
+    "src:population":"geonames",
+    "wd:wordcount":6446,
+    "wof:belongsto":[
+        85679617,
+        102191569,
+        85632403,
+        1108497005,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668392,
+        "qs:id":557987,
+        "wd:id":"Q245023",
+        "wk:page":"Taichung"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053654,
+    "wof:geomhash":"1fde3057612be3217398411722c39d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "county_id":890467559,
+            "macrocounty_id":1108497005,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":890467559,
+    "wof:lastmodified":1527792893,
+    "wof:name":"Taichung",
+    "wof:parent_id":1108497005,
+    "wof:placetype":"county",
+    "wof:population":1050000,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.66145,
+    24.15926,
+    120.66145,
+    24.15926
+],
+  "geometry": {"coordinates":[120.66145,24.15926],"type":"Point"}
+}

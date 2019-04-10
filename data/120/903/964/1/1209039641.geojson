@@ -1,0 +1,74 @@
+{
+  "id": 1209039641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47083,24.08056,120.47083,24.08056",
+    "geom:latitude":24.08056,
+    "geom:longitude":120.47083,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N02",
+    "gn:admin4_code":"10007020021.0",
+    "gn:asciiname":"Qiguan",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678271,
+    "gn:latitude":24.08056,
+    "gn:longitude":120.47083,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qiguan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciguan"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019i-kuan-liao"
+    ],
+    "name:zho_x_variant":[
+        "\u65d7\u7ba1",
+        "Ch\u2019i-kuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678271
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"747e0d53c89f96f2ac0ddbf6e8bf86ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209039641
+        }
+    ],
+    "wof:id":1209039641,
+    "wof:lastmodified":1537709356,
+    "wof:name":"Qiguan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47083,
+    24.08056,
+    120.47083,
+    24.08056
+],
+  "geometry": {"coordinates":[120.47083000000001,24.08056],"type":"Point"}
+}

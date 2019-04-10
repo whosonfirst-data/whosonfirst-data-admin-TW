@@ -1,0 +1,82 @@
+{
+  "id": 1344163017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.29919,23.38948,121.29919,23.38948",
+    "geom:latitude":23.38948,
+    "geom:longitude":121.29919,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U13",
+    "gn:admin4_code":"10015130003.0",
+    "gn:asciiname":"Zhongping",
+    "gn:country_code":"TW",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677254,
+    "gn:latitude":23.38948,
+    "gn:longitude":121.29919,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e2d\u5e73",
+        "Zhongping",
+        "Jhongping"
+    ],
+    "name:zho_x_preferred":[
+        "Chung-p\u2019ing-she"
+    ],
+    "name:zho_x_variant":[
+        "Chung-p\u2019ing",
+        "\u4e2d\u5e73"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677254
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"648b33b25a26f94d195db8414e0c3aaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344163017,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1344163017,
+    "wof:lastmodified":1537709278,
+    "wof:name":"Zhongping",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.29919,
+    23.38948,
+    121.29919,
+    23.38948
+],
+  "geometry": {"coordinates":[121.29919,23.38948],"type":"Point"}
+}

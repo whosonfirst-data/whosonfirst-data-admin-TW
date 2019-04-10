@@ -1,0 +1,77 @@
+{
+  "id": 1242897935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.37444,22.92472,120.37444,22.92472",
+    "geom:latitude":22.92472,
+    "geom:longitude":120.37444,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R30",
+    "gn:admin4_code":"67000300006.0",
+    "gn:asciiname":"Wuziliao",
+    "gn:country_code":"TW",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602135,
+    "gn:latitude":22.92472,
+    "gn:longitude":120.37444,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wuziliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wuzihliao",
+        "Wu-tzu-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u4ed4\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602135
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7126e3dbe7ab74641d08dedb36e8e2e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242897935,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1242897935,
+    "wof:lastmodified":1537709651,
+    "wof:name":"Wuziliao",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.37444,
+    22.92472,
+    120.37444,
+    22.92472
+],
+  "geometry": {"coordinates":[120.37444000000001,22.92472],"type":"Point"}
+}

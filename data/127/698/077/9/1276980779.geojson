@@ -1,0 +1,78 @@
+{
+  "id": 1276980779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86254,22.08669,120.86254,22.08669",
+    "geom:latitude":22.08669,
+    "geom:longitude":120.86254,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T24",
+    "gn:admin4_code":"10013240007.0",
+    "gn:asciiname":"Nanshanlu",
+    "gn:country_code":"TW",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671636,
+    "gn:latitude":22.08669,
+    "gn:longitude":120.86254,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nanshanlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00fc-lan-lan",
+        "Nan-shan-lu",
+        "Nanshanlu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5c71\u8def"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671636
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4cc52e6687f0afd4b28563d5141fd322",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276980779,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1276980779,
+    "wof:lastmodified":1537708856,
+    "wof:name":"Nanshanlu",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86254,
+    22.08669,
+    120.86254,
+    22.08669
+],
+  "geometry": {"coordinates":[120.86254,22.08669],"type":"Point"}
+}

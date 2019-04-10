@@ -1,0 +1,78 @@
+{
+  "id": 1260083465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.31167,22.76917,120.31167,22.76917",
+    "geom:latitude":22.76917,
+    "geom:longitude":120.31167,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E20",
+    "gn:admin4_code":"64000200009.0",
+    "gn:asciiname":"Bixiu",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6601776,
+    "gn:latitude":22.76917,
+    "gn:longitude":120.31167,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bixiu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nei-chuang",
+        "Bisiou",
+        "Pi-hsiu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7b46\u79c0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6601776
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f63f3df00c69577f83b402624a9a51ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260083465,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1260083465,
+    "wof:lastmodified":1537709644,
+    "wof:name":"Bixiu",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.31167,
+    22.76917000000001,
+    120.31167,
+    22.76917000000001
+],
+  "geometry": {"coordinates":[120.31167000000001,22.76917000000001],"type":"Point"}
+}

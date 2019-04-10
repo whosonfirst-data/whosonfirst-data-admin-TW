@@ -1,0 +1,79 @@
+{
+  "id": 1309719425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.45197,25.24041,121.45197,25.24041",
+    "geom:latitude":25.24041,
+    "geom:longitude":121.45197,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F27",
+    "gn:admin4_code":"65000100002.0",
+    "gn:asciiname":"Liukuaicuo",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672715,
+    "gn:latitude":25.24041,
+    "gn:longitude":121.45197,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liukuaicuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lioukuaicuo"
+    ],
+    "name:zho_x_preferred":[
+        "\u516d\u584a\u539d"
+    ],
+    "name:zho_x_variant":[
+        "Liu-k\u2019uai-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672715
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"86c63b5b6954dedee4f3d1380a12a6e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309719425,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1309719425,
+    "wof:lastmodified":1537708923,
+    "wof:name":"Liukuaicuo",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.45197,
+    25.24041,
+    121.45197,
+    25.24041
+],
+  "geometry": {"coordinates":[121.45197,25.24041],"type":"Point"}
+}

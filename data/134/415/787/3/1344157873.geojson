@@ -1,0 +1,77 @@
+{
+  "id": 1344157873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.70917,23.60583,120.70917,23.60583",
+    "geom:latitude":23.60583,
+    "geom:longitude":120.70917,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P07",
+    "gn:admin4_code":"10009070014.0",
+    "gn:asciiname":"Shibi",
+    "gn:country_code":"TW",
+    "gn:dem":1197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6579697,
+    "gn:latitude":23.60583,
+    "gn:longitude":120.70917,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shibi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihbi",
+        "Shih-pi"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u58c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6579697
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e3379c97f915b9c3676765ce742d9d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344157873,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1344157873,
+    "wof:lastmodified":1537709543,
+    "wof:name":"Shibi",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.70917,
+    23.60583,
+    120.70917,
+    23.60583
+],
+  "geometry": {"coordinates":[120.70917,23.60583],"type":"Point"}
+}

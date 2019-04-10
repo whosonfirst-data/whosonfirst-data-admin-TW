@@ -1,0 +1,76 @@
+{
+  "id": 1293789873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.10528,23.78972,121.10528,23.78972",
+    "geom:latitude":23.78972,
+    "geom:longitude":121.10528,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M12",
+    "gn:admin4_code":"10008120002.0",
+    "gn:asciiname":"Tasuoheikuo",
+    "gn:country_code":"TW",
+    "gn:dem":1376,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667718,
+    "gn:latitude":23.78972,
+    "gn:longitude":121.10528,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tasuoheikuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5854\u7d22\u9ed1\u6ff6"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019a-so-hei-k\u2019uo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667718
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f1b4323973fa671af93829b10108d2e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293789873,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1293789873,
+    "wof:lastmodified":1537708588,
+    "wof:name":"Tasuoheikuo",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.10528,
+    23.78972000000001,
+    121.10528,
+    23.78972000000001
+],
+  "geometry": {"coordinates":[121.10527999999999,23.78972000000001],"type":"Point"}
+}

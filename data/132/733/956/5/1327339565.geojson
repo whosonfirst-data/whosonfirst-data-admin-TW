@@ -1,0 +1,81 @@
+{
+  "id": 1327339565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.95652,24.68168,120.95652,24.68168",
+    "geom:latitude":24.68168,
+    "geom:longitude":120.95652,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K10",
+    "gn:admin4_code":"10005050002.0",
+    "gn:asciiname":"Neiwan",
+    "gn:country_code":"TW",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673106,
+    "gn:latitude":24.68168,
+    "gn:longitude":120.95652,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Neiwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nei-wan"
+    ],
+    "name:zho_x_preferred":[
+        "T\u2019ien-hsin-wu"
+    ],
+    "name:zho_x_variant":[
+        "Nei-wan-ts\u2019un",
+        "\u5167\u7063",
+        "Lan-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673106
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b530aa0a824bdcd3f3cf61d5841537ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327339565,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1327339565,
+    "wof:lastmodified":1537708948,
+    "wof:name":"Neiwan",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.95652,
+    24.68168,
+    120.95652,
+    24.68168
+],
+  "geometry": {"coordinates":[120.95652,24.68168],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1277109717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.92917,24.845,120.92917,24.845",
+    "geom:latitude":24.845,
+    "geom:longitude":120.92917,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"HSQ",
+    "gn:admin3_code":"O02",
+    "gn:admin4_code":"10018020024.0",
+    "gn:asciiname":"Nanliao",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671681,
+    "gn:latitude":24.845,
+    "gn:longitude":120.92917,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nanliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan-liao-pin",
+        "Nanliao",
+        "Nan-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679557,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671681
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ab6cffd7dacbd18eac8760011f4e86d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1277109717,
+            "macroregion_id":1108808557,
+            "region_id":85679557
+        }
+    ],
+    "wof:id":1277109717,
+    "wof:lastmodified":1537708858,
+    "wof:name":"Nanliao",
+    "wof:parent_id":85679557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.92917,
+    24.845,
+    120.92917,
+    24.845
+],
+  "geometry": {"coordinates":[120.92917,24.845],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209618205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2475,22.78472,120.2475,22.78472",
+    "geom:latitude":22.78472,
+    "geom:longitude":120.2475,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E28",
+    "gn:admin4_code":"64000280002.0",
+    "gn:asciiname":"Mituo",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671902,
+    "gn:latitude":22.78472,
+    "gn:longitude":120.2475,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Mituo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Mi-t\u2019o-chuang"
+    ],
+    "name:zho_x_variant":[
+        "\u5f4c\u9640",
+        "Mi-t\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671902
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"581bd59484aaa455d1c1f5915ea437c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209618205
+        }
+    ],
+    "wof:id":1209618205,
+    "wof:lastmodified":1537708870,
+    "wof:name":"Mituo",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2475,
+    22.78472,
+    120.2475,
+    22.78472
+],
+  "geometry": {"coordinates":[120.2475,22.78472],"type":"Point"}
+}

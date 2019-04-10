@@ -1,0 +1,72 @@
+{
+  "id": 1209421129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86419,24.65874,120.86419,24.65874",
+    "geom:latitude":24.65874,
+    "geom:longitude":120.86419,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K11",
+    "gn:admin4_code":"10005150007.0",
+    "gn:asciiname":"Haibuzi",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676306,
+    "gn:latitude":24.65874,
+    "gn:longitude":120.86419,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Haibuzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haibuzih",
+        "Haibuzi",
+        "Hai-pu-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u57d4\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676306
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"63258fcfb44b585df4b1fb581336fbe1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209421129
+        }
+    ],
+    "wof:id":1209421129,
+    "wof:lastmodified":1537709204,
+    "wof:name":"Haibuzi",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86419,
+    24.65874,
+    120.86419,
+    24.65874
+],
+  "geometry": {"coordinates":[120.86418999999999,24.65874],"type":"Point"}
+}

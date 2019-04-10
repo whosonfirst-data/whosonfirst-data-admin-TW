@@ -1,0 +1,80 @@
+{
+  "id": 1276800405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.15444,23.06944,121.15444,23.06944",
+    "geom:latitude":23.06944,
+    "geom:longitude":121.15444,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V13",
+    "gn:admin4_code":"10014120005.0",
+    "gn:asciiname":"Zhongshi",
+    "gn:country_code":"TW",
+    "gn:dem":348,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602458,
+    "gn:latitude":23.06944,
+    "gn:longitude":121.15444,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhongshih",
+        "Chung-shih"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u77f3"
+    ],
+    "name:zho_x_variant":[
+        "Hung-shih-t\u2019ou-she"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602458
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"384303accc7772801ee1ad74887b6d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276800405,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1276800405,
+    "wof:lastmodified":1537709660,
+    "wof:name":"Zhongshi",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.15444,
+    23.06944,
+    121.15444,
+    23.06944
+],
+  "geometry": {"coordinates":[121.15443999999999,23.06944],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1260285221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.31853,24.89526,121.31853,24.89526",
+    "geom:latitude":24.89526,
+    "geom:longitude":121.31853,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H02",
+    "gn:admin4_code":"68000030006.0",
+    "gn:asciiname":"Zhongzhuang",
+    "gn:country_code":"TW",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677445,
+    "gn:latitude":24.89526,
+    "gn:longitude":121.31853,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhongjhuang",
+        "Zhongzhuang",
+        "Chung-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u838a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677445
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"25533694d4170ab2a3215c970ea60485",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260285221,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1260285221,
+    "wof:lastmodified":1537709294,
+    "wof:name":"Zhongzhuang",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.31853,
+    24.89526,
+    121.31853,
+    24.89526
+],
+  "geometry": {"coordinates":[121.31853,24.89526],"type":"Point"}
+}

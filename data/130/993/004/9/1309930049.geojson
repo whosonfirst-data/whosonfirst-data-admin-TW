@@ -1,0 +1,77 @@
+{
+  "id": 1309930049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.45944,23.40694,120.45944,23.40694",
+    "geom:latitude":23.40694,
+    "geom:longitude":120.45944,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q13",
+    "gn:admin4_code":"10010120022.0",
+    "gn:asciiname":"Hongtuyuan",
+    "gn:country_code":"TW",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6574678,
+    "gn:latitude":23.40694,
+    "gn:longitude":120.45944,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hongtuyuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7d05\u571f\u5712"
+    ],
+    "name:zho_x_variant":[
+        "Hung-t\u2019u-wei",
+        "Hung-t\u2019u-y\u00fcan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6574678
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bec13d375ad71cbc9868205d2711726e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309930049,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1309930049,
+    "wof:lastmodified":1537709534,
+    "wof:name":"Hongtuyuan",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.45944,
+    23.40694,
+    120.45944,
+    23.40694
+],
+  "geometry": {"coordinates":[120.45944,23.40694],"type":"Point"}
+}

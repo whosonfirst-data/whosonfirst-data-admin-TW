@@ -1,0 +1,77 @@
+{
+  "id": 1276229689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.73472,24.89667,121.73472,24.89667",
+    "geom:latitude":24.89667,
+    "geom:longitude":121.73472,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F10",
+    "gn:admin4_code":"65000200004.0",
+    "gn:asciiname":"Sanfenzi",
+    "gn:country_code":"TW",
+    "gn:dem":356,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670130,
+    "gn:latitude":24.89667,
+    "gn:longitude":121.73472,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanfenzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanfenzih",
+        "San-fen-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u4efd\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670130
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"94e4e1d1177c53f0732812513e29f0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276229689,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1276229689,
+    "wof:lastmodified":1537708761,
+    "wof:name":"Sanfenzi",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.73472,
+    24.89667,
+    121.73472,
+    24.89667
+],
+  "geometry": {"coordinates":[121.73472,24.89667],"type":"Point"}
+}

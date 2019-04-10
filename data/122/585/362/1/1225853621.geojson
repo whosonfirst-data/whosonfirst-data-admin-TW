@@ -1,0 +1,82 @@
+{
+  "id": 1225853621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.34862,22.71282,120.34862,22.71282",
+    "geom:latitude":22.71282,
+    "geom:longitude":120.34862,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E17",
+    "gn:admin4_code":"64000170007.0",
+    "gn:asciiname":"Houzhuang",
+    "gn:country_code":"TW",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675938,
+    "gn:latitude":22.71282,
+    "gn:longitude":120.34862,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Houzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hou-chuang",
+        "\u5f8c\u5e84",
+        "Houjhuang",
+        "Houzhuang"
+    ],
+    "name:zho_x_preferred":[
+        "Hou-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u5f8c\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675938
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3588e4f6eaa8ef0f141f87e643d8da9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225853621,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1225853621,
+    "wof:lastmodified":1537709177,
+    "wof:name":"Houzhuang",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.34862,
+    22.71282,
+    120.34862,
+    22.71282
+],
+  "geometry": {"coordinates":[120.34862,22.71282],"type":"Point"}
+}

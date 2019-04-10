@@ -1,0 +1,76 @@
+{
+  "id": 1327158209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.13389,23.20694,120.13389,23.20694",
+    "geom:latitude":23.20694,
+    "geom:longitude":120.13389,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R15",
+    "gn:admin4_code":"67000160012.0",
+    "gn:asciiname":"Kouliao",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673636,
+    "gn:latitude":23.20694,
+    "gn:longitude":120.13389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kouliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u53e3\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019ou-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673636
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c80c88601eb9b3a1538da55b7144c355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327158209,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1327158209,
+    "wof:lastmodified":1537708984,
+    "wof:name":"Kouliao",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.13389,
+    23.20694,
+    120.13389,
+    23.20694
+],
+  "geometry": {"coordinates":[120.13388999999999,23.20694],"type":"Point"}
+}

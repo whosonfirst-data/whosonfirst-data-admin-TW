@@ -1,0 +1,85 @@
+{
+  "id": 1259792323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.42018,22.62764,120.42018,22.62764",
+    "geom:latitude":22.62764,
+    "geom:longitude":120.42018,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E14",
+    "gn:admin4_code":"64000140021.0",
+    "gn:asciiname":"Xiliaocun",
+    "gn:country_code":"TW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675243,
+    "gn:latitude":22.62764,
+    "gn:longitude":120.42018,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiliaocun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6eaa\u5bee\u6751",
+        "Hsi-liao",
+        "Xiliaocun",
+        "Siliaocun"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019i-liao"
+    ],
+    "name:zho_x_variant":[
+        "Hsi-liao-ts\u2019un",
+        "Ch\u2019i-pu-liao",
+        "Ch\u2019i-liao-ts\u2019un",
+        "\u6eaa\u5bee\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675243
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"91b98457aa9db8a2c29577ec7c8580c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259792323,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1259792323,
+    "wof:lastmodified":1537709113,
+    "wof:name":"Xiliaocun",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.42018,
+    22.62764,
+    120.42018,
+    22.62764
+],
+  "geometry": {"coordinates":[120.42018,22.62764],"type":"Point"}
+}

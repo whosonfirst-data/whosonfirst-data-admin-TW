@@ -1,0 +1,79 @@
+{
+  "id": 1209917285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.52139,23.00528,120.52139,23.00528",
+    "geom:latitude":23.00528,
+    "geom:longitude":120.52139,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E35",
+    "gn:admin4_code":"64000350002.0",
+    "gn:asciiname":"Goushikeng",
+    "gn:country_code":"TW",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6586657,
+    "gn:latitude":23.00528,
+    "gn:longitude":120.52139,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Goushikeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Goushihkeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u72d7\u5c4e\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Kou-shih-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6586657
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6e204d305cc1065a3a2305c1d62cfc3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209917285,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1209917285,
+    "wof:lastmodified":1537709568,
+    "wof:name":"Goushikeng",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.52139,
+    23.00528,
+    120.52139,
+    23.00528
+],
+  "geometry": {"coordinates":[120.52139,23.00528],"type":"Point"}
+}

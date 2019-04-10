@@ -1,0 +1,78 @@
+{
+  "id": 1310029853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.10056,23.04083,120.10056,23.04083",
+    "geom:latitude":23.04083,
+    "geom:longitude":120.10056,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"D06",
+    "gn:admin4_code":"67000350031.0",
+    "gn:asciiname":"Nanhailiao",
+    "gn:country_code":"TW",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254134,
+    "gn:latitude":23.04083,
+    "gn:longitude":120.10056,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nanhailiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan-hai-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u6d77\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679553,
+        102191569,
+        85632403,
+        1108756869,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254134
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0990941b75403d95ee919ed05decf8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310029853,
+            "macrocounty_id":1108756869,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1310029853,
+    "wof:lastmodified":1537709498,
+    "wof:name":"Nanhailiao",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.10056000000002,
+    23.04083,
+    120.10056000000002,
+    23.04083
+],
+  "geometry": {"coordinates":[120.10056000000002,23.04083],"type":"Point"}
+}

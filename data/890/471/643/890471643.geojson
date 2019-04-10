@@ -1,0 +1,72 @@
+{
+  "id": 890471643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.38887,22.826546,120.38887,22.826546",
+    "geom:latitude":22.826546,
+    "geom:longitude":120.38887,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u71d5\u5de2\u9109",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u9ad8\u96c4\u5e02",
+    "qs:photos":929,
+    "qs:photos_1k":188,
+    "qs:photos_9k":5,
+    "qs:photos_9r":7,
+    "qs:photos_all":1034,
+    "qs:photos_sr":10,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":114,
+    "wof:belongsto":[
+        85679547,
+        102191569,
+        85632403,
+        1108756877,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2305817,
+        "qs:id":224419,
+        "wd:id":"Q219147",
+        "wk:page":"Kaohsiung County"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053864,
+    "wof:geomhash":"1b676f14159e8bdb8ccf40f529466830",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "county_id":890471643,
+            "macrocounty_id":1108756877,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":890471643,
+    "wof:lastmodified":1527727124,
+    "wof:name":"\u71d5\u5de2\u9109",
+    "wof:parent_id":1108756877,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.38887,
+    22.826546,
+    120.38887,
+    22.826546
+],
+  "geometry": {"coordinates":[120.38887,22.826546],"type":"Point"}
+}

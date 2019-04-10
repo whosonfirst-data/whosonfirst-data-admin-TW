@@ -1,0 +1,76 @@
+{
+  "id": 1310601649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.14083,24.98389,121.14083,24.98389",
+    "geom:latitude":24.98389,
+    "geom:longitude":121.14083,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H12",
+    "gn:admin4_code":"68000120015.0",
+    "gn:asciiname":"Shangdaku",
+    "gn:country_code":"TW",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669755,
+    "gn:latitude":24.98389,
+    "gn:longitude":121.14083,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangdaku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e0a\u5927\u5800"
+    ],
+    "name:zho_x_variant":[
+        "Shang-ta-k\u2019u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669755
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c88f4955e648433c6c289ecf4cce2248",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310601649,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1310601649,
+    "wof:lastmodified":1537708732,
+    "wof:name":"Shangdaku",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.14083,
+    24.98389,
+    121.14083,
+    24.98389
+],
+  "geometry": {"coordinates":[121.14082999999999,24.98389],"type":"Point"}
+}

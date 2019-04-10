@@ -1,0 +1,70 @@
+{
+  "id": 890471019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.30659,23.130849,120.30659,23.130849",
+    "geom:latitude":23.130849,
+    "geom:longitude":120.30659,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u5584\u5316\u93ae",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u53f0\u5357\u5e02",
+    "qs:photos":1404,
+    "qs:photos_1k":284,
+    "qs:photos_9k":6,
+    "qs:photos_9r":7,
+    "qs:photos_all":1404,
+    "qs:photos_sr":12,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":670,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2302644,
+        "qs:id":424904,
+        "wd:id":"Q708672",
+        "wk:page":"Shanhua District"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053840,
+    "wof:geomhash":"6e7457303d2acd837cd70ffe02813def",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":890471019,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":890471019,
+    "wof:lastmodified":1527727126,
+    "wof:name":"\u5584\u5316\u93ae",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.30659,
+    23.130849,
+    120.30659,
+    23.130849
+],
+  "geometry": {"coordinates":[120.30659,23.130849],"type":"Point"}
+}

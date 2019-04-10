@@ -1,0 +1,77 @@
+{
+  "id": 1259489479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.10028,24.68528,121.10028,24.68528",
+    "geom:latitude":24.68528,
+    "geom:longitude":121.10028,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J02",
+    "gn:admin4_code":"10004020002.0",
+    "gn:asciiname":"Zaoshupai",
+    "gn:country_code":"TW",
+    "gn:dem":249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666866,
+    "gn:latitude":24.68528,
+    "gn:longitude":121.10028,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zaoshupai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Sao-shu-p\u2019ai"
+    ],
+    "name:zho_x_variant":[
+        "\u71e5\u6a39\u6392",
+        "Tsao-shu-p\u2019ai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666866
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bb7ffe3ca2cd7e9056137bba1dc1a227",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259489479,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1259489479,
+    "wof:lastmodified":1537708526,
+    "wof:name":"Zaoshupai",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.10028,
+    24.68528,
+    121.10028,
+    24.68528
+],
+  "geometry": {"coordinates":[121.10028,24.68528],"type":"Point"}
+}

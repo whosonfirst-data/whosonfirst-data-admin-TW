@@ -1,0 +1,79 @@
+{
+  "id": 1226443051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.57329,24.11302,120.57329,24.11302",
+    "geom:latitude":24.11302,
+    "geom:longitude":120.57329,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B24",
+    "gn:admin4_code":"66000240002.0",
+    "gn:asciiname":"Nanwangtian",
+    "gn:country_code":"TW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671539,
+    "gn:latitude":24.11302,
+    "gn:longitude":120.57329,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nanwangtian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan-wang-t\u2019ien"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u738b\u7530"
+    ],
+    "name:zho_x_variant":[
+        "Nan-wang-t\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671539
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"06d6afc776e0822799a6ff32026166b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226443051,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1226443051,
+    "wof:lastmodified":1537708849,
+    "wof:name":"Nanwangtian",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.57329,
+    24.11302,
+    120.57329,
+    24.11302
+],
+  "geometry": {"coordinates":[120.57329,24.11302],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343981939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8782,24.64158,120.8782,24.64158",
+    "geom:latitude":24.64158,
+    "geom:longitude":120.8782,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K10",
+    "gn:admin4_code":"10005050023.0",
+    "gn:asciiname":"Nangang",
+    "gn:country_code":"TW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6645884,
+    "gn:latitude":24.64158,
+    "gn:longitude":120.8782,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nangang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan-kang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u6e2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6645884
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c4e6afc8691bcb0252419e1fb0e583d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343981939,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1343981939,
+    "wof:lastmodified":1537709710,
+    "wof:name":"Nangang",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8782,
+    24.64158,
+    120.8782,
+    24.64158
+],
+  "geometry": {"coordinates":[120.87820000000001,24.64158],"type":"Point"}
+}

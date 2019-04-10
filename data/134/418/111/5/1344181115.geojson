@@ -1,0 +1,73 @@
+{
+  "id": 1344181115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5,23.86667,120.5,23.86667",
+    "geom:latitude":23.86667,
+    "geom:longitude":120.5,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N26",
+    "gn:admin4_code":"10007260014.0",
+    "gn:asciiname":"Beidouqiao",
+    "gn:country_code":"TW",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670692,
+    "gn:latitude":23.86667,
+    "gn:longitude":120.5,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Beidouqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pei-tou-ch\u2019iao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670692
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d729df2fbc4f7f44b1ecb658559c2ffd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344181115,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1344181115,
+    "wof:lastmodified":1537708797,
+    "wof:name":"Beidouqiao",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5,
+    23.86667000000001,
+    120.5,
+    23.86667000000001
+],
+  "geometry": {"coordinates":[120.5,23.86667000000001],"type":"Point"}
+}

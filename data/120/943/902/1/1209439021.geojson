@@ -1,0 +1,75 @@
+{
+  "id": 1209439021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.90583,24.75056,120.90583,24.75056",
+    "geom:latitude":24.75056,
+    "geom:longitude":120.90583,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"HSQ",
+    "gn:admin3_code":"O03",
+    "gn:admin4_code":"10018030022.0",
+    "gn:asciiname":"Yanshuigang",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665522,
+    "gn:latitude":24.75056,
+    "gn:longitude":120.90583,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yanshuigang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yen-shui-chiang",
+        "Yen-shui",
+        "Yanshueigang",
+        "Hsien-shui-kang",
+        "Yanshuigang",
+        "Yen-shui-kang"
+    ],
+    "name:zho_x_preferred":[
+        "\u9e7d\u6c34\u6e2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665522
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"071fb8ea31f9d7efb7ebd3a76d45a829",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209439021
+        }
+    ],
+    "wof:id":1209439021,
+    "wof:lastmodified":1537708441,
+    "wof:name":"Yanshuigang",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.90583,
+    24.75056,
+    120.90583,
+    24.75056
+],
+  "geometry": {"coordinates":[120.90582999999999,24.75056],"type":"Point"}
+}

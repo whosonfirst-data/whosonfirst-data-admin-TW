@@ -1,0 +1,77 @@
+{
+  "id": 1226149249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.39823,23.14946,121.39823,23.14946",
+    "geom:latitude":23.14946,
+    "geom:longitude":121.39823,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V02",
+    "gn:admin4_code":"10014020002.0",
+    "gn:asciiname":"Weishalu",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672021,
+    "gn:latitude":23.14946,
+    "gn:longitude":121.39823,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Weishalu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mei-sha-lu",
+        "Wei-sha-lu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fae\u6c99\u9e7f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672021
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9ffd03047d594cd0414cb58b85e91128",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226149249,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1226149249,
+    "wof:lastmodified":1537708878,
+    "wof:name":"Weishalu",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.39823,
+    23.14946,
+    121.39823,
+    23.14946
+],
+  "geometry": {"coordinates":[121.39823,23.14946],"type":"Point"}
+}

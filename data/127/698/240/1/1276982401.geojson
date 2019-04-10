@@ -1,0 +1,81 @@
+{
+  "id": 1276982401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.4692,25.05749,121.4692,25.05749",
+    "geom:latitude":25.05749,
+    "geom:longitude":121.4692,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F05",
+    "gn:admin4_code":"65000020003.0",
+    "gn:asciiname":"Touqian",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674957,
+    "gn:latitude":25.05749,
+    "gn:longitude":121.4692,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Touqian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toucian",
+        "Hsin-kuan"
+    ],
+    "name:zho_x_preferred":[
+        "\u982d\u524d"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ou-ch\u2019ien-li",
+        "T\u2019ou-ch\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674957
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"eadbf4c784493cba1ee7ff563edeaabb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276982401,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1276982401,
+    "wof:lastmodified":1537709085,
+    "wof:name":"Touqian",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.4692,
+    25.05749,
+    121.4692,
+    25.05749
+],
+  "geometry": {"coordinates":[121.4692,25.05749],"type":"Point"}
+}

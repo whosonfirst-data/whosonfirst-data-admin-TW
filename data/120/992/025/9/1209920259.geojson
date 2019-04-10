@@ -1,0 +1,77 @@
+{
+  "id": 1209920259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.41288,23.59969,121.41288,23.59969",
+    "geom:latitude":23.59969,
+    "geom:longitude":121.41288,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U02",
+    "gn:admin4_code":"10015070009.0",
+    "gn:asciiname":"Jialiwan",
+    "gn:country_code":"TW",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678823,
+    "gn:latitude":23.59969,
+    "gn:longitude":121.41288,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jialiwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chia-lai-wan",
+        "Chia-li-wan"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u79ae\u7063"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678823
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8a8950a144c35e3345e06e2899efa2fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209920259,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1209920259,
+    "wof:lastmodified":1537709392,
+    "wof:name":"Jialiwan",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.41288,
+    23.59969,
+    121.41288,
+    23.59969
+],
+  "geometry": {"coordinates":[121.41288,23.59969],"type":"Point"}
+}

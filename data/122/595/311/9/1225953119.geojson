@@ -1,0 +1,76 @@
+{
+  "id": 1225953119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.25389,22.64361,120.25389,22.64361",
+    "geom:latitude":22.64361,
+    "geom:longitude":120.25389,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E02",
+    "gn:admin4_code":"64000020038.0",
+    "gn:asciiname":"Chaishan",
+    "gn:country_code":"TW",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254676,
+    "gn:latitude":22.64361,
+    "gn:longitude":120.25389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chaishan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u67f4\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ai-shan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254676
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ac91e7ba9194884c08610b6b104add9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225953119,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1225953119,
+    "wof:lastmodified":1537709503,
+    "wof:name":"Chaishan",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.25388999999998,
+    22.64361,
+    120.25388999999998,
+    22.64361
+],
+  "geometry": {"coordinates":[120.25388999999998,22.64361],"type":"Point"}
+}

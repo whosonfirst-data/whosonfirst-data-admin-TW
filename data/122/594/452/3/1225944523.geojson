@@ -1,0 +1,81 @@
+{
+  "id": 1225944523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.55669,25.10651,121.55669,25.10651",
+    "geom:latitude":25.10651,
+    "geom:longitude":121.55669,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A15",
+    "gn:admin4_code":"63000110051.0",
+    "gn:asciiname":"Waishuangxi",
+    "gn:country_code":"TW",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666258,
+    "gn:latitude":25.10651,
+    "gn:longitude":121.55669,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Waishuangxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waishuangsi",
+        "Waishuangxi",
+        "Wai-shuang-hsi"
+    ],
+    "name:zho_x_preferred":[
+        "Wai-shuang-ch\u2019i"
+    ],
+    "name:zho_x_variant":[
+        "\u5916\u96d9\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666258
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"46c0db17653d534fe094ebfe1dfc045e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225944523,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1225944523,
+    "wof:lastmodified":1537708489,
+    "wof:name":"Waishuangxi",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.55669,
+    25.10651,
+    121.55669,
+    25.10651
+],
+  "geometry": {"coordinates":[121.55669,25.10651],"type":"Point"}
+}

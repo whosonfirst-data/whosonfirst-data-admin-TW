@@ -1,0 +1,82 @@
+{
+  "id": 1343459177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.30303,23.7532,120.30303,23.7532",
+    "geom:latitude":23.7532,
+    "geom:longitude":120.30303,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P12",
+    "gn:admin4_code":"10009120009.0",
+    "gn:asciiname":"Xincuozi",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674777,
+    "gn:latitude":23.7532,
+    "gn:longitude":120.30303,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xincuozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-wu",
+        "Xincuozi",
+        "Sincuozih"
+    ],
+    "name:zho_x_preferred":[
+        "Hsing-ts\u2019o-tzu"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u539d\u5b50",
+        "Hsin-ts\u2019o-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674777
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"618c7ac8278e74f6359b419e301d802d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343459177,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1343459177,
+    "wof:lastmodified":1537709069,
+    "wof:name":"Xincuozi",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.30303,
+    23.7532,
+    120.30303,
+    23.7532
+],
+  "geometry": {"coordinates":[120.30303000000001,23.7532],"type":"Point"}
+}

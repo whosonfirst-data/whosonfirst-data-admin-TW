@@ -1,0 +1,77 @@
+{
+  "id": 1327467055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.88704,24.32904,120.88704,24.32904",
+    "geom:latitude":24.32904,
+    "geom:longitude":120.88704,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K16",
+    "gn:admin4_code":"10005070011.0",
+    "gn:asciiname":"Dake",
+    "gn:country_code":"TW",
+    "gn:dem":562,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992677,
+    "gn:latitude":24.32904,
+    "gn:longitude":120.88704,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dake",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u514b"
+    ],
+    "name:zho_x_variant":[
+        "Ta-ch\u2019\u00fceh",
+        "Ta-k\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992677
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4a6ce7ea85544b9238acdc839f65bd34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327467055,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1327467055,
+    "wof:lastmodified":1537709463,
+    "wof:name":"Dake",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.88703999999998,
+    24.32904,
+    120.88703999999998,
+    24.32904
+],
+  "geometry": {"coordinates":[120.88703999999998,24.32904],"type":"Point"}
+}

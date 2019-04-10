@@ -1,0 +1,74 @@
+{
+  "id": 1209415651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.43306,23.405,120.43306,23.405",
+    "geom:latitude":23.405,
+    "geom:longitude":120.43306,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R03",
+    "gn:admin4_code":"67000030022.0",
+    "gn:asciiname":"Waqingkeng",
+    "gn:country_code":"TW",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666058,
+    "gn:latitude":23.405,
+    "gn:longitude":120.43306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Waqingkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wacingkeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u78d8\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Wa-yao-k\u2019eng",
+        "Wa-ch\u2019ing-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666058
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bc4cc5808c9c01261b4ea53b1ac4d7af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209415651
+        }
+    ],
+    "wof:id":1209415651,
+    "wof:lastmodified":1537708476,
+    "wof:name":"Waqingkeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.43306,
+    23.405,
+    120.43306,
+    23.405
+],
+  "geometry": {"coordinates":[120.43306,23.405],"type":"Point"}
+}

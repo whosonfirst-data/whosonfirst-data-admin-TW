@@ -1,0 +1,81 @@
+{
+  "id": 1310601639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.43776,23.87981,120.43776,23.87981",
+    "geom:latitude":23.87981,
+    "geom:longitude":120.43776,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N08",
+    "gn:admin4_code":"10007200026.0",
+    "gn:asciiname":"Luzhongxiang",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6644756,
+    "gn:latitude":23.87981,
+    "gn:longitude":120.43776,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Luzhongxiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lujhongsiang",
+        "Jen-tung-chuang",
+        "Lu-chung-hsiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u8def\u4e2d\u5df7"
+    ],
+    "name:zho_x_variant":[
+        "Ta-ch\u2019e-chuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6644756
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1173c0578490b6dd5147868d45dc7224",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310601639,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1310601639,
+    "wof:lastmodified":1537709702,
+    "wof:name":"Luzhongxiang",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.43776,
+    23.87981,
+    120.43776,
+    23.87981
+],
+  "geometry": {"coordinates":[120.43776,23.87981],"type":"Point"}
+}

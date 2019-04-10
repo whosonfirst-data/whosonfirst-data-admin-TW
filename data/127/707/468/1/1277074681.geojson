@@ -1,0 +1,73 @@
+{
+  "id": 1277074681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.73333,24.73333,121.73333,24.73333",
+    "geom:latitude":24.73333,
+    "geom:longitude":121.73333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G05",
+    "gn:admin4_code":"10002070003.0",
+    "gn:asciiname":"Zhenzimanli",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678884,
+    "gn:latitude":24.73333,
+    "gn:longitude":121.73333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhenzimanli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chen-tzu-man-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678884
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7e162cd34642b0aca8fc9ba6a5a844b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1277074681,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1277074681,
+    "wof:lastmodified":1537709397,
+    "wof:name":"Zhenzimanli",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.73333,
+    24.73333,
+    121.73333,
+    24.73333
+],
+  "geometry": {"coordinates":[121.73333,24.73333],"type":"Point"}
+}

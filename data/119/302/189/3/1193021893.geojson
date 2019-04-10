@@ -1,0 +1,79 @@
+{
+  "id": 1193021893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7339,24.10697,120.7339,24.10697",
+    "geom:latitude":24.10697,
+    "geom:longitude":120.7339,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B27",
+    "gn:admin4_code":"66000270017.0",
+    "gn:asciiname":"Tudigongkeng",
+    "gn:country_code":"TW",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993299,
+    "gn:latitude":24.10697,
+    "gn:longitude":120.7339,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tudigongkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019u-ti-kung-k\u2019eng"
+    ],
+    "name:zho_x_preferred":[
+        "\u571f\u5730\u516c\u5751"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019u-ti-kung-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993299
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"75ac49a5f3769a66731d6e7c24572420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193021893,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1193021893,
+    "wof:lastmodified":1537709478,
+    "wof:name":"Tudigongkeng",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7339,
+    24.10697,
+    120.7339,
+    24.10697
+],
+  "geometry": {"coordinates":[120.73390000000001,24.10697],"type":"Point"}
+}

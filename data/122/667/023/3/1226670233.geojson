@@ -1,0 +1,76 @@
+{
+  "id": 1226670233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.08167,24.93583,121.08167,24.93583",
+    "geom:latitude":24.93583,
+    "geom:longitude":121.08167,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H04",
+    "gn:admin4_code":"68000040020.0",
+    "gn:asciiname":"Fugang",
+    "gn:country_code":"TW",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676444,
+    "gn:latitude":24.93583,
+    "gn:longitude":121.08167,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fugang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fu-kang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bcc\u5ca1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676444
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a817654ca6ad4b47924b116ca0e70ea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226670233,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1226670233,
+    "wof:lastmodified":1537709213,
+    "wof:name":"Fugang",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.08167,
+    24.93583,
+    121.08167,
+    24.93583
+],
+  "geometry": {"coordinates":[121.08167,24.93583],"type":"Point"}
+}

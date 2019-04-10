@@ -1,0 +1,78 @@
+{
+  "id": 1360108761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.73795,24.54312,120.73795,24.54312",
+    "geom:latitude":24.54312,
+    "geom:longitude":120.73795,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K07",
+    "gn:admin4_code":"10005140004.0",
+    "gn:asciiname":"Shangsihu",
+    "gn:country_code":"TW",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669763,
+    "gn:latitude":24.54312,
+    "gn:longitude":120.73795,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangsihu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangsihhu",
+        "Shangsihu",
+        "Shang-ssu-hu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u56db\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669763
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2c232b3db517ab907be54452f2ac8de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360108761,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1360108761,
+    "wof:lastmodified":1537708732,
+    "wof:name":"Shangsihu",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.73795,
+    24.54312,
+    120.73795,
+    24.54312
+],
+  "geometry": {"coordinates":[120.73795,24.54312],"type":"Point"}
+}

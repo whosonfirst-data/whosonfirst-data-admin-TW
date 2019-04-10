@@ -1,0 +1,73 @@
+{
+  "id": 1293488185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.75,22.0,120.75,22.0",
+    "geom:latitude":22.0,
+    "geom:longitude":120.75,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T04",
+    "gn:admin4_code":"10013040004.0",
+    "gn:asciiname":"Zhennangong",
+    "gn:country_code":"TW",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678916,
+    "gn:latitude":22.0,
+    "gn:longitude":120.75,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhennangong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chen-nan-kung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678916
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bdfba96439839174a30323b8128f6d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293488185,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1293488185,
+    "wof:lastmodified":1537709398,
+    "wof:name":"Zhennangong",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.75,
+    22.0,
+    120.75,
+    22.0
+],
+  "geometry": {"coordinates":[120.75,22.0],"type":"Point"}
+}

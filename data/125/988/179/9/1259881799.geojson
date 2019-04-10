@@ -1,0 +1,80 @@
+{
+  "id": 1259881799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.43892,25.14949,121.43892,25.14949",
+    "geom:latitude":25.14949,
+    "geom:longitude":121.43892,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F32",
+    "gn:admin4_code":"65000230002.0",
+    "gn:asciiname":"Micang",
+    "gn:country_code":"TW",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671899,
+    "gn:latitude":25.14949,
+    "gn:longitude":121.43892,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Micang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mi-kou",
+        "Micang"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u5009"
+    ],
+    "name:zho_x_variant":[
+        "Mi-ts\u2019ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671899
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"08a718d6d56be8f6955bef090dd5dac6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259881799,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1259881799,
+    "wof:lastmodified":1537708870,
+    "wof:name":"Micang",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.43892,
+    25.14949,
+    121.43892,
+    25.14949
+],
+  "geometry": {"coordinates":[121.43892,25.14949],"type":"Point"}
+}

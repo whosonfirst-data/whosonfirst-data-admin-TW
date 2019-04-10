@@ -1,0 +1,80 @@
+{
+  "id": 1309714139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.91968,25.0151,121.91968,25.0151",
+    "geom:latitude":25.0151,
+    "geom:longitude":121.91968,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F24",
+    "gn:admin4_code":"65000260003.0",
+    "gn:asciiname":"Xiashuangxi",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675477,
+    "gn:latitude":25.0151,
+    "gn:longitude":121.91968,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiashuangxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siashuangsi",
+        "Hsia-shuang-hsi"
+    ],
+    "name:zho_x_preferred":[
+        "Hsia-shuang-ch\u2019i"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0b\u96d9\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675477
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6e42ef1d13a598d96a87a41723d4d39f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309714139,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1309714139,
+    "wof:lastmodified":1537709135,
+    "wof:name":"Xiashuangxi",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.91968,
+    25.0151,
+    121.91968,
+    25.0151
+],
+  "geometry": {"coordinates":[121.91968,25.0151],"type":"Point"}
+}

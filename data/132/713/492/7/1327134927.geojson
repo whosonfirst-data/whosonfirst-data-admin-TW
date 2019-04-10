@@ -1,0 +1,77 @@
+{
+  "id": 1327134927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.63389,24.41167,120.63389,24.41167",
+    "geom:latitude":24.41167,
+    "geom:longitude":120.63389,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B11",
+    "gn:admin4_code":"66000110026.0",
+    "gn:asciiname":"Haihuang",
+    "gn:country_code":"TW",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675300,
+    "gn:latitude":24.41167,
+    "gn:longitude":120.63389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Haihuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-fen-li",
+        "Hai-huang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u9ec3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675300
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ff6124b4ef8eb11c8d35f4eab6ac488a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327134927,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1327134927,
+    "wof:lastmodified":1537709117,
+    "wof:name":"Haihuang",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.63389,
+    24.41167,
+    120.63389,
+    24.41167
+],
+  "geometry": {"coordinates":[120.63388999999999,24.41167],"type":"Point"}
+}

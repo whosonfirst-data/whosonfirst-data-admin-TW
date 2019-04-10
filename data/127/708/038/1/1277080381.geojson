@@ -1,0 +1,81 @@
+{
+  "id": 1277080381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.29147,25.08383,121.29147,25.08383",
+    "geom:latitude":25.08383,
+    "geom:longitude":121.29147,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H05",
+    "gn:admin4_code":"68000050012.0",
+    "gn:asciiname":"Kengziwai",
+    "gn:country_code":"TW",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673715,
+    "gn:latitude":25.08383,
+    "gn:longitude":121.29147,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kengziwai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kung-kou",
+        "Kengziwai",
+        "Kengzihwai"
+    ],
+    "name:zho_x_preferred":[
+        "\u5751\u5b50\u5916"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019eng-tzu-wai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673715
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"12c9315f66e123869bffe5f5ae23c516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1277080381,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1277080381,
+    "wof:lastmodified":1537708989,
+    "wof:name":"Kengziwai",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.29147,
+    25.08383,
+    121.29147,
+    25.08383
+],
+  "geometry": {"coordinates":[121.29147,25.08383],"type":"Point"}
+}

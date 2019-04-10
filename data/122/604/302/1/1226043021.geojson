@@ -1,0 +1,79 @@
+{
+  "id": 1226043021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6849,23.8553,120.6849,23.8553",
+    "geom:latitude":23.8553,
+    "geom:longitude":120.6849,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M06",
+    "gn:admin4_code":"10008060022.0",
+    "gn:asciiname":"Zhangyuanzi",
+    "gn:country_code":"TW",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650233,
+    "gn:latitude":23.8553,
+    "gn:longitude":120.6849,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhangyuanzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhangyuanzih"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a1f\u5712\u4ed4"
+    ],
+    "name:zho_x_variant":[
+        "Chang-y\u00fcan-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650233
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"da4e01045722e89c06fa382b78f91d57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226043021,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1226043021,
+    "wof:lastmodified":1537709799,
+    "wof:name":"Zhangyuanzi",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6849,
+    23.8553,
+    120.6849,
+    23.8553
+],
+  "geometry": {"coordinates":[120.6849,23.8553],"type":"Point"}
+}

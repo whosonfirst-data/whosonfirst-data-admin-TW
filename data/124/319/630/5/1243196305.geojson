@@ -1,0 +1,81 @@
+{
+  "id": 1243196305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.74313,24.33218,121.74313,24.33218",
+    "geom:latitude":24.33218,
+    "geom:longitude":121.74313,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G12",
+    "gn:admin4_code":"10002120007.0",
+    "gn:asciiname":"Aohua",
+    "gn:country_code":"TW",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679222,
+    "gn:latitude":24.33218,
+    "gn:longitude":121.74313,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Aohua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-cho-shui",
+        "Aohua",
+        "Ao-hua"
+    ],
+    "name:zho_x_preferred":[
+        "Ao-hua-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u6fb3\u82b1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679222
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7e33d65a041cc71ebf8c7cab87119a5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243196305,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1243196305,
+    "wof:lastmodified":1537709419,
+    "wof:name":"Aohua",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.74313,
+    24.33218,
+    121.74313,
+    24.33218
+],
+  "geometry": {"coordinates":[121.74312999999999,24.33218],"type":"Point"}
+}

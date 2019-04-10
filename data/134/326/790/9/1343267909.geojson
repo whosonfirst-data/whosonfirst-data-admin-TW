@@ -1,0 +1,73 @@
+{
+  "id": 1343267909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.03333,24.53333,121.03333,24.53333",
+    "geom:latitude":24.53333,
+    "geom:longitude":121.03333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K14",
+    "gn:admin4_code":"10005110009.0",
+    "gn:asciiname":"Fengmeicun",
+    "gn:country_code":"TW",
+    "gn:dem":1304,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676632,
+    "gn:latitude":24.53333,
+    "gn:longitude":121.03333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fengmeicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Feng-mei-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676632
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"45a766cb4dc139b24efc75f441c3a48f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343267909,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1343267909,
+    "wof:lastmodified":1537709227,
+    "wof:name":"Fengmeicun",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.03333,
+    24.53333,
+    121.03333,
+    24.53333
+],
+  "geometry": {"coordinates":[121.03333000000001,24.53333],"type":"Point"}
+}

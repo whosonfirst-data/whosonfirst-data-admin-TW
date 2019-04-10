@@ -1,0 +1,77 @@
+{
+  "id": 1343285921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.89188,23.90182,120.89188,23.90182",
+    "geom:latitude":23.90182,
+    "geom:longitude":120.89188,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M09",
+    "gn:admin4_code":"10008090009.0",
+    "gn:asciiname":"Houlongkeng",
+    "gn:country_code":"TW",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676008,
+    "gn:latitude":23.90182,
+    "gn:longitude":120.89188,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Houlongkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7334\u9f8d\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Ho-lung-k\u2019eng",
+        "Hou-lung-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676008
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b7cdc9c153fb64e9d7018f829c29788c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343285921,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1343285921,
+    "wof:lastmodified":1537709182,
+    "wof:name":"Houlongkeng",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.89188,
+    23.90182,
+    120.89188,
+    23.90182
+],
+  "geometry": {"coordinates":[120.89188,23.90182],"type":"Point"}
+}

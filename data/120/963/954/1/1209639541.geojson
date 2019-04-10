@@ -1,0 +1,73 @@
+{
+  "id": 1209639541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.45776,22.48591,120.45776,22.48591",
+    "geom:latitude":22.48591,
+    "geom:longitude":120.45776,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T17",
+    "gn:admin4_code":"10013170011.0",
+    "gn:asciiname":"Nanlong",
+    "gn:country_code":"TW",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671674,
+    "gn:latitude":22.48591,
+    "gn:longitude":120.45776,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nanlong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan-lung"
+    ],
+    "name:zho_x_preferred":[
+        "Nan-lung-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u5357\u9f8d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671674
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a8c39cfd0a7db0b4f91a1212f975ea63",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209639541
+        }
+    ],
+    "wof:id":1209639541,
+    "wof:lastmodified":1537708858,
+    "wof:name":"Nanlong",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.45776,
+    22.48591,
+    120.45776,
+    22.48591
+],
+  "geometry": {"coordinates":[120.45775999999999,22.48591],"type":"Point"}
+}

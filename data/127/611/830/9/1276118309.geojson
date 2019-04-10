@@ -1,0 +1,80 @@
+{
+  "id": 1276118309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.87716,24.43244,120.87716,24.43244",
+    "geom:latitude":24.43244,
+    "geom:longitude":120.87716,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K15",
+    "gn:admin4_code":"10005080004.0",
+    "gn:asciiname":"Qiliaodong",
+    "gn:country_code":"TW",
+    "gn:dem":330,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652156,
+    "gn:latitude":24.43244,
+    "gn:longitude":120.87716,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qiliaodong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciliaodong",
+        "Qiliaodong"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e03\u5bee\u5d20"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019i-liao-tung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652156
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a255531fcf457d482d3271bbf61762d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276118309,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1276118309,
+    "wof:lastmodified":1537709815,
+    "wof:name":"Qiliaodong",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.87716,
+    24.43244,
+    120.87716,
+    24.43244
+],
+  "geometry": {"coordinates":[120.87716,24.43244],"type":"Point"}
+}

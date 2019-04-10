@@ -1,0 +1,81 @@
+{
+  "id": 1260182571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.65846,23.8347,120.65846,23.8347",
+    "geom:latitude":23.8347,
+    "geom:longitude":120.65846,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M06",
+    "gn:admin4_code":"10008060020.0",
+    "gn:asciiname":"Dingkanzijiao",
+    "gn:country_code":"TW",
+    "gn:dem":306,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674016,
+    "gn:latitude":23.8347,
+    "gn:longitude":120.65846,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingkanzijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dingkanzihjiao",
+        "Dingkanzijiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u9802\u5d01\u5b50\u811a"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019an-chiao-ts\u2019un",
+        "Ting-k\u2019an-tzu-chiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674016
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d3c223a75d78999b0be9e5e62d6018c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260182571,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1260182571,
+    "wof:lastmodified":1537709016,
+    "wof:name":"Dingkanzijiao",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.65846,
+    23.8347,
+    120.65846,
+    23.8347
+],
+  "geometry": {"coordinates":[120.65846000000001,23.8347],"type":"Point"}
+}

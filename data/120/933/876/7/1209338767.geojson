@@ -1,0 +1,73 @@
+{
+  "id": 1209338767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.55101,24.10778,120.55101,24.10778",
+    "geom:latitude":24.10778,
+    "geom:longitude":120.55101,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N01",
+    "gn:admin4_code":"10007010060.0",
+    "gn:asciiname":"Caigongliao",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666960,
+    "gn:latitude":24.10778,
+    "gn:longitude":120.55101,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Caigongliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u83dc\u516c\u5bee",
+        "Caigongliao",
+        "Ts\u2019ai-kung-lao",
+        "Ts\u2019ai-kung-liao"
+    ],
+    "name:zho_x_preferred":[
+        "Ts\u2019ai-kung-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666960
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a33f892db478e4b1f6c9a892c50e7cb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209338767
+        }
+    ],
+    "wof:id":1209338767,
+    "wof:lastmodified":1537708532,
+    "wof:name":"Caigongliao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.55101,
+    24.10778,
+    120.55101,
+    24.10778
+],
+  "geometry": {"coordinates":[120.55101000000001,24.10778],"type":"Point"}
+}

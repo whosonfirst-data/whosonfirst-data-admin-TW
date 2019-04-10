@@ -1,0 +1,76 @@
+{
+  "id": 1226753745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.50287,23.03498,120.50287,23.03498",
+    "geom:latitude":23.03498,
+    "geom:longitude":120.50287,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R25",
+    "gn:admin4_code":"67000250001.0",
+    "gn:asciiname":"Nantou",
+    "gn:country_code":"TW",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750154,
+    "gn:latitude":23.03498,
+    "gn:longitude":120.50287,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nantou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5357\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Nan-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750154
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c06005d846700186284f77a85ace5555",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226753745,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1226753745,
+    "wof:lastmodified":1537709964,
+    "wof:name":"Nantou",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.50287,
+    23.03498,
+    120.50287,
+    23.03498
+],
+  "geometry": {"coordinates":[120.50287,23.03498],"type":"Point"}
+}

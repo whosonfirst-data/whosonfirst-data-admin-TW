@@ -1,0 +1,81 @@
+{
+  "id": 1326630659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.28153,23.21497,121.28153,23.21497",
+    "geom:latitude":23.21497,
+    "geom:longitude":121.28153,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U10",
+    "gn:admin4_code":"10015100005.0",
+    "gn:asciiname":"Futian",
+    "gn:country_code":"TW",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674728,
+    "gn:latitude":23.21497,
+    "gn:longitude":121.28153,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Futian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-pu",
+        "Futian"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bcc\u7530"
+    ],
+    "name:zho_x_variant":[
+        "Pu-t\u2019ou",
+        "Fu-t\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674728
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d104caa677ec828e9418d981d7e79b56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326630659,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1326630659,
+    "wof:lastmodified":1537709065,
+    "wof:name":"Futian",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.28153,
+    23.21497,
+    121.28153,
+    23.21497
+],
+  "geometry": {"coordinates":[121.28153,23.21497],"type":"Point"}
+}

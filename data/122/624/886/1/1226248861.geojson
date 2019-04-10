@@ -1,0 +1,79 @@
+{
+  "id": 1226248861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86139,22.41861,120.86139,22.41861",
+    "geom:latitude":22.41861,
+    "geom:longitude":120.86139,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V14",
+    "gn:admin4_code":"10014150003.0",
+    "gn:asciiname":"Puliyashe",
+    "gn:country_code":"TW",
+    "gn:dem":707,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670243,
+    "gn:latitude":22.41861,
+    "gn:longitude":120.86139,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Puliyashe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "P\u2019u-li-ya-ts\u2019un",
+        "Puliyashe",
+        "P\u2019u-ya",
+        "P\u2019u-li-ya-she"
+    ],
+    "name:zho_x_preferred":[
+        "\u57d4\u91cc\u96c5\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670243
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3278d94f876a5f245a64dd4d88b7ba26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226248861,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1226248861,
+    "wof:lastmodified":1537708768,
+    "wof:name":"Puliyashe",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86139,
+    22.41861,
+    120.86139,
+    22.41861
+],
+  "geometry": {"coordinates":[120.86139,22.41861],"type":"Point"}
+}

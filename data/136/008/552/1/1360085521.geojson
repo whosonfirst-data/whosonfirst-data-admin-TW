@@ -1,0 +1,76 @@
+{
+  "id": 1360085521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.28333,23.05,121.28333,23.05",
+    "geom:latitude":23.05,
+    "geom:longitude":121.28333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V07",
+    "gn:admin4_code":"10014070001.0",
+    "gn:asciiname":"Qilan",
+    "gn:country_code":"TW",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678257,
+    "gn:latitude":23.05,
+    "gn:longitude":121.28333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qilan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019i-na-la-yang",
+        "Ch\u2019i-fu-la-yang",
+        "Ch\u2019i-lan",
+        "Qilan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678257
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"58b226f4827c79ac03303c3d5924962b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360085521,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1360085521,
+    "wof:lastmodified":1537709355,
+    "wof:name":"Qilan",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.28333,
+    23.05,
+    121.28333,
+    23.05
+],
+  "geometry": {"coordinates":[121.28333000000001,23.05],"type":"Point"}
+}

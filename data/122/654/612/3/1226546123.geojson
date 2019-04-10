@@ -1,0 +1,81 @@
+{
+  "id": 1226546123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48639,24.14806,120.48639,24.14806",
+    "geom:latitude":24.14806,
+    "geom:longitude":120.48639,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N10",
+    "gn:admin4_code":"10007050010.0",
+    "gn:asciiname":"Shengang",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669535,
+    "gn:latitude":24.14806,
+    "gn:longitude":120.48639,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Shengang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shen-chiang",
+        "Hou-hu",
+        "Shui-wei",
+        "Shengang",
+        "Shen-kang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f38\u6e2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669535,
+        "wk:page":"Shengang,_Changhua"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ec66b754482e5b5374433993a0aa8e09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226546123,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1226546123,
+    "wof:lastmodified":1537708715,
+    "wof:name":"Shengang",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48639,
+    24.14806,
+    120.48639,
+    24.14806
+],
+  "geometry": {"coordinates":[120.48639,24.14806],"type":"Point"}
+}

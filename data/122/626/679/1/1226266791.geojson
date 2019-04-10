@@ -1,0 +1,74 @@
+{
+  "id": 1226266791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.58831,23.89804,120.58831,23.89804",
+    "geom:latitude":23.89804,
+    "geom:longitude":120.58831,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N19",
+    "gn:admin4_code":"10007170001.0",
+    "gn:asciiname":"Shetou",
+    "gn:country_code":"TW",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669506,
+    "gn:latitude":23.89804,
+    "gn:longitude":120.58831,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Shetou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "She-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669506,
+        "wk:page":"Shetou"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"497292761ba8f9815cadeb5f157f2292",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226266791,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1226266791,
+    "wof:lastmodified":1537708712,
+    "wof:name":"Shetou",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.58831,
+    23.89804,
+    120.58831,
+    23.89804
+],
+  "geometry": {"coordinates":[120.58831000000001,23.89804],"type":"Point"}
+}

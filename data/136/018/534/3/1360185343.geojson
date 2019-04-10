@@ -1,0 +1,80 @@
+{
+  "id": 1360185343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.64236,23.79879,120.64236,23.79879",
+    "geom:latitude":23.79879,
+    "geom:longitude":120.64236,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N20",
+    "gn:admin4_code":"10007180014.0",
+    "gn:asciiname":"Yuanquan",
+    "gn:country_code":"TW",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665460,
+    "gn:latitude":23.79879,
+    "gn:longitude":120.64236,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yuanquan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuancyuan"
+    ],
+    "name:zho_x_preferred":[
+        "Y\u00fcan-ch\u2019\u00fcan-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u6e90\u6cc9",
+        "Y\u00fcan-ch\u2019\u00fcan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665460
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"89fe4665721c5421d4479e73cea88843",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360185343,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1360185343,
+    "wof:lastmodified":1537708436,
+    "wof:name":"Yuanquan",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.64236,
+    23.79879,
+    120.64236,
+    23.79879
+],
+  "geometry": {"coordinates":[120.64236,23.79879],"type":"Point"}
+}

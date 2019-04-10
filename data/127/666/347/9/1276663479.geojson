@@ -1,0 +1,76 @@
+{
+  "id": 1276663479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.22611,23.10139,120.22611,23.10139",
+    "geom:latitude":23.10139,
+    "geom:longitude":120.22611,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R21",
+    "gn:admin4_code":"67000210016.0",
+    "gn:asciiname":"Youche",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665379,
+    "gn:latitude":23.10139,
+    "gn:longitude":120.22611,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Youche",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6cb9\u8eca"
+    ],
+    "name:zho_x_variant":[
+        "Yu-ch\u2019e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665379
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"683aee185329f6c4219227f90a3d661d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276663479,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1276663479,
+    "wof:lastmodified":1537708431,
+    "wof:name":"Youche",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.22611,
+    23.10139,
+    120.22611,
+    23.10139
+],
+  "geometry": {"coordinates":[120.22611000000001,23.10139],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293493769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.40833,23.28,120.40833,23.28",
+    "geom:latitude":23.28,
+    "geom:longitude":120.40833,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R06",
+    "gn:admin4_code":"67000060009.0",
+    "gn:asciiname":"Kanxialiao",
+    "gn:country_code":"TW",
+    "gn:dem":62,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673907,
+    "gn:latitude":23.28,
+    "gn:longitude":120.40833,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kanxialiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kansialiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5d01\u4e0b\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019an-hsia-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673907
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"293becf3a306001e6bdeb1fa5190a4f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293493769,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1293493769,
+    "wof:lastmodified":1537709004,
+    "wof:name":"Kanxialiao",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.40833,
+    23.28,
+    120.40833,
+    23.28
+],
+  "geometry": {"coordinates":[120.40833000000001,23.28],"type":"Point"}
+}

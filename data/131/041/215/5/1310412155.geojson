@@ -1,0 +1,82 @@
+{
+  "id": 1310412155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86584,24.65706,120.86584,24.65706",
+    "geom:latitude":24.65706,
+    "geom:longitude":120.86584,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K11",
+    "gn:admin4_code":"10005150007.0",
+    "gn:asciiname":"Tanwen",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667942,
+    "gn:latitude":24.65706,
+    "gn:longitude":120.86584,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tanwen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tan-wen-hu",
+        "Tanwun",
+        "Tanwen"
+    ],
+    "name:zho_x_preferred":[
+        "T\u2019an-wen-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u8ac7\u6587",
+        "T\u2019an-wen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667942
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7a1953733b8cd9e838e0b53dc77ffefc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310412155,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1310412155,
+    "wof:lastmodified":1537708599,
+    "wof:name":"Tanwen",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86584,
+    24.65706,
+    120.86584,
+    24.65706
+],
+  "geometry": {"coordinates":[120.86584000000001,24.65706],"type":"Point"}
+}

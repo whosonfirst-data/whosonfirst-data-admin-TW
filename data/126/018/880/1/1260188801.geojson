@@ -1,0 +1,75 @@
+{
+  "id": 1260188801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1,23.16667,121.1,23.16667",
+    "geom:latitude":23.16667,
+    "geom:longitude":121.1,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V13",
+    "gn:admin4_code":"10014120002.0",
+    "gn:asciiname":"Xiamagu",
+    "gn:country_code":"TW",
+    "gn:dem":1077,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675736,
+    "gn:latitude":23.16667,
+    "gn:longitude":121.1,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiamagu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsia-ma-ku-she",
+        "Hsia-ma-ku",
+        "Xiamagu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675736
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6c3e34340ab25f8677972ca116de59a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260188801,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1260188801,
+    "wof:lastmodified":1537709157,
+    "wof:name":"Xiamagu",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1,
+    23.16667,
+    121.1,
+    23.16667
+],
+  "geometry": {"coordinates":[121.09999999999999,23.16667],"type":"Point"}
+}

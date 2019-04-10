@@ -1,0 +1,83 @@
+{
+  "id": 1193161115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.24194,23.0425,120.24194,23.0425",
+    "geom:latitude":23.0425,
+    "geom:longitude":120.24194,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R31",
+    "gn:admin4_code":"67000310010.0",
+    "gn:asciiname":"Yanxing",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665554,
+    "gn:latitude":23.0425,
+    "gn:longitude":120.24194,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yanxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yen-hang",
+        "Yanxing",
+        "Yansing",
+        "Yen-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u9e7d\u884c"
+    ],
+    "name:zho_x_variant":[
+        "Yen-hsing-ts\u2019un",
+        "Yen-hang-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665554
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e8466a1cc3c539e7a97a01b887f6d4a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193161115,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1193161115,
+    "wof:lastmodified":1537708443,
+    "wof:name":"Yanxing",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.24194,
+    23.0425,
+    120.24194,
+    23.0425
+],
+  "geometry": {"coordinates":[120.24194,23.0425],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209615593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60598,23.40298,120.60598,23.40298",
+    "geom:latitude":23.40298,
+    "geom:longitude":120.60598,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q17",
+    "gn:admin4_code":"10010160011.0",
+    "gn:asciiname":"Toudong",
+    "gn:country_code":"TW",
+    "gn:dem":927,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656159,
+    "gn:latitude":23.40298,
+    "gn:longitude":120.60598,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Toudong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u982d\u51cd"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ou-tung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6656159
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4e81362aa64419c821624d17a07605c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209615593
+        }
+    ],
+    "wof:id":1209615593,
+    "wof:lastmodified":1537709868,
+    "wof:name":"Toudong",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60598,
+    23.40298,
+    120.60598,
+    23.40298
+],
+  "geometry": {"coordinates":[120.60598,23.40298],"type":"Point"}
+}

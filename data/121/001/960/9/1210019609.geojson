@@ -1,0 +1,80 @@
+{
+  "id": 1210019609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.40583,22.77361,120.40583,22.77361",
+    "geom:latitude":22.77361,
+    "geom:longitude":120.40583,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E21",
+    "gn:admin4_code":"64000210011.0",
+    "gn:asciiname":"Shige",
+    "gn:country_code":"TW",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669467,
+    "gn:latitude":22.77361,
+    "gn:longitude":120.40583,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shige",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shih-lu",
+        "Shihge",
+        "Shige",
+        "Shih-chien",
+        "Shih-ko"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u683c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669467
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8ec240b97127a6cb0bc18a737ab266ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1210019609,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1210019609,
+    "wof:lastmodified":1537708709,
+    "wof:name":"Shige",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.40583,
+    22.77361,
+    120.40583,
+    22.77361
+],
+  "geometry": {"coordinates":[120.40582999999999,22.77361],"type":"Point"}
+}

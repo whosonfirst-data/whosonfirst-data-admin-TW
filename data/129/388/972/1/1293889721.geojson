@@ -1,0 +1,76 @@
+{
+  "id": 1293889721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.59111,24.34056,120.59111,24.34056",
+    "geom:latitude":24.34056,
+    "geom:longitude":120.59111,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B22",
+    "gn:admin4_code":"66000220006.0",
+    "gn:asciiname":"Bujianglin",
+    "gn:country_code":"TW",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670348,
+    "gn:latitude":24.34056,
+    "gn:longitude":120.59111,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bujianglin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pu-chiang-lin"
+    ],
+    "name:zho_x_preferred":[
+        "\u57d4\u59dc\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670348
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d515b8c8e7ce08b7540a62799c3610b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293889721,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1293889721,
+    "wof:lastmodified":1537708776,
+    "wof:name":"Bujianglin",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.59111,
+    24.34056,
+    120.59111,
+    24.34056
+],
+  "geometry": {"coordinates":[120.59111,24.34056],"type":"Point"}
+}

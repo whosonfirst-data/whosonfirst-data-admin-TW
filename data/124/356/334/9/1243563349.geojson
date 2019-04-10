@@ -1,0 +1,77 @@
+{
+  "id": 1243563349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.225,22.85222,120.225,22.85222",
+    "geom:latitude":22.85222,
+    "geom:longitude":120.225,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E24",
+    "gn:admin4_code":"64000240002.0",
+    "gn:asciiname":"Sankuailiao",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670059,
+    "gn:latitude":22.85222,
+    "gn:longitude":120.225,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sankuailiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e09\u584a\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "San-k\u2019uai-ts\u2019o",
+        "San-k\u2019uai-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670059
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a569bfc85d7221f50b92507d4b9a8c8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243563349,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1243563349,
+    "wof:lastmodified":1537708755,
+    "wof:name":"Sankuailiao",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.225,
+    22.85222000000001,
+    120.225,
+    22.85222000000001
+],
+  "geometry": {"coordinates":[120.22499999999999,22.85222000000001],"type":"Point"}
+}

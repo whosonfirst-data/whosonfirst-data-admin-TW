@@ -1,0 +1,79 @@
+{
+  "id": 1225950611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.35935,23.62004,120.35935,23.62004",
+    "geom:latitude":23.62004,
+    "geom:longitude":120.35935,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P17",
+    "gn:admin4_code":"10009170021.0",
+    "gn:asciiname":"Xinjicun",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6655645,
+    "gn:latitude":23.62004,
+    "gn:longitude":120.35935,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinjicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinjicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5409\u6751"
+    ],
+    "name:zho_x_variant":[
+        "Hsin-chi-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6655645
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cc13b469d04ff67ace0681ca62c47c65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225950611,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1225950611,
+    "wof:lastmodified":1537709858,
+    "wof:name":"Xinjicun",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.35935,
+    23.62004,
+    120.35935,
+    23.62004
+],
+  "geometry": {"coordinates":[120.35935000000001,23.62004],"type":"Point"}
+}

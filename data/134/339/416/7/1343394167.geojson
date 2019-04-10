@@ -1,0 +1,87 @@
+{
+  "id": 1343394167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.6339,24.1436,121.6339,24.1436",
+    "geom:latitude":24.1436,
+    "geom:longitude":121.6339,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U11",
+    "gn:admin4_code":"10015110002.0",
+    "gn:asciiname":"Fushi",
+    "gn:country_code":"TW",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676405,
+    "gn:latitude":24.1436,
+    "gn:longitude":121.6339,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fushi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pu-hsieh-kan-she",
+        "Pu-hsieh-kan",
+        "Fu-shih-she",
+        "Fu-shin",
+        "Fushih",
+        "Fushi",
+        "Fu-shih"
+    ],
+    "name:zho_x_preferred":[
+        "Fu-Hih-Ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Fu-shih-ts\u2019un",
+        "\u5bcc\u4e16",
+        "K\u2019o-le"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676405
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"539fd3f7d0d3de35d48106a261b821d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343394167,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1343394167,
+    "wof:lastmodified":1537709211,
+    "wof:name":"Fushi",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.6339,
+    24.1436,
+    121.6339,
+    24.1436
+],
+  "geometry": {"coordinates":[121.6339,24.1436],"type":"Point"}
+}

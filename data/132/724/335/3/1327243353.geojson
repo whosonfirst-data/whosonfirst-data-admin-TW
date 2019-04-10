@@ -1,0 +1,104 @@
+{
+  "id": 1327243353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.7103,24.9352,121.7103,24.9352",
+    "geom:latitude":24.9352,
+    "geom:longitude":121.7103,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F10",
+    "gn:admin4_code":"65000200002.0",
+    "gn:asciiname":"Pinglin",
+    "gn:country_code":"TW",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670516,
+    "gn:latitude":24.9352,
+    "gn:longitude":121.7103,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pinglin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Pinglin District"
+    ],
+    "name:hak_x_preferred":[
+        "Phi\u00e2ng-l\u00ecm-kh\u00ee"
+    ],
+    "name:jpn_x_preferred":[
+        "\u576a\u6797\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ud551\ub9b0 \uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Pinglinas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u576a\u6797\u5340"
+    ],
+    "name:nan_x_preferred":[
+        "P\u00ea\u207f-n\u00e2-khu"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00ecnh L\u00e2m"
+    ],
+    "name:zho_x_preferred":[
+        "P\u2019ing-lin-hsiang"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019ing-lin-ts\u2019un",
+        "\u576a\u6797",
+        "P\u2019ing-lin",
+        "\u576a\u6797\u5340"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670516,
+        "wk:page":"Pinglin_District"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"94d78dfa4d24181ee256cd34f67aa6ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327243353,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1327243353,
+    "wof:lastmodified":1537708787,
+    "wof:name":"Pinglin",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.7103,
+    24.9352,
+    121.7103,
+    24.9352
+],
+  "geometry": {"coordinates":[121.7103,24.9352],"type":"Point"}
+}

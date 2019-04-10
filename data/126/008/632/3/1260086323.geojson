@@ -1,0 +1,83 @@
+{
+  "id": 1260086323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.52861,23.605,121.52861,23.605",
+    "geom:latitude":23.605,
+    "geom:longitude":121.52861,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U08",
+    "gn:admin4_code":"10015080001.0",
+    "gn:asciiname":"Yongfeng",
+    "gn:country_code":"TW",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6600699,
+    "gn:latitude":23.605,
+    "gn:longitude":121.52861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yongfeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yongfong",
+        "Yongfeng",
+        "Yung-feng"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c38\u8c50"
+    ],
+    "name:zho_x_variant":[
+        "Shen-ch\u2019iao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679607,
+        102191569,
+        85632403,
+        1108498083,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6600699
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f9c35090fe5cc46ede83d065383d11c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260086323,
+            "macrocounty_id":1108498083,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1260086323,
+    "wof:lastmodified":1537709628,
+    "wof:name":"Yongfeng",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.52861,
+    23.605,
+    121.52861,
+    23.605
+],
+  "geometry": {"coordinates":[121.52861,23.605],"type":"Point"}
+}

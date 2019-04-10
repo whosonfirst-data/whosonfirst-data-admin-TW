@@ -1,0 +1,79 @@
+{
+  "id": 1260207643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.63,22.42306,120.63,22.42306",
+    "geom:latitude":22.42306,
+    "geom:longitude":120.63,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T16",
+    "gn:admin4_code":"10013160011.0",
+    "gn:asciiname":"Shinankeng",
+    "gn:country_code":"TW",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6595229,
+    "gn:latitude":22.42306,
+    "gn:longitude":120.63,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shinankeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u77f3\u6960\u5751",
+        "Shinankeng",
+        "Shihnankeng",
+        "Shih-nan-k\u2019eng"
+    ],
+    "name:zho_x_preferred":[
+        "Shih-nan-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6595229
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8cd3b2b16124a901241da0eff76aca23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260207643,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1260207643,
+    "wof:lastmodified":1537709609,
+    "wof:name":"Shinankeng",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.63,
+    22.42306,
+    120.63,
+    22.42306
+],
+  "geometry": {"coordinates":[120.63,22.42306],"type":"Point"}
+}

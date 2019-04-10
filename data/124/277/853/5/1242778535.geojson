@@ -1,0 +1,80 @@
+{
+  "id": 1242778535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6218,23.9733,120.6218,23.9733",
+    "geom:latitude":23.9733,
+    "geom:longitude":120.6218,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N14",
+    "gn:admin4_code":"10007090013.0",
+    "gn:asciiname":"Zhangkong",
+    "gn:country_code":"TW",
+    "gn:dem":263,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679121,
+    "gn:latitude":23.9733,
+    "gn:longitude":120.6218,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhangkong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhangkong",
+        "Zhangkong"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a1f\u7a7a"
+    ],
+    "name:zho_x_variant":[
+        "Chang-k\u2019ung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679121
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"53c459ec1479533b0c3610f885288964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242778535,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1242778535,
+    "wof:lastmodified":1537709413,
+    "wof:name":"Zhangkong",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6218,
+    23.9733,
+    120.6218,
+    23.9733
+],
+  "geometry": {"coordinates":[120.62179999999999,23.9733],"type":"Point"}
+}

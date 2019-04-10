@@ -1,0 +1,79 @@
+{
+  "id": 1242601799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86298,24.39633,120.86298,24.39633",
+    "geom:latitude":24.39633,
+    "geom:longitude":120.86298,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K15",
+    "gn:admin4_code":"10005080008.0",
+    "gn:asciiname":"Zhuweitou",
+    "gn:country_code":"TW",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652194,
+    "gn:latitude":24.39633,
+    "gn:longitude":120.86298,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhuweitou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhuweitou"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u570d\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Chu-wei-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652194
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"21a407ccd8b371d5a12aa49a92d78f4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242601799,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1242601799,
+    "wof:lastmodified":1537709817,
+    "wof:name":"Zhuweitou",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86298,
+    24.39633,
+    120.86298,
+    24.39633
+],
+  "geometry": {"coordinates":[120.86297999999999,24.39633],"type":"Point"}
+}

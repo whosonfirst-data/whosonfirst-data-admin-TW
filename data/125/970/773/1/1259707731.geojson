@@ -1,0 +1,86 @@
+{
+  "id": 1259707731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.59988,23.64736,119.59988,23.64736",
+    "geom:latitude":23.64736,
+    "geom:longitude":119.59988,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PEN",
+    "gn:admin3_code":"X03",
+    "gn:admin4_code":"10016030005.0",
+    "gn:asciiname":"Gangzi",
+    "gn:country_code":"TW",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673940,
+    "gn:latitude":23.64736,
+    "gn:longitude":119.59988,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Gangzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiang-tzu",
+        "Chiang-tzu-she",
+        "Gangzi",
+        "Gangzih",
+        "Kang-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "Kang-tzu-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Chiang-tzu-ts\u2019un",
+        "\u6e2f\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679627,
+        102191569,
+        85632403,
+        1108500085,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673940
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ea4d783d99445628ece1e8c3e7ed0878",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259707731,
+            "macrocounty_id":1108500085,
+            "macroregion_id":1108808557,
+            "region_id":85679627
+        }
+    ],
+    "wof:id":1259707731,
+    "wof:lastmodified":1537709007,
+    "wof:name":"Gangzi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.59988,
+    23.64736,
+    119.59988,
+    23.64736
+],
+  "geometry": {"coordinates":[119.59988,23.64736],"type":"Point"}
+}

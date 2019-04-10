@@ -1,0 +1,86 @@
+{
+  "id": 1293403033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.26868,22.61238,120.26868,22.61238",
+    "geom:latitude":22.61238,
+    "geom:longitude":120.26868,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E10",
+    "gn:admin4_code":"64000100003.0",
+    "gn:asciiname":"Qijin",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678593,
+    "gn:latitude":22.61238,
+    "gn:longitude":120.26868,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qijin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u65d7\u6d25",
+        "Qijin",
+        "Cijin"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019i-hou"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019i-hou-t\u2019ing",
+        "Ch\u2019i-ching",
+        "Ch\u2019i-chin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679547,
+        102191569,
+        85632403,
+        1108756877,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678593,
+        "wk:page":"Cijin_District%2C_Kaohsiung"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"55e5a9e23f0a57344e9249f9d6d8a13e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293403033,
+            "macrocounty_id":1108756877,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1293403033,
+    "wof:lastmodified":1537709377,
+    "wof:name":"Qijin",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.26868,
+    22.61238,
+    120.26868,
+    22.61238
+],
+  "geometry": {"coordinates":[120.26868,22.61238],"type":"Point"}
+}

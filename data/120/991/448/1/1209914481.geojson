@@ -1,0 +1,76 @@
+{
+  "id": 1209914481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5829,23.26595,120.5829,23.26595",
+    "geom:latitude":23.26595,
+    "geom:longitude":120.5829,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q18",
+    "gn:admin4_code":"10010170005.0",
+    "gn:asciiname":"Guoshan",
+    "gn:country_code":"TW",
+    "gn:dem":387,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656181,
+    "gn:latitude":23.26595,
+    "gn:longitude":120.5829,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Guoshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuo-shan"
+    ],
+    "name:zho_x_preferred":[
+        "\u904e\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6656181
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e7ba09ee57681c053598616efe816f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209914481,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1209914481,
+    "wof:lastmodified":1537709870,
+    "wof:name":"Guoshan",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5829,
+    23.26595,
+    120.5829,
+    23.26595
+],
+  "geometry": {"coordinates":[120.5829,23.26595],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1360208659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.76972,24.34306,121.76972,24.34306",
+    "geom:latitude":24.34306,
+    "geom:longitude":121.76972,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G12",
+    "gn:admin4_code":"10002120007.0",
+    "gn:asciiname":"Gufeng",
+    "gn:country_code":"TW",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671165,
+    "gn:latitude":24.34306,
+    "gn:longitude":121.76972,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Gufeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pi-hai",
+        "Pei-lieh-wen",
+        "Pei-lieh",
+        "Gufong",
+        "Pai-lai-fen",
+        "Gufeng",
+        "Ku-feng"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c37\u98a8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679567,
+        102191569,
+        85632403,
+        1108499379,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671165
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"af1d889d3548dcb7695a9eb436bbc828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360208659,
+            "macrocounty_id":1108499379,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1360208659,
+    "wof:lastmodified":1537708825,
+    "wof:name":"Gufeng",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.76972,
+    24.34306,
+    121.76972,
+    24.34306
+],
+  "geometry": {"coordinates":[121.76972000000001,24.34306],"type":"Point"}
+}

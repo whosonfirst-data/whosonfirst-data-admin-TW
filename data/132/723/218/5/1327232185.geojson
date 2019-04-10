@@ -1,0 +1,76 @@
+{
+  "id": 1327232185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.59035,25.10083,121.59035,25.10083",
+    "geom:latitude":25.10083,
+    "geom:longitude":121.59035,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A14",
+    "gn:admin4_code":"63000100015.0",
+    "gn:asciiname":"Tupijiao",
+    "gn:country_code":"TW",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6728740,
+    "gn:latitude":25.10083,
+    "gn:longitude":121.59035,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tupijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u571f\u57e4\u811a"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019u-p\u2019i-chiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6728740
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4dee611c19b32614bc846955ca3ad2cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327232185,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1327232185,
+    "wof:lastmodified":1537709909,
+    "wof:name":"Tupijiao",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.59035,
+    25.10083,
+    121.59035,
+    25.10083
+],
+  "geometry": {"coordinates":[121.59035,25.10083],"type":"Point"}
+}

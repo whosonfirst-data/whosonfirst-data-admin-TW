@@ -1,0 +1,78 @@
+{
+  "id": 1344080769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.81939,24.5462,120.81939,24.5462",
+    "geom:latitude":24.5462,
+    "geom:longitude":120.81939,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K01",
+    "gn:admin4_code":"10005010013.0",
+    "gn:asciiname":"Duxing",
+    "gn:country_code":"TW",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646151,
+    "gn:latitude":24.5462,
+    "gn:longitude":120.81939,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Duxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dusing",
+        "Duxing",
+        "Tu-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u7be4\u884c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646151
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"09170999bee19e28ab2ce3e31e9a75c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344080769,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1344080769,
+    "wof:lastmodified":1537709724,
+    "wof:name":"Duxing",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.81938999999998,
+    24.5462,
+    120.81938999999998,
+    24.5462
+],
+  "geometry": {"coordinates":[120.81938999999998,24.5462],"type":"Point"}
+}

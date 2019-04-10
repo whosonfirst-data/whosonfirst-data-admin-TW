@@ -1,0 +1,70 @@
+{
+  "id": 1209338659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48283,23.61364,120.48283,23.61364",
+    "geom:latitude":23.61364,
+    "geom:longitude":120.48283,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q04",
+    "gn:admin4_code":"10010040018.0",
+    "gn:asciiname":"Sankuaicuo",
+    "gn:country_code":"TW",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6655190,
+    "gn:latitude":23.61364,
+    "gn:longitude":120.48283,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sankuaicuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e09\u584a\u539d"
+    ],
+    "name:zho_x_variant":[
+        "San-k\u2019uai-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6655190
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4b8dec05a1aa944cc1b1351481ea47a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209338659
+        }
+    ],
+    "wof:id":1209338659,
+    "wof:lastmodified":1537709853,
+    "wof:name":"Sankuaicuo",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48283,
+    23.61364,
+    120.48283,
+    23.61364
+],
+  "geometry": {"coordinates":[120.48283000000001,23.61364],"type":"Point"}
+}

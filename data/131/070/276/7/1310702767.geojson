@@ -1,0 +1,83 @@
+{
+  "id": 1310702767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.78306,24.74944,121.78306,24.74944",
+    "geom:latitude":24.74944,
+    "geom:longitude":121.78306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G01",
+    "gn:admin4_code":"10002010015.0",
+    "gn:asciiname":"Zhuangwei",
+    "gn:country_code":"TW",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677655,
+    "gn:latitude":24.74944,
+    "gn:longitude":121.78306,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Zhuangwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chuang-wu",
+        "Zhuangwei",
+        "Jhuangwei",
+        "Chuang-wei"
+    ],
+    "name:zho_x_preferred":[
+        "Chuang-wu-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u58ef\u570d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677655,
+        "wk:page":"Zhuangwei,_Yilan"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3fea547f95cc7cb5e3bcf84d0fa30ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310702767,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1310702767,
+    "wof:lastmodified":1537709312,
+    "wof:name":"Zhuangwei",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.78306,
+    24.74944,
+    121.78306,
+    24.74944
+],
+  "geometry": {"coordinates":[121.78306000000001,24.74944],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1276566337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.92194,26.15889,119.92194,26.15889",
+    "geom:latitude":26.15889,
+    "geom:longitude":119.92194,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"LIE",
+    "gn:admin3_code":"Z01",
+    "gn:admin4_code":"9007010007.0",
+    "gn:asciiname":"Mazucun",
+    "gn:country_code":"TW",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672082,
+    "gn:latitude":26.15889,
+    "gn:longitude":119.92194,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Mazucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma-tsu-ts\u2019un",
+        "Ma-tsu",
+        "Matsu",
+        "Mazu",
+        "Mazucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u7956\u6751"
+    ],
+    "name:zho_x_variant":[
+        "\u9a6c\u7956\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679637,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672082
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"afb218147d1f1c44ad931afb907cf48a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276566337,
+            "macroregion_id":1108808555,
+            "region_id":85679637
+        }
+    ],
+    "wof:id":1276566337,
+    "wof:lastmodified":1537708882,
+    "wof:name":"Mazucun",
+    "wof:parent_id":85679637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.92194,
+    26.15889,
+    119.92194,
+    26.15889
+],
+  "geometry": {"coordinates":[119.92194000000001,26.15889],"type":"Point"}
+}

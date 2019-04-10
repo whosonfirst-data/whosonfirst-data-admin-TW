@@ -1,0 +1,78 @@
+{
+  "id": 1193138259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.45604,23.39946,121.45604,23.39946",
+    "geom:latitude":23.39946,
+    "geom:longitude":121.45604,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V08",
+    "gn:admin4_code":"10014080002.0",
+    "gn:asciiname":"Nanxi",
+    "gn:country_code":"TW",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6747130,
+    "gn:latitude":23.39946,
+    "gn:longitude":121.45604,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nanxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nansi",
+        "Nanxi",
+        "Nan-hsi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6747130
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"10eba0d8b6d782200de09774d82f28da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193138259,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1193138259,
+    "wof:lastmodified":1537709920,
+    "wof:name":"Nanxi",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.45604,
+    23.39946,
+    121.45604,
+    23.39946
+],
+  "geometry": {"coordinates":[121.45604,23.39946],"type":"Point"}
+}

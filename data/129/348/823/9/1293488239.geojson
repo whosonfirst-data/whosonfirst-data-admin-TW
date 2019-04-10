@@ -1,0 +1,85 @@
+{
+  "id": 1293488239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.42151,23.69135,120.42151,23.69135",
+    "geom:latitude":23.69135,
+    "geom:longitude":120.42151,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P03",
+    "gn:admin4_code":"10009030011.0",
+    "gn:asciiname":"Dingnanzi",
+    "gn:country_code":"TW",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665466,
+    "gn:latitude":23.69135,
+    "gn:longitude":120.42151,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingnanzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan-tzu",
+        "Ying-yung-li",
+        "Ying-yung",
+        "Dingnanzih",
+        "Dingnanzi",
+        "Ting-nan-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "Ying-ch\u2019uan-li"
+    ],
+    "name:zho_x_variant":[
+        "Ying-ch\u2019uan",
+        "\u9802\u6e73\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665466
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"724c2e60292b32a6903b703ad7ec9122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293488239,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1293488239,
+    "wof:lastmodified":1537708437,
+    "wof:name":"Dingnanzi",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.42151,
+    23.69135,
+    120.42151,
+    23.69135
+],
+  "geometry": {"coordinates":[120.42151,23.69135],"type":"Point"}
+}

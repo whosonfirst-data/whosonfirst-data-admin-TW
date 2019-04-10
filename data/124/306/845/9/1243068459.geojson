@@ -1,0 +1,81 @@
+{
+  "id": 1243068459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5121,23.97129,120.5121,23.97129",
+    "geom:latitude":23.97129,
+    "geom:longitude":120.5121,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N17",
+    "gn:admin4_code":"10007150018.0",
+    "gn:asciiname":"Wufeng",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665893,
+    "gn:latitude":23.97129,
+    "gn:longitude":120.5121,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wufeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wufong",
+        "Wufeng",
+        "Wu-feng"
+    ],
+    "name:zho_x_preferred":[
+        "Wu-feng-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u68a7\u9cf3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665893
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"37e7d0efa7d4cbc9393facb622aebbb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243068459,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1243068459,
+    "wof:lastmodified":1537708464,
+    "wof:name":"Wufeng",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5121,
+    23.97129,
+    120.5121,
+    23.97129
+],
+  "geometry": {"coordinates":[120.5121,23.97129],"type":"Point"}
+}

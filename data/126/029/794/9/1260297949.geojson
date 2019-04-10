@@ -1,0 +1,80 @@
+{
+  "id": 1260297949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.42389,22.90139,120.42389,22.90139",
+    "geom:latitude":22.90139,
+    "geom:longitude":120.42389,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E35",
+    "gn:admin4_code":"64000350017.0",
+    "gn:asciiname":"Zhuweiping",
+    "gn:country_code":"TW",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6601184,
+    "gn:latitude":22.90139,
+    "gn:longitude":120.42389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhuweiping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhuweiping",
+        "Zhuweiping"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u570d\u576a"
+    ],
+    "name:zho_x_variant":[
+        "Chu-wei-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6601184
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9ecea060255ab7f7239661f666e28db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260297949,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1260297949,
+    "wof:lastmodified":1537709641,
+    "wof:name":"Zhuweiping",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.42389,
+    22.90139,
+    120.42389,
+    22.90139
+],
+  "geometry": {"coordinates":[120.42389,22.90139],"type":"Point"}
+}

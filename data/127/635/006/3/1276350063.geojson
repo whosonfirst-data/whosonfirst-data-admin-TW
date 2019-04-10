@@ -1,0 +1,75 @@
+{
+  "id": 1276350063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.94778,26.15167,119.94778,26.15167",
+    "geom:latitude":26.15167,
+    "geom:longitude":119.94778,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"LIE",
+    "gn:admin3_code":"Z01",
+    "gn:admin4_code":"9007010001.0",
+    "gn:asciiname":"Changtanwo",
+    "gn:country_code":"TW",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679079,
+    "gn:latitude":26.15167,
+    "gn:longitude":119.94778,
+    "gn:modification_date":"2017-11-03",
+    "gn:name":"Changtanwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019ang-t\u2019an-wu",
+        "Ch\u2019ang-t\u2019an-wo",
+        "Changtanwo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679637,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679079
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5b799cc425c9eb58716f3c10ed5fc594",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276350063,
+            "macroregion_id":1108808555,
+            "region_id":85679637
+        }
+    ],
+    "wof:id":1276350063,
+    "wof:lastmodified":1537709410,
+    "wof:name":"Changtanwo",
+    "wof:parent_id":85679637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.94778,
+    26.15167000000001,
+    119.94778,
+    26.15167000000001
+],
+  "geometry": {"coordinates":[119.94777999999999,26.15167000000001],"type":"Point"}
+}

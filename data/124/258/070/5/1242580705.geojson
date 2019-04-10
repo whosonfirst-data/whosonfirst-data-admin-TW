@@ -1,0 +1,76 @@
+{
+  "id": 1242580705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.55889,23.0,120.55889,23.0",
+    "geom:latitude":23.0,
+    "geom:longitude":120.55889,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E34",
+    "gn:admin4_code":"64000340001.0",
+    "gn:asciiname":"Shanlinjiao",
+    "gn:country_code":"TW",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6586661,
+    "gn:latitude":23.0,
+    "gn:longitude":120.55889,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shanlinjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shan-lin-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6749\u6797\u89d2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6586661
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"544b0569004ef1b6b7ea19aaaf8eb8d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242580705,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1242580705,
+    "wof:lastmodified":1537709568,
+    "wof:name":"Shanlinjiao",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.55889,
+    23.0,
+    120.55889,
+    23.0
+],
+  "geometry": {"coordinates":[120.55889000000001,23.0],"type":"Point"}
+}

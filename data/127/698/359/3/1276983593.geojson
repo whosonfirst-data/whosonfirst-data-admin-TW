@@ -1,0 +1,82 @@
+{
+  "id": 1276983593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47472,22.87194,120.47472,22.87194",
+    "geom:latitude":22.87194,
+    "geom:longitude":120.47472,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E30",
+    "gn:admin4_code":"64000300016.0",
+    "gn:asciiname":"Beishi",
+    "gn:country_code":"TW",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670101,
+    "gn:latitude":22.87194,
+    "gn:longitude":120.47472,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Beishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-hsieh-li",
+        "San-Chieh-li",
+        "San-shieh-li",
+        "Beishi",
+        "San-hsieh",
+        "Beishih",
+        "Pei-shih"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u52e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670101
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b357329e8fe6595cdeef7c739b1554e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276983593,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1276983593,
+    "wof:lastmodified":1537708758,
+    "wof:name":"Beishi",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47472,
+    22.87194,
+    120.47472,
+    22.87194
+],
+  "geometry": {"coordinates":[120.47472,22.87194],"type":"Point"}
+}

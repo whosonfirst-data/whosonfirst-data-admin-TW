@@ -1,0 +1,81 @@
+{
+  "id": 1243269921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.44406,23.5101,120.44406,23.5101",
+    "geom:latitude":23.5101,
+    "geom:longitude":120.44406,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYI",
+    "gn:admin3_code":"I01",
+    "gn:admin4_code":"10020010001.0",
+    "gn:asciiname":"Laotengzhai",
+    "gn:country_code":"TW",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673047,
+    "gn:latitude":23.5101,
+    "gn:longitude":120.44406,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Laotengzhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laotengjhai"
+    ],
+    "name:zho_x_preferred":[
+        "Lao-t\u2019eng-li"
+    ],
+    "name:zho_x_variant":[
+        "\u8356\u7c50\u5b85",
+        "Lao-t\u2019eng",
+        "Lao-t\u2019eng-chai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679603,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673047
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"721916e9f1f4036418cf2152cdaf16f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243269921,
+            "macroregion_id":1108808557,
+            "region_id":85679603
+        }
+    ],
+    "wof:id":1243269921,
+    "wof:lastmodified":1537708944,
+    "wof:name":"Laotengzhai",
+    "wof:parent_id":85679603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.44406,
+    23.5101,
+    120.44406,
+    23.5101
+],
+  "geometry": {"coordinates":[120.44405999999999,23.5101],"type":"Point"}
+}

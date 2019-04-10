@@ -1,0 +1,79 @@
+{
+  "id": 1344058635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.48238,25.17942,121.48238,25.17942",
+    "geom:latitude":25.17942,
+    "geom:longitude":121.48238,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F27",
+    "gn:admin4_code":"65000100013.0",
+    "gn:asciiname":"Nanshibu",
+    "gn:country_code":"TW",
+    "gn:dem":225,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671614,
+    "gn:latitude":25.17942,
+    "gn:longitude":121.48238,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nanshibu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanshihbu",
+        "Nan-shih",
+        "Nanshibu",
+        "Nan-shih-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u52e2\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671614
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"209443bb81e75f61e5d6086297fa076f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344058635,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1344058635,
+    "wof:lastmodified":1537708854,
+    "wof:name":"Nanshibu",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.48238,
+    25.17942,
+    121.48238,
+    25.17942
+],
+  "geometry": {"coordinates":[121.48238000000001,25.17942],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259684533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.29944,23.48028,120.29944,23.48028",
+    "geom:latitude":23.48028,
+    "geom:longitude":120.29944,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q08",
+    "gn:admin4_code":"10010080004.0",
+    "gn:asciiname":"Suannan",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575161,
+    "gn:latitude":23.48028,
+    "gn:longitude":120.29944,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Suannan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Suan-nan"
+    ],
+    "name:zho_x_preferred":[
+        "\u849c\u5357"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575161
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"230f2c9c2fadc5006ad8d86c6648833a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259684533,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1259684533,
+    "wof:lastmodified":1537709539,
+    "wof:name":"Suannan",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.29944,
+    23.48028,
+    120.29944,
+    23.48028
+],
+  "geometry": {"coordinates":[120.29944,23.48028],"type":"Point"}
+}

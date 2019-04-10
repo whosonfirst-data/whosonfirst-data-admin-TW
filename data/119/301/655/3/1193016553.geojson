@@ -1,0 +1,79 @@
+{
+  "id": 1193016553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.69306,24.43361,120.69306,24.43361",
+    "geom:latitude":24.43361,
+    "geom:longitude":120.69306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K02",
+    "gn:admin4_code":"10005020012.0",
+    "gn:asciiname":"Shuiliupo",
+    "gn:country_code":"TW",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6587345,
+    "gn:latitude":24.43361,
+    "gn:longitude":120.69306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuiliupo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shueilioupo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u67f3\u5761"
+    ],
+    "name:zho_x_variant":[
+        "Shui-liu-p\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6587345
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"23de373658c7579cbf6b89993c191dc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193016553,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1193016553,
+    "wof:lastmodified":1537709581,
+    "wof:name":"Shuiliupo",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.69306,
+    24.43361,
+    120.69306,
+    24.43361
+],
+  "geometry": {"coordinates":[120.69306,24.43361],"type":"Point"}
+}

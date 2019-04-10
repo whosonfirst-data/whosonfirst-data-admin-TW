@@ -1,0 +1,76 @@
+{
+  "id": 1209317665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.56821,22.88277,120.56821,22.88277",
+    "geom:latitude":22.88277,
+    "geom:longitude":120.56821,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E31",
+    "gn:admin4_code":"64000310002.0",
+    "gn:asciiname":"Longque",
+    "gn:country_code":"TW",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672474,
+    "gn:latitude":22.88277,
+    "gn:longitude":120.56821,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Longque",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lung-kuan",
+        "Lunw-kwan",
+        "Longque",
+        "Longcyue"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f8d\u95d5"
+    ],
+    "name:zho_x_variant":[
+        "Lung-ch\u2019\u00fceh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672474
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"24fe96706dd0017a12a166c51e176472",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209317665
+        }
+    ],
+    "wof:id":1209317665,
+    "wof:lastmodified":1537708907,
+    "wof:name":"Longque",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.56821,
+    22.88277,
+    120.56821,
+    22.88277
+],
+  "geometry": {"coordinates":[120.56820999999999,22.88277],"type":"Point"}
+}

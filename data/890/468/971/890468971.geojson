@@ -1,0 +1,72 @@
+{
+  "id": 890468971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.376609,24.680089,121.376609,24.680089",
+    "geom:latitude":24.680089,
+    "geom:longitude":121.376609,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u5fa9\u8208\u9109",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u6843\u5712\u7e23",
+    "qs:photos":1960,
+    "qs:photos_1k":397,
+    "qs:photos_9k":9,
+    "qs:photos_9r":9,
+    "qs:photos_all":1960,
+    "qs:photos_sr":15,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":480,
+    "wof:belongsto":[
+        85679589,
+        102191569,
+        85632403,
+        1108499669,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2305043,
+        "qs:id":424914,
+        "wd:id":"Q718377",
+        "wk:page":"Fuxing District, Taoyuan"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053734,
+    "wof:geomhash":"dab598a3644e1fc95883eea95794727f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "county_id":890468971,
+            "macrocounty_id":1108499669,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":890468971,
+    "wof:lastmodified":1527792968,
+    "wof:name":"\u5fa9\u8208\u9109",
+    "wof:parent_id":1108499669,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.376609,
+    24.680089,
+    121.376609,
+    24.680089
+],
+  "geometry": {"coordinates":[121.376609,24.680089],"type":"Point"}
+}

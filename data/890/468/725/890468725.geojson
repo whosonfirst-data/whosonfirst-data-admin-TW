@@ -1,0 +1,67 @@
+{
+  "id": 890468725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.68583,24.09833,120.68583,24.09833",
+    "geom:latitude":24.09833,
+    "geom:longitude":120.68583,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Ta-li Hsiang"
+    ],
+    "qs:name":"Dali Shi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668156,
+        "qs:id":1030875
+    },
+    "wof:country":"TW",
+    "wof:created":1469053722,
+    "wof:geomhash":"b915b701061559f0b06169530b90059a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890468725,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":890468725,
+    "wof:lastmodified":1505343712,
+    "wof:name":"Dali Shi",
+    "wof:parent_id":85679617,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.68583,
+    24.09833,
+    120.68583,
+    24.09833
+],
+  "geometry": {"coordinates":[120.68583,24.09833],"type":"Point"}
+}

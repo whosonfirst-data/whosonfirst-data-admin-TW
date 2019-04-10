@@ -1,0 +1,78 @@
+{
+  "id": 1344168829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.68585,25.18565,121.68585,25.18565",
+    "geom:latitude":25.18565,
+    "geom:longitude":121.68585,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F26",
+    "gn:admin4_code":"65000280002.0",
+    "gn:asciiname":"Meilun",
+    "gn:country_code":"TW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6728999,
+    "gn:latitude":25.18565,
+    "gn:longitude":121.68585,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Meilun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mei-lun"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8e\u5d19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679585,
+        102191569,
+        85632403,
+        1108756871,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6728999
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5986c0506eb157487422a3f29340aab8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344168829,
+            "macrocounty_id":1108756871,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1344168829,
+    "wof:lastmodified":1537709913,
+    "wof:name":"Meilun",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.68585,
+    25.18565,
+    121.68585,
+    25.18565
+],
+  "geometry": {"coordinates":[121.68585,25.18565],"type":"Point"}
+}

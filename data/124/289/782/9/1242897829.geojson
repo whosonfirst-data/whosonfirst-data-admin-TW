@@ -1,0 +1,79 @@
+{
+  "id": 1242897829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.30618,23.21318,120.30618,23.21318",
+    "geom:latitude":23.21318,
+    "geom:longitude":120.30618,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R10",
+    "gn:admin4_code":"67000100008.0",
+    "gn:asciiname":"Nanpou",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671655,
+    "gn:latitude":23.21318,
+    "gn:longitude":120.30618,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nanpou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u5ecd"
+    ],
+    "name:zho_x_variant":[
+        "Nan-p\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671655
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f9bc7527a96ac292941f43a96ab92508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242897829,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1242897829,
+    "wof:lastmodified":1537708857,
+    "wof:name":"Nanpou",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.30618,
+    23.21318,
+    120.30618,
+    23.21318
+],
+  "geometry": {"coordinates":[120.30618,23.21318],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1327437375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.73861,22.0525,120.73861,22.0525",
+    "geom:latitude":22.0525,
+    "geom:longitude":120.73861,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T23",
+    "gn:admin4_code":"10013230007.0",
+    "gn:asciiname":"Maolanyi",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6600037,
+    "gn:latitude":22.0525,
+    "gn:longitude":120.73861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Maolanyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mao-lan-i"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c93\u85cd\u9038"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6600037
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b6a72b9d3df983a5fce9d341c3d055dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327437375,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1327437375,
+    "wof:lastmodified":1537709616,
+    "wof:name":"Maolanyi",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.73861,
+    22.0525,
+    120.73861,
+    22.0525
+],
+  "geometry": {"coordinates":[120.73860999999999,22.0525],"type":"Point"}
+}

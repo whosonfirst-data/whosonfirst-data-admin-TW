@@ -1,0 +1,77 @@
+{
+  "id": 1242683837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.295,24.3275,121.295,24.3275",
+    "geom:latitude":24.3275,
+    "geom:longitude":121.295,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B29",
+    "gn:admin4_code":"66000290008.0",
+    "gn:asciiname":"Huanxing",
+    "gn:country_code":"TW",
+    "gn:dem":1784,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6371936,
+    "gn:latitude":24.3275,
+    "gn:longitude":121.295,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Huanxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huansing",
+        "Huan-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u74b0\u8208"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6371936
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b519553d1b257a446a2f3b48bb62b721",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242683837,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1242683837,
+    "wof:lastmodified":1537709506,
+    "wof:name":"Huanxing",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.295,
+    24.3275,
+    121.295,
+    24.3275
+],
+  "geometry": {"coordinates":[121.295,24.3275],"type":"Point"}
+}

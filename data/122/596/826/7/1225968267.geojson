@@ -1,0 +1,77 @@
+{
+  "id": 1225968267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.55967,23.98581,120.55967,23.98581",
+    "geom:latitude":23.98581,
+    "geom:longitude":120.55967,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N15",
+    "gn:admin4_code":"10007130014.0",
+    "gn:asciiname":"Baitang",
+    "gn:country_code":"TW",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671091,
+    "gn:latitude":23.98581,
+    "gn:longitude":120.55967,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Baitang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Pai-t\u2019ang-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u64fa\u5858",
+        "Pai-t\u2019ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671091
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b8e187b43c4d0f7dae9bff6a4b1a9537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225968267,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1225968267,
+    "wof:lastmodified":1537708821,
+    "wof:name":"Baitang",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.55967,
+    23.98581,
+    120.55967,
+    23.98581
+],
+  "geometry": {"coordinates":[120.55967,23.98581],"type":"Point"}
+}

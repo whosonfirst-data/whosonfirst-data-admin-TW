@@ -1,0 +1,75 @@
+{
+  "id": 1326834325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.2461,24.43976,118.2461,24.43976",
+    "geom:latitude":24.43976,
+    "geom:longitude":118.2461,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W05",
+    "gn:admin4_code":"9020050003.0",
+    "gn:asciiname":"Houzhai",
+    "gn:country_code":"TW",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676108,
+    "gn:latitude":24.43976,
+    "gn:longitude":118.2461,
+    "gn:modification_date":"2017-11-03",
+    "gn:name":"Houzhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u540e\u5b85",
+        "Hou-chai",
+        "Houzhai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676108
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"89bcf95dc50aac8d81d7d1136fe58ee2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326834325,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1326834325,
+    "wof:lastmodified":1537709190,
+    "wof:name":"Houzhai",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.2461,
+    24.43976,
+    118.2461,
+    24.43976
+],
+  "geometry": {"coordinates":[118.2461,24.43976],"type":"Point"}
+}

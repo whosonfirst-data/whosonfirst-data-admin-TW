@@ -1,0 +1,80 @@
+{
+  "id": 1260104253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.23056,23.12944,121.23056,23.12944",
+    "geom:latitude":23.12944,
+    "geom:longitude":121.23056,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V10",
+    "gn:admin4_code":"10014060002.0",
+    "gn:asciiname":"Qingfeng",
+    "gn:country_code":"TW",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678170,
+    "gn:latitude":23.12944,
+    "gn:longitude":121.23056,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qingfeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cingfong"
+    ],
+    "name:zho_x_preferred":[
+        "\u6176\u8c50"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ing-feng-ts\u2019un",
+        "Ch\u2019ing-feng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678170
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"32f4936b4f12520a35ff8c8dcdf9ba37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260104253,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1260104253,
+    "wof:lastmodified":1537709350,
+    "wof:name":"Qingfeng",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.23056,
+    23.12944,
+    121.23056,
+    23.12944
+],
+  "geometry": {"coordinates":[121.23056,23.12944],"type":"Point"}
+}

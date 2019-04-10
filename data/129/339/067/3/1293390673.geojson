@@ -1,0 +1,75 @@
+{
+  "id": 1293390673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.71667,22.76667,120.71667,22.76667",
+    "geom:latitude":22.76667,
+    "geom:longitude":120.71667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T27",
+    "gn:admin4_code":"10013270005.0",
+    "gn:asciiname":"Hualan",
+    "gn:country_code":"TW",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674505,
+    "gn:latitude":22.76667,
+    "gn:longitude":120.71667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hualan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hua-lan-she",
+        "Hua-lan",
+        "Hualan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674505
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"715dce561261af7f2ead85259b5b881c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293390673,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1293390673,
+    "wof:lastmodified":1537709045,
+    "wof:name":"Hualan",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.71667,
+    22.76667,
+    120.71667,
+    22.76667
+],
+  "geometry": {"coordinates":[120.71666999999999,22.76667],"type":"Point"}
+}

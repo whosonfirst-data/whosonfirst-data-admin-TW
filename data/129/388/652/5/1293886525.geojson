@@ -1,0 +1,77 @@
+{
+  "id": 1293886525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.29694,22.75389,120.29694,22.75389",
+    "geom:latitude":22.75389,
+    "geom:longitude":120.29694,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E20",
+    "gn:admin4_code":"64000200010.0",
+    "gn:asciiname":"Shezijiao",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602246,
+    "gn:latitude":22.75389,
+    "gn:longitude":120.29694,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shezijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shezihjiao",
+        "She-tzu-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6aa8\u5b50\u8173"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602246
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e60f7dfdacc6ce180af3e66dc5b3bbb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293886525,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1293886525,
+    "wof:lastmodified":1537709658,
+    "wof:name":"Shezijiao",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.29694,
+    22.75389,
+    120.29694,
+    22.75389
+],
+  "geometry": {"coordinates":[120.29694000000001,22.75389],"type":"Point"}
+}

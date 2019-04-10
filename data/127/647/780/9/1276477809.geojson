@@ -1,0 +1,80 @@
+{
+  "id": 1276477809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5652,25.13884,121.5652,25.13884",
+    "geom:latitude":25.13884,
+    "geom:longitude":121.5652,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A15",
+    "gn:admin4_code":"63000110047.0",
+    "gn:asciiname":"Qingque",
+    "gn:country_code":"TW",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6728732,
+    "gn:latitude":25.13884,
+    "gn:longitude":121.5652,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qingque",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cingcyue",
+        "Qingque"
+    ],
+    "name:zho_x_preferred":[
+        "\u9752\u7910"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ing-ch\u2019\u00fceh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6728732
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a4d11fdb8a7596ad743531adb84496e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276477809,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1276477809,
+    "wof:lastmodified":1537709908,
+    "wof:name":"Qingque",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5652,
+    25.13884,
+    121.5652,
+    25.13884
+],
+  "geometry": {"coordinates":[121.5652,25.13884],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1360185105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1285,22.9556,121.1285,22.9556",
+    "geom:latitude":22.9556,
+    "geom:longitude":121.1285,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V09",
+    "gn:admin4_code":"10014050004.0",
+    "gn:asciiname":"Yongde",
+    "gn:country_code":"TW",
+    "gn:dem":238,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658235,
+    "gn:latitude":22.9556,
+    "gn:longitude":121.1285,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yongde",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yung-te"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c38\u5fb7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658235
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3ae4bfeb5a10b7e5322c10926c8901c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360185105,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1360185105,
+    "wof:lastmodified":1537709896,
+    "wof:name":"Yongde",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1285,
+    22.9556,
+    121.1285,
+    22.9556
+],
+  "geometry": {"coordinates":[121.1285,22.9556],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1226345185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.54111,23.04306,120.54111,23.04306",
+    "geom:latitude":23.04306,
+    "geom:longitude":120.54111,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E34",
+    "gn:admin4_code":"64000340002.0",
+    "gn:asciiname":"Wuqitan",
+    "gn:country_code":"TW",
+    "gn:dem":226,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677619,
+    "gn:latitude":23.04306,
+    "gn:longitude":120.54111,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wuqitan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wucitan",
+        "Wuqitan"
+    ],
+    "name:zho_x_preferred":[
+        "Pei-ch\u2019i-ting"
+    ],
+    "name:zho_x_variant":[
+        "Pei-ch\u2019i-t\u2019an",
+        "\u8708\u871e\u6f6d",
+        "Ch\u00fc-ch\u2019i-ting",
+        "Wu-ch\u2019i-t\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677619
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"60f8665d9792cdce13b88d3901317f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226345185,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1226345185,
+    "wof:lastmodified":1537709309,
+    "wof:name":"Wuqitan",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.54111,
+    23.04306,
+    120.54111,
+    23.04306
+],
+  "geometry": {"coordinates":[120.54111,23.04306],"type":"Point"}
+}

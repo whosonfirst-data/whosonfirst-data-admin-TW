@@ -1,0 +1,77 @@
+{
+  "id": 1326837629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.60389,25.00397,121.60389,25.00397",
+    "geom:latitude":25.00397,
+    "geom:longitude":121.60389,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F09",
+    "gn:admin4_code":"65000180007.0",
+    "gn:asciiname":"Wanshuncun",
+    "gn:country_code":"TW",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6729090,
+    "gn:latitude":25.00397,
+    "gn:longitude":121.60389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wanshuncun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u842c\u9806\u6751"
+    ],
+    "name:zho_x_variant":[
+        "Wan-shun-ta-k\u2019eng",
+        "Wan-shun-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6729090
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"42b576c889c7738b05df033cc3fecfa6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326837629,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1326837629,
+    "wof:lastmodified":1537709915,
+    "wof:name":"Wanshuncun",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.60389,
+    25.00397,
+    121.60389,
+    25.00397
+],
+  "geometry": {"coordinates":[121.60389000000001,25.00397],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276547635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.09365,22.88936,121.09365,22.88936",
+    "geom:latitude":22.88936,
+    "geom:longitude":121.09365,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V04",
+    "gn:admin4_code":"10014040005.0",
+    "gn:asciiname":"Jiuluming",
+    "gn:country_code":"TW",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658261,
+    "gn:latitude":22.88936,
+    "gn:longitude":121.09365,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiuluming",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiouluming",
+        "Chiu-lu-ming"
+    ],
+    "name:zho_x_preferred":[
+        "\u820a\u9e7f\u9cf4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658261
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"eed80d3fda1a4e05e7d5cca0e2949593",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276547635,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1276547635,
+    "wof:lastmodified":1537709897,
+    "wof:name":"Jiuluming",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.09365,
+    22.88936,
+    121.09365,
+    22.88936
+],
+  "geometry": {"coordinates":[121.09365,22.88936],"type":"Point"}
+}

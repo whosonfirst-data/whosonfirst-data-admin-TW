@@ -1,0 +1,78 @@
+{
+  "id": 1292909555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.1086,23.2602,120.1086,23.2602",
+    "geom:latitude":23.2602,
+    "geom:longitude":120.1086,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R16",
+    "gn:admin4_code":"67000170012.0",
+    "gn:asciiname":"Jingzijiao",
+    "gn:country_code":"TW",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678059,
+    "gn:latitude":23.2602,
+    "gn:longitude":120.1086,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jingzijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jingzihjiao",
+        "Jingzijiao",
+        "Ching-tzu-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e95\u4ed4\u8173"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678059
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7cc27288f81317e457a4c59120fae5eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1292909555,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1292909555,
+    "wof:lastmodified":1537709343,
+    "wof:name":"Jingzijiao",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.1086,
+    23.2602,
+    120.1086,
+    23.2602
+],
+  "geometry": {"coordinates":[120.1086,23.2602],"type":"Point"}
+}

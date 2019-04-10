@@ -1,0 +1,82 @@
+{
+  "id": 1327054073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.65279,24.66652,121.65279,24.66652",
+    "geom:latitude":24.66652,
+    "geom:longitude":121.65279,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G10",
+    "gn:admin4_code":"10002100008.0",
+    "gn:asciiname":"Sanxing",
+    "gn:country_code":"TW",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670091,
+    "gn:latitude":24.66652,
+    "gn:longitude":121.65279,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Sanxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sansing",
+        "Sanxing",
+        "San-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u661f"
+    ],
+    "name:zho_x_variant":[
+        "Y\u00fceh-mei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670091,
+        "wk:page":"Sanxing"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"50427fbe46e8d35d06e2cdf4ae00e031",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327054073,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1327054073,
+    "wof:lastmodified":1537708757,
+    "wof:name":"Sanxing",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.65279,
+    24.66652,
+    121.65279,
+    24.66652
+],
+  "geometry": {"coordinates":[121.65279,24.66652],"type":"Point"}
+}

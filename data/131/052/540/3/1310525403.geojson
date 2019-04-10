@@ -1,0 +1,80 @@
+{
+  "id": 1310525403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.41917,23.26667,120.41917,23.26667",
+    "geom:latitude":23.26667,
+    "geom:longitude":120.41917,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R06",
+    "gn:admin4_code":"67000060009.0",
+    "gn:asciiname":"Wangzishangtian",
+    "gn:country_code":"TW",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678076,
+    "gn:latitude":23.26667,
+    "gn:longitude":120.41917,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wangzishangtian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wangzihshangtian"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c2a\u5b50\u4e0a\u5929"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ing-t\u2019ien",
+        "Wang-tzu-shang-t\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678076
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2f293fb7d211b045b3d10b134dcc1301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310525403,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1310525403,
+    "wof:lastmodified":1537709344,
+    "wof:name":"Wangzishangtian",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.41917,
+    23.26667,
+    120.41917,
+    23.26667
+],
+  "geometry": {"coordinates":[120.41916999999999,23.26667],"type":"Point"}
+}

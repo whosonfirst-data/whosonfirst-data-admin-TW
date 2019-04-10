@@ -1,0 +1,83 @@
+{
+  "id": 1226366697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.13889,23.21639,120.13889,23.21639",
+    "geom:latitude":23.21639,
+    "geom:longitude":120.13889,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R15",
+    "gn:admin4_code":"67000160011.0",
+    "gn:asciiname":"Jiangjun",
+    "gn:country_code":"TW",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678752,
+    "gn:latitude":23.21639,
+    "gn:longitude":120.13889,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiangjun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiang-fu",
+        "Chiang-kun",
+        "Jiangjyun",
+        "Jiangjun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c07\u8ecd"
+    ],
+    "name:zho_x_variant":[
+        "Chiang-fu-ts\u2019un",
+        "Chiang-ch\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678752
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c0d6c2eb1fd6ed9b62400ca506cccf58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226366697,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1226366697,
+    "wof:lastmodified":1537709388,
+    "wof:name":"Jiangjun",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.13889,
+    23.21639,
+    120.13889,
+    23.21639
+],
+  "geometry": {"coordinates":[120.13889,23.21639],"type":"Point"}
+}

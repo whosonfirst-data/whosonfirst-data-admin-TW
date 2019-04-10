@@ -1,0 +1,81 @@
+{
+  "id": 1226166799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.32984,23.21563,120.32984,23.21563",
+    "geom:latitude":23.21563,
+    "geom:longitude":120.32984,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R10",
+    "gn:admin4_code":"67000100002.0",
+    "gn:asciiname":"Erzhen",
+    "gn:country_code":"TW",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676966,
+    "gn:latitude":23.21563,
+    "gn:longitude":120.32984,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Erzhen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erjhen",
+        "Erzhen",
+        "Erh-chen"
+    ],
+    "name:zho_x_preferred":[
+        "Erh-chen-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u4e8c\u93ae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676966
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c012e93db6fd287f419d71de955193e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226166799,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1226166799,
+    "wof:lastmodified":1537709252,
+    "wof:name":"Erzhen",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.32984,
+    23.21563,
+    120.32984,
+    23.21563
+],
+  "geometry": {"coordinates":[120.32984,23.21563],"type":"Point"}
+}

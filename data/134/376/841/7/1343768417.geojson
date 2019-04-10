@@ -1,0 +1,76 @@
+{
+  "id": 1343768417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0929,22.8366,121.0929,22.8366",
+    "geom:latitude":22.8366,
+    "geom:longitude":121.0929,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V04",
+    "gn:admin4_code":"10014040007.0",
+    "gn:asciiname":"Meinong",
+    "gn:country_code":"TW",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658279,
+    "gn:latitude":22.8366,
+    "gn:longitude":121.0929,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Meinong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mei-nung"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8e\u8fb2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658279
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"397c072417d9648e800852e1e2ab4fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343768417,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1343768417,
+    "wof:lastmodified":1537709898,
+    "wof:name":"Meinong",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0929,
+    22.8366,
+    121.0929,
+    22.8366
+],
+  "geometry": {"coordinates":[121.0929,22.8366],"type":"Point"}
+}

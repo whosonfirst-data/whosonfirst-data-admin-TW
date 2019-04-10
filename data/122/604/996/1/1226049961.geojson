@@ -1,0 +1,81 @@
+{
+  "id": 1226049961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.45791,24.92256,121.45791,24.92256",
+    "geom:latitude":24.92256,
+    "geom:longitude":121.45791,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F15",
+    "gn:admin4_code":"65000090021.0",
+    "gn:asciiname":"Nanxingqiao",
+    "gn:country_code":"TW",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653592,
+    "gn:latitude":24.92256,
+    "gn:longitude":121.45791,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nanxingqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nansingciao",
+        "Nanxingqiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6960\u8208\u6a4b"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019i-liao-k\u2019eng",
+        "Nan-hsing-ch\u2019iao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653592
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"190e64e2a2e7af41c45f3da411ef0c0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226049961,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1226049961,
+    "wof:lastmodified":1537709841,
+    "wof:name":"Nanxingqiao",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.45791,
+    24.92256,
+    121.45791,
+    24.92256
+],
+  "geometry": {"coordinates":[121.45791,24.92256],"type":"Point"}
+}

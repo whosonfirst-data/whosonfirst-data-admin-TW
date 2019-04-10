@@ -1,0 +1,82 @@
+{
+  "id": 1343958501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.07722,23.94611,121.07722,23.94611",
+    "geom:latitude":23.94611,
+    "geom:longitude":121.07722,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M13",
+    "gn:admin4_code":"10008130013.0",
+    "gn:asciiname":"Qubing",
+    "gn:country_code":"TW",
+    "gn:dem":829,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677109,
+    "gn:latitude":23.94611,
+    "gn:longitude":121.07722,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qubing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cyubing"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019\u00fc-shui-she"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019\u00fc-shui",
+        "\u66f2\u51b0",
+        "K\u2019an-t\u2019a-pan",
+        "Ch\u2019\u00fc-ping"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677109
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"14b0f9e6eab41adeaf55a6a3aea382ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343958501,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1343958501,
+    "wof:lastmodified":1537709264,
+    "wof:name":"Qubing",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.07722,
+    23.94611,
+    121.07722,
+    23.94611
+],
+  "geometry": {"coordinates":[121.07722,23.94611],"type":"Point"}
+}

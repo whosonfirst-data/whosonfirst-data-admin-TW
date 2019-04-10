@@ -1,0 +1,72 @@
+{
+  "id": 1209215311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.67694,23.53639,120.67694,23.53639",
+    "geom:latitude":23.53639,
+    "geom:longitude":120.67694,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q16",
+    "gn:admin4_code":"10010150016.0",
+    "gn:asciiname":"Neixi",
+    "gn:country_code":"TW",
+    "gn:dem":935,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6580125,
+    "gn:latitude":23.53639,
+    "gn:longitude":120.67694,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Neixi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neisi",
+        "Neixi",
+        "Nei-hsi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5185\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6580125
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fbe917f03b9a97401e6362010df01b98",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209215311
+        }
+    ],
+    "wof:id":1209215311,
+    "wof:lastmodified":1537709559,
+    "wof:name":"Neixi",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.67694,
+    23.53639,
+    120.67694,
+    23.53639
+],
+  "geometry": {"coordinates":[120.67694,23.53639],"type":"Point"}
+}

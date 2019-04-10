@@ -1,0 +1,77 @@
+{
+  "id": 1243364071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.80977,23.99017,120.80977,23.99017",
+    "geom:latitude":23.99017,
+    "geom:longitude":120.80977,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M03",
+    "gn:admin4_code":"10008030022.0",
+    "gn:asciiname":"Cukeng",
+    "gn:country_code":"TW",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666793,
+    "gn:latitude":23.99017,
+    "gn:longitude":120.80977,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Cukeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7c97\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Ts\u2019u-k\u2019ou-k\u2019eng",
+        "Ts\u2019u-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666793
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e8840dde3e721232bbde67c15d79a646",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243364071,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1243364071,
+    "wof:lastmodified":1537708521,
+    "wof:name":"Cukeng",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.80977,
+    23.99017000000001,
+    120.80977,
+    23.99017000000001
+],
+  "geometry": {"coordinates":[120.80977,23.99017000000001],"type":"Point"}
+}

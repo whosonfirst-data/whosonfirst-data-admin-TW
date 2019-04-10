@@ -1,0 +1,77 @@
+{
+  "id": 1309804161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.13358,25.02907,121.13358,25.02907",
+    "geom:latitude":25.02907,
+    "geom:longitude":121.13358,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H12",
+    "gn:admin4_code":"68000120017.0",
+    "gn:asciiname":"Dacaocuo",
+    "gn:country_code":"TW",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646506,
+    "gn:latitude":25.02907,
+    "gn:longitude":121.13358,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dacaocuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u8349\u539d"
+    ],
+    "name:zho_x_variant":[
+        "Ta-ts\u2019ao-wu",
+        "Ta-ts\u2019ao-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646506
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cc088ec762eb30c9f74d46ec7e317477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309804161,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1309804161,
+    "wof:lastmodified":1537709736,
+    "wof:name":"Dacaocuo",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.13358,
+    25.02907,
+    121.13358,
+    25.02907
+],
+  "geometry": {"coordinates":[121.13357999999999,25.02907],"type":"Point"}
+}

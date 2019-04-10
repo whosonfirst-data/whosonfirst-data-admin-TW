@@ -1,0 +1,80 @@
+{
+  "id": 1226242985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.90332,23.82047,120.90332,23.82047",
+    "geom:latitude":23.82047,
+    "geom:longitude":120.90332,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M09",
+    "gn:admin4_code":"10008090011.0",
+    "gn:asciiname":"Neiwazi",
+    "gn:country_code":"TW",
+    "gn:dem":655,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671385,
+    "gn:latitude":23.82047,
+    "gn:longitude":120.90332,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Neiwazi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neiwazih",
+        "Nei-wa-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5185\u51f9\u4ed4"
+    ],
+    "name:zho_x_variant":[
+        "Nei-t\u2019a-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671385
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3c17e458008a745ef1fda2468c3b4e66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226242985,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1226242985,
+    "wof:lastmodified":1537708839,
+    "wof:name":"Neiwazi",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.90332,
+    23.82047,
+    120.90332,
+    23.82047
+],
+  "geometry": {"coordinates":[120.90331999999999,23.82047],"type":"Point"}
+}

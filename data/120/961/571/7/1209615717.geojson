@@ -1,0 +1,75 @@
+{
+  "id": 1209615717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.72858,24.72915,121.72858,24.72915",
+    "geom:latitude":24.72915,
+    "geom:longitude":121.72858,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G05",
+    "gn:admin4_code":"10002070003.0",
+    "gn:asciiname":"Zhenliao",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647283,
+    "gn:latitude":24.72915,
+    "gn:longitude":121.72858,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhenliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhenliao",
+        "Zhenliao",
+        "Chen-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5733\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u00fcn-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647283
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7ae9bf56c1e867166ec0518a91633399",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209615717
+        }
+    ],
+    "wof:id":1209615717,
+    "wof:lastmodified":1537709755,
+    "wof:name":"Zhenliao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.72858,
+    24.72915,
+    121.72858,
+    24.72915
+],
+  "geometry": {"coordinates":[121.72857999999999,24.72915],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209039595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.23306,24.87528,121.23306,24.87528",
+    "geom:latitude":24.87528,
+    "geom:longitude":121.23306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H09",
+    "gn:admin4_code":"68000090014.0",
+    "gn:asciiname":"Zhujiazhuang",
+    "gn:country_code":"TW",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6574173,
+    "gn:latitude":24.87528,
+    "gn:longitude":121.23306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhujiazhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhujiajhuang",
+        "Zhujiazhuang",
+        "Chu-chia-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c6c\u5bb6\u838a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6574173
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"76978488ce76ec1619933b09caa6ded1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209039595
+        }
+    ],
+    "wof:id":1209039595,
+    "wof:lastmodified":1537709518,
+    "wof:name":"Zhujiazhuang",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.23306,
+    24.87528,
+    121.23306,
+    24.87528
+],
+  "geometry": {"coordinates":[121.23305999999999,24.87528],"type":"Point"}
+}

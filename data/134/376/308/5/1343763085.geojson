@@ -1,0 +1,78 @@
+{
+  "id": 1343763085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.15667,23.145,120.15667,23.145",
+    "geom:latitude":23.145,
+    "geom:longitude":120.15667,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R12",
+    "gn:admin4_code":"67000120016.0",
+    "gn:asciiname":"Buding",
+    "gn:country_code":"TW",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670283,
+    "gn:latitude":23.145,
+    "gn:longitude":120.15667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Buding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pu-ting",
+        "Buding",
+        "\u57d4\u9802"
+    ],
+    "name:zho_x_preferred":[
+        "\u57d4\u9802"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670283
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"232bbc5fb27de6275153bf4b3a4c6365",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343763085,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1343763085,
+    "wof:lastmodified":1537708771,
+    "wof:name":"Buding",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.15667,
+    23.145,
+    120.15667,
+    23.145
+],
+  "geometry": {"coordinates":[120.15667000000001,23.145],"type":"Point"}
+}

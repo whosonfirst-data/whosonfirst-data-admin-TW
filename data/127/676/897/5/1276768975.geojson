@@ -1,0 +1,76 @@
+{
+  "id": 1276768975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.22889,24.18778,121.22889,24.18778",
+    "geom:latitude":24.18778,
+    "geom:longitude":121.22889,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M13",
+    "gn:admin4_code":"10008130015.0",
+    "gn:asciiname":"Huagang",
+    "gn:country_code":"TW",
+    "gn:dem":2281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6595358,
+    "gn:latitude":24.18778,
+    "gn:longitude":121.22889,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Huagang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hua-kang"
+    ],
+    "name:zho_x_preferred":[
+        "\u83ef\u5ca1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6595358
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e6b0dc4b3aa6c3201f75c735f185a3ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276768975,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1276768975,
+    "wof:lastmodified":1537709611,
+    "wof:name":"Huagang",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.22889,
+    24.18778,
+    121.22889,
+    24.18778
+],
+  "geometry": {"coordinates":[121.22889000000001,24.18778],"type":"Point"}
+}

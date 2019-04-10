@@ -1,0 +1,83 @@
+{
+  "id": 1259985961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.51069,22.5333,120.51069,22.5333",
+    "geom:latitude":22.5333,
+    "geom:longitude":120.51069,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T18",
+    "gn:admin4_code":"10013180003.0",
+    "gn:asciiname":"Tuge",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676036,
+    "gn:latitude":22.5333,
+    "gn:longitude":120.51069,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tuge",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u571f\u845b",
+        "Hou-lang",
+        "Tuge"
+    ],
+    "name:zho_x_preferred":[
+        "T\u2019u-ko"
+    ],
+    "name:zho_x_variant":[
+        "Hou-k\u2019uo",
+        "T\u2019u-ko-k\u2019u",
+        "\u571f\u845b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676036
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"48ae7a8e4349a389956d81279bb83580",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259985961,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1259985961,
+    "wof:lastmodified":1537709184,
+    "wof:name":"Tuge",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.51069,
+    22.5333,
+    120.51069,
+    22.5333
+],
+  "geometry": {"coordinates":[120.51069,22.5333],"type":"Point"}
+}

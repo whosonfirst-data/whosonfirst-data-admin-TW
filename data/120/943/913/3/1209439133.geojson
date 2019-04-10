@@ -1,0 +1,76 @@
+{
+  "id": 1209439133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.63733,23.98754,120.63733,23.98754",
+    "geom:latitude":23.98754,
+    "geom:longitude":120.63733,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N14",
+    "gn:admin4_code":"10007090009.0",
+    "gn:asciiname":"Zhenqian",
+    "gn:country_code":"TW",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677506,
+    "gn:latitude":23.98754,
+    "gn:longitude":120.63733,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhenqian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhencian",
+        "Zhenqian"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019\u00fcan-ch\u2019ien"
+    ],
+    "name:zho_x_variant":[
+        "\u5733\u4e7e",
+        "Chun-ch\u2019ien",
+        "Chen-ch\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677506
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3a92d4461b86623f7d537a4ca21033c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209439133
+        }
+    ],
+    "wof:id":1209439133,
+    "wof:lastmodified":1537709301,
+    "wof:name":"Zhenqian",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.63733,
+    23.98754,
+    120.63733,
+    23.98754
+],
+  "geometry": {"coordinates":[120.63733000000001,23.98754],"type":"Point"}
+}

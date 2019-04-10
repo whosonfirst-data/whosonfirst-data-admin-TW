@@ -1,0 +1,71 @@
+{
+  "id": 1209439099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.77833,23.64639,120.77833,23.64639",
+    "geom:latitude":23.64639,
+    "geom:longitude":120.77833,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M04",
+    "gn:admin4_code":"10008040019.0",
+    "gn:asciiname":"Yingfengbao",
+    "gn:country_code":"TW",
+    "gn:dem":1586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602756,
+    "gn:latitude":23.64639,
+    "gn:longitude":120.77833,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yingfengbao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yingfongbao",
+        "Ying-feng-pao"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fce\u98a8\u5821"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602756
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1448fd7c28a2a789aac29b71d5c1a894",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209439099
+        }
+    ],
+    "wof:id":1209439099,
+    "wof:lastmodified":1537709669,
+    "wof:name":"Yingfengbao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.77833,
+    23.64639,
+    120.77833,
+    23.64639
+],
+  "geometry": {"coordinates":[120.77833,23.64639],"type":"Point"}
+}

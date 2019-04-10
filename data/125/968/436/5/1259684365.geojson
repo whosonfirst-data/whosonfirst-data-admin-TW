@@ -1,0 +1,76 @@
+{
+  "id": 1259684365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9292,24.70096,120.9292,24.70096",
+    "geom:latitude":24.70096,
+    "geom:longitude":120.9292,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K10",
+    "gn:admin4_code":"10005050005.0",
+    "gn:asciiname":"Nanhu",
+    "gn:country_code":"TW",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671751,
+    "gn:latitude":24.70096,
+    "gn:longitude":120.9292,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nanhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan-hu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e73\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671751
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bfd9ae3a3f0400c7d26fa29c100a4f92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259684365,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1259684365,
+    "wof:lastmodified":1537708862,
+    "wof:name":"Nanhu",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9292,
+    24.70096,
+    120.9292,
+    24.70096
+],
+  "geometry": {"coordinates":[120.92919999999999,24.70096],"type":"Point"}
+}

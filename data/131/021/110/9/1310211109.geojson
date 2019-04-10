@@ -1,0 +1,73 @@
+{
+  "id": 1310211109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.70839,25.16822,121.70839,25.16822",
+    "geom:latitude":25.16822,
+    "geom:longitude":121.70839,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dawulun'ao",
+    "gn:country_code":"TW",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667579,
+    "gn:latitude":25.16822,
+    "gn:longitude":121.70839,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dawulun\u2019ao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-wu-lun-ao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6b66\u5d19\u6fb3"
+    ],
+    "name:zho_x_variant":[
+        "Dawulun\u2019ao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667579
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8f29b58f49efcf42045b680a00781a65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310211109,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310211109,
+    "wof:lastmodified":1537708580,
+    "wof:name":"Dawulun'ao",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.70839,
+    25.16822,
+    121.70839,
+    25.16822
+],
+  "geometry": {"coordinates":[121.70838999999999,25.16822],"type":"Point"}
+}

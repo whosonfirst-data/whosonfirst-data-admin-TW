@@ -1,0 +1,76 @@
+{
+  "id": 1242778475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.61667,24.45,121.61667,24.45",
+    "geom:latitude":24.45,
+    "geom:longitude":121.61667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G12",
+    "gn:admin4_code":"10002120006.0",
+    "gn:asciiname":"Liuxing",
+    "gn:country_code":"TW",
+    "gn:dem":798,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672728,
+    "gn:latitude":24.45,
+    "gn:longitude":121.61667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liuxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liao-hen",
+        "Liao-hen-she",
+        "Liu-hsing",
+        "Liuxing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672728
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"72d400223b2410190d34f0357969a4d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242778475,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1242778475,
+    "wof:lastmodified":1537708924,
+    "wof:name":"Liuxing",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.61667,
+    24.45,
+    121.61667,
+    24.45
+],
+  "geometry": {"coordinates":[121.61667,24.45],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1260104207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.28346,23.50901,120.28346,23.50901",
+    "geom:latitude":23.50901,
+    "geom:longitude":120.28346,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q08",
+    "gn:admin4_code":"10010080008.0",
+    "gn:asciiname":"Datushi",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667621,
+    "gn:latitude":23.50901,
+    "gn:longitude":120.28346,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Datushi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Datushih",
+        "Datushi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5857\u5e2b"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019u-shih-tzu",
+        "Ta-t\u2019u-shih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667621
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0967ada2010166d457eef7d85e3d2ad2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260104207,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1260104207,
+    "wof:lastmodified":1537708583,
+    "wof:name":"Datushi",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.28346,
+    23.50901,
+    120.28346,
+    23.50901
+],
+  "geometry": {"coordinates":[120.28346000000001,23.50901],"type":"Point"}
+}

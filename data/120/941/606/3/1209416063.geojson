@@ -1,0 +1,72 @@
+{
+  "id": 1209416063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.27909,23.21563,120.27909,23.21563",
+    "geom:latitude":23.21563,
+    "geom:longitude":120.27909,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R08",
+    "gn:admin4_code":"67000080011.0",
+    "gn:asciiname":"Maogangwei",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672155,
+    "gn:latitude":23.21563,
+    "gn:longitude":120.27909,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Maogangwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mao-chiang-wei",
+        "Maogangwei",
+        "Mao-kang-wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u8305\u6e2f\u5c3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672155
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"47a40f331a6b7634465adfe6d466fa76",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209416063
+        }
+    ],
+    "wof:id":1209416063,
+    "wof:lastmodified":1537708886,
+    "wof:name":"Maogangwei",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.27909,
+    23.21563,
+    120.27909,
+    23.21563
+],
+  "geometry": {"coordinates":[120.27909,23.21563],"type":"Point"}
+}

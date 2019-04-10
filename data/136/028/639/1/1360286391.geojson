@@ -1,0 +1,83 @@
+{
+  "id": 1360286391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.94667,24.75528,120.94667,24.75528",
+    "geom:latitude":24.75528,
+    "geom:longitude":120.94667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSQ",
+    "gn:admin3_code":"O03",
+    "gn:admin4_code":"10018030017.0",
+    "gn:asciiname":"Qiedonghu",
+    "gn:country_code":"TW",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678556,
+    "gn:latitude":24.75528,
+    "gn:longitude":120.94667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qiedonghu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Iu-tung-Li",
+        "Qiedonghu",
+        "Ciedonghu"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019ieh-tung"
+    ],
+    "name:zho_x_variant":[
+        "\u8304\u82f3\u6e56",
+        "Ch\u2019ieh-tung-li",
+        "Ch\u2019ieh-tung-hu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679557,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678556
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9fc65b2d52cc4cb776532393f8457dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360286391,
+            "macroregion_id":1108808557,
+            "region_id":85679557
+        }
+    ],
+    "wof:id":1360286391,
+    "wof:lastmodified":1537709375,
+    "wof:name":"Qiedonghu",
+    "wof:parent_id":85679557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.94667,
+    24.75528,
+    120.94667,
+    24.75528
+],
+  "geometry": {"coordinates":[120.94667,24.75528],"type":"Point"}
+}

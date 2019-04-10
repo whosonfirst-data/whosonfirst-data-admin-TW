@@ -1,0 +1,80 @@
+{
+  "id": 1276555291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.59932,25.21152,121.59932,25.21152",
+    "geom:latitude":25.21152,
+    "geom:longitude":121.59932,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F25",
+    "gn:admin4_code":"65000270007.0",
+    "gn:asciiname":"Linzhuang",
+    "gn:country_code":"TW",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672881,
+    "gn:latitude":25.21152,
+    "gn:longitude":121.59932,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Linzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Linjhuang",
+        "Lin-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u838a"
+    ],
+    "name:zho_x_variant":[
+        "Lin-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672881
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e08aa7a92020c708e478394c34904aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276555291,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1276555291,
+    "wof:lastmodified":1537708934,
+    "wof:name":"Linzhuang",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.59932,
+    25.21152,
+    121.59932,
+    25.21152
+],
+  "geometry": {"coordinates":[121.59932000000001,25.21152],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1343864335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.65965,23.5853,119.65965,23.5853",
+    "geom:latitude":23.5853,
+    "geom:longitude":119.65965,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PEN",
+    "gn:admin3_code":"X02",
+    "gn:admin4_code":"10016020001.0",
+    "gn:asciiname":"Huxi",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674434,
+    "gn:latitude":23.5853,
+    "gn:longitude":119.65965,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Huxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Husi",
+        "Huxi",
+        "Hu-hsi"
+    ],
+    "name:zho_x_preferred":[
+        "Hu-hsi-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u6e56\u897f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679627,
+        102191569,
+        85632403,
+        1108500085,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674434,
+        "wk:page":"Huxi,_Penghu"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6ade1b725be393dd6ff45caea7ee0fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343864335,
+            "macrocounty_id":1108500085,
+            "macroregion_id":1108808557,
+            "region_id":85679627
+        }
+    ],
+    "wof:id":1343864335,
+    "wof:lastmodified":1537709041,
+    "wof:name":"Huxi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.65965,
+    23.5853,
+    119.65965,
+    23.5853
+],
+  "geometry": {"coordinates":[119.65965,23.5853],"type":"Point"}
+}

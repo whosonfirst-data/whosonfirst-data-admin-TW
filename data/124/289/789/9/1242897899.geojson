@@ -1,0 +1,77 @@
+{
+  "id": 1242897899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.13854,23.26296,120.13854,23.26296",
+    "geom:latitude":23.26296,
+    "geom:longitude":120.13854,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R16",
+    "gn:admin4_code":"67000170009.0",
+    "gn:asciiname":"Huiyaogang",
+    "gn:country_code":"TW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6749532,
+    "gn:latitude":23.26296,
+    "gn:longitude":120.13854,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Huiyaogang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hueiyaogang",
+        "Hui-yao-kang"
+    ],
+    "name:zho_x_preferred":[
+        "\u7070\u78d8\u6e2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6749532
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"921dd1f224065db5831f3dae3fe96657",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242897899,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1242897899,
+    "wof:lastmodified":1537709953,
+    "wof:name":"Huiyaogang",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.13854,
+    23.26296,
+    120.13854,
+    23.26296
+],
+  "geometry": {"coordinates":[120.13854000000001,23.26296],"type":"Point"}
+}

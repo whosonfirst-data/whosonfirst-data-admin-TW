@@ -1,0 +1,82 @@
+{
+  "id": 1344181263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.18556,23.08639,120.18556,23.08639",
+    "geom:latitude":23.08639,
+    "geom:longitude":120.18556,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R13",
+    "gn:admin4_code":"67000140011.0",
+    "gn:asciiname":"Xibuliao",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674720,
+    "gn:latitude":23.08639,
+    "gn:longitude":120.18556,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xibuliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-pu-liao",
+        "Xibuliao",
+        "Sibuliao",
+        "\u6eaa\u57d4\u5bee"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019i-pu-liao"
+    ],
+    "name:zho_x_variant":[
+        "\u6eaa\u57d4\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674720
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2899d2e6cfb0edb18db3a583c9f27b0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344181263,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1344181263,
+    "wof:lastmodified":1537709064,
+    "wof:name":"Xibuliao",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.18556,
+    23.08639,
+    120.18556,
+    23.08639
+],
+  "geometry": {"coordinates":[120.18556,23.08639],"type":"Point"}
+}

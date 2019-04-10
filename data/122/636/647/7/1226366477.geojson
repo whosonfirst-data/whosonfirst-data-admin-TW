@@ -1,0 +1,78 @@
+{
+  "id": 1226366477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.35469,23.0525,120.35469,23.0525",
+    "geom:latitude":23.0525,
+    "geom:longitude":120.35469,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R18",
+    "gn:admin4_code":"67000180019.0",
+    "gn:asciiname":"Yangziliao",
+    "gn:country_code":"TW",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665596,
+    "gn:latitude":23.0525,
+    "gn:longitude":120.35469,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yangziliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yangzihliao",
+        "Yangziliao",
+        "Yang-tzu-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8a\u5b50\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665596
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"942fac50fccbef326f5d0a97f8f30b7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226366477,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1226366477,
+    "wof:lastmodified":1537708445,
+    "wof:name":"Yangziliao",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.35469,
+    23.0525,
+    120.35469,
+    23.0525
+],
+  "geometry": {"coordinates":[120.35469000000001,23.0525],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293595435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5637,25.07482,121.5637,25.07482",
+    "geom:latitude":25.07482,
+    "geom:longitude":121.5637,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A10",
+    "gn:admin4_code":"63000040041.0",
+    "gn:asciiname":"Datayou",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6728741,
+    "gn:latitude":25.07482,
+    "gn:longitude":121.5637,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Datayou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u5854\u60a0"
+    ],
+    "name:zho_x_variant":[
+        "Ta-t\u2019a-yu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6728741
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c434e3bcea0df8e7da0ad2a9427523fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293595435,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1293595435,
+    "wof:lastmodified":1537709909,
+    "wof:name":"Datayou",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5637,
+    25.07482000000001,
+    121.5637,
+    25.07482000000001
+],
+  "geometry": {"coordinates":[121.5637,25.07482000000001],"type":"Point"}
+}

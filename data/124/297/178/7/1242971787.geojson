@@ -1,0 +1,77 @@
+{
+  "id": 1242971787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.81784,24.60431,120.81784,24.60431",
+    "geom:latitude":24.60431,
+    "geom:longitude":120.81784,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K12",
+    "gn:admin4_code":"10005060006.0",
+    "gn:asciiname":"Xiazhuangzi",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646078,
+    "gn:latitude":24.60431,
+    "gn:longitude":120.81784,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiazhuangzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siajhuangzih",
+        "Hsia-chuang-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u5e84\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646078
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"818de27eb7dce61aaa2ca2806c76692a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242971787,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1242971787,
+    "wof:lastmodified":1537709719,
+    "wof:name":"Xiazhuangzi",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.81784,
+    24.60431,
+    120.81784,
+    24.60431
+],
+  "geometry": {"coordinates":[120.81784,24.60431],"type":"Point"}
+}

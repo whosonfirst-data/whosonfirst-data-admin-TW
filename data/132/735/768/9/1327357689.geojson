@@ -1,0 +1,77 @@
+{
+  "id": 1327357689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.575,22.40139,120.575,22.40139",
+    "geom:latitude":22.40139,
+    "geom:longitude":120.575,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T16",
+    "gn:admin4_code":"10013160014.0",
+    "gn:asciiname":"Donghai",
+    "gn:country_code":"TW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670854,
+    "gn:latitude":22.40139,
+    "gn:longitude":120.575,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Donghai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pei-ch\u2019i-wei",
+        "\u6771\u6d77",
+        "Tung-hai-ts\u2019un",
+        "Donghai",
+        "Tung-hai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670854
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1db09eedeaea1e5cac2240c1d2cc5587",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327357689,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1327357689,
+    "wof:lastmodified":1537708806,
+    "wof:name":"Donghai",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.575,
+    22.40139,
+    120.575,
+    22.40139
+],
+  "geometry": {"coordinates":[120.575,22.40139],"type":"Point"}
+}

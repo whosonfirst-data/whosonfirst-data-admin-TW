@@ -1,0 +1,77 @@
+{
+  "id": 1293613377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.75603,23.77983,120.75603,23.77983",
+    "geom:latitude":23.77983,
+    "geom:longitude":120.75603,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M07",
+    "gn:admin4_code":"10008070011.0",
+    "gn:asciiname":"Kugualiao",
+    "gn:country_code":"TW",
+    "gn:dem":349,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671448,
+    "gn:latitude":23.77983,
+    "gn:longitude":120.75603,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kugualiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u82e6\u74dc\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Nei-k\u2019u-kua-liao",
+        "K\u2019u-kua-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671448
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3e8dbebc67c0b9a7e6ebab9a1154db0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293613377,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1293613377,
+    "wof:lastmodified":1537708843,
+    "wof:name":"Kugualiao",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.75603,
+    23.77983,
+    120.75603,
+    23.77983
+],
+  "geometry": {"coordinates":[120.75603,23.77983],"type":"Point"}
+}

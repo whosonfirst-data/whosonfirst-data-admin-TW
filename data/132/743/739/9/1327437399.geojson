@@ -1,0 +1,80 @@
+{
+  "id": 1327437399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5084,24.17941,121.5084,24.17941",
+    "geom:latitude":24.17941,
+    "geom:longitude":121.5084,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U11",
+    "gn:admin4_code":"10015110002.0",
+    "gn:asciiname":"Lueshui",
+    "gn:country_code":"TW",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672316,
+    "gn:latitude":24.17941,
+    "gn:longitude":121.5084,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"L\u00fcshui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lyushuei"
+    ],
+    "name:zho_x_preferred":[
+        "\u7da0\u6c34"
+    ],
+    "name:zho_x_variant":[
+        "L\u00fcshui",
+        "L\u00fc-shui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672316
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"40d085f6b52f45b657b09f563faf71ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327437399,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1327437399,
+    "wof:lastmodified":1537708895,
+    "wof:name":"Lueshui",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5084,
+    24.17941,
+    121.5084,
+    24.17941
+],
+  "geometry": {"coordinates":[121.50839999999999,24.17941],"type":"Point"}
+}

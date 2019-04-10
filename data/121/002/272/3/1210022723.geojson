@@ -1,0 +1,80 @@
+{
+  "id": 1210022723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.49083,23.51174,120.49083,23.51174",
+    "geom:latitude":23.51174,
+    "geom:longitude":120.49083,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q15",
+    "gn:admin4_code":"10010140006.0",
+    "gn:asciiname":"Huotanbuzi",
+    "gn:country_code":"TW",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674146,
+    "gn:latitude":23.51174,
+    "gn:longitude":120.49083,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Huotanbuzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huotanbuzih",
+        "Jen-ho"
+    ],
+    "name:zho_x_preferred":[
+        "\u706b\u70ad\u57d4\u5b50"
+    ],
+    "name:zho_x_variant":[
+        "Huo-t\u2019an-pu-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674146
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d4f45aa7e5a9c90c917785a0a0e1aea2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1210022723,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1210022723,
+    "wof:lastmodified":1537709024,
+    "wof:name":"Huotanbuzi",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.49083,
+    23.51174,
+    120.49083,
+    23.51174
+],
+  "geometry": {"coordinates":[120.49083,23.51174],"type":"Point"}
+}

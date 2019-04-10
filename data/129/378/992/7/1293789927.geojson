@@ -1,0 +1,76 @@
+{
+  "id": 1293789927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.94017,23.82136,120.94017,23.82136",
+    "geom:latitude":23.82136,
+    "geom:longitude":120.94017,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M12",
+    "gn:admin4_code":"10008120003.0",
+    "gn:asciiname":"Tannan",
+    "gn:country_code":"TW",
+    "gn:dem":736,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667989,
+    "gn:latitude":23.82136,
+    "gn:longitude":120.94017,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tannan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6f6d\u5357"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019an-nan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667989
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fa0dd8781b2bbcf01beec620c9ff3b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293789927,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1293789927,
+    "wof:lastmodified":1537708603,
+    "wof:name":"Tannan",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.94017,
+    23.82136,
+    120.94017,
+    23.82136
+],
+  "geometry": {"coordinates":[120.94016999999999,23.82136],"type":"Point"}
+}

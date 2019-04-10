@@ -1,0 +1,79 @@
+{
+  "id": 1310111729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.73472,24.27194,120.73472,24.27194",
+    "geom:latitude":24.27194,
+    "geom:longitude":120.73472,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B09",
+    "gn:admin4_code":"66000090036.0",
+    "gn:asciiname":"Shezi",
+    "gn:country_code":"TW",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669497,
+    "gn:latitude":24.27194,
+    "gn:longitude":120.73472,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shezi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wei-she-chuang",
+        "Shezih",
+        "Shezi",
+        "She-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u793e\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669497
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"76e19dad4500170261fe5b639321b945",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310111729,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1310111729,
+    "wof:lastmodified":1537708712,
+    "wof:name":"Shezi",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.73472,
+    24.27194,
+    120.73472,
+    24.27194
+],
+  "geometry": {"coordinates":[120.73472,24.27194],"type":"Point"}
+}

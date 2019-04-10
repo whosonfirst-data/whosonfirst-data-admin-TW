@@ -1,0 +1,79 @@
+{
+  "id": 1243068099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6615,24.00143,120.6615,24.00143",
+    "geom:latitude":24.00143,
+    "geom:longitude":120.6615,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M03",
+    "gn:admin4_code":"10008030016.0",
+    "gn:asciiname":"Tiancuozi",
+    "gn:country_code":"TW",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667353,
+    "gn:latitude":24.00143,
+    "gn:longitude":120.6615,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tiancuozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u7530\u539d\u5b50",
+        "Tiancuozi",
+        "Tiancuozih",
+        "T\u2019ien-ts\u2019o-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "T\u2019ien-ts\u2019o-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667353
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"82bb3826b35c39333989dc73c7db6b52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243068099,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1243068099,
+    "wof:lastmodified":1537708564,
+    "wof:name":"Tiancuozi",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6615,
+    24.00143,
+    120.6615,
+    24.00143
+],
+  "geometry": {"coordinates":[120.6615,24.00143],"type":"Point"}
+}

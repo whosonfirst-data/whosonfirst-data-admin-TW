@@ -1,0 +1,76 @@
+{
+  "id": 1209220801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8689,24.4518,120.8689,24.4518",
+    "geom:latitude":24.4518,
+    "geom:longitude":120.8689,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K15",
+    "gn:admin4_code":"10005080004.0",
+    "gn:asciiname":"Sanshi'erfen",
+    "gn:country_code":"TW",
+    "gn:dem":401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668261,
+    "gn:latitude":24.4518,
+    "gn:longitude":120.8689,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanshi\u2019erfen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-jen",
+        "San-shih-erh-fen",
+        "\u4e09\u5341\u4e8c\u5206"
+    ],
+    "name:zho_x_preferred":[
+        "Sanshih\u2019erfen"
+    ],
+    "name:zho_x_variant":[
+        "Sanshi\u2019erfen",
+        "\u4e09\u5341\u4e8c\u5206"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668261
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8090b17c1173c6e1e98c5a7e8f1482d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209220801
+        }
+    ],
+    "wof:id":1209220801,
+    "wof:lastmodified":1537708619,
+    "wof:name":"Sanshi'erfen",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8689,
+    24.4518,
+    120.8689,
+    24.4518
+],
+  "geometry": {"coordinates":[120.8689,24.4518],"type":"Point"}
+}

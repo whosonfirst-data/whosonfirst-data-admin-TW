@@ -1,0 +1,83 @@
+{
+  "id": 1292938765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.84015,24.52842,120.84015,24.52842",
+    "geom:latitude":24.52842,
+    "geom:longitude":120.84015,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K04",
+    "gn:admin4_code":"10005090016.0",
+    "gn:asciiname":"Kuanren",
+    "gn:country_code":"TW",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673541,
+    "gn:latitude":24.52842,
+    "gn:longitude":120.84015,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kuanren",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho-kang",
+        "Hao-tzu-kang",
+        "Hao-kang",
+        "Kuanren"
+    ],
+    "name:zho_x_preferred":[
+        "K\u2019uan-jen-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u5bec\u4ec1",
+        "K\u2019uan-jen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673541
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"593477492ab6eb61e02f7b27ffcd3139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1292938765,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1292938765,
+    "wof:lastmodified":1537708977,
+    "wof:name":"Kuanren",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.84015,
+    24.52842,
+    120.84015,
+    24.52842
+],
+  "geometry": {"coordinates":[120.84014999999999,24.52842],"type":"Point"}
+}

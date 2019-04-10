@@ -1,0 +1,77 @@
+{
+  "id": 1326963461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.53389,23.6625,120.53389,23.6625",
+    "geom:latitude":23.6625,
+    "geom:longitude":120.53389,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P01",
+    "gn:admin4_code":"10009010017.0",
+    "gn:asciiname":"Dingchai",
+    "gn:country_code":"TW",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667301,
+    "gn:latitude":23.6625,
+    "gn:longitude":120.53389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingchai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9802\u67f4"
+    ],
+    "name:zho_x_variant":[
+        "Ting-ch\u2019ai-li",
+        "Ting-ch\u2019ai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667301
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c0e2013ee757b03ca3dff3c9a8743fd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326963461,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1326963461,
+    "wof:lastmodified":1537708559,
+    "wof:name":"Dingchai",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.53389,
+    23.6625,
+    120.53389,
+    23.6625
+],
+  "geometry": {"coordinates":[120.53389,23.6625],"type":"Point"}
+}

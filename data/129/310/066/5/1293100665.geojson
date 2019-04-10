@@ -1,0 +1,79 @@
+{
+  "id": 1293100665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.87222,24.98083,121.87222,24.98083",
+    "geom:latitude":24.98083,
+    "geom:longitude":121.87222,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F24",
+    "gn:admin4_code":"65000260002.0",
+    "gn:asciiname":"Chipiliao",
+    "gn:country_code":"TW",
+    "gn:dem":271,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6594398,
+    "gn:latitude":24.98083,
+    "gn:longitude":121.87222,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chipiliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chihpiliao"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d64\u76ae\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ih-p\u2019i-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6594398
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a62e82eff924bed8cfbe33f386b9368b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293100665,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1293100665,
+    "wof:lastmodified":1537709605,
+    "wof:name":"Chipiliao",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.87222,
+    24.98083,
+    121.87222,
+    24.98083
+],
+  "geometry": {"coordinates":[121.87222,24.98083],"type":"Point"}
+}

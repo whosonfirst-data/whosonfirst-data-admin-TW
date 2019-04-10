@@ -1,0 +1,87 @@
+{
+  "id": 1276880717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.45075,25.13312,121.45075,25.13312",
+    "geom:latitude":25.13312,
+    "geom:longitude":121.45075,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F32",
+    "gn:admin4_code":"65000230001.0",
+    "gn:asciiname":"Longxing",
+    "gn:country_code":"TW",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672390,
+    "gn:latitude":25.13312,
+    "gn:longitude":121.45075,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Longxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lung-y\u00fcan",
+        "She-tzu-hsing",
+        "Shih-wei",
+        "Shui-wei",
+        "Longxing",
+        "Longsing",
+        "Lung-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "Lung-y\u00fcan-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Shih-wei-ts\u2019un",
+        "\u9f8d\u5f62",
+        "Lung-y\u00fcan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672390
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bd0aaac6729591ef604b7b892101bac4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276880717,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1276880717,
+    "wof:lastmodified":1537708902,
+    "wof:name":"Longxing",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.45075,
+    25.13312,
+    121.45075,
+    25.13312
+],
+  "geometry": {"coordinates":[121.45075,25.13312],"type":"Point"}
+}

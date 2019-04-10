@@ -1,0 +1,79 @@
+{
+  "id": 1309745053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.92152,24.70412,120.92152,24.70412",
+    "geom:latitude":24.70412,
+    "geom:longitude":120.92152,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040020.0",
+    "gn:asciiname":"Chiqixia",
+    "gn:country_code":"TW",
+    "gn:dem":60,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646247,
+    "gn:latitude":24.70412,
+    "gn:longitude":120.92152,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chiqixia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chihcisia"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d64\u5d0e\u4e0b"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ih-ch\u2019i-hsia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646247
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"054e9b78e24230cc77c67fc8ef9eefd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309745053,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1309745053,
+    "wof:lastmodified":1537709732,
+    "wof:name":"Chiqixia",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.92152,
+    24.70412,
+    120.92152,
+    24.70412
+],
+  "geometry": {"coordinates":[120.92152,24.70412],"type":"Point"}
+}

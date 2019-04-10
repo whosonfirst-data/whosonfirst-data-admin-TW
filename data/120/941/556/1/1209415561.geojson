@@ -1,0 +1,74 @@
+{
+  "id": 1209415561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.45917,24.07028,120.45917,24.07028",
+    "geom:latitude":24.07028,
+    "geom:longitude":120.45917,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N02",
+    "gn:admin4_code":"10007020021.0",
+    "gn:asciiname":"Xuezi",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674538,
+    "gn:latitude":24.07028,
+    "gn:longitude":120.45917,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xuezi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Syuezih",
+        "Xuezi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b78\u5b50"
+    ],
+    "name:zho_x_variant":[
+        "Hs\u00fceh-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674538
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5b8017f08016e612b069c6ca453a8cb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209415561
+        }
+    ],
+    "wof:id":1209415561,
+    "wof:lastmodified":1537709047,
+    "wof:name":"Xuezi",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.45917,
+    24.07028,
+    120.45917,
+    24.07028
+],
+  "geometry": {"coordinates":[120.45917,24.07028],"type":"Point"}
+}

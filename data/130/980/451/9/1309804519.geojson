@@ -1,0 +1,80 @@
+{
+  "id": 1309804519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.50892,23.27546,120.50892,23.27546",
+    "geom:latitude":23.27546,
+    "geom:longitude":120.50892,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R06",
+    "gn:admin4_code":"67000060014.0",
+    "gn:asciiname":"Longxingkou",
+    "gn:country_code":"TW",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656376,
+    "gn:latitude":23.27546,
+    "gn:longitude":120.50892,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Longxingkou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Longsingkou",
+        "Longxingkou"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f8d\u8208\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "Lung-hsing-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6656376
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a25b81bb1dd2a4aed81b08991d747d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309804519,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1309804519,
+    "wof:lastmodified":1537709879,
+    "wof:name":"Longxingkou",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.50892,
+    23.27546,
+    120.50892,
+    23.27546
+],
+  "geometry": {"coordinates":[120.50892,23.27546],"type":"Point"}
+}

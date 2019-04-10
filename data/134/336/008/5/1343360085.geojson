@@ -1,0 +1,79 @@
+{
+  "id": 1343360085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.74833,22.19556,120.74833,22.19556",
+    "geom:latitude":22.19556,
+    "geom:longitude":120.74833,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T32",
+    "gn:admin4_code":"10013320002.0",
+    "gn:asciiname":"Jiaxinlushe",
+    "gn:country_code":"TW",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678849,
+    "gn:latitude":22.19556,
+    "gn:longitude":120.74833,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiaxinlushe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chia-hsin",
+        "Jiasinlushe",
+        "Jiaxinlushe",
+        "Chia-hsin-lu-she"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bb6\u65b0\u8def\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678849
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c07a1f5baf96e81b7e217a66c52c5a52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343360085,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1343360085,
+    "wof:lastmodified":1537709394,
+    "wof:name":"Jiaxinlushe",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.74833,
+    22.19556,
+    120.74833,
+    22.19556
+],
+  "geometry": {"coordinates":[120.74833,22.19556],"type":"Point"}
+}

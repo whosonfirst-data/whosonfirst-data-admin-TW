@@ -1,0 +1,76 @@
+{
+  "id": 1209220607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.35054,23.64382,120.35054,23.64382",
+    "geom:latitude":23.64382,
+    "geom:longitude":120.35054,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P17",
+    "gn:admin4_code":"10009170011.0",
+    "gn:asciiname":"Zhuoyuncuo",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677695,
+    "gn:latitude":23.64382,
+    "gn:longitude":120.35054,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhuoyuncuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhuoyuncuo"
+    ],
+    "name:zho_x_preferred":[
+        "Cho-y\u00fcn-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u5353\u904b\u539d",
+        "Cho-y\u00fcn",
+        "Che-yun-te\u2019o",
+        "Cho-y\u00fcn-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677695
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"89abd1e52868c1225c217c44e7b6a81c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209220607
+        }
+    ],
+    "wof:id":1209220607,
+    "wof:lastmodified":1537709315,
+    "wof:name":"Zhuoyuncuo",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.35054,
+    23.64382,
+    120.35054,
+    23.64382
+],
+  "geometry": {"coordinates":[120.35054,23.64382],"type":"Point"}
+}

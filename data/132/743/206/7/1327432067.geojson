@@ -1,0 +1,78 @@
+{
+  "id": 1327432067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.6879,24.72174,121.6879,24.72174",
+    "geom:latitude":24.72174,
+    "geom:longitude":121.6879,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G05",
+    "gn:admin4_code":"10002070007.0",
+    "gn:asciiname":"Neicheng",
+    "gn:country_code":"TW",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665435,
+    "gn:latitude":24.72174,
+    "gn:longitude":121.6879,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Neicheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Nei-ch\u2019eng-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u5167\u57ce",
+        "Y\u00fcan-nei",
+        "Nei-ch\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665435
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7e936f91f2d3ad03fbe0604584cef55b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327432067,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1327432067,
+    "wof:lastmodified":1537708434,
+    "wof:name":"Neicheng",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.6879,
+    24.72174,
+    121.6879,
+    24.72174
+],
+  "geometry": {"coordinates":[121.6879,24.72174],"type":"Point"}
+}

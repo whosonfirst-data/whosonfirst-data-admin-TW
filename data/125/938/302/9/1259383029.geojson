@@ -1,0 +1,81 @@
+{
+  "id": 1259383029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.46874,23.728,120.46874,23.728",
+    "geom:latitude":23.728,
+    "geom:longitude":120.46874,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P03",
+    "gn:admin4_code":"10009030024.0",
+    "gn:asciiname":"Dingzhuweizi",
+    "gn:country_code":"TW",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667262,
+    "gn:latitude":23.728,
+    "gn:longitude":120.46874,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingzhuweizi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chu-wei-tzu",
+        "Dingjhuweizih",
+        "Ting-chu-wei-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "Ting-kuo-ch\u2019i-tzu"
+    ],
+    "name:zho_x_variant":[
+        "\u9802\u7af9\u570d\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667262
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"dab1423cddd41e4e34dfa46ab029ef2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259383029,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1259383029,
+    "wof:lastmodified":1537708555,
+    "wof:name":"Dingzhuweizi",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.46874,
+    23.728,
+    120.46874,
+    23.728
+],
+  "geometry": {"coordinates":[120.46874,23.728],"type":"Point"}
+}

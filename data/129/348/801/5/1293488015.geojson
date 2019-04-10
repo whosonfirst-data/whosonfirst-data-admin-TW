@@ -1,0 +1,78 @@
+{
+  "id": 1293488015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.40931,23.9337,120.40931,23.9337",
+    "geom:latitude":23.9337,
+    "geom:longitude":120.40931,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N08",
+    "gn:admin4_code":"10007200014.0",
+    "gn:asciiname":"Andianxiang",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6644820,
+    "gn:latitude":23.9337,
+    "gn:longitude":120.40931,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Andianxiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Andiansiang",
+        "Andianxiang",
+        "An-tien-hsiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u6bbf\u5df7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6644820
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f44aee56bcc120f639fd6e30d6de895a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293488015,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1293488015,
+    "wof:lastmodified":1537709704,
+    "wof:name":"Andianxiang",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.40931,
+    23.9337,
+    120.40931,
+    23.9337
+],
+  "geometry": {"coordinates":[120.40931,23.9337],"type":"Point"}
+}

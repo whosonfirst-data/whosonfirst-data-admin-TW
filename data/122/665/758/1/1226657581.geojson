@@ -1,0 +1,73 @@
+{
+  "id": 1226657581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.76667,25.1,121.76667,25.1",
+    "geom:latitude":25.1,
+    "geom:longitude":121.76667,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F21",
+    "gn:admin4_code":"65000120012.0",
+    "gn:asciiname":"Duchuantoubu",
+    "gn:country_code":"TW",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666751,
+    "gn:latitude":25.1,
+    "gn:longitude":121.76667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Duchuantoubu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tu-ch\u2019uan-t\u2019ou-pu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666751
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"dd5e3474920fb80b6555e20141917eff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226657581,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1226657581,
+    "wof:lastmodified":1537708519,
+    "wof:name":"Duchuantoubu",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.76667,
+    25.1,
+    121.76667,
+    25.1
+],
+  "geometry": {"coordinates":[121.76667,25.1],"type":"Point"}
+}

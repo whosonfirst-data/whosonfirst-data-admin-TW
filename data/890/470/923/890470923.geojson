@@ -1,0 +1,72 @@
+{
+  "id": 890470923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.268323,24.969369,121.268323,24.969369",
+    "geom:latitude":24.969369,
+    "geom:longitude":121.268323,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u516b\u5fb7\u5e02",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u6843\u5712\u7e23",
+    "qs:photos":4996,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4996,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:latitude":"24.957619444",
+    "wd:longitude":"121.298783333",
+    "wd:wordcount":356,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2301874,
+        "qs:id":589865,
+        "wd:id":"Q74052",
+        "wk:page":"Bade District"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053836,
+    "wof:geomhash":"6fc3cd7c66211270e1b1f7c8d0e9cf66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":890470923,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":890470923,
+    "wof:lastmodified":1527727213,
+    "wof:name":"\u516b\u5fb7\u5e02",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.268323,
+    24.969369,
+    121.268323,
+    24.969369
+],
+  "geometry": {"coordinates":[121.268323,24.969369],"type":"Point"}
+}

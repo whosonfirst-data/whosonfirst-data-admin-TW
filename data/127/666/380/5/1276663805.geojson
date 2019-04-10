@@ -1,0 +1,77 @@
+{
+  "id": 1276663805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.28025,24.85724,121.28025,24.85724",
+    "geom:latitude":24.85724,
+    "geom:longitude":121.28025,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H02",
+    "gn:admin4_code":"68000030011.0",
+    "gn:asciiname":"Xineizha",
+    "gn:country_code":"TW",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653816,
+    "gn:latitude":24.85724,
+    "gn:longitude":121.28025,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xineizha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sineijha",
+        "Hsi-nei-cha"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5167\u67f5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653816
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7a24c2ce461813a490b82584606487a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276663805,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1276663805,
+    "wof:lastmodified":1537709849,
+    "wof:name":"Xineizha",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.28025,
+    24.85724,
+    121.28025,
+    24.85724
+],
+  "geometry": {"coordinates":[121.28025,24.85724],"type":"Point"}
+}

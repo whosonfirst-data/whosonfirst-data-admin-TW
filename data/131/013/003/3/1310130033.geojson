@@ -1,0 +1,84 @@
+{
+  "id": 1310130033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3095,23.7935,120.3095,23.7935",
+    "geom:latitude":23.7935,
+    "geom:longitude":120.3095,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P12",
+    "gn:admin4_code":"10009120010.0",
+    "gn:asciiname":"Fengrong",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676666,
+    "gn:latitude":23.7935,
+    "gn:longitude":120.3095,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fengrong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mao-erh-kan",
+        "Mao-erh-y\u00fc",
+        "Lun-pei",
+        "Fengrong",
+        "Fongrong",
+        "Feng-jung"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c50\u69ae"
+    ],
+    "name:zho_x_variant":[
+        "Mao-erh-y\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676666
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f19004aa278dcb1a94f7857ecf2000e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310130033,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1310130033,
+    "wof:lastmodified":1537709230,
+    "wof:name":"Fengrong",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3095,
+    23.7935,
+    120.3095,
+    23.7935
+],
+  "geometry": {"coordinates":[120.3095,23.7935],"type":"Point"}
+}

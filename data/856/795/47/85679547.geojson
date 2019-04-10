@@ -1,0 +1,386 @@
+{
+  "id": 85679547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.26617,
+    "geom:area_square_m":3029611455.501552,
+    "geom:bbox":"120.167491913,22.4828868198,121.049593541,23.475389106",
+    "geom:latitude":22.998764,
+    "geom:longitude":120.617319,
+    "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Kaohsiung City Special Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "special municipality"
+    ],
+    "lbl:latitude":23.025069,
+    "lbl:longitude":120.697119,
+    "mps:latitude":23.025069,
+    "mps:longitude":120.697119,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "name:afr_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:ara_x_preferred":[
+        "\u0643\u0627\u0648\u0647\u0633\u064a\u0648\u0646\u063a"
+    ],
+    "name:arm_x_preferred":[
+        "\u0533\u0561\u0578\u057d\u0575\u0578\u0582\u0576"
+    ],
+    "name:baq_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:ben_x_preferred":[
+        "\u0995\u09cb\u09b8\u09bf\u09af\u09bc\u09cb\u0982 \u09b6\u09b9\u09b0"
+    ],
+    "name:bul_x_preferred":[
+        "\u0413\u0430\u043e\u0441\u044e\u043d"
+    ],
+    "name:bur_x_preferred":[
+        "\u1000\u1031\u102c\u1004\u103a\u1038\u101b\u103e\u102f\u1036\u1019\u103c\u102d\u102f\u1037"
+    ],
+    "name:cat_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:cdo_x_preferred":[
+        "G\u014f\u0324-h\u1e73\u0300ng"
+    ],
+    "name:che_x_preferred":[
+        "\u0413\u0430\u043e\u0441\u044e\u043d"
+    ],
+    "name:chi_x_preferred":[
+        "\u9ad8\u96c4\u5e02"
+    ],
+    "name:cze_x_preferred":[
+        "Kao-siung"
+    ],
+    "name:dan_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:dut_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:eng_x_preferred":[
+        "Kaohsiung City"
+    ],
+    "name:epo_x_preferred":[
+        "Kao\u015diung"
+    ],
+    "name:fin_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:fre_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:gan_x_preferred":[
+        "\u9ad8\u96c4\u5e02"
+    ],
+    "name:geo_x_preferred":[
+        "\u10d9\u10d0\u10dd\u10f0\u10e1\u10d8\u10e3\u10dc\u10d2\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:glg_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03b1\u03bf\u03c3\u03b9\u03bf\u03cd\u03bd\u03b3\u03ba"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0abe\u0a8a\u0ab6\u0ac1\u0a82\u0a97 \u0ab6\u0ab9\u0ac7\u0ab0"
+    ],
+    "name:hak_x_preferred":[
+        "K\u00f4-hi\u00f9ng-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05d0\u05d5\u05e9\u05d9\u05d5\u05e0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u093e\u090a\u0936\u0941\u0902\u0917 \u0938\u093f\u091f\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Kaohsziung"
+    ],
+    "name:ile_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:ind_x_preferred":[
+        "Kota Kaohsiung"
+    ],
+    "name:ita_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9ad8\u96c4\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0cbe\u0c92\u0cb9\u0ccd\u0cb8\u0ccd\u0caf\u0cc1\u0c82\u0c97\u0ccd"
+    ],
+    "name:kir_x_preferred":[
+        "\u0413\u0430\u043e\u0441\u0443\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\uac00\uc624\uc29d \uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Gaosjunas speci\u0101l\u0101 municipalit\u0101te"
+    ],
+    "name:lit_x_preferred":[
+        "Gaosiongas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u9ad8\u96c4\u5e02"
+    ],
+    "name:mac_x_preferred":[
+        "\u0413\u0430\u043e\u0441\u0458\u0443\u043d\u0433"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u093e\u090a\u0936\u0941\u0902\u0917 \u0936\u0939\u0930"
+    ],
+    "name:may_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:mon_x_preferred":[
+        "\u0413\u0430\u043e\u0448\u044e\u043d"
+    ],
+    "name:nan_x_preferred":[
+        "Ko-hi\u00f4ng-chh\u012b"
+    ],
+    "name:nno_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:nob_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:oci_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a15\u0a3e\u0a13\u0a38\u0a40\u0a05\u0a70\u0a17"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0627\u0648\u0647\u0633\u06cc\u0648\u0646\u06af"
+    ],
+    "name:pol_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:por_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:que_x_preferred":[
+        "Kau-hiyun"
+    ],
+    "name:rum_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:rus_x_preferred":[
+        "\u0413\u0430\u043e\u0441\u044e\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0ddc\u0dc3\u0dd2\u0dba\u0dd4\u0db1\u0dca\u0d9c\u0dca"
+    ],
+    "name:slo_x_preferred":[
+        "Kao-siung"
+    ],
+    "name:spa_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:swa_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:swe_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bcb\u0bb7\u0bbf\u0b99\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c3e\u0c35\u0c4b\u0c4b\u0c38\u0c3f\u0c2f\u0c02\u0c17\u0c4d \u0c38\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e01\u0e32\u0e2a\u0e3a\u0e22\u0e07"
+    ],
+    "name:tib_x_preferred":[
+        "\u0f40\u0f60\u0f7c\u0f0b\u0f5e\u0f74\u0f44\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0d"
+    ],
+    "name:tur_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:uig_x_preferred":[
+        "\u06af\u0627\u06cb\u0634\u064a\u06c7\u06ad"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0413\u0430\u043e\u0441\u044e\u043d"
+    ],
+    "name:unk_x_variant":[
+        "Gaosyong Sian"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0627\u0626\u0648\u0633\u06cc\u0648\u0646\u06af \u0634\u06c1\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Cao H\u00f9ng"
+    ],
+    "name:war_x_preferred":[
+        "Kaohsiung"
+    ],
+    "name:wuu_x_preferred":[
+        "\u9ad8\u96c4\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u9ad8\u96c4\u5e02"
+    ],
+    "name:zha_x_preferred":[
+        "Gauhyungz"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ad8\u96c4\u7e23"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TWN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"TWN-1156",
+    "ne:adm1_code":"TWN-1156",
+    "ne:admin":"Taiwan",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"20",
+    "ne:code_hasc":"TW.KH.KC",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1156",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Taiwan",
+    "ne:gn_a1_code":"TW.KHQ",
+    "ne:gn_id":"6724652",
+    "ne:gn_level":"2",
+    "ne:gn_name":"Kao-hsiung Hsien",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"TW02",
+    "ne:gns_id":"-2632385",
+    "ne:gns_lang":"zho",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Gaoxiong Shi",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TWN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TW-KHH",
+    "ne:iso_a2":"TW",
+    "ne:labelrank":"9",
+    "ne:latitude":"23.01570000000",
+    "ne:longitude":"120.60900000000",
+    "ne:mapcolor13":2,
+    "ne:mapcolor9":7,
+    "ne:name":"Kaohsiung City",
+    "ne:name_alt":"Gaoxiong Shi",
+    "ne:name_len":14,
+    "ne:name_local":"",
+    "ne:note":"Established on 2010-12-25 by merging Kaohsiung City (old) with Kaohsiung County",
+    "ne:postal":"KH",
+    "ne:provnum_ne":"12",
+    "ne:region":"Special Municipalities",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"1",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"TWN",
+    "ne:sub_code":"",
+    "ne:type":"Zhixiashi",
+    "ne:type_en":"Special Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":20070571,
+    "ne:woe_label":"",
+    "ne:woe_name":"Kaohsiung City",
+    "qs:a0":"Taiwan",
+    "qs:a0_lc":"TW",
+    "qs:a1":"Kaohsiung City",
+    "qs:a1_lc":"TWN-1156",
+    "qs:a1r":"Special Municipalities",
+    "qs:adm0":"Taiwan",
+    "qs:adm0_a3":"TWN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Special Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-12-31",
+    "statoids:area_km":"2949",
+    "statoids:as_of_date":"2010-12-31",
+    "statoids:capital":"Kaohsiung",
+    "statoids:country":"TW",
+    "statoids:hasc":"TW.KH",
+    "statoids:name":"Kaohsiung City",
+    "statoids:population":"2777384",
+    "statoids:statoid":"TW.KH.KS",
+    "statoids:timezone":"8",
+    "statoids:type":"special municipality",
+    "unlc:subdivision":"TW-KHQ",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":6724652,
+        "gp:id":20070571,
+        "hasc:id":"TW.KH.KS",
+        "unlc:id":"TW-KHQ",
+        "wd:id":"Q181557"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d8ec600a207ba34a186caf4daa514c75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":85679547,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1553550578,
+    "wof:name":"Kaohsiung City",
+    "wof:parent_id":1108808547,
+    "wof:placetype":"region",
+    "wof:placetype_local":"special municipality",
+    "wof:population":2777384,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:shortcode":"KS",
+    "wof:subdivision":"TW-KHQ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.16749191282156,
+    22.48288681977095,
+    121.04959354070945,
+    23.47538910602248
+],
+  "geometry": {"coordinates":[[[121.01931115058915,23.43668345787535],[121.02654585200958,23.41640045781492],[121.01517703729053,23.39903717692425],[120.9938863468775,23.39035553647886],[120.98871870300582,23.37919342733483],[120.99243940605379,23.36534414301786],[121.01352339089181,23.35273509394949],[121.0377079611535,23.33475169543442],[121.04824995267325,23.30808665647407],[121.04959354070945,23.2993533391853],[120.99016564293015,23.28596914286169],[120.9655676624177,23.27170644829403],[120.95047814285203,23.25806387045134],[120.92091922404302,23.24049388308629],[120.91761193214506,23.22044342702259],[120.92608686701533,23.19956614775958],[120.91595828664572,23.18240957334319],[120.88784630686166,23.16835358345116],[120.88453901586297,23.14437571876448],[120.89280724515834,23.10964915608372],[120.8812317239649,23.06355377958329],[120.88102501839001,23.02427968975593],[120.86469526627354,23.00381582344153],[120.83224246581722,22.97839101793119],[120.82335411979682,22.94428457287478],[120.82852176276924,22.91575918194076],[120.83989057838755,22.89963613539936],[120.86324832634921,22.87731191711134],[120.86800255727223,22.8599486353213],[120.85332645065523,22.85832082824368],[120.85311974508022,22.85829498982196],[120.83327599459153,22.86160228082065],[120.81694624157581,22.86077545852066],[120.78449344291812,22.83721100498394],[120.76216922373078,22.85664134432261],[120.73343712812107,22.88764720305602],[120.7059452659613,22.88144603130934],[120.68072716692529,22.86077545852066],[120.63091108557819,22.88392650000804],[120.59515099502244,22.86821686551599],[120.57096642476074,22.84341217673062],[120.54058068185304,22.83349030193591],[120.47278120289025,22.83721100498394],[120.4661666199936,22.82026113524324],[120.46120568169692,22.79504303620723],[120.45128380690221,22.76734446937184],[120.45335086535022,22.7427464870608],[120.45293745330093,22.70946686520369],[120.4314400573129,22.63505280244493],[120.43081993968849,22.61004140898388],[120.4413619321075,22.58378978117349],[120.44280887293121,22.55485097908945],[120.41186376789858,22.48288681977095],[120.40211022190931,22.48680247605347],[120.39600670754362,22.48647695564705],[120.38900800891258,22.48407623882741],[120.38086998795961,22.48387278969756],[120.33122806122606,22.51972077009754],[120.28516686346006,22.58006419570614],[120.33366946697242,22.52594635663911],[120.32797285176571,22.5517031918489],[120.31992421892767,22.56580862736632],[120.31991621226348,22.5658226585889],[120.31348717479329,22.57705312700028],[120.29330488441292,22.59829336094992],[120.25896243566797,22.62759023620049],[120.24577884211988,22.64252350485589],[120.23959394630367,22.6590843773422],[120.24781334690852,22.67523834797146],[120.25212649813943,22.68964264529188],[120.24634850418022,22.70990631712289],[120.23617597753935,22.72988515837341],[120.21753991043863,22.7567406269784],[120.19996178510837,22.79246653969909],[120.19605553483518,22.80833567884855],[120.1964624357928,22.8185895851413],[120.20215905010014,22.83124420825368],[120.20346113442383,22.8396670588877],[120.20134524818468,22.84414297122117],[120.1964624357928,22.84747955943419],[120.19141686319779,22.8520368514196],[120.18921959730665,22.86017487237251],[120.17847741040418,22.87734609584572],[120.17554772224969,22.88410065282289],[120.16749191282156,22.93186590848495],[120.19093794183266,22.9448013368123],[120.19145470577007,22.94325104410046],[120.20654422443647,22.91286530209209],[120.22473432762717,22.90439036722171],[120.28426557819398,22.89653554907636],[120.31568484897662,22.89963613539936],[120.34772423738366,22.8961221379264],[120.3636405783501,22.90128978089871],[120.37707645061778,22.91038483339338],[120.40167443202949,22.91947988498873],[120.42565229671618,22.9349828148051],[120.43474734921085,22.95420644856881],[120.4461161639299,22.97260325823385],[120.4661666199936,22.99720124054488],[120.48952436705599,23.01973216440791],[120.51412234936697,23.03854238522297],[120.54244103382666,23.06396718983399],[120.56703901613776,23.09311269839236],[120.60507286981715,23.15264394805979],[120.64476036989527,23.20556061483057],[120.65344201123992,23.22865998037383],[120.65344201123992,23.22871165631796],[120.64972130729257,23.25186269780534],[120.64414025317024,23.26777903877166],[120.64476036989527,23.28493561498669],[120.65840294773795,23.29733795848006],[120.68444786997327,23.29485748978141],[120.70677208916061,23.29692454733004],[120.75348758418477,23.32255605751607],[120.77043745302615,23.34115957275611],[120.80082319503447,23.36245026316914],[120.82996870269358,23.37753978093622],[120.84609175013418,23.39510976830121],[120.85973432797687,23.41888092741294],[120.89177371638391,23.44244538005029],[120.96215701683298,23.47538910602248],[120.9787968282111,23.47179759418367],[121.00091434092417,23.46394277603832],[121.0168306818905,23.44368561529893],[121.01931115058915,23.43668345787535]]],"type":"Polygon"}
+}

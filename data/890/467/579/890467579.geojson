@@ -1,0 +1,78 @@
+{
+  "id": 890467579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.73333,24.25,120.73333,24.25",
+    "geom:latitude":24.25,
+    "geom:longitude":120.73333,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Fongyuan Shih"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c50\u539f\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "Feng-y\u00fcan",
+        "Feng-y\u00fcan Chen",
+        "Feng-y\u00fcan Shih"
+    ],
+    "qs:name":"Fengyuan Shi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":290,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676555,
+        "qs:id":1151932,
+        "wd:id":"Q713146",
+        "wk:page":"County-controlled city"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053655,
+    "wof:geomhash":"d9046689e920e59fecd8365c3210c86c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890467579,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":890467579,
+    "wof:lastmodified":1527792901,
+    "wof:name":"Fengyuan Shi",
+    "wof:parent_id":85679617,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.73333,
+    24.25,
+    120.73333,
+    24.25
+],
+  "geometry": {"coordinates":[120.73333,24.25],"type":"Point"}
+}

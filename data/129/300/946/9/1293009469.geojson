@@ -1,0 +1,78 @@
+{
+  "id": 1293009469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4125,22.90639,120.4125,22.90639",
+    "geom:latitude":22.90639,
+    "geom:longitude":120.4125,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E22",
+    "gn:admin4_code":"64000220009.0",
+    "gn:asciiname":"Xiwei",
+    "gn:country_code":"TW",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6601185,
+    "gn:latitude":22.90639,
+    "gn:longitude":120.4125,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siwei",
+        "Xiwei",
+        "Hsi-wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u6eaa\u5c3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6601185
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fb951fef0269347044468bb96f4d27a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293009469,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1293009469,
+    "wof:lastmodified":1537709641,
+    "wof:name":"Xiwei",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4125,
+    22.90639,
+    120.4125,
+    22.90639
+],
+  "geometry": {"coordinates":[120.41249999999999,22.90639],"type":"Point"}
+}

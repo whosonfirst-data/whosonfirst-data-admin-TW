@@ -1,0 +1,74 @@
+{
+  "id": 1209315221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60979,24.13665,120.60979,24.13665",
+    "geom:latitude":24.13665,
+    "geom:longitude":120.60979,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B07",
+    "gn:admin4_code":"66000070005.0",
+    "gn:asciiname":"Fanshejiao",
+    "gn:country_code":"TW",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677135,
+    "gn:latitude":24.13665,
+    "gn:longitude":120.60979,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fanshejiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fan-she-hu",
+        "Ch\u2019un-she",
+        "Ch\u2019un-she-li",
+        "Fanshejiao",
+        "Fan-she-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u756a\u793e\u811a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677135
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d0c04d778c57afd51343d6a060b3e2c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209315221
+        }
+    ],
+    "wof:id":1209315221,
+    "wof:lastmodified":1537709267,
+    "wof:name":"Fanshejiao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60979,
+    24.13665,
+    120.60979,
+    24.13665
+],
+  "geometry": {"coordinates":[120.60979,24.13665],"type":"Point"}
+}

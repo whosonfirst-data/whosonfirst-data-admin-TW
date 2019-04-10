@@ -1,0 +1,82 @@
+{
+  "id": 1276663605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.43835,23.94101,120.43835,23.94101",
+    "geom:latitude":23.94101,
+    "geom:longitude":120.43835,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N08",
+    "gn:admin4_code":"10007200019.0",
+    "gn:asciiname":"Meifang",
+    "gn:country_code":"TW",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672052,
+    "gn:latitude":23.94101,
+    "gn:longitude":120.43835,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Meifang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mei-fang-li",
+        "Mei-feng",
+        "Meifang",
+        "Mei-fang"
+    ],
+    "name:zho_x_preferred":[
+        "T\u2019u-tzu-lun"
+    ],
+    "name:zho_x_variant":[
+        "\u6885\u82b3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672052
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"64d30f42975df42111dc6d443ffa7484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276663605,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1276663605,
+    "wof:lastmodified":1537708880,
+    "wof:name":"Meifang",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.43835,
+    23.94101,
+    120.43835,
+    23.94101
+],
+  "geometry": {"coordinates":[120.43835,23.94101],"type":"Point"}
+}

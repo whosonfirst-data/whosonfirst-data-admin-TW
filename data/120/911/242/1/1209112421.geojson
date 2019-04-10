@@ -1,0 +1,74 @@
+{
+  "id": 1209112421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.34972,22.96833,120.34972,22.96833",
+    "geom:latitude":22.96833,
+    "geom:longitude":120.34972,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R29",
+    "gn:admin4_code":"67000290011.0",
+    "gn:asciiname":"Niuchoubu",
+    "gn:country_code":"TW",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671315,
+    "gn:latitude":22.96833,
+    "gn:longitude":120.34972,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Niuchoubu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niouchoubu"
+    ],
+    "name:zho_x_preferred":[
+        "Niu-ch\u2019ou-hou"
+    ],
+    "name:zho_x_variant":[
+        "\u725b\u7a20\u57d4",
+        "Niu-ch\u2019ou-pu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671315
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f3e2d64b3b5693c6d60effa2384ec9b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209112421
+        }
+    ],
+    "wof:id":1209112421,
+    "wof:lastmodified":1537708835,
+    "wof:name":"Niuchoubu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.34972,
+    22.96833,
+    120.34972,
+    22.96833
+],
+  "geometry": {"coordinates":[120.34972,22.96833],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1259783795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.93111,22.42167,120.93111,22.42167",
+    "geom:latitude":22.42167,
+    "geom:longitude":120.93111,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V05",
+    "gn:admin4_code":"10014100001.0",
+    "gn:asciiname":"Funan",
+    "gn:country_code":"TW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6587889,
+    "gn:latitude":22.42167,
+    "gn:longitude":120.93111,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Funan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fu-nan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bcc\u5357"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679623,
+        102191569,
+        85632403,
+        1108499511,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6587889
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"93f1fc9d092418a417cf513b5fc9ace7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259783795,
+            "macrocounty_id":1108499511,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1259783795,
+    "wof:lastmodified":1537709599,
+    "wof:name":"Funan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.93111,
+    22.42167,
+    120.93111,
+    22.42167
+],
+  "geometry": {"coordinates":[120.93111,22.42167],"type":"Point"}
+}

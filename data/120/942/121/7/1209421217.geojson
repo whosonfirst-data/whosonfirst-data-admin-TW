@@ -1,0 +1,73 @@
+{
+  "id": 1209421217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.54717,24.20217,120.54717,24.20217",
+    "geom:latitude":24.20217,
+    "geom:longitude":120.54717,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B25",
+    "gn:admin4_code":"66000250011.0",
+    "gn:asciiname":"Jiuzhangli",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993207,
+    "gn:latitude":24.20217,
+    "gn:longitude":120.54717,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiuzhangli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiu-cahng-ti",
+        "Jioujhangli",
+        "Jiuzhangli",
+        "Chiu-chang-li"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e5d\u5f35\u7282"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993207
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0a30398c0c3dc2cf0835847cb7f66494",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209421217
+        }
+    ],
+    "wof:id":1209421217,
+    "wof:lastmodified":1537709476,
+    "wof:name":"Jiuzhangli",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.54717,
+    24.20217,
+    120.54717,
+    24.20217
+],
+  "geometry": {"coordinates":[120.54716999999999,24.20217],"type":"Point"}
+}

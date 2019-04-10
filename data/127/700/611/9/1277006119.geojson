@@ -1,0 +1,77 @@
+{
+  "id": 1277006119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.61861,23.245,119.61861,23.245",
+    "geom:latitude":23.245,
+    "geom:longitude":119.61861,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PEN",
+    "gn:admin3_code":"X05",
+    "gn:asciiname":"Dongpingwei",
+    "gn:country_code":"TW",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6309787,
+    "gn:latitude":23.245,
+    "gn:longitude":119.61861,
+    "gn:modification_date":"2017-09-23",
+    "gn:name":"Dongpingwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6771\u576a\u5c3e"
+    ],
+    "name:zho_x_variant":[
+        "Tung-p\u2019ing-wei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679627,
+        102191569,
+        85632403,
+        1108500085,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6309787
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"19e37ff3ad1231de9066bb9888aef4bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1277006119,
+            "macrocounty_id":1108500085,
+            "macroregion_id":1108808557,
+            "region_id":85679627
+        }
+    ],
+    "wof:id":1277006119,
+    "wof:lastmodified":1537709504,
+    "wof:name":"Dongpingwei",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.61861,
+    23.245,
+    119.61861,
+    23.245
+],
+  "geometry": {"coordinates":[119.61861,23.245],"type":"Point"}
+}

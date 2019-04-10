@@ -1,0 +1,82 @@
+{
+  "id": 1276121175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.37409,22.66681,120.37409,22.66681",
+    "geom:latitude":22.66681,
+    "geom:longitude":120.37409,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E18",
+    "gn:admin4_code":"64000180001.0",
+    "gn:asciiname":"Buzhanyuan",
+    "gn:country_code":"TW",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670353,
+    "gn:latitude":22.66681,
+    "gn:longitude":120.37409,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Buzhanyuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u57d4\u5360\u5712",
+        "Buzhanyuan",
+        "Bujhanyuan"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019i-tzu-chiao-p\u2019u-chan-y\u00fcan"
+    ],
+    "name:zho_x_variant":[
+        "Pu-chan-y\u00fcan",
+        "\u57d4\u5360\u5712"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670353
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"93b719c3a698e0d5185b132e7c50c171",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276121175,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1276121175,
+    "wof:lastmodified":1537708777,
+    "wof:name":"Buzhanyuan",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.37409,
+    22.66681,
+    120.37409,
+    22.66681
+],
+  "geometry": {"coordinates":[120.37409,22.66681],"type":"Point"}
+}

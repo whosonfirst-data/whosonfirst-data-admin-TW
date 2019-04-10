@@ -1,0 +1,81 @@
+{
+  "id": 1259607441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9254,24.44995,120.9254,24.44995",
+    "geom:latitude":24.44995,
+    "geom:longitude":120.9254,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K18",
+    "gn:admin4_code":"10005180002.0",
+    "gn:asciiname":"Xiniuping",
+    "gn:country_code":"TW",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652213,
+    "gn:latitude":24.44995,
+    "gn:longitude":120.9254,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiniuping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siniouping",
+        "Xiniuping"
+    ],
+    "name:zho_x_preferred":[
+        "\u7e6b\u725b\u576a"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ao-niu-p\u2019ing",
+        "Hsi-niu-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652213
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e86d10993bb03313a2e4a6e64f0d58de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259607441,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1259607441,
+    "wof:lastmodified":1537709818,
+    "wof:name":"Xiniuping",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9254,
+    24.44995,
+    120.9254,
+    24.44995
+],
+  "geometry": {"coordinates":[120.9254,24.44995],"type":"Point"}
+}

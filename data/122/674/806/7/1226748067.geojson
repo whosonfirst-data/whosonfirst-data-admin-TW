@@ -1,0 +1,79 @@
+{
+  "id": 1226748067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.09861,23.15361,120.09861,23.15361",
+    "geom:latitude":23.15361,
+    "geom:longitude":120.09861,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R14",
+    "gn:admin4_code":"67000150007.0",
+    "gn:asciiname":"Xinshanziliao",
+    "gn:country_code":"TW",
+    "gn:dem":0,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674869,
+    "gn:latitude":23.15361,
+    "gn:longitude":120.09861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinshanziliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-shan-tzu-liao",
+        "Xinshanziliao",
+        "Sinshanzihliao",
+        "\u65b0\u5c71\u5b50\u5bee"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5c71\u5b50\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674869
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"15e53f52b190f68638b0cf47a8e76f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226748067,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1226748067,
+    "wof:lastmodified":1537709076,
+    "wof:name":"Xinshanziliao",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.09861,
+    23.15361,
+    120.09861,
+    23.15361
+],
+  "geometry": {"coordinates":[120.09860999999999,23.15361],"type":"Point"}
+}

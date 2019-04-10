@@ -1,0 +1,73 @@
+{
+  "id": 1343567127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86667,24.7,120.86667,24.7",
+    "geom:latitude":24.7,
+    "geom:longitude":120.86667,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040024.0",
+    "gn:asciiname":"Shanwei",
+    "gn:country_code":"TW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669641,
+    "gn:latitude":24.7,
+    "gn:longitude":120.86667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shanwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shan-wei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669641
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6f3c0e420ffe31d634548e2c44c6bde9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343567127,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1343567127,
+    "wof:lastmodified":1537708722,
+    "wof:name":"Shanwei",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86667,
+    24.7,
+    120.86667,
+    24.7
+],
+  "geometry": {"coordinates":[120.86667,24.7],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1293006711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.71779,24.73345,121.71779,24.73345",
+    "geom:latitude":24.73345,
+    "geom:longitude":121.71779,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G05",
+    "gn:admin4_code":"10002070002.0",
+    "gn:asciiname":"Sanjiu'er",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670148,
+    "gn:latitude":24.73345,
+    "gn:longitude":121.71779,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanjiu\u2019er",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-l\u00fc-erh",
+        "San-chiu-erh"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u9b2e\u4e8c"
+    ],
+    "name:zho_x_variant":[
+        "Sanjiu\u2019er",
+        "Sanjiou\u2019er",
+        "San-l\u00fc-erh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670148
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0b9184df230c087291b907263fd0d2c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293006711,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1293006711,
+    "wof:lastmodified":1537708762,
+    "wof:name":"Sanjiu'er",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.71779,
+    24.73345,
+    121.71779,
+    24.73345
+],
+  "geometry": {"coordinates":[121.71778999999999,24.73345],"type":"Point"}
+}

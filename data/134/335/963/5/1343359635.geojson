@@ -1,0 +1,81 @@
+{
+  "id": 1343359635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.67778,24.31778,120.67778,24.31778",
+    "geom:latitude":24.31778,
+    "geom:longitude":120.67778,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B15",
+    "gn:admin4_code":"66000150014.0",
+    "gn:asciiname":"Liufensankan",
+    "gn:country_code":"TW",
+    "gn:dem":232,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672741,
+    "gn:latitude":24.31778,
+    "gn:longitude":120.67778,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liufensankan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liu-fen",
+        "Liufensankan",
+        "Lioufensankan"
+    ],
+    "name:zho_x_preferred":[
+        "\u516d\u5206\u4e09\u5d01"
+    ],
+    "name:zho_x_variant":[
+        "Liu-fen-san-k\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672741
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"925663d451789f28bef11137bb628aa2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343359635,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1343359635,
+    "wof:lastmodified":1537708925,
+    "wof:name":"Liufensankan",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.67778,
+    24.31778,
+    120.67778,
+    24.31778
+],
+  "geometry": {"coordinates":[120.67778,24.31778],"type":"Point"}
+}

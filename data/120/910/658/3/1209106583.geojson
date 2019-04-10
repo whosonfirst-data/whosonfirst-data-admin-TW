@@ -1,0 +1,70 @@
+{
+  "id": 1209106583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.84677,24.03195,120.84677,24.03195",
+    "geom:latitude":24.03195,
+    "geom:longitude":120.84677,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M10",
+    "gn:admin4_code":"10008100001.0",
+    "gn:asciiname":"Longtushe",
+    "gn:country_code":"TW",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6726899,
+    "gn:latitude":24.03195,
+    "gn:longitude":120.84677,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Longtushe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9f8d\u5410\u820c"
+    ],
+    "name:zho_x_variant":[
+        "Lung-t\u2019u-she"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6726899
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8e29cdd34ab024bdc290cb42850450d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209106583
+        }
+    ],
+    "wof:id":1209106583,
+    "wof:lastmodified":1537709907,
+    "wof:name":"Longtushe",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.84677,
+    24.03195,
+    120.84677,
+    24.03195
+],
+  "geometry": {"coordinates":[120.84677000000001,24.03195],"type":"Point"}
+}

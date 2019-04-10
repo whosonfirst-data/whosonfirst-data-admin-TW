@@ -1,0 +1,75 @@
+{
+  "id": 1210030575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.99158,26.22556,119.99158,26.22556",
+    "geom:latitude":26.22556,
+    "geom:longitude":119.99158,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"LIE",
+    "gn:admin3_code":"Z02",
+    "gn:admin4_code":"9007020001.0",
+    "gn:asciiname":"Shanqiancun",
+    "gn:country_code":"TW",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669855,
+    "gn:latitude":26.22556,
+    "gn:longitude":119.99158,
+    "gn:modification_date":"2017-11-03",
+    "gn:name":"Shanqiancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsiao-t\u2019ang-chi",
+        "Shan-ch\u2019ien-ts\u2019un",
+        "Shanqiancun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679637,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669855
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f9dc6f23f23bc6c8bfa56644f489d393",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1210030575,
+            "macroregion_id":1108808555,
+            "region_id":85679637
+        }
+    ],
+    "wof:id":1210030575,
+    "wof:lastmodified":1537708741,
+    "wof:name":"Shanqiancun",
+    "wof:parent_id":85679637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.99158,
+    26.22556,
+    119.99158,
+    26.22556
+],
+  "geometry": {"coordinates":[119.99158,26.22556],"type":"Point"}
+}

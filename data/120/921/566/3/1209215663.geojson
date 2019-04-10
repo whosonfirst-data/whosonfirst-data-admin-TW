@@ -1,0 +1,74 @@
+{
+  "id": 1209215663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.85667,23.74194,120.85667,23.74194",
+    "geom:latitude":23.74194,
+    "geom:longitude":120.85667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M11",
+    "gn:admin4_code":"10008110013.0",
+    "gn:asciiname":"Junkeng",
+    "gn:country_code":"TW",
+    "gn:dem":424,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677153,
+    "gn:latitude":23.74194,
+    "gn:longitude":120.85667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Junkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jyunkeng",
+        "Junkeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u90e1\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u00fcn-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677153
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"52d1baceb4bd9b267b4fdc0163d9e28b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209215663
+        }
+    ],
+    "wof:id":1209215663,
+    "wof:lastmodified":1537709269,
+    "wof:name":"Junkeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.85667,
+    23.74194,
+    120.85667,
+    23.74194
+],
+  "geometry": {"coordinates":[120.85666999999999,23.74194],"type":"Point"}
+}

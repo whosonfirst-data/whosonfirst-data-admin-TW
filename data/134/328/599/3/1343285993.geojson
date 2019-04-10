@@ -1,0 +1,77 @@
+{
+  "id": 1343285993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60073,23.93823,120.60073,23.93823",
+    "geom:latitude":23.93823,
+    "geom:longitude":120.60073,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N05",
+    "gn:admin4_code":"10007100027.0",
+    "gn:asciiname":"Chaitoujing",
+    "gn:country_code":"TW",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677495,
+    "gn:latitude":23.93823,
+    "gn:longitude":120.60073,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chaitoujing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u67f4\u982d\u4e95"
+    ],
+    "name:zho_x_variant":[
+        "Chung-ch\u2019ai-t\u2019ou",
+        "Ch\u2019ai-t\u2019ou-ching"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677495
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"596104cd1a8826dbbbc15201afee5011",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343285993,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1343285993,
+    "wof:lastmodified":1537709299,
+    "wof:name":"Chaitoujing",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60073,
+    23.93823,
+    120.60073,
+    23.93823
+],
+  "geometry": {"coordinates":[120.60073,23.93823],"type":"Point"}
+}

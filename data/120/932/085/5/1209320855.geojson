@@ -1,0 +1,72 @@
+{
+  "id": 1209320855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.67222,24.39528,120.67222,24.39528",
+    "geom:latitude":24.39528,
+    "geom:longitude":120.67222,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K02",
+    "gn:admin4_code":"10005020024.0",
+    "gn:asciiname":"Shangan",
+    "gn:country_code":"TW",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669719,
+    "gn:latitude":24.39528,
+    "gn:longitude":120.67222,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shan-kan-li",
+        "Shangan",
+        "Shan-kan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c71\u67d1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669719
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"abd9192564062a0620b5fb86a1fe9fd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209320855
+        }
+    ],
+    "wof:id":1209320855,
+    "wof:lastmodified":1537708729,
+    "wof:name":"Shangan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.67222,
+    24.39528,
+    120.67222,
+    24.39528
+],
+  "geometry": {"coordinates":[120.67222,24.39528],"type":"Point"}
+}

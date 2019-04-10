@@ -1,0 +1,120 @@
+{
+  "id": 102026681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000135,
+    "geom:area_square_m":1510993.368638,
+    "geom:bbox":"121.503295898,25.1301636384,121.51653143,25.1485590527",
+    "geom:latitude":25.140364,
+    "geom:longitude":121.509457,
+    "gn:latitude":25.1303,
+    "gn:longitude":121.50166,
+    "iso:country":"TW",
+    "lbl:latitude":25.140872,
+    "lbl:longitude":121.509357,
+    "mps:latitude":25.140872,
+    "mps:longitude":121.509357,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Beitou"
+    ],
+    "name:fra_x_preferred":[
+        "District de Beitou"
+    ],
+    "name:hak_x_preferred":[
+        "Pet-th\u00e8u-kh\u00ee"
+    ],
+    "name:ind_x_preferred":[
+        "Distrik Beitou"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto di Beitou"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5317\u6295\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\uc774\ud130\uc6b0 \uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Beitou"
+    ],
+    "name:nan_x_preferred":[
+        "Pak-t\u00e2u-khu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u044d\u0439\u0442\u043e\u0443"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1eafc \u0110\u1ea7u"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Pak-t\u00e2u-khu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u6295\u5340"
+    ],
+    "name:zho_x_variant":[
+        "Pei-t\u2019ou-chuang",
+        "Pei-t\u2019ou-chen",
+        "\u5317\u6295",
+        "Pei-t\u2019ou"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Taiwan",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Beitou",
+    "qs:loc_lc":"1670695",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wd:wordcount":747,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670695,
+        "wd:id":"Q252864",
+        "wk:page":"Beitou"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"29de01384e0250ef718b9f8c264242f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026681,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":102026681,
+    "wof:lastmodified":1527637806,
+    "wof:name":"Beitou",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.50329589800002,
+    25.13016363837292,
+    121.51653142979298,
+    25.14855905267443
+],
+  "geometry": {"coordinates":[[[121.51342821705971,25.13782547805002],[121.51053394203454,25.13036586444996],[121.51035086031312,25.13016363837292],[121.50878906200005,25.13119870202921],[121.50878906200005,25.1353390161],[121.50604247999998,25.1353390161],[121.50329589800002,25.1353390161],[121.50329589800002,25.1378254907],[121.50329589800002,25.14031191470002],[121.50329589800002,25.14169198832961],[121.50604248000006,25.14472601084817],[121.50812442176972,25.14855905267443],[121.50864941573793,25.14798975309238],[121.50924305472141,25.147942565614],[121.51110991129475,25.14744754702761],[121.51283477691966,25.14663051290449],[121.51435135600748,25.14552286692955],[121.51560136296747,25.1441671822446],[121.51653142979298,25.1426244104986],[121.51342821705971,25.13782547805002]]],"type":"Polygon"}
+}

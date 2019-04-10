@@ -1,0 +1,77 @@
+{
+  "id": 1209721577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.89108,24.7044,120.89108,24.7044",
+    "geom:latitude":24.7044,
+    "geom:longitude":120.89108,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040019.0",
+    "gn:asciiname":"Shanxia",
+    "gn:country_code":"TW",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669727,
+    "gn:latitude":24.7044,
+    "gn:longitude":120.89108,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shanxia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shansia",
+        "Shan-hsia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c71\u4e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669727
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ed5cdfaa0d2ab7e277f6d946cd296673",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209721577,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1209721577,
+    "wof:lastmodified":1537708729,
+    "wof:name":"Shanxia",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.89108,
+    24.7044,
+    120.89108,
+    24.7044
+],
+  "geometry": {"coordinates":[120.89108,24.7044],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293390491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.66494,25.10969,121.66494,25.10969",
+    "geom:latitude":25.10969,
+    "geom:longitude":121.66494,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"KEE",
+    "gn:admin3_code":"C02",
+    "gn:admin4_code":"10017020016.0",
+    "gn:asciiname":"Yourui",
+    "gn:country_code":"TW",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665309,
+    "gn:latitude":25.10969,
+    "gn:longitude":121.66494,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yourui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Youruei",
+        "Yourui",
+        "Yu-jui"
+    ],
+    "name:zho_x_preferred":[
+        "\u53cb\u868b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679571,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665309
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"849504677f1f7c1a5eab0a6bc28eaf7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293390491,
+            "macroregion_id":1108808557,
+            "region_id":85679571
+        }
+    ],
+    "wof:id":1293390491,
+    "wof:lastmodified":1537708427,
+    "wof:name":"Yourui",
+    "wof:parent_id":85679571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.66494,
+    25.10969,
+    121.66494,
+    25.10969
+],
+  "geometry": {"coordinates":[121.66494,25.10969],"type":"Point"}
+}

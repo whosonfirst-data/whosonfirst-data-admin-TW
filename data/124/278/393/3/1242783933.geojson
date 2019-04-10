@@ -1,0 +1,83 @@
+{
+  "id": 1242783933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.787,24.41027,120.787,24.41027",
+    "geom:latitude":24.41027,
+    "geom:longitude":120.787,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K06",
+    "gn:admin4_code":"10005130003.0",
+    "gn:asciiname":"Shuangliantan",
+    "gn:country_code":"TW",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675185,
+    "gn:latitude":24.41027,
+    "gn:longitude":120.787,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuangliantan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-chuang",
+        "Hsin-chi",
+        "Shuangliantan"
+    ],
+    "name:zho_x_preferred":[
+        "Shuang-t\u2019an-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u96d9\u9023\u6f6d",
+        "Shuang-t\u2019an",
+        "Shuang-lien-t\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675185
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4f11701135232fe67b0d55239b917ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242783933,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1242783933,
+    "wof:lastmodified":1537709108,
+    "wof:name":"Shuangliantan",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.787,
+    24.41027,
+    120.787,
+    24.41027
+],
+  "geometry": {"coordinates":[120.78700000000001,24.41027],"type":"Point"}
+}

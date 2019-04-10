@@ -1,0 +1,82 @@
+{
+  "id": 1243091767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.93722,24.77889,120.93722,24.77889",
+    "geom:latitude":24.77889,
+    "geom:longitude":120.93722,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSQ",
+    "gn:admin3_code":"O03",
+    "gn:admin4_code":"10018030011.0",
+    "gn:asciiname":"Xiangshankeng",
+    "gn:country_code":"TW",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675681,
+    "gn:latitude":24.77889,
+    "gn:longitude":120.93722,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiangshankeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siangshankeng"
+    ],
+    "name:zho_x_preferred":[
+        "Hsiang-shan-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Hsiang-ts\u2019un-li",
+        "\u9999\u5c71\u5751",
+        "Hsiang-ts\u2019un",
+        "Hsiang-shan-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679557,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675681
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d2c92030d5d953f7eae68f04fd6dab6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243091767,
+            "macroregion_id":1108808557,
+            "region_id":85679557
+        }
+    ],
+    "wof:id":1243091767,
+    "wof:lastmodified":1537709152,
+    "wof:name":"Xiangshankeng",
+    "wof:parent_id":85679557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.93722,
+    24.77889,
+    120.93722,
+    24.77889
+],
+  "geometry": {"coordinates":[120.93722,24.77889],"type":"Point"}
+}

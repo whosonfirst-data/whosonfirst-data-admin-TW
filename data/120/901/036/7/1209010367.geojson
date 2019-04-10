@@ -1,0 +1,73 @@
+{
+  "id": 1209010367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.26389,22.95583,120.26389,22.95583",
+    "geom:latitude":22.95583,
+    "geom:longitude":120.26389,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R27",
+    "gn:admin4_code":"67000270006.0",
+    "gn:asciiname":"Xintian",
+    "gn:country_code":"TW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674834,
+    "gn:latitude":22.95583,
+    "gn:longitude":120.26389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xintian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sintian"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u7530"
+    ],
+    "name:zho_x_variant":[
+        "Hsin-t\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674834
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"595535e74803a3819bf74d4eeeb644ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209010367
+        }
+    ],
+    "wof:id":1209010367,
+    "wof:lastmodified":1537709074,
+    "wof:name":"Xintian",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.26389,
+    22.95583,
+    120.26389,
+    22.95583
+],
+  "geometry": {"coordinates":[120.26389,22.95583],"type":"Point"}
+}

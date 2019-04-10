@@ -1,0 +1,82 @@
+{
+  "id": 1310507629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.37902,22.34766,120.37902,22.34766",
+    "geom:latitude":22.34766,
+    "geom:longitude":120.37902,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T22",
+    "gn:admin4_code":"10013220001.0",
+    "gn:asciiname":"Benfu",
+    "gn:country_code":"TW",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670544,
+    "gn:latitude":22.34766,
+    "gn:longitude":120.37902,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Benfu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pen-fu"
+    ],
+    "name:zho_x_preferred":[
+        "Pen-fu-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u672c\u798f",
+        "P\u2019ing-fu-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679549,
+        102191569,
+        85632403,
+        1108499273,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670544
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"63f57fb68ade445481ecad84fd9adce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310507629,
+            "macrocounty_id":1108499273,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1310507629,
+    "wof:lastmodified":1537708789,
+    "wof:name":"Benfu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.37902,
+    22.34766,
+    120.37902,
+    22.34766
+],
+  "geometry": {"coordinates":[120.37902,22.34766],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293789759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86932,24.07159,120.86932,24.07159",
+    "geom:latitude":24.07159,
+    "geom:longitude":120.86932,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M10",
+    "gn:admin4_code":"10008100005.0",
+    "gn:asciiname":"Laotangpou",
+    "gn:country_code":"TW",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1991395,
+    "gn:latitude":24.07159,
+    "gn:longitude":120.86932,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Laotangpou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8001\u7cd6\u5ecd"
+    ],
+    "name:zho_x_variant":[
+        "Lao-t\u2019ang-pu",
+        "Lao-t\u2019ang-p\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1991395
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8c15ab191e6c4f9a632031b1a554f6af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293789759,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1293789759,
+    "wof:lastmodified":1537709445,
+    "wof:name":"Laotangpou",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86932,
+    24.07159,
+    120.86932,
+    24.07159
+],
+  "geometry": {"coordinates":[120.86932,24.07159],"type":"Point"}
+}

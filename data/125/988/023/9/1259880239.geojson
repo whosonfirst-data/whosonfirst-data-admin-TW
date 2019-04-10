@@ -1,0 +1,80 @@
+{
+  "id": 1259880239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.558,22.7404,120.558,22.7404",
+    "geom:latitude":22.7404,
+    "geom:longitude":120.558,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T10",
+    "gn:admin4_code":"10013100001.0",
+    "gn:asciiname":"Xinyuan",
+    "gn:country_code":"TW",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674784,
+    "gn:latitude":22.7404,
+    "gn:longitude":120.558,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinyuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-y\u00fcan",
+        "Hsin-wei-ts\u2019un",
+        "Xinyuan",
+        "Sinyuan",
+        "Hsin-wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u570d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674784
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3e9ac61fdbf2ed201b221d1ccd1e4142",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259880239,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1259880239,
+    "wof:lastmodified":1537709070,
+    "wof:name":"Xinyuan",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.558,
+    22.7404,
+    120.558,
+    22.7404
+],
+  "geometry": {"coordinates":[120.55800000000001,22.7404],"type":"Point"}
+}

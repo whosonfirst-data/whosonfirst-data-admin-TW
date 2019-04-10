@@ -1,0 +1,76 @@
+{
+  "id": 1327432161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.78976,24.30843,120.78976,24.30843",
+    "geom:latitude":24.30843,
+    "geom:longitude":120.78976,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B10",
+    "gn:admin4_code":"66000100025.0",
+    "gn:asciiname":"Shangkeng",
+    "gn:country_code":"TW",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992709,
+    "gn:latitude":24.30843,
+    "gn:longitude":120.78976,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e0a\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Shang-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992709
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2eb3619b8c81421409f2adfcc6e96a95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327432161,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1327432161,
+    "wof:lastmodified":1537709465,
+    "wof:name":"Shangkeng",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.78976000000002,
+    24.30843,
+    120.78976000000002,
+    24.30843
+],
+  "geometry": {"coordinates":[120.78976000000002,24.30843],"type":"Point"}
+}

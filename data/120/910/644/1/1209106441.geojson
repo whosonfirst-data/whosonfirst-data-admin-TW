@@ -1,0 +1,74 @@
+{
+  "id": 1209106441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.63972,23.53778,120.63972,23.53778",
+    "geom:latitude":23.53778,
+    "geom:longitude":120.63972,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q16",
+    "gn:admin4_code":"10010150014.0",
+    "gn:asciiname":"Xiashiguping",
+    "gn:country_code":"TW",
+    "gn:dem":808,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669381,
+    "gn:latitude":23.53778,
+    "gn:longitude":120.63972,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiashiguping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siashihguping"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u77f3\u53e4\u576a"
+    ],
+    "name:zho_x_variant":[
+        "Shih-ku-p\u2019ing",
+        "Hsia-shih-ku-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669381
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"362aa25f3645a40ac0df4520c7cee89c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209106441
+        }
+    ],
+    "wof:id":1209106441,
+    "wof:lastmodified":1537708701,
+    "wof:name":"Xiashiguping",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.63972,
+    23.53778,
+    120.63972,
+    23.53778
+],
+  "geometry": {"coordinates":[120.63972,23.53778],"type":"Point"}
+}

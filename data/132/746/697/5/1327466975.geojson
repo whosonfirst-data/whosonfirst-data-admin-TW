@@ -1,0 +1,79 @@
+{
+  "id": 1327466975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.51822,23.40311,120.51822,23.40311",
+    "geom:latitude":23.40311,
+    "geom:longitude":120.51822,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q14",
+    "gn:admin4_code":"10010130017.0",
+    "gn:asciiname":"Fengkongzi",
+    "gn:country_code":"TW",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656281,
+    "gn:latitude":23.40311,
+    "gn:longitude":120.51822,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fengkongzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fongkongzih"
+    ],
+    "name:zho_x_preferred":[
+        "\u98a8\u7a7a\u4ed4"
+    ],
+    "name:zho_x_variant":[
+        "Feng-k\u2019ung-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6656281
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"dfcb87f7167c1bcd6b47c5bcf0b0a963",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327466975,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1327466975,
+    "wof:lastmodified":1537709876,
+    "wof:name":"Fengkongzi",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.51822,
+    23.40311,
+    120.51822,
+    23.40311
+],
+  "geometry": {"coordinates":[120.51822,23.40311],"type":"Point"}
+}

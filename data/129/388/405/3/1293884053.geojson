@@ -1,0 +1,78 @@
+{
+  "id": 1293884053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.74421,23.91159,120.74421,23.91159",
+    "geom:latitude":23.91159,
+    "geom:longitude":120.74421,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M08",
+    "gn:admin4_code":"10008080010.0",
+    "gn:asciiname":"Shisanjia",
+    "gn:country_code":"TW",
+    "gn:dem":247,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650286,
+    "gn:latitude":23.91159,
+    "gn:longitude":120.74421,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shisanjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihsanjia",
+        "Shisanjia",
+        "Shih-san-chia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5341\u4e09\u7532"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650286
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8e2dcef6ed04c4adb39cde134379e032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293884053,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1293884053,
+    "wof:lastmodified":1537709801,
+    "wof:name":"Shisanjia",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.74421,
+    23.91159,
+    120.74421,
+    23.91159
+],
+  "geometry": {"coordinates":[120.74421,23.91159],"type":"Point"}
+}

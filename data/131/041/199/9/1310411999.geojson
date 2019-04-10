@@ -1,0 +1,82 @@
+{
+  "id": 1310411999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86096,24.41949,120.86096,24.41949",
+    "geom:latitude":24.41949,
+    "geom:longitude":120.86096,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K15",
+    "gn:admin4_code":"10005080006.0",
+    "gn:asciiname":"Daliaokeng",
+    "gn:country_code":"TW",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668169,
+    "gn:latitude":24.41949,
+    "gn:longitude":120.86096,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Daliaokeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chu-kao-wu",
+        "Ta-liao",
+        "Daliaokeng"
+    ],
+    "name:zho_x_preferred":[
+        "Ta-liao-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u5927\u5bee\u5751",
+        "Ta-liao-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668169
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6c29c8629452e2dda65c2a33807a97f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310411999,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1310411999,
+    "wof:lastmodified":1537708612,
+    "wof:name":"Daliaokeng",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86096,
+    24.41949,
+    120.86096,
+    24.41949
+],
+  "geometry": {"coordinates":[120.86096000000001,24.41949],"type":"Point"}
+}

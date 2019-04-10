@@ -1,0 +1,75 @@
+{
+  "id": 1209515815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.50767,22.41808,120.50767,22.41808",
+    "geom:latitude":22.41808,
+    "geom:longitude":120.50767,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T19",
+    "gn:admin4_code":"10013190006.0",
+    "gn:asciiname":"Fangsuo",
+    "gn:country_code":"TW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668999,
+    "gn:latitude":22.41808,
+    "gn:longitude":120.50767,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fangsuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shui-li",
+        "Fangsuo",
+        "Fang-so"
+    ],
+    "name:zho_x_preferred":[
+        "Shui-li-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u653e\u7d22"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668999
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7a51143887b5692be750cfbc15e11cb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209515815
+        }
+    ],
+    "wof:id":1209515815,
+    "wof:lastmodified":1537708672,
+    "wof:name":"Fangsuo",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.50767,
+    22.41808,
+    120.50767,
+    22.41808
+],
+  "geometry": {"coordinates":[120.50767,22.41808],"type":"Point"}
+}

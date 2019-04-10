@@ -1,0 +1,70 @@
+{
+  "id": 1209338619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.72056,24.45528,120.72056,24.45528",
+    "geom:latitude":24.45528,
+    "geom:longitude":120.72056,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K03",
+    "gn:admin4_code":"10005030008.0",
+    "gn:asciiname":"Aitou",
+    "gn:country_code":"TW",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988383,
+    "gn:latitude":24.45528,
+    "gn:longitude":120.72056,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Aitou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9698\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Ai-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988383
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"53950c3dcc5263e84a6554a88bec5ef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209338619
+        }
+    ],
+    "wof:id":1209338619,
+    "wof:lastmodified":1537709431,
+    "wof:name":"Aitou",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.72056,
+    24.45528,
+    120.72056,
+    24.45528
+],
+  "geometry": {"coordinates":[120.72056000000001,24.45528],"type":"Point"}
+}

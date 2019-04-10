@@ -1,0 +1,81 @@
+{
+  "id": 1343981947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.54707,22.74717,120.54707,22.74717",
+    "geom:latitude":22.74717,
+    "geom:longitude":120.54707,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T10",
+    "gn:admin4_code":"10013100012.0",
+    "gn:asciiname":"Pengcuo",
+    "gn:country_code":"TW",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670620,
+    "gn:latitude":22.74717,
+    "gn:longitude":120.54707,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pengcuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-chuang-tzu",
+        "P\u2019eng-ts\u2019o-ts\u2019un",
+        "Pengcuo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f6d\u539d"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019eng-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670620
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"700bbd19afddcb5fb50a12a1d5a3732f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343981947,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1343981947,
+    "wof:lastmodified":1537708793,
+    "wof:name":"Pengcuo",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.54707,
+    22.74717,
+    120.54707,
+    22.74717
+],
+  "geometry": {"coordinates":[120.54707000000001,22.74717],"type":"Point"}
+}

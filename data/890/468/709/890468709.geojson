@@ -1,0 +1,76 @@
+{
+  "id": 890468709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.35,22.55,120.35,22.55",
+    "geom:latitude":22.55,
+    "geom:longitude":120.35,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "\u5c0f\u6e2f\u5340"
+    ],
+    "name:zho_x_preferred":[
+        "Hsiao-kang Ch\u2019\u00fc"
+    ],
+    "name:zho_x_variant":[
+        "\u5c0f\u6e2f\u5340"
+    ],
+    "qs:name":"Xiaogang Qu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":690,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675626,
+        "qs:id":1027063,
+        "wd:id":"Q718021",
+        "wk:page":"Siaogang District"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053721,
+    "wof:geomhash":"39587fb84ef44435dbea86527cbc5210",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890468709,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":890468709,
+    "wof:lastmodified":1527792967,
+    "wof:name":"Xiaogang Qu",
+    "wof:parent_id":85679547,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.35,
+    22.55,
+    120.35,
+    22.55
+],
+  "geometry": {"coordinates":[120.34999999999999,22.55],"type":"Point"}
+}

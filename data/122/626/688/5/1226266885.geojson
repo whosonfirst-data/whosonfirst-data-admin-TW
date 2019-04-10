@@ -1,0 +1,88 @@
+{
+  "id": 1226266885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.56444,22.05778,121.56444,22.05778",
+    "geom:latitude":22.05778,
+    "geom:longitude":121.56444,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V16",
+    "gn:admin4_code":"10014160001.0",
+    "gn:asciiname":"Dongqing",
+    "gn:country_code":"TW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666672,
+    "gn:latitude":22.05778,
+    "gn:longitude":121.56444,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongqing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "I-la-nu-mi",
+        "I-la-nu-mi-li-chiao",
+        "I-la-nu-mi-li",
+        "Dongqing",
+        "Dongcing"
+    ],
+    "name:zho_x_preferred":[
+        "Tung-ch\u2019ing-she"
+    ],
+    "name:zho_x_variant":[
+        "Tung-ch\u2019ing-ts\u2019un",
+        "\u6771\u6e05",
+        "I-la-nu-mi-li-k\u2019u",
+        "Tung-ch\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679623,
+        102191569,
+        85632403,
+        1108499511,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666672
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cc997fcaf45da6e9a7333cabe507a3ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226266885,
+            "macrocounty_id":1108499511,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1226266885,
+    "wof:lastmodified":1537708514,
+    "wof:name":"Dongqing",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.56444,
+    22.05778,
+    121.56444,
+    22.05778
+],
+  "geometry": {"coordinates":[121.56444,22.05778],"type":"Point"}
+}

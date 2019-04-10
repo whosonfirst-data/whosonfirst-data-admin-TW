@@ -1,0 +1,77 @@
+{
+  "id": 890472063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.6,25.21667,121.6,25.21667",
+    "geom:latitude":25.21667,
+    "geom:longitude":121.6,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":21851,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0426\u0437\u0438\u043d\u0448\u0430\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Chin-shan Hsiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u5c71\u9109"
+    ],
+    "qs:name":"Jinshan Xiang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"7",
+    "src:population":"geonames",
+    "wd:wordcount":161,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677980,
+        "qs:id":558556,
+        "wd:id":"Q24287568",
+        "wk:page":"Taipei County"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053880,
+    "wof:geomhash":"67578a3f42e9683f2c94011416e8c348",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890472063,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":890472063,
+    "wof:lastmodified":1527790281,
+    "wof:name":"Jinshan Xiang",
+    "wof:parent_id":85679585,
+    "wof:placetype":"localadmin",
+    "wof:population":21851,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.6,
+    25.21667,
+    121.6,
+    25.21667
+],
+  "geometry": {"coordinates":[121.59999999999999,25.21667],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343473003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.30959,24.4044,118.30959,24.4044",
+    "geom:latitude":24.4044,
+    "geom:longitude":118.30959,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W03",
+    "gn:admin4_code":"9020010005.0",
+    "gn:asciiname":"Jinmencheng",
+    "gn:country_code":"TW",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678007,
+    "gn:latitude":24.4044,
+    "gn:longitude":118.30959,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Jinmencheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiu-chin-men",
+        "Chin-men-chiu-ch\u2019eng",
+        "Chin-men Old City",
+        "Chin-men-ch\u2019eng",
+        "Jinmencheng"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u9580\u57ce"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678007
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b1d3413bb498b9f6df26c8591171f26b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343473003,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1343473003,
+    "wof:lastmodified":1537709339,
+    "wof:name":"Jinmencheng",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.30959,
+    24.4044,
+    118.30959,
+    24.4044
+],
+  "geometry": {"coordinates":[118.30959,24.4044],"type":"Point"}
+}

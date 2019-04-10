@@ -1,0 +1,80 @@
+{
+  "id": 1276369997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.82389,21.93361,120.82389,21.93361",
+    "geom:latitude":21.93361,
+    "geom:longitude":120.82389,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T04",
+    "gn:admin4_code":"10013040017.0",
+    "gn:asciiname":"Chuanfanshi",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677680,
+    "gn:latitude":21.93361,
+    "gn:longitude":120.82389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chuanfanshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chuanfanshih",
+        "Chuanfanshi"
+    ],
+    "name:zho_x_preferred":[
+        "\u8239\u5e06\u77f3"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019uan-fan-shih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677680
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"eb269ee311734cd1c87d0a998103236d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276369997,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1276369997,
+    "wof:lastmodified":1537709314,
+    "wof:name":"Chuanfanshi",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.82389,
+    21.93361,
+    120.82389,
+    21.93361
+],
+  "geometry": {"coordinates":[120.82389000000001,21.93361],"type":"Point"}
+}

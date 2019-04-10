@@ -1,0 +1,79 @@
+{
+  "id": 1226747759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.30077,24.89263,121.30077,24.89263",
+    "geom:latitude":24.89263,
+    "geom:longitude":121.30077,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H02",
+    "gn:admin4_code":"68000030005.0",
+    "gn:asciiname":"Shangshitun",
+    "gn:country_code":"TW",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669768,
+    "gn:latitude":24.89263,
+    "gn:longitude":121.30077,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangshitun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangshihtun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u77f3\u5c6f"
+    ],
+    "name:zho_x_variant":[
+        "Shang-shih-t\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669768
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d73b2d9102136a52a1e0d86612747d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226747759,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1226747759,
+    "wof:lastmodified":1537708733,
+    "wof:name":"Shangshitun",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.30077,
+    24.89263,
+    121.30077,
+    24.89263
+],
+  "geometry": {"coordinates":[121.30077,24.89263],"type":"Point"}
+}

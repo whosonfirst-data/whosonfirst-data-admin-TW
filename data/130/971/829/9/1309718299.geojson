@@ -1,0 +1,77 @@
+{
+  "id": 1309718299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.612,23.7759,120.612,23.7759",
+    "geom:latitude":23.7759,
+    "geom:longitude":120.612,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P10",
+    "gn:admin4_code":"10009100002.0",
+    "gn:asciiname":"Rongxing",
+    "gn:country_code":"TW",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649899,
+    "gn:latitude":23.7759,
+    "gn:longitude":120.612,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Rongxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rongsing",
+        "Jung-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u69ae\u8208"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649899
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c49084b6d714522aa7087465e2818f7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309718299,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1309718299,
+    "wof:lastmodified":1537709793,
+    "wof:name":"Rongxing",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.612,
+    23.7759,
+    120.612,
+    23.7759
+],
+  "geometry": {"coordinates":[120.61199999999999,23.7759],"type":"Point"}
+}

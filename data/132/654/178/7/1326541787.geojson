@@ -1,0 +1,81 @@
+{
+  "id": 1326541787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.53121,24.94243,121.53121,24.94243",
+    "geom:latitude":24.94243,
+    "geom:longitude":121.53121,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F07",
+    "gn:admin4_code":"65000060029.0",
+    "gn:asciiname":"Zhitan",
+    "gn:country_code":"TW",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678303,
+    "gn:latitude":24.94243,
+    "gn:longitude":121.53121,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhitan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhihtan",
+        "Zhitan"
+    ],
+    "name:zho_x_preferred":[
+        "Wan-t\u2019an"
+    ],
+    "name:zho_x_variant":[
+        "\u76f4\u6f6d",
+        "Chih-t\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678303
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ed3daf53e35d81e9958f12f0d419c49c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326541787,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1326541787,
+    "wof:lastmodified":1537709359,
+    "wof:name":"Zhitan",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.53121000000002,
+    24.94243,
+    121.53121000000002,
+    24.94243
+],
+  "geometry": {"coordinates":[121.53121000000002,24.94243],"type":"Point"}
+}

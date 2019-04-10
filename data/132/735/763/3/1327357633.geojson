@@ -1,0 +1,80 @@
+{
+  "id": 1327357633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.26496,23.14457,121.26496,23.14457",
+    "geom:latitude":23.14457,
+    "geom:longitude":121.26496,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U10",
+    "gn:admin4_code":"10015100011.0",
+    "gn:asciiname":"Caoluegou",
+    "gn:country_code":"TW",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652273,
+    "gn:latitude":23.14457,
+    "gn:longitude":121.26496,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Caol\u00fcgou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caolyugou"
+    ],
+    "name:zho_x_preferred":[
+        "\u8349\u7da0\u6e9d"
+    ],
+    "name:zho_x_variant":[
+        "Caol\u00fcgou",
+        "Ts\u2019ao-l\u00fc-kou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652273
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"714b8b6c5e0bb2ad2c1f28d12e66c950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327357633,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1327357633,
+    "wof:lastmodified":1537709820,
+    "wof:name":"Caoluegou",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.26496000000002,
+    23.14457,
+    121.26496000000002,
+    23.14457
+],
+  "geometry": {"coordinates":[121.26496000000002,23.14457],"type":"Point"}
+}

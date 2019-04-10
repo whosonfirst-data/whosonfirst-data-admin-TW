@@ -1,0 +1,81 @@
+{
+  "id": 1326963167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.26956,25.09179,121.26956,25.09179",
+    "geom:latitude":25.09179,
+    "geom:longitude":121.26956,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H05",
+    "gn:admin4_code":"68000050015.0",
+    "gn:asciiname":"Zhen'an",
+    "gn:country_code":"TW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6749337,
+    "gn:latitude":25.09179,
+    "gn:longitude":121.26956,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhen\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chen-an"
+    ],
+    "name:zho_x_preferred":[
+        "\u5733\u5cb8"
+    ],
+    "name:zho_x_variant":[
+        "Zhen\u2019an",
+        "Ch\u00fcn-an",
+        "Jhen\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6749337
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cfd062408c61ade9174eef2c9252136f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326963167,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1326963167,
+    "wof:lastmodified":1537709951,
+    "wof:name":"Zhen'an",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.26956,
+    25.09179,
+    121.26956,
+    25.09179
+],
+  "geometry": {"coordinates":[121.26956,25.09179],"type":"Point"}
+}

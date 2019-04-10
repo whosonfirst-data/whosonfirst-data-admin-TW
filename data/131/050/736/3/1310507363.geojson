@@ -1,0 +1,78 @@
+{
+  "id": 1310507363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.28758,22.99802,121.28758,22.99802",
+    "geom:latitude":22.99802,
+    "geom:longitude":121.28758,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V07",
+    "gn:admin4_code":"10014070001.0",
+    "gn:asciiname":"Taiyuan",
+    "gn:country_code":"TW",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668269,
+    "gn:latitude":22.99802,
+    "gn:longitude":121.28758,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Taiyuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "T\u2019ai-y\u00fcan-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u6cf0\u6e90",
+        "Kao-y\u00fcan",
+        "T\u2019ai-y\u00fcan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668269
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"effd9e02a4c8b686ee265499f1556726",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310507363,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1310507363,
+    "wof:lastmodified":1537708619,
+    "wof:name":"Taiyuan",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.28758,
+    22.99802,
+    121.28758,
+    22.99802
+],
+  "geometry": {"coordinates":[121.28758000000001,22.99802],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343267683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.09167,24.23667,121.09167,24.23667",
+    "geom:latitude":24.23667,
+    "geom:longitude":121.09167,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B29",
+    "gn:admin4_code":"66000290007.0",
+    "gn:asciiname":"Qingtan",
+    "gn:country_code":"TW",
+    "gn:dem":997,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6595345,
+    "gn:latitude":24.23667,
+    "gn:longitude":121.09167,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qingtan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cingtan",
+        "Qingtan"
+    ],
+    "name:zho_x_preferred":[
+        "\u9752\u6f6d"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ing-t\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6595345
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1a6e464a7d07ea0064b4de226918ce52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343267683,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1343267683,
+    "wof:lastmodified":1537709610,
+    "wof:name":"Qingtan",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.09167,
+    24.23667,
+    121.09167,
+    24.23667
+],
+  "geometry": {"coordinates":[121.09166999999999,24.23667],"type":"Point"}
+}

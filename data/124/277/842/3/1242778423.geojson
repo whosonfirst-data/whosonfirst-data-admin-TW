@@ -1,0 +1,76 @@
+{
+  "id": 1242778423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.71058,24.57071,120.71058,24.57071",
+    "geom:latitude":24.57071,
+    "geom:longitude":120.71058,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K03",
+    "gn:admin4_code":"10005030022.0",
+    "gn:asciiname":"Baishatun",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671118,
+    "gn:latitude":24.57071,
+    "gn:longitude":120.71058,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Baishatun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u767d\u6c99\u5c6f"
+    ],
+    "name:zho_x_variant":[
+        "Pai-sha-t\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671118
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0dc58307498d05380a82c2661630562b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242778423,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1242778423,
+    "wof:lastmodified":1537708823,
+    "wof:name":"Baishatun",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.71058,
+    24.57071,
+    120.71058,
+    24.57071
+],
+  "geometry": {"coordinates":[120.71057999999999,24.57071],"type":"Point"}
+}

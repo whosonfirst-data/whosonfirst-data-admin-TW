@@ -1,0 +1,72 @@
+{
+  "id": 890471207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.561839,25.0597135,121.561839,25.0597135",
+    "geom:latitude":25.059714,
+    "geom:longitude":121.561839,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u4e09\u6c11\u91cc",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u53f0\u5317\u5e02",
+    "qs:photos":686,
+    "qs:photos_1k":139,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":686,
+    "qs:photos_sr":8,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wd:wordcount":334,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        1108808545,
+        102026641,
+        85679583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28756331,
+        "qs:id":899202,
+        "wd:id":"Q309356",
+        "wk:page":"West District, Taichung"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053847,
+    "wof:geomhash":"4b76766544a3572e43ead7a99c017fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "macroregion_id":1108808545,
+            "neighbourhood_id":890471207,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":890471207,
+    "wof:lastmodified":1527727126,
+    "wof:name":"\u4e09\u6c11\u91cc",
+    "wof:parent_id":102026641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.561839,
+    25.0597135,
+    121.561839,
+    25.0597135
+],
+  "geometry": {"coordinates":[121.56183900000001,25.0597135],"type":"Point"}
+}

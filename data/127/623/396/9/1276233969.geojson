@@ -1,0 +1,81 @@
+{
+  "id": 1276233969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.43261,23.75254,120.43261,23.75254",
+    "geom:latitude":23.75254,
+    "geom:longitude":120.43261,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P04",
+    "gn:admin4_code":"10009040024.0",
+    "gn:asciiname":"Jiulong",
+    "gn:country_code":"TW",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677806,
+    "gn:latitude":23.75254,
+    "gn:longitude":120.43261,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiulong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jioulong",
+        "Chiu-lung"
+    ],
+    "name:zho_x_preferred":[
+        "Chiu-k\u2019uai-ts\u2019o"
+    ],
+    "name:zho_x_variant":[
+        "Chiu-lung-ts\u2019un",
+        "\u4e5d\u9686"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677806
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4c2158ac9d9c3c7c2b0a9a544a28d7b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276233969,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1276233969,
+    "wof:lastmodified":1537709324,
+    "wof:name":"Jiulong",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.43261,
+    23.75254,
+    120.43261,
+    23.75254
+],
+  "geometry": {"coordinates":[120.43261,23.75254],"type":"Point"}
+}

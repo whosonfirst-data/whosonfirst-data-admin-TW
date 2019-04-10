@@ -1,0 +1,74 @@
+{
+  "id": 1209427981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.49361,22.92667,120.49361,22.92667",
+    "geom:latitude":22.92667,
+    "geom:longitude":120.49361,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E30",
+    "gn:admin4_code":"64000300004.0",
+    "gn:asciiname":"Xiyuantan",
+    "gn:country_code":"TW",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665404,
+    "gn:latitude":22.92667,
+    "gn:longitude":120.49361,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiyuantan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siyuantan"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5713\u6f6d"
+    ],
+    "name:zho_x_variant":[
+        "Y\u00fcan-t\u2019an-tzu",
+        "Hsi-y\u00fcan-t\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665404
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"705fdf2bcdc2494b70d042799850a043",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209427981
+        }
+    ],
+    "wof:id":1209427981,
+    "wof:lastmodified":1537708433,
+    "wof:name":"Xiyuantan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.49361,
+    22.92667,
+    120.49361,
+    22.92667
+],
+  "geometry": {"coordinates":[120.49361,22.92667],"type":"Point"}
+}

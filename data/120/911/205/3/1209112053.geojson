@@ -1,0 +1,75 @@
+{
+  "id": 1209112053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2225,23.08361,120.2225,23.08361",
+    "geom:latitude":23.08361,
+    "geom:longitude":120.2225,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R21",
+    "gn:admin4_code":"67000210010.0",
+    "gn:asciiname":"Datong",
+    "gn:country_code":"TW",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667628,
+    "gn:latitude":23.08361,
+    "gn:longitude":120.2225,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Datong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niu-jou-liao",
+        "Datong"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u540c"
+    ],
+    "name:zho_x_variant":[
+        "Ta-t\u2019ung-ts\u2019un",
+        "Ta-t\u2019ung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667628
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"22e45167e31ed47da563adbb9826af5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209112053
+        }
+    ],
+    "wof:id":1209112053,
+    "wof:lastmodified":1537708583,
+    "wof:name":"Datong",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2225,
+    23.08361,
+    120.2225,
+    23.08361
+],
+  "geometry": {"coordinates":[120.2225,23.08361],"type":"Point"}
+}

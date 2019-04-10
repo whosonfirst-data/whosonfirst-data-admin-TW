@@ -1,0 +1,71 @@
+{
+  "id": 1209320593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.31417,22.96194,120.31417,22.96194",
+    "geom:latitude":22.96194,
+    "geom:longitude":120.31417,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R29",
+    "gn:admin4_code":"67000290001.0",
+    "gn:asciiname":"Linzibian",
+    "gn:country_code":"TW",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602146,
+    "gn:latitude":22.96194,
+    "gn:longitude":120.31417,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Linzibian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Linzihbian",
+        "Lin-tzu-pien"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u5b50\u908a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602146
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f7bcd52f0acfd72d643e31c4bcb672f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209320593
+        }
+    ],
+    "wof:id":1209320593,
+    "wof:lastmodified":1537709652,
+    "wof:name":"Linzibian",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.31417,
+    22.96194,
+    120.31417,
+    22.96194
+],
+  "geometry": {"coordinates":[120.31417,22.96194],"type":"Point"}
+}

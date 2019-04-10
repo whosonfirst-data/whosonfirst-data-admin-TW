@@ -1,0 +1,85 @@
+{
+  "id": 1243455013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.46978,22.61045,120.46978,22.61045",
+    "geom:latitude":22.61045,
+    "geom:longitude":120.46978,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T05",
+    "gn:admin4_code":"10013050015.0",
+    "gn:asciiname":"Jiaxing",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678842,
+    "gn:latitude":22.61045,
+    "gn:longitude":120.46978,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiaxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chia-li-lan",
+        "Chia-hsing",
+        "\u52a0\u8208",
+        "Jiaxing",
+        "Jiasing",
+        "Chia-li-nan"
+    ],
+    "name:zho_x_preferred":[
+        "She-p\u2019i"
+    ],
+    "name:zho_x_variant":[
+        "Chia-hsing-ts\u2019un",
+        "\u52a0\u8208"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678842
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5edd6cbd85ae625e1758b867fa87cad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243455013,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1243455013,
+    "wof:lastmodified":1537709393,
+    "wof:name":"Jiaxing",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.46978,
+    22.61045,
+    120.46978,
+    22.61045
+],
+  "geometry": {"coordinates":[120.46978,22.61045],"type":"Point"}
+}

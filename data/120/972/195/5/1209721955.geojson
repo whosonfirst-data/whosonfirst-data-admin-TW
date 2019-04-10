@@ -1,0 +1,81 @@
+{
+  "id": 1209721955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.56558,24.2083,120.56558,24.2083",
+    "geom:latitude":24.2083,
+    "geom:longitude":120.56558,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B13",
+    "gn:admin4_code":"66000130021.0",
+    "gn:asciiname":"Sankuaicuo",
+    "gn:country_code":"TW",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993118,
+    "gn:latitude":24.2083,
+    "gn:longitude":120.56558,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sankuaicuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-k\u2019uei-ts\u2019o",
+        "Sankuaicuo",
+        "San-k\u2019uai-ts\u2019o"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u584a\u539d"
+    ],
+    "name:zho_x_variant":[
+        "San-k\u2019uai-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993118
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"883acb8bd5a7d4187afe9686f7ac00a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209721955,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1209721955,
+    "wof:lastmodified":1537709473,
+    "wof:name":"Sankuaicuo",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.56558,
+    24.2083,
+    120.56558,
+    24.2083
+],
+  "geometry": {"coordinates":[120.56558,24.2083],"type":"Point"}
+}

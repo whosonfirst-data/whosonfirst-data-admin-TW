@@ -1,0 +1,74 @@
+{
+  "id": 890468763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.58333,23.51667,120.58333,23.51667",
+    "geom:latitude":23.51667,
+    "geom:longitude":120.58333,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Jhuci Siang"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u5d0e\u9109"
+    ],
+    "name:zho_x_variant":[
+        "Chu-ch\u2019i",
+        "Chu-ch\u2019i Hsiang"
+    ],
+    "qs:name":"Zhuqi Xiang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677620,
+        "qs:id":1030942
+    },
+    "wof:country":"TW",
+    "wof:created":1469053724,
+    "wof:geomhash":"c7fc276a92425ca97d963f66dfbd339f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890468763,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":890468763,
+    "wof:lastmodified":1505343712,
+    "wof:name":"Zhuqi Xiang",
+    "wof:parent_id":85679599,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.58333,
+    23.51667,
+    120.58333,
+    23.51667
+],
+  "geometry": {"coordinates":[120.58333,23.51667],"type":"Point"}
+}

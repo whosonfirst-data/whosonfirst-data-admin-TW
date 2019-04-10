@@ -1,0 +1,81 @@
+{
+  "id": 1243091521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.02972,24.54694,121.02972,24.54694",
+    "geom:latitude":24.54694,
+    "geom:longitude":121.02972,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K14",
+    "gn:admin4_code":"10005110009.0",
+    "gn:asciiname":"Fengmei",
+    "gn:country_code":"TW",
+    "gn:dem":717,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676633,
+    "gn:latitude":24.54694,
+    "gn:longitude":121.02972,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fengmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fongmei",
+        "Feng-mei"
+    ],
+    "name:zho_x_preferred":[
+        "Lu-ch\u2019ang"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019iu-pu-ssu-she",
+        "\u98a8\u7f8e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676633
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"620441c2dcc0791265c9b9f3df517043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243091521,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1243091521,
+    "wof:lastmodified":1537709228,
+    "wof:name":"Fengmei",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.02972,
+    24.54694,
+    121.02972,
+    24.54694
+],
+  "geometry": {"coordinates":[121.02972,24.54694],"type":"Point"}
+}

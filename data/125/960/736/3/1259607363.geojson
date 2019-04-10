@@ -1,0 +1,77 @@
+{
+  "id": 1259607363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86361,22.45389,120.86361,22.45389",
+    "geom:latitude":22.45389,
+    "geom:longitude":120.86361,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V14",
+    "gn:admin4_code":"10014150002.0",
+    "gn:asciiname":"Minjiazhan",
+    "gn:country_code":"TW",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6587853,
+    "gn:latitude":22.45389,
+    "gn:longitude":120.86361,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Minjiazhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minjiajhan",
+        "Min-chia-chan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c11\u4f73\u7ad9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6587853
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0e29751f59ff34b97bb935cfc017fefc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259607363,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1259607363,
+    "wof:lastmodified":1537709598,
+    "wof:name":"Minjiazhan",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86361,
+    22.45389,
+    120.86361,
+    22.45389
+],
+  "geometry": {"coordinates":[120.86360999999999,22.45389],"type":"Point"}
+}

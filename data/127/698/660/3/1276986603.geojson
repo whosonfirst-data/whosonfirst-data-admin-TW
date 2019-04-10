@@ -1,0 +1,77 @@
+{
+  "id": 1276986603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9731,24.61601,120.9731,24.61601",
+    "geom:latitude":24.61601,
+    "geom:longitude":120.9731,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K13",
+    "gn:admin4_code":"10005160006.0",
+    "gn:asciiname":"Shangshigu",
+    "gn:country_code":"TW",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646254,
+    "gn:latitude":24.61601,
+    "gn:longitude":120.9731,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangshigu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangshihgu",
+        "Shang-shih-ku"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u5341\u80a1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646254
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0d45e4e25f8542d1a4671e177025b984",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276986603,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1276986603,
+    "wof:lastmodified":1537709732,
+    "wof:name":"Shangshigu",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9731,
+    24.61601,
+    120.9731,
+    24.61601
+],
+  "geometry": {"coordinates":[120.9731,24.61601],"type":"Point"}
+}

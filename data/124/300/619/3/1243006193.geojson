@@ -1,0 +1,78 @@
+{
+  "id": 1243006193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.20694,23.7675,120.20694,23.7675",
+    "geom:latitude":23.7675,
+    "geom:longitude":120.20694,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P13",
+    "gn:admin4_code":"10009130007.0",
+    "gn:asciiname":"Sishi'erdong",
+    "gn:country_code":"TW",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254646,
+    "gn:latitude":23.7675,
+    "gn:longitude":120.20694,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sishi\u2019erdong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ssu-shih-erh-tung",
+        "Sihshiherdong",
+        "\u56db\u5341\u4e8c\u68df"
+    ],
+    "name:zho_x_preferred":[
+        "Sishi\u2019erdong"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254646
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"33e6019dbb851b24f2763da03d0da013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243006193,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1243006193,
+    "wof:lastmodified":1537709503,
+    "wof:name":"Sishi'erdong",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.20694,
+    23.7675,
+    120.20694,
+    23.7675
+],
+  "geometry": {"coordinates":[120.20694,23.7675],"type":"Point"}
+}

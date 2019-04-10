@@ -1,0 +1,78 @@
+{
+  "id": 1242874477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.50539,23.76024,120.50539,23.76024",
+    "geom:latitude":23.76024,
+    "geom:longitude":120.50539,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P09",
+    "gn:admin4_code":"10009090006.0",
+    "gn:asciiname":"Buzi",
+    "gn:country_code":"TW",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670267,
+    "gn:latitude":23.76024,
+    "gn:longitude":120.50539,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Buzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Buzih",
+        "Buzi",
+        "Pu-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u57d4\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670267
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"327cb8883b80fa5804bda40ce46717e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242874477,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1242874477,
+    "wof:lastmodified":1537708770,
+    "wof:name":"Buzi",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.50539,
+    23.76024,
+    120.50539,
+    23.76024
+],
+  "geometry": {"coordinates":[120.50539000000001,23.76024],"type":"Point"}
+}

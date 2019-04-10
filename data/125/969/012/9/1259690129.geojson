@@ -1,0 +1,76 @@
+{
+  "id": 1259690129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.76504,24.24092,120.76504,24.24092",
+    "geom:latitude":24.24092,
+    "geom:longitude":120.76504,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B09",
+    "gn:admin4_code":"66000090032.0",
+    "gn:asciiname":"Shangnankeng",
+    "gn:country_code":"TW",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669786,
+    "gn:latitude":24.24092,
+    "gn:longitude":120.76504,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangnankeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e0a\u5357\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Shang-nan-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669786
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b68c774a802d3734ffb4ad4a429345a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259690129,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1259690129,
+    "wof:lastmodified":1537708734,
+    "wof:name":"Shangnankeng",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.76503999999998,
+    24.24092000000001,
+    120.76503999999998,
+    24.24092000000001
+],
+  "geometry": {"coordinates":[120.76503999999998,24.24092000000001],"type":"Point"}
+}

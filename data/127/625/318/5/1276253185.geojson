@@ -1,0 +1,81 @@
+{
+  "id": 1276253185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.42065,23.12231,120.42065,23.12231",
+    "geom:latitude":23.12231,
+    "geom:longitude":120.42065,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R11",
+    "gn:admin4_code":"67000110009.0",
+    "gn:asciiname":"Qiliwa",
+    "gn:country_code":"TW",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678230,
+    "gn:latitude":23.12231,
+    "gn:longitude":120.42065,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qiliwa",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciliwa",
+        "Chi-tzu-wa",
+        "Qiliwa"
+    ],
+    "name:zho_x_preferred":[
+        "\u552d\u54e9\u5493"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019i-li-wa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678230
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"161ad0308191103b6eb077e95e4b809f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276253185,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1276253185,
+    "wof:lastmodified":1537709354,
+    "wof:name":"Qiliwa",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.42065,
+    23.12231,
+    120.42065,
+    23.12231
+],
+  "geometry": {"coordinates":[120.42064999999999,23.12231],"type":"Point"}
+}

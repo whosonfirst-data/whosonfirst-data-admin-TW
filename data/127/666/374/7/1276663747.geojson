@@ -1,0 +1,81 @@
+{
+  "id": 1276663747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.83017,24.42945,120.83017,24.42945",
+    "geom:latitude":24.42945,
+    "geom:longitude":120.83017,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K05",
+    "gn:admin4_code":"10005100009.0",
+    "gn:asciiname":"Bayankeng",
+    "gn:country_code":"TW",
+    "gn:dem":388,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670871,
+    "gn:latitude":24.42945,
+    "gn:longitude":120.83017,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bayankeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u516b\u71d5\u5751",
+        "Bayankeng"
+    ],
+    "name:zho_x_preferred":[
+        "Pa-y\u00fcan-k\u2019eng"
+    ],
+    "name:zho_x_variant":[
+        "Pa-yen-k\u2019eng",
+        "\u516b\u71d5\u5751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670871
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6f07f3030dd4f6f253eff8520700ffd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276663747,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1276663747,
+    "wof:lastmodified":1537708807,
+    "wof:name":"Bayankeng",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.83017,
+    24.42945,
+    120.83017,
+    24.42945
+],
+  "geometry": {"coordinates":[120.83017,24.42945],"type":"Point"}
+}

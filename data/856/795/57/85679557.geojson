@@ -1,0 +1,180 @@
+{
+  "id": 85679557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.01374,
+    "geom:area_square_m":154255728.088205,
+    "geom:bbox":"120.872709176,24.7103783232,121.045924514,24.8534301725",
+    "geom:latitude":24.782584,
+    "geom:longitude":120.952694,
+    "gn:id":"",
+    "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Hsinchu City Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":24.784099,
+    "lbl:longitude":120.946793,
+    "mps:latitude":24.784099,
+    "mps:longitude":120.946793,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "name:eng_x_preferred":[
+        "Hsinchu City"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e0\uc8fc \uc2dc"
+    ],
+    "name:unk_x_variant":[
+        "Hsin-chu"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u7af9\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u7af9"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TWN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"TWN-1161",
+    "ne:adm1_code":"TWN-1161",
+    "ne:admin":"Taiwan",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"20",
+    "ne:code_hasc":"TW.TW.HS",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1161",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Taiwan",
+    "ne:gn_a1_code":"TW.HSQ",
+    "ne:gn_id":"1675103",
+    "ne:gn_level":"2",
+    "ne:gn_name":"Hsinchu",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"TW08",
+    "ne:gns_id":"-2631089",
+    "ne:gns_lang":"zho",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Xinzhu Shi",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TWN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TW-HSZ",
+    "ne:iso_a2":"TW",
+    "ne:labelrank":"9",
+    "ne:latitude":"24.77570000000",
+    "ne:longitude":"120.95900000000",
+    "ne:mapcolor13":2,
+    "ne:mapcolor9":7,
+    "ne:name":"Hsinchu City",
+    "ne:name_alt":"Xinzhu Shi",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"HH",
+    "ne:provnum_ne":"15",
+    "ne:region":"Taiwan Province",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"1",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"TWN",
+    "ne:sub_code":"",
+    "ne:type":"Shi",
+    "ne:type_en":"Provincial City",
+    "ne:wikipedia":"",
+    "ne:woe_id":28751582,
+    "ne:woe_label":"",
+    "ne:woe_name":"Hsinchu City",
+    "qs:a0":"Taiwan",
+    "qs:a0_lc":"TW",
+    "qs:a1":"Hsinchu City",
+    "qs:a1_lc":"TWN-1161",
+    "qs:a1r":"Taiwan Province",
+    "qs:adm0":"Taiwan",
+    "qs:adm0_a3":"TWN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Provincial City",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-12-31",
+    "statoids:area_km":"104",
+    "statoids:as_of_date":"2010-12-31",
+    "statoids:capital":"Hsinchu",
+    "statoids:country":"TW",
+    "statoids:hasc":"TW.TA",
+    "statoids:name":"Hsinchu City",
+    "statoids:population":"476273",
+    "statoids:statoid":"TW.TA.HS",
+    "statoids:timezone":"8",
+    "statoids:type":"municipality",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":1675103,
+        "gp:id":28751582,
+        "hasc:id":"TW.TA.HS",
+        "qs:id":1285950
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"84aee9ad32eccf33c912935bedbe5e01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "macroregion_id":1108808557,
+            "region_id":85679557
+        }
+    ],
+    "wof:id":85679557,
+    "wof:lang":[
+        "chi"
+    ],
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1553550599,
+    "wof:name":"Hsinchu City",
+    "wof:parent_id":1108808557,
+    "wof:placetype":"region",
+    "wof:placetype_local":"municipality",
+    "wof:population":476273,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:shortcode":"HS",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.87270917628757,
+    24.7103783232011,
+    121.04592451360543,
+    24.85343017246453
+],
+  "geometry": {"coordinates":[[[120.96024498891518,24.71502920223594],[120.95952151940264,24.7142282174583],[120.94200320888103,24.7103783232011],[120.92536339660353,24.71645030373855],[120.9150281106588,24.72952444080033],[120.89890506411746,24.73849030208584],[120.87275678909464,24.74774038331208],[120.87270917628757,24.74775722581535],[120.87696373848576,24.76190827045036],[120.8981225918842,24.80117422141325],[120.9064233730403,24.81146881753193],[120.90919030009229,24.81688060125879],[120.90902753988917,24.82273997666863],[120.90650475449092,24.82908763268813],[120.90235436346313,24.83681875268331],[120.9080509768711,24.84707265807674],[120.91464277454452,24.85342031499562],[120.91465122457441,24.85343017246453],[120.94624067586653,24.84101634372934],[121.00360151609721,24.82447988513866],[121.02416873609832,24.81455801034394],[121.0388965186595,24.8013288445506],[121.04592451360543,24.78866811773952],[121.04220381055745,24.77595571498432],[121.03326378769373,24.77127899842708],[121.01357506683598,24.76825592736918],[120.99140587817885,24.75998769807387],[120.97828006427358,24.74510488498248],[120.96970177571643,24.72551951781156],[120.96024498891518,24.71502920223594]]],"type":"Polygon"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1327237341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.73221,25.15813,121.73221,25.15813",
+    "geom:latitude":25.15813,
+    "geom:longitude":121.73221,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"KEE",
+    "gn:admin3_code":"C05",
+    "gn:admin4_code":"10017050012.0",
+    "gn:asciiname":"Xiehezhuang",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675336,
+    "gn:latitude":25.15813,
+    "gn:longitude":121.73221,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiehezhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siehejhuang",
+        "Hsieh-ho-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5354\u548c\u838a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679571,
+        102191569,
+        85632403,
+        1108756875,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675336
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"64b817dc0b5f5a12c955b6c4377436c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327237341,
+            "macrocounty_id":1108756875,
+            "macroregion_id":1108808557,
+            "region_id":85679571
+        }
+    ],
+    "wof:id":1327237341,
+    "wof:lastmodified":1537709120,
+    "wof:name":"Xiehezhuang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.73221,
+    25.15813,
+    121.73221,
+    25.15813
+],
+  "geometry": {"coordinates":[121.73220999999999,25.15813],"type":"Point"}
+}

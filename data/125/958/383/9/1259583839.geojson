@@ -1,0 +1,85 @@
+{
+  "id": 1259583839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.16053,23.26024,120.16053,23.26024",
+    "geom:latitude":23.26024,
+    "geom:longitude":120.16053,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R17",
+    "gn:admin4_code":"67000130003.0",
+    "gn:asciiname":"Xintougang",
+    "gn:country_code":"TW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667016,
+    "gn:latitude":23.26024,
+    "gn:longitude":120.16053,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xintougang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sintougang"
+    ],
+    "name:zho_x_preferred":[
+        "Hsin-t\u2019ou-chiang-tzu"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ou-kang-ts\u2019un",
+        "T\u2019ou-chiang-ts\u2019un",
+        "T\u2019ou-chiang",
+        "\u65b0\u982d\u6e2f",
+        "Hsin-t\u2019ou-kang-tzu",
+        "T\u2019ou-kang",
+        "Hsin-t\u2019ou-kang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667016
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c2151e8543f8bf79726f54653dca62c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259583839,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1259583839,
+    "wof:lastmodified":1537708536,
+    "wof:name":"Xintougang",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.16053,
+    23.26024,
+    120.16053,
+    23.26024
+],
+  "geometry": {"coordinates":[120.16052999999999,23.26024],"type":"Point"}
+}

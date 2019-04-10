@@ -1,0 +1,83 @@
+{
+  "id": 1243387425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.46493,23.92543,120.46493,23.92543",
+    "geom:latitude":23.92543,
+    "geom:longitude":120.46493,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N22",
+    "gn:admin4_code":"10007220004.0",
+    "gn:asciiname":"Shiyihaozi",
+    "gn:country_code":"TW",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676634,
+    "gn:latitude":23.92543,
+    "gn:longitude":120.46493,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shiyihaozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shih-i-hao",
+        "Feng-lun",
+        "Shihyihaozih",
+        "Shiyihaozi",
+        "Shih-i-hao-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "Feng-lun-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u5341\u4e00\u865f\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676634
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9678782a5dc60b09e44ef36d9ed99199",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243387425,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1243387425,
+    "wof:lastmodified":1537709228,
+    "wof:name":"Shiyihaozi",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.46493,
+    23.92543,
+    120.46493,
+    23.92543
+],
+  "geometry": {"coordinates":[120.46493,23.92543],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1360291809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.31306,22.98667,121.31306,22.98667",
+    "geom:latitude":22.98667,
+    "geom:longitude":121.31306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V02",
+    "gn:admin4_code":"10014020008.0",
+    "gn:asciiname":"Suidaokou",
+    "gn:country_code":"TW",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6587932,
+    "gn:latitude":22.98667,
+    "gn:longitude":121.31306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Suidaokou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sueidaokou",
+        "Suidaokou"
+    ],
+    "name:zho_x_preferred":[
+        "\u96a7\u9053\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "Sui-tao-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679623,
+        102191569,
+        85632403,
+        1108499511,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6587932
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fcdea05afa9bbe44d29f4031eef07271",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360291809,
+            "macrocounty_id":1108499511,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1360291809,
+    "wof:lastmodified":1537709600,
+    "wof:name":"Suidaokou",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.31306,
+    22.98667,
+    121.31306,
+    22.98667
+],
+  "geometry": {"coordinates":[121.31305999999999,22.98667],"type":"Point"}
+}

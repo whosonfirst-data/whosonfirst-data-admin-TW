@@ -1,0 +1,79 @@
+{
+  "id": 1276770737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.6552,25.01833,121.6552,25.01833",
+    "geom:latitude":25.01833,
+    "geom:longitude":121.6552,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F08",
+    "gn:admin4_code":"65000190003.0",
+    "gn:asciiname":"Xinxingkeng",
+    "gn:country_code":"TW",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675010,
+    "gn:latitude":25.01833,
+    "gn:longitude":121.6552,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinxingkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinsingkeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u8208\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Hsin-hsing-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675010
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4ab27698fe4afede104a38b5211f3e16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276770737,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1276770737,
+    "wof:lastmodified":1537709088,
+    "wof:name":"Xinxingkeng",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.6552,
+    25.01833,
+    121.6552,
+    25.01833
+],
+  "geometry": {"coordinates":[121.65519999999999,25.01833],"type":"Point"}
+}

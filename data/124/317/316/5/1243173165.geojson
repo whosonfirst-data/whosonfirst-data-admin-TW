@@ -1,0 +1,80 @@
+{
+  "id": 1243173165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.28667,23.32917,120.28667,23.32917",
+    "geom:latitude":23.32917,
+    "geom:longitude":120.28667,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R02",
+    "gn:admin4_code":"67000020001.0",
+    "gn:asciiname":"Shangditing",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669746,
+    "gn:latitude":23.32917,
+    "gn:longitude":120.28667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangditing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shang-ti-miao",
+        "Shangditing"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u5e1d\u5ef3"
+    ],
+    "name:zho_x_variant":[
+        "Shang-ti-t\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669746
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"10066b0e854722390becceb55178bb7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243173165,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1243173165,
+    "wof:lastmodified":1537708731,
+    "wof:name":"Shangditing",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.28667,
+    23.32917,
+    120.28667,
+    23.32917
+],
+  "geometry": {"coordinates":[120.28667,23.32917],"type":"Point"}
+}

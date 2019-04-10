@@ -1,0 +1,80 @@
+{
+  "id": 1225868883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.71306,24.43944,120.71306,24.43944",
+    "geom:latitude":24.43944,
+    "geom:longitude":120.71306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K03",
+    "gn:admin4_code":"10005030011.0",
+    "gn:asciiname":"Guoqiwo",
+    "gn:country_code":"TW",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988386,
+    "gn:latitude":24.43944,
+    "gn:longitude":120.71306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Guoqiwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guociwo",
+        "Guoqiwo"
+    ],
+    "name:zho_x_preferred":[
+        "\u934b\u81cd\u7aa9"
+    ],
+    "name:zho_x_variant":[
+        "Kuo-ch\u2019i-wo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988386
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"eb639f044ca2de8ead966b0e61907a05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225868883,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1225868883,
+    "wof:lastmodified":1537709431,
+    "wof:name":"Guoqiwo",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.71306,
+    24.43944,
+    120.71306,
+    24.43944
+],
+  "geometry": {"coordinates":[120.71306,24.43944],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1344063023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.55861,24.28389,120.55861,24.28389",
+    "geom:latitude":24.28389,
+    "geom:longitude":120.55861,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B12",
+    "gn:admin4_code":"66000120014.0",
+    "gn:asciiname":"Xiagouhou",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6587581,
+    "gn:latitude":24.28389,
+    "gn:longitude":120.55861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiagouhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siagouhou",
+        "Xiagouhou",
+        "Hsia-kou-hou"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u6e9d\u5f8c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6587581
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5cd5beeae2a65f225264c9370fa934dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344063023,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1344063023,
+    "wof:lastmodified":1537709588,
+    "wof:name":"Xiagouhou",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.55861000000002,
+    24.28389,
+    120.55861000000002,
+    24.28389
+],
+  "geometry": {"coordinates":[120.55861000000002,24.28389],"type":"Point"}
+}

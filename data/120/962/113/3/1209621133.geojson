@@ -1,0 +1,71 @@
+{
+  "id": 1209621133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.74035,24.53656,120.74035,24.53656",
+    "geom:latitude":24.53656,
+    "geom:longitude":120.74035,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K07",
+    "gn:admin4_code":"10005140004.0",
+    "gn:asciiname":"Xiasihu",
+    "gn:country_code":"TW",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6657749,
+    "gn:latitude":24.53656,
+    "gn:longitude":120.74035,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiasihu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siasihhu",
+        "Hsia-ssu-hu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u56db\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6657749
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f72e8ced43325c1e264dc7d76c5010f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209621133
+        }
+    ],
+    "wof:id":1209621133,
+    "wof:lastmodified":1537709885,
+    "wof:name":"Xiasihu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.74035,
+    24.53656,
+    120.74035,
+    24.53656
+],
+  "geometry": {"coordinates":[120.74035000000001,24.53656],"type":"Point"}
+}

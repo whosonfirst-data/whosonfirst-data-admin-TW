@@ -1,0 +1,72 @@
+{
+  "id": 1209130057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.82117,24.66026,120.82117,24.66026",
+    "geom:latitude":24.66026,
+    "geom:longitude":120.82117,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K12",
+    "gn:admin4_code":"10005060014.0",
+    "gn:asciiname":"Wuzhunei",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646195,
+    "gn:latitude":24.66026,
+    "gn:longitude":120.82117,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wuzhunei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wujhunei",
+        "Wuzhunei",
+        "Wu-chu-nei"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e94\u67f1\u5185"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646195
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9482000855715eb0430def148260db7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209130057
+        }
+    ],
+    "wof:id":1209130057,
+    "wof:lastmodified":1537709728,
+    "wof:name":"Wuzhunei",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.82117,
+    24.66026,
+    120.82117,
+    24.66026
+],
+  "geometry": {"coordinates":[120.82117,24.66026],"type":"Point"}
+}

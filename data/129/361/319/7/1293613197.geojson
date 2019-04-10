@@ -1,0 +1,76 @@
+{
+  "id": 1293613197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.35664,25.0525,121.35664,25.0525",
+    "geom:latitude":25.0525,
+    "geom:longitude":121.35664,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H07",
+    "gn:admin4_code":"68000070019.0",
+    "gn:asciiname":"Dahu",
+    "gn:country_code":"TW",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6749059,
+    "gn:latitude":25.0525,
+    "gn:longitude":121.35664,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dahu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-hu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6749059
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7cb9a1c0dc464572b4b122f64a120cb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293613197,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1293613197,
+    "wof:lastmodified":1537709942,
+    "wof:name":"Dahu",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.35663999999998,
+    25.0525,
+    121.35663999999998,
+    25.0525
+],
+  "geometry": {"coordinates":[121.35663999999998,25.0525],"type":"Point"}
+}

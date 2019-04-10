@@ -1,0 +1,77 @@
+{
+  "id": 1276800419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.72438,24.5246,120.72438,24.5246",
+    "geom:latitude":24.5246,
+    "geom:longitude":120.72438,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K03",
+    "gn:admin4_code":"10005030017.0",
+    "gn:asciiname":"Beishiwo",
+    "gn:country_code":"TW",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670713,
+    "gn:latitude":24.5246,
+    "gn:longitude":120.72438,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Beishiwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beishihwo",
+        "Pei-shih-wo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u52e2\u7aa9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670713
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"15d4b7acbca76c92c7d9e141abb6915c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276800419,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1276800419,
+    "wof:lastmodified":1537708797,
+    "wof:name":"Beishiwo",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.72438,
+    24.5246,
+    120.72438,
+    24.5246
+],
+  "geometry": {"coordinates":[120.72438,24.5246],"type":"Point"}
+}

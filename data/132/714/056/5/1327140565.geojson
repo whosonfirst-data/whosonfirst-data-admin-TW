@@ -1,0 +1,79 @@
+{
+  "id": 1327140565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.66139,23.62417,120.66139,23.62417",
+    "geom:latitude":23.62417,
+    "geom:longitude":120.66139,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M04",
+    "gn:admin4_code":"10008040025.0",
+    "gn:asciiname":"Xiaoqizi",
+    "gn:country_code":"TW",
+    "gn:dem":352,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6579875,
+    "gn:latitude":23.62417,
+    "gn:longitude":120.66139,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaoqizi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siaocizih"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u65d7\u5b50"
+    ],
+    "name:zho_x_variant":[
+        "Hsiao-ch\u2019i-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6579875
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"088bef78bb5d3408780d6dd1f7ee6600",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327140565,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1327140565,
+    "wof:lastmodified":1537709553,
+    "wof:name":"Xiaoqizi",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.66139,
+    23.62417,
+    120.66139,
+    23.62417
+],
+  "geometry": {"coordinates":[120.66139,23.62417],"type":"Point"}
+}

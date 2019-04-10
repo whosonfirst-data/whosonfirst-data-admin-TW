@@ -1,0 +1,80 @@
+{
+  "id": 1276986709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.50972,23.67167,120.50972,23.67167",
+    "geom:latitude":23.67167,
+    "geom:longitude":120.50972,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P01",
+    "gn:admin4_code":"10009010016.0",
+    "gn:asciiname":"Xincuozi",
+    "gn:country_code":"TW",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674804,
+    "gn:latitude":23.67167,
+    "gn:longitude":120.50972,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xincuozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sincuozih",
+        "Xincuozi"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u539d\u5b50"
+    ],
+    "name:zho_x_variant":[
+        "Hsin-ts\u2019o-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674804
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"156d7485450f6d9be2e20ddb32702293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276986709,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1276986709,
+    "wof:lastmodified":1537709072,
+    "wof:name":"Xincuozi",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.50972,
+    23.67167,
+    120.50972,
+    23.67167
+],
+  "geometry": {"coordinates":[120.50972,23.67167],"type":"Point"}
+}

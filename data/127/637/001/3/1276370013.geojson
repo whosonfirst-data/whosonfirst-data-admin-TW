@@ -1,0 +1,76 @@
+{
+  "id": 1276370013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.66538,24.03719,120.66538,24.03719",
+    "geom:latitude":24.03719,
+    "geom:longitude":120.66538,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B26",
+    "gn:admin4_code":"66000260020.0",
+    "gn:asciiname":"Beishi",
+    "gn:country_code":"TW",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6747573,
+    "gn:latitude":24.03719,
+    "gn:longitude":120.66538,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Beishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5317\u52e2",
+        "Beishih",
+        "Beishi",
+        "Pei-shih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6747573
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"de8c0b98ed8974991a2bd7fe096709bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276370013,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1276370013,
+    "wof:lastmodified":1537709926,
+    "wof:name":"Beishi",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.66538,
+    24.03719,
+    120.66538,
+    24.03719
+],
+  "geometry": {"coordinates":[120.66538,24.03719],"type":"Point"}
+}

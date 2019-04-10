@@ -1,0 +1,76 @@
+{
+  "id": 1310507521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86589,24.67847,120.86589,24.67847",
+    "geom:latitude":24.67847,
+    "geom:longitude":120.86589,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040015.0",
+    "gn:asciiname":"Fanshe",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646049,
+    "gn:latitude":24.67847,
+    "gn:longitude":120.86589,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fanshe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fan-she"
+    ],
+    "name:zho_x_preferred":[
+        "\u756a\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646049
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c913fed01e7922cb95c1661a35849588",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310507521,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1310507521,
+    "wof:lastmodified":1537709717,
+    "wof:name":"Fanshe",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86589,
+    24.67847,
+    120.86589,
+    24.67847
+],
+  "geometry": {"coordinates":[120.86588999999999,24.67847],"type":"Point"}
+}

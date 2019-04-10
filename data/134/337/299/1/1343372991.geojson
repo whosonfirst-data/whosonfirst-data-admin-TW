@@ -1,0 +1,75 @@
+{
+  "id": 1343372991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.24698,24.42844,118.24698,24.42844",
+    "geom:latitude":24.42844,
+    "geom:longitude":118.24698,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W05",
+    "gn:admin4_code":"9020050004.0",
+    "gn:asciiname":"Donglin",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666555,
+    "gn:latitude":24.42844,
+    "gn:longitude":118.24698,
+    "gn:modification_date":"2017-11-03",
+    "gn:name":"Donglin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6771\u6797",
+        "Tung-lin",
+        "Donglin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666555
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c1292206d6b0e89c2868433f9875a41f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343372991,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1343372991,
+    "wof:lastmodified":1537708506,
+    "wof:name":"Donglin",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.24698,
+    24.42844,
+    118.24698,
+    24.42844
+],
+  "geometry": {"coordinates":[118.24697999999999,24.42844],"type":"Point"}
+}

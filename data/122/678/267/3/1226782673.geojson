@@ -1,0 +1,77 @@
+{
+  "id": 1226782673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.65167,24.31917,120.65167,24.31917",
+    "geom:latitude":24.31917,
+    "geom:longitude":120.65167,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B21",
+    "gn:admin4_code":"66000210003.0",
+    "gn:asciiname":"Sankan",
+    "gn:country_code":"TW",
+    "gn:dem":171,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670072,
+    "gn:latitude":24.31917,
+    "gn:longitude":120.65167,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sankan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Tz\u2019u-yao-san-k\u2019an"
+    ],
+    "name:zho_x_variant":[
+        "\u4e09\u5d01",
+        "San-k\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670072
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7eb993d2597b564b9e64aeae17400cba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226782673,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1226782673,
+    "wof:lastmodified":1537708756,
+    "wof:name":"Sankan",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.65167,
+    24.31917,
+    120.65167,
+    24.31917
+],
+  "geometry": {"coordinates":[120.65167,24.31917],"type":"Point"}
+}

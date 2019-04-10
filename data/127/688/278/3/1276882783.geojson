@@ -1,0 +1,64 @@
+{
+  "id": 1276882783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.91667,26.16667,119.91667,26.16667",
+    "geom:latitude":26.16667,
+    "geom:longitude":119.91667,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Lunlinjiao",
+    "gn:country_code":"TW",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672386,
+    "gn:latitude":26.16667,
+    "gn:longitude":119.91667,
+    "gn:modification_date":"2010-10-08",
+    "gn:name":"Lunlinjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lun-lin-chiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672386
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4b391af5b4961fa1b7a2010d06b49254",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276882783,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276882783,
+    "wof:lastmodified":1537708901,
+    "wof:name":"Lunlinjiao",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.91667,
+    26.16667,
+    119.91667,
+    26.16667
+],
+  "geometry": {"coordinates":[119.91667,26.16667],"type":"Point"}
+}

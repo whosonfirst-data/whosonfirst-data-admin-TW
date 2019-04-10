@@ -1,0 +1,76 @@
+{
+  "id": 1259891601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.64308,25.17561,121.64308,25.17561",
+    "geom:latitude":25.17561,
+    "geom:longitude":121.64308,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F26",
+    "gn:admin4_code":"65000280006.0",
+    "gn:asciiname":"Erpingwei",
+    "gn:country_code":"TW",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6728981,
+    "gn:latitude":25.17561,
+    "gn:longitude":121.64308,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Erpingwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e8c\u576a\u5c3e"
+    ],
+    "name:zho_x_variant":[
+        "Erh-p\u2019ing-wei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6728981
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9de2b19945d03e895219d52c3b0865f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259891601,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1259891601,
+    "wof:lastmodified":1537709912,
+    "wof:name":"Erpingwei",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.64308,
+    25.17561,
+    121.64308,
+    25.17561
+],
+  "geometry": {"coordinates":[121.64308,25.17561],"type":"Point"}
+}

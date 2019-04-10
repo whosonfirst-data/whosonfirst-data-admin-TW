@@ -1,0 +1,70 @@
+{
+  "id": 1209220933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86573,24.36127,120.86573,24.36127",
+    "geom:latitude":24.36127,
+    "geom:longitude":120.86573,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K15",
+    "gn:admin4_code":"10005080010.0",
+    "gn:asciiname":"Kengwei",
+    "gn:country_code":"TW",
+    "gn:dem":399,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992635,
+    "gn:latitude":24.36127,
+    "gn:longitude":120.86573,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kengwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5751\u5c3e"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019eng-wei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992635
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"90427def0e843eac07fa6f4b46ddc714",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209220933
+        }
+    ],
+    "wof:id":1209220933,
+    "wof:lastmodified":1537709460,
+    "wof:name":"Kengwei",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86573,
+    24.36127,
+    120.86573,
+    24.36127
+],
+  "geometry": {"coordinates":[120.86573,24.36127],"type":"Point"}
+}

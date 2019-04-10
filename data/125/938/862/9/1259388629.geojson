@@ -1,0 +1,78 @@
+{
+  "id": 1259388629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6364,23.9474,120.6364,23.9474",
+    "geom:latitude":23.9474,
+    "geom:longitude":120.6364,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M01",
+    "gn:admin4_code":"10008010022.0",
+    "gn:asciiname":"Wanmenzi",
+    "gn:country_code":"TW",
+    "gn:dem":378,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650336,
+    "gn:latitude":23.9474,
+    "gn:longitude":120.6364,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wanmenzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wanmenzih",
+        "Wanmenzi",
+        "Wan-men-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7063\u9580\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650336
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b56e52f901324609919f09abe6aaf787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259388629,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1259388629,
+    "wof:lastmodified":1537709802,
+    "wof:name":"Wanmenzi",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6364,
+    23.9474,
+    120.6364,
+    23.9474
+],
+  "geometry": {"coordinates":[120.63639999999999,23.9474],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209332347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.42066,24.48609,118.42066,24.48609",
+    "geom:latitude":24.48609,
+    "geom:longitude":118.42066,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W02",
+    "gn:admin4_code":"9020020001.0",
+    "gn:asciiname":"Caidian",
+    "gn:country_code":"TW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666936,
+    "gn:latitude":24.48609,
+    "gn:longitude":118.42066,
+    "gn:modification_date":"2017-11-03",
+    "gn:name":"Caidian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u8521\u5e97",
+        "Caidian"
+    ],
+    "name:zho_x_preferred":[
+        "Ts\u2019ai-tien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666936
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5aa06d24c707454ec31ca2d94e2b7342",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209332347
+        }
+    ],
+    "wof:id":1209332347,
+    "wof:lastmodified":1537708530,
+    "wof:name":"Caidian",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.42066,
+    24.48609,
+    118.42066,
+    24.48609
+],
+  "geometry": {"coordinates":[118.42066,24.48609],"type":"Point"}
+}

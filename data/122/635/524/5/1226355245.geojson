@@ -1,0 +1,80 @@
+{
+  "id": 1226355245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3739,22.6834,120.3739,22.6834",
+    "geom:latitude":22.6834,
+    "geom:longitude":120.3739,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E17",
+    "gn:admin4_code":"64000170003.0",
+    "gn:asciiname":"Dajiuwan",
+    "gn:country_code":"TW",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669458,
+    "gn:latitude":22.6834,
+    "gn:longitude":120.3739,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dajiuwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-chiu-wan",
+        "\u5927\u4e5d\u7063",
+        "Shih-chiu-wan",
+        "Dajiuwan",
+        "Dajiouwan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u4e5d\u7063"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669458
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"088abd0f88f0d86838b349d9bcbbf87d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226355245,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1226355245,
+    "wof:lastmodified":1537708708,
+    "wof:name":"Dajiuwan",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3739,
+    22.6834,
+    120.3739,
+    22.6834
+],
+  "geometry": {"coordinates":[120.37390000000001,22.6834],"type":"Point"}
+}

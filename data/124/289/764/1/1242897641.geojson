@@ -1,0 +1,77 @@
+{
+  "id": 1242897641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8465,24.14627,120.8465,24.14627",
+    "geom:latitude":24.14627,
+    "geom:longitude":120.8465,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B19",
+    "gn:admin4_code":"66000190012.0",
+    "gn:asciiname":"Zhangdarenying",
+    "gn:country_code":"TW",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6726888,
+    "gn:latitude":24.14627,
+    "gn:longitude":120.8465,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhangdarenying",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhangdarenying",
+        "Chang-ta-jen-ying"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f35\u5927\u4eba\u71df"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6726888
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3147bb329e6658a1c959eaae1c47c132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242897641,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1242897641,
+    "wof:lastmodified":1537709906,
+    "wof:name":"Zhangdarenying",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8465,
+    24.14627,
+    120.8465,
+    24.14627
+],
+  "geometry": {"coordinates":[120.84650000000001,24.14627],"type":"Point"}
+}

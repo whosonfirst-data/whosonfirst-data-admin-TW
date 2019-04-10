@@ -1,0 +1,82 @@
+{
+  "id": 1310413325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.53526,25.2907,121.53526,25.2907",
+    "geom:latitude":25.2907,
+    "geom:longitude":121.53526,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F31",
+    "gn:admin4_code":"65000220002.0",
+    "gn:asciiname":"Fujicun",
+    "gn:country_code":"TW",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676507,
+    "gn:latitude":25.2907,
+    "gn:longitude":121.53526,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fujicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fu-chi",
+        "Fujicun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bcc\u57fa\u6751"
+    ],
+    "name:zho_x_variant":[
+        "Fu-chi-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679585,
+        102191569,
+        85632403,
+        1108756871,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676507
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a4bfb7bc78574750a74d97aafcb6d464",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310413325,
+            "macrocounty_id":1108756871,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1310413325,
+    "wof:lastmodified":1537709219,
+    "wof:name":"Fujicun",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.53526,
+    25.2907,
+    121.53526,
+    25.2907
+],
+  "geometry": {"coordinates":[121.53525999999999,25.2907],"type":"Point"}
+}

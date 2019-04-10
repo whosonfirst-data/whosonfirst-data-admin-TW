@@ -1,0 +1,78 @@
+{
+  "id": 1209320585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.19306,23.50111,120.19306,23.50111",
+    "geom:latitude":23.50111,
+    "geom:longitude":120.19306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q09",
+    "gn:admin4_code":"10010090012.0",
+    "gn:asciiname":"Xizixia",
+    "gn:country_code":"TW",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674638,
+    "gn:latitude":23.50111,
+    "gn:longitude":120.19306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xizixia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ting-chiu-tzu-pu",
+        "Xizixia",
+        "Sizihsia",
+        "Hsi-tzu-hsia"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019i-tzu-hsia-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Hsi-tzu-hsia-ts\u2019un",
+        "Ch\u2019i-tzu-hsia",
+        "\u6eaa\u5b50\u4e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674638
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6c461256012a1b584a88fd323310a667",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209320585
+        }
+    ],
+    "wof:id":1209320585,
+    "wof:lastmodified":1537709056,
+    "wof:name":"Xizixia",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.19306,
+    23.50111,
+    120.19306,
+    23.50111
+],
+  "geometry": {"coordinates":[120.19306,23.50111],"type":"Point"}
+}

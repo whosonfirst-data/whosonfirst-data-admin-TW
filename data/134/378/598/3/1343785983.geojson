@@ -1,0 +1,78 @@
+{
+  "id": 1343785983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.63833,23.8583,120.63833,23.8583",
+    "geom:latitude":23.8583,
+    "geom:longitude":120.63833,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M06",
+    "gn:admin4_code":"10008060014.0",
+    "gn:asciiname":"Zhuwei",
+    "gn:country_code":"TW",
+    "gn:dem":309,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677008,
+    "gn:latitude":23.8583,
+    "gn:longitude":120.63833,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhuwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsia-chu-wei-tzu",
+        "Jhuwei",
+        "Chu-wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u570d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677008
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"24989453b3710a3b0a0931ceb70d1d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343785983,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1343785983,
+    "wof:lastmodified":1537709256,
+    "wof:name":"Zhuwei",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.63833,
+    23.8583,
+    120.63833,
+    23.8583
+],
+  "geometry": {"coordinates":[120.63833,23.8583],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343768371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.06051,25.02836,121.06051,25.02836",
+    "geom:latitude":25.02836,
+    "geom:longitude":121.06051,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H12",
+    "gn:admin4_code":"68000120004.0",
+    "gn:asciiname":"Lincuo",
+    "gn:country_code":"TW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646526,
+    "gn:latitude":25.02836,
+    "gn:longitude":121.06051,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lincuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lin-wu",
+        "Lincuo"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u539d"
+    ],
+    "name:zho_x_variant":[
+        "Lin-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646526
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4f1eff24016111a55ed5a88b56de0e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343768371,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1343768371,
+    "wof:lastmodified":1537709737,
+    "wof:name":"Lincuo",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.06051,
+    25.02836,
+    121.06051,
+    25.02836
+],
+  "geometry": {"coordinates":[121.06050999999999,25.02836],"type":"Point"}
+}

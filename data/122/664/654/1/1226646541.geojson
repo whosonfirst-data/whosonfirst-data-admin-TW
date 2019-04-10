@@ -1,0 +1,80 @@
+{
+  "id": 1226646541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.30144,23.8588,120.30144,23.8588",
+    "geom:latitude":23.8588,
+    "geom:longitude":120.30144,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N24",
+    "gn:admin4_code":"10007240008.0",
+    "gn:asciiname":"Wangcuoliao",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666178,
+    "gn:latitude":23.8588,
+    "gn:longitude":120.30144,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wangcuoliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hu-wei-liao",
+        "Shan-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u738b\u539d\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Wang-ts\u2019o-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666178
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fa2ac803a446cea8886cb6e3772775dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226646541,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1226646541,
+    "wof:lastmodified":1537708484,
+    "wof:name":"Wangcuoliao",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.30144,
+    23.8588,
+    120.30144,
+    23.8588
+],
+  "geometry": {"coordinates":[120.30144,23.8588],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1260081213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.44526,23.77898,121.44526,23.77898",
+    "geom:latitude":23.77898,
+    "geom:longitude":121.44526,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U12",
+    "gn:admin4_code":"10015120002.0",
+    "gn:asciiname":"Bingzishe",
+    "gn:country_code":"TW",
+    "gn:dem":151,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6645471,
+    "gn:latitude":23.77898,
+    "gn:longitude":121.44526,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bingzishe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bingzihshe",
+        "Ping-tzu-she"
+    ],
+    "name:zho_x_preferred":[
+        "\u5175\u4ed4\u820d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6645471
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"847f1dc953e9eefde895892da17eb749",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260081213,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1260081213,
+    "wof:lastmodified":1537709709,
+    "wof:name":"Bingzishe",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.44526,
+    23.77898,
+    121.44526,
+    23.77898
+],
+  "geometry": {"coordinates":[121.44526,23.77898],"type":"Point"}
+}

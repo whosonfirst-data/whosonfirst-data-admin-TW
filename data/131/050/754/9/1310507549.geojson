@@ -1,0 +1,76 @@
+{
+  "id": 1310507549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.74098,23.75984,120.74098,23.75984",
+    "geom:latitude":23.75984,
+    "geom:longitude":120.74098,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M07",
+    "gn:admin4_code":"10008070002.0",
+    "gn:asciiname":"Fulin",
+    "gn:country_code":"TW",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676428,
+    "gn:latitude":23.75984,
+    "gn:longitude":120.74098,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fulin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fu-lin"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bcc\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676428
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ae265bc513f1c86a7e7b9c788cacabb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310507549,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1310507549,
+    "wof:lastmodified":1537709212,
+    "wof:name":"Fulin",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.74098,
+    23.75984,
+    120.74098,
+    23.75984
+],
+  "geometry": {"coordinates":[120.74097999999999,23.75984],"type":"Point"}
+}

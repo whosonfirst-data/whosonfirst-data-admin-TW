@@ -1,0 +1,74 @@
+{
+  "id": 1209010523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.37577,25.06345,121.37577,25.06345",
+    "geom:latitude":25.06345,
+    "geom:longitude":121.37577,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H07",
+    "gn:admin4_code":"68000070010.0",
+    "gn:asciiname":"Qianzhuang",
+    "gn:country_code":"TW",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6749180,
+    "gn:latitude":25.06345,
+    "gn:longitude":121.37577,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qianzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cianjhuang",
+        "Qianzhuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u524d\u5e84"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ien-chuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6749180
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a17d039e529ef908033579531b11a488",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209010523
+        }
+    ],
+    "wof:id":1209010523,
+    "wof:lastmodified":1537709946,
+    "wof:name":"Qianzhuang",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.37577,
+    25.06345,
+    121.37577,
+    25.06345
+],
+  "geometry": {"coordinates":[121.37577,25.06345],"type":"Point"}
+}

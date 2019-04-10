@@ -1,0 +1,76 @@
+{
+  "id": 1226442801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.68332,24.07634,120.68332,24.07634",
+    "geom:latitude":24.07634,
+    "geom:longitude":120.68332,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B28",
+    "gn:admin4_code":"66000280020.0",
+    "gn:asciiname":"Xihu",
+    "gn:country_code":"TW",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993595,
+    "gn:latitude":24.07634,
+    "gn:longitude":120.68332,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xihu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u897f\u6e56",
+        "Sihu",
+        "Xihu",
+        "Hsi-hu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993595
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fc0d8910b2715ed309f6ac08e602bfaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226442801,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1226442801,
+    "wof:lastmodified":1537709486,
+    "wof:name":"Xihu",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.68332,
+    24.07634,
+    120.68332,
+    24.07634
+],
+  "geometry": {"coordinates":[120.68331999999999,24.07634],"type":"Point"}
+}

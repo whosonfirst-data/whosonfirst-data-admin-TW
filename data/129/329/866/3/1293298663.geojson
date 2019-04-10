@@ -1,0 +1,76 @@
+{
+  "id": 1293298663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7425,22.07972,120.7425,22.07972",
+    "geom:latitude":22.07972,
+    "geom:longitude":120.7425,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T23",
+    "gn:admin4_code":"10013230006.0",
+    "gn:asciiname":"Neibu",
+    "gn:country_code":"TW",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671423,
+    "gn:latitude":22.07972,
+    "gn:longitude":120.7425,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Neibu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nei-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5167\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671423
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4d746d0364f0c91c15232880861e9390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293298663,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1293298663,
+    "wof:lastmodified":1537708842,
+    "wof:name":"Neibu",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7425,
+    22.07972,
+    120.7425,
+    22.07972
+],
+  "geometry": {"coordinates":[120.74250000000001,22.07972],"type":"Point"}
+}

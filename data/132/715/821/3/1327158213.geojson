@@ -1,0 +1,76 @@
+{
+  "id": 1327158213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.17396,23.3169,120.17396,23.3169",
+    "geom:latitude":23.3169,
+    "geom:longitude":120.17396,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q10",
+    "gn:admin4_code":"10010100017.0",
+    "gn:asciiname":"Guanshun",
+    "gn:country_code":"TW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6749734,
+    "gn:latitude":23.3169,
+    "gn:longitude":120.17396,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Guanshun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuan-shun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b98\u9806"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6749734
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e1a91eab44d902fa3e926b47dc6dc39f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327158213,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1327158213,
+    "wof:lastmodified":1537709955,
+    "wof:name":"Guanshun",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.17396,
+    23.3169,
+    120.17396,
+    23.3169
+],
+  "geometry": {"coordinates":[120.17395999999999,23.3169],"type":"Point"}
+}

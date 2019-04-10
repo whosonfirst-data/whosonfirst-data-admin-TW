@@ -1,0 +1,81 @@
+{
+  "id": 1226353897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.79648,25.10123,121.79648,25.10123",
+    "geom:latitude":25.10123,
+    "geom:longitude":121.79648,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F21",
+    "gn:admin4_code":"65000120013.0",
+    "gn:asciiname":"Kengzi",
+    "gn:country_code":"TW",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673959,
+    "gn:latitude":25.10123,
+    "gn:longitude":121.79648,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kengzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kengzih"
+    ],
+    "name:zho_x_preferred":[
+        "K\u2019eng-tzu-nei"
+    ],
+    "name:zho_x_variant":[
+        "\u5751\u5b50",
+        "K\u2019ang-nei",
+        "K\u2019eng-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673959
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"da5278b8bc4f91bc19efc9b0a404a41a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226353897,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1226353897,
+    "wof:lastmodified":1537709009,
+    "wof:name":"Kengzi",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.79648,
+    25.10123,
+    121.79648,
+    25.10123
+],
+  "geometry": {"coordinates":[121.79648,25.10123],"type":"Point"}
+}

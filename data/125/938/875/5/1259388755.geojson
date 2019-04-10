@@ -1,0 +1,80 @@
+{
+  "id": 1259388755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.12722,23.07861,120.12722,23.07861",
+    "geom:latitude":23.07861,
+    "geom:longitude":120.12722,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"D06",
+    "gn:admin4_code":"67000350033.0",
+    "gn:asciiname":"Shifenwen",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669446,
+    "gn:latitude":23.07861,
+    "gn:longitude":120.12722,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shifenwen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shih-fen-wen",
+        "Shifenwen",
+        "Shihfenwun",
+        "Shih-fen",
+        "\u4ec0\u4efd\u586d"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ec0\u4efd\u586d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669446
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"41e4cb9e63bd0748ecbb3ccd7486553f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259388755,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1259388755,
+    "wof:lastmodified":1537708707,
+    "wof:name":"Shifenwen",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.12722,
+    23.07861,
+    120.12722,
+    23.07861
+],
+  "geometry": {"coordinates":[120.12721999999999,23.07861],"type":"Point"}
+}

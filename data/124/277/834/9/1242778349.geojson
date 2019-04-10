@@ -1,0 +1,76 @@
+{
+  "id": 1242778349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.64183,23.40942,120.64183,23.40942",
+    "geom:latitude":23.40942,
+    "geom:longitude":120.64183,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q17",
+    "gn:admin4_code":"10010160010.0",
+    "gn:asciiname":"Youmaocaolong",
+    "gn:country_code":"TW",
+    "gn:dem":897,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656213,
+    "gn:latitude":23.40942,
+    "gn:longitude":120.64183,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Youmaocaolong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6709\u8305\u8349\u9f8d"
+    ],
+    "name:zho_x_variant":[
+        "Yu-mao-ts\u2019ao-lung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6656213
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5094c65d1264c6df7b205c34e1b2bb8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242778349,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1242778349,
+    "wof:lastmodified":1537709872,
+    "wof:name":"Youmaocaolong",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.64183,
+    23.40942,
+    120.64183,
+    23.40942
+],
+  "geometry": {"coordinates":[120.64183,23.40942],"type":"Point"}
+}

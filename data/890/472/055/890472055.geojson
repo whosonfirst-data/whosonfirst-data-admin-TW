@@ -1,0 +1,96 @@
+{
+  "id": 890472055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36126,22.62659,120.36126,22.62659",
+    "geom:latitude":22.62659,
+    "geom:longitude":120.36126,
+    "gn:country":"TW",
+    "gn:fcode":"PPLA2",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:ces_x_preferred":[
+        "Feng-\u0161an"
+    ],
+    "name:eng_x_preferred":[
+        "Fongshan District"
+    ],
+    "name:hak_x_preferred":[
+        "Fung-s\u00e2n-kh\u00ee"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9cf3\u5c71\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ud391\uc0b0 \uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Feng\u0161anas"
+    ],
+    "name:nan_x_preferred":[
+        "H\u014dng-soa\u207f-khu"
+    ],
+    "name:unk_x_variant":[
+        "Kao-hsiung"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u01b0\u1ee3ng S\u01a1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u9cf3\u5c71\u5340"
+    ],
+    "qs:name":"Fengshan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":193,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673816,
+        "qs:id":244465,
+        "wk:page":"Fengshan"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053880,
+    "wof:geomhash":"fbe3866bca784e88b7339dc977c66da0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":890472055,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":890472055,
+    "wof:lastmodified":1527790281,
+    "wof:name":"Fengshan",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36126,
+    22.62659,
+    120.36126,
+    22.62659
+],
+  "geometry": {"coordinates":[120.36126,22.62659],"type":"Point"}
+}

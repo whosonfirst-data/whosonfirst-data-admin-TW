@@ -1,0 +1,72 @@
+{
+  "id": 890470029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.668098,24.1651745,120.668098,24.1651745",
+    "geom:latitude":24.165174,
+    "geom:longitude":120.668098,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u660e\u5fb7\u91cc",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u53f0\u4e2d\u5e02",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wd:wordcount":281,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        1108808551,
+        102026649,
+        85679617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28760452,
+        "qs:id":1062382,
+        "wd:id":"Q251951",
+        "wk:page":"Kyonghung County"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053798,
+    "wof:geomhash":"374f8dd1a4ac4d076ac19a1403462671",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026649,
+            "macroregion_id":1108808551,
+            "neighbourhood_id":890470029,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":890470029,
+    "wof:lastmodified":1527727214,
+    "wof:name":"\u660e\u5fb7\u91cc",
+    "wof:parent_id":102026649,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.668098,
+    24.1651745,
+    120.668098,
+    24.1651745
+],
+  "geometry": {"coordinates":[120.668098,24.1651745],"type":"Point"}
+}

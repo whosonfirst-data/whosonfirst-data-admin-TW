@@ -1,0 +1,76 @@
+{
+  "id": 1243080469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.445,22.82417,120.445,22.82417",
+    "geom:latitude":22.82417,
+    "geom:longitude":120.445,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E30",
+    "gn:admin4_code":"64000300008.0",
+    "gn:asciiname":"Wangdiding",
+    "gn:country_code":"TW",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6601016,
+    "gn:latitude":22.82417,
+    "gn:longitude":120.445,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wangdiding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wang-ti-ting"
+    ],
+    "name:zho_x_preferred":[
+        "\u671b\u5730\u9802"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6601016
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b7a3982e08a67b37d2ee91d3c2cc88ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243080469,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1243080469,
+    "wof:lastmodified":1537709638,
+    "wof:name":"Wangdiding",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.445,
+    22.82417,
+    120.445,
+    22.82417
+],
+  "geometry": {"coordinates":[120.44499999999999,22.82417],"type":"Point"}
+}

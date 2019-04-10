@@ -1,0 +1,78 @@
+{
+  "id": 1310406127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.72478,24.13945,120.72478,24.13945",
+    "geom:latitude":24.13945,
+    "geom:longitude":120.72478,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B27",
+    "gn:admin4_code":"66000270034.0",
+    "gn:asciiname":"Sancha",
+    "gn:country_code":"TW",
+    "gn:dem":101,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670228,
+    "gn:latitude":24.13945,
+    "gn:longitude":120.72478,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sancha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e09\u53c9",
+        "Sancha",
+        "San-ch\u2019a"
+    ],
+    "name:zho_x_preferred":[
+        "San-ch\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670228
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"81e061ecce79f6ed9d4b3edc7575ab53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310406127,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1310406127,
+    "wof:lastmodified":1537708767,
+    "wof:name":"Sancha",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.72478,
+    24.13945,
+    120.72478,
+    24.13945
+],
+  "geometry": {"coordinates":[120.72478,24.13945],"type":"Point"}
+}

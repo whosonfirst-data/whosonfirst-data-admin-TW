@@ -1,0 +1,76 @@
+{
+  "id": 1309809863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.92942,24.53083,120.92942,24.53083",
+    "geom:latitude":24.53083,
+    "geom:longitude":120.92942,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K17",
+    "gn:admin4_code":"10005170003.0",
+    "gn:asciiname":"Sanfen",
+    "gn:country_code":"TW",
+    "gn:dem":258,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646009,
+    "gn:latitude":24.53083,
+    "gn:longitude":120.92942,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanfen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-fen"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u4efd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646009
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3e2946cc8aba9633f42ab8cb031df12f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309809863,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1309809863,
+    "wof:lastmodified":1537709716,
+    "wof:name":"Sanfen",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.92942,
+    24.53083,
+    120.92942,
+    24.53083
+],
+  "geometry": {"coordinates":[120.92941999999999,24.53083],"type":"Point"}
+}

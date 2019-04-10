@@ -1,0 +1,77 @@
+{
+  "id": 1309917197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.87137,25.00533,121.87137,25.00533",
+    "geom:latitude":25.00533,
+    "geom:longitude":121.87137,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F23",
+    "gn:admin4_code":"65000250004.0",
+    "gn:asciiname":"Zhanjia",
+    "gn:country_code":"TW",
+    "gn:dem":131,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647405,
+    "gn:latitude":25.00533,
+    "gn:longitude":121.87137,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhanjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhanjia",
+        "Chan-chia"
+    ],
+    "name:zho_x_preferred":[
+        "\u8a79\u5bb6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647405
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"da31f72f4e2cc37947b2c759ea674005",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309917197,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1309917197,
+    "wof:lastmodified":1537709760,
+    "wof:name":"Zhanjia",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.87137,
+    25.00533,
+    121.87137,
+    25.00533
+],
+  "geometry": {"coordinates":[121.87137,25.00533],"type":"Point"}
+}

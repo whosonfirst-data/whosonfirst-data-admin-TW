@@ -1,0 +1,79 @@
+{
+  "id": 1259388749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2199,23.3956,120.2199,23.3956",
+    "geom:latitude":23.3956,
+    "geom:longitude":120.2199,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q03",
+    "gn:admin4_code":"10010030016.0",
+    "gn:asciiname":"Xinjizhuang",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675168,
+    "gn:latitude":23.3956,
+    "gn:longitude":120.2199,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinjizhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-chieh-chuang",
+        "Sinjijhuang",
+        "Xinjizhuang",
+        "Hsin-chi-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5409\u838a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675168
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c986ad01a6c86f2cebc05e12522770ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259388749,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1259388749,
+    "wof:lastmodified":1537709106,
+    "wof:name":"Xinjizhuang",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2199,
+    23.3956,
+    120.2199,
+    23.3956
+],
+  "geometry": {"coordinates":[120.2199,23.3956],"type":"Point"}
+}

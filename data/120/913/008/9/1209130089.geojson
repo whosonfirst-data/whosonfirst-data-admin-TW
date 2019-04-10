@@ -1,0 +1,70 @@
+{
+  "id": 1209130089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.75306,24.34528,120.75306,24.34528",
+    "geom:latitude":24.34528,
+    "geom:longitude":120.75306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K06",
+    "gn:admin4_code":"10005130007.0",
+    "gn:asciiname":"Shangping",
+    "gn:country_code":"TW",
+    "gn:dem":295,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992702,
+    "gn:latitude":24.34528,
+    "gn:longitude":120.75306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e0a\u576a"
+    ],
+    "name:zho_x_variant":[
+        "Shang-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992702
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"74f940c83e4ab5a09dc06f56924910bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209130089
+        }
+    ],
+    "wof:id":1209130089,
+    "wof:lastmodified":1537709465,
+    "wof:name":"Shangping",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.75306,
+    24.34528,
+    120.75306,
+    24.34528
+],
+  "geometry": {"coordinates":[120.75306,24.34528],"type":"Point"}
+}

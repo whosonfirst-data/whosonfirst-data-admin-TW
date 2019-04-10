@@ -1,0 +1,74 @@
+{
+  "id": 1209515755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.25361,23.60111,120.25361,23.60111",
+    "geom:latitude":23.60111,
+    "geom:longitude":120.25361,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P20",
+    "gn:admin4_code":"10009200005.0",
+    "gn:asciiname":"Chunniubu",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6600320,
+    "gn:latitude":23.60111,
+    "gn:longitude":120.25361,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chunniubu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chunnioubu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6625\u725b\u57d4"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019un-pu",
+        "Ch\u2019un-niu-pu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6600320
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cc025d9e296d6aa6ee5c7a6d300f8c8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209515755
+        }
+    ],
+    "wof:id":1209515755,
+    "wof:lastmodified":1537709619,
+    "wof:name":"Chunniubu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.25361,
+    23.60111,
+    120.25361,
+    23.60111
+],
+  "geometry": {"coordinates":[120.25360999999999,23.60111],"type":"Point"}
+}

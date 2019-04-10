@@ -1,0 +1,71 @@
+{
+  "id": 1209539917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.21694,24.98694,121.21694,24.98694",
+    "geom:latitude":24.98694,
+    "geom:longitude":121.21694,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H03",
+    "gn:admin4_code":"68000020054.0",
+    "gn:asciiname":"Xiaxingnan",
+    "gn:country_code":"TW",
+    "gn:dem":100,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6571385,
+    "gn:latitude":24.98694,
+    "gn:longitude":121.21694,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaxingnan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siasingnan",
+        "Hsia-hsing-nan"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u8208\u5357"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6571385
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"024b5f77b65736a61c3fee4048f02ad7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209539917
+        }
+    ],
+    "wof:id":1209539917,
+    "wof:lastmodified":1537709510,
+    "wof:name":"Xiaxingnan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.21694,
+    24.98694,
+    121.21694,
+    24.98694
+],
+  "geometry": {"coordinates":[121.21693999999999,24.98694],"type":"Point"}
+}

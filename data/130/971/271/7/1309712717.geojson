@@ -1,0 +1,80 @@
+{
+  "id": 1309712717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.52111,22.46944,120.52111,22.46944",
+    "geom:latitude":22.46944,
+    "geom:longitude":120.52111,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T20",
+    "gn:admin4_code":"10013200010.0",
+    "gn:asciiname":"Lantou",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669540,
+    "gn:latitude":22.46944,
+    "gn:longitude":120.52111,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lantou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lan-t\u2019ou-lu",
+        "\u6feb\u982d",
+        "Lantou",
+        "Sheng-nung-lu",
+        "Lan-t\u2019ou"
+    ],
+    "name:zho_x_preferred":[
+        "Lan-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669540
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"07fd9364d4f75a98db7edf5d96b0a05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309712717,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1309712717,
+    "wof:lastmodified":1537708715,
+    "wof:name":"Lantou",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.52111,
+    22.46944,
+    120.52111,
+    22.46944
+],
+  "geometry": {"coordinates":[120.52110999999999,22.46944],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1242791805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.37772,24.43697,118.37772,24.43697",
+    "geom:latitude":24.43697,
+    "geom:longitude":118.37772,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W01",
+    "gn:admin4_code":"9020030003.0",
+    "gn:asciiname":"Shangyi",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669811,
+    "gn:latitude":24.43697,
+    "gn:longitude":118.37772,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Shangyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shang-i-ts\u2019un",
+        "Shang-i",
+        "Shangyi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c1a\u7fa9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669811
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0a936505d612479d5cd6e6a17deaaabb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242791805,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1242791805,
+    "wof:lastmodified":1537708736,
+    "wof:name":"Shangyi",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.37772,
+    24.43697,
+    118.37772,
+    24.43697
+],
+  "geometry": {"coordinates":[118.37772,24.43697],"type":"Point"}
+}

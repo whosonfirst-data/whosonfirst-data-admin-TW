@@ -1,0 +1,78 @@
+{
+  "id": 1259787625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.46003,24.44052,118.46003,24.44052",
+    "geom:latitude":24.44052,
+    "geom:longitude":118.46003,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W01",
+    "gn:admin4_code":"9020030007.0",
+    "gn:asciiname":"Xibian",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674744,
+    "gn:latitude":24.44052,
+    "gn:longitude":118.46003,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Xibian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019i-pien",
+        "Hsi-pien",
+        "Xibian"
+    ],
+    "name:zho_x_preferred":[
+        "\u6eaa\u908a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674744
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c2b227c2686ca307737013849889a458",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259787625,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1259787625,
+    "wof:lastmodified":1537709067,
+    "wof:name":"Xibian",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.46003,
+    24.44052000000001,
+    118.46003,
+    24.44052000000001
+],
+  "geometry": {"coordinates":[118.46003,24.44052000000001],"type":"Point"}
+}

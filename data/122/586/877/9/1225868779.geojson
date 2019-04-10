@@ -1,0 +1,81 @@
+{
+  "id": 1225868779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.40056,23.30889,120.40056,23.30889",
+    "geom:latitude":23.30889,
+    "geom:longitude":120.40056,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R06",
+    "gn:admin4_code":"67000060002.0",
+    "gn:asciiname":"Beima",
+    "gn:country_code":"TW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676796,
+    "gn:latitude":23.30889,
+    "gn:longitude":120.40056,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Beima",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fan-she",
+        "Beima",
+        "Pei-ma"
+    ],
+    "name:zho_x_preferred":[
+        "Fan-she-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u5317\u99ac"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676796
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"20f01b7ccc9a20bbe292b44a83630363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225868779,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1225868779,
+    "wof:lastmodified":1537709241,
+    "wof:name":"Beima",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.40056,
+    23.30889,
+    120.40056,
+    23.30889
+],
+  "geometry": {"coordinates":[120.40056,23.30889],"type":"Point"}
+}

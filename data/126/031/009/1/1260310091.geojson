@@ -1,0 +1,76 @@
+{
+  "id": 1260310091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.69769,24.78561,121.69769,24.78561",
+    "geom:latitude":24.78561,
+    "geom:longitude":121.69769,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G03",
+    "gn:admin4_code":"10002050018.0",
+    "gn:asciiname":"Huotankeng",
+    "gn:country_code":"TW",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6643809,
+    "gn:latitude":24.78561,
+    "gn:longitude":121.69769,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Huotankeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u706b\u70ad\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Huo-t\u2019an-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6643809
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0d29689a792c47b3b7488ca3b7afa7e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260310091,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1260310091,
+    "wof:lastmodified":1537709694,
+    "wof:name":"Huotankeng",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.69769,
+    24.78561,
+    121.69769,
+    24.78561
+],
+  "geometry": {"coordinates":[121.69768999999999,24.78561],"type":"Point"}
+}

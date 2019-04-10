@@ -1,0 +1,80 @@
+{
+  "id": 1310607013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.19333,24.86167,121.19333,24.86167",
+    "geom:latitude":24.86167,
+    "geom:longitude":121.19333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H09",
+    "gn:admin4_code":"68000090006.0",
+    "gn:asciiname":"Nansheqi",
+    "gn:country_code":"TW",
+    "gn:dem":297,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6574429,
+    "gn:latitude":24.86167,
+    "gn:longitude":121.19333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nansheqi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nansheci",
+        "Nansheqi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u86c7\u5d0e"
+    ],
+    "name:zho_x_variant":[
+        "Nan-she-ch\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6574429
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"742ad7341840ed1b398edd842f16b2ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310607013,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1310607013,
+    "wof:lastmodified":1537709524,
+    "wof:name":"Nansheqi",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.19333,
+    24.86167,
+    121.19333,
+    24.86167
+],
+  "geometry": {"coordinates":[121.19333,24.86167],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310311103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.38178,23.43559,121.38178,23.43559",
+    "geom:latitude":23.43559,
+    "geom:longitude":121.38178,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U03",
+    "gn:admin4_code":"10015030011.0",
+    "gn:asciiname":"Fuyin",
+    "gn:country_code":"TW",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6747177,
+    "gn:latitude":23.43559,
+    "gn:longitude":121.38178,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fuyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fu-yin"
+    ],
+    "name:zho_x_preferred":[
+        "\u798f\u97f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6747177
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f008d857240ad9a88662a209e503b60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310311103,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1310311103,
+    "wof:lastmodified":1537709922,
+    "wof:name":"Fuyin",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.38178,
+    23.43559,
+    121.38178,
+    23.43559
+],
+  "geometry": {"coordinates":[121.38178000000001,23.43559],"type":"Point"}
+}

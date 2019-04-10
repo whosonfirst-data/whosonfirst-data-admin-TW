@@ -1,0 +1,76 @@
+{
+  "id": 1226443199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.58974,24.04388,120.58974,24.04388",
+    "geom:latitude":24.04388,
+    "geom:longitude":120.58974,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N01",
+    "gn:admin4_code":"10007010066.0",
+    "gn:asciiname":"Degaolun",
+    "gn:country_code":"TW",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993509,
+    "gn:latitude":24.04388,
+    "gn:longitude":120.58974,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Degaolun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Te-kao-lun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u9ad8\u502b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993509
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2c9c5eb6ab8549888ef5e2868b17594e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226443199,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1226443199,
+    "wof:lastmodified":1537709483,
+    "wof:name":"Degaolun",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.58974,
+    24.04388,
+    120.58974,
+    24.04388
+],
+  "geometry": {"coordinates":[120.58974000000001,24.04388],"type":"Point"}
+}

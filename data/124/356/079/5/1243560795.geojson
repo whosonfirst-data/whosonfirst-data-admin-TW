@@ -1,0 +1,79 @@
+{
+  "id": 1243560795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.02278,24.77167,121.02278,24.77167",
+    "geom:latitude":24.77167,
+    "geom:longitude":121.02278,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSQ",
+    "gn:admin3_code":"O01",
+    "gn:admin4_code":"10018010047.0",
+    "gn:asciiname":"Jinshanmian",
+    "gn:country_code":"TW",
+    "gn:dem":103,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677983,
+    "gn:latitude":24.77167,
+    "gn:longitude":121.02278,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jinshanmian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chin-shan-li",
+        "Jinshanmian",
+        "Chin-shan",
+        "Chin-shan-mien"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u5c71\u9762"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679557,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677983
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"429f05a0024a8558cd0f06ae1802b416",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243560795,
+            "macroregion_id":1108808557,
+            "region_id":85679557
+        }
+    ],
+    "wof:id":1243560795,
+    "wof:lastmodified":1537709339,
+    "wof:name":"Jinshanmian",
+    "wof:parent_id":85679557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.02278,
+    24.77167,
+    121.02278,
+    24.77167
+],
+  "geometry": {"coordinates":[121.02278,24.77167],"type":"Point"}
+}

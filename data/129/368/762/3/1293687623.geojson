@@ -1,0 +1,78 @@
+{
+  "id": 1293687623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4798,23.51411,120.4798,23.51411",
+    "geom:latitude":23.51411,
+    "geom:longitude":120.4798,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q05",
+    "gn:admin4_code":"10010050025.0",
+    "gn:asciiname":"Linziwei",
+    "gn:country_code":"TW",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672808,
+    "gn:latitude":23.51411,
+    "gn:longitude":120.4798,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Linziwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Linzihwei",
+        "Linziwei",
+        "Lin-tzu-wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u5b50\u5c3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672808
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"643bfbfa6b93fabad2a8461dbbe7e609",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293687623,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1293687623,
+    "wof:lastmodified":1537708930,
+    "wof:name":"Linziwei",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4798,
+    23.51411,
+    120.4798,
+    23.51411
+],
+  "geometry": {"coordinates":[120.4798,23.51411],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 890469807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.677604,23.208139,120.677604,23.208139",
+    "geom:latitude":23.208139,
+    "geom:longitude":120.677604,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u6c11\u65cf\u6751",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u9ad8\u96c4\u5e02",
+    "qs:photos":69,
+    "qs:photos_1k":14,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":69,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":392,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28753908,
+        "qs:id":996197,
+        "wd:id":"Q13100073",
+        "wk:page":"Villages of the People's Republic of China"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053789,
+    "wof:geomhash":"d661890d8da974e61e3fc8381e4b150b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":890469807,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":890469807,
+    "wof:lastmodified":1527792921,
+    "wof:name":"\u6c11\u65cf\u6751",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.677604,
+    23.208139,
+    120.677604,
+    23.208139
+],
+  "geometry": {"coordinates":[120.677604,23.208139],"type":"Point"}
+}

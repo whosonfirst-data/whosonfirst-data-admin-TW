@@ -1,0 +1,80 @@
+{
+  "id": 1210017169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.49361,24.03722,120.49361,24.03722",
+    "geom:latitude":24.03722,
+    "geom:longitude":120.49361,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N12",
+    "gn:admin4_code":"10007070010.0",
+    "gn:asciiname":"Zhongcuo",
+    "gn:country_code":"TW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988971,
+    "gn:latitude":24.03722,
+    "gn:longitude":120.49361,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongcuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhongcuo",
+        "Zhongcuo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u539d"
+    ],
+    "name:zho_x_variant":[
+        "Chung-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988971
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"816371405ea75d36e530441baedb0073",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1210017169,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1210017169,
+    "wof:lastmodified":1537709437,
+    "wof:name":"Zhongcuo",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.49361,
+    24.03722,
+    120.49361,
+    24.03722
+],
+  "geometry": {"coordinates":[120.49361,24.03722],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1310707715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.72206,24.19724,120.72206,24.19724",
+    "geom:latitude":24.19724,
+    "geom:longitude":120.72206,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B17",
+    "gn:admin4_code":"66000170013.0",
+    "gn:asciiname":"Juxing",
+    "gn:country_code":"TW",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677604,
+    "gn:latitude":24.19724,
+    "gn:longitude":120.72206,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Juxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u00fc-hsing-ts\u2019un",
+        "\u805a\u8208",
+        "Jyusing",
+        "Juxing",
+        "Ch\u00fc-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u00fc-hsing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677604
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"70b78d13b7a35210d846b5153f870dca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310707715,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1310707715,
+    "wof:lastmodified":1537709308,
+    "wof:name":"Juxing",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.72206,
+    24.19724,
+    120.72206,
+    24.19724
+],
+  "geometry": {"coordinates":[120.72206,24.19724],"type":"Point"}
+}

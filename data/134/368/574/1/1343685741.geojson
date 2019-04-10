@@ -1,0 +1,81 @@
+{
+  "id": 1343685741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.65167,22.71577,120.65167,22.71577",
+    "geom:latitude":22.71577,
+    "geom:longitude":120.65167,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T26",
+    "gn:admin4_code":"10013260001.0",
+    "gn:asciiname":"Sandimen",
+    "gn:country_code":"TW",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669954,
+    "gn:latitude":22.71577,
+    "gn:longitude":120.65167,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sandimen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-ti",
+        "San-ti-men",
+        "\u4e09\u5730\u9580",
+        "San-ti-hsiang",
+        "Sandimen"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u5730\u9580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669954,
+        "wk:page":"Sandimen"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1894d6e7ec93aaec31ba045aadf8abd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343685741,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1343685741,
+    "wof:lastmodified":1537708748,
+    "wof:name":"Sandimen",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.65167,
+    22.71577000000001,
+    120.65167,
+    22.71577000000001
+],
+  "geometry": {"coordinates":[120.65167,22.71577000000001],"type":"Point"}
+}

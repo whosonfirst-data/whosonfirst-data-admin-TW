@@ -1,0 +1,74 @@
+{
+  "id": 1209415555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.34382,24.84178,121.34382,24.84178",
+    "geom:latitude":24.84178,
+    "geom:longitude":121.34382,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H13",
+    "gn:admin4_code":"68000130001.0",
+    "gn:asciiname":"Zhilang",
+    "gn:country_code":"TW",
+    "gn:dem":341,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678364,
+    "gn:latitude":24.84178,
+    "gn:longitude":121.34382,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhilang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shui-liu-tung",
+        "Zhilang",
+        "Ta-wo",
+        "Jhihlang",
+        "Chih-lang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fd7\u6717"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678364
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e5ff9d16a616333d6267ec4eaefe5f3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209415555
+        }
+    ],
+    "wof:id":1209415555,
+    "wof:lastmodified":1537709362,
+    "wof:name":"Zhilang",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.34382,
+    24.84178,
+    121.34382,
+    24.84178
+],
+  "geometry": {"coordinates":[121.34381999999999,24.84178],"type":"Point"}
+}

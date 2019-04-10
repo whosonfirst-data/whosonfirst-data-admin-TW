@@ -1,0 +1,80 @@
+{
+  "id": 1259589589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86523,24.0279,120.86523,24.0279",
+    "geom:latitude":24.0279,
+    "geom:longitude":120.86523,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M10",
+    "gn:admin4_code":"10008100001.0",
+    "gn:asciiname":"Beizhukeng",
+    "gn:country_code":"TW",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1991301,
+    "gn:latitude":24.0279,
+    "gn:longitude":120.86523,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Beizhukeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beijhukeng",
+        "Beizhukeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u7af9\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Pei-chu-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1991301
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2e6a0af777e43a118c7a5bce578c037d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259589589,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1259589589,
+    "wof:lastmodified":1537709442,
+    "wof:name":"Beizhukeng",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86523,
+    24.0279,
+    120.86523,
+    24.0279
+],
+  "geometry": {"coordinates":[120.86523,24.0279],"type":"Point"}
+}

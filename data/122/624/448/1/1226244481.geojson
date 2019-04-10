@@ -1,0 +1,76 @@
+{
+  "id": 1226244481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.6023,24.99244,121.6023,24.99244",
+    "geom:latitude":24.99244,
+    "geom:longitude":121.6023,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F09",
+    "gn:admin4_code":"65000180005.0",
+    "gn:asciiname":"Gongguanhou",
+    "gn:country_code":"TW",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673310,
+    "gn:latitude":24.99244,
+    "gn:longitude":121.6023,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Gongguanhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kung-kuan-hou"
+    ],
+    "name:zho_x_preferred":[
+        "\u516c\u9928\u5f8c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673310
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ec8db73a0be3a3c740011d6fefa98ae0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226244481,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1226244481,
+    "wof:lastmodified":1537708963,
+    "wof:name":"Gongguanhou",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.6023,
+    24.99244,
+    121.6023,
+    24.99244
+],
+  "geometry": {"coordinates":[121.6023,24.99244],"type":"Point"}
+}

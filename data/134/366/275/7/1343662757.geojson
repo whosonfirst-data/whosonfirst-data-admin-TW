@@ -1,0 +1,76 @@
+{
+  "id": 1343662757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.73212,25.10747,121.73212,25.10747",
+    "geom:latitude":25.10747,
+    "geom:longitude":121.73212,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"KEE",
+    "gn:admin3_code":"C03",
+    "gn:admin4_code":"10017030002.0",
+    "gn:asciiname":"Badunan",
+    "gn:country_code":"TW",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6728836,
+    "gn:latitude":25.10747,
+    "gn:longitude":121.73212,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Badunan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa-tu-nan"
+    ],
+    "name:zho_x_preferred":[
+        "\u516b\u5835\u5357"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679571,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6728836
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e442508f6a9b3d32c09bb11f7ba4dcde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343662757,
+            "macroregion_id":1108808557,
+            "region_id":85679571
+        }
+    ],
+    "wof:id":1343662757,
+    "wof:lastmodified":1537709911,
+    "wof:name":"Badunan",
+    "wof:parent_id":85679571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.73212,
+    25.10747000000001,
+    121.73212,
+    25.10747000000001
+],
+  "geometry": {"coordinates":[121.73211999999999,25.10747000000001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343366405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.58543,24.89791,121.58543,24.89791",
+    "geom:latitude":24.89791,
+    "geom:longitude":121.58543,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F08",
+    "gn:admin4_code":"65000190011.0",
+    "gn:asciiname":"Kengnei",
+    "gn:country_code":"TW",
+    "gn:dem":269,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6643680,
+    "gn:latitude":24.89791,
+    "gn:longitude":121.58543,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kengnei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5751\u5167"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019eng-nei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6643680
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5b7879d9e0e778c03794f48a90fcebe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343366405,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1343366405,
+    "wof:lastmodified":1537709689,
+    "wof:name":"Kengnei",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.58543,
+    24.89791,
+    121.58543,
+    24.89791
+],
+  "geometry": {"coordinates":[121.58543,24.89791],"type":"Point"}
+}

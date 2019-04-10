@@ -1,0 +1,79 @@
+{
+  "id": 1276233973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.03861,24.89139,121.03861,24.89139",
+    "geom:latitude":24.89139,
+    "geom:longitude":121.03861,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J06",
+    "gn:admin4_code":"10004050017.0",
+    "gn:asciiname":"Xiabeishi",
+    "gn:country_code":"TW",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675533,
+    "gn:latitude":24.89139,
+    "gn:longitude":121.03861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiabeishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsia-ti-shih",
+        "Siabeishih",
+        "Xiabeishi",
+        "Hsia-pei-shih"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u5317\u52e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675533
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a7eee6b46f625e6d41f5ae8512017a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276233973,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1276233973,
+    "wof:lastmodified":1537709140,
+    "wof:name":"Xiabeishi",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.03861,
+    24.89139,
+    121.03861,
+    24.89139
+],
+  "geometry": {"coordinates":[121.03861000000001,24.89139],"type":"Point"}
+}

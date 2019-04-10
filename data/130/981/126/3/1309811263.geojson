@@ -1,0 +1,80 @@
+{
+  "id": 1309811263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.91959,25.05042,121.91959,25.05042",
+    "geom:latitude":25.05042,
+    "geom:longitude":121.91959,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F24",
+    "gn:admin4_code":"65000260007.0",
+    "gn:asciiname":"Guoxizi",
+    "gn:country_code":"TW",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647355,
+    "gn:latitude":25.05042,
+    "gn:longitude":121.91959,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Guoxizi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guosizih",
+        "Guoxizi",
+        "Kuo-hsi-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u904e\u6eaa\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679585,
+        102191569,
+        85632403,
+        1108756871,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647355
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f930d07701ddc001767e815bebba9f6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309811263,
+            "macrocounty_id":1108756871,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1309811263,
+    "wof:lastmodified":1537709758,
+    "wof:name":"Guoxizi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.91959,
+    25.05042000000001,
+    121.91959,
+    25.05042000000001
+],
+  "geometry": {"coordinates":[121.91959,25.05042000000001],"type":"Point"}
+}

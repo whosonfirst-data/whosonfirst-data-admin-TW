@@ -1,0 +1,70 @@
+{
+  "id": 1209222229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.82734,25.01896,121.82734,25.01896",
+    "geom:latitude":25.01896,
+    "geom:longitude":121.82734,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F23",
+    "gn:admin4_code":"65000250010.0",
+    "gn:asciiname":"Waibengshankeng",
+    "gn:country_code":"TW",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647385,
+    "gn:latitude":25.01896,
+    "gn:longitude":121.82734,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Waibengshankeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5916\u5d29\u5c71\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Wai-peng-shan-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647385
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"af322e5803d0879c2356b562a02ca94f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209222229
+        }
+    ],
+    "wof:id":1209222229,
+    "wof:lastmodified":1537709759,
+    "wof:name":"Waibengshankeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.82734,
+    25.01896,
+    121.82734,
+    25.01896
+],
+  "geometry": {"coordinates":[121.82734000000001,25.01896],"type":"Point"}
+}

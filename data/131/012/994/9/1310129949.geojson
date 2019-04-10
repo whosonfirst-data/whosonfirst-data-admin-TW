@@ -1,0 +1,76 @@
+{
+  "id": 1310129949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.79482,24.23044,120.79482,24.23044",
+    "geom:latitude":24.23044,
+    "geom:longitude":120.79482,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B19",
+    "gn:admin4_code":"66000190005.0",
+    "gn:asciiname":"Fansheling",
+    "gn:country_code":"TW",
+    "gn:dem":470,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676782,
+    "gn:latitude":24.23044,
+    "gn:longitude":120.79482,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fansheling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fan-she-ling"
+    ],
+    "name:zho_x_preferred":[
+        "\u756a\u793e\u5dba"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676782
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"52d777fcc6146ba683d590518db3453e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310129949,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1310129949,
+    "wof:lastmodified":1537709240,
+    "wof:name":"Fansheling",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.79482,
+    24.23044,
+    120.79482,
+    24.23044
+],
+  "geometry": {"coordinates":[120.79482,24.23044],"type":"Point"}
+}

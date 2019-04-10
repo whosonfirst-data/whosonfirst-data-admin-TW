@@ -1,0 +1,76 @@
+{
+  "id": 1327435633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.45728,24.42628,118.45728,24.42628",
+    "geom:latitude":24.42628,
+    "geom:longitude":118.45728,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W01",
+    "gn:admin4_code":"9020030008.0",
+    "gn:asciiname":"Fengshang",
+    "gn:country_code":"TW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676608,
+    "gn:latitude":24.42628,
+    "gn:longitude":118.45728,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Fengshang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Feng-shang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5cf0\u4e0a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676608
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"eb209e6663517a8ea3ca53ca61d8028a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327435633,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1327435633,
+    "wof:lastmodified":1537709226,
+    "wof:name":"Fengshang",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.45728,
+    24.42628,
+    118.45728,
+    24.42628
+],
+  "geometry": {"coordinates":[118.45728,24.42628],"type":"Point"}
+}

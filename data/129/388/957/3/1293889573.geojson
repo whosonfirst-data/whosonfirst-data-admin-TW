@@ -1,0 +1,76 @@
+{
+  "id": 1293889573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.49917,23.27694,120.49917,23.27694",
+    "geom:latitude":23.27694,
+    "geom:longitude":120.49917,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R06",
+    "gn:admin4_code":"67000060014.0",
+    "gn:asciiname":"Longhukou",
+    "gn:country_code":"TW",
+    "gn:dem":340,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6574715,
+    "gn:latitude":23.27694,
+    "gn:longitude":120.49917,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Longhukou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9f8d\u6e56\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "Lung-hu-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6574715
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"41bcb5a664bb468c51afe8bbf7fd7fe1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293889573,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1293889573,
+    "wof:lastmodified":1537709537,
+    "wof:name":"Longhukou",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.49917,
+    23.27694,
+    120.49917,
+    23.27694
+],
+  "geometry": {"coordinates":[120.49917000000001,23.27694],"type":"Point"}
+}

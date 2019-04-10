@@ -1,0 +1,78 @@
+{
+  "id": 1259388929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.524,23.8927,120.524,23.8927",
+    "geom:latitude":23.8927,
+    "geom:longitude":120.524,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N21",
+    "gn:admin4_code":"10007210020.0",
+    "gn:asciiname":"Tianwei",
+    "gn:country_code":"TW",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667121,
+    "gn:latitude":23.8927,
+    "gn:longitude":120.524,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tianwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Ting-t\u2019ien-wei"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ien-wei-ts\u2019un",
+        "\u7530\u5c3e",
+        "T\u2019ien-wei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667121
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"81f4be19db7f345ce6e772a1b7807bbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259388929,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1259388929,
+    "wof:lastmodified":1537708542,
+    "wof:name":"Tianwei",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.524,
+    23.8927,
+    120.524,
+    23.8927
+],
+  "geometry": {"coordinates":[120.524,23.8927],"type":"Point"}
+}

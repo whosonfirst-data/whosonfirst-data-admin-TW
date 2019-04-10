@@ -1,0 +1,77 @@
+{
+  "id": 1209824419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.35556,22.88944,120.35556,22.88944",
+    "geom:latitude":22.88944,
+    "geom:longitude":120.35556,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E22",
+    "gn:admin4_code":"64000220007.0",
+    "gn:asciiname":"Xinlu",
+    "gn:country_code":"TW",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602215,
+    "gn:latitude":22.88944,
+    "gn:longitude":120.35556,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinlu",
+        "Hsin-lu"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u8def"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602215
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"92fe8af0ef78ce1f4f921a6793b6c778",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209824419,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1209824419,
+    "wof:lastmodified":1537709656,
+    "wof:name":"Xinlu",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.35556,
+    22.88944,
+    120.35556,
+    22.88944
+],
+  "geometry": {"coordinates":[120.35556,22.88944],"type":"Point"}
+}

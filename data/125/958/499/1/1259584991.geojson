@@ -1,0 +1,78 @@
+{
+  "id": 1259584991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.56632,25.2796,121.56632,25.2796",
+    "geom:latitude":25.2796,
+    "geom:longitude":121.56632,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F31",
+    "gn:admin4_code":"65000220005.0",
+    "gn:asciiname":"Shibengshan",
+    "gn:country_code":"TW",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669298,
+    "gn:latitude":25.2796,
+    "gn:longitude":121.56632,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shibengshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihbengshan",
+        "Shibengshan",
+        "Shih-peng-shan"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u5d29\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669298
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"59241e67eb5b2d8f57681a93b4b7bba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259584991,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1259584991,
+    "wof:lastmodified":1537708694,
+    "wof:name":"Shibengshan",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.56632,
+    25.2796,
+    121.56632,
+    25.2796
+],
+  "geometry": {"coordinates":[121.56632,25.2796],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343561519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.64385,24.20283,120.64385,24.20283",
+    "geom:latitude":24.20283,
+    "geom:longitude":120.64385,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B06",
+    "gn:admin4_code":"66000060016.0",
+    "gn:asciiname":"Bazhangli",
+    "gn:country_code":"TW",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671220,
+    "gn:latitude":24.20283,
+    "gn:longitude":120.64385,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bazhangli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u516b\u5f35\u7281",
+        "Bazhangli",
+        "Bajhangli",
+        "Pa-chang-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671220
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fe56d9e89f3f8f509a6aff3268ed040e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343561519,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1343561519,
+    "wof:lastmodified":1537708828,
+    "wof:name":"Bazhangli",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.64385,
+    24.20283,
+    120.64385,
+    24.20283
+],
+  "geometry": {"coordinates":[120.64385,24.20283],"type":"Point"}
+}

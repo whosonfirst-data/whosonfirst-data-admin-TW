@@ -1,0 +1,83 @@
+{
+  "id": 1343494187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.54278,22.0275,121.54278,22.0275",
+    "geom:latitude":22.0275,
+    "geom:longitude":121.54278,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V16",
+    "gn:admin4_code":"10014160003.0",
+    "gn:asciiname":"Yuren",
+    "gn:country_code":"TW",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665310,
+    "gn:latitude":22.0275,
+    "gn:longitude":121.54278,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yuren",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00fc-jen-she",
+        "Yuren"
+    ],
+    "name:zho_x_preferred":[
+        "I-t\u2019a-lai"
+    ],
+    "name:zho_x_variant":[
+        "Y\u00fc-jen-ts\u2019un",
+        "\u6f01\u4eba",
+        "Y\u00fc-jen",
+        "Y\u00fc-jen-she"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665310
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"adffae165927d794d084db597d9e755e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343494187,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1343494187,
+    "wof:lastmodified":1537708427,
+    "wof:name":"Yuren",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.54278,
+    22.0275,
+    121.54278,
+    22.0275
+],
+  "geometry": {"coordinates":[121.54277999999999,22.0275],"type":"Point"}
+}

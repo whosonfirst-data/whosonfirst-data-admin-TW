@@ -1,0 +1,81 @@
+{
+  "id": 1226343127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36519,23.76585,120.36519,23.76585",
+    "geom:latitude":23.76585,
+    "geom:longitude":120.36519,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P12",
+    "gn:admin4_code":"10009120005.0",
+    "gn:asciiname":"Xincuozi",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674802,
+    "gn:latitude":23.76585,
+    "gn:longitude":120.36519,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xincuozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sincuozih",
+        "Hsin-chia",
+        "Xincuozi"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u539d\u5b50"
+    ],
+    "name:zho_x_variant":[
+        "Hsin-ts\u2019o-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674802
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2ca0da31a4a1330f1d25f7c6b6b7af4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226343127,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1226343127,
+    "wof:lastmodified":1537709072,
+    "wof:name":"Xincuozi",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36518999999998,
+    23.76585,
+    120.36518999999998,
+    23.76585
+],
+  "geometry": {"coordinates":[120.36518999999998,23.76585],"type":"Point"}
+}

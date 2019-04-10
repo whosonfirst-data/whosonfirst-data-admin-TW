@@ -1,0 +1,76 @@
+{
+  "id": 1327140353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.32511,23.80095,120.32511,23.80095",
+    "geom:latitude":23.80095,
+    "geom:longitude":120.32511,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P12",
+    "gn:admin4_code":"10009120010.0",
+    "gn:asciiname":"Dongdiancuo",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666433,
+    "gn:latitude":23.80095,
+    "gn:longitude":120.32511,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongdiancuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6771\u4f43\u539d"
+    ],
+    "name:zho_x_variant":[
+        "Tung-tien-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666433
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d68fdae98b24a139542e142061b6a6e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327140353,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1327140353,
+    "wof:lastmodified":1537708500,
+    "wof:name":"Dongdiancuo",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.32511,
+    23.80095,
+    120.32511,
+    23.80095
+],
+  "geometry": {"coordinates":[120.32511,23.80095],"type":"Point"}
+}

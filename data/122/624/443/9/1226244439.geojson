@@ -1,0 +1,76 @@
+{
+  "id": 1226244439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.60702,25.00095,121.60702,25.00095",
+    "geom:latitude":25.00095,
+    "geom:longitude":121.60702,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F09",
+    "gn:admin4_code":"65000180002.0",
+    "gn:asciiname":"Wanshunliao",
+    "gn:country_code":"TW",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666120,
+    "gn:latitude":25.00095,
+    "gn:longitude":121.60702,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wanshunliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wan-shun-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u842c\u9806\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666120
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2ff81309e10891525d93f61526b2b4e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226244439,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1226244439,
+    "wof:lastmodified":1537708480,
+    "wof:name":"Wanshunliao",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.60702,
+    25.00095,
+    121.60702,
+    25.00095
+],
+  "geometry": {"coordinates":[121.60702000000001,25.00095],"type":"Point"}
+}

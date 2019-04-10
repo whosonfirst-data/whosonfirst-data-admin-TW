@@ -1,0 +1,76 @@
+{
+  "id": 1310601665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.12472,24.71583,121.12472,24.71583",
+    "geom:latitude":24.71583,
+    "geom:longitude":121.12472,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J08",
+    "gn:admin4_code":"10004080001.0",
+    "gn:asciiname":"Sankandian",
+    "gn:country_code":"TW",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6640621,
+    "gn:latitude":24.71583,
+    "gn:longitude":121.12472,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sankandian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e09\u5d01\u5e97"
+    ],
+    "name:zho_x_variant":[
+        "San-k\u2019an-tien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6640621
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"39c9fdf5045d8329fb056d7ee1ae8676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310601665,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1310601665,
+    "wof:lastmodified":1537709678,
+    "wof:name":"Sankandian",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.12472,
+    24.71583,
+    121.12472,
+    24.71583
+],
+  "geometry": {"coordinates":[121.12472,24.71583],"type":"Point"}
+}

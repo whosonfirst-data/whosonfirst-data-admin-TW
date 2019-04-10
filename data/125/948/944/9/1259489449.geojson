@@ -1,0 +1,80 @@
+{
+  "id": 1259489449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.26478,25.09514,121.26478,25.09514",
+    "geom:latitude":25.09514,
+    "geom:longitude":121.26478,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H05",
+    "gn:admin4_code":"68000050015.0",
+    "gn:asciiname":"Touqian",
+    "gn:country_code":"TW",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667053,
+    "gn:latitude":25.09514,
+    "gn:longitude":121.26478,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Touqian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toucian",
+        "Touqian"
+    ],
+    "name:zho_x_preferred":[
+        "\u982d\u524d"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ou-ch\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667053
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d2bcdd43e35a322b0380d41254a35a3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259489449,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1259489449,
+    "wof:lastmodified":1537708538,
+    "wof:name":"Touqian",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.26478,
+    25.09514,
+    121.26478,
+    25.09514
+],
+  "geometry": {"coordinates":[121.26478,25.09514],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 1209130007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.36306,24.40583,121.36306,24.40583",
+    "geom:latitude":24.40583,
+    "geom:longitude":121.36306,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G11",
+    "gn:admin4_code":"10002110009.0",
+    "gn:asciiname":"Tuleng",
+    "gn:country_code":"TW",
+    "gn:dem":1575,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666709,
+    "gn:latitude":24.40583,
+    "gn:longitude":121.36306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tuleng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "T\u2019u-ling"
+    ],
+    "name:zho_x_variant":[
+        "\u7a81\u7a1c",
+        "T\u2019u-leng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666709
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6d250791b7965a8758c766d56098fdac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209130007
+        }
+    ],
+    "wof:id":1209130007,
+    "wof:lastmodified":1537708516,
+    "wof:name":"Tuleng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.36306,
+    24.40583,
+    121.36306,
+    24.40583
+],
+  "geometry": {"coordinates":[121.36306,24.40583],"type":"Point"}
+}

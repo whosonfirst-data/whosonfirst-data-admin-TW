@@ -1,0 +1,76 @@
+{
+  "id": 1259784455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.19861,24.79944,121.19861,24.79944",
+    "geom:latitude":24.79944,
+    "geom:longitude":121.19861,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J03",
+    "gn:admin4_code":"10004040008.0",
+    "gn:asciiname":"Shangsantun",
+    "gn:country_code":"TW",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669773,
+    "gn:latitude":24.79944,
+    "gn:longitude":121.19861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangsantun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e0a\u4e09\u5c6f"
+    ],
+    "name:zho_x_variant":[
+        "Shang-san-t\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669773
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"beffd8e535815ae4552d2b56b5de56d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259784455,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1259784455,
+    "wof:lastmodified":1537708733,
+    "wof:name":"Shangsantun",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.19861000000002,
+    24.79944,
+    121.19861000000002,
+    24.79944
+],
+  "geometry": {"coordinates":[121.19861000000002,24.79944],"type":"Point"}
+}

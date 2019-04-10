@@ -1,0 +1,75 @@
+{
+  "id": 1343267993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.0,24.7,121.0,24.7",
+    "geom:latitude":24.7,
+    "geom:longitude":121.0,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J13",
+    "gn:admin4_code":"10004110003.0",
+    "gn:asciiname":"Liuzitao",
+    "gn:country_code":"TW",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672667,
+    "gn:latitude":24.7,
+    "gn:longitude":121.0,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liuzitao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019i-tzu-kuang",
+        "Liu-tzu-t\u2019ao",
+        "Liuzitao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672667
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0a19fe248caa4499b8efb3501aaf10a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343267993,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1343267993,
+    "wof:lastmodified":1537708919,
+    "wof:name":"Liuzitao",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.0,
+    24.7,
+    121.0,
+    24.7
+],
+  "geometry": {"coordinates":[121.0,24.7],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1226351435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.44291,22.71771,120.44291,22.71771",
+    "geom:latitude":22.71771,
+    "geom:longitude":120.44291,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E15",
+    "gn:admin4_code":"64000150010.0",
+    "gn:asciiname":"Dakeng",
+    "gn:country_code":"TW",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668245,
+    "gn:latitude":22.71771,
+    "gn:longitude":120.44291,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dakeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5927\u5751",
+        "Dakeng"
+    ],
+    "name:zho_x_preferred":[
+        "Chu-chiao-ts\u2019o"
+    ],
+    "name:zho_x_variant":[
+        "Ta-k\u2019eng-ts\u2019un",
+        "Ta-k\u2019ang",
+        "Ta-k\u2019eng",
+        "\u5927\u5751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668245
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0ce0eca2cee5093ed8e3b5ed6b0bd26c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226351435,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1226351435,
+    "wof:lastmodified":1537708618,
+    "wof:name":"Dakeng",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.44291,
+    22.71771,
+    120.44291,
+    22.71771
+],
+  "geometry": {"coordinates":[120.44291,22.71771],"type":"Point"}
+}

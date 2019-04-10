@@ -1,0 +1,79 @@
+{
+  "id": 1277080531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.54395,24.03794,120.54395,24.03794",
+    "geom:latitude":24.03794,
+    "geom:longitude":120.54395,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N13",
+    "gn:admin4_code":"10007080010.0",
+    "gn:asciiname":"Baishakeng",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6748120,
+    "gn:latitude":24.03794,
+    "gn:longitude":120.54395,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Baishakeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pai-sha-k\u2019eng"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u7802\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Pai-sha-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6748120
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"25335ca1ca9cf1fa2006ee5e1d31a718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1277080531,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1277080531,
+    "wof:lastmodified":1537709931,
+    "wof:name":"Baishakeng",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.54395,
+    24.03794,
+    120.54395,
+    24.03794
+],
+  "geometry": {"coordinates":[120.54395,24.03794],"type":"Point"}
+}

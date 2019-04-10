@@ -1,0 +1,76 @@
+{
+  "id": 1210017247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.89961,23.85978,120.89961,23.85978",
+    "geom:latitude":23.85978,
+    "geom:longitude":120.89961,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M09",
+    "gn:admin4_code":"10008090010.0",
+    "gn:asciiname":"Erbalan",
+    "gn:country_code":"TW",
+    "gn:dem":758,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649257,
+    "gn:latitude":23.85978,
+    "gn:longitude":120.89961,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Erbalan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erh-pa-lan"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e8c\u58e9\u6b04"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649257
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"75c4fe11c4b4a9cd96c950c56c78b961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1210017247,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1210017247,
+    "wof:lastmodified":1537709785,
+    "wof:name":"Erbalan",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.89961,
+    23.85978,
+    120.89961,
+    23.85978
+],
+  "geometry": {"coordinates":[120.89961,23.85978],"type":"Point"}
+}

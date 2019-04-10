@@ -1,0 +1,76 @@
+{
+  "id": 1225944373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.57631,23.42387,120.57631,23.42387",
+    "geom:latitude":23.42387,
+    "geom:longitude":120.57631,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q14",
+    "gn:admin4_code":"10010130013.0",
+    "gn:asciiname":"Dalong",
+    "gn:country_code":"TW",
+    "gn:dem":257,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656148,
+    "gn:latitude":23.42387,
+    "gn:longitude":120.57631,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dalong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-lung"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u9f8d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6656148
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bf816e1d683250876b5366b50cea8591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225944373,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1225944373,
+    "wof:lastmodified":1537709867,
+    "wof:name":"Dalong",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.57631,
+    23.42387,
+    120.57631,
+    23.42387
+],
+  "geometry": {"coordinates":[120.57631000000001,23.42387],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1293206655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.62529,23.60535,119.62529,23.60535",
+    "geom:latitude":23.60535,
+    "geom:longitude":119.62529,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PEN",
+    "gn:admin3_code":"X02",
+    "gn:admin4_code":"10016020015.0",
+    "gn:asciiname":"Shagang",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669915,
+    "gn:latitude":23.60535,
+    "gn:longitude":119.62529,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shagang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sha-chiang",
+        "Shagang",
+        "Sha-kang"
+    ],
+    "name:zho_x_preferred":[
+        "Sha-kang-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u6c99\u6e2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679627,
+        102191569,
+        85632403,
+        1108500085,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669915
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b097e769589f22783df2dc1bb1bc0a30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293206655,
+            "macrocounty_id":1108500085,
+            "macroregion_id":1108808557,
+            "region_id":85679627
+        }
+    ],
+    "wof:id":1293206655,
+    "wof:lastmodified":1537708745,
+    "wof:name":"Shagang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.62529,
+    23.60535,
+    119.62529,
+    23.60535
+],
+  "geometry": {"coordinates":[119.62529000000001,23.60535],"type":"Point"}
+}

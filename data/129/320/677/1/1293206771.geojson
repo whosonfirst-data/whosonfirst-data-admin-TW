@@ -1,0 +1,82 @@
+{
+  "id": 1293206771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.82194,22.05611,120.82194,22.05611",
+    "geom:latitude":22.05611,
+    "geom:longitude":120.82194,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T24",
+    "gn:admin4_code":"10013240006.0",
+    "gn:asciiname":"Jiucuo",
+    "gn:country_code":"TW",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677761,
+    "gn:latitude":22.05611,
+    "gn:longitude":120.82194,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiucuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jioucuo",
+        "Jiucuo"
+    ],
+    "name:zho_x_preferred":[
+        "Chiu-ko-ts\u2019o"
+    ],
+    "name:zho_x_variant":[
+        "\u4e5d\u539d",
+        "Chiu-ts\u2019o-lu",
+        "Chiu-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677761
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a953ec3a935171a5b444a36769c31c5f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293206771,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1293206771,
+    "wof:lastmodified":1537709320,
+    "wof:name":"Jiucuo",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.82193999999998,
+    22.05611,
+    120.82193999999998,
+    22.05611
+],
+  "geometry": {"coordinates":[120.82193999999998,22.05611],"type":"Point"}
+}

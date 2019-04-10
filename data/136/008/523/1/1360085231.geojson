@@ -1,0 +1,76 @@
+{
+  "id": 1360085231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.16088,25.06145,121.16088,25.06145",
+    "geom:latitude":25.06145,
+    "geom:longitude":121.16088,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H06",
+    "gn:admin4_code":"68000060019.0",
+    "gn:asciiname":"Poulunding",
+    "gn:country_code":"TW",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646687,
+    "gn:latitude":25.06145,
+    "gn:longitude":121.16088,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Poulunding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5ecd\u5d19\u9802"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019ou-lun-ting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646687
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"80b6c86bb1c33f675b0f1db9797587f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360085231,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1360085231,
+    "wof:lastmodified":1537709739,
+    "wof:name":"Poulunding",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.16088,
+    25.06145,
+    121.16088,
+    25.06145
+],
+  "geometry": {"coordinates":[121.16088000000001,25.06145],"type":"Point"}
+}

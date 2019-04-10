@@ -1,0 +1,80 @@
+{
+  "id": 1276547547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.53117,22.65875,120.53117,22.65875",
+    "geom:latitude":22.65875,
+    "geom:longitude":120.53117,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T07",
+    "gn:admin4_code":"10013070001.0",
+    "gn:asciiname":"Xinzhuang",
+    "gn:country_code":"TW",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672387,
+    "gn:latitude":22.65875,
+    "gn:longitude":120.53117,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-chuang-tzu",
+        "Xinzhuang",
+        "Sinjhuang",
+        "Lun-hsin",
+        "Hsin-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u838a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672387
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bed11d1b4235fac39904793bd48c0701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276547547,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1276547547,
+    "wof:lastmodified":1537708902,
+    "wof:name":"Xinzhuang",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.53117,
+    22.65875,
+    120.53117,
+    22.65875
+],
+  "geometry": {"coordinates":[120.53117,22.65875],"type":"Point"}
+}

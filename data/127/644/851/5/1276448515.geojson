@@ -1,0 +1,76 @@
+{
+  "id": 1276448515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.71153,24.75075,121.71153,24.75075",
+    "geom:latitude":24.75075,
+    "geom:longitude":121.71153,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G05",
+    "gn:admin4_code":"10002070009.0",
+    "gn:asciiname":"Neiyuanshan",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6643905,
+    "gn:latitude":24.75075,
+    "gn:longitude":121.71153,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Neiyuanshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5167\u54e1\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "Nei-y\u00fcan-shan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6643905
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fd368f63a970ea1005fcf1af73b17e02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276448515,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1276448515,
+    "wof:lastmodified":1537709695,
+    "wof:name":"Neiyuanshan",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.71153,
+    24.75075,
+    121.71153,
+    24.75075
+],
+  "geometry": {"coordinates":[121.71153,24.75075],"type":"Point"}
+}

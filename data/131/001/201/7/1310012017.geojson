@@ -1,0 +1,77 @@
+{
+  "id": 1310012017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.29637,23.09057,120.29637,23.09057",
+    "geom:latitude":23.09057,
+    "geom:longitude":120.29637,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R20",
+    "gn:admin4_code":"67000200006.0",
+    "gn:asciiname":"Nansanshe",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6749759,
+    "gn:latitude":23.09057,
+    "gn:longitude":120.29637,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nansanshe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yeh-shu-chiao",
+        "Nan-san-she"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u4e09\u820d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6749759
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fa1d2e7e671a04a1f4c28a3b4108dbfc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310012017,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1310012017,
+    "wof:lastmodified":1537709956,
+    "wof:name":"Nansanshe",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.29637,
+    23.09057,
+    120.29637,
+    23.09057
+],
+  "geometry": {"coordinates":[120.29637,23.09057],"type":"Point"}
+}

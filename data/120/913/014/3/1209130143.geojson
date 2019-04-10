@@ -1,0 +1,74 @@
+{
+  "id": 1209130143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.26855,23.4946,120.26855,23.4946",
+    "geom:latitude":23.4946,
+    "geom:longitude":120.26855,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q08",
+    "gn:admin4_code":"10010080020.0",
+    "gn:asciiname":"Xiqiancuo",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675395,
+    "gn:latitude":23.4946,
+    "gn:longitude":120.26855,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiqiancuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siciancuo"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019i-kan-ts\u2019o"
+    ],
+    "name:zho_x_variant":[
+        "\u6eaa\u5898\u539d",
+        "Hsi-ch\u2019ien-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675395
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c8c2bf874c880344fafbc187c3520d1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209130143
+        }
+    ],
+    "wof:id":1209130143,
+    "wof:lastmodified":1537709126,
+    "wof:name":"Xiqiancuo",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.26855,
+    23.4946,
+    120.26855,
+    23.4946
+],
+  "geometry": {"coordinates":[120.26855,23.4946],"type":"Point"}
+}

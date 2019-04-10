@@ -1,0 +1,81 @@
+{
+  "id": 1293699853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.34683,22.58264,120.34683,22.58264",
+    "geom:latitude":22.58264,
+    "geom:longitude":120.34683,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E11",
+    "gn:admin4_code":"64000110032.0",
+    "gn:asciiname":"Pizitou",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7502096,
+    "gn:latitude":22.58264,
+    "gn:longitude":120.34683,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pizitou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u57e4\u5b50\u982d",
+        "Pizihtou",
+        "Pizitou"
+    ],
+    "name:zho_x_preferred":[
+        "P\u2019i-tzu-t\u2019ou"
+    ],
+    "name:zho_x_variant":[
+        "\u57e4\u5b50\u982d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7502096
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8afcfbe2ffe86ff44a3f3c34eb9e0736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293699853,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1293699853,
+    "wof:lastmodified":1537709984,
+    "wof:name":"Pizitou",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.34683,
+    22.58264,
+    120.34683,
+    22.58264
+],
+  "geometry": {"coordinates":[120.34683,22.58264],"type":"Point"}
+}

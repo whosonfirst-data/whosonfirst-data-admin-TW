@@ -1,0 +1,70 @@
+{
+  "id": 890468233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.597228,23.907405,121.597228,23.907405",
+    "geom:latitude":23.907405,
+    "geom:longitude":121.597228,
+    "gn:country":"TW",
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"\u5e73\u548c\u6751",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u82b1\u84ee\u7e23",
+    "qs:photos":834,
+    "qs:photos_1k":169,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":834,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":1005,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28760137,
+        "qs:id":332198,
+        "wk:page":"Peace Village (North Korea)"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053695,
+    "wof:geomhash":"8a0b3e22f3166e85c6c070e2dde6916a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":890468233,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":890468233,
+    "wof:lastmodified":1527792967,
+    "wof:name":"\u5e73\u548c\u6751",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.597228,
+    23.907405,
+    121.597228,
+    23.907405
+],
+  "geometry": {"coordinates":[121.597228,23.907405],"type":"Point"}
+}

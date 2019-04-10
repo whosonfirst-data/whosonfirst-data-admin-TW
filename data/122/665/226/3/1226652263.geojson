@@ -1,0 +1,76 @@
+{
+  "id": 1226652263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.55833,23.5525,120.55833,23.5525",
+    "geom:latitude":23.5525,
+    "geom:longitude":120.55833,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q16",
+    "gn:admin4_code":"10010150009.0",
+    "gn:asciiname":"Dapiantian",
+    "gn:country_code":"TW",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667869,
+    "gn:latitude":23.5525,
+    "gn:longitude":120.55833,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dapiantian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u7247\u7530"
+    ],
+    "name:zho_x_variant":[
+        "Ta-p\u2019ien-t\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667869
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d04a8460e40dd32f2880b962a5bde8ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226652263,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1226652263,
+    "wof:lastmodified":1537708596,
+    "wof:name":"Dapiantian",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.55833,
+    23.5525,
+    120.55833,
+    23.5525
+],
+  "geometry": {"coordinates":[120.55833,23.5525],"type":"Point"}
+}

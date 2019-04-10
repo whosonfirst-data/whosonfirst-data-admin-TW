@@ -1,0 +1,77 @@
+{
+  "id": 1226143347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.34988,23.1994,120.34988,23.1994",
+    "geom:latitude":23.1994,
+    "geom:longitude":120.34988,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R10",
+    "gn:admin4_code":"67000100001.0",
+    "gn:asciiname":"Zhongxie",
+    "gn:country_code":"TW",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677405,
+    "gn:latitude":23.1994,
+    "gn:longitude":120.34988,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongxie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhongsie",
+        "Chung-hsieh"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u8105"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677405
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"dbd326207352695bf5d2a29e5ae89a1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226143347,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1226143347,
+    "wof:lastmodified":1537709290,
+    "wof:name":"Zhongxie",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.34988,
+    23.1994,
+    120.34988,
+    23.1994
+],
+  "geometry": {"coordinates":[120.34988,23.1994],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209011905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.44326,25.17933,121.44326,25.17933",
+    "geom:latitude":25.17933,
+    "geom:longitude":121.44326,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F27",
+    "gn:admin4_code":"65000100010.0",
+    "gn:asciiname":"Mifenliao",
+    "gn:country_code":"TW",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6749200,
+    "gn:latitude":25.17933,
+    "gn:longitude":121.44326,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Mifenliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mi-fen-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c73\u7c89\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6749200
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2b3bb8ed919b33bdad7be10d605485f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209011905
+        }
+    ],
+    "wof:id":1209011905,
+    "wof:lastmodified":1537709947,
+    "wof:name":"Mifenliao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.44326,
+    25.17933,
+    121.44326,
+    25.17933
+],
+  "geometry": {"coordinates":[121.44326,25.17933],"type":"Point"}
+}

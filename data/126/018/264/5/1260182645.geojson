@@ -1,0 +1,76 @@
+{
+  "id": 1260182645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.7181,25.07685,121.7181,25.07685",
+    "geom:latitude":25.07685,
+    "geom:longitude":121.7181,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"KEE",
+    "gn:admin3_code":"C02",
+    "gn:admin4_code":"10017020009.0",
+    "gn:asciiname":"Houdandan",
+    "gn:country_code":"TW",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6728812,
+    "gn:latitude":25.07685,
+    "gn:longitude":121.7181,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Houdandan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hou-tan-tan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f8c\u65e6\u65e6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679571,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6728812
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f1e02c3990991c4c0d7e612bcef9f44e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260182645,
+            "macroregion_id":1108808557,
+            "region_id":85679571
+        }
+    ],
+    "wof:id":1260182645,
+    "wof:lastmodified":1537709911,
+    "wof:name":"Houdandan",
+    "wof:parent_id":85679571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.7181,
+    25.07685,
+    121.7181,
+    25.07685
+],
+  "geometry": {"coordinates":[121.71810000000001,25.07685],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1259708033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.77778,24.47167,121.77778,24.47167",
+    "geom:latitude":24.47167,
+    "geom:longitude":121.77778,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G12",
+    "gn:admin4_code":"10002120004.0",
+    "gn:asciiname":"Jinyue",
+    "gn:country_code":"TW",
+    "gn:dem":59,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677951,
+    "gn:latitude":24.47167,
+    "gn:longitude":121.77778,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jinyue",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lu-pi-sha",
+        "Jinyue"
+    ],
+    "name:zho_x_preferred":[
+        "Lu-p\u2019i"
+    ],
+    "name:zho_x_variant":[
+        "Lu-p\u2019i-she",
+        "\u91d1\u5cb3",
+        "Chin-y\u00fceh-ts\u2019un",
+        "Chin-y\u00fceh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677951
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2fbce146fae9ac97d34932ef573209c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259708033,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1259708033,
+    "wof:lastmodified":1537709337,
+    "wof:name":"Jinyue",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.77778,
+    24.47167,
+    121.77778,
+    24.47167
+],
+  "geometry": {"coordinates":[121.77778000000001,24.47167],"type":"Point"}
+}

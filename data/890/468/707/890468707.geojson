@@ -1,0 +1,77 @@
+{
+  "id": 890468707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.63361,24.5425,121.63361,24.5425",
+    "geom:latitude":24.5425,
+    "geom:longitude":121.63361,
+    "gn:country":"TW",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:kor_x_preferred":[
+        "\uc774\ub780 \ud604"
+    ],
+    "name:unk_x_variant":[
+        "Yi Lan Hsien"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b9c\u862d\u7e23"
+    ],
+    "qs:name":"Yilan",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":70,
+    "wof:belongsto":[
+        85679567,
+        102191569,
+        85632403,
+        1108499379,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674197,
+        "qs:id":1027058,
+        "wk:page":"Yilan"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053721,
+    "wof:geomhash":"78ec372571ca73144157d50cc85779c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "county_id":890468707,
+            "macrocounty_id":1108499379,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":890468707,
+    "wof:lastmodified":1527792967,
+    "wof:name":"Yilan",
+    "wof:parent_id":1108499379,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.63361,
+    24.5425,
+    121.63361,
+    24.5425
+],
+  "geometry": {"coordinates":[121.63361,24.5425],"type":"Point"}
+}

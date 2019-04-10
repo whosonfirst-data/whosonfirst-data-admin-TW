@@ -1,0 +1,75 @@
+{
+  "id": 1226448541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.63333,22.83333,120.63333,22.83333",
+    "geom:latitude":22.83333,
+    "geom:longitude":120.63333,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T26",
+    "gn:admin4_code":"10013260010.0",
+    "gn:asciiname":"Shamo",
+    "gn:country_code":"TW",
+    "gn:dem":121,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669885,
+    "gn:latitude":22.83333,
+    "gn:longitude":120.63333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shamo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sha-mo-ts\u2019un",
+        "Sha-mo",
+        "Shamo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669885
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"be59c75e508c1708660829e5490a04b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226448541,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1226448541,
+    "wof:lastmodified":1537708743,
+    "wof:name":"Shamo",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.63333,
+    22.83333,
+    120.63333,
+    22.83333
+],
+  "geometry": {"coordinates":[120.63333,22.83333],"type":"Point"}
+}

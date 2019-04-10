@@ -1,0 +1,78 @@
+{
+  "id": 1209914629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.89684,23.92742,120.89684,23.92742",
+    "geom:latitude":23.92742,
+    "geom:longitude":120.89684,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M09",
+    "gn:admin4_code":"10008090009.0",
+    "gn:asciiname":"Sanjiaolun",
+    "gn:country_code":"TW",
+    "gn:dem":767,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649279,
+    "gn:latitude":23.92742,
+    "gn:longitude":120.89684,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanjiaolun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-chiao-lung",
+        "Sanjiaolun",
+        "San-chiao-lun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u89d2\u5d19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649279
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"eb4ca5ac5f394a94bfdd15a46b87cc4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209914629,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1209914629,
+    "wof:lastmodified":1537709786,
+    "wof:name":"Sanjiaolun",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.89684,
+    23.92742,
+    120.89684,
+    23.92742
+],
+  "geometry": {"coordinates":[120.89684,23.92742],"type":"Point"}
+}

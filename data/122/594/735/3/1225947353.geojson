@@ -1,0 +1,78 @@
+{
+  "id": 1225947353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.38038,22.71984,120.38038,22.71984",
+    "geom:latitude":22.71984,
+    "geom:longitude":120.38038,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E17",
+    "gn:admin4_code":"64000170005.0",
+    "gn:asciiname":"Sangongliao",
+    "gn:country_code":"TW",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7501962,
+    "gn:latitude":22.71984,
+    "gn:longitude":120.38038,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sangongliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-kung-liao",
+        "\u4e09\u516c\u5bee",
+        "Sangongliao"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u516c\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7501962
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e02940ab89756a29fb2fdffb2780fea6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225947353,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1225947353,
+    "wof:lastmodified":1537709982,
+    "wof:name":"Sangongliao",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.38038,
+    22.71984,
+    120.38038,
+    22.71984
+],
+  "geometry": {"coordinates":[120.38038,22.71984],"type":"Point"}
+}

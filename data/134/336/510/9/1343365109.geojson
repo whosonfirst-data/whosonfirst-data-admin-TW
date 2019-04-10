@@ -1,0 +1,77 @@
+{
+  "id": 1343365109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.15579,25.01509,121.15579,25.01509",
+    "geom:latitude":25.01509,
+    "geom:longitude":121.15579,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H12",
+    "gn:admin4_code":"68000120018.0",
+    "gn:asciiname":"Shanziding",
+    "gn:country_code":"TW",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669646,
+    "gn:latitude":25.01509,
+    "gn:longitude":121.15579,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shanziding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shanzihding",
+        "Shan-tzu-ting"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c71\u4ed4\u9802"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669646
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e6444008960bfa2d1b19ff04eb72fd26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343365109,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1343365109,
+    "wof:lastmodified":1537708723,
+    "wof:name":"Shanziding",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.15579,
+    25.01509,
+    121.15579,
+    25.01509
+],
+  "geometry": {"coordinates":[121.15579,25.01509],"type":"Point"}
+}

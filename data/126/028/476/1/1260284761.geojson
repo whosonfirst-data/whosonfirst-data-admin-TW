@@ -1,0 +1,76 @@
+{
+  "id": 1260284761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.32078,23.23844,121.32078,23.23844",
+    "geom:latitude":23.23844,
+    "geom:longitude":121.32078,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U10",
+    "gn:admin4_code":"10015100003.0",
+    "gn:asciiname":"Tourenbu",
+    "gn:country_code":"TW",
+    "gn:dem":674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667018,
+    "gn:latitude":23.23844,
+    "gn:longitude":121.32078,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tourenbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u982d\u4eba\u57d4"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ou-jen-pu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667018
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"80a4785d15462b51e3702dc993a9a0e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260284761,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1260284761,
+    "wof:lastmodified":1537708536,
+    "wof:name":"Tourenbu",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.32078,
+    23.23844,
+    121.32078,
+    23.23844
+],
+  "geometry": {"coordinates":[121.32078,23.23844],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 890470471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.527671,24.045836,121.527671,24.045836",
+    "geom:latitude":24.045836,
+    "geom:longitude":121.527671,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"\u6c34\u6e90\u6751",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u82b1\u84ee\u7e23",
+    "qs:photos":374,
+    "qs:photos_1k":76,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":374,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":83,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28759319,
+        "qs:id":1089090,
+        "wk:page":"Xinning County"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053820,
+    "wof:geomhash":"ffee2bbbca2f72a3b31074a011f51a8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":890470471,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":890470471,
+    "wof:lastmodified":1527727212,
+    "wof:name":"\u6c34\u6e90\u6751",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.527671,
+    24.045836,
+    121.527671,
+    24.045836
+],
+  "geometry": {"coordinates":[121.527671,24.045836],"type":"Point"}
+}

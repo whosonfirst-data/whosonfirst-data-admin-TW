@@ -1,0 +1,80 @@
+{
+  "id": 1360309453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.55214,23.90304,120.55214,23.90304",
+    "geom:latitude":23.90304,
+    "geom:longitude":120.55214,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N21",
+    "gn:admin4_code":"10007210007.0",
+    "gn:asciiname":"Cheluzi",
+    "gn:country_code":"TW",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649783,
+    "gn:latitude":23.90304,
+    "gn:longitude":120.55214,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Cheluzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cheluzih"
+    ],
+    "name:zho_x_preferred":[
+        "\u8eca\u8def\u4ed4"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019e-lu-wei",
+        "Ch\u2019e-lu-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649783
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cb863d580f07cf661e14709401844da6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360309453,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1360309453,
+    "wof:lastmodified":1537709787,
+    "wof:name":"Cheluzi",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.55214,
+    23.90304,
+    120.55214,
+    23.90304
+],
+  "geometry": {"coordinates":[120.55213999999999,23.90304],"type":"Point"}
+}

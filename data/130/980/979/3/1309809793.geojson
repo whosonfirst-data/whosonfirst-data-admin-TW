@@ -1,0 +1,79 @@
+{
+  "id": 1309809793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.93158,24.02783,120.93158,24.02783",
+    "geom:latitude":24.02783,
+    "geom:longitude":120.93158,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M02",
+    "gn:admin4_code":"10008020029.0",
+    "gn:asciiname":"Lengshuikeng",
+    "gn:country_code":"TW",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673021,
+    "gn:latitude":24.02783,
+    "gn:longitude":120.93158,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lengshuikeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lengshueikeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u51b7\u6c34\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Leng-shui-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673021
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8c87995d8a8d36924cd1fcb2a7b24c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309809793,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1309809793,
+    "wof:lastmodified":1537708942,
+    "wof:name":"Lengshuikeng",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.93158,
+    24.02783,
+    120.93158,
+    24.02783
+],
+  "geometry": {"coordinates":[120.93158,24.02783],"type":"Point"}
+}

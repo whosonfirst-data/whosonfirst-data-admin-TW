@@ -1,0 +1,79 @@
+{
+  "id": 1243178335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.12861,24.90472,121.12861,24.90472",
+    "geom:latitude":24.90472,
+    "geom:longitude":121.12861,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H04",
+    "gn:admin4_code":"68000040005.0",
+    "gn:asciiname":"Taipingshanxia",
+    "gn:country_code":"TW",
+    "gn:dem":190,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6574540,
+    "gn:latitude":24.90472,
+    "gn:longitude":121.12861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Taipingshanxia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Taipingshansia"
+    ],
+    "name:zho_x_preferred":[
+        "\u592a\u5e73\u5c71\u4e0b"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ai-p\u2019ing-shan-hsia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6574540
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3118aa64456f4af7034a609f386c719b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243178335,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1243178335,
+    "wof:lastmodified":1537709526,
+    "wof:name":"Taipingshanxia",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.12861,
+    24.90472,
+    121.12861,
+    24.90472
+],
+  "geometry": {"coordinates":[121.12860999999999,24.90472],"type":"Point"}
+}

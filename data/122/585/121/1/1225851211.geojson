@@ -1,0 +1,76 @@
+{
+  "id": 1225851211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.51438,25.14987,121.51438,25.14987",
+    "geom:latitude":25.14987,
+    "geom:longitude":121.51438,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A16",
+    "gn:admin4_code":"63000120039.0",
+    "gn:asciiname":"Lingtou",
+    "gn:country_code":"TW",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6729154,
+    "gn:latitude":25.14987,
+    "gn:longitude":121.51438,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lingtou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5dba\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Ling-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6729154
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ebf9d320fda248ca7a10aa72d2bdc2d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225851211,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1225851211,
+    "wof:lastmodified":1537709919,
+    "wof:name":"Lingtou",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.51438,
+    25.14987,
+    121.51438,
+    25.14987
+],
+  "geometry": {"coordinates":[121.51438,25.14987],"type":"Point"}
+}

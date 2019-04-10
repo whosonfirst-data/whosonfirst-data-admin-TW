@@ -1,0 +1,74 @@
+{
+  "id": 1209220973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.41151,23.2562,121.41151,23.2562",
+    "geom:latitude":23.2562,
+    "geom:longitude":121.41151,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V08",
+    "gn:admin4_code":"10014080006.0",
+    "gn:asciiname":"Zhafeng'ai",
+    "gn:country_code":"TW",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6747165,
+    "gn:latitude":23.2562,
+    "gn:longitude":121.41151,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhafeng\u2019ai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cha-feng-ai"
+    ],
+    "name:zho_x_preferred":[
+        "\u67f5\u98a8\u611b"
+    ],
+    "name:zho_x_variant":[
+        "Jhafong\u2019ai",
+        "Zhafeng\u2019ai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6747165
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a69b12210a5a2e6470db0e992b28109f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209220973
+        }
+    ],
+    "wof:id":1209220973,
+    "wof:lastmodified":1537709921,
+    "wof:name":"Zhafeng'ai",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.41151,
+    23.2562,
+    121.41151,
+    23.2562
+],
+  "geometry": {"coordinates":[121.41151000000001,23.2562],"type":"Point"}
+}

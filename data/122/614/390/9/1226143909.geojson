@@ -1,0 +1,76 @@
+{
+  "id": 1226143909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.85921,24.48184,120.85921,24.48184",
+    "geom:latitude":24.48184,
+    "geom:longitude":120.85921,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K04",
+    "gn:admin4_code":"10005090004.0",
+    "gn:asciiname":"Sanchalu",
+    "gn:country_code":"TW",
+    "gn:dem":547,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652152,
+    "gn:latitude":24.48184,
+    "gn:longitude":120.85921,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanchalu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e09\u53c9\u8def"
+    ],
+    "name:zho_x_variant":[
+        "San-ch\u2019a-lu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652152
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"df95b37e0f1f4b7d37763b571d0b9475",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226143909,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1226143909,
+    "wof:lastmodified":1537709814,
+    "wof:name":"Sanchalu",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.85921,
+    24.48184,
+    120.85921,
+    24.48184
+],
+  "geometry": {"coordinates":[120.85921,24.48184],"type":"Point"}
+}

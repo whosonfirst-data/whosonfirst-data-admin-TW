@@ -1,0 +1,78 @@
+{
+  "id": 1226342561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.17134,24.99941,121.17134,24.99941",
+    "geom:latitude":24.99941,
+    "geom:longitude":121.17134,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H03",
+    "gn:admin4_code":"68000020049.0",
+    "gn:asciiname":"Xialiangwu",
+    "gn:country_code":"TW",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646699,
+    "gn:latitude":24.99941,
+    "gn:longitude":121.17134,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xialiangwu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sialiangwu",
+        "Xialiangwu",
+        "Hsia-liang-wu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u6881\u5c4b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646699
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c9b7ea65653e4d29e14bc1876c9dedf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226342561,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1226342561,
+    "wof:lastmodified":1537709740,
+    "wof:name":"Xialiangwu",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.17134,
+    24.99941,
+    121.17134,
+    24.99941
+],
+  "geometry": {"coordinates":[121.17134,24.99941],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1260290795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.98505,23.24869,120.98505,23.24869",
+    "geom:latitude":23.24869,
+    "geom:longitude":120.98505,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V13",
+    "gn:admin4_code":"10014120003.0",
+    "gn:asciiname":"Xiangyang",
+    "gn:country_code":"TW",
+    "gn:dem":2350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675679,
+    "gn:latitude":23.24869,
+    "gn:longitude":120.98505,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiangyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siangyang",
+        "Xiangyang",
+        "Hsiang-yang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5411\u967d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675679
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3a2a44a9c8ced3133c59ec8a3c720542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260290795,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1260290795,
+    "wof:lastmodified":1537709152,
+    "wof:name":"Xiangyang",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.98505,
+    23.24869,
+    120.98505,
+    23.24869
+],
+  "geometry": {"coordinates":[120.98505,23.24869],"type":"Point"}
+}

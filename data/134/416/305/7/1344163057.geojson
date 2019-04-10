@@ -1,0 +1,80 @@
+{
+  "id": 1344163057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.34614,23.12796,121.34614,23.12796",
+    "geom:latitude":23.12796,
+    "geom:longitude":121.34614,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V02",
+    "gn:admin4_code":"10014020003.0",
+    "gn:asciiname":"Pubuxia",
+    "gn:country_code":"TW",
+    "gn:dem":367,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652425,
+    "gn:latitude":23.12796,
+    "gn:longitude":121.34614,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pubuxia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pubusia",
+        "Pubuxia"
+    ],
+    "name:zho_x_preferred":[
+        "\u7011\u5e03\u4e0b"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019u-pu-hsia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652425
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8028bde5cce26796aa1d5baf0dd3fa93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344163057,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1344163057,
+    "wof:lastmodified":1537709824,
+    "wof:name":"Pubuxia",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.34614,
+    23.12796,
+    121.34614,
+    23.12796
+],
+  "geometry": {"coordinates":[121.34614000000001,23.12796],"type":"Point"}
+}

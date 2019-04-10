@@ -1,0 +1,75 @@
+{
+  "id": 1360190573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.51667,25.11667,121.51667,25.11667",
+    "geom:latitude":25.11667,
+    "geom:longitude":121.51667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A16",
+    "gn:admin4_code":"63000120008.0",
+    "gn:asciiname":"Lanya",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673095,
+    "gn:latitude":25.11667,
+    "gn:longitude":121.51667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lanya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lan-ya-li",
+        "Lan-ya",
+        "Lanya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673095
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"38e509f16554575996657da3d9101c5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360190573,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1360190573,
+    "wof:lastmodified":1537708947,
+    "wof:name":"Lanya",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.51667,
+    25.11667000000001,
+    121.51667,
+    25.11667000000001
+],
+  "geometry": {"coordinates":[121.51667,25.11667000000001],"type":"Point"}
+}

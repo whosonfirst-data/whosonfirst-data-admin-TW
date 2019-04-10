@@ -1,0 +1,81 @@
+{
+  "id": 1326536257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.21,23.60222,120.21,23.60222",
+    "geom:latitude":23.60222,
+    "geom:longitude":120.21,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P18",
+    "gn:admin4_code":"10009180008.0",
+    "gn:asciiname":"Beiwei",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670407,
+    "gn:latitude":23.60222,
+    "gn:longitude":120.21,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Beiwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pei-wei"
+    ],
+    "name:zho_x_preferred":[
+        "Pei-wei-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019i-wei-ts\u2019un",
+        "\u7891\u5c3e",
+        "P\u2019i-wei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670407
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"767b9b92e1a6569c7656186669b06b72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326536257,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1326536257,
+    "wof:lastmodified":1537708780,
+    "wof:name":"Beiwei",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.21,
+    23.60222000000001,
+    120.21,
+    23.60222000000001
+],
+  "geometry": {"coordinates":[120.20999999999999,23.60222000000001],"type":"Point"}
+}

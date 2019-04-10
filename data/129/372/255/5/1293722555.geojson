@@ -1,0 +1,79 @@
+{
+  "id": 1293722555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.56003,24.11978,120.56003,24.11978",
+    "geom:latitude":24.11978,
+    "geom:longitude":120.56003,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B24",
+    "gn:admin4_code":"66000240004.0",
+    "gn:asciiname":"Yingpanbu",
+    "gn:country_code":"TW",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6748121,
+    "gn:latitude":24.11978,
+    "gn:longitude":120.56003,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yingpanbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ying-p\u2019an-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u71df\u76e4\u57d4"
+    ],
+    "name:zho_x_variant":[
+        "Ying-p\u2019an-pu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6748121
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"747c81e595d923af7de451eb72f41346",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293722555,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1293722555,
+    "wof:lastmodified":1537709931,
+    "wof:name":"Yingpanbu",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.56003,
+    24.11978,
+    120.56003,
+    24.11978
+],
+  "geometry": {"coordinates":[120.56003,24.11978],"type":"Point"}
+}

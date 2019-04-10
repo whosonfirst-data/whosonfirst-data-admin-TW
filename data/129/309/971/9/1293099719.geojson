@@ -1,0 +1,76 @@
+{
+  "id": 1293099719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.91151,24.39923,120.91151,24.39923",
+    "geom:latitude":24.39923,
+    "geom:longitude":120.91151,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K15",
+    "gn:admin4_code":"10005080005.0",
+    "gn:asciiname":"Dali",
+    "gn:country_code":"TW",
+    "gn:dem":495,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652182,
+    "gn:latitude":24.39923,
+    "gn:longitude":120.91151,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dali",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-li"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u58e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652182
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ac1104efb8d827e1e2024d58126604e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293099719,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1293099719,
+    "wof:lastmodified":1537709816,
+    "wof:name":"Dali",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.91151,
+    24.39923,
+    120.91151,
+    24.39923
+],
+  "geometry": {"coordinates":[120.91151000000001,24.39923],"type":"Point"}
+}

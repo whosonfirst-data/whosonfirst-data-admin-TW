@@ -1,0 +1,70 @@
+{
+  "id": 1209616913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.4829,24.95027,121.4829,24.95027",
+    "geom:latitude":24.95027,
+    "geom:longitude":121.4829,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F07",
+    "gn:admin4_code":"65000060019.0",
+    "gn:asciiname":"Shenkengkou",
+    "gn:country_code":"TW",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653755,
+    "gn:latitude":24.95027,
+    "gn:longitude":121.4829,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shenkengkou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6df1\u5751\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "Shen-k\u2019eng-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653755
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4965bdb8ac5ea417e73baec64f15cce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209616913
+        }
+    ],
+    "wof:id":1209616913,
+    "wof:lastmodified":1537709847,
+    "wof:name":"Shenkengkou",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.4829,
+    24.95027,
+    121.4829,
+    24.95027
+],
+  "geometry": {"coordinates":[121.4829,24.95027],"type":"Point"}
+}

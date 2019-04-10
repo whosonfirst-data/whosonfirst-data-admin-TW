@@ -1,0 +1,81 @@
+{
+  "id": 1309929809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6449,23.8211,120.6449,23.8211",
+    "geom:latitude":23.8211,
+    "geom:longitude":120.6449,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M06",
+    "gn:admin4_code":"10008060019.0",
+    "gn:asciiname":"Buzhong",
+    "gn:country_code":"TW",
+    "gn:dem":430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670336,
+    "gn:latitude":23.8211,
+    "gn:longitude":120.6449,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Buzhong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pu-chung-yang",
+        "Bujhong",
+        "Pu-chung"
+    ],
+    "name:zho_x_preferred":[
+        "Pu-chung-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u57d4\u4e2d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670336
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"201c6e6348e01327abfcd69c3fecc2b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309929809,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1309929809,
+    "wof:lastmodified":1537708775,
+    "wof:name":"Buzhong",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6449,
+    23.8211,
+    120.6449,
+    23.8211
+],
+  "geometry": {"coordinates":[120.64490000000001,23.8211],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1193161011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.90125,24.73322,120.90125,24.73322",
+    "geom:latitude":24.73322,
+    "geom:longitude":120.90125,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040022.0",
+    "gn:asciiname":"Luchukeng",
+    "gn:country_code":"TW",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672573,
+    "gn:latitude":24.73322,
+    "gn:longitude":120.90125,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Luchukeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9e7f\u53a8\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Lu-ch\u2019u-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672573
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"07ba73801eb51764bc03b8498004445c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193161011,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1193161011,
+    "wof:lastmodified":1537708914,
+    "wof:name":"Luchukeng",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.90125,
+    24.73322000000001,
+    120.90125,
+    24.73322000000001
+],
+  "geometry": {"coordinates":[120.90125,24.73322000000001],"type":"Point"}
+}

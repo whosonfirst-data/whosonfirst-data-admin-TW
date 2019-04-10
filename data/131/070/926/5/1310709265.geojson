@@ -1,0 +1,79 @@
+{
+  "id": 1310709265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.66737,24.88618,121.66737,24.88618",
+    "geom:latitude":24.88618,
+    "geom:longitude":121.66737,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F10",
+    "gn:admin4_code":"65000200001.0",
+    "gn:asciiname":"Jiuxionggen",
+    "gn:country_code":"TW",
+    "gn:dem":345,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6643744,
+    "gn:latitude":24.88618,
+    "gn:longitude":121.66737,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiuxionggen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiu-hsung-ken",
+        "Jiousyonggen",
+        "Jiuxionggen",
+        "Chiu-hsiung-ken"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e5d\u828e\u6839"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6643744
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"eb73a3fb259b91c3d2b00702c1516996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310709265,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1310709265,
+    "wof:lastmodified":1537709692,
+    "wof:name":"Jiuxionggen",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.66737,
+    24.88618,
+    121.66737,
+    24.88618
+],
+  "geometry": {"coordinates":[121.66737000000001,24.88618],"type":"Point"}
+}

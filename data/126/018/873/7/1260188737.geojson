@@ -1,0 +1,77 @@
+{
+  "id": 1260188737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36853,23.75599,120.36853,23.75599",
+    "geom:latitude":23.75599,
+    "geom:longitude":120.36853,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P12",
+    "gn:admin4_code":"10009120005.0",
+    "gn:asciiname":"Luocuo",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672615,
+    "gn:latitude":23.75599,
+    "gn:longitude":120.36853,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Luocuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Lo-ts\u2019o-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u7f85\u539d",
+        "Lo-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672615
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c205cc80d7d24fbe3b199af09cc3c0b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260188737,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1260188737,
+    "wof:lastmodified":1537708916,
+    "wof:name":"Luocuo",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36853,
+    23.75599,
+    120.36853,
+    23.75599
+],
+  "geometry": {"coordinates":[120.36853000000001,23.75599],"type":"Point"}
+}

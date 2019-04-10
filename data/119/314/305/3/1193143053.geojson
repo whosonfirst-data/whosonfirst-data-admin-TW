@@ -1,0 +1,80 @@
+{
+  "id": 1193143053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36092,23.62391,120.36092,23.62391",
+    "geom:latitude":23.62391,
+    "geom:longitude":120.36092,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P17",
+    "gn:admin4_code":"10009170021.0",
+    "gn:asciiname":"Xinji",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675190,
+    "gn:latitude":23.62391,
+    "gn:longitude":120.36092,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinji",
+        "Hsin-chi"
+    ],
+    "name:zho_x_preferred":[
+        "Hsin-chi-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u5409"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675190
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"64a71c3b2b740341f9873eb728b8eeda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193143053,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1193143053,
+    "wof:lastmodified":1537709108,
+    "wof:name":"Xinji",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36092,
+    23.62391,
+    120.36092,
+    23.62391
+],
+  "geometry": {"coordinates":[120.36091999999999,23.62391],"type":"Point"}
+}

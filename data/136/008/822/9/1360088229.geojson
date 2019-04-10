@@ -1,0 +1,79 @@
+{
+  "id": 1360088229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.54479,22.86642,120.54479,22.86642",
+    "geom:latitude":22.86642,
+    "geom:longitude":120.54479,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E31",
+    "gn:admin4_code":"64000310004.0",
+    "gn:asciiname":"Wugumiao",
+    "gn:country_code":"TW",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665824,
+    "gn:latitude":22.86642,
+    "gn:longitude":120.54479,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wugumiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wu-kung-li",
+        "Wugumiao",
+        "Wu-kung",
+        "Wu-ku-miao"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e94\u7a40\u5edf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665824
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f39e2df538d8233ef71a0d30a83b58d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360088229,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1360088229,
+    "wof:lastmodified":1537708458,
+    "wof:name":"Wugumiao",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.54479,
+    22.86642,
+    120.54479,
+    22.86642
+],
+  "geometry": {"coordinates":[120.54479000000001,22.86642],"type":"Point"}
+}

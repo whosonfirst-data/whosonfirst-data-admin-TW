@@ -1,0 +1,78 @@
+{
+  "id": 890468341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.21667,23.1,121.21667,23.1",
+    "geom:latitude":23.1,
+    "geom:longitude":121.21667,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Chihshang Siang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c60\u4e0a\u9109"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ih-shang Hsing",
+        "Ch\u2019ih-shang",
+        "Ch\u2019ih-shang Hsiang"
+    ],
+    "qs:name":"Chishang Xiang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":144,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678327,
+        "qs:id":371348,
+        "wd:id":"Q1135297",
+        "wk:page":"Chishang, Taitung"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053701,
+    "wof:geomhash":"5fa474ff48c344b748785a8b6d079bb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890468341,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":890468341,
+    "wof:lastmodified":1527792967,
+    "wof:name":"Chishang Xiang",
+    "wof:parent_id":85679623,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.21667,
+    23.1,
+    121.21667,
+    23.1
+],
+  "geometry": {"coordinates":[121.21666999999999,23.1],"type":"Point"}
+}

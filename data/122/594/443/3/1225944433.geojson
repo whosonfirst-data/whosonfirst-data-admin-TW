@@ -1,0 +1,73 @@
+{
+  "id": 1225944433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.16667,24.05,121.16667,24.05",
+    "geom:latitude":24.05,
+    "geom:longitude":121.16667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M13",
+    "gn:admin4_code":"10008130012.0",
+    "gn:asciiname":"Yizhuang",
+    "gn:country_code":"TW",
+    "gn:dem":1686,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674227,
+    "gn:latitude":24.05,
+    "gn:longitude":121.16667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yizhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "I-chuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674227
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e160662c33eab25a7585df7202e50c6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225944433,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1225944433,
+    "wof:lastmodified":1537709028,
+    "wof:name":"Yizhuang",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.16667,
+    24.05,
+    121.16667,
+    24.05
+],
+  "geometry": {"coordinates":[121.16667,24.05],"type":"Point"}
+}

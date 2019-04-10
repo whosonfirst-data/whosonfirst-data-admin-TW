@@ -1,0 +1,80 @@
+{
+  "id": 1276980501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8475,22.12139,120.8475,22.12139",
+    "geom:latitude":22.12139,
+    "geom:longitude":120.8475,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T33",
+    "gn:admin4_code":"10013330005.0",
+    "gn:asciiname":"Gaoshi",
+    "gn:country_code":"TW",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673784,
+    "gn:latitude":22.12139,
+    "gn:longitude":120.8475,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Gaoshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaoshih",
+        "Kao-shih"
+    ],
+    "name:zho_x_preferred":[
+        "KaKao-shih-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u9ad8\u58eb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673784
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9595996e6fbfc1e793d9207a6d168723",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276980501,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1276980501,
+    "wof:lastmodified":1537708994,
+    "wof:name":"Gaoshi",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8475,
+    22.12139,
+    120.8475,
+    22.12139
+],
+  "geometry": {"coordinates":[120.8475,22.12139],"type":"Point"}
+}

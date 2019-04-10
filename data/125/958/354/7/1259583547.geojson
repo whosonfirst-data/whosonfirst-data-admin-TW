@@ -1,0 +1,78 @@
+{
+  "id": 1259583547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.33786,23.13681,120.33786,23.13681",
+    "geom:latitude":23.13681,
+    "geom:longitude":120.33786,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R19",
+    "gn:admin4_code":"67000190019.0",
+    "gn:asciiname":"Wulingzi",
+    "gn:country_code":"TW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6749750,
+    "gn:latitude":23.13681,
+    "gn:longitude":120.33786,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wulingzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wulingzih",
+        "Wulingzi",
+        "Wu-ling-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e94\u9234\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6749750
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5730db4017ece70ddd2c08ff0ed669fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259583547,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1259583547,
+    "wof:lastmodified":1537709955,
+    "wof:name":"Wulingzi",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.33786,
+    23.13681,
+    120.33786,
+    23.13681
+],
+  "geometry": {"coordinates":[120.33786000000001,23.13681],"type":"Point"}
+}

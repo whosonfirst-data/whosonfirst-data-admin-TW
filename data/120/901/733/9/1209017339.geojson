@@ -1,0 +1,77 @@
+{
+  "id": 1209017339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.32564,22.56763,120.32564,22.56763",
+    "geom:latitude":22.56763,
+    "geom:longitude":120.32564,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E11",
+    "gn:admin4_code":"64000110002.0",
+    "gn:asciiname":"Caoya",
+    "gn:country_code":"TW",
+    "gn:dem":-1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679024,
+    "gn:latitude":22.56763,
+    "gn:longitude":120.32564,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Caoya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u8349\u8859",
+        "Caoya"
+    ],
+    "name:zho_x_preferred":[
+        "Ts\u2019ao-ya"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ao-yang-li",
+        "Ch\u2019ao-yang",
+        "\u8349\u8859"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679024,
+        "wk:page":"Caoya%2C_Kaohsiung"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e55d60fd4644fe6a6358161c15353de4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209017339
+        }
+    ],
+    "wof:id":1209017339,
+    "wof:lastmodified":1537709405,
+    "wof:name":"Caoya",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.32564,
+    22.56763,
+    120.32564,
+    22.56763
+],
+  "geometry": {"coordinates":[120.32564000000001,22.56763],"type":"Point"}
+}

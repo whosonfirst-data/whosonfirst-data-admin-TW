@@ -1,0 +1,76 @@
+{
+  "id": 1360091011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.80678,23.82916,120.80678,23.82916",
+    "geom:latitude":23.82916,
+    "geom:longitude":120.80678,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M05",
+    "gn:admin4_code":"10008050011.0",
+    "gn:asciiname":"Dongjiao",
+    "gn:country_code":"TW",
+    "gn:dem":274,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666677,
+    "gn:latitude":23.82916,
+    "gn:longitude":120.80678,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d1e\u89d2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666677
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9998f2d005d3f126c8d514b2333e19a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360091011,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1360091011,
+    "wof:lastmodified":1537708514,
+    "wof:name":"Dongjiao",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.80678,
+    23.82916,
+    120.80678,
+    23.82916
+],
+  "geometry": {"coordinates":[120.80678,23.82916],"type":"Point"}
+}

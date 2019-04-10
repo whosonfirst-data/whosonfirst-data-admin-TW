@@ -1,0 +1,83 @@
+{
+  "id": 1310129777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.50791,22.48956,120.50791,22.48956",
+    "geom:latitude":22.48956,
+    "geom:longitude":120.50791,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T20",
+    "gn:admin4_code":"10013200002.0",
+    "gn:asciiname":"Nanzhou",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675383,
+    "gn:latitude":22.48956,
+    "gn:longitude":120.50791,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Nanzhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-chou",
+        "Nanzhou",
+        "Nanjhou",
+        "Nan-chou"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019i-chou"
+    ],
+    "name:zho_x_variant":[
+        "\u5357\u5dde"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675383,
+        "wk:page":"Nanzhou,_Pingtung"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ac1d1391bf5af45bf033c6e38e5a1439",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310129777,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1310129777,
+    "wof:lastmodified":1537709126,
+    "wof:name":"Nanzhou",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.50791,
+    22.48956,
+    120.50791,
+    22.48956
+],
+  "geometry": {"coordinates":[120.50791,22.48956],"type":"Point"}
+}

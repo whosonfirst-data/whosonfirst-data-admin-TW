@@ -1,0 +1,77 @@
+{
+  "id": 1343762467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.39705,23.73036,120.39705,23.73036",
+    "geom:latitude":23.73036,
+    "geom:longitude":120.39705,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P03",
+    "gn:admin4_code":"10009030015.0",
+    "gn:asciiname":"Kendi",
+    "gn:country_code":"TW",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674049,
+    "gn:latitude":23.73036,
+    "gn:longitude":120.39705,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kendi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u58be\u5730"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019ai-K\u2019en-ti",
+        "K\u2019en-ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674049
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"09f293a616494ac25888c875a8894d10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343762467,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1343762467,
+    "wof:lastmodified":1537709018,
+    "wof:name":"Kendi",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.39705,
+    23.73036,
+    120.39705,
+    23.73036
+],
+  "geometry": {"coordinates":[120.39704999999999,23.73036],"type":"Point"}
+}

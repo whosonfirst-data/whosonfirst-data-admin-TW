@@ -1,0 +1,79 @@
+{
+  "id": 1343685647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.57469,22.60732,120.57469,22.60732",
+    "geom:latitude":22.60732,
+    "geom:longitude":120.57469,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T13",
+    "gn:admin4_code":"10013130006.0",
+    "gn:asciiname":"Zhushangou",
+    "gn:country_code":"TW",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677093,
+    "gn:latitude":22.60732,
+    "gn:longitude":120.57469,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhushangou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chu-shan",
+        "Zhushangou",
+        "Jhushangou",
+        "Chu-shan-kou"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u5c71\u6e9d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677093
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1a3c5a2165dbf1d8ef766e32450cd623",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343685647,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1343685647,
+    "wof:lastmodified":1537709263,
+    "wof:name":"Zhushangou",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.57469,
+    22.60732,
+    120.57469,
+    22.60732
+],
+  "geometry": {"coordinates":[120.57469,22.60732],"type":"Point"}
+}

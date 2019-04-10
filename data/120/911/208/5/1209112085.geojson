@@ -1,0 +1,71 @@
+{
+  "id": 1209112085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.33346,23.79977,120.33346,23.79977",
+    "geom:latitude":23.79977,
+    "geom:longitude":120.33346,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P12",
+    "gn:admin4_code":"10009120011.0",
+    "gn:asciiname":"Caohu",
+    "gn:country_code":"TW",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666915,
+    "gn:latitude":23.79977,
+    "gn:longitude":120.33346,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Caohu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Ts\u2019ao-hu-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u8349\u6e56",
+        "Ts\u2019ao-hu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666915
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2c7b161d5c35177ac00c209cd9546a38",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209112085
+        }
+    ],
+    "wof:id":1209112085,
+    "wof:lastmodified":1537708529,
+    "wof:name":"Caohu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.33346,
+    23.79977,
+    120.33346,
+    23.79977
+],
+  "geometry": {"coordinates":[120.33346,23.79977],"type":"Point"}
+}

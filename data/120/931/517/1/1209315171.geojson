@@ -1,0 +1,75 @@
+{
+  "id": 1209315171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.10028,24.2325,121.10028,24.2325",
+    "geom:latitude":24.2325,
+    "geom:longitude":121.10028,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B29",
+    "gn:admin4_code":"66000290007.0",
+    "gn:asciiname":"Qingshan",
+    "gn:country_code":"TW",
+    "gn:dem":1514,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678125,
+    "gn:latitude":24.2325,
+    "gn:longitude":121.10028,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qingshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wu-lai-she",
+        "Cingshan",
+        "Qingshan"
+    ],
+    "name:zho_x_preferred":[
+        "\u9752\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ing-shan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678125
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d60f78b7fb809f18f2ddc2e7060c00a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209315171
+        }
+    ],
+    "wof:id":1209315171,
+    "wof:lastmodified":1537709347,
+    "wof:name":"Qingshan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.10028,
+    24.2325,
+    121.10028,
+    24.2325
+],
+  "geometry": {"coordinates":[121.10028,24.2325],"type":"Point"}
+}

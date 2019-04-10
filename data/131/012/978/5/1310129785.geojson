@@ -1,0 +1,77 @@
+{
+  "id": 1310129785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.67194,24.44333,120.67194,24.44333",
+    "geom:latitude":24.44333,
+    "geom:longitude":120.67194,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K02",
+    "gn:admin4_code":"10005020011.0",
+    "gn:asciiname":"Beiyuanlikeng",
+    "gn:country_code":"TW",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665454,
+    "gn:latitude":24.44333,
+    "gn:longitude":120.67194,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Beiyuanlikeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Y\u00fcan-k\u2019eng-li"
+    ],
+    "name:zho_x_variant":[
+        "\u5317\u82d1\u88e1\u5751",
+        "Pei-y\u00fcan-li-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665454
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6115805ecd1c921139b2a9d51b5db683",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310129785,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1310129785,
+    "wof:lastmodified":1537708436,
+    "wof:name":"Beiyuanlikeng",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.67194,
+    24.44333,
+    120.67194,
+    24.44333
+],
+  "geometry": {"coordinates":[120.67194000000001,24.44333],"type":"Point"}
+}

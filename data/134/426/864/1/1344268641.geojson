@@ -1,0 +1,81 @@
+{
+  "id": 1344268641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.74882,24.96704,121.74882,24.96704",
+    "geom:latitude":24.96704,
+    "geom:longitude":121.74882,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F10",
+    "gn:admin4_code":"65000200007.0",
+    "gn:asciiname":"Ganxi",
+    "gn:country_code":"TW",
+    "gn:dem":384,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673911,
+    "gn:latitude":24.96704,
+    "gn:longitude":121.74882,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Ganxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gansi",
+        "Ganxi",
+        "Kan-hsi"
+    ],
+    "name:zho_x_preferred":[
+        "Kan-ch\u2019i"
+    ],
+    "name:zho_x_variant":[
+        "\u4e7e\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673911
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"53c91bd965838125e53ca71905d81d6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344268641,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1344268641,
+    "wof:lastmodified":1537709004,
+    "wof:name":"Ganxi",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.74882,
+    24.96704,
+    121.74882,
+    24.96704
+],
+  "geometry": {"coordinates":[121.74881999999999,24.96704],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1293687005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.37211,23.11743,120.37211,23.11743",
+    "geom:latitude":23.11743,
+    "geom:longitude":120.37211,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R11",
+    "gn:admin4_code":"67000110006.0",
+    "gn:asciiname":"Houku",
+    "gn:country_code":"TW",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671447,
+    "gn:latitude":23.11743,
+    "gn:longitude":120.37211,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Houku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nei-kuo",
+        "Houku"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f8c\u5800"
+    ],
+    "name:zho_x_variant":[
+        "Nei-kuo-ts\u2019un",
+        "Hou-k\u2019u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671447
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bfc396a8f28b456fb947281458728e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293687005,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1293687005,
+    "wof:lastmodified":1537708843,
+    "wof:name":"Houku",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.37211,
+    23.11743,
+    120.37211,
+    23.11743
+],
+  "geometry": {"coordinates":[120.37211000000001,23.11743],"type":"Point"}
+}

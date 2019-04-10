@@ -1,0 +1,81 @@
+{
+  "id": 1243366925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.26889,22.84778,120.26889,22.84778",
+    "geom:latitude":22.84778,
+    "geom:longitude":120.26889,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E24",
+    "gn:admin4_code":"64000240016.0",
+    "gn:asciiname":"Yamuliao",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665639,
+    "gn:latitude":22.84778,
+    "gn:longitude":120.26889,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yamuliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ya-liao",
+        "Yamuliao",
+        "Ya-mu-liao"
+    ],
+    "name:zho_x_preferred":[
+        "Ya-liao-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u9d28\u6bcd\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665639
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e70cf6deca7d3cc14df5d75feabf35bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243366925,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1243366925,
+    "wof:lastmodified":1537708448,
+    "wof:name":"Yamuliao",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.26888999999998,
+    22.84778,
+    120.26888999999998,
+    22.84778
+],
+  "geometry": {"coordinates":[120.26888999999998,22.84778],"type":"Point"}
+}

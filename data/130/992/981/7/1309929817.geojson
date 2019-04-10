@@ -1,0 +1,76 @@
+{
+  "id": 1309929817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.46222,23.26528,120.46222,23.26528",
+    "geom:latitude":23.26528,
+    "geom:longitude":120.46222,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R06",
+    "gn:admin4_code":"67000060014.0",
+    "gn:asciiname":"Luliaobu",
+    "gn:country_code":"TW",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672532,
+    "gn:latitude":23.26528,
+    "gn:longitude":120.46222,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Luliaobu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lu-liao-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u9e7f\u5bee\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672532
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"245362f4df67600b6fc62a62a53259bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309929817,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1309929817,
+    "wof:lastmodified":1537708912,
+    "wof:name":"Luliaobu",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.46222,
+    23.26528,
+    120.46222,
+    23.26528
+],
+  "geometry": {"coordinates":[120.46222,23.26528],"type":"Point"}
+}

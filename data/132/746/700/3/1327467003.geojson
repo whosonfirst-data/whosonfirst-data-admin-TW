@@ -1,0 +1,83 @@
+{
+  "id": 1327467003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.41785,23.25317,121.41785,23.25317",
+    "geom:latitude":23.25317,
+    "geom:longitude":121.41785,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V08",
+    "gn:admin4_code":"10014080006.0",
+    "gn:asciiname":"Baisang'an",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670917,
+    "gn:latitude":23.25317,
+    "gn:longitude":121.41785,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Baisang\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pai-sang-an",
+        "\u767d\u6851\u5b89",
+        "Pa-sang-an"
+    ],
+    "name:zho_x_preferred":[
+        "Baisang\u2019an"
+    ],
+    "name:zho_x_variant":[
+        "\u767d\u6851\u5b89"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679623,
+        102191569,
+        85632403,
+        1108499511,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670917
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"891c4b46572a6f80232574640ae7bcd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327467003,
+            "macrocounty_id":1108499511,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1327467003,
+    "wof:lastmodified":1537708809,
+    "wof:name":"Baisang'an",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.41785,
+    23.25317,
+    121.41785,
+    23.25317
+],
+  "geometry": {"coordinates":[121.41785,23.25317],"type":"Point"}
+}

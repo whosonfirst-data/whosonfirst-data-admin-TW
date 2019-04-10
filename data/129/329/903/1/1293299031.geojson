@@ -1,0 +1,77 @@
+{
+  "id": 1293299031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.78644,25.12509,121.78644,25.12509",
+    "geom:latitude":25.12509,
+    "geom:longitude":121.78644,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"KEE",
+    "gn:admin3_code":"C07",
+    "gn:admin4_code":"10017070017.0",
+    "gn:asciiname":"Shen'aokeng",
+    "gn:country_code":"TW",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669572,
+    "gn:latitude":25.12509,
+    "gn:longitude":121.78644,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shen\u2019aokeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6df1\u6fb3\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Shen\u2019aokeng",
+        "Shen-ao-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669572
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4d7c03520aeaad7aa4080bbae4ba73eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293299031,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1293299031,
+    "wof:lastmodified":1537708718,
+    "wof:name":"Shen'aokeng",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.78643999999998,
+    25.12509,
+    121.78643999999998,
+    25.12509
+],
+  "geometry": {"coordinates":[121.78643999999998,25.12509],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1310601477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.56389,24.29028,120.56389,24.29028",
+    "geom:latitude":24.29028,
+    "geom:longitude":120.56389,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B12",
+    "gn:admin4_code":"66000120012.0",
+    "gn:asciiname":"Jiaqi",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6587575,
+    "gn:latitude":24.29028,
+    "gn:longitude":120.56389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiaqi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiaci",
+        "Jiaqi"
+    ],
+    "name:zho_x_preferred":[
+        "\u7532\u4e03"
+    ],
+    "name:zho_x_variant":[
+        "Chia-ch\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6587575
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"70f578c49c224732e41d751069037b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310601477,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1310601477,
+    "wof:lastmodified":1537709587,
+    "wof:name":"Jiaqi",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.56389,
+    24.29028,
+    120.56389,
+    24.29028
+],
+  "geometry": {"coordinates":[120.56389,24.29028],"type":"Point"}
+}

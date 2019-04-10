@@ -1,0 +1,85 @@
+{
+  "id": 1276585635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.37909,23.10294,121.37909,23.10294",
+    "geom:latitude":23.10294,
+    "geom:longitude":121.37909,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V02",
+    "gn:admin4_code":"10014020005.0",
+    "gn:asciiname":"Chenggong",
+    "gn:country_code":"TW",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678954,
+    "gn:latitude":23.10294,
+    "gn:longitude":121.37909,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Chenggong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-chiang",
+        "Hsin-kang",
+        "Chenggong"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019eng-kung-chen"
+    ],
+    "name:zho_x_variant":[
+        "\u6210\u529f",
+        "Ch\u2019eng-kung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679623,
+        102191569,
+        85632403,
+        1108499511,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678954,
+        "wk:page":"Chenggong,_Taitung"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"04c53304a4588bed4ff5a80c57c1db3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276585635,
+            "macrocounty_id":1108499511,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1276585635,
+    "wof:lastmodified":1537709402,
+    "wof:name":"Chenggong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.37909,
+    23.10294,
+    121.37909,
+    23.10294
+],
+  "geometry": {"coordinates":[121.37909000000001,23.10294],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209129895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.52392,23.42416,120.52392,23.42416",
+    "geom:latitude":23.42416,
+    "geom:longitude":120.52392,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q14",
+    "gn:admin4_code":"10010130001.0",
+    "gn:asciiname":"Zhongbu",
+    "gn:country_code":"TW",
+    "gn:dem":139,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677246,
+    "gn:latitude":23.42416,
+    "gn:longitude":120.52392,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhongbu",
+        "Zhongbu",
+        "Chung-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677246
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"85b06e17b599818cbeca75a680ee234f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209129895
+        }
+    ],
+    "wof:id":1209129895,
+    "wof:lastmodified":1537709277,
+    "wof:name":"Zhongbu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.52392,
+    23.42416,
+    120.52392,
+    23.42416
+],
+  "geometry": {"coordinates":[120.52392,23.42416],"type":"Point"}
+}

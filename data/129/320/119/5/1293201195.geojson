@@ -1,0 +1,76 @@
+{
+  "id": 1293201195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.33112,23.72793,121.33112,23.72793",
+    "geom:latitude":23.72793,
+    "geom:longitude":121.33112,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U12",
+    "gn:admin4_code":"10015120003.0",
+    "gn:asciiname":"Wangwu",
+    "gn:country_code":"TW",
+    "gn:dem":1708,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652610,
+    "gn:latitude":23.72793,
+    "gn:longitude":121.33112,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wangwu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wang-wu"
+    ],
+    "name:zho_x_preferred":[
+        "\u738b\u6b66"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652610
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9eff1ed0a8a93da988a936c1537b914c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293201195,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1293201195,
+    "wof:lastmodified":1537709827,
+    "wof:name":"Wangwu",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.33112,
+    23.72793,
+    121.33112,
+    23.72793
+],
+  "geometry": {"coordinates":[121.33112,23.72793],"type":"Point"}
+}

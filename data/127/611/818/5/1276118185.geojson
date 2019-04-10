@@ -1,0 +1,79 @@
+{
+  "id": 1276118185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5326,22.56199,120.5326,22.56199",
+    "geom:latitude":22.56199,
+    "geom:longitude":120.5326,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T02",
+    "gn:admin4_code":"10013020010.0",
+    "gn:asciiname":"Wukuiliao",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6754970,
+    "gn:latitude":22.56199,
+    "gn:longitude":120.5326,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wukuiliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wukueiliao"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e94\u9b41\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Wu-k\u2019uei-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6754970
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9803bb7e912e71432e7d6834d604d941",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276118185,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1276118185,
+    "wof:lastmodified":1537709971,
+    "wof:name":"Wukuiliao",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5326,
+    22.56199,
+    120.5326,
+    22.56199
+],
+  "geometry": {"coordinates":[120.5326,22.56199],"type":"Point"}
+}

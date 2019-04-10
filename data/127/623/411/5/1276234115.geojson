@@ -1,0 +1,76 @@
+{
+  "id": 1276234115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.70611,24.42333,120.70611,24.42333",
+    "geom:latitude":24.42333,
+    "geom:longitude":120.70611,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K02",
+    "gn:admin4_code":"10005020018.0",
+    "gn:asciiname":"Chuandihu",
+    "gn:country_code":"TW",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988394,
+    "gn:latitude":24.42333,
+    "gn:longitude":120.70611,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chuandihu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8239\u5e95\u6e56"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019uan-ti-hu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988394
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a26e930e792898e2937f4823d1f65625",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276234115,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1276234115,
+    "wof:lastmodified":1537709432,
+    "wof:name":"Chuandihu",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.70611,
+    24.42333,
+    120.70611,
+    24.42333
+],
+  "geometry": {"coordinates":[120.70611,24.42333],"type":"Point"}
+}

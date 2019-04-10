@@ -1,0 +1,81 @@
+{
+  "id": 1327035857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.65758,23.984,120.65758,23.984",
+    "geom:latitude":23.984,
+    "geom:longitude":120.65758,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M03",
+    "gn:admin4_code":"10008030014.0",
+    "gn:asciiname":"Beitoujiujie",
+    "gn:country_code":"TW",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677893,
+    "gn:latitude":23.984,
+    "gn:longitude":120.65758,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Beitoujiujie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beitoujioujie",
+        "Beitoujiujie",
+        "Chiu-chieh"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u6295\u820a\u8857"
+    ],
+    "name:zho_x_variant":[
+        "Pei-t\u2019ou-chiu-chieh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677893
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"78eef0e971d927c08bf06a391a401fea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327035857,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1327035857,
+    "wof:lastmodified":1537709332,
+    "wof:name":"Beitoujiujie",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.65758,
+    23.984,
+    120.65758,
+    23.984
+],
+  "geometry": {"coordinates":[120.65758,23.984],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1309803927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.58631,22.64647,120.58631,22.64647",
+    "geom:latitude":22.64647,
+    "geom:longitude":120.58631,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T13",
+    "gn:admin4_code":"10013130013.0",
+    "gn:asciiname":"Dongpian",
+    "gn:country_code":"TW",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666515,
+    "gn:latitude":22.64647,
+    "gn:longitude":120.58631,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongpian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-chin-hsin",
+        "Tung-p\u2019ien-hsin",
+        "\u6771\u7247",
+        "Dongpian",
+        "Hsin-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "Tung-p\u2019ien"
+    ],
+    "name:zho_x_variant":[
+        "Tung-p\u2019ien-ts\u2019un",
+        "\u6771\u7247"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666515
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c130a15077a325cf3754c0b5cd210119",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309803927,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1309803927,
+    "wof:lastmodified":1537708505,
+    "wof:name":"Dongpian",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.58631,
+    22.64647,
+    120.58631,
+    22.64647
+],
+  "geometry": {"coordinates":[120.58631,22.64647],"type":"Point"}
+}

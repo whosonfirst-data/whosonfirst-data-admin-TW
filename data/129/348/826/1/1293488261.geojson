@@ -1,0 +1,79 @@
+{
+  "id": 1293488261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.89317,24.43128,120.89317,24.43128",
+    "geom:latitude":24.43128,
+    "geom:longitude":120.89317,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K15",
+    "gn:admin4_code":"10005080003.0",
+    "gn:asciiname":"Xianglin",
+    "gn:country_code":"TW",
+    "gn:dem":404,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992387,
+    "gn:latitude":24.43128,
+    "gn:longitude":120.89317,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xianglin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sianglin",
+        "Hsiang-lin",
+        "\u9999\u6797",
+        "Xianglin"
+    ],
+    "name:zho_x_preferred":[
+        "\u9999\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992387
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6abf001c28cf646f9f5d3fbd6aadede1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293488261,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1293488261,
+    "wof:lastmodified":1537709457,
+    "wof:name":"Xianglin",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.89317,
+    24.43128,
+    120.89317,
+    24.43128
+],
+  "geometry": {"coordinates":[120.89317,24.43128],"type":"Point"}
+}

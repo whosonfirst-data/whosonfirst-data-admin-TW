@@ -1,0 +1,64 @@
+{
+  "id": 1276335203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.36667,22.35,121.36667,22.35",
+    "geom:latitude":22.35,
+    "geom:longitude":121.36667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Shanfucun",
+    "gn:country_code":"TW",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669845,
+    "gn:latitude":22.35,
+    "gn:longitude":121.36667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Shanfucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shan-fu-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669845
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"86cedaa054b1eae8c409e3d93bf36dc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276335203,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276335203,
+    "wof:lastmodified":1537708740,
+    "wof:name":"Shanfucun",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.36667,
+    22.35,
+    121.36667,
+    22.35
+],
+  "geometry": {"coordinates":[121.36667,22.35],"type":"Point"}
+}

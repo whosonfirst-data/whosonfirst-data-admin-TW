@@ -1,0 +1,79 @@
+{
+  "id": 1327237445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.18139,25.05666,121.18139,25.05666",
+    "geom:latitude":25.05666,
+    "geom:longitude":121.18139,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H06",
+    "gn:admin4_code":"68000060019.0",
+    "gn:asciiname":"Bianzitou",
+    "gn:country_code":"TW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646749,
+    "gn:latitude":25.05666,
+    "gn:longitude":121.18139,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bianzitou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bianzihtou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c74\u4ed4\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Pien-tzu-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646749
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0520947061bdbe4e2c2865e5c4ad3e33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327237445,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1327237445,
+    "wof:lastmodified":1537709744,
+    "wof:name":"Bianzitou",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.18139,
+    25.05666,
+    121.18139,
+    25.05666
+],
+  "geometry": {"coordinates":[121.18138999999999,25.05666],"type":"Point"}
+}

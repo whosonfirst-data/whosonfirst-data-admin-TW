@@ -1,0 +1,80 @@
+{
+  "id": 1276553533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.68778,23.5725,120.68778,23.5725",
+    "geom:latitude":23.5725,
+    "geom:longitude":120.68778,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q16",
+    "gn:admin4_code":"10010150015.0",
+    "gn:asciiname":"Riluotou",
+    "gn:country_code":"TW",
+    "gn:dem":617,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6579715,
+    "gn:latitude":23.5725,
+    "gn:longitude":120.68778,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Riluotou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rihluotou",
+        "Riluotou"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e5\u843d\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Jih-lo-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6579715
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"42da6155cd3d83e2c523a433a7c34478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276553533,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1276553533,
+    "wof:lastmodified":1537709544,
+    "wof:name":"Riluotou",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.68778,
+    23.5725,
+    120.68778,
+    23.5725
+],
+  "geometry": {"coordinates":[120.68778,23.5725],"type":"Point"}
+}

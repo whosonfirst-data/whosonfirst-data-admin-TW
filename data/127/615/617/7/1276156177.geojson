@@ -1,0 +1,79 @@
+{
+  "id": 1276156177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.82306,23.51139,120.82306,23.51139",
+    "geom:latitude":23.51139,
+    "geom:longitude":120.82306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M12",
+    "gn:admin4_code":"10008120010.0",
+    "gn:asciiname":"Zhushan",
+    "gn:country_code":"TW",
+    "gn:dem":2469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602964,
+    "gn:latitude":23.51139,
+    "gn:longitude":120.82306,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Zhushan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhushan",
+        "Zhushan",
+        "Chu-shan"
+    ],
+    "name:zho_x_preferred":[
+        "\u795d\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602964,
+        "wk:page":"Zhushan,_Nantou"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"762c66c6d42deb1748d2d59575143e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276156177,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1276156177,
+    "wof:lastmodified":1537709671,
+    "wof:name":"Zhushan",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.82306,
+    23.51139,
+    120.82306,
+    23.51139
+],
+  "geometry": {"coordinates":[120.82306,23.51139],"type":"Point"}
+}

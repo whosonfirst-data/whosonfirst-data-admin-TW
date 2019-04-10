@@ -1,0 +1,75 @@
+{
+  "id": 1310010055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.41667,24.45,118.41667,24.45",
+    "geom:latitude":24.45,
+    "geom:longitude":118.41667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W01",
+    "gn:admin4_code":"9020030002.0",
+    "gn:asciiname":"Changle",
+    "gn:country_code":"TW",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679116,
+    "gn:latitude":24.45,
+    "gn:longitude":118.41667,
+    "gn:modification_date":"2017-11-03",
+    "gn:name":"Changle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019ang-lo",
+        "Ch\u2019ang-le",
+        "Changle"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679116
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"938e526384f49cc9f4b9b54026704911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310010055,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1310010055,
+    "wof:lastmodified":1537709413,
+    "wof:name":"Changle",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.41667,
+    24.45,
+    118.41667,
+    24.45
+],
+  "geometry": {"coordinates":[118.41667,24.45],"type":"Point"}
+}

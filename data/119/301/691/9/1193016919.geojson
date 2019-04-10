@@ -1,0 +1,82 @@
+{
+  "id": 1193016919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.40689,23.12234,121.40689,23.12234",
+    "geom:latitude":23.12234,
+    "geom:longitude":121.40689,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V02",
+    "gn:admin4_code":"10014020003.0",
+    "gn:asciiname":"Sanxiantai",
+    "gn:country_code":"TW",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652438,
+    "gn:latitude":23.12234,
+    "gn:longitude":121.40689,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanxiantai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sansiantai",
+        "Sanxiantai"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u4ed9\u81fa"
+    ],
+    "name:zho_x_variant":[
+        "San-hsien-t\u2019ai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679623,
+        102191569,
+        85632403,
+        1108499511,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652438
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bb16d2a009a6950c0102a3053daf1f94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193016919,
+            "macrocounty_id":1108499511,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1193016919,
+    "wof:lastmodified":1537709824,
+    "wof:name":"Sanxiantai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.40689,
+    23.12234,
+    121.40689,
+    23.12234
+],
+  "geometry": {"coordinates":[121.40689,23.12234],"type":"Point"}
+}

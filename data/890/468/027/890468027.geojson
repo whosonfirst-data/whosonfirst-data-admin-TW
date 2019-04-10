@@ -1,0 +1,70 @@
+{
+  "id": 890468027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6637,22.887562,120.6637,22.887562",
+    "geom:latitude":22.887562,
+    "geom:longitude":120.6637,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u5927\u6d25\u6751",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u9ad8\u96c4\u5e02",
+    "qs:photos":41,
+    "qs:photos_1k":8,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":41,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":10459,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28754415,
+        "qs:id":1286158,
+        "wd:id":"Q6616953",
+        "wk:page":"List of dissolved districts in Japan"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053681,
+    "wof:geomhash":"3d2b3cc930d5de1a35f857cd84756db8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":890468027,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":890468027,
+    "wof:lastmodified":1527792969,
+    "wof:name":"\u5927\u6d25\u6751",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6637,
+    22.887562,
+    120.6637,
+    22.887562
+],
+  "geometry": {"coordinates":[120.66370000000001,22.887562],"type":"Point"}
+}

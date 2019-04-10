@@ -1,0 +1,78 @@
+{
+  "id": 1293316581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.85397,24.37185,120.85397,24.37185",
+    "geom:latitude":24.37185,
+    "geom:longitude":120.85397,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K15",
+    "gn:admin4_code":"10005080011.0",
+    "gn:asciiname":"Shuiliudong",
+    "gn:country_code":"TW",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668980,
+    "gn:latitude":24.37185,
+    "gn:longitude":120.85397,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuiliudong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shui-liu-tung",
+        "\u6c34\u6d41\u6771",
+        "Shueilioudong"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u6d41\u6771"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668980
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"807157e79662caf11cab1f0309cdad02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293316581,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1293316581,
+    "wof:lastmodified":1537708670,
+    "wof:name":"Shuiliudong",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.85397,
+    24.37185,
+    120.85397,
+    24.37185
+],
+  "geometry": {"coordinates":[120.85397,24.37185],"type":"Point"}
+}

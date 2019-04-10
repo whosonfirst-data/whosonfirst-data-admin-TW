@@ -1,0 +1,82 @@
+{
+  "id": 1293907529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.93897,23.89661,120.93897,23.89661",
+    "geom:latitude":23.89661,
+    "geom:longitude":120.93897,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M09",
+    "gn:admin4_code":"10008090002.0",
+    "gn:asciiname":"Yuchi",
+    "gn:country_code":"TW",
+    "gn:dem":652,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665360,
+    "gn:latitude":23.89661,
+    "gn:longitude":120.93897,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Yuchi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yuchih",
+        "Yuchi"
+    ],
+    "name:zho_x_preferred":[
+        "Y\u00fc-ch\u2019ih-hsiang"
+    ],
+    "name:zho_x_variant":[
+        "\u9b5a\u6c60",
+        "Y\u00fc-ch\u2019ih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665360,
+        "wk:page":"Yuchi,_Nantou"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0eefddf94bda0cdcbb25ec3a8778e7c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293907529,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1293907529,
+    "wof:lastmodified":1537708430,
+    "wof:name":"Yuchi",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.93897,
+    23.89661,
+    120.93897,
+    23.89661
+],
+  "geometry": {"coordinates":[120.93897,23.89661],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1293214745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.95,25.98333,119.95,25.98333",
+    "geom:latitude":25.98333,
+    "geom:longitude":119.95,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Caipuwo",
+    "gn:country_code":"TW",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666943,
+    "gn:latitude":25.98333,
+    "gn:longitude":119.95,
+    "gn:modification_date":"2010-10-08",
+    "gn:name":"Caipuwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ts\u2019ai-p\u2019u-wu",
+        "Ts\u2019ai-p\u2019u-wo",
+        "Caipuwo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666943
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8505fc612d3ec014bd3642b8fa6b4856",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1293214745,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293214745,
+    "wof:lastmodified":1537708531,
+    "wof:name":"Caipuwo",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.95,
+    25.98333,
+    119.95,
+    25.98333
+],
+  "geometry": {"coordinates":[119.95,25.98333],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293907469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.73694,24.47667,120.73694,24.47667",
+    "geom:latitude":24.47667,
+    "geom:longitude":120.73694,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K03",
+    "gn:admin4_code":"10005030005.0",
+    "gn:asciiname":"Guanzhenlin",
+    "gn:country_code":"TW",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665499,
+    "gn:latitude":24.47667,
+    "gn:longitude":120.73694,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Guanzhenlin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guanjhenlin",
+        "Ying-chen-lin",
+        "Guanzhenlin",
+        "Kuan-chen-lin"
+    ],
+    "name:zho_x_preferred":[
+        "\u7ba1\u771f\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665499
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"08de0763aa3b779d8f3620d98d243cda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293907469,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1293907469,
+    "wof:lastmodified":1537708439,
+    "wof:name":"Guanzhenlin",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.73694,
+    24.47667,
+    120.73694,
+    24.47667
+],
+  "geometry": {"coordinates":[120.73694,24.47667],"type":"Point"}
+}

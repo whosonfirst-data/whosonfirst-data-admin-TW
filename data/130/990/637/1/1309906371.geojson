@@ -1,0 +1,79 @@
+{
+  "id": 1309906371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.43549,23.10452,120.43549,23.10452",
+    "geom:latitude":23.10452,
+    "geom:longitude":120.43549,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R23",
+    "gn:admin4_code":"67000230008.0",
+    "gn:asciiname":"Mao'ergan",
+    "gn:country_code":"TW",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672166,
+    "gn:latitude":23.10452,
+    "gn:longitude":120.43549,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Mao\u2019ergan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mao-erh-kan"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c93\u5152\u5e72"
+    ],
+    "name:zho_x_variant":[
+        "Mao\u2019ergan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672166
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"28cbaacfac3fcef34c7557e52f40a455",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309906371,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1309906371,
+    "wof:lastmodified":1537708887,
+    "wof:name":"Mao'ergan",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.43549,
+    23.10452,
+    120.43549,
+    23.10452
+],
+  "geometry": {"coordinates":[120.43549,23.10452],"type":"Point"}
+}

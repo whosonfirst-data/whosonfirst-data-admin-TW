@@ -1,0 +1,88 @@
+{
+  "id": 1276156417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.38169,24.79273,121.38169,24.79273",
+    "geom:latitude":24.79273,
+    "geom:longitude":121.38169,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H13",
+    "gn:admin4_code":"68000130003.0",
+    "gn:asciiname":"Xiaowulai",
+    "gn:country_code":"TW",
+    "gn:dem":516,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665278,
+    "gn:latitude":24.79273,
+    "gn:longitude":121.38169,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaowulai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-nei",
+        "Y\u00fc-nei-she",
+        "Wu-lai",
+        "Wu-lai-she",
+        "Xiaowulai",
+        "Siaowulai",
+        "Hsiao-wu-lai"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019i-nei"
+    ],
+    "name:zho_x_variant":[
+        "I-sheng-ts\u2019un",
+        "\u5c0f\u70cf\u4f86",
+        "Y\u00fc-nei",
+        "Y\u00fc-nei-she"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665278
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"88c7bc81baa7a2883dc68e933f470298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276156417,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1276156417,
+    "wof:lastmodified":1537708425,
+    "wof:name":"Xiaowulai",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.38169,
+    24.79273,
+    121.38169,
+    24.79273
+],
+  "geometry": {"coordinates":[121.38169000000001,24.79273],"type":"Point"}
+}

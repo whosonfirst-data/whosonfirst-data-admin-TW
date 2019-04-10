@@ -1,0 +1,83 @@
+{
+  "id": 1293104639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8749,24.23558,120.8749,24.23558",
+    "geom:latitude":24.23558,
+    "geom:longitude":120.8749,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B10",
+    "gn:admin4_code":"66000100011.0",
+    "gn:asciiname":"Zhongkengping",
+    "gn:country_code":"TW",
+    "gn:dem":543,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677345,
+    "gn:latitude":24.23558,
+    "gn:longitude":120.8749,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongkengping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhongkengping",
+        "Zhongkengping"
+    ],
+    "name:zho_x_preferred":[
+        "Chung-k\u2019eng-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Chung-k\u2019eng-p\u2019in",
+        "\u4e2d\u5751\u576a",
+        "Chung-k\u2019eng",
+        "Chung-k\u2019eng-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677345
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e01c1f1250d7cb7fbfc44495b3683960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293104639,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1293104639,
+    "wof:lastmodified":1537709286,
+    "wof:name":"Zhongkengping",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8749,
+    24.23558,
+    120.8749,
+    24.23558
+],
+  "geometry": {"coordinates":[120.8749,24.23558],"type":"Point"}
+}

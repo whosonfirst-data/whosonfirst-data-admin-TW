@@ -1,0 +1,73 @@
+{
+  "id": 1209615835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.81116,24.40014,120.81116,24.40014",
+    "geom:latitude":24.40014,
+    "geom:longitude":120.81116,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K05",
+    "gn:admin4_code":"10005100010.0",
+    "gn:asciiname":"Dawo",
+    "gn:country_code":"TW",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667695,
+    "gn:latitude":24.40014,
+    "gn:longitude":120.81116,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dawo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-te",
+        "Dawo",
+        "Ta-wo",
+        "\u5927\u7aa9"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u7aa9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667695
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"70bba8756d3ffd197173e7a4f14f06d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209615835
+        }
+    ],
+    "wof:id":1209615835,
+    "wof:lastmodified":1537708586,
+    "wof:name":"Dawo",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.81116000000002,
+    24.40014,
+    120.81116000000002,
+    24.40014
+],
+  "geometry": {"coordinates":[120.81116000000002,24.40014],"type":"Point"}
+}

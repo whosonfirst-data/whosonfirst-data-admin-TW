@@ -1,0 +1,70 @@
+{
+  "id": 1209521453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.71667,23.5,120.71667,23.5",
+    "geom:latitude":23.5,
+    "geom:longitude":120.71667,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q16",
+    "gn:admin4_code":"10010150017.0",
+    "gn:asciiname":"Duoluoyan",
+    "gn:country_code":"TW",
+    "gn:dem":1804,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667071,
+    "gn:latitude":23.5,
+    "gn:longitude":120.71667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Duoluoyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-lo-yen",
+        "To-lo-ma",
+        "To-lo-yen",
+        "Duoluoyan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667071
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"160185537495d252e04549434ac5aeed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209521453
+        }
+    ],
+    "wof:id":1209521453,
+    "wof:lastmodified":1537708539,
+    "wof:name":"Duoluoyan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.71667,
+    23.5,
+    120.71667,
+    23.5
+],
+  "geometry": {"coordinates":[120.71666999999999,23.5],"type":"Point"}
+}

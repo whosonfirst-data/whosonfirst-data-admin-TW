@@ -1,0 +1,71 @@
+{
+  "id": 1209129983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.43023,23.53579,120.43023,23.53579",
+    "geom:latitude":23.53579,
+    "geom:longitude":120.43023,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q05",
+    "gn:admin4_code":"10010050019.0",
+    "gn:asciiname":"Shanjiaozi",
+    "gn:country_code":"TW",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6655058,
+    "gn:latitude":23.53579,
+    "gn:longitude":120.43023,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shanjiaozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shanjiaozih",
+        "Shan-chiao-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c71\u8173\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6655058
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"339bddad090f6a7b34fc576a84a8d4b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209129983
+        }
+    ],
+    "wof:id":1209129983,
+    "wof:lastmodified":1537709851,
+    "wof:name":"Shanjiaozi",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.43023,
+    23.53579,
+    120.43023,
+    23.53579
+],
+  "geometry": {"coordinates":[120.43022999999999,23.53579],"type":"Point"}
+}

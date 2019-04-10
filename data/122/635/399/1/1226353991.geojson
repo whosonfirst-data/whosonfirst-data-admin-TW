@@ -1,0 +1,76 @@
+{
+  "id": 1226353991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.96538,24.98738,121.96538,24.98738",
+    "geom:latitude":24.98738,
+    "geom:longitude":121.96538,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F24",
+    "gn:admin4_code":"65000260009.0",
+    "gn:asciiname":"Daku",
+    "gn:country_code":"TW",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668207,
+    "gn:latitude":24.98738,
+    "gn:longitude":121.96538,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Daku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u5800"
+    ],
+    "name:zho_x_variant":[
+        "Ta-k\u2019u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668207
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c2640d7c0eb4babcfae6deff3822f926",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226353991,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1226353991,
+    "wof:lastmodified":1537708615,
+    "wof:name":"Daku",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.96538,
+    24.98738,
+    121.96538,
+    24.98738
+],
+  "geometry": {"coordinates":[121.96538,24.98738],"type":"Point"}
+}

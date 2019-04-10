@@ -1,0 +1,81 @@
+{
+  "id": 1259903973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.71389,24.29972,120.71389,24.29972",
+    "geom:latitude":24.29972,
+    "geom:longitude":120.71389,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B15",
+    "gn:admin4_code":"66000150008.0",
+    "gn:asciiname":"Dunzijiao",
+    "gn:country_code":"TW",
+    "gn:dem":214,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666387,
+    "gn:latitude":24.29972,
+    "gn:longitude":120.71389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dunzijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dunzihjiao",
+        "Dunzijiao",
+        "Tun-tzu-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u58a9\u5b50\u811a"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019un-tzu-chiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666387
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"de5433067b86a146685d138bfe34e6f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259903973,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1259903973,
+    "wof:lastmodified":1537708497,
+    "wof:name":"Dunzijiao",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.71389,
+    24.29972,
+    120.71389,
+    24.29972
+],
+  "geometry": {"coordinates":[120.71389000000001,24.29972],"type":"Point"}
+}

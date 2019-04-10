@@ -1,0 +1,77 @@
+{
+  "id": 1343762479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.95695,23.98133,120.95695,23.98133",
+    "geom:latitude":23.98133,
+    "geom:longitude":120.95695,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M02",
+    "gn:admin4_code":"10008020009.0",
+    "gn:asciiname":"Lancheng",
+    "gn:country_code":"TW",
+    "gn:dem":437,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672822,
+    "gn:latitude":23.98133,
+    "gn:longitude":120.95695,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lancheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7c43\u57ce"
+    ],
+    "name:zho_x_variant":[
+        "Lin-tzu-ch\u2019eng",
+        "Lan-ch\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672822
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"53c686038c6de4b8bb2ba58aba861a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343762479,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1343762479,
+    "wof:lastmodified":1537708931,
+    "wof:name":"Lancheng",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.95695,
+    23.98133,
+    120.95695,
+    23.98133
+],
+  "geometry": {"coordinates":[120.95695000000001,23.98133],"type":"Point"}
+}

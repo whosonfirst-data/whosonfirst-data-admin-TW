@@ -1,0 +1,70 @@
+{
+  "id": 1209521527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.51667,23.51056,120.51667,23.51056",
+    "geom:latitude":23.51056,
+    "geom:longitude":120.51667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q15",
+    "gn:admin4_code":"10010140007.0",
+    "gn:asciiname":"Neikeng",
+    "gn:country_code":"TW",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6579809,
+    "gn:latitude":23.51056,
+    "gn:longitude":120.51667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Neikeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5167\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Nei-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6579809
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1555b2afbacbe8dd1748bd229cf85f50",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209521527
+        }
+    ],
+    "wof:id":1209521527,
+    "wof:lastmodified":1537709550,
+    "wof:name":"Neikeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.51667,
+    23.51056,
+    120.51667,
+    23.51056
+],
+  "geometry": {"coordinates":[120.51667,23.51056],"type":"Point"}
+}

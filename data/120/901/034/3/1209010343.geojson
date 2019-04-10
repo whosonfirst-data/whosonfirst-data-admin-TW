@@ -1,0 +1,74 @@
+{
+  "id": 1209010343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.70444,21.9975,120.70444,21.9975",
+    "geom:latitude":21.9975,
+    "geom:longitude":120.70444,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T04",
+    "gn:admin4_code":"10013040012.0",
+    "gn:asciiname":"Wanlitong",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666142,
+    "gn:latitude":21.9975,
+    "gn:longitude":120.70444,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wanlitong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wang-li-tung",
+        "Wanlitong"
+    ],
+    "name:zho_x_preferred":[
+        "\u842c\u91cc\u6850"
+    ],
+    "name:zho_x_variant":[
+        "Wan-li-t\u2019ung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666142
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"245285759201e4f9ac969b4ee7dca303",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209010343
+        }
+    ],
+    "wof:id":1209010343,
+    "wof:lastmodified":1537708482,
+    "wof:name":"Wanlitong",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.70444,
+    21.9975,
+    120.70444,
+    21.9975
+],
+  "geometry": {"coordinates":[120.70444000000001,21.9975],"type":"Point"}
+}

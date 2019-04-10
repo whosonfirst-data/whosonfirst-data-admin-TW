@@ -1,0 +1,73 @@
+{
+  "id": 1209112309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.74448,24.02974,120.74448,24.02974",
+    "geom:latitude":24.02974,
+    "geom:longitude":120.74448,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B26",
+    "gn:admin4_code":"66000260016.0",
+    "gn:asciiname":"Chilanhu",
+    "gn:country_code":"TW",
+    "gn:dem":241,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678362,
+    "gn:latitude":24.02974,
+    "gn:longitude":120.74448,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chilanhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u8d64\u862d\u6e56",
+        "Chilanhu",
+        "Chihlanhu",
+        "Ch\u2019ih-lan-hu"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019ih-lan-hu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678362
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0cb665cb240e8b9d2631e679823c161e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209112309
+        }
+    ],
+    "wof:id":1209112309,
+    "wof:lastmodified":1537709362,
+    "wof:name":"Chilanhu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.74448,
+    24.02974,
+    120.74448,
+    24.02974
+],
+  "geometry": {"coordinates":[120.74448,24.02974],"type":"Point"}
+}

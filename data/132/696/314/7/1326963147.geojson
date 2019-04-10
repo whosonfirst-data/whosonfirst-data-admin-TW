@@ -1,0 +1,79 @@
+{
+  "id": 1326963147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.13917,24.9675,121.13917,24.9675",
+    "geom:latitude":24.9675,
+    "geom:longitude":121.13917,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H11",
+    "gn:admin4_code":"68000110005.0",
+    "gn:asciiname":"Shangqingbu",
+    "gn:country_code":"TW",
+    "gn:dem":112,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669839,
+    "gn:latitude":24.9675,
+    "gn:longitude":121.13917,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangqingbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangcingbu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u9752\u57d4"
+    ],
+    "name:zho_x_variant":[
+        "Shang-ch\u2019ing-pu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669839
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6a9f8541b1db7923b21e14b77aaa31ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326963147,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1326963147,
+    "wof:lastmodified":1537708739,
+    "wof:name":"Shangqingbu",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.13917,
+    24.9675,
+    121.13917,
+    24.9675
+],
+  "geometry": {"coordinates":[121.13916999999999,24.9675],"type":"Point"}
+}

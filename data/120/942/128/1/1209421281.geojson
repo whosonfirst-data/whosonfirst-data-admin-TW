@@ -1,0 +1,75 @@
+{
+  "id": 1209421281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5356,23.8494,120.5356,23.8494",
+    "geom:latitude":23.8494,
+    "geom:longitude":120.5356,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N26",
+    "gn:admin4_code":"10007260009.0",
+    "gn:asciiname":"Xipan",
+    "gn:country_code":"TW",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674757,
+    "gn:latitude":23.8494,
+    "gn:longitude":120.5356,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xipan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sipan",
+        "Xipan"
+    ],
+    "name:zho_x_preferred":[
+        "Hsi-pan-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u897f\u7554",
+        "Hsi-p\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674757
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"61e6f673afe23b36ea60eb918e8927b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209421281
+        }
+    ],
+    "wof:id":1209421281,
+    "wof:lastmodified":1537709068,
+    "wof:name":"Xipan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5356,
+    23.8494,
+    120.5356,
+    23.8494
+],
+  "geometry": {"coordinates":[120.5356,23.8494],"type":"Point"}
+}

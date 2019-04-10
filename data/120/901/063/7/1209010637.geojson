@@ -1,0 +1,72 @@
+{
+  "id": 1209010637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.41952,23.95587,120.41952,23.95587",
+    "geom:latitude":23.95587,
+    "geom:longitude":120.41952,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N08",
+    "gn:admin4_code":"10007200015.0",
+    "gn:asciiname":"Wanxing",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666159,
+    "gn:latitude":23.95587,
+    "gn:longitude":120.41952,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wanxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wansing",
+        "Wanxing",
+        "Wan-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u842c\u8208"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666159
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"06c5311e7f2b4fb441448a39d0ea5b51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209010637
+        }
+    ],
+    "wof:id":1209010637,
+    "wof:lastmodified":1537708482,
+    "wof:name":"Wanxing",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.41952,
+    23.95587,
+    120.41952,
+    23.95587
+],
+  "geometry": {"coordinates":[120.41952000000001,23.95587],"type":"Point"}
+}

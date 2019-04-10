@@ -1,0 +1,82 @@
+{
+  "id": 1344263009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.50931,23.58449,119.50931,23.58449",
+    "geom:latitude":23.58449,
+    "geom:longitude":119.50931,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PEN",
+    "gn:admin3_code":"X04",
+    "gn:admin4_code":"10016040009.0",
+    "gn:asciiname":"Baimatan",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7501036,
+    "gn:latitude":23.58449,
+    "gn:longitude":119.50931,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Baimatan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u767d\u99ac\u7058",
+        "Baimatan"
+    ],
+    "name:zho_x_preferred":[
+        "Pai-ma-t\u2019an"
+    ],
+    "name:zho_x_variant":[
+        "\u767d\u99ac\u7058"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679627,
+        102191569,
+        85632403,
+        1108500085,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7501036
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8e0b0c069fac02e06104d60116901e59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344263009,
+            "macrocounty_id":1108500085,
+            "macroregion_id":1108808557,
+            "region_id":85679627
+        }
+    ],
+    "wof:id":1344263009,
+    "wof:lastmodified":1537709974,
+    "wof:name":"Baimatan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.50931,
+    23.58449,
+    119.50931,
+    23.58449
+],
+  "geometry": {"coordinates":[119.50931,23.58449],"type":"Point"}
+}

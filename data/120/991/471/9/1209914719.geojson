@@ -1,0 +1,76 @@
+{
+  "id": 1209914719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.66681,25.09573,121.66681,25.09573",
+    "geom:latitude":25.09573,
+    "geom:longitude":121.66681,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"KEE",
+    "gn:admin3_code":"C02",
+    "gn:admin4_code":"10017020015.0",
+    "gn:asciiname":"Yuanyangtan",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6728989,
+    "gn:latitude":25.09573,
+    "gn:longitude":121.66681,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yuanyangtan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9d1b\u9d26\u6f6d"
+    ],
+    "name:zho_x_variant":[
+        "Y\u00fcan-yang-t\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679571,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6728989
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b597909cbed3576a992adb4664be2aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209914719,
+            "macroregion_id":1108808557,
+            "region_id":85679571
+        }
+    ],
+    "wof:id":1209914719,
+    "wof:lastmodified":1537709912,
+    "wof:name":"Yuanyangtan",
+    "wof:parent_id":85679571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.66681,
+    25.09573,
+    121.66681,
+    25.09573
+],
+  "geometry": {"coordinates":[121.66681,25.09573],"type":"Point"}
+}

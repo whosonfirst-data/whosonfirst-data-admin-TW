@@ -1,0 +1,76 @@
+{
+  "id": 1310707897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.42123,23.14081,120.42123,23.14081",
+    "geom:latitude":23.14081,
+    "geom:longitude":120.42123,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R11",
+    "gn:admin4_code":"67000110008.0",
+    "gn:asciiname":"Koulin",
+    "gn:country_code":"TW",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673634,
+    "gn:latitude":23.14081,
+    "gn:longitude":120.42123,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Koulin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u53e3\u6797"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019ou-lin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673634
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b4869cd9445a275b1e0f1459991febe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310707897,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1310707897,
+    "wof:lastmodified":1537708983,
+    "wof:name":"Koulin",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.42123,
+    23.14081,
+    120.42123,
+    23.14081
+],
+  "geometry": {"coordinates":[120.42122999999999,23.14081],"type":"Point"}
+}

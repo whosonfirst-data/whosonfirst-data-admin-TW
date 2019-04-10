@@ -1,0 +1,80 @@
+{
+  "id": 1326463413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47528,23.44361,120.47528,23.44361",
+    "geom:latitude":23.44361,
+    "geom:longitude":120.47528,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q14",
+    "gn:admin4_code":"10010130006.0",
+    "gn:asciiname":"Xinghuabu",
+    "gn:country_code":"TW",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676161,
+    "gn:latitude":23.44361,
+    "gn:longitude":120.47528,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinghuabu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kung-kuan",
+        "Xinghuabu",
+        "Ho-mu",
+        "Singhuabu",
+        "Hsing-hua-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u8208\u5316\u5ecd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676161
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"507f1127313cdd62c4965ff3b90feb1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326463413,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1326463413,
+    "wof:lastmodified":1537709194,
+    "wof:name":"Xinghuabu",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47528,
+    23.44361,
+    120.47528,
+    23.44361
+],
+  "geometry": {"coordinates":[120.47528,23.44361],"type":"Point"}
+}

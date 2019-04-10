@@ -1,0 +1,76 @@
+{
+  "id": 1259707957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.56118,25.14796,121.56118,25.14796",
+    "geom:latitude":25.14796,
+    "geom:longitude":121.56118,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A15",
+    "gn:admin4_code":"63000110047.0",
+    "gn:asciiname":"Touhu",
+    "gn:country_code":"TW",
+    "gn:dem":522,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667020,
+    "gn:latitude":25.14796,
+    "gn:longitude":121.56118,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Touhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u982d\u6e56"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ou-hu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667020
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"204d0a7617c3586636734e4585799516",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259707957,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1259707957,
+    "wof:lastmodified":1537708536,
+    "wof:name":"Touhu",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.56118,
+    25.14796,
+    121.56118,
+    25.14796
+],
+  "geometry": {"coordinates":[121.56117999999999,25.14796],"type":"Point"}
+}

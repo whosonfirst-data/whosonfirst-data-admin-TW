@@ -1,0 +1,80 @@
+{
+  "id": 1309804063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60806,23.71694,120.60806,23.71694",
+    "geom:latitude":23.71694,
+    "geom:longitude":120.60806,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P01",
+    "gn:admin4_code":"10009010025.0",
+    "gn:asciiname":"Fengshuhu",
+    "gn:country_code":"TW",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666436,
+    "gn:latitude":23.71694,
+    "gn:longitude":120.60806,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fengshuhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fongshuhu",
+        "Feng-shu-hu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6953\u6a39\u6e56"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ung-shu-hu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666436
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3590499f974e41401e5b42b87b446c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309804063,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1309804063,
+    "wof:lastmodified":1537708500,
+    "wof:name":"Fengshuhu",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60806,
+    23.71694,
+    120.60806,
+    23.71694
+],
+  "geometry": {"coordinates":[120.60805999999999,23.71694],"type":"Point"}
+}

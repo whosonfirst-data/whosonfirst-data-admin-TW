@@ -1,0 +1,70 @@
+{
+  "id": 1209539717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.56778,23.54028,120.56778,23.54028",
+    "geom:latitude":23.54028,
+    "geom:longitude":120.56778,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q15",
+    "gn:admin4_code":"10010140020.0",
+    "gn:asciiname":"Jiarenshan",
+    "gn:country_code":"TW",
+    "gn:dem":291,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678830,
+    "gn:latitude":23.54028,
+    "gn:longitude":120.56778,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiarenshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chia-jen-shan"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f73\u4eba\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678830
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"46ec7fd7fa23e9f4e170273b163571d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209539717
+        }
+    ],
+    "wof:id":1209539717,
+    "wof:lastmodified":1537709393,
+    "wof:name":"Jiarenshan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.56778,
+    23.54028,
+    120.56778,
+    23.54028
+],
+  "geometry": {"coordinates":[120.56778,23.54028],"type":"Point"}
+}

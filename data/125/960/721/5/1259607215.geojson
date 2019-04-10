@@ -1,0 +1,76 @@
+{
+  "id": 1259607215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.85465,23.8014,120.85465,23.8014",
+    "geom:latitude":23.8014,
+    "geom:longitude":120.85465,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M11",
+    "gn:admin4_code":"10008110008.0",
+    "gn:asciiname":"Hongmeitian",
+    "gn:country_code":"TW",
+    "gn:dem":285,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649254,
+    "gn:latitude":23.8014,
+    "gn:longitude":120.85465,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hongmeitian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7d05\u7f8e\u7530"
+    ],
+    "name:zho_x_variant":[
+        "Hung-mei-t\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649254
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a65e2400a4bcfc437006182b9e05c6d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259607215,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1259607215,
+    "wof:lastmodified":1537709785,
+    "wof:name":"Hongmeitian",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.85465,
+    23.8014,
+    120.85465,
+    23.8014
+],
+  "geometry": {"coordinates":[120.85465000000001,23.8014],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226449975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.41715,24.96127,121.41715,24.96127",
+    "geom:latitude":24.96127,
+    "geom:longitude":121.41715,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F19",
+    "gn:admin4_code":"65000130022.0",
+    "gn:asciiname":"Dingbu",
+    "gn:country_code":"TW",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667150,
+    "gn:latitude":24.96127,
+    "gn:longitude":121.41715,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ting-pu"
+    ],
+    "name:zho_x_preferred":[
+        "Ting-pu-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u9802\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667150
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ac59849d5a0a9ba753ace4dab2462c18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226449975,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1226449975,
+    "wof:lastmodified":1537708545,
+    "wof:name":"Dingbu",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.41715,
+    24.96127000000001,
+    121.41715,
+    24.96127000000001
+],
+  "geometry": {"coordinates":[121.41715000000001,24.96127000000001],"type":"Point"}
+}

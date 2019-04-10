@@ -1,0 +1,77 @@
+{
+  "id": 1259903977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.14889,24.03222,121.14889,24.03222",
+    "geom:latitude":24.03222,
+    "geom:longitude":121.14889,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M13",
+    "gn:admin4_code":"10008130011.0",
+    "gn:asciiname":"Chunyang",
+    "gn:country_code":"TW",
+    "gn:dem":1401,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677115,
+    "gn:latitude":24.03222,
+    "gn:longitude":121.14889,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chunyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Ch\u2019un-yang-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u6625\u967d",
+        "Ch\u2019un-yang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677115
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"52ca0479b6fc4975949d4a71ca2d4e6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259903977,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1259903977,
+    "wof:lastmodified":1537709264,
+    "wof:name":"Chunyang",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.14889,
+    24.03222,
+    121.14889,
+    24.03222
+],
+  "geometry": {"coordinates":[121.14888999999999,24.03222],"type":"Point"}
+}

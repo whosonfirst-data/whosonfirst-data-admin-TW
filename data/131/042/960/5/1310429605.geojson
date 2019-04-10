@@ -1,0 +1,82 @@
+{
+  "id": 1310429605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47861,23.55553,120.47861,23.55553",
+    "geom:latitude":23.55553,
+    "geom:longitude":120.47861,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q05",
+    "gn:admin4_code":"10010050013.0",
+    "gn:asciiname":"Sanxing",
+    "gn:country_code":"TW",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670092,
+    "gn:latitude":23.55553,
+    "gn:longitude":120.47861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sansing",
+        "Sanxing",
+        "San-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019en-ts\u2019o-liao"
+    ],
+    "name:zho_x_variant":[
+        "San-hsing-ts\u2019un",
+        "\u4e09\u8208"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670092
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5df2077382e6002336df422dfb72bc52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310429605,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1310429605,
+    "wof:lastmodified":1537708758,
+    "wof:name":"Sanxing",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47861,
+    23.55553,
+    120.47861,
+    23.55553
+],
+  "geometry": {"coordinates":[120.47861,23.55553],"type":"Point"}
+}

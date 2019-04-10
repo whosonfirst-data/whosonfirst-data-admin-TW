@@ -1,0 +1,75 @@
+{
+  "id": 1343962075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.23799,24.4238,118.23799,24.4238",
+    "geom:latitude":24.4238,
+    "geom:longitude":118.23799,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W05",
+    "gn:admin4_code":"9020050002.0",
+    "gn:asciiname":"Nantang",
+    "gn:country_code":"TW",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6730409,
+    "gn:latitude":24.4238,
+    "gn:longitude":118.23799,
+    "gn:modification_date":"2017-11-03",
+    "gn:name":"Nantang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5357\u5858",
+        "Nan-t\u2019ang",
+        "Nantang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6730409
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4430e0619a4950589104bc3917985938",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343962075,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1343962075,
+    "wof:lastmodified":1537709919,
+    "wof:name":"Nantang",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.23799,
+    24.4238,
+    118.23799,
+    24.4238
+],
+  "geometry": {"coordinates":[118.23799,24.4238],"type":"Point"}
+}

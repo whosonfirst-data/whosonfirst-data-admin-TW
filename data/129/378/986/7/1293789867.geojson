@@ -1,0 +1,76 @@
+{
+  "id": 1293789867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8641,24.67688,120.8641,24.67688",
+    "geom:latitude":24.67688,
+    "geom:longitude":120.8641,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040016.0",
+    "gn:asciiname":"Haikou",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676331,
+    "gn:latitude":24.67688,
+    "gn:longitude":120.8641,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Haikou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6d77\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "Hai-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676331
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"eac7a0351b576fc7f4f46ad15aaa9865",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293789867,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1293789867,
+    "wof:lastmodified":1537709205,
+    "wof:name":"Haikou",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8641,
+    24.67688,
+    120.8641,
+    24.67688
+],
+  "geometry": {"coordinates":[120.86409999999999,24.67688],"type":"Point"}
+}

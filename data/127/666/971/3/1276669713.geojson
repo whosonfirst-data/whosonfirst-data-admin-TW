@@ -1,0 +1,79 @@
+{
+  "id": 1276669713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.65528,24.91869,121.65528,24.91869",
+    "geom:latitude":24.91869,
+    "geom:longitude":121.65528,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F08",
+    "gn:admin4_code":"65000190011.0",
+    "gn:asciiname":"Shikongzi",
+    "gn:country_code":"TW",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669385,
+    "gn:latitude":24.91869,
+    "gn:longitude":121.65528,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shikongzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihkongzih"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u787f\u5b50"
+    ],
+    "name:zho_x_variant":[
+        "Shih-k\u2019ung-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669385
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7e59d39641a6f0c21914b2638c9d75c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276669713,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1276669713,
+    "wof:lastmodified":1537708701,
+    "wof:name":"Shikongzi",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.65528,
+    24.91869,
+    121.65528,
+    24.91869
+],
+  "geometry": {"coordinates":[121.65528,24.91869],"type":"Point"}
+}

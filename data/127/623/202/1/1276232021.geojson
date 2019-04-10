@@ -1,0 +1,66 @@
+{
+  "id": 1276232021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.93333,25.96667,119.93333,25.96667",
+    "geom:latitude":25.96667,
+    "geom:longitude":119.93333,
+    "gn:admin1_code":"1.0",
+    "gn:asciiname":"Jingfancun",
+    "gn:country_code":"TW",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678173,
+    "gn:latitude":25.96667,
+    "gn:longitude":119.93333,
+    "gn:modification_date":"2010-10-08",
+    "gn:name":"Jingfancun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019ing-fan-wu",
+        "Ching-fan-ts\u2019un",
+        "Jingfancun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678173
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"42de53301088f2de13f69d30de61c1ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276232021,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276232021,
+    "wof:lastmodified":1537709351,
+    "wof:name":"Jingfancun",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.93333,
+    25.96667,
+    119.93333,
+    25.96667
+],
+  "geometry": {"coordinates":[119.93333,25.96667],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243555277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60054,24.04345,120.60054,24.04345",
+    "geom:latitude":24.04345,
+    "geom:longitude":120.60054,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N01",
+    "gn:admin4_code":"10007010067.0",
+    "gn:asciiname":"Tulonggouwan",
+    "gn:country_code":"TW",
+    "gn:dem":148,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993511,
+    "gn:latitude":24.04345,
+    "gn:longitude":120.60054,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tulonggouwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019u-lung-kou-wan"
+    ],
+    "name:zho_x_preferred":[
+        "\u571f\u9f8d\u6e9d\u7063"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019u-lung-kou-wan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993511
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d028bc40eeb22f4e2bb87d9a2fcaaa1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243555277,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1243555277,
+    "wof:lastmodified":1537709483,
+    "wof:name":"Tulonggouwan",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60054,
+    24.04345,
+    120.60054,
+    24.04345
+],
+  "geometry": {"coordinates":[120.60054,24.04345],"type":"Point"}
+}

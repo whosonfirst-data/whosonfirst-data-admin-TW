@@ -1,0 +1,80 @@
+{
+  "id": 1242874603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7467,23.9938,120.7467,23.9938",
+    "geom:latitude":23.9938,
+    "geom:longitude":120.7467,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M03",
+    "gn:admin4_code":"10008030023.0",
+    "gn:asciiname":"Zhentou",
+    "gn:country_code":"TW",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650129,
+    "gn:latitude":23.9938,
+    "gn:longitude":120.7467,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhentou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhentou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5733\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u00fcn-t\u2019ou",
+        "Chen-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650129
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fe223e4bf0d33af603d218aae5214992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242874603,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1242874603,
+    "wof:lastmodified":1537709795,
+    "wof:name":"Zhentou",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7467,
+    23.9938,
+    120.7467,
+    23.9938
+],
+  "geometry": {"coordinates":[120.7467,23.9938],"type":"Point"}
+}

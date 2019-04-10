@@ -1,0 +1,76 @@
+{
+  "id": 1343471779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.42861,22.78139,120.42861,22.78139",
+    "geom:latitude":22.78139,
+    "geom:longitude":120.42861,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E21",
+    "gn:admin4_code":"64000210011.0",
+    "gn:asciiname":"Machang",
+    "gn:country_code":"TW",
+    "gn:dem":136,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672280,
+    "gn:latitude":22.78139,
+    "gn:longitude":120.42861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Machang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u99ac\u5834"
+    ],
+    "name:zho_x_variant":[
+        "Ma-ch\u2019ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672280
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1695a50a5844e90945cb480e34ece3cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343471779,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1343471779,
+    "wof:lastmodified":1537708893,
+    "wof:name":"Machang",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.42861,
+    22.78139,
+    120.42861,
+    22.78139
+],
+  "geometry": {"coordinates":[120.42861000000001,22.78139],"type":"Point"}
+}

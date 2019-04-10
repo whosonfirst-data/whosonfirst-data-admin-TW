@@ -1,0 +1,82 @@
+{
+  "id": 1326463201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.60619,24.68233,121.60619,24.68233",
+    "geom:latitude":24.68233,
+    "geom:longitude":121.60619,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G11",
+    "gn:admin4_code":"10002110002.0",
+    "gn:asciiname":"Lunpizi",
+    "gn:country_code":"TW",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672378,
+    "gn:latitude":24.68233,
+    "gn:longitude":121.60619,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lunpizi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lunpizih",
+        "Lunpizi"
+    ],
+    "name:zho_x_preferred":[
+        "Lun-p\u2019i-she"
+    ],
+    "name:zho_x_variant":[
+        "\u5d19\u57e4\u4ed4",
+        "Lun-p\u2019i",
+        "Lun-p\u2019i-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672378
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d6c1e26c13cfefb31b0f1adcf1f3cfbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326463201,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1326463201,
+    "wof:lastmodified":1537708901,
+    "wof:name":"Lunpizi",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.60618999999998,
+    24.68233,
+    121.60618999999998,
+    24.68233
+],
+  "geometry": {"coordinates":[121.60618999999998,24.68233],"type":"Point"}
+}

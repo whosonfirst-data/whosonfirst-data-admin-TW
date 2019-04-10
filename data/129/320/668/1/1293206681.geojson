@@ -1,0 +1,79 @@
+{
+  "id": 1293206681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.93304,23.94178,120.93304,23.94178",
+    "geom:latitude":23.94178,
+    "geom:longitude":120.93304,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M02",
+    "gn:admin4_code":"10008020015.0",
+    "gn:asciiname":"Zhiliaokeng",
+    "gn:country_code":"TW",
+    "gn:dem":480,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649123,
+    "gn:latitude":23.94178,
+    "gn:longitude":120.93304,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhiliaokeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhihliaokeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d19\u5bee\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Chih-liao-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649123
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2890a4952a6be252fd0846c1d5e8cb90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293206681,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1293206681,
+    "wof:lastmodified":1537709777,
+    "wof:name":"Zhiliaokeng",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.93304,
+    23.94178,
+    120.93304,
+    23.94178
+],
+  "geometry": {"coordinates":[120.93304000000001,23.94178],"type":"Point"}
+}

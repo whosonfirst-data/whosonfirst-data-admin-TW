@@ -1,0 +1,76 @@
+{
+  "id": 1209639459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.50556,22.81111,120.50556,22.81111",
+    "geom:latitude":22.81111,
+    "geom:longitude":120.50556,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T09",
+    "gn:admin4_code":"10013090012.0",
+    "gn:asciiname":"Sanzhangpou",
+    "gn:country_code":"TW",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677184,
+    "gn:latitude":22.81111,
+    "gn:longitude":120.50556,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanzhangpou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanjhangpou",
+        "Chung-wan-chia",
+        "Sanzhangpou",
+        "San-chang-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u5f35\u5ecd"
+    ],
+    "name:zho_x_variant":[
+        "San-chang-p\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677184
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6be40c2f7c6b4f0b64dd2a85a9c3af51",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209639459
+        }
+    ],
+    "wof:id":1209639459,
+    "wof:lastmodified":1537709272,
+    "wof:name":"Sanzhangpou",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.50556,
+    22.81111,
+    120.50556,
+    22.81111
+],
+  "geometry": {"coordinates":[120.50556,22.81111],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1210040485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.83696,24.57817,120.83696,24.57817",
+    "geom:latitude":24.57817,
+    "geom:longitude":120.83696,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K01",
+    "gn:admin4_code":"10005010018.0",
+    "gn:asciiname":"Jiasheng",
+    "gn:country_code":"TW",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678649,
+    "gn:latitude":24.57817,
+    "gn:longitude":120.83696,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiasheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chia-sheng-li",
+        "Jiasheng",
+        "Chia-sheng"
+    ],
+    "name:zho_x_preferred":[
+        "\u5609\u76db"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678649
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"870cdccbb1f5bbb9d37fdc7d045784db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1210040485,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1210040485,
+    "wof:lastmodified":1537709381,
+    "wof:name":"Jiasheng",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.83696,
+    24.57817,
+    120.83696,
+    24.57817
+],
+  "geometry": {"coordinates":[120.83696,24.57817],"type":"Point"}
+}

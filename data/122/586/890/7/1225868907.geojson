@@ -1,0 +1,87 @@
+{
+  "id": 1225868907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.46364,23.34188,121.46364,23.34188",
+    "geom:latitude":23.34188,
+    "geom:longitude":121.46364,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V08",
+    "gn:admin4_code":"10014080002.0",
+    "gn:asciiname":"Zhenbing",
+    "gn:country_code":"TW",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670165,
+    "gn:latitude":23.34188,
+    "gn:longitude":121.46364,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhenbing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chen-ping",
+        "Ma-chia-hai",
+        "\u771f\u67c4",
+        "San-chien",
+        "Zhenbing",
+        "Jhenbing"
+    ],
+    "name:zho_x_preferred":[
+        "San-chen-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "San-chien-ts\u2019un",
+        "\u771f\u67c4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679623,
+        102191569,
+        85632403,
+        1108499511,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670165
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"610d2db582ab2f76913288df2371d5e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225868907,
+            "macrocounty_id":1108499511,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1225868907,
+    "wof:lastmodified":1537708763,
+    "wof:name":"Zhenbing",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.46363999999998,
+    23.34188,
+    121.46363999999998,
+    23.34188
+],
+  "geometry": {"coordinates":[121.46363999999998,23.34188],"type":"Point"}
+}

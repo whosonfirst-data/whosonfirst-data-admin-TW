@@ -1,0 +1,64 @@
+{
+  "id": 1209721587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5,22.06667,121.5,22.06667",
+    "geom:latitude":22.06667,
+    "geom:longitude":121.5,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Dingxingnongzhuang",
+    "gn:country_code":"TW",
+    "gn:dem":1,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667236,
+    "gn:latitude":22.06667,
+    "gn:longitude":121.5,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Dingxingnongzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ting-hsing-nung-chuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667236
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5e351e6b55c518a238cba3590a07dfe4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1209721587,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1209721587,
+    "wof:lastmodified":1537708552,
+    "wof:name":"Dingxingnongzhuang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5,
+    22.06667,
+    121.5,
+    22.06667
+],
+  "geometry": {"coordinates":[121.5,22.06667],"type":"Point"}
+}

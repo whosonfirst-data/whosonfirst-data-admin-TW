@@ -1,0 +1,81 @@
+{
+  "id": 1276663715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.52259,25.09071,121.52259,25.09071",
+    "geom:latitude":25.09071,
+    "geom:longitude":121.52259,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A15",
+    "gn:admin4_code":"63000110004.0",
+    "gn:asciiname":"Shilin",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669369,
+    "gn:latitude":25.09071,
+    "gn:longitude":121.52259,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shilin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shih-lin-chuang",
+        "Shih-li",
+        "Shihlin",
+        "Shilin",
+        "Pa-chih-lan",
+        "Shih-lin"
+    ],
+    "name:zho_x_preferred":[
+        "\u58eb\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669369
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"34f4a21ef03ef9234894477edddfd574",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276663715,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1276663715,
+    "wof:lastmodified":1537708700,
+    "wof:name":"Shilin",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.52259,
+    25.09071,
+    121.52259,
+    25.09071
+],
+  "geometry": {"coordinates":[121.52258999999999,25.09071],"type":"Point"}
+}

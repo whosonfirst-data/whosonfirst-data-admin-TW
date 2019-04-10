@@ -1,0 +1,78 @@
+{
+  "id": 1293099241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.49722,23.45944,120.49722,23.45944",
+    "geom:latitude":23.45944,
+    "geom:longitude":120.49722,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYI",
+    "gn:admin3_code":"I01",
+    "gn:admin4_code":"10020010042.0",
+    "gn:asciiname":"Waiweng",
+    "gn:country_code":"TW",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666251,
+    "gn:latitude":23.45944,
+    "gn:longitude":120.49722,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Waiweng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Waiwong",
+        "Waiweng",
+        "Wai-weng"
+    ],
+    "name:zho_x_preferred":[
+        "\u5916\u7515"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679603,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666251
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b823dc42aa809adb4afb8c8aa0bf84e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293099241,
+            "macroregion_id":1108808557,
+            "region_id":85679603
+        }
+    ],
+    "wof:id":1293099241,
+    "wof:lastmodified":1537708488,
+    "wof:name":"Waiweng",
+    "wof:parent_id":85679603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.49722,
+    23.45944,
+    120.49722,
+    23.45944
+],
+  "geometry": {"coordinates":[120.49722,23.45944],"type":"Point"}
+}

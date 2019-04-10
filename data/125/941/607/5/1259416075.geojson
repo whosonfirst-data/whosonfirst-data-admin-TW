@@ -1,0 +1,76 @@
+{
+  "id": 1259416075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8396,24.46201,120.8396,24.46201",
+    "geom:latitude":24.46201,
+    "geom:longitude":120.8396,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K04",
+    "gn:admin4_code":"10005090010.0",
+    "gn:asciiname":"Hepai",
+    "gn:country_code":"TW",
+    "gn:dem":266,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676160,
+    "gn:latitude":24.46201,
+    "gn:longitude":120.8396,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hepai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6cb3\u6392"
+    ],
+    "name:zho_x_variant":[
+        "Ho-p\u2019ai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676160
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3e922ab08285945aa033be1fe0c5b1fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259416075,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1259416075,
+    "wof:lastmodified":1537709193,
+    "wof:name":"Hepai",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8396,
+    24.46201,
+    120.8396,
+    24.46201
+],
+  "geometry": {"coordinates":[120.8396,24.46201],"type":"Point"}
+}

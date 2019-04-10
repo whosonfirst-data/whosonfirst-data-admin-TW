@@ -1,0 +1,80 @@
+{
+  "id": 1259589189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.82333,24.83333,121.82333,24.83333",
+    "geom:latitude":24.83333,
+    "geom:longitude":121.82333,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G02",
+    "gn:admin4_code":"10002040014.0",
+    "gn:asciiname":"Sanbaozhu",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669990,
+    "gn:latitude":24.83333,
+    "gn:longitude":121.82333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanbaozhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanbaojhu",
+        "Sanbaozhu",
+        "San-pao-chu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u62b1\u7af9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679567,
+        102191569,
+        85632403,
+        1108499379,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669990
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e2582a372ed06acc628637934ccae3e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259589189,
+            "macrocounty_id":1108499379,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1259589189,
+    "wof:lastmodified":1537708750,
+    "wof:name":"Sanbaozhu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.82333,
+    24.83333,
+    121.82333,
+    24.83333
+],
+  "geometry": {"coordinates":[121.82333,24.83333],"type":"Point"}
+}

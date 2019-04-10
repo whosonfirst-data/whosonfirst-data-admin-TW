@@ -1,0 +1,80 @@
+{
+  "id": 1243006217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.97876,23.97577,120.97876,23.97577",
+    "geom:latitude":23.97577,
+    "geom:longitude":120.97876,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M02",
+    "gn:admin4_code":"10008020027.0",
+    "gn:asciiname":"Huzi'er",
+    "gn:country_code":"TW",
+    "gn:dem":471,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674255,
+    "gn:latitude":23.97577,
+    "gn:longitude":120.97876,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Huzi\u2019er",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hu-tzu-erh"
+    ],
+    "name:zho_x_preferred":[
+        "\u864e\u4ed4\u8033"
+    ],
+    "name:zho_x_variant":[
+        "Huzi\u2019er",
+        "Huzih\u2019er"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674255
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5f9d22aa839fc46efd57e66ee52339a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243006217,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1243006217,
+    "wof:lastmodified":1537709030,
+    "wof:name":"Huzi'er",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.97876,
+    23.97577,
+    120.97876,
+    23.97577
+],
+  "geometry": {"coordinates":[120.97875999999999,23.97577],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1310633699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.53943,23.43801,120.53943,23.43801",
+    "geom:latitude":23.43801,
+    "geom:longitude":120.53943,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q14",
+    "gn:admin4_code":"10010130010.0",
+    "gn:asciiname":"Pouhouzi",
+    "gn:country_code":"TW",
+    "gn:dem":142,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670331,
+    "gn:latitude":23.43801,
+    "gn:longitude":120.53943,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pouhouzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pu-hou",
+        "Pouhouzih"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ecd\u5f8c\u4ed4"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019u-hou-tzu",
+        "P\u2019ou-hou",
+        "P\u2019ou-hou-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670331
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"df52ade3e7fa933e7410e6cea64d915d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310633699,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1310633699,
+    "wof:lastmodified":1537708774,
+    "wof:name":"Pouhouzi",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.53943,
+    23.43801,
+    120.53943,
+    23.43801
+],
+  "geometry": {"coordinates":[120.53943,23.43801],"type":"Point"}
+}

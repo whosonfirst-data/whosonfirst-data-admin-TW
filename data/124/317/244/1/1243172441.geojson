@@ -1,0 +1,82 @@
+{
+  "id": 1243172441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6014,23.7626,120.6014,23.7626",
+    "geom:latitude":23.7626,
+    "geom:longitude":120.6014,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P10",
+    "gn:admin4_code":"10009100008.0",
+    "gn:asciiname":"Zhongzhuang",
+    "gn:country_code":"TW",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678386,
+    "gn:latitude":23.7626,
+    "gn:longitude":120.6014,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhongjhuang",
+        "Zhongzhuang",
+        "Chung-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fe0\u5e84"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ih-chuang",
+        "Ch\u2019ih-chuang-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678386
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"225067fae31c312630b292c77129feb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243172441,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1243172441,
+    "wof:lastmodified":1537709364,
+    "wof:name":"Zhongzhuang",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6014,
+    23.7626,
+    120.6014,
+    23.7626
+],
+  "geometry": {"coordinates":[120.6014,23.7626],"type":"Point"}
+}

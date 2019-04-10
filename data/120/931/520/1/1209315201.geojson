@@ -1,0 +1,72 @@
+{
+  "id": 1209315201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.535,23.0925,120.535,23.0925",
+    "geom:latitude":23.0925,
+    "geom:longitude":120.535,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R25",
+    "gn:admin4_code":"67000250008.0",
+    "gn:asciiname":"Fengguizui",
+    "gn:country_code":"TW",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6586614,
+    "gn:latitude":23.0925,
+    "gn:longitude":120.535,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fengguizui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fonggueizuei",
+        "Fengguizui",
+        "Feng-kuei-tsui"
+    ],
+    "name:zho_x_preferred":[
+        "\u98a8\u6ac3\u5634"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6586614
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4550bb0a10b9bae125bcebc5dc7f25e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209315201
+        }
+    ],
+    "wof:id":1209315201,
+    "wof:lastmodified":1537709567,
+    "wof:name":"Fengguizui",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.535,
+    23.0925,
+    120.535,
+    23.0925
+],
+  "geometry": {"coordinates":[120.535,23.0925],"type":"Point"}
+}

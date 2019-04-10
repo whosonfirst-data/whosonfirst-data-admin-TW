@@ -1,0 +1,83 @@
+{
+  "id": 1209728461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4109,22.614,120.4109,22.614",
+    "geom:latitude":22.614,
+    "geom:longitude":120.4109,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E14",
+    "gn:admin4_code":"64000140006.0",
+    "gn:asciiname":"Liuqiuzi",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672753,
+    "gn:latitude":22.614,
+    "gn:longitude":120.4109,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liuqiuzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u7409\u7403\u4ed4",
+        "Liuqiuzi",
+        "Liouciouzih"
+    ],
+    "name:zho_x_preferred":[
+        "Liu-ch\u2019iu-tzu"
+    ],
+    "name:zho_x_variant":[
+        "Liu-ch\u2019iu-ts\u2019un",
+        "Liu-ch\u2019iu",
+        "\u7409\u7403\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672753
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9a6f2b553d8ca719437e37fc6c74cce5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209728461,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1209728461,
+    "wof:lastmodified":1537708926,
+    "wof:name":"Liuqiuzi",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4109,
+    22.614,
+    120.4109,
+    22.614
+],
+  "geometry": {"coordinates":[120.4109,22.614],"type":"Point"}
+}

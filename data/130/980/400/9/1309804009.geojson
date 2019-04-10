@@ -1,0 +1,80 @@
+{
+  "id": 1309804009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.23639,22.92417,120.23639,22.92417",
+    "geom:latitude":22.92417,
+    "geom:longitude":120.23639,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R27",
+    "gn:admin4_code":"67000270011.0",
+    "gn:asciiname":"Cheluqian",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6589578,
+    "gn:latitude":22.92417,
+    "gn:longitude":120.23639,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Cheluqian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chelucian",
+        "Cheluqian"
+    ],
+    "name:zho_x_preferred":[
+        "\u8eca\u8def\u5898"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019e-lu-ch\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6589578
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7f70b83b8b61eca7958dbb710941f959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309804009,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1309804009,
+    "wof:lastmodified":1537709602,
+    "wof:name":"Cheluqian",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.23639,
+    22.92417,
+    120.23639,
+    22.92417
+],
+  "geometry": {"coordinates":[120.23639,22.92417],"type":"Point"}
+}

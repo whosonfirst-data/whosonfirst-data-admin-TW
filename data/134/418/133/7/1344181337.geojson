@@ -1,0 +1,82 @@
+{
+  "id": 1344181337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.13886,22.97947,121.13886,22.97947",
+    "geom:latitude":22.97947,
+    "geom:longitude":121.13886,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V09",
+    "gn:admin4_code":"10014050002.0",
+    "gn:asciiname":"Xinfeng",
+    "gn:country_code":"TW",
+    "gn:dem":227,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668612,
+    "gn:latitude":22.97947,
+    "gn:longitude":121.13886,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinfeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinfong",
+        "Hsin-feng"
+    ],
+    "name:zho_x_preferred":[
+        "Ta-chiao-ch\u2019uan"
+    ],
+    "name:zho_x_variant":[
+        "Pa-lo-lo-hai-ch\u2019i-k\u2019o-so-wan",
+        "\u65b0\u8c50",
+        "Ta-chiao-ch\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668612
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6c471c6aadea0db72c89af05d3805f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344181337,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1344181337,
+    "wof:lastmodified":1537708640,
+    "wof:name":"Xinfeng",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.13886,
+    22.97947000000001,
+    121.13886,
+    22.97947000000001
+],
+  "geometry": {"coordinates":[121.13885999999999,22.97947000000001],"type":"Point"}
+}

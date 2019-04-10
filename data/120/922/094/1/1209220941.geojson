@@ -1,0 +1,75 @@
+{
+  "id": 1209220941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.81664,24.07262,120.81664,24.07262",
+    "geom:latitude":24.07262,
+    "geom:longitude":120.81664,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B27",
+    "gn:admin4_code":"66000270019.0",
+    "gn:asciiname":"Qingshuilin",
+    "gn:country_code":"TW",
+    "gn:dem":592,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1991377,
+    "gn:latitude":24.07262,
+    "gn:longitude":120.81664,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qingshuilin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cingshueilin",
+        "Qingshuilin"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e05\u6c34\u6797"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ing-shui-ling",
+        "Ch\u2019ing-shui-lin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1991377
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ca4c53e8c24c304f456ad22f7e9f595e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209220941
+        }
+    ],
+    "wof:id":1209220941,
+    "wof:lastmodified":1537709444,
+    "wof:name":"Qingshuilin",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.81664,
+    24.07262,
+    120.81664,
+    24.07262
+],
+  "geometry": {"coordinates":[120.81664000000001,24.07262],"type":"Point"}
+}

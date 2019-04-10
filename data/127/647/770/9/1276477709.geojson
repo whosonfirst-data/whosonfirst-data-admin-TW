@@ -1,0 +1,81 @@
+{
+  "id": 1276477709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.40456,23.7973,120.40456,23.7973",
+    "geom:latitude":23.7973,
+    "geom:longitude":120.40456,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P11",
+    "gn:admin4_code":"10009110018.0",
+    "gn:asciiname":"Tiantouzi",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667363,
+    "gn:latitude":23.7973,
+    "gn:longitude":120.40456,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tiantouzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiantouzih",
+        "Tiantouzi"
+    ],
+    "name:zho_x_preferred":[
+        "T\u2019ien-t\u2019ou"
+    ],
+    "name:zho_x_variant":[
+        "\u7530\u982d\u4ed4",
+        "T\u2019ien-t\u2019ou-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667363
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"795e785f91157fa2c3ce1d1c6a4ed820",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276477709,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1276477709,
+    "wof:lastmodified":1537708565,
+    "wof:name":"Tiantouzi",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.40456,
+    23.7973,
+    120.40456,
+    23.7973
+],
+  "geometry": {"coordinates":[120.40456,23.7973],"type":"Point"}
+}

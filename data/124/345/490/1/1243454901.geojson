@@ -1,0 +1,73 @@
+{
+  "id": 1243454901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.6,24.7,121.6,24.7",
+    "geom:latitude":24.7,
+    "geom:longitude":121.6,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G11",
+    "gn:admin4_code":"10002110002.0",
+    "gn:asciiname":"Cukengshe",
+    "gn:country_code":"TW",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666796,
+    "gn:latitude":24.7,
+    "gn:longitude":121.6,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Cukengshe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ts\u2019u-k\u2019eng-she"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666796
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bb7737e7439dfc04f14c8141bef75e5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243454901,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1243454901,
+    "wof:lastmodified":1537708522,
+    "wof:name":"Cukengshe",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.6,
+    24.7,
+    121.6,
+    24.7
+],
+  "geometry": {"coordinates":[121.59999999999999,24.7],"type":"Point"}
+}

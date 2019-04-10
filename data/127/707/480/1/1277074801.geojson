@@ -1,0 +1,76 @@
+{
+  "id": 1277074801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.1194,23.25667,120.1194,23.25667",
+    "geom:latitude":23.25667,
+    "geom:longitude":120.1194,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R16",
+    "gn:admin4_code":"67000170012.0",
+    "gn:asciiname":"Yonghua",
+    "gn:country_code":"TW",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6749546,
+    "gn:latitude":23.25667,
+    "gn:longitude":120.1194,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yonghua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yung-hua"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c38\u83ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6749546
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c1efd80ec05f7b2ef05dde68f7ea35e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1277074801,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1277074801,
+    "wof:lastmodified":1537709953,
+    "wof:name":"Yonghua",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.1194,
+    23.25667,
+    120.1194,
+    23.25667
+],
+  "geometry": {"coordinates":[120.1194,23.25667],"type":"Point"}
+}

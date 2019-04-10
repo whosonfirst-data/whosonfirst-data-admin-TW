@@ -1,0 +1,79 @@
+{
+  "id": 1243454773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.43111,22.95583,120.43111,22.95583",
+    "geom:latitude":22.95583,
+    "geom:longitude":120.43111,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R30",
+    "gn:admin4_code":"67000300007.0",
+    "gn:asciiname":"Shuikuping",
+    "gn:country_code":"TW",
+    "gn:dem":265,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6601169,
+    "gn:latitude":22.95583,
+    "gn:longitude":120.43111,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuikuping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shueikuping"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u5800\u576a"
+    ],
+    "name:zho_x_variant":[
+        "Shui-k\u2019u-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6601169
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"79bfab0b28d0cc852ba16fae63220ebb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243454773,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1243454773,
+    "wof:lastmodified":1537709640,
+    "wof:name":"Shuikuping",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.43111,
+    22.95583,
+    120.43111,
+    22.95583
+],
+  "geometry": {"coordinates":[120.43111,22.95583],"type":"Point"}
+}

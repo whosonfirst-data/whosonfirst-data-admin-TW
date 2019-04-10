@@ -1,0 +1,78 @@
+{
+  "id": 1243172705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.39992,23.85412,120.39992,23.85412",
+    "geom:latitude":23.85412,
+    "geom:longitude":120.39992,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N25",
+    "gn:admin4_code":"10007250011.0",
+    "gn:asciiname":"Xialunzi",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675742,
+    "gn:latitude":23.85412,
+    "gn:longitude":120.39992,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xialunzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sialunzih",
+        "Xialunzi",
+        "Hsia-lun-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u5d19\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675742
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"21abf9645251d886334fb7de60a8a267",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243172705,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1243172705,
+    "wof:lastmodified":1537709157,
+    "wof:name":"Xialunzi",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.39992,
+    23.85412,
+    120.39992,
+    23.85412
+],
+  "geometry": {"coordinates":[120.39991999999999,23.85412],"type":"Point"}
+}

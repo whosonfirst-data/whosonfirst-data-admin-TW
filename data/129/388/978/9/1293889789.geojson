@@ -1,0 +1,80 @@
+{
+  "id": 1293889789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.29337,25.02513,121.29337,25.02513",
+    "geom:latitude":25.02513,
+    "geom:longitude":121.29337,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H01",
+    "gn:admin4_code":"68000010069.0",
+    "gn:asciiname":"Datiedianzi",
+    "gn:country_code":"TW",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667484,
+    "gn:latitude":25.02513,
+    "gn:longitude":121.29337,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Datiedianzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Datiedianzih"
+    ],
+    "name:zho_x_preferred":[
+        "\u6253\u9435\u5e97\u5b50"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ieh-tien",
+        "Ta-t\u2019ieh-tien-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667484
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"07121dfad57653da760e508abe497ea7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293889789,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1293889789,
+    "wof:lastmodified":1537708574,
+    "wof:name":"Datiedianzi",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.29337,
+    25.02513,
+    121.29337,
+    25.02513
+],
+  "geometry": {"coordinates":[121.29337,25.02513],"type":"Point"}
+}

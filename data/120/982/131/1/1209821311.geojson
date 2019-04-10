@@ -1,0 +1,80 @@
+{
+  "id": 1209821311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.105,24.97417,121.105,24.97417",
+    "geom:latitude":24.97417,
+    "geom:longitude":121.105,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H11",
+    "gn:admin4_code":"68000110002.0",
+    "gn:asciiname":"Xinwu",
+    "gn:country_code":"TW",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674776,
+    "gn:latitude":24.97417,
+    "gn:longitude":121.105,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinwu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pu-ting",
+        "Xinwu",
+        "Sinwu",
+        "Hsin-wu"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5c4b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674776,
+        "wk:page":"Xinwu_District%2C_Taoyuan"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"43a8c8ee6a2a44b5cb7ba24e93f683f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209821311,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1209821311,
+    "wof:lastmodified":1537709069,
+    "wof:name":"Xinwu",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.105,
+    24.97417,
+    121.105,
+    24.97417
+],
+  "geometry": {"coordinates":[121.105,24.97417],"type":"Point"}
+}

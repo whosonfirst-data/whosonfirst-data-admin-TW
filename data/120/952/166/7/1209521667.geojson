@@ -1,0 +1,71 @@
+{
+  "id": 1209521667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.35054,23.77677,120.35054,23.77677",
+    "geom:latitude":23.77677,
+    "geom:longitude":120.35054,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P12",
+    "gn:admin4_code":"10009120014.0",
+    "gn:asciiname":"Fangnan",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6644506,
+    "gn:latitude":23.77677,
+    "gn:longitude":120.35054,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fangnan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Peng-kou-liao",
+        "Fang-nan"
+    ],
+    "name:zho_x_preferred":[
+        "\u678b\u5357"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6644506
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"541ee89a683c7fc0c6bb55588fd94b07",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209521667
+        }
+    ],
+    "wof:id":1209521667,
+    "wof:lastmodified":1537709698,
+    "wof:name":"Fangnan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.35054,
+    23.77677000000001,
+    120.35054,
+    23.77677000000001
+],
+  "geometry": {"coordinates":[120.35054,23.77677000000001],"type":"Point"}
+}

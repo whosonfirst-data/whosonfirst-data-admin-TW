@@ -1,0 +1,79 @@
+{
+  "id": 1242778517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3306,23.6163,120.3306,23.6163",
+    "geom:latitude":23.6163,
+    "geom:longitude":120.3306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P17",
+    "gn:admin4_code":"10009170013.0",
+    "gn:asciiname":"Xialiao",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675769,
+    "gn:latitude":23.6163,
+    "gn:longitude":120.3306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xialiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hu-tzu-nei",
+        "Sialiao",
+        "Xialiao",
+        "Hsia-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675769
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f5d45aed519b5fa26bf07d852c6b82e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242778517,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1242778517,
+    "wof:lastmodified":1537709160,
+    "wof:name":"Xialiao",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3306,
+    23.6163,
+    120.3306,
+    23.6163
+],
+  "geometry": {"coordinates":[120.3306,23.6163],"type":"Point"}
+}

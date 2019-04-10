@@ -1,0 +1,80 @@
+{
+  "id": 1344263131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48167,24.02194,120.48167,24.02194",
+    "geom:latitude":24.02194,
+    "geom:longitude":120.48167,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N11",
+    "gn:admin4_code":"10007060006.0",
+    "gn:asciiname":"Xiasanbiantou",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6587058,
+    "gn:latitude":24.02194,
+    "gn:longitude":120.48167,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiasanbiantou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siasanbiantou",
+        "Xiasanbiantou"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u4e09\u6c74\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Hsia-san-pien-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6587058
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"86250780e71d9c81c3fb1061579f75c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344263131,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1344263131,
+    "wof:lastmodified":1537709577,
+    "wof:name":"Xiasanbiantou",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48167,
+    24.02194,
+    120.48167,
+    24.02194
+],
+  "geometry": {"coordinates":[120.48166999999999,24.02194],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209107791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.84151,25.10687,121.84151,25.10687",
+    "geom:latitude":25.10687,
+    "geom:longitude":121.84151,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F21",
+    "gn:admin4_code":"65000120021.0",
+    "gn:asciiname":"Daganlin",
+    "gn:country_code":"TW",
+    "gn:dem":300,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647323,
+    "gn:latitude":25.10687,
+    "gn:longitude":121.84151,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Daganlin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-kan-lin"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u7aff\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647323
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c9736554d7d4416a2789b87ab25c4393",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209107791
+        }
+    ],
+    "wof:id":1209107791,
+    "wof:lastmodified":1537709756,
+    "wof:name":"Daganlin",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.84151,
+    25.10687,
+    121.84151,
+    25.10687
+],
+  "geometry": {"coordinates":[121.84151,25.10687],"type":"Point"}
+}

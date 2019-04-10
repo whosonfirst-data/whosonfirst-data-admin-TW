@@ -1,0 +1,78 @@
+{
+  "id": 1276118365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.71889,24.32139,120.71889,24.32139",
+    "geom:latitude":24.32139,
+    "geom:longitude":120.71889,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B15",
+    "gn:admin4_code":"66000150005.0",
+    "gn:asciiname":"Jiujia",
+    "gn:country_code":"TW",
+    "gn:dem":229,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6587530,
+    "gn:latitude":24.32139,
+    "gn:longitude":120.71889,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiujia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jioujia",
+        "Jiujia",
+        "Chiu-chia"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e5d\u7532"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6587530
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c3b72e6091c32157899fa136b54eaf4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276118365,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1276118365,
+    "wof:lastmodified":1537709585,
+    "wof:name":"Jiujia",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.71889,
+    24.32139,
+    120.71889,
+    24.32139
+],
+  "geometry": {"coordinates":[120.71889,24.32139],"type":"Point"}
+}

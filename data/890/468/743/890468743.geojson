@@ -1,0 +1,77 @@
+{
+  "id": 890468743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3,23.4,120.3,23.4",
+    "geom:latitude":23.4,
+    "geom:longitude":120.3,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Lucao Siang"
+    ],
+    "name:zho_x_preferred":[
+        "\u9e7f\u8349\u9109"
+    ],
+    "name:zho_x_variant":[
+        "Lu-ts\u2019ao",
+        "Lu-ts\u2019ao Hsiang"
+    ],
+    "qs:name":"Lucao Xiang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":118,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672305,
+        "qs:id":1030906,
+        "wd:id":"Q715873",
+        "wk:page":"Lucao, Chiayi"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053724,
+    "wof:geomhash":"4bae4a8bfb6d8d743ef474cd2c09317e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890468743,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":890468743,
+    "wof:lastmodified":1527792969,
+    "wof:name":"Lucao Xiang",
+    "wof:parent_id":85679599,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3,
+    23.4,
+    120.3,
+    23.4
+],
+  "geometry": {"coordinates":[120.3,23.4],"type":"Point"}
+}

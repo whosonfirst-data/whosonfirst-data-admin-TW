@@ -1,0 +1,77 @@
+{
+  "id": 1310413427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.51194,25.24991,121.51194,25.24991",
+    "geom:latitude":25.24991,
+    "geom:longitude":121.51194,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F30",
+    "gn:admin4_code":"65000210005.0",
+    "gn:asciiname":"Bupingcun",
+    "gn:country_code":"TW",
+    "gn:dem":107,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6642337,
+    "gn:latitude":25.24991,
+    "gn:longitude":121.51194,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bupingcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u57d4\u576a\u6751"
+    ],
+    "name:zho_x_variant":[
+        "Pu-p\u2019ing",
+        "Pu-p\u2019ing-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6642337
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a43e95bff6ec71fab254dd78a886bc4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310413427,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1310413427,
+    "wof:lastmodified":1537709684,
+    "wof:name":"Bupingcun",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.51194,
+    25.24991,
+    121.51194,
+    25.24991
+],
+  "geometry": {"coordinates":[121.51194,25.24991],"type":"Point"}
+}

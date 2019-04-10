@@ -1,0 +1,79 @@
+{
+  "id": 1326635961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6336,24.2014,120.6336,24.2014",
+    "geom:latitude":24.2014,
+    "geom:longitude":120.6336,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B06",
+    "gn:admin4_code":"66000060017.0",
+    "gn:asciiname":"Lincuozhuang",
+    "gn:country_code":"TW",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6747552,
+    "gn:latitude":24.2014,
+    "gn:longitude":120.6336,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lincuozhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6797\u539d\u838a",
+        "Lincuozhuang",
+        "Lincuojhuang",
+        "Lin-ts\u2019o-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "Lin-ts\u2019o-chuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6747552
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1a34dc12d2ffa5a753bc31214406d797",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326635961,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1326635961,
+    "wof:lastmodified":1537709926,
+    "wof:name":"Lincuozhuang",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6336,
+    24.2014,
+    120.6336,
+    24.2014
+],
+  "geometry": {"coordinates":[120.6336,24.2014],"type":"Point"}
+}

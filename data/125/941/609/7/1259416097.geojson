@@ -1,0 +1,80 @@
+{
+  "id": 1259416097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.54056,23.22972,120.54056,23.22972",
+    "geom:latitude":23.22972,
+    "geom:longitude":120.54056,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q18",
+    "gn:admin4_code":"10010170005.0",
+    "gn:asciiname":"Fengchuiling",
+    "gn:country_code":"TW",
+    "gn:dem":292,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6586486,
+    "gn:latitude":23.22972,
+    "gn:longitude":120.54056,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fengchuiling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fongchueiling",
+        "Fengchuiling"
+    ],
+    "name:zho_x_preferred":[
+        "\u98a8\u5439\u5dba"
+    ],
+    "name:zho_x_variant":[
+        "Feng-ch\u2019ui-ling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6586486
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f27a38381a61a351b96a85cc2f3ea320",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259416097,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1259416097,
+    "wof:lastmodified":1537709561,
+    "wof:name":"Fengchuiling",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.54056,
+    23.22972,
+    120.54056,
+    23.22972
+],
+  "geometry": {"coordinates":[120.54056,23.22972],"type":"Point"}
+}

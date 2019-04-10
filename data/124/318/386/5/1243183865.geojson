@@ -1,0 +1,79 @@
+{
+  "id": 1243183865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.44761,24.88187,121.44761,24.88187",
+    "geom:latitude":24.88187,
+    "geom:longitude":121.44761,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F15",
+    "gn:admin4_code":"65000090022.0",
+    "gn:asciiname":"Zhukengdi",
+    "gn:country_code":"TW",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653601,
+    "gn:latitude":24.88187,
+    "gn:longitude":121.44761,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhukengdi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhukengdi"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u5751\u5e95"
+    ],
+    "name:zho_x_variant":[
+        "Chu-k\u2019eng-ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653601
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d0b06aed784d355739b6d0a6f3ee76d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243183865,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1243183865,
+    "wof:lastmodified":1537709841,
+    "wof:name":"Zhukengdi",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.44761,
+    24.88187000000001,
+    121.44761,
+    24.88187000000001
+],
+  "geometry": {"coordinates":[121.44761,24.88187000000001],"type":"Point"}
+}

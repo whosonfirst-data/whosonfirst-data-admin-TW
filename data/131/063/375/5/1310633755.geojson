@@ -1,0 +1,76 @@
+{
+  "id": 1310633755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4787,23.67737,120.4787,23.67737",
+    "geom:latitude":23.67737,
+    "geom:longitude":120.4787,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P02",
+    "gn:admin4_code":"10009020005.0",
+    "gn:asciiname":"Dounan",
+    "gn:country_code":"TW",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666996,
+    "gn:latitude":23.67737,
+    "gn:longitude":120.4787,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Dounan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tou-nan-chuang",
+        "Dounan",
+        "Tou-nan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666996,
+        "wk:page":"Dounan,_Yunlin"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bb7daa5a4d7e9a2da4df6118c190b66b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310633755,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1310633755,
+    "wof:lastmodified":1537708534,
+    "wof:name":"Dounan",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4787,
+    23.67737,
+    120.4787,
+    23.67737
+],
+  "geometry": {"coordinates":[120.4787,23.67737],"type":"Point"}
+}

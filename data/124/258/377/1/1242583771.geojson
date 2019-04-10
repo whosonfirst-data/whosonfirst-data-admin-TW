@@ -1,0 +1,81 @@
+{
+  "id": 1242583771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.39512,23.19272,121.39512,23.19272",
+    "geom:latitude":23.19272,
+    "geom:longitude":121.39512,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V02",
+    "gn:admin4_code":"10014020001.0",
+    "gn:asciiname":"Chong'an",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677498,
+    "gn:latitude":23.19272,
+    "gn:longitude":121.39512,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chong\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tu-wei",
+        "Tou-wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u91cd\u5b89"
+    ],
+    "name:zho_x_variant":[
+        "Chong\u2019an",
+        "Ch\u2019ung-an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677498
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"64646fb769e432337abaca74c8d93156",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242583771,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1242583771,
+    "wof:lastmodified":1537709300,
+    "wof:name":"Chong'an",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.39512,
+    23.19272,
+    121.39512,
+    23.19272
+],
+  "geometry": {"coordinates":[121.39512000000001,23.19272],"type":"Point"}
+}

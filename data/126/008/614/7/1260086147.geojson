@@ -1,0 +1,77 @@
+{
+  "id": 1260086147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.02139,24.645,121.02139,24.645",
+    "geom:latitude":24.645,
+    "geom:longitude":121.02139,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J13",
+    "gn:admin4_code":"10004110005.0",
+    "gn:asciiname":"Liuliao",
+    "gn:country_code":"TW",
+    "gn:dem":296,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672709,
+    "gn:latitude":24.645,
+    "gn:longitude":121.02139,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liuliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liouliao",
+        "Liu-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u516d\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672709
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"91234b904a104b6d016541a0fe0f3c4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260086147,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1260086147,
+    "wof:lastmodified":1537708923,
+    "wof:name":"Liuliao",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.02139,
+    24.645,
+    121.02139,
+    24.645
+],
+  "geometry": {"coordinates":[121.02139,24.645],"type":"Point"}
+}

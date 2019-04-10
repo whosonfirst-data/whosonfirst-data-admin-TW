@@ -1,0 +1,76 @@
+{
+  "id": 1327333883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.77468,24.60332,120.77468,24.60332",
+    "geom:latitude":24.60332,
+    "geom:longitude":120.77468,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K12",
+    "gn:admin4_code":"10005060019.0",
+    "gn:asciiname":"Nanshe",
+    "gn:country_code":"TW",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671631,
+    "gn:latitude":24.60332,
+    "gn:longitude":120.77468,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nanshe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan-she"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671631
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3ce433463f3894a2d9e994cf2015a925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327333883,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1327333883,
+    "wof:lastmodified":1537708856,
+    "wof:name":"Nanshe",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.77468,
+    24.60332,
+    120.77468,
+    24.60332
+],
+  "geometry": {"coordinates":[120.77468,24.60332],"type":"Point"}
+}

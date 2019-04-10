@@ -1,0 +1,82 @@
+{
+  "id": 1292905375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.80583,24.95722,121.80583,24.95722",
+    "geom:latitude":24.95722,
+    "geom:longitude":121.80583,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F23",
+    "gn:admin4_code":"65000250012.0",
+    "gn:asciiname":"Xiweiliao",
+    "gn:country_code":"TW",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674577,
+    "gn:latitude":24.95722,
+    "gn:longitude":121.80583,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiweiliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liao-wei-hsi",
+        "Xiweiliao",
+        "Siweiliao",
+        "Hsi-wei-liao"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019i-wei-liao"
+    ],
+    "name:zho_x_variant":[
+        "\u6eaa\u5c3e\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674577
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a4632c2326ec9734056cea916811ece9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1292905375,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1292905375,
+    "wof:lastmodified":1537709050,
+    "wof:name":"Xiweiliao",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.80583,
+    24.95722,
+    121.80583,
+    24.95722
+],
+  "geometry": {"coordinates":[121.80583,24.95722],"type":"Point"}
+}

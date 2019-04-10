@@ -1,0 +1,81 @@
+{
+  "id": 1344263267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.88594,24.70728,120.88594,24.70728",
+    "geom:latitude":24.70728,
+    "geom:longitude":120.88594,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040019.0",
+    "gn:asciiname":"Zhugaocuo",
+    "gn:country_code":"TW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677574,
+    "gn:latitude":24.70728,
+    "gn:longitude":120.88594,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhugaocuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhugaocuo",
+        "Zhugaocuo"
+    ],
+    "name:zho_x_preferred":[
+        "Chu-hao-ts\u2019o"
+    ],
+    "name:zho_x_variant":[
+        "\u7af9\u7bd9\u539d",
+        "Chu-kao-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677574
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4146af46a4c7d4ac26884e5dd62bf549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344263267,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1344263267,
+    "wof:lastmodified":1537709306,
+    "wof:name":"Zhugaocuo",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.88594,
+    24.70728,
+    120.88594,
+    24.70728
+],
+  "geometry": {"coordinates":[120.88594000000001,24.70728],"type":"Point"}
+}

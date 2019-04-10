@@ -1,0 +1,78 @@
+{
+  "id": 1242883051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.65344,22.98421,120.65344,22.98421",
+    "geom:latitude":22.98421,
+    "geom:longitude":120.65344,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E32",
+    "gn:admin4_code":"64000320009.0",
+    "gn:asciiname":"Weizhuang",
+    "gn:country_code":"TW",
+    "gn:dem":277,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672053,
+    "gn:latitude":22.98421,
+    "gn:longitude":120.65344,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Weizhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mei-chuang",
+        "Weijhuang",
+        "Wei-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3e\u838a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672053
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1275e853a6f786cf6a092da44b871ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242883051,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1242883051,
+    "wof:lastmodified":1537708881,
+    "wof:name":"Weizhuang",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.65344,
+    22.98421,
+    120.65344,
+    22.98421
+],
+  "geometry": {"coordinates":[120.65344,22.98421],"type":"Point"}
+}

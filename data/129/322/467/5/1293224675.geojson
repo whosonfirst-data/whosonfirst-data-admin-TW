@@ -1,0 +1,78 @@
+{
+  "id": 1293224675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5672,24.2179,120.5672,24.2179",
+    "geom:latitude":24.2179,
+    "geom:longitude":120.5672,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B13",
+    "gn:admin4_code":"66000130015.0",
+    "gn:asciiname":"Sanjiaozi",
+    "gn:country_code":"TW",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670175,
+    "gn:latitude":24.2179,
+    "gn:longitude":120.5672,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanjiaozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanjiaozih",
+        "Sanjiaozi",
+        "San-chiao-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u89d2\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670175
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cd71033504dbaadb5306daf8d4fd9301",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293224675,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1293224675,
+    "wof:lastmodified":1537708764,
+    "wof:name":"Sanjiaozi",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5672,
+    24.2179,
+    120.5672,
+    24.2179
+],
+  "geometry": {"coordinates":[120.5672,24.2179],"type":"Point"}
+}

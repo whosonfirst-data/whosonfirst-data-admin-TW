@@ -1,0 +1,80 @@
+{
+  "id": 1226242995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.00264,24.69492,121.00264,24.69492",
+    "geom:latitude":24.69492,
+    "geom:longitude":121.00264,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J13",
+    "gn:admin4_code":"10004110006.0",
+    "gn:asciiname":"Chikeping",
+    "gn:country_code":"TW",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678332,
+    "gn:latitude":24.69492,
+    "gn:longitude":121.00264,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chikeping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chihkeping"
+    ],
+    "name:zho_x_preferred":[
+        "\u8d64\u67ef\u576a"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ih-p\u2019ing",
+        "Ch\u2019ih-k\u2019o-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678332
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f0223cc01505765bb4bd0557ce2ab77e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226242995,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1226242995,
+    "wof:lastmodified":1537709360,
+    "wof:name":"Chikeping",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.00264,
+    24.69492,
+    121.00264,
+    24.69492
+],
+  "geometry": {"coordinates":[121.00264,24.69492],"type":"Point"}
+}

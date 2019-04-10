@@ -1,0 +1,84 @@
+{
+  "id": 1226166929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.58694,24.37944,120.58694,24.37944",
+    "geom:latitude":24.37944,
+    "geom:longitude":120.58694,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B22",
+    "gn:admin4_code":"66000220010.0",
+    "gn:asciiname":"Da'angang",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676358,
+    "gn:latitude":24.37944,
+    "gn:longitude":120.58694,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Da\u2019angang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-an-chiang",
+        "Ta-an",
+        "Ta-an-kang"
+    ],
+    "name:zho_x_preferred":[
+        "Hai-ch\u2019ien-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Hai-ch\u2019ien",
+        "\u5927\u5b89\u6e2f",
+        "Da\u2019angang",
+        "Hai-ch\u2019ien-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676358
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8fe2f5421a7cd7a11ce1cc6837c55c87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226166929,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1226166929,
+    "wof:lastmodified":1537709208,
+    "wof:name":"Da'angang",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.58693999999998,
+    24.37944,
+    120.58693999999998,
+    24.37944
+],
+  "geometry": {"coordinates":[120.58693999999998,24.37944],"type":"Point"}
+}

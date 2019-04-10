@@ -1,0 +1,79 @@
+{
+  "id": 1242678039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7501,23.9325,120.7501,23.9325",
+    "geom:latitude":23.9325,
+    "geom:longitude":120.7501,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M08",
+    "gn:admin4_code":"10008080017.0",
+    "gn:asciiname":"Meizituo",
+    "gn:country_code":"TW",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671998,
+    "gn:latitude":23.9325,
+    "gn:longitude":120.7501,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Meizituo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meizihtuo"
+    ],
+    "name:zho_x_preferred":[
+        "\u7709\u4ed4\u9640"
+    ],
+    "name:zho_x_variant":[
+        "Mei-tzu-t\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671998
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"767708a2fad31015e597d82e20e6cb03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242678039,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1242678039,
+    "wof:lastmodified":1537708877,
+    "wof:name":"Meizituo",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7501,
+    23.9325,
+    120.7501,
+    23.9325
+],
+  "geometry": {"coordinates":[120.7501,23.9325],"type":"Point"}
+}

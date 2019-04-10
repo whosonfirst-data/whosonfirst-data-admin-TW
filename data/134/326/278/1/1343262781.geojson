@@ -1,0 +1,80 @@
+{
+  "id": 1343262781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.3811,23.50431,121.3811,23.50431",
+    "geom:latitude":23.50431,
+    "geom:longitude":121.3811,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U09",
+    "gn:admin4_code":"10015090001.0",
+    "gn:asciiname":"Damayuan",
+    "gn:country_code":"TW",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668133,
+    "gn:latitude":23.50431,
+    "gn:longitude":121.3811,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Damayuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-lo-ma",
+        "Damayuan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u99ac\u5712"
+    ],
+    "name:zho_x_variant":[
+        "Ta-ma-y\u00fcan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668133
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b9d9bde28e77ffdf9d9b94ccdcb8181a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343262781,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1343262781,
+    "wof:lastmodified":1537708610,
+    "wof:name":"Damayuan",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.3811,
+    23.50431,
+    121.3811,
+    23.50431
+],
+  "geometry": {"coordinates":[121.3811,23.50431],"type":"Point"}
+}

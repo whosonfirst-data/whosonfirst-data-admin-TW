@@ -1,0 +1,82 @@
+{
+  "id": 1293024679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.38846,23.87366,120.38846,23.87366",
+    "geom:latitude":23.87366,
+    "geom:longitude":120.38846,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N08",
+    "gn:admin4_code":"10007200008.0",
+    "gn:asciiname":"Waizhu",
+    "gn:country_code":"TW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666295,
+    "gn:latitude":23.87366,
+    "gn:longitude":120.38846,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Waizhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wai-chu-li",
+        "Waijhu",
+        "Waizhu",
+        "Wai-chu"
+    ],
+    "name:zho_x_preferred":[
+        "Wai-lu-chu-t\u2019ang"
+    ],
+    "name:zho_x_variant":[
+        "\u5916\u7af9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666295
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4d67dc2e218a94c00a8517f5fd8e2de1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293024679,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1293024679,
+    "wof:lastmodified":1537708492,
+    "wof:name":"Waizhu",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.38846,
+    23.87366,
+    120.38846,
+    23.87366
+],
+  "geometry": {"coordinates":[120.38845999999999,23.87366],"type":"Point"}
+}

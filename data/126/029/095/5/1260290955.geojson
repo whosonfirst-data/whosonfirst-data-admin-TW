@@ -1,0 +1,79 @@
+{
+  "id": 1260290955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.85219,24.59559,121.85219,24.59559",
+    "geom:latitude":24.59559,
+    "geom:longitude":121.85219,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G09",
+    "gn:admin4_code":"10002030012.0",
+    "gn:asciiname":"Su'ao",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668725,
+    "gn:latitude":24.59559,
+    "gn:longitude":121.85219,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Su\u2019ao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Su-ao"
+    ],
+    "name:zho_x_preferred":[
+        "Su\u2019ao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679567,
+        102191569,
+        85632403,
+        1108499379,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668725,
+        "wk:page":"Su%27ao"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"62007a41a080f29922888c7d40a190db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260290955,
+            "macrocounty_id":1108499379,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1260290955,
+    "wof:lastmodified":1537708647,
+    "wof:name":"Su'ao",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.85219,
+    24.59559,
+    121.85219,
+    24.59559
+],
+  "geometry": {"coordinates":[121.85218999999999,24.59559],"type":"Point"}
+}

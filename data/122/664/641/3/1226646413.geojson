@@ -1,0 +1,76 @@
+{
+  "id": 1226646413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.49028,24.03806,120.49028,24.03806",
+    "geom:latitude":24.03806,
+    "geom:longitude":120.49028,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N12",
+    "gn:admin4_code":"10007070010.0",
+    "gn:asciiname":"Waikuaicuo",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988988,
+    "gn:latitude":24.03806,
+    "gn:longitude":120.49028,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Waikuaicuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5916\u584a\u539d"
+    ],
+    "name:zho_x_variant":[
+        "Wai-k\u2019uai-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988988
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"21c09b3eb02f392a1840ae343ce98003",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226646413,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1226646413,
+    "wof:lastmodified":1537709438,
+    "wof:name":"Waikuaicuo",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.49028,
+    24.03806,
+    120.49028,
+    24.03806
+],
+  "geometry": {"coordinates":[120.49028,24.03806],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243068419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.29889,23.385,120.29889,23.385",
+    "geom:latitude":23.385,
+    "geom:longitude":120.29889,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q11",
+    "gn:admin4_code":"10010110010.0",
+    "gn:asciiname":"Dingtan",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670445,
+    "gn:latitude":23.385,
+    "gn:longitude":120.29889,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingtan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Pi-t\u2019an-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u9802\u6f6d",
+        "Pi-t\u2019an",
+        "Ting-t\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670445
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7c804ec073fcce8ef85cca1cc5ade9fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243068419,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1243068419,
+    "wof:lastmodified":1537708782,
+    "wof:name":"Dingtan",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.29889,
+    23.385,
+    120.29889,
+    23.385
+],
+  "geometry": {"coordinates":[120.29889,23.385],"type":"Point"}
+}

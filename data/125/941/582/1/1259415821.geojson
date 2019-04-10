@@ -1,0 +1,79 @@
+{
+  "id": 1259415821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.24861,23.16306,120.24861,23.16306",
+    "geom:latitude":23.16306,
+    "geom:longitude":120.24861,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R07",
+    "gn:admin4_code":"67000070023.0",
+    "gn:asciiname":"Dongshi",
+    "gn:country_code":"TW",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666477,
+    "gn:latitude":23.16306,
+    "gn:longitude":120.24861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-shih",
+        "Dongshi",
+        "Dongshih",
+        "\u6771\u52e2"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u52e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666477
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2c4eda220fed33f37126aa7431ff20b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259415821,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1259415821,
+    "wof:lastmodified":1537708503,
+    "wof:name":"Dongshi",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.24861,
+    23.16306,
+    120.24861,
+    23.16306
+],
+  "geometry": {"coordinates":[120.24861,23.16306],"type":"Point"}
+}

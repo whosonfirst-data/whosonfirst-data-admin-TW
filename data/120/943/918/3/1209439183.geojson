@@ -1,0 +1,71 @@
+{
+  "id": 1209439183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.45838,23.72771,120.45838,23.72771",
+    "geom:latitude":23.72771,
+    "geom:longitude":120.45838,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P03",
+    "gn:admin4_code":"10009030025.0",
+    "gn:asciiname":"Xiaguoxizi",
+    "gn:country_code":"TW",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6655592,
+    "gn:latitude":23.72771,
+    "gn:longitude":120.45838,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaguoxizi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siaguosizih",
+        "Hsia-kuo-hsi-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u904e\u6eaa\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6655592
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5c39bfa3deaac66aac9ab735ef13a106",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209439183
+        }
+    ],
+    "wof:id":1209439183,
+    "wof:lastmodified":1537709858,
+    "wof:name":"Xiaguoxizi",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.45838,
+    23.72771,
+    120.45838,
+    23.72771
+],
+  "geometry": {"coordinates":[120.45838000000001,23.72771],"type":"Point"}
+}

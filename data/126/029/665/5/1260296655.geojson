@@ -1,0 +1,82 @@
+{
+  "id": 1260296655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.91332,25.03099,121.91332,25.03099",
+    "geom:latitude":25.03099,
+    "geom:longitude":121.91332,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F24",
+    "gn:admin4_code":"65000260005.0",
+    "gn:asciiname":"Shuifangang",
+    "gn:country_code":"TW",
+    "gn:dem":110,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669014,
+    "gn:latitude":25.03099,
+    "gn:longitude":121.91332,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuifangang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shui-fang-kang",
+        "Shui-Fang-Chiang",
+        "Shuifangang",
+        "Shueifangang",
+        "Shui-fan-kang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u8fd4\u6e2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679585,
+        102191569,
+        85632403,
+        1108756871,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669014
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e7bb2868ac23fa5383cfe4393ee64a1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260296655,
+            "macrocounty_id":1108756871,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1260296655,
+    "wof:lastmodified":1537708673,
+    "wof:name":"Shuifangang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.91332,
+    25.03099,
+    121.91332,
+    25.03099
+],
+  "geometry": {"coordinates":[121.91332,25.03099],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 890469543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.74585,24.3270835,120.74585,24.3270835",
+    "geom:latitude":24.327084,
+    "geom:longitude":120.74585,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u6cf0\u5b89\u6751",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u53f0\u4e2d\u5e02",
+    "qs:photos":42,
+    "qs:photos_1k":9,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":42,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":176,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28757387,
+        "qs:id":984417,
+        "wd:id":"Q25349524",
+        "wk:page":"Tai'an Village"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053777,
+    "wof:geomhash":"b999228596e4094754ebe6cf276504f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":890469543,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":890469543,
+    "wof:lastmodified":1527792920,
+    "wof:name":"\u6cf0\u5b89\u6751",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.74585,
+    24.3270835,
+    120.74585,
+    24.3270835
+],
+  "geometry": {"coordinates":[120.74585,24.3270835],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1243006291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.57831,23.93154,120.57831,23.93154",
+    "geom:latitude":23.93154,
+    "geom:longitude":120.57831,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N05",
+    "gn:admin4_code":"10007100023.0",
+    "gn:asciiname":"Dalupan",
+    "gn:country_code":"TW",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668104,
+    "gn:latitude":23.93154,
+    "gn:longitude":120.57831,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dalupan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u8def\u7554"
+    ],
+    "name:zho_x_variant":[
+        "Ta-lu-p\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668104
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e088d28c4376e1af7fc14a458ac832f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243006291,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1243006291,
+    "wof:lastmodified":1537708609,
+    "wof:name":"Dalupan",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.57831000000002,
+    23.93154,
+    120.57831000000002,
+    23.93154
+],
+  "geometry": {"coordinates":[120.57831000000002,23.93154],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1343769589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.73825,24.93871,121.73825,24.93871",
+    "geom:latitude":24.93871,
+    "geom:longitude":121.73825,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F10",
+    "gn:admin4_code":"65000200006.0",
+    "gn:asciiname":"Zhongliao",
+    "gn:country_code":"TW",
+    "gn:dem":287,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6643751,
+    "gn:latitude":24.93871,
+    "gn:longitude":121.73825,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhongliao",
+        "Zhongliao",
+        "Chung-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6643751
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"37c019fb466d56f8a8f2cfb08a733cc0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343769589,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1343769589,
+    "wof:lastmodified":1537709692,
+    "wof:name":"Zhongliao",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.73825,
+    24.93871,
+    121.73825,
+    24.93871
+],
+  "geometry": {"coordinates":[121.73824999999999,24.93871],"type":"Point"}
+}

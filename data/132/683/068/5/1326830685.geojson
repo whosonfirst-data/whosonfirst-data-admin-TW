@@ -1,0 +1,80 @@
+{
+  "id": 1326830685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.87034,24.53036,120.87034,24.53036",
+    "geom:latitude":24.53036,
+    "geom:longitude":120.87034,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K04",
+    "gn:admin4_code":"10005090019.0",
+    "gn:asciiname":"Ankengzi",
+    "gn:country_code":"TW",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646229,
+    "gn:latitude":24.53036,
+    "gn:longitude":120.87034,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Ankengzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankengzih",
+        "Ankengzi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6697\u5751\u5b50"
+    ],
+    "name:zho_x_variant":[
+        "An-k\u2019eng-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646229
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9fba62a60484bc124930d77a2f48d8d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326830685,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1326830685,
+    "wof:lastmodified":1537709731,
+    "wof:name":"Ankengzi",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.87033999999998,
+    24.53036,
+    120.87033999999998,
+    24.53036
+],
+  "geometry": {"coordinates":[120.87033999999998,24.53036],"type":"Point"}
+}

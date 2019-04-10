@@ -1,0 +1,77 @@
+{
+  "id": 1259888687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47694,22.89111,120.47694,22.89111",
+    "geom:latitude":22.89111,
+    "geom:longitude":120.47694,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E30",
+    "gn:admin4_code":"64000300013.0",
+    "gn:asciiname":"Ruijili",
+    "gn:country_code":"TW",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6601000,
+    "gn:latitude":22.89111,
+    "gn:longitude":120.47694,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Ruijili",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rueijili",
+        "Jui-chi-li"
+    ],
+    "name:zho_x_preferred":[
+        "\u745e\u5409\u91cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6601000
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e70dcf40d6c931265d3b87ab2bb0a80d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259888687,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1259888687,
+    "wof:lastmodified":1537709637,
+    "wof:name":"Ruijili",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47693999999998,
+    22.89111,
+    120.47693999999998,
+    22.89111
+],
+  "geometry": {"coordinates":[120.47693999999998,22.89111],"type":"Point"}
+}

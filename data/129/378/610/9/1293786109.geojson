@@ -1,0 +1,81 @@
+{
+  "id": 1293786109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.73864,24.94945,121.73864,24.94945",
+    "geom:latitude":24.94945,
+    "geom:longitude":121.73864,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F10",
+    "gn:admin4_code":"65000200005.0",
+    "gn:asciiname":"Beishi",
+    "gn:country_code":"TW",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670737,
+    "gn:latitude":24.94945,
+    "gn:longitude":121.73864,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Beishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beishih",
+        "Beishi",
+        "Pei-shih"
+    ],
+    "name:zho_x_preferred":[
+        "Pei-shih-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u5317\u52e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670737
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fb3c0898bd6e0c72f4a83610d2d93a5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293786109,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1293786109,
+    "wof:lastmodified":1537708799,
+    "wof:name":"Beishi",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.73864,
+    24.94945,
+    121.73864,
+    24.94945
+],
+  "geometry": {"coordinates":[121.73864,24.94945],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1343359775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.82164,24.18298,120.82164,24.18298",
+    "geom:latitude":24.18298,
+    "geom:longitude":120.82164,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B19",
+    "gn:admin4_code":"66000190011.0",
+    "gn:asciiname":"Xinliucun",
+    "gn:country_code":"TW",
+    "gn:dem":549,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674924,
+    "gn:latitude":24.18298,
+    "gn:longitude":120.82164,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinliucun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-liu",
+        "Xinliucun",
+        "Sinlioucun"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u516d\u6751"
+    ],
+    "name:zho_x_variant":[
+        "Hsin-liu-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674924
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"79085af3e45f61d7fd9e39c209cb298b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343359775,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1343359775,
+    "wof:lastmodified":1537709081,
+    "wof:name":"Xinliucun",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.82164,
+    24.18298,
+    120.82164,
+    24.18298
+],
+  "geometry": {"coordinates":[120.82164,24.18298],"type":"Point"}
+}

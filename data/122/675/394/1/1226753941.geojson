@@ -1,0 +1,80 @@
+{
+  "id": 1226753941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5842,23.9694,120.5842,23.9694",
+    "geom:latitude":23.9694,
+    "geom:longitude":120.5842,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N05",
+    "gn:admin4_code":"10007100033.0",
+    "gn:asciiname":"Santiaozhuang",
+    "gn:country_code":"TW",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649838,
+    "gn:latitude":23.9694,
+    "gn:longitude":120.5842,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Santiaozhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santiaojhuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u689d\u5e84"
+    ],
+    "name:zho_x_variant":[
+        "San-ch\u2019iao-chuang",
+        "San-t\u2019iao-chuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649838
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"71bce5e9846a3f7879ecc7d1da5b8717",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226753941,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1226753941,
+    "wof:lastmodified":1537709790,
+    "wof:name":"Santiaozhuang",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5842,
+    23.9694,
+    120.5842,
+    23.9694
+],
+  "geometry": {"coordinates":[120.5842,23.9694],"type":"Point"}
+}

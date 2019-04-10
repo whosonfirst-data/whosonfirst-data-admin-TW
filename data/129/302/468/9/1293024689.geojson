@@ -1,0 +1,80 @@
+{
+  "id": 1293024689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.57512,23.85269,120.57512,23.85269",
+    "geom:latitude":23.85269,
+    "geom:longitude":120.57512,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N07",
+    "gn:admin4_code":"10007120017.0",
+    "gn:asciiname":"Sijiaoting",
+    "gn:country_code":"TW",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668837,
+    "gn:latitude":23.85269,
+    "gn:longitude":120.57512,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sijiaoting",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sihjiaoting",
+        "Sijiaoting"
+    ],
+    "name:zho_x_preferred":[
+        "\u56db\u8173\u4ead"
+    ],
+    "name:zho_x_variant":[
+        "Ssu-chiao-t\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668837
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"14778fa95450847e5478fc4f6c793cb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293024689,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1293024689,
+    "wof:lastmodified":1537708657,
+    "wof:name":"Sijiaoting",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.57512,
+    23.85269,
+    120.57512,
+    23.85269
+],
+  "geometry": {"coordinates":[120.57512,23.85269],"type":"Point"}
+}

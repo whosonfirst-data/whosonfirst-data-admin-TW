@@ -1,0 +1,82 @@
+{
+  "id": 1327054109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8671,24.64257,120.8671,24.64257",
+    "geom:latitude":24.64257,
+    "geom:longitude":120.8671,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K11",
+    "gn:admin4_code":"10005150001.0",
+    "gn:asciiname":"Zaoqiao",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666922,
+    "gn:latitude":24.64257,
+    "gn:longitude":120.8671,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Zaoqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zaociao"
+    ],
+    "name:zho_x_preferred":[
+        "Tsao-ch\u2019iao-erh-pao"
+    ],
+    "name:zho_x_variant":[
+        "Y\u00fcan-feng-ts\u2019un",
+        "\u9020\u6a4b",
+        "Tsao-ch\u2019iao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666922,
+        "wk:page":"Zaoqiao,_Miaoli"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a4b1fe3d02dcd882991be8f7708e62ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327054109,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1327054109,
+    "wof:lastmodified":1537708529,
+    "wof:name":"Zaoqiao",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8671,
+    24.64257000000001,
+    120.8671,
+    24.64257000000001
+],
+  "geometry": {"coordinates":[120.86709999999999,24.64257000000001],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1343567483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.25389,23.66611,120.25389,23.66611",
+    "geom:latitude":23.66611,
+    "geom:longitude":120.25389,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P14",
+    "gn:admin4_code":"10009140003.0",
+    "gn:asciiname":"Zhentoucuo",
+    "gn:country_code":"TW",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677121,
+    "gn:latitude":23.66611,
+    "gn:longitude":120.25389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhentoucuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhentoucuo"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u00fcn-lu-ts\u2019o"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019\u00fcan-t\u2019ou-ts\u2019o",
+        "\u5733\u982d\u539d",
+        "Ch\u00fcn-t\u2019ou-ts\u2019o",
+        "Chun-t\u2019ou-ts\u2019o",
+        "Chen-t\u2019ou-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677121
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fdfa64b32e84c6575c2ae1796f9b07fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343567483,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1343567483,
+    "wof:lastmodified":1537709265,
+    "wof:name":"Zhentoucuo",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.25388999999998,
+    23.66611,
+    120.25388999999998,
+    23.66611
+],
+  "geometry": {"coordinates":[120.25388999999998,23.66611],"type":"Point"}
+}

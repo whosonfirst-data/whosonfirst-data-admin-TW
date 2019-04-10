@@ -1,0 +1,80 @@
+{
+  "id": 1327158407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.235,23.17139,120.235,23.17139",
+    "geom:latitude":23.17139,
+    "geom:longitude":120.235,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R07",
+    "gn:admin4_code":"67000070028.0",
+    "gn:asciiname":"Qianban",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678489,
+    "gn:latitude":23.17139,
+    "gn:longitude":120.235,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qianban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cianban",
+        "Qianban"
+    ],
+    "name:zho_x_preferred":[
+        "\u524d\u73ed"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ien-pan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678489
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fed86e0f3f0959cd1ffd1d525c65b14c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327158407,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1327158407,
+    "wof:lastmodified":1537709370,
+    "wof:name":"Qianban",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.235,
+    23.17139,
+    120.235,
+    23.17139
+],
+  "geometry": {"coordinates":[120.235,23.17139],"type":"Point"}
+}

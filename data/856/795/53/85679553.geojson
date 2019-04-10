@@ -1,0 +1,367 @@
+{
+  "id": 85679553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.194567,
+    "geom:area_square_m":2212064978.595932,
+    "geom:bbox":"120.028249545,22.8961221379,120.653442011,23.41391999",
+    "geom:latitude":23.154085,
+    "geom:longitude":120.33278,
+    "gn:id":"",
+    "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Tainan City Special Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "special municipality"
+    ],
+    "lbl:latitude":23.146852,
+    "lbl:longitude":120.333411,
+    "mps:latitude":23.146852,
+    "mps:longitude":120.333411,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "name:afr_x_preferred":[
+        "Tainan"
+    ],
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u064a\u0646\u0627\u0646"
+    ],
+    "name:arm_x_preferred":[
+        "\u0539\u0561\u0575\u0576\u0561\u0576"
+    ],
+    "name:baq_x_preferred":[
+        "Tainan"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0422\u0430\u0439\u043d\u0430\u043d\u044c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u0987\u09a8\u09be\u09a8"
+    ],
+    "name:cat_x_preferred":[
+        "Tainan"
+    ],
+    "name:cdo_x_preferred":[
+        "D\u00e0i-n\u00e0ng"
+    ],
+    "name:chi_x_preferred":[
+        "\u81fa\u5357\u5e02"
+    ],
+    "name:cze_x_preferred":[
+        "Tchaj-nan"
+    ],
+    "name:dan_x_preferred":[
+        "Tainan"
+    ],
+    "name:dut_x_preferred":[
+        "Tainan"
+    ],
+    "name:eng_x_preferred":[
+        "Tainan City"
+    ],
+    "name:epo_x_preferred":[
+        "Tajnan"
+    ],
+    "name:fin_x_preferred":[
+        "Tainan"
+    ],
+    "name:fre_x_preferred":[
+        "Tainan"
+    ],
+    "name:gan_x_preferred":[
+        "\u81fa\u5357\u5e02"
+    ],
+    "name:ger_x_preferred":[
+        "Tainan"
+    ],
+    "name:gle_x_preferred":[
+        "Tainan"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a4\u03b1\u03ca\u03bd\u03ac\u03bd"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa4\u0ac8\u0aa8\u0aa8"
+    ],
+    "name:hak_x_preferred":[
+        "Th\u00f2i-n\u00e0m-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05d9\u05e0\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u093e\u0907\u0928\u093e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Tajnan"
+    ],
+    "name:ind_x_preferred":[
+        "Kota Tainan"
+    ],
+    "name:ita_x_preferred":[
+        "Tainan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u53f0\u5357\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca4\u0cc8\u0ca8\u0cc6\u0ca8\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\uc774\ub09c \uc2dc"
+    ],
+    "name:lat_x_preferred":[
+        "Tainan"
+    ],
+    "name:lav_x_preferred":[
+        "Tainana"
+    ],
+    "name:lit_x_preferred":[
+        "Tainanas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u81fa\u5357\u5e02"
+    ],
+    "name:mac_x_preferred":[
+        "\u0422\u0430\u0458\u043d\u0430\u043d"
+    ],
+    "name:mar_x_preferred":[
+        "\u0924\u093e\u0908\u0928\u093e\u0928"
+    ],
+    "name:may_x_preferred":[
+        "Tainan"
+    ],
+    "name:mon_x_preferred":[
+        "\u0422\u0430\u0439\u043d\u0430\u043d\u044c"
+    ],
+    "name:nan_x_preferred":[
+        "T\u00e2i-l\u00e2m-chh\u012b"
+    ],
+    "name:nob_x_preferred":[
+        "Tainan"
+    ],
+    "name:oci_x_preferred":[
+        "Tainan"
+    ],
+    "name:per_x_preferred":[
+        "\u062a\u0627\u06cc\u0646\u0627\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Tainan"
+    ],
+    "name:por_x_preferred":[
+        "Tainan"
+    ],
+    "name:que_x_preferred":[
+        "T'aynam"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u043d\u0430\u043d\u044c"
+    ],
+    "name:sco_x_preferred":[
+        "Tainan"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dba\u0dd2\u0db1\u0db1\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Tainan"
+    ],
+    "name:swe_x_preferred":[
+        "Tainan"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9f\u0bc8\u0ba9\u0bbe\u0ba9\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c3e\u0c2f\u0c3f\u0c28\u0c3e\u0c28\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e44\u0e16\u0e2b\u0e19\u0e31\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Tainan"
+    ],
+    "name:uig_x_preferred":[
+        "Teynen shehiri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0439\u043d\u0430\u043d\u044c"
+    ],
+    "name:unk_x_variant":[
+        "Tainan Sian"
+    ],
+    "name:urd_x_preferred":[
+        "\u062a\u0627\u06cc\u0646\u0627\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00e0i Nam"
+    ],
+    "name:war_x_preferred":[
+        "Tainan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u53f0\u5357\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u81fa\u5357\u5e02"
+    ],
+    "name:zha_x_preferred":[
+        "Daiznanz"
+    ],
+    "name:zho_x_preferred":[
+        "\u53f0\u5357\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u53f0\u5357",
+        "\u81fa\u5357\u7e23",
+        "T\u2019ai-nan",
+        "T\u2019ai-nan Hsien"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TWN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"7",
+    "ne:adm1_cod_1":"TWN-1160",
+    "ne:adm1_code":"TWN-1160",
+    "ne:admin":"Taiwan",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"20",
+    "ne:code_hasc":"TW.TW.TN",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1160",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Taiwan",
+    "ne:gn_a1_code":"TW.TNQ",
+    "ne:gn_id":"1668354",
+    "ne:gn_level":"2",
+    "ne:gn_name":"Tainan",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"TW21",
+    "ne:gns_id":"-2637871",
+    "ne:gns_lang":"zho",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Tainan Shi",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TWN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TW-TNN",
+    "ne:iso_a2":"TW",
+    "ne:labelrank":"9",
+    "ne:latitude":"23.04640000000",
+    "ne:longitude":"120.18200000000",
+    "ne:mapcolor13":2,
+    "ne:mapcolor9":7,
+    "ne:name":"Tainan City",
+    "ne:name_alt":"Tainan Shi",
+    "ne:name_len":11,
+    "ne:name_local":"",
+    "ne:note":"Established on 2010-12-25 by merging Tainan City (old) with Tainan County",
+    "ne:postal":"TN",
+    "ne:provnum_ne":"6",
+    "ne:region":"Special Municipalities",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"1",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"TWN",
+    "ne:sub_code":"",
+    "ne:type":"Zhixiashi",
+    "ne:type_en":"Special Municipality",
+    "ne:wikipedia":"",
+    "ne:woe_id":28751581,
+    "ne:woe_label":"",
+    "ne:woe_name":"Tainan City",
+    "qs:a0":"Taiwan",
+    "qs:a0_lc":"TW",
+    "qs:a1":"Tainan City",
+    "qs:a1_lc":"TWN-1160",
+    "qs:a1r":"Special Municipalities",
+    "qs:adm0":"Taiwan",
+    "qs:adm0_a3":"TWN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Special Municipality",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-12-31",
+    "statoids:area_km":"2192",
+    "statoids:as_of_date":"2010-12-31",
+    "statoids:capital":"Tainan",
+    "statoids:country":"TW",
+    "statoids:hasc":"TW.TN",
+    "statoids:name":"Tainan City",
+    "statoids:population":"1840257",
+    "statoids:statoid":"TW.TN.TI",
+    "statoids:timezone":"8",
+    "statoids:type":"special municipality",
+    "unlc:subdivision":"TW-TNQ",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":1668354,
+        "gp:id":28751581,
+        "hasc:id":"TW.TN.TI",
+        "qs:id":1171375,
+        "unlc:id":"TW-TNQ",
+        "wd:id":"Q140631"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c17b90426b5c34f9e745381994489bb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":85679553,
+    "wof:lang":[
+        "chi"
+    ],
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1553550591,
+    "wof:name":"Tainan City",
+    "wof:parent_id":1108808553,
+    "wof:placetype":"region",
+    "wof:placetype_local":"special municipality",
+    "wof:population":1840257,
+    "wof:population_rank":12,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:shortcode":"TI",
+    "wof:subdivision":"TW-TNQ",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.02824954498055,
+    22.8961221379264,
+    120.65344201123992,
+    23.41391999001559
+],
+  "geometry": {"coordinates":[[[[120.04558353045559,23.04889557487093],[120.04322350436132,23.04458242453933],[120.03467858245074,23.05170319264829],[120.02824954498055,23.0661888696207],[120.0293074876505,23.07070547088085],[120.03199303505062,23.0707868514321],[120.03532962326358,23.06655507985312],[120.03785241046046,23.0600446645297],[120.0460718110653,23.05227285470852],[120.04558353045559,23.04889557487093]]],[[[120.04761803524423,23.14541250218525],[120.03655032613665,23.12095774950058],[120.03630618628154,23.12144603100955],[120.05144290496617,23.16815827048782],[120.05225670688162,23.16766998897884],[120.05372155050918,23.16754791950092],[120.04851321681156,23.14960358303898],[120.04761803524423,23.14541250218525]]],[[[120.0606388676897,23.19021230725224],[120.06039472693521,23.19021230725224],[120.0741479834428,23.22459544492392],[120.07618248823132,23.22483958567841],[120.07683352994354,23.21853261948485],[120.0606388676897,23.19021230725224]]],[[[120.08489017034515,23.2686628286267],[120.08366946747196,23.26003652616481],[120.08326256651435,23.26040273639722],[120.08562259170935,23.29726797143979],[120.08757571684589,23.29665761955357],[120.08489017034515,23.2686628286267]]],[[[120.53727339085435,23.30312571907672],[120.53065880705833,23.25351634420394],[120.53665327412932,23.23760000323762],[120.55380984944509,23.22540436531926],[120.56807254401281,23.22519765884493],[120.58853641212579,23.23367259371526],[120.60755333941518,23.23594635683895],[120.62160932840789,23.23201894821597],[120.65344201123992,23.22865998037383],[120.64476036989527,23.20556061483057],[120.60507286981715,23.15264394805979],[120.56703901613776,23.09311269839236],[120.54244103382666,23.06396718983399],[120.51412234936697,23.03854238522297],[120.48952436705599,23.01973216440791],[120.4661666199936,22.99720124054488],[120.4461161639299,22.97260325823385],[120.43474734921085,22.95420644856881],[120.42565229671618,22.9349828148051],[120.40167443202949,22.91947988498873],[120.37707645061778,22.91038483339338],[120.3636405783501,22.90128978089871],[120.34772423738366,22.8961221379264],[120.31568484897662,22.89963613539936],[120.28426557819398,22.89653554907636],[120.22473432762717,22.90439036722171],[120.20654422443647,22.91286530209209],[120.19145470577007,22.94325104410046],[120.19093794183266,22.9448013368123],[120.16749191282156,22.93186590848495],[120.16749108184797,22.93187083497111],[120.16382897232927,22.95384349208354],[120.15691165514886,22.96653880412254],[120.14210045687059,22.98029205883148],[120.16016686281057,22.99213288002846],[120.17025800890008,23.0133731139781],[120.16618899842365,23.03172435139777],[120.14210045687059,23.03489817940749],[120.13746178523331,23.02838776228543],[120.13347415530814,23.01654694198783],[120.12671959743159,23.00714752833579],[120.11410566504446,23.00763580894545],[120.10914147210133,23.01544830949194],[120.11101321668662,23.03998444182855],[120.10792076922814,23.04857005446451],[120.09245853013715,23.05475495028077],[120.08375084712395,23.04755280251987],[120.07667076884093,23.03742096660437],[120.06625410234506,23.03489817940749],[120.05518639413685,23.04368724207262],[120.05241946708475,23.05581289295071],[120.05494225428163,23.06777578362556],[120.05941816481652,23.07587311385316],[120.07056725447524,23.08120351792809],[120.08472741014191,23.08295319213613],[120.09644616006233,23.08641185162571],[120.10043378998751,23.09699127832488],[120.09498131643466,23.10248444260299],[120.05941816481652,23.11066315338189],[120.05941816481652,23.11749909091037],[120.0892033206768,23.11774323166486],[120.08627363432083,23.12693919528766],[120.07007897206699,23.13979726842922],[120.05941816481652,23.15102773594128],[120.06202233166539,23.16502513230404],[120.07154381569455,23.16998932524723],[120.08187910253866,23.17316315325695],[120.08692467513367,23.18203359647333],[120.08383222677594,23.19574616135634],[120.07862389397758,23.20697663066704],[120.08215891670068,23.21729237884028],[120.08744371345665,23.23028782342436],[120.09609750369691,23.23949089259065],[120.09424889417119,23.24750397342967],[120.0960392591046,23.25535716470142],[120.1088973322461,23.28668854384125],[120.11491946695992,23.29271067945433],[120.12468509174369,23.2949893249974],[120.1104935380464,23.30369871402451],[120.1165272173572,23.31789740384215],[120.13647098235003,23.31098053632275],[120.17016401625642,23.30643301007541],[120.19765587841607,23.30002513275372],[120.22142703662848,23.30974030197342],[120.23093550027318,23.32710358286408],[120.25284630741123,23.33950592725677],[120.27806440644724,23.35748932487252],[120.2958410993873,23.37423248993753],[120.31919884734896,23.39014883090385],[120.34875776615809,23.40234446882221],[120.40663537032617,23.41226634451624],[120.43888146430822,23.41391999001559],[120.4661666199936,23.4056517598209],[120.4814628442349,23.39717682495058],[120.48931766238024,23.38250071923284],[120.495932245277,23.36472402629283],[120.53355268780638,23.32937734598778],[120.53727339085435,23.30312571907672]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1310210929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.93584,23.91021,120.93584,23.91021",
+    "geom:latitude":23.91021,
+    "geom:longitude":120.93584,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M09",
+    "gn:admin4_code":"10008090002.0",
+    "gn:asciiname":"Guwei",
+    "gn:country_code":"TW",
+    "gn:dem":654,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649164,
+    "gn:latitude":23.91021,
+    "gn:longitude":120.93584,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Guwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ku-wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u80a1\u5c3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649164
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8ed7d11c142c01b521bfa0ffb027e99d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310210929,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1310210929,
+    "wof:lastmodified":1537709780,
+    "wof:name":"Guwei",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.93583999999998,
+    23.91021,
+    120.93583999999998,
+    23.91021
+],
+  "geometry": {"coordinates":[120.93583999999998,23.91021],"type":"Point"}
+}

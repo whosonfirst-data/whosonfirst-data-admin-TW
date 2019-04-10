@@ -1,0 +1,72 @@
+{
+  "id": 1209016085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.59494,25.22401,121.59494,25.22401",
+    "geom:latitude":25.22401,
+    "geom:longitude":121.59494,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F25",
+    "gn:admin4_code":"65000270007.0",
+    "gn:asciiname":"Zhuzishanjiao",
+    "gn:country_code":"TW",
+    "gn:dem":246,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677097,
+    "gn:latitude":25.22401,
+    "gn:longitude":121.59494,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhuzishanjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhuzihshanjiao",
+        "Chu-shan",
+        "Chu-tzu-shan-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u5b50\u5c71\u811a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677097
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ce8b2d678662bf461a6b35414ea876cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209016085
+        }
+    ],
+    "wof:id":1209016085,
+    "wof:lastmodified":1537709263,
+    "wof:name":"Zhuzishanjiao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.59494,
+    25.22401,
+    121.59494,
+    25.22401
+],
+  "geometry": {"coordinates":[121.59493999999999,25.22401],"type":"Point"}
+}

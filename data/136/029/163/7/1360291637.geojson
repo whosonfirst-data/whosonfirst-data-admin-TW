@@ -1,0 +1,82 @@
+{
+  "id": 1360291637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.60135,23.52443,119.60135,23.52443",
+    "geom:latitude":23.52443,
+    "geom:longitude":119.60135,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PEN",
+    "gn:admin3_code":"X01",
+    "gn:admin4_code":"10016010028.0",
+    "gn:asciiname":"Suogang",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668846,
+    "gn:latitude":23.52443,
+    "gn:longitude":119.60135,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Suogang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "So-kuan-chiang",
+        "So-kuan-kang",
+        "So-kang-li",
+        "Suogang",
+        "So-kang"
+    ],
+    "name:zho_x_preferred":[
+        "\u9396\u6e2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679627,
+        102191569,
+        85632403,
+        1108500085,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668846
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c1e1657f20df1446ceceb85bc11815ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360291637,
+            "macrocounty_id":1108500085,
+            "macroregion_id":1108808557,
+            "region_id":85679627
+        }
+    ],
+    "wof:id":1360291637,
+    "wof:lastmodified":1537708658,
+    "wof:name":"Suogang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.60135,
+    23.52443,
+    119.60135,
+    23.52443
+],
+  "geometry": {"coordinates":[119.60135,23.52443],"type":"Point"}
+}

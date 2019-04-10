@@ -1,0 +1,77 @@
+{
+  "id": 1260195855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48889,22.91667,120.48889,22.91667",
+    "geom:latitude":22.91667,
+    "geom:longitude":120.48889,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E30",
+    "gn:admin4_code":"64000300015.0",
+    "gn:asciiname":"Liuzhangli",
+    "gn:country_code":"TW",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672773,
+    "gn:latitude":22.91667,
+    "gn:longitude":120.48889,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liuzhangli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lioujhangli",
+        "Liu-chang-li"
+    ],
+    "name:zho_x_preferred":[
+        "\u516d\u5f35\u7282"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672773
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c78b408e68a7d4a1ad305a4aa12a3d4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260195855,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1260195855,
+    "wof:lastmodified":1537708928,
+    "wof:name":"Liuzhangli",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48888999999998,
+    22.91667,
+    120.48888999999998,
+    22.91667
+],
+  "geometry": {"coordinates":[120.48888999999998,22.91667],"type":"Point"}
+}

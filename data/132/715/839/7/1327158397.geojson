@@ -1,0 +1,76 @@
+{
+  "id": 1327158397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.85164,24.47174,120.85164,24.47174",
+    "geom:latitude":24.47174,
+    "geom:longitude":120.85164,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K04",
+    "gn:admin4_code":"10005090011.0",
+    "gn:asciiname":"Dalukeng",
+    "gn:country_code":"TW",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668122,
+    "gn:latitude":24.47174,
+    "gn:longitude":120.85164,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dalukeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6253\u9e7f\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Ta-lu-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668122
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a6bf767ea9e0e2e1d423f7608c47eb97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327158397,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1327158397,
+    "wof:lastmodified":1537708610,
+    "wof:name":"Dalukeng",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.85164,
+    24.47174,
+    120.85164,
+    24.47174
+],
+  "geometry": {"coordinates":[120.85164,24.47174],"type":"Point"}
+}

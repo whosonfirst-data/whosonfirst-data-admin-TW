@@ -1,0 +1,72 @@
+{
+  "id": 1209247847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.80194,24.76389,121.80194,24.76389",
+    "geom:latitude":24.76389,
+    "geom:longitude":121.80194,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G04",
+    "gn:admin4_code":"10002060008.0",
+    "gn:asciiname":"Shisangu",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669268,
+    "gn:latitude":24.76389,
+    "gn:longitude":121.80194,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shisangu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihsangu",
+        "Shisangu",
+        "Shih-san-ku"
+    ],
+    "name:zho_x_preferred":[
+        "\u5341\u4e09\u80a1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669268
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f154b510a50f7b5a0aef035f4d031fb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209247847
+        }
+    ],
+    "wof:id":1209247847,
+    "wof:lastmodified":1537708691,
+    "wof:name":"Shisangu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.80194,
+    24.76389,
+    121.80194,
+    24.76389
+],
+  "geometry": {"coordinates":[121.80194,24.76389],"type":"Point"}
+}

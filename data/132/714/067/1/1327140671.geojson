@@ -1,0 +1,82 @@
+{
+  "id": 1327140671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.87227,24.7229,120.87227,24.7229",
+    "geom:latitude":24.7229,
+    "geom:longitude":120.87227,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040021.0",
+    "gn:asciiname":"Qiding",
+    "gn:country_code":"TW",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677922,
+    "gn:latitude":24.7229,
+    "gn:longitude":120.87227,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qiding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciding",
+        "Qiding"
+    ],
+    "name:zho_x_preferred":[
+        "Pei-hu-t\u2019ou"
+    ],
+    "name:zho_x_variant":[
+        "\u5d0e\u9802",
+        "Ch\u2019i-ting-li",
+        "Ch\u2019i-ting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677922
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d49c92b43bd47505b0fbe84a26da550f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327140671,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1327140671,
+    "wof:lastmodified":1537709335,
+    "wof:name":"Qiding",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.87227,
+    24.7229,
+    120.87227,
+    24.7229
+],
+  "geometry": {"coordinates":[120.87227,24.7229],"type":"Point"}
+}

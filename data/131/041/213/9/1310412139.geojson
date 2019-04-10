@@ -1,0 +1,77 @@
+{
+  "id": 1310412139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.80583,21.99972,120.80583,21.99972",
+    "geom:latitude":21.99972,
+    "geom:longitude":120.80583,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T24",
+    "gn:admin4_code":"10013240003.0",
+    "gn:asciiname":"Daifeng",
+    "gn:country_code":"TW",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6603015,
+    "gn:latitude":21.99972,
+    "gn:longitude":120.80583,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Daifeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daifong",
+        "Tai-feng"
+    ],
+    "name:zho_x_preferred":[
+        "\u5446\u98a8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6603015
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cba85b0258a9f4ef21c26043a857eff0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310412139,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1310412139,
+    "wof:lastmodified":1537709672,
+    "wof:name":"Daifeng",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.80583,
+    21.99972,
+    120.80583,
+    21.99972
+],
+  "geometry": {"coordinates":[120.80583,21.99972],"type":"Point"}
+}

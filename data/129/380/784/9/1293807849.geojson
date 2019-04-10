@@ -1,0 +1,76 @@
+{
+  "id": 1293807849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.09111,23.78722,121.09111,23.78722",
+    "geom:latitude":23.78722,
+    "geom:longitude":121.09111,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M12",
+    "gn:admin4_code":"10008120002.0",
+    "gn:asciiname":"Yekebo",
+    "gn:country_code":"TW",
+    "gn:dem":1182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665583,
+    "gn:latitude":23.78722,
+    "gn:longitude":121.09111,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yekebo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8036\u5580\u535a"
+    ],
+    "name:zho_x_variant":[
+        "Yeh-k\u2019o-po"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665583
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d767db85a889fa7cff138a843614758c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293807849,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1293807849,
+    "wof:lastmodified":1537708444,
+    "wof:name":"Yekebo",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.09111,
+    23.78722,
+    121.09111,
+    23.78722
+],
+  "geometry": {"coordinates":[121.09111,23.78722],"type":"Point"}
+}

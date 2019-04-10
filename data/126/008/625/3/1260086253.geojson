@@ -1,0 +1,77 @@
+{
+  "id": 1260086253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.73333,25.15,121.73333,25.15",
+    "geom:latitude":25.15,
+    "geom:longitude":121.73333,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"KEE",
+    "gn:admin3_code":"C05",
+    "gn:admin4_code":"10017050013.0",
+    "gn:asciiname":"Niuchougang",
+    "gn:country_code":"TW",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671320,
+    "gn:latitude":25.15,
+    "gn:longitude":121.73333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Niuchougang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niu-ch\u2019ou-chiang",
+        "Niu-ch\u2019ou-kang",
+        "Niuchougang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679571,
+        102191569,
+        85632403,
+        1108756875,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671320
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b7f03acaaa1d501c4dab4e3b9275a4a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260086253,
+            "macrocounty_id":1108756875,
+            "macroregion_id":1108808557,
+            "region_id":85679571
+        }
+    ],
+    "wof:id":1260086253,
+    "wof:lastmodified":1537708836,
+    "wof:name":"Niuchougang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.73333,
+    25.15,
+    121.73333,
+    25.15
+],
+  "geometry": {"coordinates":[121.73333,25.15],"type":"Point"}
+}

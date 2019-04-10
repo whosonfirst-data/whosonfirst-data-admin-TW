@@ -1,0 +1,76 @@
+{
+  "id": 1343964261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.98298,24.5336,120.98298,24.5336",
+    "geom:latitude":24.5336,
+    "geom:longitude":120.98298,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K14",
+    "gn:admin4_code":"10005110008.0",
+    "gn:asciiname":"Erping",
+    "gn:country_code":"TW",
+    "gn:dem":926,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646008,
+    "gn:latitude":24.5336,
+    "gn:longitude":120.98298,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Erping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e8c\u576a"
+    ],
+    "name:zho_x_variant":[
+        "Erh-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646008
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"05600cc277772fd20acbbdbcf08adada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343964261,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1343964261,
+    "wof:lastmodified":1537709716,
+    "wof:name":"Erping",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.98298,
+    24.5336,
+    120.98298,
+    24.5336
+],
+  "geometry": {"coordinates":[120.98298,24.5336],"type":"Point"}
+}

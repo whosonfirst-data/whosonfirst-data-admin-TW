@@ -1,0 +1,74 @@
+{
+  "id": 1209112399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.60297,24.63211,121.60297,24.63211",
+    "geom:latitude":24.63211,
+    "geom:longitude":121.60297,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G11",
+    "gn:admin4_code":"10002110004.0",
+    "gn:asciiname":"Daxi",
+    "gn:country_code":"TW",
+    "gn:dem":205,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668476,
+    "gn:latitude":24.63211,
+    "gn:longitude":121.60297,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Daxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dasi",
+        "Ta-hsi"
+    ],
+    "name:zho_x_preferred":[
+        "Ta-ch\u2019i"
+    ],
+    "name:zho_x_variant":[
+        "\u5927\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668476
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4f9170c7a962e21ab3d5110d73d34438",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209112399
+        }
+    ],
+    "wof:id":1209112399,
+    "wof:lastmodified":1537708630,
+    "wof:name":"Daxi",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.60297,
+    24.63211,
+    121.60297,
+    24.63211
+],
+  "geometry": {"coordinates":[121.60297,24.63211],"type":"Point"}
+}

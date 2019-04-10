@@ -1,0 +1,71 @@
+{
+  "id": 1209247629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.78083,24.1906,120.78083,24.1906",
+    "geom:latitude":24.1906,
+    "geom:longitude":120.78083,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B08",
+    "gn:admin4_code":"66000080015.0",
+    "gn:asciiname":"Longzhouwo",
+    "gn:country_code":"TW",
+    "gn:dem":423,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6726839,
+    "gn:latitude":24.1906,
+    "gn:longitude":120.78083,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Longzhouwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Longjhouwo",
+        "Lung-chou-wo"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f8d\u821f\u7aa9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6726839
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8a29d173130645e50a828cce974f53df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209247629
+        }
+    ],
+    "wof:id":1209247629,
+    "wof:lastmodified":1537709902,
+    "wof:name":"Longzhouwo",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.78083,
+    24.1906,
+    120.78083,
+    24.1906
+],
+  "geometry": {"coordinates":[120.78082999999999,24.1906],"type":"Point"}
+}

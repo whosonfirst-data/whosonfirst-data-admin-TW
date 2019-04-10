@@ -1,0 +1,81 @@
+{
+  "id": 1293133879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.82481,24.45673,120.82481,24.45673",
+    "geom:latitude":24.45673,
+    "geom:longitude":120.82481,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K05",
+    "gn:admin4_code":"10005100008.0",
+    "gn:asciiname":"Liuhuangkeng",
+    "gn:country_code":"TW",
+    "gn:dem":179,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992284,
+    "gn:latitude":24.45673,
+    "gn:longitude":120.82481,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liuhuangkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liouhuangkeng",
+        "Liuhuangkeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u786b\u78fa\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Liu-huang-k\u2019eng",
+        "Liu-huang-k\u2019u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992284
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4ea95a822caa3fad31d507b572f5a724",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293133879,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1293133879,
+    "wof:lastmodified":1537709455,
+    "wof:name":"Liuhuangkeng",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.82481,
+    24.45673,
+    120.82481,
+    24.45673
+],
+  "geometry": {"coordinates":[120.82481,24.45673],"type":"Point"}
+}

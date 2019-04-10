@@ -1,0 +1,76 @@
+{
+  "id": 1343768077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4233,23.7466,120.4233,23.7466",
+    "geom:latitude":23.7466,
+    "geom:longitude":120.4233,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P04",
+    "gn:admin4_code":"10009040025.0",
+    "gn:asciiname":"Wucuo",
+    "gn:country_code":"TW",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665685,
+    "gn:latitude":23.7466,
+    "gn:longitude":120.4233,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wucuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5433\u539d"
+    ],
+    "name:zho_x_variant":[
+        "Wu-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665685
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d24470cfa7dc7491b1b233fc362fdb00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343768077,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1343768077,
+    "wof:lastmodified":1537708450,
+    "wof:name":"Wucuo",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4233,
+    23.7466,
+    120.4233,
+    23.7466
+],
+  "geometry": {"coordinates":[120.4233,23.7466],"type":"Point"}
+}

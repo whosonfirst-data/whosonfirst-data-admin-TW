@@ -1,0 +1,80 @@
+{
+  "id": 1193143101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86891,24.69952,120.86891,24.69952",
+    "geom:latitude":24.69952,
+    "geom:longitude":120.86891,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040024.0",
+    "gn:asciiname":"Houcuozi",
+    "gn:country_code":"TW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675940,
+    "gn:latitude":24.69952,
+    "gn:longitude":120.86891,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Houcuozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Houcuozih",
+        "Houcuozi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f8c\u539d\u4ed4"
+    ],
+    "name:zho_x_variant":[
+        "Hou-ts\u2019o-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675940
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"948f1887c80d957fa1ad8838ef8eb13c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193143101,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1193143101,
+    "wof:lastmodified":1537709177,
+    "wof:name":"Houcuozi",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86891,
+    24.69952,
+    120.86891,
+    24.69952
+],
+  "geometry": {"coordinates":[120.86891,24.69952],"type":"Point"}
+}

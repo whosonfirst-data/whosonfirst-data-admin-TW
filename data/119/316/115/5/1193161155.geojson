@@ -1,0 +1,79 @@
+{
+  "id": 1193161155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6791,24.0905,120.6791,24.0905",
+    "geom:latitude":24.0905,
+    "geom:longitude":120.6791,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B28",
+    "gn:admin4_code":"66000280012.0",
+    "gn:asciiname":"Dingcuozi",
+    "gn:country_code":"TW",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993346,
+    "gn:latitude":24.0905,
+    "gn:longitude":120.6791,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingcuozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9802\u539d\u5b50",
+        "Dingcuozih",
+        "Dingcuozi",
+        "Ting-ts\u2019o-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "Ting-ts\u2019o-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993346
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ec53aed9e5c99385f09355d41a1246cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193161155,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1193161155,
+    "wof:lastmodified":1537709479,
+    "wof:name":"Dingcuozi",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6791,
+    24.0905,
+    120.6791,
+    24.0905
+],
+  "geometry": {"coordinates":[120.67910000000001,24.0905],"type":"Point"}
+}

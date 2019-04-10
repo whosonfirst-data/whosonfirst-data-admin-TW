@@ -1,0 +1,76 @@
+{
+  "id": 1309718179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.22889,23.645,120.22889,23.645",
+    "geom:latitude":23.645,
+    "geom:longitude":120.22889,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P18",
+    "gn:admin4_code":"10009180005.0",
+    "gn:asciiname":"Baochanghu",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670979,
+    "gn:latitude":23.645,
+    "gn:longitude":120.22889,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Baochanghu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4fdd\u9577\u6e56"
+    ],
+    "name:zho_x_variant":[
+        "Pao-ch\u2019ang-hu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670979
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8b89654f2d58b7bd6653936bb5f35ee4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309718179,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1309718179,
+    "wof:lastmodified":1537708813,
+    "wof:name":"Baochanghu",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.22889,
+    23.645,
+    120.22889,
+    23.645
+],
+  "geometry": {"coordinates":[120.22889000000001,23.645],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209338747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48917,23.495,120.48917,23.495",
+    "geom:latitude":23.495,
+    "geom:longitude":120.48917,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q15",
+    "gn:admin4_code":"10010140008.0",
+    "gn:asciiname":"Qijiao",
+    "gn:country_code":"TW",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6574617,
+    "gn:latitude":23.495,
+    "gn:longitude":120.48917,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cijiao",
+        "Qijiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5d0e\u8173"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019i-t\u2019ang",
+        "Ch\u2019i-chiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6574617
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d719e0f447a6275ae61126933eaa44e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209338747
+        }
+    ],
+    "wof:id":1209338747,
+    "wof:lastmodified":1537709531,
+    "wof:name":"Qijiao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48917,
+    23.495,
+    120.48917,
+    23.495
+],
+  "geometry": {"coordinates":[120.48917,23.495],"type":"Point"}
+}

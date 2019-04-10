@@ -1,0 +1,81 @@
+{
+  "id": 1293390383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.85222,21.90389,120.85222,21.90389",
+    "geom:latitude":21.90389,
+    "geom:longitude":120.85222,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T04",
+    "gn:admin4_code":"10013040017.0",
+    "gn:asciiname":"Eluanbi",
+    "gn:country_code":"TW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671232,
+    "gn:latitude":21.90389,
+    "gn:longitude":120.85222,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Eluanbi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "O-Lan-Pi",
+        "Eluanbi",
+        "O-luan-pi"
+    ],
+    "name:zho_x_preferred":[
+        "\u9d5d\u947e\u9f3b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679549,
+        102191569,
+        85632403,
+        1108499273,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671232,
+        "wk:page":"Cape_Eluanbi"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c2eb0bef354d8be572ae6e5505850ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293390383,
+            "macrocounty_id":1108499273,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1293390383,
+    "wof:lastmodified":1537708828,
+    "wof:name":"Eluanbi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.85222,
+    21.90389,
+    120.85222,
+    21.90389
+],
+  "geometry": {"coordinates":[120.85222,21.90389],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343685683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.24694,22.99333,120.24694,22.99333",
+    "geom:latitude":22.99333,
+    "geom:longitude":120.24694,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R31",
+    "gn:admin4_code":"67000310021.0",
+    "gn:asciiname":"Jianguocun",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6589596,
+    "gn:latitude":22.99333,
+    "gn:longitude":120.24694,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jianguocun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5efa\u570b\u6751"
+    ],
+    "name:zho_x_variant":[
+        "Chien-kuo-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6589596
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"da509123a0ca03bc63a616e9aaf0394a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343685683,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1343685683,
+    "wof:lastmodified":1537709602,
+    "wof:name":"Jianguocun",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.24694,
+    22.99333,
+    120.24694,
+    22.99333
+],
+  "geometry": {"coordinates":[120.24694,22.99333],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1343466073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.66875,24.94746,121.66875,24.94746",
+    "geom:latitude":24.94746,
+    "geom:longitude":121.66875,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F10",
+    "gn:admin4_code":"65000200001.0",
+    "gn:asciiname":"Da'an",
+    "gn:country_code":"TW",
+    "gn:dem":455,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6643736,
+    "gn:latitude":24.94746,
+    "gn:longitude":121.66875,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Da\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-an"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6309"
+    ],
+    "name:zho_x_variant":[
+        "Da\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6643736
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"05e743d3d630aa2792921bdb0a53d43c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343466073,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1343466073,
+    "wof:lastmodified":1537709691,
+    "wof:name":"Da'an",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.66875,
+    24.94746,
+    121.66875,
+    24.94746
+],
+  "geometry": {"coordinates":[121.66875,24.94746],"type":"Point"}
+}

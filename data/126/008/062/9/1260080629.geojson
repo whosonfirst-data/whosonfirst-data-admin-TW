@@ -1,0 +1,73 @@
+{
+  "id": 1260080629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.31667,22.96667,120.31667,22.96667",
+    "geom:latitude":22.96667,
+    "geom:longitude":120.31667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R29",
+    "gn:admin4_code":"67000290002.0",
+    "gn:asciiname":"Xiangyangcun",
+    "gn:country_code":"TW",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675677,
+    "gn:latitude":22.96667,
+    "gn:longitude":120.31667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiangyangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsiang-yang-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675677
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d39b5b847ab6dc0dba171b3fc3e1c621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260080629,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1260080629,
+    "wof:lastmodified":1537709152,
+    "wof:name":"Xiangyangcun",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.31667,
+    22.96667,
+    120.31667,
+    22.96667
+],
+  "geometry": {"coordinates":[120.31667,22.96667],"type":"Point"}
+}

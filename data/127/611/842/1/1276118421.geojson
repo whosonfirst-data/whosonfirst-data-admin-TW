@@ -1,0 +1,83 @@
+{
+  "id": 1276118421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47918,23.95683,120.47918,23.95683",
+    "geom:latitude":23.95683,
+    "geom:longitude":120.47918,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N06",
+    "gn:admin4_code":"10007110010.0",
+    "gn:asciiname":"Xihu",
+    "gn:country_code":"TW",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675281,
+    "gn:latitude":23.95683,
+    "gn:longitude":120.47918,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Xihu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sihu",
+        "Xihu",
+        "Hsi-hu"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019i-hu-chuang"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019i-hu",
+        "\u6eaa\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675281,
+        "wk:page":"Xihu,_Changhua"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a2332dfbf26931d089b6d1c0b4e288e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276118421,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1276118421,
+    "wof:lastmodified":1537709116,
+    "wof:name":"Xihu",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47918,
+    23.95683,
+    120.47918,
+    23.95683
+],
+  "geometry": {"coordinates":[120.47918,23.95683],"type":"Point"}
+}

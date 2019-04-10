@@ -1,0 +1,80 @@
+{
+  "id": 1259590619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.41907,24.97512,121.41907,24.97512",
+    "geom:latitude":24.97512,
+    "geom:longitude":121.41907,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F17",
+    "gn:admin4_code":"65000070033.0",
+    "gn:asciiname":"Pengcuozhuang",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653739,
+    "gn:latitude":24.97512,
+    "gn:longitude":121.41907,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pengcuozhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pengcuojhuang",
+        "Pengcuozhuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f6d\u539d\u5e84"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019eng-ts\u2019o-chuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653739
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"65a553651ffa415c0df7f03287d8d988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259590619,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1259590619,
+    "wof:lastmodified":1537709847,
+    "wof:name":"Pengcuozhuang",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.41907,
+    24.97512,
+    121.41907,
+    24.97512
+],
+  "geometry": {"coordinates":[121.41907,24.97512],"type":"Point"}
+}

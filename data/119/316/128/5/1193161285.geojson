@@ -1,0 +1,70 @@
+{
+  "id": 1193161285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36458,22.32457,120.36458,22.32457",
+    "geom:latitude":22.32457,
+    "geom:longitude":120.36458,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:asciiname":"Houshi",
+    "gn:country_code":"TW",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647704,
+    "gn:latitude":22.32457,
+    "gn:longitude":120.36458,
+    "gn:modification_date":"2016-06-22",
+    "gn:name":"Houshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Houshih",
+        "Houshi",
+        "Hou-shih"
+    ],
+    "name:zho_x_preferred":[
+        "\u539a\u77f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647704
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0e7a7c5bd3098712f92655f31e9f28ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1193161285,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1193161285,
+    "wof:lastmodified":1537709763,
+    "wof:name":"Houshi",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36458,
+    22.32457,
+    120.36458,
+    22.32457
+],
+  "geometry": {"coordinates":[120.36458,22.32457],"type":"Point"}
+}

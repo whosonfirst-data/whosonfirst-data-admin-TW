@@ -1,0 +1,80 @@
+{
+  "id": 1343882283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.84727,24.61357,120.84727,24.61357",
+    "geom:latitude":24.61357,
+    "geom:longitude":120.84727,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K11",
+    "gn:admin4_code":"10005150003.0",
+    "gn:asciiname":"Kaoqijiao",
+    "gn:country_code":"TW",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646144,
+    "gn:latitude":24.61357,
+    "gn:longitude":120.84727,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kaoqijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaocijiao",
+        "Kaoqijiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u8003\u5d0e\u8173"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019ao-ch\u2019i-chiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646144
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f848e9d6f697c0ca48779eb3b1d23ddb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343882283,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1343882283,
+    "wof:lastmodified":1537709724,
+    "wof:name":"Kaoqijiao",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.84727,
+    24.61357000000001,
+    120.84727,
+    24.61357000000001
+],
+  "geometry": {"coordinates":[120.84726999999999,24.61357000000001],"type":"Point"}
+}

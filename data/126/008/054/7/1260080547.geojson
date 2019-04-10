@@ -1,0 +1,78 @@
+{
+  "id": 1260080547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.33111,22.96083,120.33111,22.96083",
+    "geom:latitude":22.96083,
+    "geom:longitude":120.33111,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R29",
+    "gn:admin4_code":"67000290003.0",
+    "gn:asciiname":"Guanmiao",
+    "gn:country_code":"TW",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673535,
+    "gn:latitude":22.96083,
+    "gn:longitude":120.33111,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Guanmiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuan-miao-chuang",
+        "Guanmiao",
+        "Kuan-miao"
+    ],
+    "name:zho_x_preferred":[
+        "\u95dc\u5edf"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673535
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ad13902a12a7f62ad7d8ba70aa0461f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260080547,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1260080547,
+    "wof:lastmodified":1537708976,
+    "wof:name":"Guanmiao",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.33111,
+    22.96083,
+    120.33111,
+    22.96083
+],
+  "geometry": {"coordinates":[120.33111,22.96083],"type":"Point"}
+}

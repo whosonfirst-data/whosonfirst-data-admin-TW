@@ -1,0 +1,76 @@
+{
+  "id": 1226254493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.84632,25.03521,121.84632,25.03521",
+    "geom:latitude":25.03521,
+    "geom:longitude":121.84632,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F23",
+    "gn:admin4_code":"65000250008.0",
+    "gn:asciiname":"Waipinglin",
+    "gn:country_code":"TW",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666272,
+    "gn:latitude":25.03521,
+    "gn:longitude":121.84632,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Waipinglin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5916\u5e73\u6797"
+    ],
+    "name:zho_x_variant":[
+        "Wai-p\u2019ing-lin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666272
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6165fb1cec9788796efb65530d5ea344",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226254493,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1226254493,
+    "wof:lastmodified":1537708490,
+    "wof:name":"Waipinglin",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.84632,
+    25.03521,
+    121.84632,
+    25.03521
+],
+  "geometry": {"coordinates":[121.84632000000001,25.03521],"type":"Point"}
+}

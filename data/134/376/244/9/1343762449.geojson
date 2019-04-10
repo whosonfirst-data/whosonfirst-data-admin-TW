@@ -1,0 +1,79 @@
+{
+  "id": 1343762449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.85345,24.67949,120.85345,24.67949",
+    "geom:latitude":24.67949,
+    "geom:longitude":120.85345,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040016.0",
+    "gn:asciiname":"Bao'anlin",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646201,
+    "gn:latitude":24.67949,
+    "gn:longitude":120.85345,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bao\u2019anlin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pao-an-lin"
+    ],
+    "name:zho_x_preferred":[
+        "\u4fdd\u5b89\u6797"
+    ],
+    "name:zho_x_variant":[
+        "Bao\u2019anlin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646201
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"57e139da24badd0f3ea3b7b9e05d17d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343762449,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1343762449,
+    "wof:lastmodified":1537709728,
+    "wof:name":"Bao'anlin",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.85345,
+    24.67949,
+    120.85345,
+    24.67949
+],
+  "geometry": {"coordinates":[120.85345,24.67949],"type":"Point"}
+}

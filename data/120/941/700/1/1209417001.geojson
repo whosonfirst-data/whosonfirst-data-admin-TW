@@ -1,0 +1,71 @@
+{
+  "id": 1209417001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.4117,24.92812,121.4117,24.92812",
+    "geom:latitude":24.92812,
+    "geom:longitude":121.4117,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F15",
+    "gn:admin4_code":"65000090019.0",
+    "gn:asciiname":"Jianfukeng",
+    "gn:country_code":"TW",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653572,
+    "gn:latitude":24.92812,
+    "gn:longitude":121.4117,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jianfukeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5efa\u798f\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Fu-chien-k\u2019eng",
+        "Chien-fu-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653572
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3b10e5d878405ba83e086972c1f62783",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209417001
+        }
+    ],
+    "wof:id":1209417001,
+    "wof:lastmodified":1537709839,
+    "wof:name":"Jianfukeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.4117,
+    24.92812,
+    121.4117,
+    24.92812
+],
+  "geometry": {"coordinates":[121.4117,24.92812],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1242778483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48116,23.87188,120.48116,23.87188",
+    "geom:latitude":23.87188,
+    "geom:longitude":120.48116,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N22",
+    "gn:admin4_code":"10007220011.0",
+    "gn:asciiname":"Fuchao",
+    "gn:country_code":"TW",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676521,
+    "gn:latitude":23.87188,
+    "gn:longitude":120.48116,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fuchao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "San-k\u2019uai-ts\u2019o"
+    ],
+    "name:zho_x_variant":[
+        "Fu-ch\u2019ao-ts\u2019un",
+        "Niu-ch\u2019ou-tzu",
+        "\u8299\u671d",
+        "Fu-ch\u2019ao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676521
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0f32d1f619af7e5b94427697c1b92504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242778483,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1242778483,
+    "wof:lastmodified":1537709220,
+    "wof:name":"Fuchao",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48116,
+    23.87188,
+    120.48116,
+    23.87188
+],
+  "geometry": {"coordinates":[120.48116,23.87188],"type":"Point"}
+}

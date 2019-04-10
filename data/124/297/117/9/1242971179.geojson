@@ -1,0 +1,79 @@
+{
+  "id": 1242971179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.85044,24.6232,121.85044,24.6232",
+    "geom:latitude":24.6232,
+    "geom:longitude":121.85044,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G09",
+    "gn:admin4_code":"10002030004.0",
+    "gn:asciiname":"Dakenggu",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668230,
+    "gn:latitude":24.6232,
+    "gn:longitude":121.85044,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dakenggu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Hsin-k\u2019eng-chiao-li"
+    ],
+    "name:zho_x_variant":[
+        "\u5927\u5751\u7f5f",
+        "Ta-k\u2019eng-ku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679567,
+        102191569,
+        85632403,
+        1108499379,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668230
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e2bc25c0631acc7b4864b3c1fe5314f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242971179,
+            "macrocounty_id":1108499379,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1242971179,
+    "wof:lastmodified":1537708617,
+    "wof:name":"Dakenggu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.85044,
+    24.6232,
+    121.85044,
+    24.6232
+],
+  "geometry": {"coordinates":[121.85044000000001,24.6232],"type":"Point"}
+}

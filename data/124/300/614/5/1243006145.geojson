@@ -1,0 +1,81 @@
+{
+  "id": 1243006145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.65417,24.45972,120.65417,24.45972",
+    "geom:latitude":24.45972,
+    "geom:longitude":120.65417,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K02",
+    "gn:admin4_code":"10005020005.0",
+    "gn:asciiname":"Yuanligang",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665445,
+    "gn:latitude":24.45972,
+    "gn:longitude":120.65417,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yuanligang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00fcan-li-chiang",
+        "Yuanligang"
+    ],
+    "name:zho_x_preferred":[
+        "\u82d1\u88e1\u6e2f"
+    ],
+    "name:zho_x_variant":[
+        "Y\u00fcan-li-kang",
+        "Y\u00fcan-li-chiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665445
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"98996c3429f5d9826e81e148d296b427",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243006145,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1243006145,
+    "wof:lastmodified":1537708435,
+    "wof:name":"Yuanligang",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.65417,
+    24.45972,
+    120.65417,
+    24.45972
+],
+  "geometry": {"coordinates":[120.65416999999999,24.45972],"type":"Point"}
+}

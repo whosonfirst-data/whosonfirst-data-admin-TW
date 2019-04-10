@@ -1,0 +1,67 @@
+{
+  "id": 1243073797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.35,22.56667,120.35,22.56667",
+    "geom:latitude":22.56667,
+    "geom:longitude":120.35,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Ch'ing-tao-ts'un",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678079,
+    "gn:latitude":22.56667,
+    "gn:longitude":120.35,
+    "gn:modification_date":"2001-07-20",
+    "gn:name":"Ch'ing-tao-ts'un",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678079
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d91f4bc20e227dde62ace827e74a3972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243073797,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1243073797,
+    "wof:lastmodified":1536844604,
+    "wof:name":"Ch'ing-tao-ts'un",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.35,
+    22.56667,
+    120.35,
+    22.56667
+],
+  "geometry": {"coordinates":[120.34999999999999,22.56667],"type":"Point"}
+}

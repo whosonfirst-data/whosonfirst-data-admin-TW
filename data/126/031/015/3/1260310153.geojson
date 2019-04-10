@@ -1,0 +1,77 @@
+{
+  "id": 1260310153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.78933,24.15417,120.78933,24.15417",
+    "geom:latitude":24.15417,
+    "geom:longitude":120.78933,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B27",
+    "gn:admin4_code":"66000270014.0",
+    "gn:asciiname":"Shilinghu",
+    "gn:country_code":"TW",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1991469,
+    "gn:latitude":24.15417,
+    "gn:longitude":120.78933,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shilinghu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihlinghu",
+        "Shih-ling-hu"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u82d3\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1991469
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5c2bd4109e412c5f7746753e33d2044e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260310153,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1260310153,
+    "wof:lastmodified":1537709449,
+    "wof:name":"Shilinghu",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.78933,
+    24.15417,
+    120.78933,
+    24.15417
+],
+  "geometry": {"coordinates":[120.78933000000001,24.15417],"type":"Point"}
+}

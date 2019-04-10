@@ -1,0 +1,73 @@
+{
+  "id": 1226242967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.88738,24.60706,120.88738,24.60706",
+    "geom:latitude":24.60706,
+    "geom:longitude":120.88738,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K11",
+    "gn:admin4_code":"10005150005.0",
+    "gn:asciiname":"Shuanghewo",
+    "gn:country_code":"TW",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669096,
+    "gn:latitude":24.60706,
+    "gn:longitude":120.88738,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuanghewo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuang-ho-wo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669096
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"336c1c049f50b73efdaf0961950acb36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226242967,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1226242967,
+    "wof:lastmodified":1537708679,
+    "wof:name":"Shuanghewo",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.88738,
+    24.60706,
+    120.88738,
+    24.60706
+],
+  "geometry": {"coordinates":[120.88737999999999,24.60706],"type":"Point"}
+}

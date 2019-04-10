@@ -1,0 +1,71 @@
+{
+  "id": 1209039711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.81419,24.02401,120.81419,24.02401",
+    "geom:latitude":24.02401,
+    "geom:longitude":120.81419,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M10",
+    "gn:admin4_code":"10008100008.0",
+    "gn:asciiname":"Tangbu",
+    "gn:country_code":"TW",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1991355,
+    "gn:latitude":24.02401,
+    "gn:longitude":120.81419,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tangbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7cd6\u90e8"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ang-p\u2019ou",
+        "T\u2019ang-pu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1991355
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a039204b3f3376a11c897d90f91deaef",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209039711
+        }
+    ],
+    "wof:id":1209039711,
+    "wof:lastmodified":1537709443,
+    "wof:name":"Tangbu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.81419,
+    24.02401,
+    120.81419,
+    24.02401
+],
+  "geometry": {"coordinates":[120.81419,24.02401],"type":"Point"}
+}

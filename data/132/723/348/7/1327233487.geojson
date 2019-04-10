@@ -1,0 +1,80 @@
+{
+  "id": 1327233487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.47953,25.1499,121.47953,25.1499",
+    "geom:latitude":25.1499,
+    "geom:longitude":121.47953,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F27",
+    "gn:admin4_code":"65000100016.0",
+    "gn:asciiname":"Xiaopinglin",
+    "gn:country_code":"TW",
+    "gn:dem":248,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6749216,
+    "gn:latitude":25.1499,
+    "gn:longitude":121.47953,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaopinglin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siaopinglin",
+        "Xiaopinglin"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u576a\u6797"
+    ],
+    "name:zho_x_variant":[
+        "Hsiao-p\u2019ing-lin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6749216
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"09dfbdd84fd491ff46f32401bf80f159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327233487,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1327233487,
+    "wof:lastmodified":1537709948,
+    "wof:name":"Xiaopinglin",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.47953,
+    25.1499,
+    121.47953,
+    25.1499
+],
+  "geometry": {"coordinates":[121.47953,25.1499],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1226443037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.85365,24.38904,120.85365,24.38904",
+    "geom:latitude":24.38904,
+    "geom:longitude":120.85365,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K15",
+    "gn:admin4_code":"10005080008.0",
+    "gn:asciiname":"Zhutongkeng",
+    "gn:country_code":"TW",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992632,
+    "gn:latitude":24.38904,
+    "gn:longitude":120.85365,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhutongkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhutongkeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u6850\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Chu-hang-k\u2019eng",
+        "Chu-t\u2019ung-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992632
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1f6f93710dfeb4ce14f766e6d2c9e0bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226443037,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1226443037,
+    "wof:lastmodified":1537709460,
+    "wof:name":"Zhutongkeng",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.85365,
+    24.38904,
+    120.85365,
+    24.38904
+],
+  "geometry": {"coordinates":[120.85365,24.38904],"type":"Point"}
+}

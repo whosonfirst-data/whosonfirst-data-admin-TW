@@ -1,0 +1,70 @@
+{
+  "id": 1209215687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.47194,24.03694,121.47194,24.03694",
+    "geom:latitude":24.03694,
+    "geom:longitude":121.47194,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U11",
+    "gn:admin4_code":"10015110005.0",
+    "gn:asciiname":"Lanshan",
+    "gn:country_code":"TW",
+    "gn:dem":1949,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6587196,
+    "gn:latitude":24.03694,
+    "gn:longitude":121.47194,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lanshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lan-shan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5d50\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6587196
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e512a42d79aa8d42f4211db52a9dfe91",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209215687
+        }
+    ],
+    "wof:id":1209215687,
+    "wof:lastmodified":1537709579,
+    "wof:name":"Lanshan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.47194,
+    24.03694,
+    121.47194,
+    24.03694
+],
+  "geometry": {"coordinates":[121.47194,24.03694],"type":"Point"}
+}

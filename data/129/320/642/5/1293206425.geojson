@@ -1,0 +1,78 @@
+{
+  "id": 1293206425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.31452,23.12501,120.31452,23.12501",
+    "geom:latitude":23.12501,
+    "geom:longitude":120.31452,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R19",
+    "gn:admin4_code":"67000190021.0",
+    "gn:asciiname":"Xiaoxinying",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675640,
+    "gn:latitude":23.12501,
+    "gn:longitude":120.31452,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaoxinying",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siaosinying",
+        "Xiaoxinying",
+        "Hsiao-hsin-ying"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u65b0\u71df"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675640
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2b7a90fa9284a465ad05572e701df30b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293206425,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1293206425,
+    "wof:lastmodified":1537709149,
+    "wof:name":"Xiaoxinying",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.31452,
+    23.12501,
+    120.31452,
+    23.12501
+],
+  "geometry": {"coordinates":[120.31452,23.12501],"type":"Point"}
+}

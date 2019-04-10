@@ -1,0 +1,77 @@
+{
+  "id": 1310607167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.63254,24.65447,121.63254,24.65447",
+    "geom:latitude":24.65447,
+    "geom:longitude":121.63254,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G10",
+    "gn:admin4_code":"10002100002.0",
+    "gn:asciiname":"Xiahu",
+    "gn:country_code":"TW",
+    "gn:dem":141,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647170,
+    "gn:latitude":24.65447,
+    "gn:longitude":121.63254,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiahu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siahu",
+        "Hsia-hu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647170
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"391b8288e09c78e72f4008a5807dc159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310607167,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1310607167,
+    "wof:lastmodified":1537709751,
+    "wof:name":"Xiahu",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.63254,
+    24.65447,
+    121.63254,
+    24.65447
+],
+  "geometry": {"coordinates":[121.63254000000001,24.65447],"type":"Point"}
+}

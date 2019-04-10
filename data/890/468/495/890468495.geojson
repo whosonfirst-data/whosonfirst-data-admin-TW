@@ -1,0 +1,72 @@
+{
+  "id": 890468495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.541576,25.0589,121.541576,25.0589",
+    "geom:latitude":25.0589,
+    "geom:longitude":121.541576,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u6c5f\u5c71\u91cc",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u53f0\u5317\u5e02",
+    "qs:photos":427,
+    "qs:photos_1k":87,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":427,
+    "qs:photos_sr":6,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wd:wordcount":226,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        1108808545,
+        102026641,
+        85679583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28755931,
+        "qs:id":377007,
+        "wd:id":"Q705060",
+        "wk:page":"Anak County"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053711,
+    "wof:geomhash":"b401e5a193dec8f7f036cd6fefc4b0bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026641,
+            "macroregion_id":1108808545,
+            "neighbourhood_id":890468495,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":890468495,
+    "wof:lastmodified":1527792969,
+    "wof:name":"\u6c5f\u5c71\u91cc",
+    "wof:parent_id":102026641,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.541576,
+    25.0589,
+    121.541576,
+    25.0589
+],
+  "geometry": {"coordinates":[121.54157600000001,25.0589],"type":"Point"}
+}

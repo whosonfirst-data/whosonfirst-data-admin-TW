@@ -1,0 +1,79 @@
+{
+  "id": 1326830561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.21745,25.0152,121.21745,25.0152",
+    "geom:latitude":25.0152,
+    "geom:longitude":121.21745,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H03",
+    "gn:admin4_code":"68000020032.0",
+    "gn:asciiname":"Xuezidi",
+    "gn:country_code":"TW",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646729,
+    "gn:latitude":25.0152,
+    "gn:longitude":121.21745,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xuezidi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Syuezihdi"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b78\u4ed4\u5e95"
+    ],
+    "name:zho_x_variant":[
+        "Hs\u00fceh-tzu-ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646729
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e31656122a2dbaefba3a81e9b4fca7f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326830561,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1326830561,
+    "wof:lastmodified":1537709742,
+    "wof:name":"Xuezidi",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.21745,
+    25.0152,
+    121.21745,
+    25.0152
+],
+  "geometry": {"coordinates":[121.21745,25.0152],"type":"Point"}
+}

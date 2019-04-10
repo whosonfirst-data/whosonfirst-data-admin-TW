@@ -1,0 +1,79 @@
+{
+  "id": 1310608621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.41151,24.9475,121.41151,24.9475",
+    "geom:latitude":24.9475,
+    "geom:longitude":121.41151,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F19",
+    "gn:admin4_code":"65000130026.0",
+    "gn:asciiname":"Niujiaokeng",
+    "gn:country_code":"TW",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653574,
+    "gn:latitude":24.9475,
+    "gn:longitude":121.41151,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Niujiaokeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nioujiaokeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u725b\u811a\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Niu-chiao-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653574
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"456d7f66903224befbbc1262ac56f192",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310608621,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1310608621,
+    "wof:lastmodified":1537709839,
+    "wof:name":"Niujiaokeng",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.41151,
+    24.9475,
+    121.41151,
+    24.9475
+],
+  "geometry": {"coordinates":[121.41151000000001,24.9475],"type":"Point"}
+}

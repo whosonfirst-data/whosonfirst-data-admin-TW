@@ -1,0 +1,78 @@
+{
+  "id": 1243460567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.21778,23.07167,121.21778,23.07167",
+    "geom:latitude":23.07167,
+    "geom:longitude":121.21778,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V10",
+    "gn:admin4_code":"10014060009.0",
+    "gn:asciiname":"Shuizhui",
+    "gn:country_code":"TW",
+    "gn:dem":270,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669016,
+    "gn:latitude":23.07167,
+    "gn:longitude":121.21778,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuizhui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shueijhuei",
+        "Shuizhui",
+        "Shui-chui"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u589c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669016
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1d85de6b0a66f10f788808416cdbc59b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243460567,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1243460567,
+    "wof:lastmodified":1537708673,
+    "wof:name":"Shuizhui",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.21778,
+    23.07167,
+    121.21778,
+    23.07167
+],
+  "geometry": {"coordinates":[121.21778,23.07167],"type":"Point"}
+}

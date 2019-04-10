@@ -1,0 +1,81 @@
+{
+  "id": 1326543137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.25917,22.73806,120.25917,22.73806",
+    "geom:latitude":22.73806,
+    "geom:longitude":120.25917,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E29",
+    "gn:admin4_code":"64000290015.0",
+    "gn:asciiname":"Dianbao",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667383,
+    "gn:latitude":22.73806,
+    "gn:longitude":120.25917,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dianbao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tien-pao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5178\u5bf6"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ieh-tung-k\u2019eng-tien-pao",
+        "Ch\u2019ieh-tung",
+        "Ch\u2019ieh-tien-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667383
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c0fb67c0e86d57066b81acad5bdcbaa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326543137,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1326543137,
+    "wof:lastmodified":1537708566,
+    "wof:name":"Dianbao",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.25917,
+    22.73806,
+    120.25917,
+    22.73806
+],
+  "geometry": {"coordinates":[120.25917,22.73806],"type":"Point"}
+}

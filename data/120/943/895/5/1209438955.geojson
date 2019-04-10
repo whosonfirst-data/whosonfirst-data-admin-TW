@@ -1,0 +1,70 @@
+{
+  "id": 1209438955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.95919,24.02668,120.95919,24.02668",
+    "geom:latitude":24.02668,
+    "geom:longitude":120.95919,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M02",
+    "gn:admin4_code":"10008020023.0",
+    "gn:asciiname":"Dongjiaodi",
+    "gn:country_code":"TW",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6726872,
+    "gn:latitude":24.02668,
+    "gn:longitude":120.95919,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongjiaodi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-chiao-ti"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u89d2\u5e95"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6726872
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3e0152e8896b85fcc5e2c7628f29db4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209438955
+        }
+    ],
+    "wof:id":1209438955,
+    "wof:lastmodified":1537709905,
+    "wof:name":"Dongjiaodi",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.95919,
+    24.02668,
+    120.95919,
+    24.02668
+],
+  "geometry": {"coordinates":[120.95919000000001,24.02668],"type":"Point"}
+}

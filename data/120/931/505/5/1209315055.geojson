@@ -1,0 +1,74 @@
+{
+  "id": 1209315055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36608,23.81458,120.36608,23.81458",
+    "geom:latitude":23.81458,
+    "geom:longitude":120.36608,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P11",
+    "gn:admin4_code":"10009110014.0",
+    "gn:asciiname":"Pingziding",
+    "gn:country_code":"TW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670473,
+    "gn:latitude":23.81458,
+    "gn:longitude":120.36608,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pingziding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pingzihding"
+    ],
+    "name:zho_x_preferred":[
+        "\u576a\u5b50\u9802"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019ing-tzu-t\u2019ou",
+        "P\u2019ing-tzu-ting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670473
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"658e1cf97660a65fab18bce3df99cac3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209315055
+        }
+    ],
+    "wof:id":1209315055,
+    "wof:lastmodified":1537708784,
+    "wof:name":"Pingziding",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36608,
+    23.81458,
+    120.36608,
+    23.81458
+],
+  "geometry": {"coordinates":[120.36608,23.81458],"type":"Point"}
+}

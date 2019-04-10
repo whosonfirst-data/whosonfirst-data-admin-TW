@@ -1,0 +1,81 @@
+{
+  "id": 1193276125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.77344,25.15433,121.77344,25.15433",
+    "geom:latitude":25.15433,
+    "geom:longitude":121.77344,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"KEE",
+    "gn:admin3_code":"C01",
+    "gn:admin4_code":"10017010015.0",
+    "gn:asciiname":"Zhuhuokeng",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647566,
+    "gn:latitude":25.15433,
+    "gn:longitude":121.77344,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhuhuokeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhuhuokeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c6c\u706b\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Chu-huo-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679571,
+        102191569,
+        85632403,
+        1108756875,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647566
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6ab097829bbea59cec6513c005a32c58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193276125,
+            "macrocounty_id":1108756875,
+            "macroregion_id":1108808557,
+            "region_id":85679571
+        }
+    ],
+    "wof:id":1193276125,
+    "wof:lastmodified":1537709761,
+    "wof:name":"Zhuhuokeng",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.77344,
+    25.15433,
+    121.77344,
+    25.15433
+],
+  "geometry": {"coordinates":[121.77343999999999,25.15433],"type":"Point"}
+}

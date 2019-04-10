@@ -1,0 +1,76 @@
+{
+  "id": 1327231937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.64616,23.9631,120.64616,23.9631",
+    "geom:latitude":23.9631,
+    "geom:longitude":120.64616,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N14",
+    "gn:admin4_code":"10007090010.0",
+    "gn:asciiname":"Bishanyan",
+    "gn:country_code":"TW",
+    "gn:dem":95,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670449,
+    "gn:latitude":23.9631,
+    "gn:longitude":120.64616,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bishanyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pi-shan-yen"
+    ],
+    "name:zho_x_preferred":[
+        "\u78a7\u5c71\u5dd6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670449
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d85a1309a889dcb256882c33369a47dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327231937,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1327231937,
+    "wof:lastmodified":1537708782,
+    "wof:name":"Bishanyan",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.64616,
+    23.9631,
+    120.64616,
+    23.9631
+],
+  "geometry": {"coordinates":[120.64615999999999,23.9631],"type":"Point"}
+}

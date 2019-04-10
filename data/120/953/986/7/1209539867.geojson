@@ -1,0 +1,70 @@
+{
+  "id": 1209539867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.72194,22.01778,120.72194,22.01778",
+    "geom:latitude":22.01778,
+    "geom:longitude":120.72194,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T04",
+    "gn:admin4_code":"10013040009.0",
+    "gn:asciiname":"Sangou",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670066,
+    "gn:latitude":22.01778,
+    "gn:longitude":120.72194,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sangou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-kou"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u6e9d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670066
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b0a35b9521454eb4ebbc1cf2ebb5a6e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209539867
+        }
+    ],
+    "wof:id":1209539867,
+    "wof:lastmodified":1537708756,
+    "wof:name":"Sangou",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.72194,
+    22.01778,
+    120.72194,
+    22.01778
+],
+  "geometry": {"coordinates":[120.72194,22.01778],"type":"Point"}
+}

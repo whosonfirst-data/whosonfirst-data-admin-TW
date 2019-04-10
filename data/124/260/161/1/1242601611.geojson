@@ -1,0 +1,80 @@
+{
+  "id": 1242601611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.98264,24.68326,120.98264,24.68326",
+    "geom:latitude":24.68326,
+    "geom:longitude":120.98264,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J13",
+    "gn:admin4_code":"10004110006.0",
+    "gn:asciiname":"Xihepai",
+    "gn:country_code":"TW",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675296,
+    "gn:latitude":24.68326,
+    "gn:longitude":120.98264,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xihepai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sihepai",
+        "Xihepai"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u6cb3\u6392"
+    ],
+    "name:zho_x_variant":[
+        "Hsi-ho-p\u2019ai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675296
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"87650a633ba976d31be7820e2fe8a50f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242601611,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1242601611,
+    "wof:lastmodified":1537709117,
+    "wof:name":"Xihepai",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.98264,
+    24.68326,
+    120.98264,
+    24.68326
+],
+  "geometry": {"coordinates":[120.98264,24.68326],"type":"Point"}
+}

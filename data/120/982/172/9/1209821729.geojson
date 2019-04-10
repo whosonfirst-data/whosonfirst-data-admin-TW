@@ -1,0 +1,81 @@
+{
+  "id": 1209821729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8799,24.44434,120.8799,24.44434",
+    "geom:latitude":24.44434,
+    "geom:longitude":120.8799,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K15",
+    "gn:admin4_code":"10005080004.0",
+    "gn:asciiname":"Shiliaokeng",
+    "gn:country_code":"TW",
+    "gn:dem":289,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992408,
+    "gn:latitude":24.44434,
+    "gn:longitude":120.8799,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shiliaokeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihliaokeng",
+        "Shiliaokeng",
+        "\u5341\u5bee\u5751"
+    ],
+    "name:zho_x_preferred":[
+        "Shih-liao-k\u2019eng"
+    ],
+    "name:zho_x_variant":[
+        "\u5341\u5bee\u5751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992408
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cb27b24c037820b77f16f65a81ab4dfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209821729,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1209821729,
+    "wof:lastmodified":1537709457,
+    "wof:name":"Shiliaokeng",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8799,
+    24.44434,
+    120.8799,
+    24.44434
+],
+  "geometry": {"coordinates":[120.87990000000001,24.44434],"type":"Point"}
+}

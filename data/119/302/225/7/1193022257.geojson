@@ -1,0 +1,78 @@
+{
+  "id": 1193022257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.49611,24.55611,121.49611,24.55611",
+    "geom:latitude":24.55611,
+    "geom:longitude":121.49611,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G11",
+    "gn:admin4_code":"10002110007.0",
+    "gn:asciiname":"Jiuze",
+    "gn:country_code":"TW",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677773,
+    "gn:latitude":24.55611,
+    "gn:longitude":121.49611,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiuze",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiouze",
+        "Jiuze",
+        "Chiu-tse"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ce9\u6fa4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677773
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ae7b24415b04e4a26ad856193bdb438e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193022257,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1193022257,
+    "wof:lastmodified":1537709321,
+    "wof:name":"Jiuze",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.49611000000002,
+    24.55611,
+    121.49611000000002,
+    24.55611
+],
+  "geometry": {"coordinates":[121.49611000000002,24.55611],"type":"Point"}
+}

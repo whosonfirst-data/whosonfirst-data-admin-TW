@@ -1,0 +1,78 @@
+{
+  "id": 1277074903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7144,24.0382,120.7144,24.0382",
+    "geom:latitude":24.0382,
+    "geom:longitude":120.7144,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B26",
+    "gn:admin4_code":"66000260016.0",
+    "gn:asciiname":"Ankeng",
+    "gn:country_code":"TW",
+    "gn:dem":117,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679266,
+    "gn:latitude":24.0382,
+    "gn:longitude":120.7144,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Ankeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6697\u5751",
+        "Ankeng",
+        "An-k\u2019eng"
+    ],
+    "name:zho_x_preferred":[
+        "An-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679266
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ba601e9c557c105dccd2f7e6be8081ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1277074903,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1277074903,
+    "wof:lastmodified":1537709421,
+    "wof:name":"Ankeng",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7144,
+    24.0382,
+    120.7144,
+    24.0382
+],
+  "geometry": {"coordinates":[120.7144,24.0382],"type":"Point"}
+}

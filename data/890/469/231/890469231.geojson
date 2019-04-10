@@ -1,0 +1,77 @@
+{
+  "id": 890469231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.29696,24.99368,121.29696,24.99368",
+    "geom:latitude":24.99368,
+    "geom:longitude":121.29696,
+    "gn:country":"TW",
+    "gn:fcode":"PPL",
+    "gn:pop":402014,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u043e\u044e\u0430\u043d\u044c"
+    ],
+    "qs:name":"\u6843\u5712\u5e02",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u6843\u5712\u7e23",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"10",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6696918,
+        "gp:id":2298866,
+        "qs:id":923004
+    },
+    "wof:country":"TW",
+    "wof:created":1469053755,
+    "wof:geomhash":"aa023e90f08008d3d32c053145f6b964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":890469231,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":890469231,
+    "wof:lastmodified":1505343712,
+    "wof:name":"\u6843\u5712\u5e02",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:population":402014,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.29696,
+    24.99368,
+    121.29696,
+    24.99368
+],
+  "geometry": {"coordinates":[121.29696,24.99368],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1344080661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.38861,23.46168,121.38861,23.46168",
+    "geom:latitude":23.46168,
+    "geom:longitude":121.38861,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U03",
+    "gn:admin4_code":"10015030012.0",
+    "gn:asciiname":"Shennong",
+    "gn:country_code":"TW",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6747186,
+    "gn:latitude":23.46168,
+    "gn:longitude":121.38861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shennong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shen-lung",
+        "Shennong",
+        "Shen-nung"
+    ],
+    "name:zho_x_preferred":[
+        "\u795e\u8fb2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6747186
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"86b0d5474a172bc4e5092ef893197f0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344080661,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1344080661,
+    "wof:lastmodified":1537709922,
+    "wof:name":"Shennong",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.38861,
+    23.46168,
+    121.38861,
+    23.46168
+],
+  "geometry": {"coordinates":[121.38861,23.46168],"type":"Point"}
+}

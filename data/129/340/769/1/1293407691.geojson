@@ -1,0 +1,73 @@
+{
+  "id": 1293407691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.41667,24.45,118.41667,24.45",
+    "geom:latitude":24.45,
+    "geom:longitude":118.41667,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W01",
+    "gn:admin4_code":"9020030002.0",
+    "gn:asciiname":"Wuyangtai",
+    "gn:country_code":"TW",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665648,
+    "gn:latitude":24.45,
+    "gn:longitude":118.41667,
+    "gn:modification_date":"2017-11-03",
+    "gn:name":"Wuyangtai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wu-yang-t\u2019ai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665648
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"938e526384f49cc9f4b9b54026704911",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293407691,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1293407691,
+    "wof:lastmodified":1537708448,
+    "wof:name":"Wuyangtai",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.41667,
+    24.45,
+    118.41667,
+    24.45
+],
+  "geometry": {"coordinates":[118.41667,24.45],"type":"Point"}
+}

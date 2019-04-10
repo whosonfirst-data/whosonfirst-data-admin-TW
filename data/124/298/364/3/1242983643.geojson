@@ -1,0 +1,79 @@
+{
+  "id": 1242983643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.57306,22.99184,120.57306,22.99184",
+    "geom:latitude":22.99184,
+    "geom:longitude":120.57306,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E34",
+    "gn:admin4_code":"64000340004.0",
+    "gn:asciiname":"Xiangpiliao",
+    "gn:country_code":"TW",
+    "gn:dem":169,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658166,
+    "gn:latitude":22.99184,
+    "gn:longitude":120.57306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiangpiliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siangpiliao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a61\u76ae\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Hsiang-p\u2019i-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658166
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"de4cd2c8d3295763356626bd9716a2cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242983643,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1242983643,
+    "wof:lastmodified":1537709893,
+    "wof:name":"Xiangpiliao",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.57306,
+    22.99184,
+    120.57306,
+    22.99184
+],
+  "geometry": {"coordinates":[120.57306,22.99184],"type":"Point"}
+}

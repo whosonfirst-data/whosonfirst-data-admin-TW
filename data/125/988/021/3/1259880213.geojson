@@ -1,0 +1,78 @@
+{
+  "id": 1259880213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.50889,22.47,120.50889,22.47",
+    "geom:latitude":22.47,
+    "geom:longitude":120.50889,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T20",
+    "gn:admin4_code":"10013200006.0",
+    "gn:asciiname":"Caocuoliao",
+    "gn:country_code":"TW",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6595097,
+    "gn:latitude":22.47,
+    "gn:longitude":120.50889,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Caocuoliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u8349\u539d\u5bee",
+        "Caocuoliao",
+        "Ts\u2019ao-ts\u2019o-liao"
+    ],
+    "name:zho_x_preferred":[
+        "Ts\u2019ao-ts\u2019o-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6595097
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1c96860567c73df22648e0c53fb6de53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259880213,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1259880213,
+    "wof:lastmodified":1537709607,
+    "wof:name":"Caocuoliao",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.50889,
+    22.47,
+    120.50889,
+    22.47
+],
+  "geometry": {"coordinates":[120.50888999999999,22.47],"type":"Point"}
+}

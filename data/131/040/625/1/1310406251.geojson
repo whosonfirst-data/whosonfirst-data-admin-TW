@@ -1,0 +1,76 @@
+{
+  "id": 1310406251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86,23.53278,120.86,23.53278",
+    "geom:latitude":23.53278,
+    "geom:longitude":120.86,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M12",
+    "gn:admin4_code":"10008120010.0",
+    "gn:asciiname":"Shenmu",
+    "gn:country_code":"TW",
+    "gn:dem":1255,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669522,
+    "gn:latitude":23.53278,
+    "gn:longitude":120.86,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shenmu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shen-mu"
+    ],
+    "name:zho_x_preferred":[
+        "\u795e\u6728"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669522
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"134d812766914dbc89a50575cd4dabab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310406251,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1310406251,
+    "wof:lastmodified":1537708714,
+    "wof:name":"Shenmu",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86,
+    23.53278,
+    120.86,
+    23.53278
+],
+  "geometry": {"coordinates":[120.86,23.53278],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1344064427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.61447,24.99334,121.61447,24.99334",
+    "geom:latitude":24.99334,
+    "geom:longitude":121.61447,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F09",
+    "gn:admin4_code":"65000180005.0",
+    "gn:asciiname":"Dalunjiao",
+    "gn:country_code":"TW",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668112,
+    "gn:latitude":24.99334,
+    "gn:longitude":121.61447,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dalunjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-lun-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5d19\u811a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668112
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ba2a76d47e48ddce1af34c4d4e5ee787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344064427,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1344064427,
+    "wof:lastmodified":1537708609,
+    "wof:name":"Dalunjiao",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.61447,
+    24.99334,
+    121.61447,
+    24.99334
+],
+  "geometry": {"coordinates":[121.61447,24.99334],"type":"Point"}
+}

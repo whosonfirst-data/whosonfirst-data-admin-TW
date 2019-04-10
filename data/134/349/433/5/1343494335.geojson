@@ -1,0 +1,77 @@
+{
+  "id": 1343494335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6356,22.57722,120.6356,22.57722",
+    "geom:latitude":22.57722,
+    "geom:longitude":120.6356,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T29",
+    "gn:admin4_code":"10013290002.0",
+    "gn:asciiname":"Wutan",
+    "gn:country_code":"TW",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6754984,
+    "gn:latitude":22.57722,
+    "gn:longitude":120.6356,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wutan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6b66\u6f6d"
+    ],
+    "name:zho_x_variant":[
+        "Tao-t\u2019a-t\u2019a-le",
+        "Wu-t\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6754984
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a24b306cf5d31b08c8d35a2fa8ca7436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343494335,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1343494335,
+    "wof:lastmodified":1537709972,
+    "wof:name":"Wutan",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6356,
+    22.57722,
+    120.6356,
+    22.57722
+],
+  "geometry": {"coordinates":[120.6356,22.57722],"type":"Point"}
+}

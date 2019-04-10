@@ -1,0 +1,78 @@
+{
+  "id": 1226747915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.55306,23.07,120.55306,23.07",
+    "geom:latitude":23.07,
+    "geom:longitude":120.55306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R25",
+    "gn:admin4_code":"67000250008.0",
+    "gn:asciiname":"Shangguilin",
+    "gn:country_code":"TW",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6586635,
+    "gn:latitude":23.07,
+    "gn:longitude":120.55306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangguilin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shanggueilin",
+        "Shangguilin",
+        "Shang-kuei-lin"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u6b78\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6586635
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"103ee1f849c2b9b90bcb39b78d331ede",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226747915,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1226747915,
+    "wof:lastmodified":1537709567,
+    "wof:name":"Shangguilin",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.55306000000002,
+    23.07,
+    120.55306000000002,
+    23.07
+],
+  "geometry": {"coordinates":[120.55306000000002,23.07],"type":"Point"}
+}

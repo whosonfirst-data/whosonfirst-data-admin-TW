@@ -1,0 +1,70 @@
+{
+  "id": 1209515919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.51769,23.29341,120.51769,23.29341",
+    "geom:latitude":23.29341,
+    "geom:longitude":120.51769,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R03",
+    "gn:admin4_code":"67000030012.0",
+    "gn:asciiname":"Chayuan",
+    "gn:country_code":"TW",
+    "gn:dem":588,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656111,
+    "gn:latitude":23.29341,
+    "gn:longitude":120.51769,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chayuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8336\u5712"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019a-y\u00fcan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6656111
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0984fd858f17a5d583d59392d0f36413",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209515919
+        }
+    ],
+    "wof:id":1209515919,
+    "wof:lastmodified":1537709864,
+    "wof:name":"Chayuan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.51769,
+    23.29341,
+    120.51769,
+    23.29341
+],
+  "geometry": {"coordinates":[120.51769,23.29341],"type":"Point"}
+}

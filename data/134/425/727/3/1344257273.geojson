@@ -1,0 +1,79 @@
+{
+  "id": 1344257273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.1806,23.48263,120.1806,23.48263",
+    "geom:latitude":23.48263,
+    "geom:longitude":120.1806,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q09",
+    "gn:admin4_code":"10010090008.0",
+    "gn:asciiname":"Longgangcun",
+    "gn:country_code":"TW",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674002,
+    "gn:latitude":23.48263,
+    "gn:longitude":120.1806,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Longgangcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Chiang-ch\u2019ien-ts\u2019o"
+    ],
+    "name:zho_x_variant":[
+        "\u9f8d\u6e2f\u6751",
+        "Kang-ch\u2019ien",
+        "Kang-ch\u2019ien-ts\u2019o",
+        "Lung-kang-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674002
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"10b7663fa2012ff14b5f5a5b49ee38f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344257273,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1344257273,
+    "wof:lastmodified":1537709014,
+    "wof:name":"Longgangcun",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.1806,
+    23.48263,
+    120.1806,
+    23.48263
+],
+  "geometry": {"coordinates":[120.1806,23.48263],"type":"Point"}
+}

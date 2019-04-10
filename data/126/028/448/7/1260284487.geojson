@@ -1,0 +1,78 @@
+{
+  "id": 1260284487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.715,24.34,120.715,24.34",
+    "geom:latitude":24.34,
+    "geom:longitude":120.715,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B21",
+    "gn:admin4_code":"66000210010.0",
+    "gn:asciiname":"Zhonglu",
+    "gn:country_code":"TW",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677283,
+    "gn:latitude":24.34,
+    "gn:longitude":120.715,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhonglu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhonglu",
+        "Zhonglu",
+        "Chung-lu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u8def"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677283
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b69c67324a4ad21b98ff6aa6d058380f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260284487,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1260284487,
+    "wof:lastmodified":1537709281,
+    "wof:name":"Zhonglu",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.715,
+    24.34,
+    120.715,
+    24.34
+],
+  "geometry": {"coordinates":[120.715,24.34],"type":"Point"}
+}

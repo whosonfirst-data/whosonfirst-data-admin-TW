@@ -1,0 +1,76 @@
+{
+  "id": 1276156545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.88447,23.47991,120.88447,23.47991",
+    "geom:latitude":23.47991,
+    "geom:longitude":120.88447,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M12",
+    "gn:admin4_code":"10008120010.0",
+    "gn:asciiname":"Shangdongbu",
+    "gn:country_code":"TW",
+    "gn:dem":2536,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6725089,
+    "gn:latitude":23.47991,
+    "gn:longitude":120.88447,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangdongbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shang-tung-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u6771\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6725089
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9f2bffc1322b33c0fb9379eb9876c1ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276156545,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1276156545,
+    "wof:lastmodified":1537709901,
+    "wof:name":"Shangdongbu",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.88447,
+    23.47991,
+    120.88447,
+    23.47991
+],
+  "geometry": {"coordinates":[120.88446999999999,23.47991],"type":"Point"}
+}

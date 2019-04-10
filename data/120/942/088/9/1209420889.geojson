@@ -1,0 +1,75 @@
+{
+  "id": 1209420889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.55175,22.53642,120.55175,22.53642",
+    "geom:latitude":22.53642,
+    "geom:longitude":120.55175,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T02",
+    "gn:admin4_code":"10013020006.0",
+    "gn:asciiname":"Liucuozhuang",
+    "gn:country_code":"TW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7501403,
+    "gn:latitude":22.53642,
+    "gn:longitude":120.55175,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liucuozhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5289\u539d\u5e84",
+        "Liucuozhuang",
+        "Lioucuojhuang"
+    ],
+    "name:zho_x_preferred":[
+        "Liu-ts\u2019o-chuang"
+    ],
+    "name:zho_x_variant":[
+        "\u5289\u539d\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7501403
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e5ce9ae4d75ff619335b1dcfa59cc34e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209420889
+        }
+    ],
+    "wof:id":1209420889,
+    "wof:lastmodified":1537709978,
+    "wof:name":"Liucuozhuang",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.55175,
+    22.53642,
+    120.55175,
+    22.53642
+],
+  "geometry": {"coordinates":[120.55175,22.53642],"type":"Point"}
+}

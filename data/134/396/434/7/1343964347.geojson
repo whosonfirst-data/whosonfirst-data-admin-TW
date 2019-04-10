@@ -1,0 +1,81 @@
+{
+  "id": 1343964347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.56557,25.12249,121.56557,25.12249",
+    "geom:latitude":25.12249,
+    "geom:longitude":121.56557,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A15",
+    "gn:admin4_code":"63000110044.0",
+    "gn:asciiname":"Shuangxizi",
+    "gn:country_code":"TW",
+    "gn:dem":312,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669090,
+    "gn:latitude":25.12249,
+    "gn:longitude":121.56557,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuangxizi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuangsizih",
+        "Shuang-hsi",
+        "Shuang-hsi-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "Shuang-ch\u2019i"
+    ],
+    "name:zho_x_variant":[
+        "\u96d9\u6eaa\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669090
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9ab22d7decc58b2249e1bae7028d0ab9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343964347,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1343964347,
+    "wof:lastmodified":1537708678,
+    "wof:name":"Shuangxizi",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.56557,
+    25.12249,
+    121.56557,
+    25.12249
+],
+  "geometry": {"coordinates":[121.56556999999999,25.12249],"type":"Point"}
+}

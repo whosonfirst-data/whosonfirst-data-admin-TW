@@ -1,0 +1,79 @@
+{
+  "id": 1276878885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7443,24.1877,120.7443,24.1877",
+    "geom:latitude":24.1877,
+    "geom:longitude":120.7443,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B08",
+    "gn:admin4_code":"66000080014.0",
+    "gn:asciiname":"Qingshuikou",
+    "gn:country_code":"TW",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993170,
+    "gn:latitude":24.1877,
+    "gn:longitude":120.7443,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qingshuikou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6e05\u6c34\u53e3",
+        "Qingshuikou",
+        "Cingshueikou",
+        "Ch\u2019ing-shui-k\u2019ou"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019ing-shui-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993170
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"23e40168848a465c6d2e6584a15c1fb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276878885,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1276878885,
+    "wof:lastmodified":1537709475,
+    "wof:name":"Qingshuikou",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7443,
+    24.1877,
+    120.7443,
+    24.1877
+],
+  "geometry": {"coordinates":[120.7443,24.1877],"type":"Point"}
+}

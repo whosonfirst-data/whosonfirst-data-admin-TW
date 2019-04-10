@@ -1,0 +1,78 @@
+{
+  "id": 1209821477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.92239,24.67682,120.92239,24.67682",
+    "geom:latitude":24.67682,
+    "geom:longitude":120.92239,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K10",
+    "gn:admin4_code":"10005050020.0",
+    "gn:asciiname":"Dongxing",
+    "gn:country_code":"TW",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666617,
+    "gn:latitude":24.67682,
+    "gn:longitude":120.92239,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongsing",
+        "Dongxing",
+        "Tung-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u8208"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666617
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f00164fb7c64a522205c44d6d05cf777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209821477,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1209821477,
+    "wof:lastmodified":1537708510,
+    "wof:name":"Dongxing",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.92239,
+    24.67682000000001,
+    120.92239,
+    24.67682000000001
+],
+  "geometry": {"coordinates":[120.92238999999999,24.67682000000001],"type":"Point"}
+}

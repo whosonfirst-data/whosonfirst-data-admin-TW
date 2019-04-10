@@ -1,0 +1,82 @@
+{
+  "id": 1259980035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.61835,24.06264,120.61835,24.06264",
+    "geom:latitude":24.06264,
+    "geom:longitude":120.61835,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N01",
+    "gn:admin4_code":"10007010067.0",
+    "gn:asciiname":"Shangkuaiguan",
+    "gn:country_code":"TW",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673753,
+    "gn:latitude":24.06264,
+    "gn:longitude":120.61835,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangkuaiguan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u2019eng-k\u2019ou",
+        "Shih-p\u2019ai",
+        "Shangkuaiguan",
+        "Shang-k\u2019uai-kuan"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u5feb\u5b98"
+    ],
+    "name:zho_x_variant":[
+        "Shang-k\u2019uai-kuan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673753
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"73caa1683b724d5ad161e7beb6f4fb79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259980035,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1259980035,
+    "wof:lastmodified":1537708992,
+    "wof:name":"Shangkuaiguan",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.61835,
+    24.06264,
+    120.61835,
+    24.06264
+],
+  "geometry": {"coordinates":[120.61835000000001,24.06264],"type":"Point"}
+}

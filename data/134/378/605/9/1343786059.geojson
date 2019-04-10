@@ -1,0 +1,76 @@
+{
+  "id": 1343786059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.72159,24.50662,120.72159,24.50662",
+    "geom:latitude":24.50662,
+    "geom:longitude":120.72159,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K03",
+    "gn:admin4_code":"10005030016.0",
+    "gn:asciiname":"Waihenggang",
+    "gn:country_code":"TW",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6657722,
+    "gn:latitude":24.50662,
+    "gn:longitude":120.72159,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Waihenggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wai-heng-kang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5916\u6a6b\u5d17"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6657722
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ef4828e596e9d6d7ec700c315f388692",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343786059,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1343786059,
+    "wof:lastmodified":1537709884,
+    "wof:name":"Waihenggang",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.72159,
+    24.50662,
+    120.72159,
+    24.50662
+],
+  "geometry": {"coordinates":[120.72159000000001,24.50662],"type":"Point"}
+}

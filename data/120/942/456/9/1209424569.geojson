@@ -1,0 +1,67 @@
+{
+  "id": 1209424569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.91667,26.16667,119.91667,26.16667",
+    "geom:latitude":26.16667,
+    "geom:longitude":119.91667,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"LIE",
+    "gn:asciiname":"Ketiwo",
+    "gn:country_code":"TW",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673658,
+    "gn:latitude":26.16667,
+    "gn:longitude":119.91667,
+    "gn:modification_date":"2017-11-11",
+    "gn:name":"Ketiwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "K\u2019o-t\u2019i-wu",
+        "K\u2019o-t\u2019i-wo",
+        "Ketiwo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673658
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4b391af5b4961fa1b7a2010d06b49254",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209424569
+        }
+    ],
+    "wof:id":1209424569,
+    "wof:lastmodified":1537708985,
+    "wof:name":"Ketiwo",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.91667,
+    26.16667,
+    119.91667,
+    26.16667
+],
+  "geometry": {"coordinates":[119.91667,26.16667],"type":"Point"}
+}

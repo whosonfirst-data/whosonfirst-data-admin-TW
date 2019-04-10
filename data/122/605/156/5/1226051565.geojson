@@ -1,0 +1,85 @@
+{
+  "id": 1226051565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6818,22.9073,120.6818,22.9073",
+    "geom:latitude":22.9073,
+    "geom:longitude":120.6818,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E36",
+    "gn:admin4_code":"64000360002.0",
+    "gn:asciiname":"Wanshan",
+    "gn:country_code":"TW",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666128,
+    "gn:latitude":22.9073,
+    "gn:longitude":120.6818,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wanshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wan-tou-lung-she",
+        "Wanshan",
+        "Wan-shan"
+    ],
+    "name:zho_x_preferred":[
+        "Man-t\u2019ao-she"
+    ],
+    "name:zho_x_variant":[
+        "Wan-shan-ts\u2019un",
+        "Man-t\u2019ao",
+        "Man-t\u2019o-lung-she",
+        "\u842c\u5c71",
+        "Man-t\u2019a-y\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666128
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1233c76f0b8fcd53eee6967361889e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226051565,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1226051565,
+    "wof:lastmodified":1537708480,
+    "wof:name":"Wanshan",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6818,
+    22.9073,
+    120.6818,
+    22.9073
+],
+  "geometry": {"coordinates":[120.6818,22.9073],"type":"Point"}
+}

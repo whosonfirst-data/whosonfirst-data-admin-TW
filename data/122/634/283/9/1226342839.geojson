@@ -1,0 +1,78 @@
+{
+  "id": 1226342839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.24408,22.97938,121.24408,22.97938",
+    "geom:latitude":22.97938,
+    "geom:longitude":121.24408,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V07",
+    "gn:admin4_code":"10014070002.0",
+    "gn:asciiname":"Xiajiaogang",
+    "gn:country_code":"TW",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658231,
+    "gn:latitude":22.97938,
+    "gn:longitude":121.24408,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiajiaogang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siajiaogang",
+        "Xiajiaogang",
+        "Hsia-chiao-kang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u89d2\u6e2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658231
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"99a3a7262c01eab55174cfccc610b831",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226342839,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1226342839,
+    "wof:lastmodified":1537709896,
+    "wof:name":"Xiajiaogang",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.24408,
+    22.97938,
+    121.24408,
+    22.97938
+],
+  "geometry": {"coordinates":[121.24408,22.97938],"type":"Point"}
+}

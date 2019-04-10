@@ -1,0 +1,187 @@
+{
+  "id": 85679571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.009645,
+    "geom:area_square_m":107988602.653378,
+    "geom:bbox":"121.633123814,25.0576439482,121.774820591,25.1694649787",
+    "geom:latitude":25.112685,
+    "geom:longitude":121.707872,
+    "gn:id":"",
+    "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Keelung City Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
+    "lbl:latitude":25.111734,
+    "lbl:longitude":121.707872,
+    "mps:latitude":25.111734,
+    "mps:longitude":121.707872,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":8.7,
+    "name:eng_x_preferred":[
+        "Keelung City"
+    ],
+    "name:eng_x_variant":[
+        "Chi-lung",
+        "Keelung"
+    ],
+    "name:kor_x_preferred":[
+        "\uc9c0\ub8fd \uc2dc"
+    ],
+    "name:unk_x_variant":[
+        "Chi-lung"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u9686\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u57fa\u9686"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"TWN",
+    "ne:adm0_label":"2",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"TWN-1164",
+    "ne:adm1_code":"TWN-1164",
+    "ne:admin":"Taiwan",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"20",
+    "ne:code_hasc":"TW.TW.CL",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1164",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"2",
+    "ne:geonunit":"Taiwan",
+    "ne:gn_a1_code":"TW.KEE",
+    "ne:gn_id":"6724654",
+    "ne:gn_level":"2",
+    "ne:gn_name":"Keelung",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"TW12",
+    "ne:gns_id":"10126902",
+    "ne:gns_lang":"zho",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Jilong Shi",
+    "ne:gns_region":"",
+    "ne:gu_a3":"TWN",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"TW-KEE",
+    "ne:iso_a2":"TW",
+    "ne:labelrank":"9",
+    "ne:latitude":"25.11310000000",
+    "ne:longitude":"121.70400000000",
+    "ne:mapcolor13":2,
+    "ne:mapcolor9":7,
+    "ne:name":"Keelung City",
+    "ne:name_alt":"Jilong Shi|Chilung City",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CL",
+    "ne:provnum_ne":"18",
+    "ne:region":"Taiwan Province",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"1",
+    "ne:scalerank":"9",
+    "ne:sov_a3":"TWN",
+    "ne:sub_code":"",
+    "ne:type":"Shi",
+    "ne:type_en":"Provincial City",
+    "ne:wikipedia":"",
+    "ne:woe_id":22695855,
+    "ne:woe_label":"",
+    "ne:woe_name":"Keelung City",
+    "qs:a0":"Taiwan",
+    "qs:a0_lc":"TW",
+    "qs:a1":"Keelung City",
+    "qs:a1_lc":"TWN-1164",
+    "qs:a1r":"Taiwan Province",
+    "qs:adm0":"Taiwan",
+    "qs:adm0_a3":"TWN",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Provincial City",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-12-31",
+    "statoids:area_km":"133",
+    "statoids:as_of_date":"2010-12-31",
+    "statoids:capital":"Keelung",
+    "statoids:country":"TW",
+    "statoids:hasc":"TW.TA",
+    "statoids:name":"Keelung City",
+    "statoids:population":"381809",
+    "statoids:statoid":"TW.TA.CL",
+    "statoids:timezone":"8",
+    "statoids:type":"municipality",
+    "unlc:subdivision":"TW-KEE",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"",
+        "gn:id":6724654,
+        "gp:id":22695855,
+        "hasc:id":"TW.TA.CL",
+        "qs:id":465874,
+        "unlc:id":"TW-KEE"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8a9472d0270aa392ac5d9d462afe87c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "macroregion_id":1108808557,
+            "region_id":85679571
+        }
+    ],
+    "wof:id":85679571,
+    "wof:lang":[
+        "chi"
+    ],
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1553550555,
+    "wof:name":"Keelung City",
+    "wof:parent_id":1108808557,
+    "wof:placetype":"region",
+    "wof:placetype_local":"municipality",
+    "wof:population":381809,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:shortcode":"CL",
+    "wof:subdivision":"TW-KEE",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.6331238142127,
+    25.05764394820972,
+    121.77482059109741,
+    25.16946497872584
+],
+  "geometry": {"coordinates":[[[121.76126666932134,25.14260404584007],[121.76014448537978,25.10146556248577],[121.76076460210481,25.09102692285427],[121.77482059109741,25.07769440427342],[121.77337365117307,25.06921946940304],[121.76376183474099,25.06281159118203],[121.74856896418646,25.05764394820972],[121.72903527206017,25.05991771133336],[121.68883100804464,25.07511058188788],[121.6774621933256,25.08244863519639],[121.66350955622113,25.0944375684391],[121.65265750543961,25.10642649988313],[121.64614627533035,25.11851878501398],[121.63529422364957,25.13123118686985],[121.63312381421269,25.14115306256383],[121.64521609934354,25.14859446955916],[121.67250125502892,25.15934316755317],[121.68924441919467,25.16944590950118],[121.68927187909401,25.16946497872584],[121.69459069090772,25.16608307547358],[121.69752037906233,25.16258372615806],[121.70386803508177,25.15688711095146],[121.71851647225742,25.15200429945889],[121.76126666932134,25.14260404584007]]],"type":"Polygon"}
+}

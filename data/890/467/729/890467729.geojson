@@ -1,0 +1,73 @@
+{
+  "id": 890467729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.28333,25.06667,121.28333,25.06667",
+    "geom:latitude":25.06667,
+    "geom:longitude":121.28333,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Lu-chu Hsiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u8606\u7af9\u9109"
+    ],
+    "qs:name":"Luzhu Xiang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":290,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672575,
+        "qs:id":1238035,
+        "wd:id":"Q713146",
+        "wk:page":"County-controlled city"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053662,
+    "wof:geomhash":"9c43e5a18d533a531d7a82cbe39606b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890467729,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":890467729,
+    "wof:lastmodified":1527792902,
+    "wof:name":"Luzhu Xiang",
+    "wof:parent_id":85679589,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.28333,
+    25.06667,
+    121.28333,
+    25.06667
+],
+  "geometry": {"coordinates":[121.28333000000001,25.06667],"type":"Point"}
+}

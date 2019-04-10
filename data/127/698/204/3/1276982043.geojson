@@ -1,0 +1,80 @@
+{
+  "id": 1276982043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.59743,25.25888,121.59743,25.25888",
+    "geom:latitude":25.25888,
+    "geom:longitude":121.59743,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F31",
+    "gn:admin4_code":"65000220008.0",
+    "gn:asciiname":"Xiaokengtou",
+    "gn:country_code":"TW",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675616,
+    "gn:latitude":25.25888,
+    "gn:longitude":121.59743,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaokengtou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siaokengtou",
+        "Xiaokengtou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u5751\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Hsiao-k\u2019eng-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675616
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7288ab627973180384733c2e019788e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276982043,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1276982043,
+    "wof:lastmodified":1537709147,
+    "wof:name":"Xiaokengtou",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.59743,
+    25.25888,
+    121.59743,
+    25.25888
+],
+  "geometry": {"coordinates":[121.59743,25.25888],"type":"Point"}
+}

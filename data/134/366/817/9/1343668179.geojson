@@ -1,0 +1,82 @@
+{
+  "id": 1343668179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.496,25.0964,121.496,25.0964",
+    "geom:latitude":25.0964,
+    "geom:longitude":121.496,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A15",
+    "gn:admin4_code":"63000110023.0",
+    "gn:asciiname":"Xizhoudi",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675366,
+    "gn:latitude":25.0964,
+    "gn:longitude":121.496,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xizhoudi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-chou",
+        "Xizhoudi",
+        "Sijhoudi",
+        "Hsi-chou-ti"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019i-chou"
+    ],
+    "name:zho_x_variant":[
+        "\u6eaa\u5dde\u5e95"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675366
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0194972ae91f207ae5f536dafd8e4789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343668179,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1343668179,
+    "wof:lastmodified":1537709123,
+    "wof:name":"Xizhoudi",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.496,
+    25.0964,
+    121.496,
+    25.0964
+],
+  "geometry": {"coordinates":[121.496,25.0964],"type":"Point"}
+}

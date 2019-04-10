@@ -1,0 +1,61 @@
+{
+  "id": 1209217723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.28278,23.08668,120.28278,23.08668",
+    "geom:latitude":23.08668,
+    "geom:longitude":120.28278,
+    "gn:admin1_code":"2.0",
+    "gn:asciiname":"Sinshih Township",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6696915,
+    "gn:latitude":23.08668,
+    "gn:longitude":120.28278,
+    "gn:modification_date":"2008-09-24",
+    "gn:name":"Sinshih Township",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6696915
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2b66ac145fc03322f2bae5ae3f0e43c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209217723
+        }
+    ],
+    "wof:id":1209217723,
+    "wof:lastmodified":1536294073,
+    "wof:name":"Sinshih Township",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.28278,
+    23.08668,
+    120.28278,
+    23.08668
+],
+  "geometry": {"coordinates":[120.28278,23.08668],"type":"Point"}
+}

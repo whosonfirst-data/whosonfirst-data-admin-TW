@@ -1,0 +1,78 @@
+{
+  "id": 1343859207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.59909,22.8365,120.59909,22.8365",
+    "geom:latitude":22.8365,
+    "geom:longitude":120.59909,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T11",
+    "gn:admin4_code":"10013110007.0",
+    "gn:asciiname":"Longyanjiao",
+    "gn:country_code":"TW",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672396,
+    "gn:latitude":22.8365,
+    "gn:longitude":120.59909,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Longyanjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chung-ta-pu",
+        "Longyanjiao",
+        "Lung-yen-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f8d\u773c\u811a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672396
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f6faf8e5c47d3da45bc7c45b2758e967",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343859207,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1343859207,
+    "wof:lastmodified":1537708902,
+    "wof:name":"Longyanjiao",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.59909,
+    22.8365,
+    120.59909,
+    22.8365
+],
+  "geometry": {"coordinates":[120.59909,22.8365],"type":"Point"}
+}

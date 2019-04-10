@@ -1,0 +1,80 @@
+{
+  "id": 1309725079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.21111,22.81694,120.21111,22.81694",
+    "geom:latitude":22.81694,
+    "geom:longitude":120.21111,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E27",
+    "gn:admin4_code":"64000270003.0",
+    "gn:asciiname":"Xingangkou",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674967,
+    "gn:latitude":22.81694,
+    "gn:longitude":120.21111,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xingangkou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Singangkou"
+    ],
+    "name:zho_x_preferred":[
+        "Hsin-chiang-k\u2019ou"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u6e2f\u53e3",
+        "Hsin-kang-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674967
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cb559025f2fd1426aafc2c8f71362298",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309725079,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1309725079,
+    "wof:lastmodified":1537709085,
+    "wof:name":"Xingangkou",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.21111,
+    22.81694,
+    120.21111,
+    22.81694
+],
+  "geometry": {"coordinates":[120.21111000000001,22.81694],"type":"Point"}
+}

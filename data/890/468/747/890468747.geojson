@@ -1,0 +1,82 @@
+{
+  "id": 890468747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.92704,23.83419,120.92704,23.83419",
+    "geom:latitude":23.83419,
+    "geom:longitude":120.92704,
+    "gn:country":"TW",
+    "gn:fcode":"ADM2",
+    "gn:pop":532034,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:kor_x_preferred":[
+        "\ub09c\ud130\uc6b0 \ud604"
+    ],
+    "name:unk_x_variant":[
+        "Nan Tow Hsien"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u6295\u7e23"
+    ],
+    "name:zho_x_variant":[
+        "Nan-t\u2019ou",
+        "Nan-t\u2019ou Hsien"
+    ],
+    "qs:name":"Nantou",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"11",
+    "src:population":"geonames",
+    "wd:wordcount":51,
+    "wof:belongsto":[
+        85679611,
+        102191569,
+        85632403,
+        1108498475,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671564,
+        "qs:id":1030910,
+        "wk:page":"Nantou"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053724,
+    "wof:geomhash":"a6e863ee20825c83f801efbe3b80ff65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "county_id":890468747,
+            "macrocounty_id":1108498475,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":890468747,
+    "wof:lastmodified":1527792968,
+    "wof:name":"Nantou",
+    "wof:parent_id":1108498475,
+    "wof:placetype":"county",
+    "wof:population":532034,
+    "wof:population_rank":11,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.92704,
+    23.83419,
+    120.92704,
+    23.83419
+],
+  "geometry": {"coordinates":[120.92704000000001,23.83419],"type":"Point"}
+}

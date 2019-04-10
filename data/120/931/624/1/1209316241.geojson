@@ -1,0 +1,70 @@
+{
+  "id": 1209316241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.61364,24.88526,121.61364,24.88526",
+    "geom:latitude":24.88526,
+    "geom:longitude":121.61364,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F08",
+    "gn:admin4_code":"65000190011.0",
+    "gn:asciiname":"Kerenliao",
+    "gn:country_code":"TW",
+    "gn:dem":434,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6643718,
+    "gn:latitude":24.88526,
+    "gn:longitude":121.61364,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kerenliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5ba2\u4eba\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019o-jen-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6643718
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b9a816b5482fbc1c6cf524660f0b53b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209316241
+        }
+    ],
+    "wof:id":1209316241,
+    "wof:lastmodified":1537709690,
+    "wof:name":"Kerenliao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.61364,
+    24.88526,
+    121.61364,
+    24.88526
+],
+  "geometry": {"coordinates":[121.61364,24.88526],"type":"Point"}
+}

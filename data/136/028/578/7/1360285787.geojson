@@ -1,0 +1,81 @@
+{
+  "id": 1360285787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5835,23.7738,120.5835,23.7738",
+    "geom:latitude":23.7738,
+    "geom:longitude":120.5835,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P10",
+    "gn:admin4_code":"10009100010.0",
+    "gn:asciiname":"Jinxing",
+    "gn:country_code":"TW",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675435,
+    "gn:latitude":23.7738,
+    "gn:longitude":120.5835,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jinxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jinsing",
+        "Chin-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "Hsia-ts\u2019o-tzu"
+    ],
+    "name:zho_x_variant":[
+        "\u9032\u8208",
+        "Hsia-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675435
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"562e650794c2da694bbf7851282d5d36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360285787,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1360285787,
+    "wof:lastmodified":1537709131,
+    "wof:name":"Jinxing",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5835,
+    23.7738,
+    120.5835,
+    23.7738
+],
+  "geometry": {"coordinates":[120.5835,23.7738],"type":"Point"}
+}

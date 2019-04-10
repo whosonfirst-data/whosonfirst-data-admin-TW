@@ -1,0 +1,79 @@
+{
+  "id": 1276657413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.51296,23.6825,120.51296,23.6825",
+    "geom:latitude":23.6825,
+    "geom:longitude":120.51296,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P01",
+    "gn:admin4_code":"10009010020.0",
+    "gn:asciiname":"Jiulaoye",
+    "gn:country_code":"TW",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677814,
+    "gn:latitude":23.6825,
+    "gn:longitude":120.51296,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiulaoye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiu-an-li",
+        "Jiulaoye",
+        "Jioulaoye",
+        "Chiu-lao-yeh"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e5d\u8001\u723a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677814
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8e3e2f71bcf8382c931a6dd42ff13b92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276657413,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1276657413,
+    "wof:lastmodified":1537709325,
+    "wof:name":"Jiulaoye",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.51296,
+    23.6825,
+    120.51296,
+    23.6825
+],
+  "geometry": {"coordinates":[120.51296000000001,23.6825],"type":"Point"}
+}

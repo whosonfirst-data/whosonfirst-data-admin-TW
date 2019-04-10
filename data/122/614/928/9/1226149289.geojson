@@ -1,0 +1,77 @@
+{
+  "id": 1226149289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.554,24.2404,120.554,24.2404",
+    "geom:latitude":24.2404,
+    "geom:longitude":120.554,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B14",
+    "gn:admin4_code":"66000140011.0",
+    "gn:asciiname":"Jiuzhangzi",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993116,
+    "gn:latitude":24.2404,
+    "gn:longitude":120.554,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiuzhangzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiouzhangzih",
+        "Chiu-chang-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e5d\u5f35\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993116
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"667b9aadf2f5d98aaeac30e91fa0a37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226149289,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1226149289,
+    "wof:lastmodified":1537709472,
+    "wof:name":"Jiuzhangzi",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.554,
+    24.2404,
+    120.554,
+    24.2404
+],
+  "geometry": {"coordinates":[120.554,24.2404],"type":"Point"}
+}

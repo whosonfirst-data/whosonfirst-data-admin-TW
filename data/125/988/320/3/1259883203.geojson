@@ -1,0 +1,78 @@
+{
+  "id": 1259883203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36917,22.775,120.36917,22.775",
+    "geom:latitude":22.775,
+    "geom:longitude":120.36917,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E21",
+    "gn:admin4_code":"64000210011.0",
+    "gn:asciiname":"Hunei",
+    "gn:country_code":"TW",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674252,
+    "gn:latitude":22.775,
+    "gn:longitude":120.36917,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hunei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hu-tzu-nei",
+        "Hunei",
+        "Hu-nei"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e56\u5167"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674252
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e425a5da2b7a97aca1893f7dfb1f3722",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259883203,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1259883203,
+    "wof:lastmodified":1537709030,
+    "wof:name":"Hunei",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36917,
+    22.775,
+    120.36917,
+    22.775
+],
+  "geometry": {"coordinates":[120.36917,22.775],"type":"Point"}
+}

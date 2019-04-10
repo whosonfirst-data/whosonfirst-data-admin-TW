@@ -1,0 +1,78 @@
+{
+  "id": 1360184925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.51313,23.07659,120.51313,23.07659",
+    "geom:latitude":23.07659,
+    "geom:longitude":120.51313,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R25",
+    "gn:admin4_code":"67000250008.0",
+    "gn:asciiname":"Ailiaojiao",
+    "gn:country_code":"TW",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679343,
+    "gn:latitude":23.07659,
+    "gn:longitude":120.51313,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Ailiaojiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yai-liao-chiao",
+        "Ailiaojiao",
+        "Ai-liao-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u9698\u5bee\u8173"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679343
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"670eb1482cbdfd4cd54b19daf1ad125d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360184925,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1360184925,
+    "wof:lastmodified":1537709426,
+    "wof:name":"Ailiaojiao",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.51313,
+    23.07659,
+    120.51313,
+    23.07659
+],
+  "geometry": {"coordinates":[120.51313,23.07659],"type":"Point"}
+}

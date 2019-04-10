@@ -1,0 +1,81 @@
+{
+  "id": 1259589405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.98318,24.55853,120.98318,24.55853",
+    "geom:latitude":24.55853,
+    "geom:longitude":120.98318,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K14",
+    "gn:admin4_code":"10005110008.0",
+    "gn:asciiname":"Lumanjue",
+    "gn:country_code":"TW",
+    "gn:dem":400,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672521,
+    "gn:latitude":24.55853,
+    "gn:longitude":120.98318,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lumanjue",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lumanjyue",
+        "Lumanjue"
+    ],
+    "name:zho_x_preferred":[
+        "\u9c78\u9c3b\u6398"
+    ],
+    "name:zho_x_variant":[
+        "Lu-man-k\u2019u",
+        "Lu-man-ch\u00fceh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672521
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f60d36133f0b0d2cab2fd97efebdd11d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259589405,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1259589405,
+    "wof:lastmodified":1537708911,
+    "wof:name":"Lumanjue",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.98318,
+    24.55853,
+    120.98318,
+    24.55853
+],
+  "geometry": {"coordinates":[120.98318,24.55853],"type":"Point"}
+}

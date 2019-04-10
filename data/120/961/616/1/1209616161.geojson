@@ -1,0 +1,73 @@
+{
+  "id": 1209616161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.73164,24.7135,121.73164,24.7135",
+    "geom:latitude":24.7135,
+    "geom:longitude":121.73164,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G05",
+    "gn:admin4_code":"10002070004.0",
+    "gn:asciiname":"Shitoucuo",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647213,
+    "gn:latitude":24.7135,
+    "gn:longitude":121.73164,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shitoucuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihtoucuo"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u982d\u539d"
+    ],
+    "name:zho_x_variant":[
+        "Shih-t\u2019ou-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647213
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"70f461cf8c08eb7422810b655e04b9be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209616161
+        }
+    ],
+    "wof:id":1209616161,
+    "wof:lastmodified":1537709753,
+    "wof:name":"Shitoucuo",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.73163999999998,
+    24.7135,
+    121.73163999999998,
+    24.7135
+],
+  "geometry": {"coordinates":[121.73163999999998,24.7135],"type":"Point"}
+}

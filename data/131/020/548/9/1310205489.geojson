@@ -1,0 +1,81 @@
+{
+  "id": 1310205489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.32825,24.77669,121.32825,24.77669",
+    "geom:latitude":24.77669,
+    "geom:longitude":121.32825,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H13",
+    "gn:admin4_code":"68000130007.0",
+    "gn:asciiname":"Zhilang",
+    "gn:country_code":"TW",
+    "gn:dem":675,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678365,
+    "gn:latitude":24.77669,
+    "gn:longitude":121.32825,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhilang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhihlang",
+        "Zhilang",
+        "Chih-lang"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019ang-shun-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u5fd7\u6717"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678365
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"25ec34a584de62d78a07ad8e53842c7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310205489,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1310205489,
+    "wof:lastmodified":1537709363,
+    "wof:name":"Zhilang",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.32825,
+    24.77669,
+    121.32825,
+    24.77669
+],
+  "geometry": {"coordinates":[121.32825,24.77669],"type":"Point"}
+}

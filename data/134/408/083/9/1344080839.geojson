@@ -1,0 +1,85 @@
+{
+  "id": 1344080839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.83096,24.6783,121.83096,24.6783",
+    "geom:latitude":24.6783,
+    "geom:longitude":121.83096,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G07",
+    "gn:admin4_code":"10002090015.0",
+    "gn:asciiname":"Jialiwan",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677934,
+    "gn:latitude":24.6783,
+    "gn:longitude":121.83096,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jialiwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chi-shui",
+        "Jialiwan",
+        "Chia-li-wan"
+    ],
+    "name:zho_x_preferred":[
+        "Ting-ch\u2019ing-shui"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019o-lo-hsin-wan",
+        "Chi-shui-ts\u2019un",
+        "\u52a0\u79ae\u5b9b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679567,
+        102191569,
+        85632403,
+        1108499379,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677934
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"acbc6c0587b5c3b3b8b125b5f8d7d4cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344080839,
+            "macrocounty_id":1108499379,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1344080839,
+    "wof:lastmodified":1537709336,
+    "wof:name":"Jialiwan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.83096,
+    24.6783,
+    121.83096,
+    24.6783
+],
+  "geometry": {"coordinates":[121.83096,24.6783],"type":"Point"}
+}

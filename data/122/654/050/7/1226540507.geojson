@@ -1,0 +1,77 @@
+{
+  "id": 1226540507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.77821,24.7219,121.77821,24.7219",
+    "geom:latitude":24.7219,
+    "geom:longitude":121.77821,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G04",
+    "gn:admin4_code":"10002060002.0",
+    "gn:asciiname":"Dingnanxing",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667170,
+    "gn:latitude":24.7219,
+    "gn:longitude":121.77821,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingnanxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ting-nan-hsing",
+        "Dingnanxing"
+    ],
+    "name:zho_x_preferred":[
+        "\u9802\u5357\u8208"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667170
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"60efab81b64a9671d08de15f847b4e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226540507,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1226540507,
+    "wof:lastmodified":1537708546,
+    "wof:name":"Dingnanxing",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.77821000000002,
+    24.7219,
+    121.77821000000002,
+    24.7219
+],
+  "geometry": {"coordinates":[121.77821000000002,24.7219],"type":"Point"}
+}

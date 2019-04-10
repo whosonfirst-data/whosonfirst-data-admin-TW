@@ -1,0 +1,76 @@
+{
+  "id": 1209926953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60051,22.95021,120.60051,22.95021",
+    "geom:latitude":22.95021,
+    "geom:longitude":120.60051,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E31",
+    "gn:admin4_code":"64000310019.0",
+    "gn:asciiname":"Shuangliantan",
+    "gn:country_code":"TW",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658105,
+    "gn:latitude":22.95021,
+    "gn:longitude":120.60051,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuangliantan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u96d9\u9023\u6f6d"
+    ],
+    "name:zho_x_variant":[
+        "Shuang-lien-t\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658105
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"70b1d2343e551fa246513dc0eae90390",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209926953,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1209926953,
+    "wof:lastmodified":1537709890,
+    "wof:name":"Shuangliantan",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60051,
+    22.95021,
+    120.60051,
+    22.95021
+],
+  "geometry": {"coordinates":[120.60051,22.95021],"type":"Point"}
+}

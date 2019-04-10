@@ -1,0 +1,80 @@
+{
+  "id": 1243577931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4415,23.9796,120.4415,23.9796",
+    "geom:latitude":23.9796,
+    "geom:longitude":120.4415,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N16",
+    "gn:admin4_code":"10007140020.0",
+    "gn:asciiname":"Shicuoliao",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669184,
+    "gn:latitude":23.9796,
+    "gn:longitude":120.4415,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shicuoliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihcuoliao",
+        "Shicuoliao"
+    ],
+    "name:zho_x_preferred":[
+        "\u65bd\u539d\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Shih-ts\u2019o-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669184
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2a568063abffb5cdd662987594f0b085",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243577931,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1243577931,
+    "wof:lastmodified":1537708684,
+    "wof:name":"Shicuoliao",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4415,
+    23.9796,
+    120.4415,
+    23.9796
+],
+  "geometry": {"coordinates":[120.4415,23.9796],"type":"Point"}
+}

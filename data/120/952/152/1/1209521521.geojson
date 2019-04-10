@@ -1,0 +1,71 @@
+{
+  "id": 1209521521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.37473,22.34905,120.37473,22.34905",
+    "geom:latitude":22.34905,
+    "geom:longitude":120.37473,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T22",
+    "gn:admin4_code":"10013220007.0",
+    "gn:asciiname":"Huahan",
+    "gn:country_code":"TW",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647699,
+    "gn:latitude":22.34905,
+    "gn:longitude":120.37473,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Huahan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hua-kan-tzu",
+        "Hua-han"
+    ],
+    "name:zho_x_preferred":[
+        "\u82b1\u77f8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647699
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2611bd8c295f63e7b8c58cf01e4fd30b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209521521
+        }
+    ],
+    "wof:id":1209521521,
+    "wof:lastmodified":1537709763,
+    "wof:name":"Huahan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.37473,
+    22.34905,
+    120.37473,
+    22.34905
+],
+  "geometry": {"coordinates":[120.37473,22.34905],"type":"Point"}
+}

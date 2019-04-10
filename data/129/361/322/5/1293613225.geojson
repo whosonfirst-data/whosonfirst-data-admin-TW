@@ -1,0 +1,77 @@
+{
+  "id": 1293613225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.81528,24.85361,121.81528,24.85361",
+    "geom:latitude":24.85361,
+    "geom:longitude":121.81528,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G02",
+    "gn:admin4_code":"10002040015.0",
+    "gn:asciiname":"Shangxinxing",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6594461,
+    "gn:latitude":24.85361,
+    "gn:longitude":121.81528,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangxinxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangsinsing",
+        "Shang-hsin-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u65b0\u8208"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6594461
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"89595d0e5eba8c74f5828c7a4536f4d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293613225,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1293613225,
+    "wof:lastmodified":1537709606,
+    "wof:name":"Shangxinxing",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.81528,
+    24.85361,
+    121.81528,
+    24.85361
+],
+  "geometry": {"coordinates":[121.81528,24.85361],"type":"Point"}
+}

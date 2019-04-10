@@ -1,0 +1,81 @@
+{
+  "id": 1209949717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.92389,24.79889,120.92389,24.79889",
+    "geom:latitude":24.79889,
+    "geom:longitude":120.92389,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSQ",
+    "gn:admin3_code":"O03",
+    "gn:admin4_code":"10018030004.0",
+    "gn:asciiname":"Jinshui",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677971,
+    "gn:latitude":24.79889,
+    "gn:longitude":120.92389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jinshui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jinshuei",
+        "Jinshui",
+        "Chin-shui"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d78\u6c34"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019in-shui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679557,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677971
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6f20a492d7fe2d328bccac5c25394258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209949717,
+            "macroregion_id":1108808557,
+            "region_id":85679557
+        }
+    ],
+    "wof:id":1209949717,
+    "wof:lastmodified":1537709338,
+    "wof:name":"Jinshui",
+    "wof:parent_id":85679557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.92389,
+    24.79889,
+    120.92389,
+    24.79889
+],
+  "geometry": {"coordinates":[120.92389,24.79889],"type":"Point"}
+}

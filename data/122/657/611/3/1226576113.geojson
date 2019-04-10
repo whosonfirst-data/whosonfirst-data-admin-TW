@@ -1,0 +1,81 @@
+{
+  "id": 1226576113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5062,23.91952,121.5062,23.91952",
+    "geom:latitude":23.91952,
+    "geom:longitude":121.5062,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U06",
+    "gn:admin4_code":"10015060009.0",
+    "gn:asciiname":"Chinan",
+    "gn:country_code":"TW",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678349,
+    "gn:latitude":23.91952,
+    "gn:longitude":121.5062,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chinan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chihnan",
+        "Chinan"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019ih-nan-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u6c60\u5357",
+        "Ch\u2019ih-nan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678349
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d899a064a3506293c6dfa459c34a8057",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226576113,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1226576113,
+    "wof:lastmodified":1537709362,
+    "wof:name":"Chinan",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5062,
+    23.91952,
+    121.5062,
+    23.91952
+],
+  "geometry": {"coordinates":[121.50620000000001,23.91952],"type":"Point"}
+}

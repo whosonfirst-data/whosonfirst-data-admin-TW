@@ -1,0 +1,82 @@
+{
+  "id": 1259888957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.39723,22.48527,120.39723,22.48527",
+    "geom:latitude":22.48527,
+    "geom:longitude":120.39723,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E13",
+    "gn:admin4_code":"64000130016.0",
+    "gn:asciiname":"Zhongyun",
+    "gn:country_code":"TW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677163,
+    "gn:latitude":22.48527,
+    "gn:longitude":120.39723,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongyun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhongyun",
+        "Zhongyun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u82b8"
+    ],
+    "name:zho_x_variant":[
+        "Chung-y\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679547,
+        102191569,
+        85632403,
+        1108756877,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677163
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a3c14da954fd2840b15bd49a03b6b61e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259888957,
+            "macrocounty_id":1108756877,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1259888957,
+    "wof:lastmodified":1537709270,
+    "wof:name":"Zhongyun",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.39723,
+    22.48527,
+    120.39723,
+    22.48527
+],
+  "geometry": {"coordinates":[120.39722999999999,22.48527],"type":"Point"}
+}

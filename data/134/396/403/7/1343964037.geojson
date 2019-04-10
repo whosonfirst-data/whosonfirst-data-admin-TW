@@ -1,0 +1,79 @@
+{
+  "id": 1343964037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.65658,25.09956,121.65658,25.09956",
+    "geom:latitude":25.09956,
+    "geom:longitude":121.65658,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"KEE",
+    "gn:admin3_code":"C02",
+    "gn:admin4_code":"10017020016.0",
+    "gn:asciiname":"Xinghua'erkeng",
+    "gn:country_code":"TW",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675071,
+    "gn:latitude":25.09956,
+    "gn:longitude":121.65658,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinghua\u2019erkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8208\u5316\u4e8c\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Hsing-hua-k\u2019eng",
+        "Singhua\u2019erkeng",
+        "Xinghua\u2019erkeng",
+        "Hsing-hua-erh-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675071
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"23d0a04363769ffd37330338f8ae34c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343964037,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1343964037,
+    "wof:lastmodified":1537709096,
+    "wof:name":"Xinghua'erkeng",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.65658,
+    25.09956,
+    121.65658,
+    25.09956
+],
+  "geometry": {"coordinates":[121.65658000000001,25.09956],"type":"Point"}
+}

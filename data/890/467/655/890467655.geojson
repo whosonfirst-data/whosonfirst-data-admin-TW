@@ -1,0 +1,78 @@
+{
+  "id": 890467655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.16111,24.67416,121.16111,24.67416",
+    "geom:latitude":24.67416,
+    "geom:longitude":121.16111,
+    "gn:country":"TW",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc2e0\uc8fc \ud604"
+    ],
+    "name:unk_x_variant":[
+        "Sinjhu Sian"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u7af9\u7e23"
+    ],
+    "qs:name":"Hsinchu",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":1744,
+    "wof:belongsto":[
+        85679563,
+        102191569,
+        85632403,
+        1108756867,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675107,
+        "qs:id":1151920,
+        "wd:id":"Q249994",
+        "wk:page":"Hsinchu"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053659,
+    "wof:geomhash":"44776a2ceda05c9054b6889cbd14b775",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "county_id":890467655,
+            "macrocounty_id":1108756867,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":890467655,
+    "wof:lastmodified":1527792900,
+    "wof:name":"Hsinchu",
+    "wof:parent_id":1108756867,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.16111,
+    24.67416,
+    121.16111,
+    24.67416
+],
+  "geometry": {"coordinates":[121.16110999999999,24.67416],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 890467685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.28333,24.95,121.28333,24.95",
+    "geom:latitude":24.95,
+    "geom:longitude":121.28333,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Pa-ta Hsiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u516b\u5fb7\u5e02"
+    ],
+    "qs:name":"Bade Shi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:latitude":"24.957619444",
+    "wd:longitude":"121.298783333",
+    "wd:wordcount":356,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670908,
+        "qs:id":371287,
+        "wd:id":"Q74052",
+        "wk:page":"Bade District"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053659,
+    "wof:geomhash":"cb36b0a9e24036b01a4bfa964923994f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890467685,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":890467685,
+    "wof:lastmodified":1527792899,
+    "wof:name":"Bade Shi",
+    "wof:parent_id":85679589,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.28333,
+    24.95,
+    121.28333,
+    24.95
+],
+  "geometry": {"coordinates":[121.28333000000001,24.95],"type":"Point"}
+}

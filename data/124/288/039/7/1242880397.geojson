@@ -1,0 +1,77 @@
+{
+  "id": 1242880397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.49789,23.77915,120.49789,23.77915",
+    "geom:latitude":23.77915,
+    "geom:longitude":120.49789,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P09",
+    "gn:admin4_code":"10009090005.0",
+    "gn:asciiname":"Sanbiantou",
+    "gn:country_code":"TW",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669992,
+    "gn:latitude":23.77915,
+    "gn:longitude":120.49789,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanbiantou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e09\u6c74\u982d"
+    ],
+    "name:zho_x_variant":[
+        "San-pan-t\u2019ou",
+        "San-pien-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669992
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a39bc1b1635baa780ad98d488ed80082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242880397,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1242880397,
+    "wof:lastmodified":1537708750,
+    "wof:name":"Sanbiantou",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.49788999999998,
+    23.77915,
+    120.49788999999998,
+    23.77915
+],
+  "geometry": {"coordinates":[120.49788999999998,23.77915],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209220827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.56568,24.96979,121.56568,24.96979",
+    "geom:latitude":24.96979,
+    "geom:longitude":121.56568,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A11",
+    "gn:admin4_code":"63000080037.0",
+    "gn:asciiname":"Aquankeng",
+    "gn:country_code":"TW",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679354,
+    "gn:latitude":24.96979,
+    "gn:longitude":121.56568,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Aquankeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Acyuankeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u6cc9\u5751"
+    ],
+    "name:zho_x_variant":[
+        "A-ch\u2019\u00fcan-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679354
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bc40bb566adf40cdfe0ffa7baf29a1bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209220827
+        }
+    ],
+    "wof:id":1209220827,
+    "wof:lastmodified":1537709427,
+    "wof:name":"Aquankeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.56568,
+    24.96979,
+    121.56568,
+    24.96979
+],
+  "geometry": {"coordinates":[121.56568,24.96979],"type":"Point"}
+}

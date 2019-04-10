@@ -1,0 +1,79 @@
+{
+  "id": 1326854443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.64045,23.30032,120.64045,23.30032",
+    "geom:latitude":23.30032,
+    "geom:longitude":120.64045,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q18",
+    "gn:admin4_code":"10010170002.0",
+    "gn:asciiname":"Neiyechi",
+    "gn:country_code":"TW",
+    "gn:dem":310,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656228,
+    "gn:latitude":23.30032,
+    "gn:longitude":120.64045,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Neiyechi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neiyechih"
+    ],
+    "name:zho_x_preferred":[
+        "\u5167\u8449\u7fc5"
+    ],
+    "name:zho_x_variant":[
+        "Nei-yeh-ch\u2019ih"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6656228
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"916e117cb13a7d7c531418a755b05034",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326854443,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1326854443,
+    "wof:lastmodified":1537709874,
+    "wof:name":"Neiyechi",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.64045,
+    23.30032000000001,
+    120.64045,
+    23.30032000000001
+],
+  "geometry": {"coordinates":[120.64045,23.30032000000001],"type":"Point"}
+}

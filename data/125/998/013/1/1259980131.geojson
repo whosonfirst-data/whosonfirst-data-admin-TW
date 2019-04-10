@@ -1,0 +1,79 @@
+{
+  "id": 1259980131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.95747,23.94093,120.95747,23.94093",
+    "geom:latitude":23.94093,
+    "geom:longitude":120.95747,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M02",
+    "gn:admin4_code":"10008020013.0",
+    "gn:asciiname":"Zhuzishan",
+    "gn:country_code":"TW",
+    "gn:dem":457,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677022,
+    "gn:latitude":23.94093,
+    "gn:longitude":120.95747,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhuzishan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chu-shan-lu",
+        "Jhuzihshan",
+        "Zhuzishan",
+        "Chu-tzu-shan"
+    ],
+    "name:zho_x_preferred":[
+        "\u73e0\u5b50\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677022
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"79f88c969309f1a84066ad641c733f6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259980131,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1259980131,
+    "wof:lastmodified":1537709257,
+    "wof:name":"Zhuzishan",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.95747,
+    23.94093,
+    120.95747,
+    23.94093
+],
+  "geometry": {"coordinates":[120.95747,23.94093],"type":"Point"}
+}

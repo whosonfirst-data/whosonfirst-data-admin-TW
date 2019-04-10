@@ -1,0 +1,78 @@
+{
+  "id": 1260310103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.51639,23.56306,121.51639,23.56306",
+    "geom:latitude":23.56306,
+    "geom:longitude":121.51639,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U08",
+    "gn:admin4_code":"10015080001.0",
+    "gn:asciiname":"Lifu",
+    "gn:country_code":"TW",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6600712,
+    "gn:latitude":23.56306,
+    "gn:longitude":121.51639,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lifu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Li-fu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7acb\u798f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679607,
+        102191569,
+        85632403,
+        1108498083,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6600712
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"29456a5d1fd7db4e70db8c158bdeb1f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260310103,
+            "macrocounty_id":1108498083,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1260310103,
+    "wof:lastmodified":1537709628,
+    "wof:name":"Lifu",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.51639,
+    23.56306,
+    121.51639,
+    23.56306
+],
+  "geometry": {"coordinates":[121.51639,23.56306],"type":"Point"}
+}

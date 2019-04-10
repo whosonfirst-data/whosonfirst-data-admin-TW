@@ -1,0 +1,77 @@
+{
+  "id": 1310106155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.29444,24.66778,121.29444,24.66778",
+    "geom:latitude":24.66778,
+    "geom:longitude":121.29444,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J14",
+    "gn:admin4_code":"10004120007.0",
+    "gn:asciiname":"Libu",
+    "gn:country_code":"TW",
+    "gn:dem":1085,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672924,
+    "gn:latitude":24.66778,
+    "gn:longitude":121.29444,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Libu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Li-mu",
+        "Li-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u674e\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672924
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"93c83076c7e2c4068be63f1aa82e72db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310106155,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1310106155,
+    "wof:lastmodified":1537708935,
+    "wof:name":"Libu",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.29444,
+    24.66778,
+    121.29444,
+    24.66778
+],
+  "geometry": {"coordinates":[121.29443999999999,24.66778],"type":"Point"}
+}

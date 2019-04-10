@@ -1,0 +1,72 @@
+{
+  "id": 1209320903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.6569,24.17792,121.6569,24.17792",
+    "geom:latitude":24.17792,
+    "geom:longitude":121.6569,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U11",
+    "gn:admin4_code":"10015110001.0",
+    "gn:asciiname":"Banxia",
+    "gn:country_code":"TW",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6643123,
+    "gn:latitude":24.17792,
+    "gn:longitude":121.6569,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Banxia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bansia",
+        "Banxia",
+        "Pan-hsia"
+    ],
+    "name:zho_x_preferred":[
+        "\u677f\u4e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6643123
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"aa84bc3bf214e31b7efd9b79491c8bb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209320903
+        }
+    ],
+    "wof:id":1209320903,
+    "wof:lastmodified":1537709688,
+    "wof:name":"Banxia",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.6569,
+    24.17792,
+    121.6569,
+    24.17792
+],
+  "geometry": {"coordinates":[121.65689999999999,24.17792],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209415465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.59556,23.63944,120.59556,23.63944",
+    "geom:latitude":23.63944,
+    "geom:longitude":120.59556,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P07",
+    "gn:admin4_code":"10009070018.0",
+    "gn:asciiname":"Dabu",
+    "gn:country_code":"TW",
+    "gn:dem":208,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667798,
+    "gn:latitude":23.63944,
+    "gn:longitude":120.59556,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dabu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667798
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5623d35e15a10507c1ca53546e5cccab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209415465
+        }
+    ],
+    "wof:id":1209415465,
+    "wof:lastmodified":1537708592,
+    "wof:name":"Dabu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.59556,
+    23.63944,
+    120.59556,
+    23.63944
+],
+  "geometry": {"coordinates":[120.59556000000001,23.63944],"type":"Point"}
+}

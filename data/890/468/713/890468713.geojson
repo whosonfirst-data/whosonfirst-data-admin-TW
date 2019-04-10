@@ -1,0 +1,70 @@
+{
+  "id": 890468713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.76667,24.61667,120.76667,24.61667",
+    "geom:latitude":24.61667,
+    "geom:longitude":120.76667,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Hou-lung Chen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f8c\u9f8d\u93ae"
+    ],
+    "qs:name":"Houlong Zhen",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676013,
+        "qs:id":1027065
+    },
+    "wof:country":"TW",
+    "wof:created":1469053721,
+    "wof:geomhash":"840240eb935ddc4de42f72558ec566fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890468713,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":890468713,
+    "wof:lastmodified":1505343712,
+    "wof:name":"Houlong Zhen",
+    "wof:parent_id":85679575,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.76667,
+    24.61667,
+    120.76667,
+    24.61667
+],
+  "geometry": {"coordinates":[120.76667,24.61667],"type":"Point"}
+}

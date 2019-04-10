@@ -1,0 +1,71 @@
+{
+  "id": 1209112095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.40139,24.01944,120.40139,24.01944",
+    "geom:latitude":24.01944,
+    "geom:longitude":120.40139,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N11",
+    "gn:admin4_code":"10007060014.0",
+    "gn:asciiname":"Maiyucuo",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672234,
+    "gn:latitude":24.01944,
+    "gn:longitude":120.40139,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Maiyucuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Mai-hs\u00fc-ts\u2019o"
+    ],
+    "name:zho_x_variant":[
+        "\u9ea5\u5dbc\u539d",
+        "Mai-y\u00fc-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672234
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"137d63d18d817811f500b7d375fc90ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209112095
+        }
+    ],
+    "wof:id":1209112095,
+    "wof:lastmodified":1537708891,
+    "wof:name":"Maiyucuo",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.40139,
+    24.01944,
+    120.40139,
+    24.01944
+],
+  "geometry": {"coordinates":[120.40139000000001,24.01944],"type":"Point"}
+}

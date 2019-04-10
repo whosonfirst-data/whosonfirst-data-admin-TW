@@ -1,0 +1,81 @@
+{
+  "id": 1243267283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.49472,22.95528,120.49472,22.95528",
+    "geom:latitude":22.95528,
+    "geom:longitude":120.49472,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E35",
+    "gn:admin4_code":"64000350003.0",
+    "gn:asciiname":"Laizikang",
+    "gn:country_code":"TW",
+    "gn:dem":82,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673131,
+    "gn:latitude":22.95528,
+    "gn:longitude":120.49472,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Laizikang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laizihkang",
+        "Laizikang"
+    ],
+    "name:zho_x_preferred":[
+        "\u840a\u5b50\u7095"
+    ],
+    "name:zho_x_variant":[
+        "Lai-tzu-k\u2019eng",
+        "Lai-tzu-k\u2019ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673131
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7b949656706093335c7090950050b468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243267283,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1243267283,
+    "wof:lastmodified":1537708949,
+    "wof:name":"Laizikang",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.49472,
+    22.95528,
+    120.49472,
+    22.95528
+],
+  "geometry": {"coordinates":[120.49472,22.95528],"type":"Point"}
+}

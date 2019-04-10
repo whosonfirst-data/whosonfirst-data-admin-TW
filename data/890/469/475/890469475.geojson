@@ -1,0 +1,69 @@
+{
+  "id": 890469475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.69075,25.010795,121.69075,25.010795",
+    "geom:latitude":25.010795,
+    "geom:longitude":121.69075,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"\u6c38\u5b9a\u6751",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u65b0\u5317\u5e02",
+    "qs:photos":88,
+    "qs:photos_1k":18,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":88,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":257,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28756241,
+        "qs:id":982879,
+        "wk:page":"Maocaojie, Nan County"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053775,
+    "wof:geomhash":"e0d037f4f523e1cb0f277e06e36be47a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":890469475,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":890469475,
+    "wof:lastmodified":1527792921,
+    "wof:name":"\u6c38\u5b9a\u6751",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.69075,
+    25.010795,
+    121.69075,
+    25.010795
+],
+  "geometry": {"coordinates":[121.69074999999999,25.010795],"type":"Point"}
+}

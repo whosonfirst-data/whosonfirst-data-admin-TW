@@ -1,0 +1,78 @@
+{
+  "id": 1243555289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.84368,24.49663,121.84368,24.49663",
+    "geom:latitude":24.49663,
+    "geom:longitude":121.84368,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G09",
+    "gn:admin4_code":"10002030024.0",
+    "gn:asciiname":"Fenniaolin",
+    "gn:country_code":"TW",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676548,
+    "gn:latitude":24.49663,
+    "gn:longitude":121.84368,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fenniaolin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fen-niao-lin"
+    ],
+    "name:zho_x_preferred":[
+        "\u7c89\u9ce5\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679567,
+        102191569,
+        85632403,
+        1108499379,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676548
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f40f05a9e842f13de66da210fa1a44dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243555289,
+            "macrocounty_id":1108499379,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1243555289,
+    "wof:lastmodified":1537709222,
+    "wof:name":"Fenniaolin",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.84368,
+    24.49663,
+    121.84368,
+    24.49663
+],
+  "geometry": {"coordinates":[121.84368000000001,24.49663],"type":"Point"}
+}

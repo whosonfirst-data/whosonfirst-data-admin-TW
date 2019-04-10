@@ -1,0 +1,74 @@
+{
+  "id": 1193030303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.4199,24.43148,118.4199,24.43148",
+    "geom:latitude":24.43148,
+    "geom:longitude":118.4199,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:asciiname":"Xintou",
+    "gn:country_code":"TW",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674822,
+    "gn:latitude":24.43148,
+    "gn:longitude":118.4199,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Xintou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-t\u2019ou"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u982d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674822
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c2c85bb6d57ac97903edf3fa26adc299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193030303,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1193030303,
+    "wof:lastmodified":1537709074,
+    "wof:name":"Xintou",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.4199,
+    24.43148,
+    118.4199,
+    24.43148
+],
+  "geometry": {"coordinates":[118.4199,24.43148],"type":"Point"}
+}

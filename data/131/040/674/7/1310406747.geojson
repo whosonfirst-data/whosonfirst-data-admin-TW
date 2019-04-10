@@ -1,0 +1,80 @@
+{
+  "id": 1310406747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.74083,23.72167,120.74083,23.72167",
+    "geom:latitude":23.72167,
+    "geom:longitude":120.74083,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M07",
+    "gn:admin4_code":"10008070007.0",
+    "gn:asciiname":"Xiaobantian",
+    "gn:country_code":"TW",
+    "gn:dem":492,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675584,
+    "gn:latitude":23.72167,
+    "gn:longitude":120.74083,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaobantian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siaobantian",
+        "Xiaobantian"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u534a\u5929"
+    ],
+    "name:zho_x_variant":[
+        "Hsiao-pan-t\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675584
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2106aadf7239bc3be7c68031755ed16f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310406747,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1310406747,
+    "wof:lastmodified":1537709145,
+    "wof:name":"Xiaobantian",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.74083,
+    23.72167,
+    120.74083,
+    23.72167
+],
+  "geometry": {"coordinates":[120.74083,23.72167],"type":"Point"}
+}

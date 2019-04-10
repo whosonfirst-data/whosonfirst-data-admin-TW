@@ -1,0 +1,86 @@
+{
+  "id": 1293487903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.30348,23.3466,121.30348,23.3466",
+    "geom:latitude":23.3466,
+    "geom:longitude":121.30348,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U13",
+    "gn:admin4_code":"10015130004.0",
+    "gn:asciiname":"Zhuoxi",
+    "gn:country_code":"TW",
+    "gn:dem":182,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677736,
+    "gn:latitude":23.3466,
+    "gn:longitude":121.30348,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Zhuoxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cho-hsi",
+        "\u5353\u6eaa",
+        "Zhuoxi",
+        "Jhuosi"
+    ],
+    "name:zho_x_preferred":[
+        "Pa-nei-t\u2019a"
+    ],
+    "name:zho_x_variant":[
+        "Cho-ch\u2019i-ts\u2019un",
+        "Cho-ch\u2019i",
+        "Cho-hsi-ts\u2019un",
+        "\u5353\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677736,
+        "wk:page":"Zhuoxi"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4c45075e2dbcb169a52c83823f8f5966",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293487903,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1293487903,
+    "wof:lastmodified":1537709318,
+    "wof:name":"Zhuoxi",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.30348,
+    23.3466,
+    121.30348,
+    23.3466
+],
+  "geometry": {"coordinates":[121.30347999999999,23.3466],"type":"Point"}
+}

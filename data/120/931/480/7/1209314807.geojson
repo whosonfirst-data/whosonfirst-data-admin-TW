@@ -1,0 +1,75 @@
+{
+  "id": 1209314807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.85719,21.91595,120.85719,21.91595",
+    "geom:latitude":21.91595,
+    "geom:longitude":120.85719,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T04",
+    "gn:admin4_code":"10013040017.0",
+    "gn:asciiname":"Kengzinei",
+    "gn:country_code":"TW",
+    "gn:dem":54,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673738,
+    "gn:latitude":21.91595,
+    "gn:longitude":120.85719,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kengzinei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kengzihnei",
+        "Kengzinei"
+    ],
+    "name:zho_x_preferred":[
+        "\u5751\u4ed4\u5167"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019eng-ting",
+        "K\u2019eng-tzu-nei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673738
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fa64440eed860a10013d7ac7e3a6206c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209314807
+        }
+    ],
+    "wof:id":1209314807,
+    "wof:lastmodified":1537708991,
+    "wof:name":"Kengzinei",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.85719,
+    21.91595,
+    120.85719,
+    21.91595
+],
+  "geometry": {"coordinates":[120.85719,21.91595],"type":"Point"}
+}

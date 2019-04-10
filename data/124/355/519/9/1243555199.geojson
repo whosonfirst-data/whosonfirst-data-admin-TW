@@ -1,0 +1,81 @@
+{
+  "id": 1243555199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.17505,25.04441,121.17505,25.04441",
+    "geom:latitude":25.04441,
+    "geom:longitude":121.17505,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H06",
+    "gn:admin4_code":"68000060004.0",
+    "gn:asciiname":"Jiucuozi",
+    "gn:country_code":"TW",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646483,
+    "gn:latitude":25.04441,
+    "gn:longitude":121.17505,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiucuozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jioucuozih",
+        "Jiucuozi",
+        "Chiu-wu-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u820a\u539d\u4ed4"
+    ],
+    "name:zho_x_variant":[
+        "Chiu-ts\u2019o-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646483
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1772964a5c35643e84f661cedfa5ac78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243555199,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1243555199,
+    "wof:lastmodified":1537709735,
+    "wof:name":"Jiucuozi",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.17505,
+    25.04441,
+    121.17505,
+    25.04441
+],
+  "geometry": {"coordinates":[121.17505,25.04441],"type":"Point"}
+}

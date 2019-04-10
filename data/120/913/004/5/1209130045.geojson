@@ -1,0 +1,74 @@
+{
+  "id": 1209130045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.77142,24.69278,121.77142,24.69278",
+    "geom:latitude":24.69278,
+    "geom:longitude":121.77142,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G07",
+    "gn:admin4_code":"10002090006.0",
+    "gn:asciiname":"Sijie",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668832,
+    "gn:latitude":24.69278,
+    "gn:longitude":121.77142,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sijie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sihjie",
+        "Ssu-chieh"
+    ],
+    "name:zho_x_preferred":[
+        "Ssu-chieh-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u56db\u7d50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668832
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0933c3810de99818fb0c37f75db507a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209130045
+        }
+    ],
+    "wof:id":1209130045,
+    "wof:lastmodified":1537708656,
+    "wof:name":"Sijie",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.77142,
+    24.69278,
+    121.77142,
+    24.69278
+],
+  "geometry": {"coordinates":[121.77142000000001,24.69278],"type":"Point"}
+}

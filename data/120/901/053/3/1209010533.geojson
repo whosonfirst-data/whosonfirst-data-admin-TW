@@ -1,0 +1,72 @@
+{
+  "id": 1209010533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.60183,25.06272,121.60183,25.06272",
+    "geom:latitude":25.06272,
+    "geom:longitude":121.60183,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A14",
+    "gn:admin4_code":"63000100037.0",
+    "gn:asciiname":"Huluzhou",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674402,
+    "gn:latitude":25.06272,
+    "gn:longitude":121.60183,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Huluzhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hulujhou",
+        "Huluzhou",
+        "Hu-lu-chou"
+    ],
+    "name:zho_x_preferred":[
+        "\u846b\u8606\u6d32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674402
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"91eea50d1a8ef24e4d3206a71b983a8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209010533
+        }
+    ],
+    "wof:id":1209010533,
+    "wof:lastmodified":1537709039,
+    "wof:name":"Huluzhou",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.60183,
+    25.06272,
+    121.60183,
+    25.06272
+],
+  "geometry": {"coordinates":[121.60183000000001,25.06272],"type":"Point"}
+}

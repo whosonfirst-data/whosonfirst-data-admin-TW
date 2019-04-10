@@ -1,0 +1,77 @@
+{
+  "id": 1226342577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5727,23.8518,120.5727,23.8518",
+    "geom:latitude":23.8518,
+    "geom:longitude":120.5727,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N07",
+    "gn:admin4_code":"10007120020.0",
+    "gn:asciiname":"Daxin",
+    "gn:country_code":"TW",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668460,
+    "gn:latitude":23.8518,
+    "gn:longitude":120.5727,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Daxin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dasin",
+        "Ta-hsin"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u65b0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668460
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"401d8aece96eadbe3c1d143fcf3a7639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226342577,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1226342577,
+    "wof:lastmodified":1537708629,
+    "wof:name":"Daxin",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5727,
+    23.8518,
+    120.5727,
+    23.8518
+],
+  "geometry": {"coordinates":[120.5727,23.8518],"type":"Point"}
+}

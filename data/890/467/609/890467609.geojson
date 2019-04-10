@@ -1,0 +1,70 @@
+{
+  "id": 890467609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.08333,24.73333,121.08333,24.73333",
+    "geom:latitude":24.73333,
+    "geom:longitude":121.08333,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Jhudong Jhen"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u6771\u93ae"
+    ],
+    "qs:name":"Zhudong Zhen",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677051,
+        "qs:id":371345
+    },
+    "wof:country":"TW",
+    "wof:created":1469053656,
+    "wof:geomhash":"5692c1856d6714110372d5e0dba44a02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890467609,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":890467609,
+    "wof:lastmodified":1505343710,
+    "wof:name":"Zhudong Zhen",
+    "wof:parent_id":85679563,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.08333,
+    24.73333,
+    121.08333,
+    24.73333
+],
+  "geometry": {"coordinates":[121.08333,24.73333],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1260188565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.58585,23.96288,120.58585,23.96288",
+    "geom:latitude":23.96288,
+    "geom:longitude":120.58585,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N05",
+    "gn:admin4_code":"10007100018.0",
+    "gn:asciiname":"Santiaozhen",
+    "gn:country_code":"TW",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669965,
+    "gn:latitude":23.96288,
+    "gn:longitude":120.58585,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Santiaozhen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Santiaojhen"
+    ],
+    "name:zho_x_preferred":[
+        "San-t\u2019iao-ch\u2019\u00fcan"
+    ],
+    "name:zho_x_variant":[
+        "\u4e09\u689d\u5733",
+        "San-t\u2019iao-ch\u00fcn",
+        "San-t\u2019iao-chen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669965
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"64b0a0584aaff6bda4475a78852cea0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260188565,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1260188565,
+    "wof:lastmodified":1537708748,
+    "wof:name":"Santiaozhen",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.58585,
+    23.96288,
+    120.58585,
+    23.96288
+],
+  "geometry": {"coordinates":[120.58584999999999,23.96288],"type":"Point"}
+}

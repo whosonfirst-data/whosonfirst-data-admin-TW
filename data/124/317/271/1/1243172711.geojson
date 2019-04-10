@@ -1,0 +1,82 @@
+{
+  "id": 1243172711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.81939,24.72241,121.81939,24.72241",
+    "geom:latitude":24.72241,
+    "geom:longitude":121.81939,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G04",
+    "gn:admin4_code":"10002060004.0",
+    "gn:asciiname":"Xiashe",
+    "gn:country_code":"TW",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675487,
+    "gn:latitude":24.72241,
+    "gn:longitude":121.81939,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiashe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsia-chuang",
+        "Xiashe",
+        "Mao-li-wu-han",
+        "Siashe",
+        "Hsia-she"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679567,
+        102191569,
+        85632403,
+        1108499379,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675487
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"13142eeb1b1837666eed918018c7673a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243172711,
+            "macrocounty_id":1108499379,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1243172711,
+    "wof:lastmodified":1537709136,
+    "wof:name":"Xiashe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.81938999999998,
+    24.72241,
+    121.81938999999998,
+    24.72241
+],
+  "geometry": {"coordinates":[121.81938999999998,24.72241],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243455377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6478,23.76237,120.6478,23.76237",
+    "geom:latitude":23.76237,
+    "geom:longitude":120.6478,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P10",
+    "gn:admin4_code":"10009100004.0",
+    "gn:asciiname":"Qingshuixi",
+    "gn:country_code":"TW",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650408,
+    "gn:latitude":23.76237,
+    "gn:longitude":120.6478,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qingshuixi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cingshueisi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e05\u6c34\u6eaa"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ing-shui-hsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650408
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cc749b0bc670a769647edfc6bfa8ea7c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243455377,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1243455377,
+    "wof:lastmodified":1537709804,
+    "wof:name":"Qingshuixi",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6478,
+    23.76237,
+    120.6478,
+    23.76237
+],
+  "geometry": {"coordinates":[120.6478,23.76237],"type":"Point"}
+}

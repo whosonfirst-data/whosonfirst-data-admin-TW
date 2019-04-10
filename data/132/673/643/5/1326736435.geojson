@@ -1,0 +1,83 @@
+{
+  "id": 1326736435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60652,23.81932,120.60652,23.81932",
+    "geom:latitude":23.81932,
+    "geom:longitude":120.60652,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N20",
+    "gn:admin4_code":"10007180003.0",
+    "gn:asciiname":"Guozhen",
+    "gn:country_code":"TW",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673259,
+    "gn:latitude":23.81932,
+    "gn:longitude":120.60652,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Guozhen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guojhen",
+        "Kuo-chen"
+    ],
+    "name:zho_x_preferred":[
+        "Kuo-ch\u00fcn-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Kuo-ch\u2019\u00fcan-ts\u2019un",
+        "Kuo-ch\u2019\u00fcan",
+        "\u904e\u5733",
+        "Kuo-ch\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673259
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e2ba2312b9344d19515317d0d5112a4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326736435,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1326736435,
+    "wof:lastmodified":1537708959,
+    "wof:name":"Guozhen",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60652,
+    23.81932,
+    120.60652,
+    23.81932
+],
+  "geometry": {"coordinates":[120.60652,23.81932],"type":"Point"}
+}

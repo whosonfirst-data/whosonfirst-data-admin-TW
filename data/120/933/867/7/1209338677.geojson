@@ -1,0 +1,74 @@
+{
+  "id": 1209338677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86659,24.69381,120.86659,24.69381",
+    "geom:latitude":24.69381,
+    "geom:longitude":120.86659,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040009.0",
+    "gn:asciiname":"Daqiuyuan",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668563,
+    "gn:latitude":24.69381,
+    "gn:longitude":120.86659,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Daqiuyuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Daciouyuan",
+        "Daqiuyuan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5775\u5712"
+    ],
+    "name:zho_x_variant":[
+        "Ta-ch\u2019iu-y\u00fcan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668563
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ff4fe9e42d844816b7c472fdf59a4fa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209338677
+        }
+    ],
+    "wof:id":1209338677,
+    "wof:lastmodified":1537708636,
+    "wof:name":"Daqiuyuan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86659,
+    24.69381,
+    120.86659,
+    24.69381
+],
+  "geometry": {"coordinates":[120.86659,24.69381],"type":"Point"}
+}

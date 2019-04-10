@@ -1,0 +1,104 @@
+{
+  "id": 85924441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000027,
+    "geom:area_square_m":302137.413508,
+    "geom:bbox":"120.996238384,24.7917215374,121.003417969,24.7973316849",
+    "geom:latitude":24.794767,
+    "geom:longitude":120.999524,
+    "gn:id":"",
+    "iso:country":"TW",
+    "lbl:latitude":24.795783,
+    "lbl:longitude":120.997886,
+    "mps:latitude":24.794742,
+    "mps:longitude":120.998737,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":14.0,
+    "mz:tier_locality":4,
+    "name:unk_x_variant":[
+        "\u7acb\u529f\u91cc"
+    ],
+    "name:zho_x_preferred":[
+        "\u7acb\u529f\u91cc"
+    ],
+    "qs:gn_adm0_cc":"TW",
+    "qs:gn_id":0,
+    "qs:gn_local":1675151,
+    "qs:local_max":5466,
+    "qs:local_sum":68501,
+    "qs:localhoods":70,
+    "qs:name":"\u7acb\u529f\u91cc",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u65b0\u7af9\u5e02",
+    "qs:name_adm2":"\u6771\u5340",
+    "qs:name_local":"\u65b0\u7af9\u5e02",
+    "qs:photo_max":705,
+    "qs:photo_sum":1529,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":10,
+    "qs:woe_adm0":23424971,
+    "qs:woe_adm1":28751582,
+    "qs:woe_adm2":28752211,
+    "qs:woe_lau":0,
+    "qs:woe_local":2306185,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        1108808557,
+        102026725,
+        85679557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28757593,
+        "qs:id":378014,
+        "qs_pg:id":378014
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1ae875c4a97724595845c9743e482a91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026725,
+            "macroregion_id":1108808557,
+            "neighbourhood_id":85924441,
+            "region_id":85679557
+        }
+    ],
+    "wof:id":85924441,
+    "wof:lang":[
+        "chi"
+    ],
+    "wof:lastmodified":1527268817,
+    "wof:name":"\u7acb\u529f\u91cc",
+    "wof:parent_id":102026725,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.99623838356587,
+    24.79172153735011,
+    121.00341796900022,
+    24.79733168488767
+],
+  "geometry": {"coordinates":[[[120.99886418516849,24.79670834558767],[121.00067138700007,24.79670834056698],[121.00341796900011,24.79670834195582],[121.00341796900022,24.79421496455652],[121.00067138700007,24.79421496455652],[121.00067138700007,24.79172153787201],[120.99855108121801,24.79172153735011],[120.99792480500003,24.79172154570006],[120.99792480500008,24.79296826305387],[120.99655151400009,24.79296826334705],[120.99655151400009,24.79421497030036],[120.99655151400009,24.795116735509],[120.99623838356587,24.7954616637754],[120.99642700857703,24.79608500870015],[120.99623838605089,24.79670834696283],[120.99655151400009,24.79670834772951],[120.99723815915655,24.79670834843135],[120.99723815912529,24.79733168488767],[120.99792480500003,24.7973316847294],[120.99852466563476,24.7973316844752],[120.99886418516849,24.79670834558767]]],"type":"Polygon"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1210040531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.61502,24.06568,120.61502,24.06568",
+    "geom:latitude":24.06568,
+    "geom:longitude":120.61502,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N01",
+    "gn:admin4_code":"10007010070.0",
+    "gn:asciiname":"Xiang'antou",
+    "gn:country_code":"TW",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6748131,
+    "gn:latitude":24.06568,
+    "gn:longitude":120.61502,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiang\u2019antou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Xiang\u2019antou",
+        "Siang\u2019antou",
+        "Hsiang-an-t\u2019ou"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c61\u5cb8\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Xiang\u2019antou",
+        "Hsiang-an-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6748131
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"67b89b3a3f0ea034c759a4c3158b3b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1210040531,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1210040531,
+    "wof:lastmodified":1537709932,
+    "wof:name":"Xiang'antou",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.61502,
+    24.06568,
+    120.61502,
+    24.06568
+],
+  "geometry": {"coordinates":[120.61502,24.06568],"type":"Point"}
+}

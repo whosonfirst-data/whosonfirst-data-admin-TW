@@ -1,0 +1,71 @@
+{
+  "id": 1209316447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.63854,25.01172,121.63854,25.01172",
+    "geom:latitude":25.01172,
+    "geom:longitude":121.63854,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F09",
+    "gn:admin4_code":"65000180003.0",
+    "gn:asciiname":"Bafenliao",
+    "gn:country_code":"TW",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676552,
+    "gn:latitude":25.01172,
+    "gn:longitude":121.63854,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bafenliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fen-liao",
+        "Pa-fen-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u516b\u5206\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676552
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4e7f5eda8a41a1d3575c1e188ca16d28",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209316447
+        }
+    ],
+    "wof:id":1209316447,
+    "wof:lastmodified":1537709222,
+    "wof:name":"Bafenliao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.63854,
+    25.01172,
+    121.63854,
+    25.01172
+],
+  "geometry": {"coordinates":[121.63854000000001,25.01172],"type":"Point"}
+}

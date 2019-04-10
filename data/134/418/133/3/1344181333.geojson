@@ -1,0 +1,75 @@
+{
+  "id": 1344181333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.69331,24.23606,120.69331,24.23606",
+    "geom:latitude":24.23606,
+    "geom:longitude":120.69331,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B16",
+    "gn:admin4_code":"66000160007.0",
+    "gn:asciiname":"Mianshujiao",
+    "gn:country_code":"TW",
+    "gn:dem":183,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993139,
+    "gn:latitude":24.23606,
+    "gn:longitude":120.69331,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Mianshujiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u68c9\u6a39\u811a",
+        "Mianshujiao",
+        "Mien-shu-chiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993139
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6a213f2b0320c132d237157f8952ef9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344181333,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1344181333,
+    "wof:lastmodified":1537709474,
+    "wof:name":"Mianshujiao",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.69331,
+    24.23606,
+    120.69331,
+    24.23606
+],
+  "geometry": {"coordinates":[120.69331,24.23606],"type":"Point"}
+}

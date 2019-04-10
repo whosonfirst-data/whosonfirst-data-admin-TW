@@ -1,0 +1,76 @@
+{
+  "id": 1309806857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.53213,22.83671,120.53213,22.83671",
+    "geom:latitude":22.83671,
+    "geom:longitude":120.53213,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E31",
+    "gn:admin4_code":"64000310016.0",
+    "gn:asciiname":"Wailiao",
+    "gn:country_code":"TW",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658074,
+    "gn:latitude":22.83671,
+    "gn:longitude":120.53213,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wailiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wai-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5916\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658074
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c10a127cd005b2a9a3320c2649e55029",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309806857,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1309806857,
+    "wof:lastmodified":1537709887,
+    "wof:name":"Wailiao",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.53213,
+    22.83671,
+    120.53213,
+    22.83671
+],
+  "geometry": {"coordinates":[120.53213,22.83671],"type":"Point"}
+}

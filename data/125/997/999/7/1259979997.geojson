@@ -1,0 +1,76 @@
+{
+  "id": 1259979997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86538,24.65327,120.86538,24.65327",
+    "geom:latitude":24.65327,
+    "geom:longitude":120.86538,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K11",
+    "gn:admin4_code":"10005150007.0",
+    "gn:asciiname":"Houhunei",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646205,
+    "gn:latitude":24.65327,
+    "gn:longitude":120.86538,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Houhunei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hou-hu-nei"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f8c\u6e56\u5185"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646205
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9ad547b5b741de3df69ce60003d2412f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259979997,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1259979997,
+    "wof:lastmodified":1537709729,
+    "wof:name":"Houhunei",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86538,
+    24.65327000000001,
+    120.86538,
+    24.65327000000001
+],
+  "geometry": {"coordinates":[120.86538,24.65327000000001],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226753783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.63713,23.93939,120.63713,23.93939",
+    "geom:latitude":23.93939,
+    "geom:longitude":120.63713,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M01",
+    "gn:admin4_code":"10008010022.0",
+    "gn:asciiname":"Zhangpuliao",
+    "gn:country_code":"TW",
+    "gn:dem":409,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679097,
+    "gn:latitude":23.93939,
+    "gn:longitude":120.63713,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhangpuliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhangpuliao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a1f\u666e\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Chang-p\u2019u-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679097
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"babde462be98c21afbf4589398bb6ddd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226753783,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1226753783,
+    "wof:lastmodified":1537709411,
+    "wof:name":"Zhangpuliao",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.63713,
+    23.93939,
+    120.63713,
+    23.93939
+],
+  "geometry": {"coordinates":[120.63713,23.93939],"type":"Point"}
+}

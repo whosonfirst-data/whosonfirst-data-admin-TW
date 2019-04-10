@@ -1,0 +1,76 @@
+{
+  "id": 1277081821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.46667,25.03333,121.46667,25.03333",
+    "geom:latitude":25.03333,
+    "geom:longitude":121.46667,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F14",
+    "gn:admin4_code":"65000010031.0",
+    "gn:asciiname":"Lancui",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673099,
+    "gn:latitude":25.03333,
+    "gn:longitude":121.46667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lancui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "F\u00eang-Ts\u2019ui-Li",
+        "Lan-ts\u2019ui-li",
+        "Lan-ts\u2019ui",
+        "Lancui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673099
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8d3d373676e6e8463b11b4348eac720a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1277081821,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1277081821,
+    "wof:lastmodified":1537708947,
+    "wof:name":"Lancui",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.46667,
+    25.03333,
+    121.46667,
+    25.03333
+],
+  "geometry": {"coordinates":[121.46666999999999,25.03333],"type":"Point"}
+}

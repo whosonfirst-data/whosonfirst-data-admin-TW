@@ -1,0 +1,76 @@
+{
+  "id": 1310216735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.63737,25.20793,121.63737,25.20793",
+    "geom:latitude":25.20793,
+    "geom:longitude":121.63737,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F26",
+    "gn:admin4_code":"65000280004.0",
+    "gn:asciiname":"Gongguanlun",
+    "gn:country_code":"TW",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673306,
+    "gn:latitude":25.20793,
+    "gn:longitude":121.63737,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Gongguanlun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kung-kuan-lun"
+    ],
+    "name:zho_x_preferred":[
+        "\u516c\u9928\u5d19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673306
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4b21f7e4002a15bf564181c954f1d76f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310216735,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1310216735,
+    "wof:lastmodified":1537708963,
+    "wof:name":"Gongguanlun",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.63737,
+    25.20793,
+    121.63737,
+    25.20793
+],
+  "geometry": {"coordinates":[121.63737,25.20793],"type":"Point"}
+}

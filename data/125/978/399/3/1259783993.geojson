@@ -1,0 +1,79 @@
+{
+  "id": 1259783993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.35239,23.87428,120.35239,23.87428",
+    "geom:latitude":23.87428,
+    "geom:longitude":120.35239,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N08",
+    "gn:admin4_code":"10007200005.0",
+    "gn:asciiname":"Wujianliao",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665926,
+    "gn:latitude":23.87428,
+    "gn:longitude":120.35239,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wujianliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wu-chen-liao",
+        "Wu-chien",
+        "Wujianliao",
+        "Wu-chien-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e94\u9593\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665926
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b851c1be74313e965bcf57bd35162c3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259783993,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1259783993,
+    "wof:lastmodified":1537708466,
+    "wof:name":"Wujianliao",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.35239,
+    23.87428,
+    120.35239,
+    23.87428
+],
+  "geometry": {"coordinates":[120.35239,23.87428],"type":"Point"}
+}

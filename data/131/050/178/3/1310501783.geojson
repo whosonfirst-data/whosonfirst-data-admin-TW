@@ -1,0 +1,80 @@
+{
+  "id": 1310501783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.66056,24.44083,120.66056,24.44083",
+    "geom:latitude":24.44083,
+    "geom:longitude":120.66056,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K02",
+    "gn:admin4_code":"10005020001.0",
+    "gn:asciiname":"Shuitou",
+    "gn:country_code":"TW",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6587678,
+    "gn:latitude":24.44083,
+    "gn:longitude":120.66056,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuitou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shueitou",
+        "Shuitou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Shui-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6587678
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"639bb3584b03f1c3d7df58f63b7e1bdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310501783,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1310501783,
+    "wof:lastmodified":1537709590,
+    "wof:name":"Shuitou",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.66056,
+    24.44083,
+    120.66056,
+    24.44083
+],
+  "geometry": {"coordinates":[120.66056,24.44083],"type":"Point"}
+}

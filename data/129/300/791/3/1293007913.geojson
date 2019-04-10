@@ -1,0 +1,81 @@
+{
+  "id": 1293007913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.53193,24.92811,121.53193,24.92811",
+    "geom:latitude":24.92811,
+    "geom:longitude":121.53193,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F07",
+    "gn:admin4_code":"65000060029.0",
+    "gn:asciiname":"Xiashicuo",
+    "gn:country_code":"TW",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675479,
+    "gn:latitude":24.92811,
+    "gn:longitude":121.53193,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiashicuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siashihcuo",
+        "Xiashicuo"
+    ],
+    "name:zho_x_preferred":[
+        "Hsia-shih-ts\u2019u"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0b\u77f3\u539d",
+        "Hsia-shih-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675479
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"95d0ed8285fdc1fdf31d6ab3d2eb0674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293007913,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1293007913,
+    "wof:lastmodified":1537709135,
+    "wof:name":"Xiashicuo",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.53193,
+    24.92811,
+    121.53193,
+    24.92811
+],
+  "geometry": {"coordinates":[121.53193,24.92811],"type":"Point"}
+}

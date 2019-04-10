@@ -1,0 +1,75 @@
+{
+  "id": 1209320651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.25996,23.66651,120.25996,23.66651",
+    "geom:latitude":23.66651,
+    "geom:longitude":120.25996,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P14",
+    "gn:admin4_code":"10009140003.0",
+    "gn:asciiname":"Jialong",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678786,
+    "gn:latitude":23.66651,
+    "gn:longitude":120.25996,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jialong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ting-liao",
+        "Jialong",
+        "Chia-lung"
+    ],
+    "name:zho_x_preferred":[
+        "\u5609\u9686"
+    ],
+    "name:zho_x_variant":[
+        "Niu-t\u2019ou-pu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678786
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4baba93327c08cb1407eb7517d05f95e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209320651
+        }
+    ],
+    "wof:id":1209320651,
+    "wof:lastmodified":1537709390,
+    "wof:name":"Jialong",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.25996,
+    23.66651,
+    120.25996,
+    23.66651
+],
+  "geometry": {"coordinates":[120.25996000000001,23.66651],"type":"Point"}
+}

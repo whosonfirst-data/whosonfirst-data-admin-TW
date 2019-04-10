@@ -1,0 +1,76 @@
+{
+  "id": 1343585281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.39428,23.90289,120.39428,23.90289",
+    "geom:latitude":23.90289,
+    "geom:longitude":120.39428,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N08",
+    "gn:admin4_code":"10007200011.0",
+    "gn:asciiname":"Houcuo",
+    "gn:country_code":"TW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675949,
+    "gn:latitude":23.90289,
+    "gn:longitude":120.39428,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Houcuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f8c\u539d"
+    ],
+    "name:zho_x_variant":[
+        "Hou-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675949
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b4ba1a6a6affc72dea0503d0bcc58e8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343585281,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1343585281,
+    "wof:lastmodified":1537709178,
+    "wof:name":"Houcuo",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.39428,
+    23.90289,
+    120.39428,
+    23.90289
+],
+  "geometry": {"coordinates":[120.39427999999999,23.90289],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1309839301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.49806,23.48417,120.49806,23.48417",
+    "geom:latitude":23.48417,
+    "geom:longitude":120.49806,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYI",
+    "gn:admin3_code":"I01",
+    "gn:admin4_code":"10020010041.0",
+    "gn:asciiname":"Qiangmuliao",
+    "gn:country_code":"TW",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671378,
+    "gn:latitude":23.48417,
+    "gn:longitude":120.49806,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qiangmuliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciangmuliao",
+        "Qiangmuliao",
+        "Nei-weng"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8c\u6bcd\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019iang-mu-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679603,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671378
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"02fe39b4bcd17dd1972dcb6cf10f6a71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309839301,
+            "macroregion_id":1108808557,
+            "region_id":85679603
+        }
+    ],
+    "wof:id":1309839301,
+    "wof:lastmodified":1537708838,
+    "wof:name":"Qiangmuliao",
+    "wof:parent_id":85679603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.49806,
+    23.48417,
+    120.49806,
+    23.48417
+],
+  "geometry": {"coordinates":[120.49806,23.48417],"type":"Point"}
+}

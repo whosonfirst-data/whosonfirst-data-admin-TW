@@ -1,0 +1,80 @@
+{
+  "id": 1276547549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60361,24.37222,120.60361,24.37222",
+    "geom:latitude":24.37222,
+    "geom:longitude":120.60361,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B22",
+    "gn:admin4_code":"66000220011.0",
+    "gn:asciiname":"Yangliuzhuang",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667290,
+    "gn:latitude":24.37222,
+    "gn:longitude":120.60361,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yangliuzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yanglioujhuang",
+        "Yang-liu-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u694a\u67f3\u838a"
+    ],
+    "name:zho_x_variant":[
+        "Ting-chiao-t\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667290
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"19ab541eb2ae27e3b2d2974d16f1644c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276547549,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1276547549,
+    "wof:lastmodified":1537708558,
+    "wof:name":"Yangliuzhuang",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60361,
+    24.37222,
+    120.60361,
+    24.37222
+],
+  "geometry": {"coordinates":[120.60361,24.37222],"type":"Point"}
+}

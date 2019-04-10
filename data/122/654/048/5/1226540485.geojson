@@ -1,0 +1,78 @@
+{
+  "id": 1226540485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.11917,24.86167,121.11917,24.86167",
+    "geom:latitude":24.86167,
+    "geom:longitude":121.11917,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J04",
+    "gn:admin4_code":"10004030016.0",
+    "gn:asciiname":"Shimen",
+    "gn:country_code":"TW",
+    "gn:dem":165,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669344,
+    "gn:latitude":24.86167,
+    "gn:longitude":121.11917,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shimen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihmen",
+        "Shimen",
+        "Shih-men"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u9580"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669344
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f6551dfbd59b52155e77a4dfd8a642ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226540485,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1226540485,
+    "wof:lastmodified":1537708698,
+    "wof:name":"Shimen",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.11917,
+    24.86167,
+    121.11917,
+    24.86167
+],
+  "geometry": {"coordinates":[121.11917,24.86167],"type":"Point"}
+}

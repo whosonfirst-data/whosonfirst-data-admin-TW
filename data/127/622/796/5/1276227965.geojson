@@ -1,0 +1,78 @@
+{
+  "id": 1276227965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.51144,23.85148,120.51144,23.85148",
+    "geom:latitude":23.85148,
+    "geom:longitude":120.51144,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N26",
+    "gn:admin4_code":"10007260002.0",
+    "gn:asciiname":"Jiumeizhuang",
+    "gn:country_code":"TW",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649843,
+    "gn:latitude":23.85148,
+    "gn:longitude":120.51144,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiumeizhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jioumeijhuang",
+        "Jiumeizhuang",
+        "Chiu-mei-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u820a\u7709\u838a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649843
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e44d501aa9b69f0f18e0650a85119ad9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276227965,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1276227965,
+    "wof:lastmodified":1537709790,
+    "wof:name":"Jiumeizhuang",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.51144,
+    23.85148,
+    120.51144,
+    23.85148
+],
+  "geometry": {"coordinates":[120.51143999999999,23.85148],"type":"Point"}
+}

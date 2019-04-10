@@ -1,0 +1,78 @@
+{
+  "id": 1344257903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3525,23.35528,120.3525,23.35528",
+    "geom:latitude":23.35528,
+    "geom:longitude":120.3525,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R05",
+    "gn:admin4_code":"67000050003.0",
+    "gn:asciiname":"Liaozi",
+    "gn:country_code":"TW",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672992,
+    "gn:latitude":23.35528,
+    "gn:longitude":120.3525,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liaozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liaozih",
+        "Liaozi",
+        "Liao-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bee\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672992
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9dcc2ea5c594efc4a1c32f30bb605158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344257903,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1344257903,
+    "wof:lastmodified":1537708940,
+    "wof:name":"Liaozi",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3525,
+    23.35528,
+    120.3525,
+    23.35528
+],
+  "geometry": {"coordinates":[120.35250000000001,23.35528],"type":"Point"}
+}

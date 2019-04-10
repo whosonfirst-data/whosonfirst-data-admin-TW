@@ -1,0 +1,85 @@
+{
+  "id": 1327140699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.3665,24.77988,121.3665,24.77988",
+    "geom:latitude":24.77988,
+    "geom:longitude":121.3665,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H13",
+    "gn:admin4_code":"68000130003.0",
+    "gn:asciiname":"Yixing",
+    "gn:country_code":"TW",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675102,
+    "gn:latitude":24.77988,
+    "gn:longitude":121.3665,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yixing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-nei-she",
+        "Hsi-nei",
+        "Yising",
+        "Yixing",
+        "I-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "Yeh-k\u2019eng"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019i-nei-she",
+        "I-sheng-ts\u2019un",
+        "\u7fa9\u8208"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675102
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ff99da35ca49778273a01c2dc9e4fa7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327140699,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1327140699,
+    "wof:lastmodified":1537709100,
+    "wof:name":"Yixing",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.3665,
+    24.77988,
+    121.3665,
+    24.77988
+],
+  "geometry": {"coordinates":[121.3665,24.77988],"type":"Point"}
+}

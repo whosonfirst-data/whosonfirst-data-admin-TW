@@ -1,0 +1,82 @@
+{
+  "id": 1293301605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.19028,22.87917,120.19028,22.87917",
+    "geom:latitude":22.87917,
+    "geom:longitude":120.19028,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E26",
+    "gn:admin4_code":"64000260015.0",
+    "gn:asciiname":"Qilou",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678229,
+    "gn:latitude":22.87917,
+    "gn:longitude":120.19028,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qilou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wen-liao",
+        "Cilou",
+        "Qilou"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019i-lo"
+    ],
+    "name:zho_x_variant":[
+        "\u5d0e\u6f0f",
+        "Ch\u2019i-lou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678229
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"35b8398e6ffe51adea81d6522ecdfe6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293301605,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1293301605,
+    "wof:lastmodified":1537709353,
+    "wof:name":"Qilou",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.19028,
+    22.87917,
+    120.19028,
+    22.87917
+],
+  "geometry": {"coordinates":[120.19028,22.87917],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1276566067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.23046,24.42758,118.23046,24.42758",
+    "geom:latitude":24.42758,
+    "geom:longitude":118.23046,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W05",
+    "gn:admin4_code":"9020050002.0",
+    "gn:asciiname":"Shanglin",
+    "gn:country_code":"TW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669792,
+    "gn:latitude":24.42758,
+    "gn:longitude":118.23046,
+    "gn:modification_date":"2017-11-03",
+    "gn:name":"Shanglin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e0a\u6797",
+        "Shang-lin",
+        "Shanglin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669792
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e7385cfef5c0fdfe5b460fb2bb7f59b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276566067,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1276566067,
+    "wof:lastmodified":1537708735,
+    "wof:name":"Shanglin",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.23046,
+    24.42758,
+    118.23046,
+    24.42758
+],
+  "geometry": {"coordinates":[118.23045999999999,24.42758],"type":"Point"}
+}

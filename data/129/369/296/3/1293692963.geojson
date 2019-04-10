@@ -1,0 +1,76 @@
+{
+  "id": 1293692963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.91997,24.74589,120.91997,24.74589",
+    "geom:latitude":24.74589,
+    "geom:longitude":120.91997,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSQ",
+    "gn:admin3_code":"O03",
+    "gn:admin4_code":"10018030021.0",
+    "gn:asciiname":"Huweiliao",
+    "gn:country_code":"TW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6645912,
+    "gn:latitude":24.74589,
+    "gn:longitude":120.91997,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Huweiliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hu-wei-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u864e\u5c3e\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679557,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6645912
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7d97bea0c68d924f519848c44ab087a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293692963,
+            "macroregion_id":1108808557,
+            "region_id":85679557
+        }
+    ],
+    "wof:id":1293692963,
+    "wof:lastmodified":1537709712,
+    "wof:name":"Huweiliao",
+    "wof:parent_id":85679557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.91997,
+    24.74589,
+    120.91997,
+    24.74589
+],
+  "geometry": {"coordinates":[120.91997000000001,24.74589],"type":"Point"}
+}

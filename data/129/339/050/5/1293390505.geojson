@@ -1,0 +1,79 @@
+{
+  "id": 1293390505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1475,23.02111,121.1475,23.02111",
+    "geom:latitude":23.02111,
+    "geom:longitude":121.1475,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V03",
+    "gn:admin4_code":"10014030007.0",
+    "gn:asciiname":"Tiexi",
+    "gn:country_code":"TW",
+    "gn:dem":242,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602467,
+    "gn:latitude":23.02111,
+    "gn:longitude":121.1475,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tiexi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiesi"
+    ],
+    "name:zho_x_preferred":[
+        "\u9435\u897f"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ieh-hsi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602467
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1285a6aebb15865b3a117dca7981ed49",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293390505,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1293390505,
+    "wof:lastmodified":1537709660,
+    "wof:name":"Tiexi",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1475,
+    23.02111,
+    121.1475,
+    23.02111
+],
+  "geometry": {"coordinates":[121.14749999999999,23.02111],"type":"Point"}
+}

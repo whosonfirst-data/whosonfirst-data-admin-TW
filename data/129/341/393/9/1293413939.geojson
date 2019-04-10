@@ -1,0 +1,78 @@
+{
+  "id": 1293413939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.69222,24.49,120.69222,24.49",
+    "geom:latitude":24.49,
+    "geom:longitude":120.69222,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K03",
+    "gn:admin4_code":"10005030003.0",
+    "gn:asciiname":"Shangbeishi",
+    "gn:country_code":"TW",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988484,
+    "gn:latitude":24.49,
+    "gn:longitude":120.69222,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangbeishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangbeishih",
+        "Shangbeishi",
+        "Shang-pei-shih"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u5317\u52e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988484
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8f5c46061af28db09a213b26261a22f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293413939,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1293413939,
+    "wof:lastmodified":1537709433,
+    "wof:name":"Shangbeishi",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.69222,
+    24.49,
+    120.69222,
+    24.49
+],
+  "geometry": {"coordinates":[120.69222000000001,24.49],"type":"Point"}
+}

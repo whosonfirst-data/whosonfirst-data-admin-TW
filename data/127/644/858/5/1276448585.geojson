@@ -1,0 +1,78 @@
+{
+  "id": 1276448585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48169,23.65379,120.48169,23.65379",
+    "geom:latitude":23.65379,
+    "geom:longitude":120.48169,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P02",
+    "gn:admin4_code":"10009020007.0",
+    "gn:asciiname":"Linzi",
+    "gn:country_code":"TW",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672825,
+    "gn:latitude":23.65379,
+    "gn:longitude":120.48169,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Linzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Linzih",
+        "Linzi",
+        "Lin-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672825
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d970c52af06499baa26c40e7b081a374",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276448585,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1276448585,
+    "wof:lastmodified":1537708931,
+    "wof:name":"Linzi",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48169,
+    23.65379,
+    120.48169,
+    23.65379
+],
+  "geometry": {"coordinates":[120.48169,23.65379],"type":"Point"}
+}

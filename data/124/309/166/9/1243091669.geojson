@@ -1,0 +1,80 @@
+{
+  "id": 1243091669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.55056,23.88833,121.55056,23.88833",
+    "geom:latitude":23.88833,
+    "geom:longitude":121.55056,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U06",
+    "gn:admin4_code":"10015060010.0",
+    "gn:asciiname":"Wuquan",
+    "gn:country_code":"TW",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254640,
+    "gn:latitude":23.88833,
+    "gn:longitude":121.55056,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wuquan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wucyuan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5433\u5168"
+    ],
+    "name:zho_x_variant":[
+        "Wu-ch\u2019\u00fcan-ch\u2019eng",
+        "Wu-ch\u2019\u00fcan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254640
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"47d01f96e018969120e182eaf3e67045",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243091669,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1243091669,
+    "wof:lastmodified":1537709502,
+    "wof:name":"Wuquan",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.55056,
+    23.88833,
+    121.55056,
+    23.88833
+],
+  "geometry": {"coordinates":[121.55056,23.88833],"type":"Point"}
+}

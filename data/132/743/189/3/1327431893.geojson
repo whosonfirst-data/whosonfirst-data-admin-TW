@@ -1,0 +1,77 @@
+{
+  "id": 1327431893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.85418,24.55632,120.85418,24.55632",
+    "geom:latitude":24.55632,
+    "geom:longitude":120.85418,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K08",
+    "gn:admin4_code":"10005120006.0",
+    "gn:asciiname":"Shuangheshui",
+    "gn:country_code":"TW",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669097,
+    "gn:latitude":24.55632,
+    "gn:longitude":120.85418,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuangheshui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuangheshuei",
+        "Shuang-ho-shui"
+    ],
+    "name:zho_x_preferred":[
+        "\u96d9\u5408\u6c34"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669097
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e368f8c362a9dd25afed20c3c649d62e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327431893,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1327431893,
+    "wof:lastmodified":1537708679,
+    "wof:name":"Shuangheshui",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.85418,
+    24.55632,
+    120.85418,
+    24.55632
+],
+  "geometry": {"coordinates":[120.85418,24.55632],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1343466055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.79563,25.00691,121.79563,25.00691",
+    "geom:latitude":25.00691,
+    "geom:longitude":121.79563,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F23",
+    "gn:admin4_code":"65000250011.0",
+    "gn:asciiname":"Xiakengkou",
+    "gn:country_code":"TW",
+    "gn:dem":164,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675799,
+    "gn:latitude":25.00691,
+    "gn:longitude":121.79563,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiakengkou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siakengkou"
+    ],
+    "name:zho_x_preferred":[
+        "Hsian-k\u2019eng"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0b\u5751\u53e3",
+        "Hsia-k\u2019eng",
+        "Hsia-k\u2019eng-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675799
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1585f18412bdeb3f02256d643f30f793",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343466055,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1343466055,
+    "wof:lastmodified":1537709163,
+    "wof:name":"Xiakengkou",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.79563,
+    25.00691,
+    121.79563,
+    25.00691
+],
+  "geometry": {"coordinates":[121.79563,25.00691],"type":"Point"}
+}

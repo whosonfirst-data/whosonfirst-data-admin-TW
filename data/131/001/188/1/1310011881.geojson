@@ -1,0 +1,81 @@
+{
+  "id": 1310011881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.87503,24.33469,120.87503,24.33469",
+    "geom:latitude":24.33469,
+    "geom:longitude":120.87503,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K16",
+    "gn:admin4_code":"10005070011.0",
+    "gn:asciiname":"Pinglin",
+    "gn:country_code":"TW",
+    "gn:dem":419,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667841,
+    "gn:latitude":24.33469,
+    "gn:longitude":120.87503,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pinglin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u576a\u6797",
+        "Pinglin"
+    ],
+    "name:zho_x_preferred":[
+        "Ta-p\u2019ing-lin"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019ing-lin",
+        "\u576a\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667841
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"068ac9770a301cf000d4e8749a9d91e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310011881,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1310011881,
+    "wof:lastmodified":1537708594,
+    "wof:name":"Pinglin",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.87503,
+    24.33469,
+    120.87503,
+    24.33469
+],
+  "geometry": {"coordinates":[120.87503,24.33469],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1293488539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.54067,22.54987,120.54067,22.54987",
+    "geom:latitude":22.54987,
+    "geom:longitude":120.54067,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T02",
+    "gn:admin4_code":"10013020002.0",
+    "gn:asciiname":"Chaozhou",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679047,
+    "gn:latitude":22.54987,
+    "gn:longitude":120.54067,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Chaozhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019ao-chou-chang",
+        "Chaojhou",
+        "Chaozhou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6f6e\u6d32"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ao-chou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679047,
+        "wk:page":"Chaozhou,_Pingtung"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"263caeddfec04903d9ad8a598c74a2cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293488539,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1293488539,
+    "wof:lastmodified":1537709407,
+    "wof:name":"Chaozhou",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.54067,
+    22.54987,
+    120.54067,
+    22.54987
+],
+  "geometry": {"coordinates":[120.54067000000001,22.54987],"type":"Point"}
+}

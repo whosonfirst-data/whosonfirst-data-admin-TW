@@ -1,0 +1,76 @@
+{
+  "id": 1277109753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.13389,24.55722,121.13389,24.55722",
+    "geom:latitude":24.55722,
+    "geom:longitude":121.13389,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J15",
+    "gn:admin4_code":"10004130004.0",
+    "gn:asciiname":"Songben",
+    "gn:country_code":"TW",
+    "gn:dem":1281,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668686,
+    "gn:latitude":24.55722,
+    "gn:longitude":121.13389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Songben",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sung-pen"
+    ],
+    "name:zho_x_preferred":[
+        "\u677e\u672c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668686
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"084d662dd9b7a22dde9446ee10a3ebc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1277109753,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1277109753,
+    "wof:lastmodified":1537708645,
+    "wof:name":"Songben",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.13389,
+    24.55722,
+    121.13389,
+    24.55722
+],
+  "geometry": {"coordinates":[121.13388999999999,24.55722],"type":"Point"}
+}

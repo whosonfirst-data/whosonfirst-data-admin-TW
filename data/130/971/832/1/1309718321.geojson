@@ -1,0 +1,77 @@
+{
+  "id": 1309718321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.98309,23.93769,120.98309,23.93769",
+    "geom:latitude":23.93769,
+    "geom:longitude":120.98309,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M02",
+    "gn:admin4_code":"10008020011.0",
+    "gn:asciiname":"Shenbukeng",
+    "gn:country_code":"TW",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649280,
+    "gn:latitude":23.93769,
+    "gn:longitude":120.98309,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shenbukeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6df1\u57d4\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Sheng-pu-k\u2019eng",
+        "Shen-pu-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649280
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0af7fcea5aae11d33f6ea99545fd00cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309718321,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1309718321,
+    "wof:lastmodified":1537709786,
+    "wof:name":"Shenbukeng",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.98309,
+    23.93769,
+    120.98309,
+    23.93769
+],
+  "geometry": {"coordinates":[120.98309,23.93769],"type":"Point"}
+}

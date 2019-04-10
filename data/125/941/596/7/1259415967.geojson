@@ -1,0 +1,79 @@
+{
+  "id": 1259415967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.52201,24.18423,120.52201,24.18423",
+    "geom:latitude":24.18423,
+    "geom:longitude":120.52201,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B25",
+    "gn:admin4_code":"66000250003.0",
+    "gn:asciiname":"Tianweicuo",
+    "gn:country_code":"TW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993214,
+    "gn:latitude":24.18423,
+    "gn:longitude":120.52201,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tianweicuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "T\u2019ien-wei-ts\u2019o"
+    ],
+    "name:zho_x_preferred":[
+        "\u7530\u5c3e\u539d"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ien-wei-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993214
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ce9305df4f5654934d110267a451f1f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259415967,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1259415967,
+    "wof:lastmodified":1537709477,
+    "wof:name":"Tianweicuo",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.52201,
+    24.18423,
+    120.52201,
+    24.18423
+],
+  "geometry": {"coordinates":[120.52200999999999,24.18423],"type":"Point"}
+}

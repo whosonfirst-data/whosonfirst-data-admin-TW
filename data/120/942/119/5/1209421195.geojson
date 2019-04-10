@@ -1,0 +1,75 @@
+{
+  "id": 1209421195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.76275,24.81482,121.76275,24.81482",
+    "geom:latitude":24.81482,
+    "geom:longitude":121.76275,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G03",
+    "gn:admin4_code":"10002050010.0",
+    "gn:asciiname":"Sanmincun",
+    "gn:country_code":"TW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670002,
+    "gn:latitude":24.81482,
+    "gn:longitude":121.76275,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanmincun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-min",
+        "Sanmincun"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u6c11\u6751"
+    ],
+    "name:zho_x_variant":[
+        "San-ming-ts\u2019un",
+        "San-min-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670002
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2504f174a3351740cd01f25b2191fea8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209421195
+        }
+    ],
+    "wof:id":1209421195,
+    "wof:lastmodified":1537708751,
+    "wof:name":"Sanmincun",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.76275,
+    24.81482,
+    121.76275,
+    24.81482
+],
+  "geometry": {"coordinates":[121.76275,24.81482],"type":"Point"}
+}

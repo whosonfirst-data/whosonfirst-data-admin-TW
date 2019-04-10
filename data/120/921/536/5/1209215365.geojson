@@ -1,0 +1,74 @@
+{
+  "id": 1209215365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8611,24.37752,120.8611,24.37752",
+    "geom:latitude":24.37752,
+    "geom:longitude":120.8611,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K15",
+    "gn:admin4_code":"10005080008.0",
+    "gn:asciiname":"Shuiliudongkou",
+    "gn:country_code":"TW",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652131,
+    "gn:latitude":24.37752,
+    "gn:longitude":120.8611,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuiliudongkou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shueilioudongkou",
+        "Shuiliudongkou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u6d41\u6771\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "Shui-liu-tung-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652131
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"45d0444fba4f5144d089f8b31fd40584",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209215365
+        }
+    ],
+    "wof:id":1209215365,
+    "wof:lastmodified":1537709813,
+    "wof:name":"Shuiliudongkou",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8611,
+    24.37752,
+    120.8611,
+    24.37752
+],
+  "geometry": {"coordinates":[120.86109999999999,24.37752],"type":"Point"}
+}

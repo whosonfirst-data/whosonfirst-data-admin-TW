@@ -1,0 +1,77 @@
+{
+  "id": 1226443539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.26888,24.79227,121.26888,24.79227",
+    "geom:latitude":24.79227,
+    "geom:longitude":121.26888,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H13",
+    "gn:admin4_code":"68000130005.0",
+    "gn:asciiname":"Xilong",
+    "gn:country_code":"TW",
+    "gn:dem":336,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653477,
+    "gn:latitude":24.79227,
+    "gn:longitude":121.26888,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xilong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Silong",
+        "Hsi-lung"
+    ],
+    "name:zho_x_preferred":[
+        "\u559c\u9f8d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653477
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d2280075ba4292395688aff769feeaae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226443539,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1226443539,
+    "wof:lastmodified":1537709832,
+    "wof:name":"Xilong",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.26888,
+    24.79227,
+    121.26888,
+    24.79227
+],
+  "geometry": {"coordinates":[121.26888,24.79227],"type":"Point"}
+}

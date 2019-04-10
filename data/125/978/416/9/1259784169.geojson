@@ -1,0 +1,81 @@
+{
+  "id": 1259784169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.49855,22.64492,120.49855,22.64492",
+    "geom:latitude":22.64492,
+    "geom:longitude":120.49855,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T01",
+    "gn:admin4_code":"10013010045.0",
+    "gn:asciiname":"Dingliuzilin",
+    "gn:country_code":"TW",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667184,
+    "gn:latitude":22.64492,
+    "gn:longitude":120.49855,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingliuzilin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ting-liu-li",
+        "Ting-liu-tzu-lin",
+        "\u9802\u67f3\u4ed4\u6797",
+        "Ting-liu",
+        "Dingliuzilin",
+        "Dingliouzihlin"
+    ],
+    "name:zho_x_preferred":[
+        "\u9802\u67f3\u4ed4\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667184
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fa5c49b35691d2671b4d76298fd20787",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259784169,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1259784169,
+    "wof:lastmodified":1537708548,
+    "wof:name":"Dingliuzilin",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.49855,
+    22.64492000000001,
+    120.49855,
+    22.64492000000001
+],
+  "geometry": {"coordinates":[120.49854999999999,22.64492000000001],"type":"Point"}
+}

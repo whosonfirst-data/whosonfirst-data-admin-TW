@@ -1,0 +1,76 @@
+{
+  "id": 1259507523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.37587,24.99483,121.37587,24.99483",
+    "geom:latitude":24.99483,
+    "geom:longitude":121.37587,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H07",
+    "gn:admin4_code":"68000070003.0",
+    "gn:asciiname":"Dahuding",
+    "gn:country_code":"TW",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653518,
+    "gn:latitude":24.99483,
+    "gn:longitude":121.37587,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dahuding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-hu-ting"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6e56\u9802"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653518
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"85a1cca97c2d17d68796c099f080abca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259507523,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1259507523,
+    "wof:lastmodified":1537709835,
+    "wof:name":"Dahuding",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.37587,
+    24.99483,
+    121.37587,
+    24.99483
+],
+  "geometry": {"coordinates":[121.37587000000001,24.99483],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1309805609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.60488,24.98558,121.60488,24.98558",
+    "geom:latitude":24.98558,
+    "geom:longitude":121.60488,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F09",
+    "gn:admin4_code":"65000180005.0",
+    "gn:asciiname":"Paozilun",
+    "gn:country_code":"TW",
+    "gn:dem":173,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670932,
+    "gn:latitude":24.98558,
+    "gn:longitude":121.60488,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Paozilun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paozihlun",
+        "Paozilun"
+    ],
+    "name:zho_x_preferred":[
+        "\u70ae\u5b50\u5d19"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019ao-tzu-lun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670932
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b0e7110c6bb90645b9d01604476add0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309805609,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1309805609,
+    "wof:lastmodified":1537708810,
+    "wof:name":"Paozilun",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.60488,
+    24.98558,
+    121.60488,
+    24.98558
+],
+  "geometry": {"coordinates":[121.60487999999999,24.98558],"type":"Point"}
+}

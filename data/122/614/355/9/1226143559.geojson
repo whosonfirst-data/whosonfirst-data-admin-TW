@@ -1,0 +1,77 @@
+{
+  "id": 1226143559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.87561,23.97594,120.87561,23.97594",
+    "geom:latitude":23.97594,
+    "geom:longitude":120.87561,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M10",
+    "gn:admin4_code":"10008100011.0",
+    "gn:asciiname":"Xiazhonggua",
+    "gn:country_code":"TW",
+    "gn:dem":374,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649186,
+    "gn:latitude":23.97594,
+    "gn:longitude":120.87561,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiazhonggua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siajhonggua",
+        "Hsia-chung-kua"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u7a2e\u74dc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649186
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b19a1b8b3918ba2dfa7b406468e9b0a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226143559,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1226143559,
+    "wof:lastmodified":1537709781,
+    "wof:name":"Xiazhonggua",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.87561,
+    23.97594,
+    120.87561,
+    23.97594
+],
+  "geometry": {"coordinates":[120.87560999999999,23.97594],"type":"Point"}
+}

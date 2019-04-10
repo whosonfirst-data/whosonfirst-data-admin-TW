@@ -1,0 +1,65 @@
+{
+  "id": 1326637391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.83333,25.13333,121.83333,25.13333",
+    "geom:latitude":25.13333,
+    "geom:longitude":121.83333,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:asciiname":"Caoshan",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666870,
+    "gn:latitude":25.13333,
+    "gn:longitude":121.83333,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Caoshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ts\u2019ao-shan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666870
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1963ce469b148b868278a24f49e8680e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1326637391,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326637391,
+    "wof:lastmodified":1537708526,
+    "wof:name":"Caoshan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.83333,
+    25.13333,
+    121.83333,
+    25.13333
+],
+  "geometry": {"coordinates":[121.83333,25.13333],"type":"Point"}
+}

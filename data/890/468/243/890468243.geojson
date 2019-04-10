@@ -1,0 +1,77 @@
+{
+  "id": 890468243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.41667,25.05,121.41667,25.05",
+    "geom:latitude":25.05,
+    "geom:longitude":121.41667,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "\u6cf0\u5c71\u9109"
+    ],
+    "name:zho_x_preferred":[
+        "T\u2019ai-shan Hsiang"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ai-shan",
+        "\u6cf0\u5c71\u9109"
+    ],
+    "qs:name":"Taishan Xiang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":161,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668309,
+        "qs:id":845951,
+        "wd:id":"Q24287568",
+        "wk:page":"Taipei County"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053695,
+    "wof:geomhash":"b38052c18090c2033b7fe43e113e96aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890468243,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":890468243,
+    "wof:lastmodified":1527792967,
+    "wof:name":"Taishan Xiang",
+    "wof:parent_id":85679585,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.41667,
+    25.05,
+    121.41667,
+    25.05
+],
+  "geometry": {"coordinates":[121.41667,25.05],"type":"Point"}
+}

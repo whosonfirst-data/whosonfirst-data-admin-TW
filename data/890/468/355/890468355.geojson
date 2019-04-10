@@ -1,0 +1,78 @@
+{
+  "id": 890468355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.44527,23.47722,120.44527,23.47722",
+    "geom:latitude":23.47722,
+    "geom:longitude":120.44527,
+    "gn:country":"TW",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc790\uc774 \uc2dc"
+    ],
+    "name:unk_x_variant":[
+        "Chia-i"
+    ],
+    "qs:name":"Chiayi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:elevation":69.0,
+    "wd:latitude":"23.48",
+    "wd:longitude":"120.449722222",
+    "wd:wordcount":1697,
+    "wof:belongsto":[
+        85679603,
+        102191569,
+        85632403,
+        1108499861,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678834,
+        "qs:id":371365,
+        "wd:id":"Q249995",
+        "wk:page":"Chiayi"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053701,
+    "wof:geomhash":"35489cc8e854bf834f15ce36a69e8e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "county_id":890468355,
+            "macrocounty_id":1108499861,
+            "macroregion_id":1108808557,
+            "region_id":85679603
+        }
+    ],
+    "wof:id":890468355,
+    "wof:lastmodified":1527792967,
+    "wof:name":"Chiayi",
+    "wof:parent_id":1108499861,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.44527,
+    23.47722,
+    120.44527,
+    23.47722
+],
+  "geometry": {"coordinates":[120.44526999999999,23.47722],"type":"Point"}
+}

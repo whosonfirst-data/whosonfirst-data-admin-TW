@@ -1,0 +1,79 @@
+{
+  "id": 1327140445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8413,24.27712,120.8413,24.27712",
+    "geom:latitude":24.27712,
+    "geom:longitude":120.8413,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B10",
+    "gn:admin4_code":"66000100020.0",
+    "gn:asciiname":"Dazhangshuxia",
+    "gn:country_code":"TW",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992746,
+    "gn:latitude":24.27712,
+    "gn:longitude":120.8413,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dazhangshuxia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-chang-shu-hsia",
+        "\u5927\u6a1f\u6a39\u4e0b",
+        "Dajhangshusia",
+        "Dazhangshuxia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6a1f\u6a39\u4e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992746
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2b8023070b1b4e837c77fac47f38f307",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327140445,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1327140445,
+    "wof:lastmodified":1537709468,
+    "wof:name":"Dazhangshuxia",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8413,
+    24.27712,
+    120.8413,
+    24.27712
+],
+  "geometry": {"coordinates":[120.8413,24.27712],"type":"Point"}
+}

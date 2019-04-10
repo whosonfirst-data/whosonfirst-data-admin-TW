@@ -1,0 +1,78 @@
+{
+  "id": 1259383049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.24444,23.12278,120.24444,23.12278",
+    "geom:latitude":23.12278,
+    "geom:longitude":120.24444,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R21",
+    "gn:admin4_code":"67000210003.0",
+    "gn:asciiname":"Zhengguai",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678962,
+    "gn:latitude":23.12278,
+    "gn:longitude":120.24444,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhengguai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhengguai",
+        "Zhengguai",
+        "Cheng-kuai"
+    ],
+    "name:zho_x_preferred":[
+        "\u912d\u62d0"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678962
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a3a5c4511d395f624818e51c946e9163",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259383049,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1259383049,
+    "wof:lastmodified":1537709402,
+    "wof:name":"Zhengguai",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.24444,
+    23.12278,
+    120.24444,
+    23.12278
+],
+  "geometry": {"coordinates":[120.24444,23.12278],"type":"Point"}
+}

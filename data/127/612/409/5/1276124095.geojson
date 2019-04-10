@@ -1,0 +1,80 @@
+{
+  "id": 1276124095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.83587,24.22962,120.83587,24.22962",
+    "geom:latitude":24.22962,
+    "geom:longitude":120.83587,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B10",
+    "gn:admin4_code":"66000100013.0",
+    "gn:asciiname":"Xinbogong",
+    "gn:country_code":"TW",
+    "gn:dem":390,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675088,
+    "gn:latitude":24.22962,
+    "gn:longitude":120.83587,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinbogong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-fu-li",
+        "Hsin-fu",
+        "Xinbogong",
+        "Sinbogong",
+        "Hsin-po-kung"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u4f2f\u516c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675088
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b9f52b32b541802cdd98bdc9ceab0704",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276124095,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1276124095,
+    "wof:lastmodified":1537709098,
+    "wof:name":"Xinbogong",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.83587,
+    24.22962,
+    120.83587,
+    24.22962
+],
+  "geometry": {"coordinates":[120.83587,24.22962],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276986819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.98583,24.86444,120.98583,24.86444",
+    "geom:latitude":24.86444,
+    "geom:longitude":120.98583,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J09",
+    "gn:admin4_code":"10004060016.0",
+    "gn:asciiname":"Pingdingcuo",
+    "gn:country_code":"TW",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670484,
+    "gn:latitude":24.86444,
+    "gn:longitude":120.98583,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pingdingcuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u576a\u9802\u539d"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019ing-ting-wu",
+        "P\u2019ing-ting-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670484
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"64a84562a1594105585410cbde8f0339",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276986819,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1276986819,
+    "wof:lastmodified":1537708785,
+    "wof:name":"Pingdingcuo",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.98583,
+    24.86444,
+    120.98583,
+    24.86444
+],
+  "geometry": {"coordinates":[120.98583000000001,24.86444],"type":"Point"}
+}

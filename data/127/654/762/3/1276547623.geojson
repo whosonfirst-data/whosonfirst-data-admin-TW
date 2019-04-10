@@ -1,0 +1,80 @@
+{
+  "id": 1276547623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.18972,24.14722,121.18972,24.14722",
+    "geom:latitude":24.14722,
+    "geom:longitude":121.18972,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M13",
+    "gn:admin4_code":"10008130005.0",
+    "gn:asciiname":"Lixing",
+    "gn:country_code":"TW",
+    "gn:dem":1540,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666171,
+    "gn:latitude":24.14722,
+    "gn:longitude":121.18972,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lixing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wang-yang-she",
+        "Lixing",
+        "Lising",
+        "Wang-yang",
+        "Li-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u529b\u884c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666171
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"dbbae417bd2fe690fe00d83b7d701dd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276547623,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1276547623,
+    "wof:lastmodified":1537708483,
+    "wof:name":"Lixing",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.18972,
+    24.14722,
+    121.18972,
+    24.14722
+],
+  "geometry": {"coordinates":[121.18971999999999,24.14722],"type":"Point"}
+}

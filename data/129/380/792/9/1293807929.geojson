@@ -1,0 +1,77 @@
+{
+  "id": 1293807929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60512,23.88328,120.60512,23.88328",
+    "geom:latitude":23.88328,
+    "geom:longitude":120.60512,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N19",
+    "gn:admin4_code":"10007170020.0",
+    "gn:asciiname":"Pidou",
+    "gn:country_code":"TW",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670437,
+    "gn:latitude":23.88328,
+    "gn:longitude":120.60512,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pidou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "P\u2019i-t\u2019ou-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u57e4\u6597",
+        "P\u2019i-tou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670437
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ca1f064d9117911deeec659bab0a4bca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293807929,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1293807929,
+    "wof:lastmodified":1537708782,
+    "wof:name":"Pidou",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60512,
+    23.88328,
+    120.60512,
+    23.88328
+],
+  "geometry": {"coordinates":[120.60512,23.88328],"type":"Point"}
+}

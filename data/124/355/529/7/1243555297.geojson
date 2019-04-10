@@ -1,0 +1,80 @@
+{
+  "id": 1243555297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5525,23.50333,120.5525,23.50333",
+    "geom:latitude":23.50333,
+    "geom:longitude":120.5525,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q15",
+    "gn:admin4_code":"10010140016.0",
+    "gn:asciiname":"Haifengke",
+    "gn:country_code":"TW",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6579815,
+    "gn:latitude":23.50333,
+    "gn:longitude":120.5525,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Haifengke",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haifongke"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u8c50\u79d1"
+    ],
+    "name:zho_x_variant":[
+        "Hai-feng-k\u2019eng",
+        "Hai-feng-k\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6579815
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7e358b738f6e23a15abb3f98e8b93d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243555297,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1243555297,
+    "wof:lastmodified":1537709550,
+    "wof:name":"Haifengke",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5525,
+    23.50333,
+    120.5525,
+    23.50333
+],
+  "geometry": {"coordinates":[120.55249999999999,23.50333],"type":"Point"}
+}

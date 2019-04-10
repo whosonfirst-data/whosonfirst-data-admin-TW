@@ -1,0 +1,80 @@
+{
+  "id": 1226266855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.85778,23.64722,120.85778,23.64722",
+    "geom:latitude":23.64722,
+    "geom:longitude":120.85778,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M12",
+    "gn:admin4_code":"10008120006.0",
+    "gn:asciiname":"Niuchoukeng",
+    "gn:country_code":"TW",
+    "gn:dem":1019,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602758,
+    "gn:latitude":23.64722,
+    "gn:longitude":120.85778,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Niuchoukeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niouchoukeng",
+        "Niuchoukeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u725b\u7a20\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Niu-ch\u2019ou-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602758
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2184ea5f7d94089040da9515c7110ca9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226266855,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1226266855,
+    "wof:lastmodified":1537709669,
+    "wof:name":"Niuchoukeng",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.85778,
+    23.64722,
+    120.85778,
+    23.64722
+],
+  "geometry": {"coordinates":[120.85778000000001,23.64722],"type":"Point"}
+}

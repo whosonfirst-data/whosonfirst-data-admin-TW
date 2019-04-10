@@ -1,0 +1,80 @@
+{
+  "id": 1193137743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.97306,24.84583,120.97306,24.84583",
+    "geom:latitude":24.84583,
+    "geom:longitude":120.97306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J05",
+    "gn:admin4_code":"10004010013.0",
+    "gn:asciiname":"Xiaxizhou",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675827,
+    "gn:latitude":24.84583,
+    "gn:longitude":120.97306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaxizhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siasijhou",
+        "Hsia-hsi-chou"
+    ],
+    "name:zho_x_preferred":[
+        "Hsia-ch\u2019i-chou"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0b\u6eaa\u6d32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675827
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cff037a55e97d1225135267d3a608de9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193137743,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1193137743,
+    "wof:lastmodified":1537709166,
+    "wof:name":"Xiaxizhou",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.97306,
+    24.84583,
+    120.97306,
+    24.84583
+],
+  "geometry": {"coordinates":[120.97306,24.84583],"type":"Point"}
+}

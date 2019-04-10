@@ -1,0 +1,77 @@
+{
+  "id": 1310210871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.75639,24.265,120.75639,24.265",
+    "geom:latitude":24.265,
+    "geom:longitude":120.75639,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B09",
+    "gn:admin4_code":"66000090032.0",
+    "gn:asciiname":"Gonglaoping",
+    "gn:country_code":"TW",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673301,
+    "gn:latitude":24.265,
+    "gn:longitude":120.75639,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Gonglaoping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Kung-jo-p\u2019ing"
+    ],
+    "name:zho_x_variant":[
+        "\u516c\u8001\u576a",
+        "Kung-lao-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673301
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b9017beb27952bf0b703e5c0b3641e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310210871,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1310210871,
+    "wof:lastmodified":1537708962,
+    "wof:name":"Gonglaoping",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.75639,
+    24.265,
+    120.75639,
+    24.265
+],
+  "geometry": {"coordinates":[120.75639,24.265],"type":"Point"}
+}

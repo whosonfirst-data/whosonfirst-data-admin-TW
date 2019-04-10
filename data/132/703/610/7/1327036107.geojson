@@ -1,0 +1,76 @@
+{
+  "id": 1327036107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.21,23.62472,120.21,23.62472",
+    "geom:latitude":23.62472,
+    "geom:longitude":120.21,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P18",
+    "gn:admin4_code":"10009180007.0",
+    "gn:asciiname":"Dinggoulu",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6600102,
+    "gn:latitude":23.62472,
+    "gn:longitude":120.21,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dinggoulu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ting-kou-lu"
+    ],
+    "name:zho_x_preferred":[
+        "\u9802\u6e9d\u8def"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6600102
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7292c9904c9f60e0e7a0b92b44ae7f5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327036107,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1327036107,
+    "wof:lastmodified":1537709617,
+    "wof:name":"Dinggoulu",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.21,
+    23.62472,
+    120.21,
+    23.62472
+],
+  "geometry": {"coordinates":[120.20999999999999,23.62472],"type":"Point"}
+}

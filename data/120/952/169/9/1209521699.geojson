@@ -1,0 +1,70 @@
+{
+  "id": 1209521699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.84344,24.67745,120.84344,24.67745",
+    "geom:latitude":24.67745,
+    "geom:longitude":120.84344,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040016.0",
+    "gn:asciiname":"Taituo",
+    "gn:country_code":"TW",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646199,
+    "gn:latitude":24.67745,
+    "gn:longitude":120.84344,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Taituo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u81fa\u62d3"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ai-t\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646199
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cf9028cc33b8debf84e6a61bed5a0f84",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209521699
+        }
+    ],
+    "wof:id":1209521699,
+    "wof:lastmodified":1537709728,
+    "wof:name":"Taituo",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.84344,
+    24.67745,
+    120.84344,
+    24.67745
+],
+  "geometry": {"coordinates":[120.84344,24.67745],"type":"Point"}
+}

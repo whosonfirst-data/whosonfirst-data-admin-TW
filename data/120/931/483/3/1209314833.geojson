@@ -1,0 +1,70 @@
+{
+  "id": 1209314833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36222,23.39167,120.36222,23.39167",
+    "geom:latitude":23.39167,
+    "geom:longitude":120.36222,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R05",
+    "gn:admin4_code":"67000050008.0",
+    "gn:asciiname":"Tandihu",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667961,
+    "gn:latitude":23.39167,
+    "gn:longitude":120.36222,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tandihu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6f6d\u5e95\u6e56"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019an-ti-hu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667961
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6703058cbfcccd9720a1a2ce39160640",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209314833
+        }
+    ],
+    "wof:id":1209314833,
+    "wof:lastmodified":1537708601,
+    "wof:name":"Tandihu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36222,
+    23.39167,
+    120.36222,
+    23.39167
+],
+  "geometry": {"coordinates":[120.36221999999999,23.39167],"type":"Point"}
+}

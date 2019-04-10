@@ -1,0 +1,77 @@
+{
+  "id": 1259394107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.54011,24.88411,121.54011,24.88411",
+    "geom:latitude":24.88411,
+    "geom:longitude":121.54011,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F11",
+    "gn:admin4_code":"65000290002.0",
+    "gn:asciiname":"Honghe",
+    "gn:country_code":"TW",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678860,
+    "gn:latitude":24.88411,
+    "gn:longitude":121.54011,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Honghe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chia-chiu-liao",
+        "Hung-ho"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d05\u6cb3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678860
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2ab7b6d68a54a28f1497b76d1bf879a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259394107,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1259394107,
+    "wof:lastmodified":1537709395,
+    "wof:name":"Honghe",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.54011,
+    24.88411,
+    121.54011,
+    24.88411
+],
+  "geometry": {"coordinates":[121.54011,24.88411],"type":"Point"}
+}

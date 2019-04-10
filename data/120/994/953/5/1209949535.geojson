@@ -1,0 +1,78 @@
+{
+  "id": 1209949535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.54006,25.17014,121.54006,25.17014",
+    "geom:latitude":25.17014,
+    "geom:longitude":121.54006,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A16",
+    "gn:admin4_code":"63000120042.0",
+    "gn:asciiname":"Zhuzihu",
+    "gn:country_code":"TW",
+    "gn:dem":662,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677037,
+    "gn:latitude":25.17014,
+    "gn:longitude":121.54006,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhuzihu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhuzihhu",
+        "Zhuzihu",
+        "Chu-tzu-hu"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u5b50\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677037
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0e517d51d6cd75574bb660c19357e4e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209949535,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1209949535,
+    "wof:lastmodified":1537709259,
+    "wof:name":"Zhuzihu",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.54006,
+    25.17014,
+    121.54006,
+    25.17014
+],
+  "geometry": {"coordinates":[121.54006,25.17014],"type":"Point"}
+}

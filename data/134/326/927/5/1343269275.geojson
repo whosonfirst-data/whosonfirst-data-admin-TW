@@ -1,0 +1,76 @@
+{
+  "id": 1343269275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.79762,25.11339,121.79762,25.11339",
+    "geom:latitude":25.11339,
+    "geom:longitude":121.79762,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F21",
+    "gn:admin4_code":"65000120005.0",
+    "gn:asciiname":"Longtandu",
+    "gn:country_code":"TW",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672418,
+    "gn:latitude":25.11339,
+    "gn:longitude":121.79762,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Longtandu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9f8d\u6f6d\u5835"
+    ],
+    "name:zho_x_variant":[
+        "Lung-t\u2019an-tu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672418
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e1d648cad06249a49a1ae28a6d11539a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343269275,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1343269275,
+    "wof:lastmodified":1537708904,
+    "wof:name":"Longtandu",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.79762,
+    25.11339,
+    121.79762,
+    25.11339
+],
+  "geometry": {"coordinates":[121.79761999999999,25.11339],"type":"Point"}
+}

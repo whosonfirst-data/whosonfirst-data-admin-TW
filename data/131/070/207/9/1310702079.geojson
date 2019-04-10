@@ -1,0 +1,80 @@
+{
+  "id": 1310702079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.04417,24.60472,121.04417,24.60472",
+    "geom:latitude":24.60472,
+    "geom:longitude":121.04417,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K14",
+    "gn:admin4_code":"10005110009.0",
+    "gn:asciiname":"Long'ailiao",
+    "gn:country_code":"TW",
+    "gn:dem":449,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6640697,
+    "gn:latitude":24.60472,
+    "gn:longitude":121.04417,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Long\u2019ailiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lu-ai-liao",
+        "Lung-ai-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u9686\u9698\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Long\u2019ailiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6640697
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7ad6f92f61a0c1ece132df66983830c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310702079,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1310702079,
+    "wof:lastmodified":1537709681,
+    "wof:name":"Long'ailiao",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.04417,
+    24.60472,
+    121.04417,
+    24.60472
+],
+  "geometry": {"coordinates":[121.04416999999999,24.60472],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1360090905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.21122,25.05123,121.21122,25.05123",
+    "geom:latitude":25.05123,
+    "geom:longitude":121.21122,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H06",
+    "gn:admin4_code":"68000060005.0",
+    "gn:asciiname":"Shangnanzi",
+    "gn:country_code":"TW",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646464,
+    "gn:latitude":25.05123,
+    "gn:longitude":121.21122,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangnanzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangnanzih",
+        "Shangnanzi",
+        "Shang-nan-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u6e73\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646464
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ad2125d1e1da5ba6d934848a0a45625f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360090905,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1360090905,
+    "wof:lastmodified":1537709735,
+    "wof:name":"Shangnanzi",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.21122,
+    25.05123,
+    121.21122,
+    25.05123
+],
+  "geometry": {"coordinates":[121.21122,25.05123],"type":"Point"}
+}

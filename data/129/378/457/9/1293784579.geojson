@@ -1,0 +1,80 @@
+{
+  "id": 1293784579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.53235,25.09621,121.53235,25.09621",
+    "geom:latitude":25.09621,
+    "geom:longitude":121.53235,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A15",
+    "gn:admin4_code":"63000110003.0",
+    "gn:asciiname":"Linzikou",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672819,
+    "gn:latitude":25.09621,
+    "gn:longitude":121.53235,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Linzikou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Linzihkou",
+        "Linzikou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6797\u5b50\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "Lin-tzu-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672819
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"864b3137512d3f0eb5001a46b95a3319",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293784579,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1293784579,
+    "wof:lastmodified":1537708931,
+    "wof:name":"Linzikou",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.53235,
+    25.09621,
+    121.53235,
+    25.09621
+],
+  "geometry": {"coordinates":[121.53234999999999,25.09621],"type":"Point"}
+}

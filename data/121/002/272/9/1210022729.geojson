@@ -1,0 +1,80 @@
+{
+  "id": 1210022729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.88366,24.0329,120.88366,24.0329",
+    "geom:latitude":24.0329,
+    "geom:longitude":120.88366,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M10",
+    "gn:admin4_code":"10008100002.0",
+    "gn:asciiname":"Xiao'anding",
+    "gn:country_code":"TW",
+    "gn:dem":539,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1991296,
+    "gn:latitude":24.0329,
+    "gn:longitude":120.88366,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiao\u2019anding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsiao-an-ting"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u5cb8\u9802"
+    ],
+    "name:zho_x_variant":[
+        "Siao\u2019anding",
+        "Xiao\u2019anding"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1991296
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3b3690cd5ee48a90956528880f207195",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1210022729,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1210022729,
+    "wof:lastmodified":1537709441,
+    "wof:name":"Xiao'anding",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.88366,
+    24.0329,
+    120.88366,
+    24.0329
+],
+  "geometry": {"coordinates":[120.88366000000001,24.0329],"type":"Point"}
+}

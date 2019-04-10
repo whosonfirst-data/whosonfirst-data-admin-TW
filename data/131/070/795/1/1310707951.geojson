@@ -1,0 +1,78 @@
+{
+  "id": 1310707951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.77569,24.6522,120.77569,24.6522",
+    "geom:latitude":24.6522,
+    "geom:longitude":120.77569,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K12",
+    "gn:admin4_code":"10005060015.0",
+    "gn:asciiname":"Waibu",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666270,
+    "gn:latitude":24.6522,
+    "gn:longitude":120.77569,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Waibu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wai-pu-li",
+        "Waibu",
+        "Wai-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5916\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666270
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3592ac4d4994994be81f83363c212444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310707951,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1310707951,
+    "wof:lastmodified":1537708489,
+    "wof:name":"Waibu",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.77569,
+    24.6522,
+    120.77569,
+    24.6522
+],
+  "geometry": {"coordinates":[120.77569,24.6522],"type":"Point"}
+}

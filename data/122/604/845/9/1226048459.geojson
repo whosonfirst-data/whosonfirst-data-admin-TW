@@ -1,0 +1,79 @@
+{
+  "id": 1226048459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.55433,23.81491,120.55433,23.81491",
+    "geom:latitude":23.81491,
+    "geom:longitude":120.55433,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N26",
+    "gn:admin4_code":"10007260012.0",
+    "gn:asciiname":"Anjiaoxiang",
+    "gn:country_code":"TW",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679282,
+    "gn:latitude":23.81491,
+    "gn:longitude":120.55433,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Anjiaoxiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "An-chian-hsiang",
+        "Anjiaoxiang",
+        "Anjiaosiang",
+        "An-chiao-hsiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5cb8\u89d2\u5df7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679282
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2d09eabc6ac27e1a6a30a15d877b7c74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226048459,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1226048459,
+    "wof:lastmodified":1537709423,
+    "wof:name":"Anjiaoxiang",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.55433,
+    23.81491,
+    120.55433,
+    23.81491
+],
+  "geometry": {"coordinates":[120.55432999999999,23.81491],"type":"Point"}
+}

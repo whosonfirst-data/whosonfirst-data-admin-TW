@@ -1,0 +1,75 @@
+{
+  "id": 1276990613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.99417,26.2325,119.99417,26.2325",
+    "geom:latitude":26.2325,
+    "geom:longitude":119.99417,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"LIE",
+    "gn:admin3_code":"Z02",
+    "gn:admin4_code":"9007020003.0",
+    "gn:asciiname":"Qiaozicun",
+    "gn:country_code":"TW",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678662,
+    "gn:latitude":26.2325,
+    "gn:longitude":119.99417,
+    "gn:modification_date":"2017-11-03",
+    "gn:name":"Qiaozicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019iao-tzu",
+        "Ch\u2019iao-tzu-ts\u2019un",
+        "Qiaozicun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679637,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678662
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0f08d6cb41325c7c2ad82dfaebd2b31a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276990613,
+            "macroregion_id":1108808555,
+            "region_id":85679637
+        }
+    ],
+    "wof:id":1276990613,
+    "wof:lastmodified":1537709382,
+    "wof:name":"Qiaozicun",
+    "wof:parent_id":85679637,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.99417,
+    26.2325,
+    119.99417,
+    26.2325
+],
+  "geometry": {"coordinates":[119.99417,26.2325],"type":"Point"}
+}

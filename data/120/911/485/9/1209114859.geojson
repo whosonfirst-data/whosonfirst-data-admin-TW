@@ -1,0 +1,72 @@
+{
+  "id": 1209114859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.39083,22.80639,120.39083,22.80639",
+    "geom:latitude":22.80639,
+    "geom:longitude":120.39083,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E21",
+    "gn:admin4_code":"64000210006.0",
+    "gn:asciiname":"Jinshan",
+    "gn:country_code":"TW",
+    "gn:dem":77,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677977,
+    "gn:latitude":22.80639,
+    "gn:longitude":120.39083,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jinshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chin-shan-tzu",
+        "Jinshan",
+        "Chin-shan"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677977
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e03dedc606f0d15e88da7b25d24f30b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209114859
+        }
+    ],
+    "wof:id":1209114859,
+    "wof:lastmodified":1537709338,
+    "wof:name":"Jinshan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.39083,
+    22.80639,
+    120.39083,
+    22.80639
+],
+  "geometry": {"coordinates":[120.39082999999999,22.80639],"type":"Point"}
+}

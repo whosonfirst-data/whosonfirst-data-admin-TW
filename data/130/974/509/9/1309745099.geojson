@@ -1,0 +1,83 @@
+{
+  "id": 1309745099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.47152,23.3805,121.47152,23.3805",
+    "geom:latitude":23.3805,
+    "geom:longitude":121.47152,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V08",
+    "gn:admin4_code":"10014080002.0",
+    "gn:asciiname":"Dajulai",
+    "gn:country_code":"TW",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668522,
+    "gn:latitude":23.3805,
+    "gn:longitude":121.47152,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dajulai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dajyulai",
+        "Dajulai",
+        "Ta-ch\u00fc-lai"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u4ff1\u4f86"
+    ],
+    "name:zho_x_variant":[
+        "Ta-ch\u00fc-lai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679623,
+        102191569,
+        85632403,
+        1108499511,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668522
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9f1e921fb11a564d5c76d991ad09e835",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309745099,
+            "macrocounty_id":1108499511,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1309745099,
+    "wof:lastmodified":1537708633,
+    "wof:name":"Dajulai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.47152,
+    23.3805,
+    121.47152,
+    23.3805
+],
+  "geometry": {"coordinates":[121.47152,23.3805],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1293298721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4609,23.71223,120.4609,23.71223",
+    "geom:latitude":23.71223,
+    "geom:longitude":120.4609,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P03",
+    "gn:admin4_code":"10009030026.0",
+    "gn:asciiname":"Dazhuang",
+    "gn:country_code":"TW",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675351,
+    "gn:latitude":23.71223,
+    "gn:longitude":120.4609,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dazhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-ti-ta-chuang",
+        "Hsi-pu-ta-chuang",
+        "Dazhuang",
+        "Hsi-chuang",
+        "Dajhuang",
+        "Ta-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019i-ti-ta-chuang"
+    ],
+    "name:zho_x_variant":[
+        "\u5927\u838a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675351
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"777c494be004d01238e2f3a507cbd96a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293298721,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1293298721,
+    "wof:lastmodified":1537709122,
+    "wof:name":"Dazhuang",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4609,
+    23.71223,
+    120.4609,
+    23.71223
+],
+  "geometry": {"coordinates":[120.4609,23.71223],"type":"Point"}
+}

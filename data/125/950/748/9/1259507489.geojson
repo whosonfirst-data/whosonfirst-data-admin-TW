@@ -1,0 +1,81 @@
+{
+  "id": 1259507489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.365,23.8064,120.365,23.8064",
+    "geom:latitude":23.8064,
+    "geom:longitude":120.365,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P11",
+    "gn:admin4_code":"10009110014.0",
+    "gn:asciiname":"Jiuguzi",
+    "gn:country_code":"TW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677815,
+    "gn:latitude":23.8064,
+    "gn:longitude":120.365,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiuguzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiouguzih",
+        "Jiuguzi",
+        "Chiu-ku-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "Ta-chuang-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u9152\u59d1\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677815
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f547063c465422d0d6d85c731f8f50ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259507489,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1259507489,
+    "wof:lastmodified":1537709325,
+    "wof:name":"Jiuguzi",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.365,
+    23.8064,
+    120.365,
+    23.8064
+],
+  "geometry": {"coordinates":[120.36499999999999,23.8064],"type":"Point"}
+}

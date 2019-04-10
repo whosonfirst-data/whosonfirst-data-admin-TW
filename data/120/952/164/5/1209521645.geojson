@@ -1,0 +1,73 @@
+{
+  "id": 1209521645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.83674,24.52151,120.83674,24.52151",
+    "geom:latitude":24.52151,
+    "geom:longitude":120.83674,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K04",
+    "gn:admin4_code":"10005090016.0",
+    "gn:asciiname":"Chenzhuang",
+    "gn:country_code":"TW",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646089,
+    "gn:latitude":24.52151,
+    "gn:longitude":120.83674,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chenzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chenjhuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u9673\u5e84"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019en-chuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646089
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"acb2a8d24e0fa9f82248adc396349212",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209521645
+        }
+    ],
+    "wof:id":1209521645,
+    "wof:lastmodified":1537709720,
+    "wof:name":"Chenzhuang",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.83674,
+    24.52151,
+    120.83674,
+    24.52151
+],
+  "geometry": {"coordinates":[120.83674000000001,24.52151],"type":"Point"}
+}

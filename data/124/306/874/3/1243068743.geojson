@@ -1,0 +1,82 @@
+{
+  "id": 1243068743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.20056,24.18194,121.20056,24.18194",
+    "geom:latitude":24.18194,
+    "geom:longitude":121.20056,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M13",
+    "gn:admin4_code":"10008130015.0",
+    "gn:asciiname":"Cuiluan",
+    "gn:country_code":"TW",
+    "gn:dem":1578,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666806,
+    "gn:latitude":24.18194,
+    "gn:longitude":121.20056,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Cuiluan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cueiluan"
+    ],
+    "name:zho_x_preferred":[
+        "Mou-k\u2019o-pu-pu-lu-she"
+    ],
+    "name:zho_x_variant":[
+        "Li-hsing-ts\u2019un",
+        "Ts\u2019ui-luan-she",
+        "\u7fe0\u5dd2",
+        "Ts\u2019ui-luan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666806
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9c95a4eb6c0eda28bb474ca095270299",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243068743,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1243068743,
+    "wof:lastmodified":1537708523,
+    "wof:name":"Cuiluan",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.20056,
+    24.18194,
+    121.20056,
+    24.18194
+],
+  "geometry": {"coordinates":[121.20056,24.18194],"type":"Point"}
+}

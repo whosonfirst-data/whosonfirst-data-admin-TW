@@ -1,0 +1,76 @@
+{
+  "id": 1327140239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.91878,23.9138,120.91878,23.9138",
+    "geom:latitude":23.9138,
+    "geom:longitude":120.91878,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M09",
+    "gn:admin4_code":"10008090008.0",
+    "gn:asciiname":"Dingyan",
+    "gn:country_code":"TW",
+    "gn:dem":599,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649240,
+    "gn:latitude":23.9138,
+    "gn:longitude":120.91878,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ting-yen"
+    ],
+    "name:zho_x_preferred":[
+        "\u9802\u96c1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649240
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"28688c80bfdebe3b9ec68c6da0183e19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327140239,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1327140239,
+    "wof:lastmodified":1537709784,
+    "wof:name":"Dingyan",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.91878,
+    23.9138,
+    120.91878,
+    23.9138
+],
+  "geometry": {"coordinates":[120.91878,23.9138],"type":"Point"}
+}

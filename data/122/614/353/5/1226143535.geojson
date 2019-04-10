@@ -1,0 +1,85 @@
+{
+  "id": 1226143535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.21194,24.98556,121.21194,24.98556",
+    "geom:latitude":24.98556,
+    "geom:longitude":121.21194,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H03",
+    "gn:admin4_code":"68000020046.0",
+    "gn:asciiname":"Zhiba",
+    "gn:country_code":"TW",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678342,
+    "gn:latitude":24.98556,
+    "gn:longitude":121.21194,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhiba",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhihba",
+        "Zhiba",
+        "Chih-pao",
+        "Chih-pa"
+    ],
+    "name:zho_x_preferred":[
+        "Shui-ch\u2019ou-t\u2019ou"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ih-pao-li",
+        "Shui-ch\u00fcn-t\u2019ou",
+        "\u829d\u82ad",
+        "Shui-chen-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678342
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ebcd384867bd7a65a01e346d34c69228",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226143535,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1226143535,
+    "wof:lastmodified":1537709361,
+    "wof:name":"Zhiba",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.21193999999998,
+    24.98556,
+    121.21193999999998,
+    24.98556
+],
+  "geometry": {"coordinates":[121.21193999999998,24.98556],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293695711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.66139,23.21056,120.66139,23.21056",
+    "geom:latitude":23.21056,
+    "geom:longitude":120.66139,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E38",
+    "gn:admin4_code":"64000380003.0",
+    "gn:asciiname":"Xi'anshan",
+    "gn:country_code":"TW",
+    "gn:dem":769,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6586593,
+    "gn:latitude":23.21056,
+    "gn:longitude":120.66139,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xi\u2019anshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-an-shan"
+    ],
+    "name:zho_x_preferred":[
+        "\u932b\u5b89\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "Xi\u2019anshan",
+        "Si\u2019anshan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6586593
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"64244f79d1078c5c604396e69d85dc95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293695711,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1293695711,
+    "wof:lastmodified":1537709566,
+    "wof:name":"Xi'anshan",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.66139,
+    23.21056,
+    120.66139,
+    23.21056
+],
+  "geometry": {"coordinates":[120.66139,23.21056],"type":"Point"}
+}

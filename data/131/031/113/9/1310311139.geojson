@@ -1,0 +1,76 @@
+{
+  "id": 1310311139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.18972,23.60972,120.18972,23.60972",
+    "geom:latitude":23.60972,
+    "geom:longitude":120.18972,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P19",
+    "gn:admin4_code":"10009190004.0",
+    "gn:asciiname":"Bietan",
+    "gn:country_code":"TW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6600109,
+    "gn:latitude":23.60972,
+    "gn:longitude":120.18972,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bietan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9c49\u6f6d"
+    ],
+    "name:zho_x_variant":[
+        "Pieh-t\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6600109
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6e27d15156e7ef6b30f9ecf9404cd419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310311139,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1310311139,
+    "wof:lastmodified":1537709617,
+    "wof:name":"Bietan",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.18972,
+    23.60972000000001,
+    120.18972,
+    23.60972000000001
+],
+  "geometry": {"coordinates":[120.18971999999999,23.60972000000001],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1310006279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.52835,24.17396,120.52835,24.17396",
+    "geom:latitude":24.17396,
+    "geom:longitude":120.52835,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B24",
+    "gn:admin4_code":"66000240012.0",
+    "gn:asciiname":"Liaozi",
+    "gn:country_code":"TW",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672990,
+    "gn:latitude":24.17396,
+    "gn:longitude":120.52835,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liaozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019eng-kung",
+        "Ch\u2019eng-kung-ts\u2019un",
+        "Liaozi",
+        "Liaozih",
+        "Liao-tzu-t\u2019ou",
+        "Liao-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5bee\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672990
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"55cc858d36b4e1251f51642ab3ed2d3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310006279,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1310006279,
+    "wof:lastmodified":1537708940,
+    "wof:name":"Liaozi",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.52835,
+    24.17396,
+    120.52835,
+    24.17396
+],
+  "geometry": {"coordinates":[120.52835,24.17396],"type":"Point"}
+}

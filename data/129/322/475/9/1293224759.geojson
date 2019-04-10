@@ -1,0 +1,80 @@
+{
+  "id": 1293224759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.67083,23.7375,120.67083,23.7375",
+    "geom:latitude":23.7375,
+    "geom:longitude":120.67083,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M04",
+    "gn:admin4_code":"10008040010.0",
+    "gn:asciiname":"Chedianzi",
+    "gn:country_code":"TW",
+    "gn:dem":160,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678871,
+    "gn:latitude":23.7375,
+    "gn:longitude":120.67083,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chedianzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chedianzih",
+        "Chedianzi"
+    ],
+    "name:zho_x_preferred":[
+        "\u8eca\u5e97\u5b50"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019e-tien-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678871
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"07c0e04b4185060781a2bdb08c978547",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293224759,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1293224759,
+    "wof:lastmodified":1537709396,
+    "wof:name":"Chedianzi",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.67083,
+    23.7375,
+    120.67083,
+    23.7375
+],
+  "geometry": {"coordinates":[120.67083,23.7375],"type":"Point"}
+}

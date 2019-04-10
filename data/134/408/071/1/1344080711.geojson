@@ -1,0 +1,76 @@
+{
+  "id": 1344080711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.45365,23.92522,120.45365,23.92522",
+    "geom:latitude":23.92522,
+    "geom:longitude":120.45365,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N22",
+    "gn:admin4_code":"10007220004.0",
+    "gn:asciiname":"Shaluntou",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6644812,
+    "gn:latitude":23.92522,
+    "gn:longitude":120.45365,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shaluntou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c99\u5d19\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Sha-lun-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6644812
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"74fce607ba42c9aa5c45bf256169f759",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344080711,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1344080711,
+    "wof:lastmodified":1537709704,
+    "wof:name":"Shaluntou",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.45365,
+    23.92522,
+    120.45365,
+    23.92522
+],
+  "geometry": {"coordinates":[120.45365,23.92522],"type":"Point"}
+}

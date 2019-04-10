@@ -1,0 +1,80 @@
+{
+  "id": 1259607315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.105,24.01361,121.105,24.01361",
+    "geom:latitude":24.01361,
+    "geom:longitude":121.105,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M13",
+    "gn:admin4_code":"10008130010.0",
+    "gn:asciiname":"Meixi",
+    "gn:country_code":"TW",
+    "gn:dem":842,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672046,
+    "gn:latitude":24.01361,
+    "gn:longitude":121.105,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Meixi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meisi",
+        "Mei-hsi"
+    ],
+    "name:zho_x_preferred":[
+        "Mei-ch\u2019i"
+    ],
+    "name:zho_x_variant":[
+        "\u7709\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672046
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2418f6fca4556e52bfb1ae6862cf4506",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259607315,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1259607315,
+    "wof:lastmodified":1537708880,
+    "wof:name":"Meixi",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.105,
+    24.01361,
+    121.105,
+    24.01361
+],
+  "geometry": {"coordinates":[121.105,24.01361],"type":"Point"}
+}

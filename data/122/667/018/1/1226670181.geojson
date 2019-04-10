@@ -1,0 +1,79 @@
+{
+  "id": 1226670181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.64722,23.59917,120.64722,23.59917",
+    "geom:latitude":23.59917,
+    "geom:longitude":120.64722,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P07",
+    "gn:admin4_code":"10009070013.0",
+    "gn:asciiname":"Chexinlun",
+    "gn:country_code":"TW",
+    "gn:dem":503,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6580142,
+    "gn:latitude":23.59917,
+    "gn:longitude":120.64722,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chexinlun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chesinlun"
+    ],
+    "name:zho_x_preferred":[
+        "\u8eca\u5fc3\u5d19"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019e-hsin-lun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6580142
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f4e7b027ba8fbaca11c11a416bc3b4ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226670181,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1226670181,
+    "wof:lastmodified":1537709560,
+    "wof:name":"Chexinlun",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.64722,
+    23.59917,
+    120.64722,
+    23.59917
+],
+  "geometry": {"coordinates":[120.64722,23.59917],"type":"Point"}
+}

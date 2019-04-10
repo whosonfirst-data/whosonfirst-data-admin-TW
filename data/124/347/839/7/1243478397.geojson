@@ -1,0 +1,79 @@
+{
+  "id": 1243478397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.80885,24.56208,120.80885,24.56208",
+    "geom:latitude":24.56208,
+    "geom:longitude":120.80885,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K01",
+    "gn:admin4_code":"10005010022.0",
+    "gn:asciiname":"Fuqing",
+    "gn:country_code":"TW",
+    "gn:dem":81,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646115,
+    "gn:latitude":24.56208,
+    "gn:longitude":120.80885,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fuqing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fucing"
+    ],
+    "name:zho_x_preferred":[
+        "\u798f\u6176"
+    ],
+    "name:zho_x_variant":[
+        "Fu-ch\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646115
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"622c0991316e703434d266d0bea0c468",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243478397,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1243478397,
+    "wof:lastmodified":1537709722,
+    "wof:name":"Fuqing",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.80885,
+    24.56208,
+    120.80885,
+    24.56208
+],
+  "geometry": {"coordinates":[120.80885000000001,24.56208],"type":"Point"}
+}

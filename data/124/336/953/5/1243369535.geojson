@@ -1,0 +1,76 @@
+{
+  "id": 1243369535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8434,24.21393,120.8434,24.21393",
+    "geom:latitude":24.21393,
+    "geom:longitude":120.8434,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B10",
+    "gn:admin4_code":"66000100014.0",
+    "gn:asciiname":"Toubianjiao",
+    "gn:country_code":"TW",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6726857,
+    "gn:latitude":24.21393,
+    "gn:longitude":120.8434,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Toubianjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u982d\u6c74\u89d2"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ou-pien-chiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6726857
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fcc63c07ff99dac8750d94ff6e08b154",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243369535,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1243369535,
+    "wof:lastmodified":1537709904,
+    "wof:name":"Toubianjiao",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8434,
+    24.21393,
+    120.8434,
+    24.21393
+],
+  "geometry": {"coordinates":[120.8434,24.21393],"type":"Point"}
+}

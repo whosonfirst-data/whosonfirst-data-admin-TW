@@ -1,0 +1,82 @@
+{
+  "id": 1259707757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.11684,23.25889,120.11684,23.25889",
+    "geom:latitude":23.25889,
+    "geom:longitude":120.11684,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R16",
+    "gn:admin4_code":"67000170012.0",
+    "gn:asciiname":"Wennei",
+    "gn:country_code":"TW",
+    "gn:dem":-2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665991,
+    "gn:latitude":23.25889,
+    "gn:longitude":120.11684,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wennei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "We-Nei",
+        "Wunnei",
+        "Wennei",
+        "Wen-nei"
+    ],
+    "name:zho_x_preferred":[
+        "Yung-hua-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u586d\u5167"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665991
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4b4f4f9f0e0cc6ee4be6915984f00a19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259707757,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1259707757,
+    "wof:lastmodified":1537708471,
+    "wof:name":"Wennei",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.11684,
+    23.25889,
+    120.11684,
+    23.25889
+],
+  "geometry": {"coordinates":[120.11684,23.25889],"type":"Point"}
+}

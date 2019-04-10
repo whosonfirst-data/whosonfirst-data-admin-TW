@@ -1,0 +1,82 @@
+{
+  "id": 1259789903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.33428,24.79721,121.33428,24.79721",
+    "geom:latitude":24.79721,
+    "geom:longitude":121.33428,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H13",
+    "gn:admin4_code":"68000130007.0",
+    "gn:asciiname":"Zhongkuihui",
+    "gn:country_code":"TW",
+    "gn:dem":358,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673451,
+    "gn:latitude":24.79721,
+    "gn:longitude":121.33428,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongkuihui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhongkueihuei",
+        "Zhongkuihui"
+    ],
+    "name:zho_x_preferred":[
+        "K\u2019uei-hui-she"
+    ],
+    "name:zho_x_variant":[
+        "\u4e2d\u594e\u8f1d",
+        "K\u2019uei-hui",
+        "Chung-k\u2019uei-hui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673451
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f75336e605cd66d6f28832aa747a8bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259789903,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1259789903,
+    "wof:lastmodified":1537708972,
+    "wof:name":"Zhongkuihui",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.33428,
+    24.79721,
+    121.33428,
+    24.79721
+],
+  "geometry": {"coordinates":[121.33428000000001,24.79721],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1310633733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.251,23.3239,120.251,23.3239",
+    "geom:latitude":23.3239,
+    "geom:longitude":120.251,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R02",
+    "gn:admin4_code":"67000020013.0",
+    "gn:asciiname":"Erzhuang",
+    "gn:country_code":"TW",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676946,
+    "gn:latitude":23.3239,
+    "gn:longitude":120.251,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Erzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erh-chuang-tzu",
+        "Erzhuang",
+        "Erjhuang",
+        "Erh-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e8c\u838a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676946
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"29dc689690428f74908c35b1a6381fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310633733,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1310633733,
+    "wof:lastmodified":1537709251,
+    "wof:name":"Erzhuang",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.251,
+    23.3239,
+    120.251,
+    23.3239
+],
+  "geometry": {"coordinates":[120.251,23.3239],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293808035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.21616,25.03127,121.21616,25.03127",
+    "geom:latitude":25.03127,
+    "geom:longitude":121.21616,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H06",
+    "gn:admin4_code":"68000060005.0",
+    "gn:asciiname":"Dinghengshan",
+    "gn:country_code":"TW",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667254,
+    "gn:latitude":25.03127,
+    "gn:longitude":121.21616,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dinghengshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ting-heng-shan"
+    ],
+    "name:zho_x_preferred":[
+        "\u9802\u6a6b\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667254
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1b5fc028845c3256d3010edf3435aad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293808035,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1293808035,
+    "wof:lastmodified":1537708554,
+    "wof:name":"Dinghengshan",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.21616000000002,
+    25.03127000000001,
+    121.21616000000002,
+    25.03127000000001
+],
+  "geometry": {"coordinates":[121.21616000000002,25.03127000000001],"type":"Point"}
+}

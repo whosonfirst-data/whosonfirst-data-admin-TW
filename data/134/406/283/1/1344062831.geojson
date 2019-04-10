@@ -1,0 +1,81 @@
+{
+  "id": 1344062831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.50667,23.56806,119.50667,23.56806",
+    "geom:latitude":23.56806,
+    "geom:longitude":119.50667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PEN",
+    "gn:admin3_code":"X04",
+    "gn:admin4_code":"10016040010.0",
+    "gn:asciiname":"Fengkeng",
+    "gn:country_code":"TW",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602726,
+    "gn:latitude":23.56806,
+    "gn:longitude":119.50667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fengkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fongkeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u98a8\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Feng-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679627,
+        102191569,
+        85632403,
+        1108500085,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602726
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"935f55495637044dc62dc672622ec255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344062831,
+            "macrocounty_id":1108500085,
+            "macroregion_id":1108808557,
+            "region_id":85679627
+        }
+    ],
+    "wof:id":1344062831,
+    "wof:lastmodified":1537709666,
+    "wof:name":"Fengkeng",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.50667,
+    23.56806,
+    119.50667,
+    23.56806
+],
+  "geometry": {"coordinates":[119.50667,23.56806],"type":"Point"}
+}

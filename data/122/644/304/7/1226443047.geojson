@@ -1,0 +1,82 @@
+{
+  "id": 1226443047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.82788,24.3113,120.82788,24.3113",
+    "geom:latitude":24.3113,
+    "geom:longitude":120.82788,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K16",
+    "gn:admin4_code":"10005070001.0",
+    "gn:asciiname":"Zhuolan",
+    "gn:country_code":"TW",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677731,
+    "gn:latitude":24.3113,
+    "gn:longitude":120.82788,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Zhuolan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cho-lan-chen",
+        "Cho-lan-chuang",
+        "Chao-lan",
+        "Cho-lan",
+        "Jhuolan",
+        "Zhuolan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5353\u862d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677731,
+        "wk:page":"Zhuolan,_Miaoli"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"283a843622c898c2ba4eb6b9936ee503",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226443047,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1226443047,
+    "wof:lastmodified":1537709318,
+    "wof:name":"Zhuolan",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.82788,
+    24.3113,
+    120.82788,
+    24.3113
+],
+  "geometry": {"coordinates":[120.82787999999999,24.3113],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1344057271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.71338,24.71484,121.71338,24.71484",
+    "geom:latitude":24.71484,
+    "geom:longitude":121.71338,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G05",
+    "gn:admin4_code":"10002070005.0",
+    "gn:asciiname":"Zhouzi",
+    "gn:country_code":"TW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677702,
+    "gn:latitude":24.71484,
+    "gn:longitude":121.71338,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhouzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhouzih",
+        "Zhouzi",
+        "Chou-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d32\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677702
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"40917537642979473d13278cec75f6df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344057271,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1344057271,
+    "wof:lastmodified":1537709316,
+    "wof:name":"Zhouzi",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.71338,
+    24.71484,
+    121.71338,
+    24.71484
+],
+  "geometry": {"coordinates":[121.71338,24.71484],"type":"Point"}
+}

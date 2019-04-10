@@ -1,0 +1,67 @@
+{
+  "id": 1209039511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.18333,23.26667,120.18333,23.26667",
+    "geom:latitude":23.26667,
+    "geom:longitude":120.18333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R17",
+    "gn:admin4_code":"67000130004.0",
+    "gn:asciiname":"Zhuqiao",
+    "gn:country_code":"TW",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677625,
+    "gn:latitude":23.26667,
+    "gn:longitude":120.18333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhuqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chu-ch\u2019iao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677625
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"89cc1b59c431926765274a3ca6753ea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209039511
+        }
+    ],
+    "wof:id":1209039511,
+    "wof:lastmodified":1537709310,
+    "wof:name":"Zhuqiao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.18333,
+    23.26667,
+    120.18333,
+    23.26667
+],
+  "geometry": {"coordinates":[120.18333,23.26667],"type":"Point"}
+}

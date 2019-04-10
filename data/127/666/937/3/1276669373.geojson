@@ -1,0 +1,76 @@
+{
+  "id": 1276669373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.63252,25.00544,121.63252,25.00544",
+    "geom:latitude":25.00544,
+    "geom:longitude":121.63252,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F09",
+    "gn:admin4_code":"65000180004.0",
+    "gn:asciiname":"Wuyue",
+    "gn:country_code":"TW",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665644,
+    "gn:latitude":25.00544,
+    "gn:longitude":121.63252,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wuyue",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u70cf\u6708"
+    ],
+    "name:zho_x_variant":[
+        "Wu-y\u00fceh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665644
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9e00728823d75e31bdc3287079a36e71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276669373,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1276669373,
+    "wof:lastmodified":1537708448,
+    "wof:name":"Wuyue",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.63252,
+    25.00544,
+    121.63252,
+    25.00544
+],
+  "geometry": {"coordinates":[121.63252,25.00544],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1260290857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.11361,24.825,121.11361,24.825",
+    "geom:latitude":24.825,
+    "geom:longitude":121.11361,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J03",
+    "gn:admin4_code":"10004040021.0",
+    "gn:asciiname":"Laogengliao",
+    "gn:country_code":"TW",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667851,
+    "gn:latitude":24.825,
+    "gn:longitude":121.11361,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Laogengliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lao-keng-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u8001\u713f\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Ta-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667851
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7c5a7c824bac03eb7071a8879f2f7032",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260290857,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1260290857,
+    "wof:lastmodified":1537708595,
+    "wof:name":"Laogengliao",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.11361,
+    24.825,
+    121.11361,
+    24.825
+],
+  "geometry": {"coordinates":[121.11360999999999,24.825],"type":"Point"}
+}

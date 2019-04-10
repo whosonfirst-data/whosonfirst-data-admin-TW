@@ -1,0 +1,81 @@
+{
+  "id": 1293001169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.32167,23.35472,120.32167,23.35472",
+    "geom:latitude":23.35472,
+    "geom:longitude":120.32167,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R05",
+    "gn:admin4_code":"67000050009.0",
+    "gn:asciiname":"Xiachangduanshu",
+    "gn:country_code":"TW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669484,
+    "gn:latitude":23.35472,
+    "gn:longitude":120.32167,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiachangduanshu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shih-an",
+        "Siachangduanshu"
+    ],
+    "name:zho_x_preferred":[
+        "Shih-an-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0b\u9577\u77ed\u6a39",
+        "Hsia-ch\u2019ang-tuan-shu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669484
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f64543bc4217b7ff38c743c09cc3d60d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293001169,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1293001169,
+    "wof:lastmodified":1537708710,
+    "wof:name":"Xiachangduanshu",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.32167,
+    23.35472,
+    120.32167,
+    23.35472
+],
+  "geometry": {"coordinates":[120.32167,23.35472],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1360092503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.54419,24.93135,121.54419,24.93135",
+    "geom:latitude":24.93135,
+    "geom:longitude":121.54419,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F07",
+    "gn:admin4_code":"65000060025.0",
+    "gn:asciiname":"Shenzhangban",
+    "gn:country_code":"TW",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669567,
+    "gn:latitude":24.93135,
+    "gn:longitude":121.54419,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shenzhangban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shenjhangban",
+        "Shenzhangban",
+        "Shen-chang-fan",
+        "Shen-chang-pan"
+    ],
+    "name:zho_x_preferred":[
+        "\u4f38\u6756\u5742"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669567
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"db8a3888973f825ae15ea831894e9fd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360092503,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1360092503,
+    "wof:lastmodified":1537708717,
+    "wof:name":"Shenzhangban",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.54419,
+    24.93135,
+    121.54419,
+    24.93135
+],
+  "geometry": {"coordinates":[121.54419,24.93135],"type":"Point"}
+}

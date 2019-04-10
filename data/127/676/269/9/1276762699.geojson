@@ -1,0 +1,76 @@
+{
+  "id": 1276762699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.30172,23.51609,120.30172,23.51609",
+    "geom:latitude":23.51609,
+    "geom:longitude":120.30172,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q08",
+    "gn:admin4_code":"10010080007.0",
+    "gn:asciiname":"Pitou",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670439,
+    "gn:latitude":23.51609,
+    "gn:longitude":120.30172,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pitou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u57e4\u982d"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019i-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670439
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b47d857f309dba8fdebc6c996d2b9ee1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276762699,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1276762699,
+    "wof:lastmodified":1537708782,
+    "wof:name":"Pitou",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.30172,
+    23.51609,
+    120.30172,
+    23.51609
+],
+  "geometry": {"coordinates":[120.30172,23.51609],"type":"Point"}
+}

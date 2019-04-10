@@ -1,0 +1,84 @@
+{
+  "id": 1276658191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.7293,24.73151,121.7293,24.73151",
+    "geom:latitude":24.73151,
+    "geom:longitude":121.7293,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G05",
+    "gn:admin4_code":"10002070003.0",
+    "gn:asciiname":"Huihao",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674424,
+    "gn:latitude":24.73151,
+    "gn:longitude":121.7293,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Huihao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa-lao-y\u00fc",
+        "Huihao",
+        "Hueihao",
+        "Hui-hao"
+    ],
+    "name:zho_x_preferred":[
+        "Hui-hao-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Huei-hao-ts\u2019un",
+        "\u60e0\u597d",
+        "Pa-lao-y\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674424
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5539ae1e2333ec66087542c32bfb733f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276658191,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1276658191,
+    "wof:lastmodified":1537709041,
+    "wof:name":"Huihao",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.7293,
+    24.73151,
+    121.7293,
+    24.73151
+],
+  "geometry": {"coordinates":[121.72929999999999,24.73151],"type":"Point"}
+}

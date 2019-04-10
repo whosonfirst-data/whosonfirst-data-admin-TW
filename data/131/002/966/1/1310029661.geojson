@@ -1,0 +1,81 @@
+{
+  "id": 1310029661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.79175,24.29657,120.79175,24.29657",
+    "geom:latitude":24.29657,
+    "geom:longitude":120.79175,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B10",
+    "gn:admin4_code":"66000100023.0",
+    "gn:asciiname":"Shangshike",
+    "gn:country_code":"TW",
+    "gn:dem":354,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992711,
+    "gn:latitude":24.29657,
+    "gn:longitude":120.79175,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangshike",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e0a\u77f3\u5d59",
+        "Shangshike",
+        "Shangshihke"
+    ],
+    "name:zho_x_preferred":[
+        "Shang-shih-k\u2019o"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u77f3\u5d59"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992711
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"767bfea09fcf6d51c4960670a88272a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310029661,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1310029661,
+    "wof:lastmodified":1537709466,
+    "wof:name":"Shangshike",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.79175,
+    24.29657000000001,
+    120.79175,
+    24.29657000000001
+],
+  "geometry": {"coordinates":[120.79174999999999,24.29657000000001],"type":"Point"}
+}

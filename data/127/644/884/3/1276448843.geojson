@@ -1,0 +1,78 @@
+{
+  "id": 1276448843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.56778,22.46833,120.56778,22.46833",
+    "geom:latitude":22.46833,
+    "geom:longitude":120.56778,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T15",
+    "gn:admin4_code":"10013150001.0",
+    "gn:asciiname":"Wanxing",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666161,
+    "gn:latitude":22.46833,
+    "gn:longitude":120.56778,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wanxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019ien-san",
+        "Wan-hsing-ts\u2019un",
+        "\u842c\u8208",
+        "Wansing",
+        "Wanxing",
+        "Wan-hsing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666161
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b56c46eb2d4487b6797c3af0e2a6ef28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276448843,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1276448843,
+    "wof:lastmodified":1537708483,
+    "wof:name":"Wanxing",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.56778,
+    22.46833,
+    120.56778,
+    22.46833
+],
+  "geometry": {"coordinates":[120.56778,22.46833],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1243269925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8436,23.93231,120.8436,23.93231",
+    "geom:latitude":23.93231,
+    "geom:longitude":120.8436,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M10",
+    "gn:admin4_code":"10008100011.0",
+    "gn:asciiname":"Jiucaihu",
+    "gn:country_code":"TW",
+    "gn:dem":1020,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6648709,
+    "gn:latitude":23.93231,
+    "gn:longitude":120.8436,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiucaihu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jioucaihu"
+    ],
+    "name:zho_x_preferred":[
+        "\u97ee\u83dc\u6e56"
+    ],
+    "name:zho_x_variant":[
+        "Chiu-ts\u2019ai-hu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6648709
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c666caa080705bc6e6a053b69b1c2844",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243269925,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1243269925,
+    "wof:lastmodified":1537709766,
+    "wof:name":"Jiucaihu",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8436,
+    23.93231,
+    120.8436,
+    23.93231
+],
+  "geometry": {"coordinates":[120.8436,23.93231],"type":"Point"}
+}

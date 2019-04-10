@@ -1,0 +1,78 @@
+{
+  "id": 1293224729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.30722,24.39472,121.30722,24.39472",
+    "geom:latitude":24.39472,
+    "geom:longitude":121.30722,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B29",
+    "gn:admin4_code":"66000290008.0",
+    "gn:asciiname":"Minzhuang",
+    "gn:country_code":"TW",
+    "gn:dem":1882,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6371932,
+    "gn:latitude":24.39472,
+    "gn:longitude":121.30722,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Minzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Minjhuang",
+        "Minzhuang",
+        "Min-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c11\u838a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6371932
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cd4d8fa9c19ef9010d8b1e2a0e56d91e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293224729,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1293224729,
+    "wof:lastmodified":1537709506,
+    "wof:name":"Minzhuang",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.30722,
+    24.39472,
+    121.30722,
+    24.39472
+],
+  "geometry": {"coordinates":[121.30722,24.39472],"type":"Point"}
+}

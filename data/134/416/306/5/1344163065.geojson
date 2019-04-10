@@ -1,0 +1,77 @@
+{
+  "id": 1344163065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36833,22.965,120.36833,22.965",
+    "geom:latitude":22.965,
+    "geom:longitude":120.36833,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R29",
+    "gn:admin4_code":"67000290006.0",
+    "gn:asciiname":"Jiuxionglin",
+    "gn:country_code":"TW",
+    "gn:dem":83,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677852,
+    "gn:latitude":22.965,
+    "gn:longitude":120.36833,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiuxionglin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiousyonglin",
+        "Chiu-hsiung-lin"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e5d\u828e\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677852
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"48076dc169b10f58fbf7404eafee7710",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344163065,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1344163065,
+    "wof:lastmodified":1537709328,
+    "wof:name":"Jiuxionglin",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36833,
+    22.965,
+    120.36833,
+    22.965
+],
+  "geometry": {"coordinates":[120.36833,22.965],"type":"Point"}
+}

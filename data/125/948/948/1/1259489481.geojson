@@ -1,0 +1,81 @@
+{
+  "id": 1259489481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.22823,23.34008,120.22823,23.34008",
+    "geom:latitude":23.34008,
+    "geom:longitude":120.22823,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q10",
+    "gn:admin4_code":"10010100006.0",
+    "gn:asciiname":"Touzhu",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667033,
+    "gn:latitude":23.34008,
+    "gn:longitude":120.22823,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Touzhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Toujhu"
+    ],
+    "name:zho_x_preferred":[
+        "T\u2019ou-chu-wei"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ou-chu-ts\u2019un",
+        "\u982d\u7af9",
+        "T\u2019ou-chu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667033
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8e1c311aac831e3f62d50b42c217510d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259489481,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1259489481,
+    "wof:lastmodified":1537708537,
+    "wof:name":"Touzhu",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.22823,
+    23.34008,
+    120.22823,
+    23.34008
+],
+  "geometry": {"coordinates":[120.22823,23.34008],"type":"Point"}
+}

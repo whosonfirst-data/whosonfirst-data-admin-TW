@@ -1,0 +1,77 @@
+{
+  "id": 1226540429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.80896,24.63094,120.80896,24.63094",
+    "geom:latitude":24.63094,
+    "geom:longitude":120.80896,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K12",
+    "gn:admin4_code":"10005060011.0",
+    "gn:asciiname":"Dianzihu",
+    "gn:country_code":"TW",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6645895,
+    "gn:latitude":24.63094,
+    "gn:longitude":120.80896,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dianzihu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dianzihhu",
+        "Tien-tzu-hu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e97\u5b50\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6645895
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6144ab73c355281deea2d05356d6f49d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226540429,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1226540429,
+    "wof:lastmodified":1537709711,
+    "wof:name":"Dianzihu",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.80896,
+    24.63094,
+    120.80896,
+    24.63094
+],
+  "geometry": {"coordinates":[120.80896,24.63094],"type":"Point"}
+}

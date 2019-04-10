@@ -1,0 +1,80 @@
+{
+  "id": 1242590713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.69194,23.07444,120.69194,23.07444",
+    "geom:latitude":23.07444,
+    "geom:longitude":120.69194,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E32",
+    "gn:admin4_code":"64000320004.0",
+    "gn:asciiname":"Zhucaoku",
+    "gn:country_code":"TW",
+    "gn:dem":479,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6586777,
+    "gn:latitude":23.07444,
+    "gn:longitude":120.69194,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhucaoku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhucaoku",
+        "Zhucaoku"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c6c\u69fd\u7a9f"
+    ],
+    "name:zho_x_variant":[
+        "Chu-ts\u2019ao-k\u2019u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6586777
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9a0d3936865135e1bbd6ab52096a5b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242590713,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1242590713,
+    "wof:lastmodified":1537709573,
+    "wof:name":"Zhucaoku",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.69194,
+    23.07444,
+    120.69194,
+    23.07444
+],
+  "geometry": {"coordinates":[120.69194,23.07444],"type":"Point"}
+}

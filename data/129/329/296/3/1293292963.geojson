@@ -1,0 +1,81 @@
+{
+  "id": 1293292963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.96966,24.46022,120.96966,24.46022",
+    "geom:latitude":24.46022,
+    "geom:longitude":120.96966,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K18",
+    "gn:admin4_code":"10005180002.0",
+    "gn:asciiname":"Nantianwo",
+    "gn:country_code":"TW",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671574,
+    "gn:latitude":24.46022,
+    "gn:longitude":120.96966,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nantianwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan-ta-wo",
+        "Nantianwo",
+        "\u5357\u5929\u7aa9"
+    ],
+    "name:zho_x_preferred":[
+        "Nan-t\u2019ien-wo"
+    ],
+    "name:zho_x_variant":[
+        "\u5357\u5929\u7aa9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671574
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6608d267400dd7c06fdab5735c6d54d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293292963,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1293292963,
+    "wof:lastmodified":1537708851,
+    "wof:name":"Nantianwo",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.96966,
+    24.46022,
+    120.96966,
+    24.46022
+],
+  "geometry": {"coordinates":[120.96966,24.46022],"type":"Point"}
+}

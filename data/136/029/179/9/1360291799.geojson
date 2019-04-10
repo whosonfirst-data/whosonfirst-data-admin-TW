@@ -1,0 +1,76 @@
+{
+  "id": 1360291799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.53425,23.44714,120.53425,23.44714",
+    "geom:latitude":23.44714,
+    "geom:longitude":120.53425,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q14",
+    "gn:admin4_code":"10010130011.0",
+    "gn:asciiname":"Houbiliao",
+    "gn:country_code":"TW",
+    "gn:dem":128,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656059,
+    "gn:latitude":23.44714,
+    "gn:longitude":120.53425,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Houbiliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hou-pi-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f8c\u58c1\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6656059
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5c1798eaf1b7f9af1a63bb144fd29430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360291799,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1360291799,
+    "wof:lastmodified":1537709860,
+    "wof:name":"Houbiliao",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.53425,
+    23.44714,
+    120.53425,
+    23.44714
+],
+  "geometry": {"coordinates":[120.53425,23.44714],"type":"Point"}
+}

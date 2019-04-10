@@ -1,0 +1,80 @@
+{
+  "id": 1293493605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9344,23.9915,120.9344,23.9915",
+    "geom:latitude":23.9915,
+    "geom:longitude":120.9344,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M02",
+    "gn:admin4_code":"10008020021.0",
+    "gn:asciiname":"Chikan",
+    "gn:country_code":"TW",
+    "gn:dem":422,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678376,
+    "gn:latitude":23.9915,
+    "gn:longitude":120.9344,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chikan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chihkan"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019ih-ch\u2019ien"
+    ],
+    "name:zho_x_variant":[
+        "\u8d64\u5d01",
+        "Ch\u2019ih-k\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678376
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3564094215093451eb23750b0dab3a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293493605,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1293493605,
+    "wof:lastmodified":1537709363,
+    "wof:name":"Chikan",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9344,
+    23.9915,
+    120.9344,
+    23.9915
+],
+  "geometry": {"coordinates":[120.9344,23.9915],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226144671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.60943,24.99642,121.60943,24.99642",
+    "geom:latitude":24.99642,
+    "geom:longitude":121.60943,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F09",
+    "gn:admin4_code":"65000180005.0",
+    "gn:asciiname":"Jianjiaokeng",
+    "gn:country_code":"TW",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678542,
+    "gn:latitude":24.99642,
+    "gn:longitude":121.60943,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jianjiaokeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6898\u811a\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Chien-chiao-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678542
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8b15e95984c03edb41c84fa4ef8be980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226144671,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1226144671,
+    "wof:lastmodified":1537709374,
+    "wof:name":"Jianjiaokeng",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.60943,
+    24.99642,
+    121.60943,
+    24.99642
+],
+  "geometry": {"coordinates":[121.60943,24.99642],"type":"Point"}
+}

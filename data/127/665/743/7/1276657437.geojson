@@ -1,0 +1,85 @@
+{
+  "id": 1276657437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.01444,22.64056,121.01444,22.64056",
+    "geom:latitude":22.64056,
+    "geom:longitude":121.01444,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V06",
+    "gn:admin4_code":"10014090003.0",
+    "gn:asciiname":"Xinji",
+    "gn:country_code":"TW",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668360,
+    "gn:latitude":22.64056,
+    "gn:longitude":121.01444,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinji",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinji",
+        "Wen-tzu-shuai",
+        "Wen-tzu-pang",
+        "Wen-tzu-chiao",
+        "Xinji",
+        "Hsin-chi"
+    ],
+    "name:zho_x_preferred":[
+        "Hsin-chi-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u5409",
+        "T\u2019ai-ma-li-hsiang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668360
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"07fe9f862def8abce0df3ad618ef1dae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276657437,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1276657437,
+    "wof:lastmodified":1537708623,
+    "wof:name":"Xinji",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.01444,
+    22.64056,
+    121.01444,
+    22.64056
+],
+  "geometry": {"coordinates":[121.01443999999999,22.64056],"type":"Point"}
+}

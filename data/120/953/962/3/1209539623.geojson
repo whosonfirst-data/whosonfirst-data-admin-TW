@@ -1,0 +1,71 @@
+{
+  "id": 1209539623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36244,23.77628,120.36244,23.77628",
+    "geom:latitude":23.77628,
+    "geom:longitude":120.36244,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P11",
+    "gn:admin4_code":"10009110017.0",
+    "gn:asciiname":"Nandiliao",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671567,
+    "gn:latitude":23.77628,
+    "gn:longitude":120.36244,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nandiliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lung-hsing",
+        "Nan-ti-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e73\u5e95\u7ac2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671567
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"580886a009e21a2cd4e118d00aa4e28d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209539623
+        }
+    ],
+    "wof:id":1209539623,
+    "wof:lastmodified":1537708851,
+    "wof:name":"Nandiliao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36244,
+    23.77628,
+    120.36244,
+    23.77628
+],
+  "geometry": {"coordinates":[120.36244000000001,23.77628],"type":"Point"}
+}

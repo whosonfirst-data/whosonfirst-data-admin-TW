@@ -1,0 +1,76 @@
+{
+  "id": 1326531857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.6028,25.26356,121.6028,25.26356",
+    "geom:latitude":25.26356,
+    "geom:longitude":121.6028,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F31",
+    "gn:admin4_code":"65000220009.0",
+    "gn:asciiname":"Dingcaobuwei",
+    "gn:country_code":"TW",
+    "gn:dem":177,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6642374,
+    "gn:latitude":25.26356,
+    "gn:longitude":121.6028,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingcaobuwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9802\u8349\u57d4\u5c3e"
+    ],
+    "name:zho_x_variant":[
+        "Ting-ts\u2019ao-pu-wei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6642374
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4711074e4226b73af1b95ad5216c06ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326531857,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1326531857,
+    "wof:lastmodified":1537709685,
+    "wof:name":"Dingcaobuwei",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.6028,
+    25.26356,
+    121.6028,
+    25.26356
+],
+  "geometry": {"coordinates":[121.6028,25.26356],"type":"Point"}
+}

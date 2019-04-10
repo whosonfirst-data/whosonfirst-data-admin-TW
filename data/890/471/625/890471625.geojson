@@ -1,0 +1,72 @@
+{
+  "id": 890471625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.449737,25.021062,121.449737,25.021062",
+    "geom:latitude":25.021062,
+    "geom:longitude":121.449737,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u842c\u83ef\u5340",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u53f0\u5317\u5e02",
+    "qs:photos":4,
+    "qs:photos_1k":1,
+    "qs:photos_9k":257,
+    "qs:photos_9r":25,
+    "qs:photos_all":57940,
+    "qs:photos_sr":1,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":119,
+    "wof:belongsto":[
+        85679585,
+        102191569,
+        85632403,
+        1108756871,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2305391,
+        "qs:id":223470,
+        "wd:id":"Q6617085",
+        "wk:page":"List of districts of Taipei by area"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053862,
+    "wof:geomhash":"c025d33cb7013c294ad7f9f6c7285e18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "county_id":890471625,
+            "macrocounty_id":1108756871,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":890471625,
+    "wof:lastmodified":1527727125,
+    "wof:name":"\u842c\u83ef\u5340",
+    "wof:parent_id":1108756871,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.449737,
+    25.021062,
+    121.449737,
+    25.021062
+],
+  "geometry": {"coordinates":[121.449737,25.021062],"type":"Point"}
+}

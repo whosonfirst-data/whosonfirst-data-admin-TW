@@ -1,0 +1,80 @@
+{
+  "id": 1225944419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.3603,23.39787,121.3603,23.39787",
+    "geom:latitude":23.39787,
+    "geom:longitude":121.3603,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U03",
+    "gn:admin4_code":"10015030010.0",
+    "gn:asciiname":"Guanyin",
+    "gn:country_code":"TW",
+    "gn:dem":106,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673499,
+    "gn:latitude":23.39787,
+    "gn:longitude":121.3603,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Guanyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuan-yin-li",
+        "Kuan-yin-shan",
+        "Kuan-yin",
+        "\u89c0\u97f3",
+        "Guanyin"
+    ],
+    "name:zho_x_preferred":[
+        "\u89c0\u97f3"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673499
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"033ec1ae15b42d4d82078cae8f0a8840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225944419,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1225944419,
+    "wof:lastmodified":1537708974,
+    "wof:name":"Guanyin",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.3603,
+    23.39787,
+    121.3603,
+    23.39787
+],
+  "geometry": {"coordinates":[121.3603,23.39787],"type":"Point"}
+}

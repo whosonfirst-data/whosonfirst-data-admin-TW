@@ -1,0 +1,82 @@
+{
+  "id": 1293589753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.20556,23.15306,121.20556,23.15306",
+    "geom:latitude":23.15306,
+    "geom:longitude":121.20556,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V13",
+    "gn:admin4_code":"10014120001.0",
+    "gn:asciiname":"Dabu",
+    "gn:country_code":"TW",
+    "gn:dem":334,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667800,
+    "gn:latitude":23.15306,
+    "gn:longitude":121.20556,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dabu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuang-y\u00fcan",
+        "Ta-pu-she",
+        "Dabu",
+        "Ta-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u57d4"
+    ],
+    "name:zho_x_variant":[
+        "Kuang-y\u00fcan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667800
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"36187cd0402a9958a806b10dffef71e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293589753,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1293589753,
+    "wof:lastmodified":1537708592,
+    "wof:name":"Dabu",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.20556,
+    23.15306,
+    121.20556,
+    23.15306
+],
+  "geometry": {"coordinates":[121.20556000000001,23.15306],"type":"Point"}
+}

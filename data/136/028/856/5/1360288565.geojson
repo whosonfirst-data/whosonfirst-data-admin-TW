@@ -1,0 +1,78 @@
+{
+  "id": 1360288565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.26611,22.76111,120.26611,22.76111",
+    "geom:latitude":22.76111,
+    "geom:longitude":120.26611,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E29",
+    "gn:admin4_code":"64000290002.0",
+    "gn:asciiname":"Ziguan",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666338,
+    "gn:latitude":22.76111,
+    "gn:longitude":120.26611,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Ziguan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Zihguan",
+        "Ziguan",
+        "Tzu-kuan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6893\u5b98"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666338
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"30b53f657a58bf2112269458c24be1bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360288565,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1360288565,
+    "wof:lastmodified":1537708495,
+    "wof:name":"Ziguan",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.26611,
+    22.76111,
+    120.26611,
+    22.76111
+],
+  "geometry": {"coordinates":[120.26611,22.76111],"type":"Point"}
+}

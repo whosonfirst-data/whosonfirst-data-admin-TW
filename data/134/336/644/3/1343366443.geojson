@@ -1,0 +1,78 @@
+{
+  "id": 1343366443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.96342,25.02132,121.96342,25.02132",
+    "geom:latitude":25.02132,
+    "geom:longitude":121.96342,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F24",
+    "gn:admin4_code":"65000260006.0",
+    "gn:asciiname":"Ruguizi",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647555,
+    "gn:latitude":25.02132,
+    "gn:longitude":121.96342,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Ruguizi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rugueizih",
+        "Ruguizi",
+        "Ju-kuei-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5165\u6842\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647555
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6cf914f3a934fee1f488a73c212af1ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343366443,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1343366443,
+    "wof:lastmodified":1537709760,
+    "wof:name":"Ruguizi",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.96342,
+    25.02132000000001,
+    121.96342,
+    25.02132000000001
+],
+  "geometry": {"coordinates":[121.96342,25.02132000000001],"type":"Point"}
+}

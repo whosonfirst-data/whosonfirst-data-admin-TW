@@ -1,0 +1,79 @@
+{
+  "id": 1327239065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.8386,25.11146,121.8386,25.11146",
+    "geom:latitude":25.11146,
+    "geom:longitude":121.8386,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F21",
+    "gn:admin4_code":"65000120022.0",
+    "gn:asciiname":"Qifankeng",
+    "gn:country_code":"TW",
+    "gn:dem":159,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678403,
+    "gn:latitude":25.11146,
+    "gn:longitude":121.8386,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qifankeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cifankeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e03\u756a\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019i-fan-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678403
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9cbaebd2dfdcd707f9af14d33bcdebad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327239065,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1327239065,
+    "wof:lastmodified":1537709365,
+    "wof:name":"Qifankeng",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.8386,
+    25.11146,
+    121.8386,
+    25.11146
+],
+  "geometry": {"coordinates":[121.8386,25.11146],"type":"Point"}
+}

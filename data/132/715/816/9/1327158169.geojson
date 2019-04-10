@@ -1,0 +1,78 @@
+{
+  "id": 1327158169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.87854,24.14914,120.87854,24.14914",
+    "geom:latitude":24.14914,
+    "geom:longitude":120.87854,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B19",
+    "gn:admin4_code":"66000190013.0",
+    "gn:asciiname":"Baimao",
+    "gn:country_code":"TW",
+    "gn:dem":773,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671146,
+    "gn:latitude":24.14914,
+    "gn:longitude":120.87854,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Baimao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pai-mao She",
+        "Baimao",
+        "Pai-mao"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u6bdb"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671146
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8b51eead680d11fd9ba58c1e6754cd54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327158169,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1327158169,
+    "wof:lastmodified":1537708824,
+    "wof:name":"Baimao",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.87854,
+    24.14914,
+    120.87854,
+    24.14914
+],
+  "geometry": {"coordinates":[120.87854,24.14914],"type":"Point"}
+}

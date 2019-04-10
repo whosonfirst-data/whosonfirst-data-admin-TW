@@ -1,0 +1,80 @@
+{
+  "id": 1310607337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8934,24.3686,120.8934,24.3686",
+    "geom:latitude":24.3686,
+    "geom:longitude":120.8934,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K15",
+    "gn:admin4_code":"10005080009.0",
+    "gn:asciiname":"Shangkengweiliao",
+    "gn:country_code":"TW",
+    "gn:dem":668,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992658,
+    "gn:latitude":24.3686,
+    "gn:longitude":120.8934,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangkengweiliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e0a\u5751\u5c3e\u5bee",
+        "Shangkengweiliao"
+    ],
+    "name:zho_x_preferred":[
+        "Shang-k\u2019eng-wei-liao"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u5751\u5c3e\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992658
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"69a712675a0a08394d9d19516965350e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310607337,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1310607337,
+    "wof:lastmodified":1537709462,
+    "wof:name":"Shangkengweiliao",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8934,
+    24.3686,
+    120.8934,
+    24.3686
+],
+  "geometry": {"coordinates":[120.8934,24.3686],"type":"Point"}
+}

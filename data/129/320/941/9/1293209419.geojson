@@ -1,0 +1,76 @@
+{
+  "id": 1293209419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.68571,22.9674,120.68571,22.9674",
+    "geom:latitude":22.9674,
+    "geom:longitude":120.68571,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E36",
+    "gn:admin4_code":"64000360003.0",
+    "gn:asciiname":"Shanping",
+    "gn:country_code":"TW",
+    "gn:dem":679,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658045,
+    "gn:latitude":22.9674,
+    "gn:longitude":120.68571,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shanping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6247\u5e73"
+    ],
+    "name:zho_x_variant":[
+        "Shan-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658045
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8526ce6d42a9b30851fe7432cc4dc897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293209419,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1293209419,
+    "wof:lastmodified":1537709886,
+    "wof:name":"Shanping",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.68571,
+    22.9674,
+    120.68571,
+    22.9674
+],
+  "geometry": {"coordinates":[120.68571,22.9674],"type":"Point"}
+}

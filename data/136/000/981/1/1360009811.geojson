@@ -1,0 +1,76 @@
+{
+  "id": 1360009811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.61816,25.09509,121.61816,25.09509",
+    "geom:latitude":25.09509,
+    "geom:longitude":121.61816,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A14",
+    "gn:admin4_code":"63000100025.0",
+    "gn:asciiname":"Neigouwei",
+    "gn:country_code":"TW",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6729110,
+    "gn:latitude":25.09509,
+    "gn:longitude":121.61816,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Neigouwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nei-kou-wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u5185\u6e9d\u5c3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6729110
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b51b87aa2964131b5f6c6162fd246917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360009811,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1360009811,
+    "wof:lastmodified":1537709916,
+    "wof:name":"Neigouwei",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.61816,
+    25.09509,
+    121.61816,
+    25.09509
+],
+  "geometry": {"coordinates":[121.61816,25.09509],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1344164687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.98453,25.02219,121.98453,25.02219",
+    "geom:latitude":25.02219,
+    "geom:longitude":121.98453,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F24",
+    "gn:admin4_code":"65000260009.0",
+    "gn:asciiname":"Daxianglan",
+    "gn:country_code":"TW",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647394,
+    "gn:latitude":25.02219,
+    "gn:longitude":121.98453,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Daxianglan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dasianglan",
+        "Ta-hsiang-lan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u9999\u862d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679585,
+        102191569,
+        85632403,
+        1108756871,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647394
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9c6694a5bd9e67a60fba3b3ddfcecc9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344164687,
+            "macrocounty_id":1108756871,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1344164687,
+    "wof:lastmodified":1537709760,
+    "wof:name":"Daxianglan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.98453,
+    25.02219,
+    121.98453,
+    25.02219
+],
+  "geometry": {"coordinates":[121.98453000000001,25.02219],"type":"Point"}
+}

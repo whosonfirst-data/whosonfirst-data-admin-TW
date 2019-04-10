@@ -1,0 +1,76 @@
+{
+  "id": 1226652151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.36949,23.52636,121.36949,23.52636",
+    "geom:latitude":23.52636,
+    "geom:longitude":121.36949,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U09",
+    "gn:admin4_code":"10015090005.0",
+    "gn:asciiname":"Dongguang",
+    "gn:country_code":"TW",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652589,
+    "gn:latitude":23.52636,
+    "gn:longitude":121.36949,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongguang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-kuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u5149"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652589
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bf7ab91bc4e44f73fa563f1befd1eb03",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226652151,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1226652151,
+    "wof:lastmodified":1537709826,
+    "wof:name":"Dongguang",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.36948999999998,
+    23.52636,
+    121.36948999999998,
+    23.52636
+],
+  "geometry": {"coordinates":[121.36948999999998,23.52636],"type":"Point"}
+}

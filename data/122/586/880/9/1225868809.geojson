@@ -1,0 +1,80 @@
+{
+  "id": 1225868809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.58665,24.98007,121.58665,24.98007",
+    "geom:latitude":24.98007,
+    "geom:longitude":121.58665,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A11",
+    "gn:admin4_code":"63000080036.0",
+    "gn:asciiname":"Zhinangong",
+    "gn:country_code":"TW",
+    "gn:dem":228,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678346,
+    "gn:latitude":24.98007,
+    "gn:longitude":121.58665,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhinangong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhihnangong",
+        "Chih-nan-kung"
+    ],
+    "name:zho_x_preferred":[
+        "\u6307\u5357\u5bae"
+    ],
+    "name:zho_x_variant":[
+        "Chih-nan-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678346
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"12e3eec131a2de71f3c9c97b0a299d04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225868809,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1225868809,
+    "wof:lastmodified":1537709361,
+    "wof:name":"Zhinangong",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.58665,
+    24.98007,
+    121.58665,
+    24.98007
+],
+  "geometry": {"coordinates":[121.58665000000001,24.98007],"type":"Point"}
+}

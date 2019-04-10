@@ -1,0 +1,74 @@
+{
+  "id": 1209415391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.69617,22.60654,120.69617,22.60654",
+    "geom:latitude":22.60654,
+    "geom:longitude":120.69617,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T29",
+    "gn:admin4_code":"10013290005.0",
+    "gn:asciiname":"Dewenshe",
+    "gn:country_code":"TW",
+    "gn:dem":972,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667511,
+    "gn:latitude":22.60654,
+    "gn:longitude":120.69617,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dewenshe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Te-wen-she",
+        "\u5fb7\u6587\u793e",
+        "Te-wen",
+        "Dewenshe",
+        "Dewunshe"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fb7\u6587\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667511
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9aa9c5bceda74a45e507e454320f7947",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209415391
+        }
+    ],
+    "wof:id":1209415391,
+    "wof:lastmodified":1537708576,
+    "wof:name":"Dewenshe",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.69617,
+    22.60654,
+    120.69617,
+    22.60654
+],
+  "geometry": {"coordinates":[120.69617,22.60654],"type":"Point"}
+}

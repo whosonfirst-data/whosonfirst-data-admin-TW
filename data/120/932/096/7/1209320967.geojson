@@ -1,0 +1,74 @@
+{
+  "id": 1209320967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.84179,24.49636,120.84179,24.49636",
+    "geom:latitude":24.49636,
+    "geom:longitude":120.84179,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K04",
+    "gn:admin4_code":"10005090004.0",
+    "gn:asciiname":"Dakeng",
+    "gn:country_code":"TW",
+    "gn:dem":145,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668240,
+    "gn:latitude":24.49636,
+    "gn:longitude":120.84179,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dakeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5927\u5751",
+        "Dakeng"
+    ],
+    "name:zho_x_preferred":[
+        "Ta-k\u2019eng"
+    ],
+    "name:zho_x_variant":[
+        "\u5927\u5751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668240
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"792611d47637ceaae757a6aecbbdb7de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209320967
+        }
+    ],
+    "wof:id":1209320967,
+    "wof:lastmodified":1537708617,
+    "wof:name":"Dakeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.84179,
+    24.49636,
+    120.84179,
+    24.49636
+],
+  "geometry": {"coordinates":[120.84179,24.49636],"type":"Point"}
+}

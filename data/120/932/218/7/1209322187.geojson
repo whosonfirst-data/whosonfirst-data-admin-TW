@@ -1,0 +1,73 @@
+{
+  "id": 1209322187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.54845,24.86536,121.54845,24.86536",
+    "geom:latitude":24.86536,
+    "geom:longitude":121.54845,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F11",
+    "gn:admin4_code":"65000290001.0",
+    "gn:asciiname":"Xiaoliao",
+    "gn:country_code":"TW",
+    "gn:dem":184,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675666,
+    "gn:latitude":24.86536,
+    "gn:longitude":121.54845,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaoliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsiao-yao",
+        "Hsiao-chai",
+        "Siaoliao",
+        "Hsiao-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675666
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"338396ace23b16e19152ec5351b303e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209322187
+        }
+    ],
+    "wof:id":1209322187,
+    "wof:lastmodified":1537709151,
+    "wof:name":"Xiaoliao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.54845,
+    24.86536,
+    121.54845,
+    24.86536
+],
+  "geometry": {"coordinates":[121.54845,24.86536],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226166745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.02972,24.26639,121.02972,24.26639",
+    "geom:latitude":24.26639,
+    "geom:longitude":121.02972,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B29",
+    "gn:admin4_code":"66000290003.0",
+    "gn:asciiname":"Yakou",
+    "gn:country_code":"TW",
+    "gn:dem":2432,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993980,
+    "gn:latitude":24.26639,
+    "gn:longitude":121.02972,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yakou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u57e1\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "Ya-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993980
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"edea97d3a5930da84a374c9c6d7193f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226166745,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1226166745,
+    "wof:lastmodified":1537709491,
+    "wof:name":"Yakou",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.02972,
+    24.26639,
+    121.02972,
+    24.26639
+],
+  "geometry": {"coordinates":[121.02972,24.26639],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1309804251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.82626,24.67496,121.82626,24.67496",
+    "geom:latitude":24.67496,
+    "geom:longitude":121.82626,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G07",
+    "gn:admin4_code":"10002090015.0",
+    "gn:asciiname":"Xindian",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674824,
+    "gn:latitude":24.67496,
+    "gn:longitude":121.82626,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xindian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sindian",
+        "Hsin-tien"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5e97"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019o-lo-hsin-tzu-wan-she",
+        "Hsin-tien-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679567,
+        102191569,
+        85632403,
+        1108499379,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674824
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"343d9fa0b7e7b7bd0bcc7a1a6acc86cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309804251,
+            "macrocounty_id":1108499379,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1309804251,
+    "wof:lastmodified":1537709074,
+    "wof:name":"Xindian",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.82626,
+    24.67496,
+    121.82626,
+    24.67496
+],
+  "geometry": {"coordinates":[121.82626,24.67496],"type":"Point"}
+}

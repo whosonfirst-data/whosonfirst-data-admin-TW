@@ -1,0 +1,84 @@
+{
+  "id": 1327339509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.26722,23.32,120.26722,23.32",
+    "geom:latitude":23.32,
+    "geom:longitude":120.26722,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R02",
+    "gn:admin4_code":"67000020005.0",
+    "gn:asciiname":"Yanshui",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665528,
+    "gn:latitude":23.32,
+    "gn:longitude":120.26722,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yanshui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yen-shui-chen",
+        "Yen-shui-chieh",
+        "Yanshuei",
+        "Yanshui",
+        "Yen-shui"
+    ],
+    "name:zho_x_preferred":[
+        "\u9e7d\u6c34"
+    ],
+    "name:zho_x_variant":[
+        "Y\u00fceh-chin",
+        "Y\u00fceh-ching"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665528
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b532ac27a2348aaceb2734bbaab0602b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327339509,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1327339509,
+    "wof:lastmodified":1537708441,
+    "wof:name":"Yanshui",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.26722,
+    23.32,
+    120.26722,
+    23.32
+],
+  "geometry": {"coordinates":[120.26721999999999,23.32],"type":"Point"}
+}

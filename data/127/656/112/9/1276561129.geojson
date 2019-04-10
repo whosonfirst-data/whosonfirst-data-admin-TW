@@ -1,0 +1,76 @@
+{
+  "id": 1276561129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.42722,22.89111,120.42722,22.89111",
+    "geom:latitude":22.89111,
+    "geom:longitude":120.42722,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E22",
+    "gn:admin4_code":"64000220001.0",
+    "gn:asciiname":"Shanglubu",
+    "gn:country_code":"TW",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669788,
+    "gn:latitude":22.89111,
+    "gn:longitude":120.42722,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shanglubu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shang-lu-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u9e7f\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669788
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bdb3eee63fe3e6abfd38c681bc63c420",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276561129,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1276561129,
+    "wof:lastmodified":1537708734,
+    "wof:name":"Shanglubu",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.42722,
+    22.89111,
+    120.42722,
+    22.89111
+],
+  "geometry": {"coordinates":[120.42722000000001,22.89111],"type":"Point"}
+}

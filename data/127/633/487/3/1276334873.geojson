@@ -1,0 +1,73 @@
+{
+  "id": 1276334873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.41667,22.65,120.41667,22.65",
+    "geom:latitude":22.65,
+    "geom:longitude":120.41667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Chiu-ch'u-ts'un",
+    "gn:cc2":"TW",
+    "gn:country_code":"TW",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677877,
+    "gn:latitude":22.65,
+    "gn:longitude":120.41667,
+    "gn:modification_date":"2001-07-20",
+    "gn:name":"Chiu-ch'\u00fc-ts'un",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiuw-t'ang",
+        "Chiu-ch'\u00fc",
+        "Chiu-ch'\u00fc-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677877
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e0f80f245cd00a2377946ebac8f92f58",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276334873,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1276334873,
+    "wof:lastmodified":1537709330,
+    "wof:name":"Chiu-ch'u-ts'un",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.41667,
+    22.65,
+    120.41667,
+    22.65
+],
+  "geometry": {"coordinates":[120.41667,22.65],"type":"Point"}
+}

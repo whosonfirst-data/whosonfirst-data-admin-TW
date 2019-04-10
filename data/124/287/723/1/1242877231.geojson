@@ -1,0 +1,81 @@
+{
+  "id": 1242877231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.41534,22.65733,120.41534,22.65733",
+    "geom:latitude":22.65733,
+    "geom:longitude":120.41534,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E15",
+    "gn:admin4_code":"64000150003.0",
+    "gn:asciiname":"Piziwei",
+    "gn:country_code":"TW",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7502118,
+    "gn:latitude":22.65733,
+    "gn:longitude":120.41534,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Piziwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u57e4\u5b50\u5c3e",
+        "Pizihwei",
+        "Piziwei"
+    ],
+    "name:zho_x_preferred":[
+        "P\u2019i-tzu-wei"
+    ],
+    "name:zho_x_variant":[
+        "\u57e4\u5b50\u5c3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7502118
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c7d6fc8aaec0d8487f7b73655a7d63ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242877231,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1242877231,
+    "wof:lastmodified":1537709985,
+    "wof:name":"Piziwei",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.41534,
+    22.65733,
+    120.41534,
+    22.65733
+],
+  "geometry": {"coordinates":[120.41534,22.65733],"type":"Point"}
+}

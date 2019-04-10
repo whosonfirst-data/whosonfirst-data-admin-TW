@@ -1,0 +1,76 @@
+{
+  "id": 1209839595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8722,24.65361,120.8722,24.65361",
+    "geom:latitude":24.65361,
+    "geom:longitude":120.8722,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040018.0",
+    "gn:asciiname":"Dabuding",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6645882,
+    "gn:latitude":24.65361,
+    "gn:longitude":120.8722,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dabuding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-pu-ting"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u57d4\u9802"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6645882
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3a26932b7e6f979f05bfbf492e117854",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209839595,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1209839595,
+    "wof:lastmodified":1537709710,
+    "wof:name":"Dabuding",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8722,
+    24.65361,
+    120.8722,
+    24.65361
+],
+  "geometry": {"coordinates":[120.87220000000001,24.65361],"type":"Point"}
+}

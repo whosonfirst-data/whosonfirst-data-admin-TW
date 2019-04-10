@@ -1,0 +1,76 @@
+{
+  "id": 1226652287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.34306,23.405,120.34306,23.405",
+    "geom:latitude":23.405,
+    "geom:longitude":120.34306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q11",
+    "gn:admin4_code":"10010110013.0",
+    "gn:asciiname":"Houku",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6574854,
+    "gn:latitude":23.405,
+    "gn:longitude":120.34306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Houku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f8c\u5800"
+    ],
+    "name:zho_x_variant":[
+        "Hou-k\u2019u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6574854
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"88b6f4fcb74970cb837362e8af397bae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226652287,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1226652287,
+    "wof:lastmodified":1537709538,
+    "wof:name":"Houku",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.34306,
+    23.405,
+    120.34306,
+    23.405
+],
+  "geometry": {"coordinates":[120.34305999999999,23.405],"type":"Point"}
+}

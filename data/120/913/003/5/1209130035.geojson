@@ -1,0 +1,75 @@
+{
+  "id": 1209130035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.23361,23.18444,120.23361,23.18444",
+    "geom:latitude":23.18444,
+    "geom:longitude":120.23361,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R07",
+    "gn:admin4_code":"67000070016.0",
+    "gn:asciiname":"Lingzilin",
+    "gn:country_code":"TW",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673010,
+    "gn:latitude":23.18444,
+    "gn:longitude":120.23361,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lingzilin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ling-tzu-lin",
+        "Liang-lin",
+        "Lin-tzu-ling",
+        "Lingzilin",
+        "Lingzihlin",
+        "\u82d3\u5b50\u6797"
+    ],
+    "name:zho_x_preferred":[
+        "\u82d3\u5b50\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673010
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"664098c8f333f80522f2e2c1ebd9d0af",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209130035
+        }
+    ],
+    "wof:id":1209130035,
+    "wof:lastmodified":1537708941,
+    "wof:name":"Lingzilin",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.23361,
+    23.18444,
+    120.23361,
+    23.18444
+],
+  "geometry": {"coordinates":[120.23361,23.18444],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1343459287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86361,22.46583,120.86361,22.46583",
+    "geom:latitude":22.46583,
+    "geom:longitude":120.86361,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V14",
+    "gn:admin4_code":"10014150002.0",
+    "gn:asciiname":"Kaixiya",
+    "gn:country_code":"TW",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6587851,
+    "gn:latitude":22.46583,
+    "gn:longitude":120.86361,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kaixiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kaisiya",
+        "Kaixiya"
+    ],
+    "name:zho_x_preferred":[
+        "\u51f1\u897f\u4e9e"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019ai-hsi-ya"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6587851
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"22258621d43119511cd3718259d82391",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343459287,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1343459287,
+    "wof:lastmodified":1537709597,
+    "wof:name":"Kaixiya",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86361,
+    22.46583,
+    120.86361,
+    22.46583
+],
+  "geometry": {"coordinates":[120.86360999999999,22.46583],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1259986003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.35235,23.91554,120.35235,23.91554",
+    "geom:latitude":23.91554,
+    "geom:longitude":120.35235,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N23",
+    "gn:admin4_code":"10007230005.0",
+    "gn:asciiname":"Guopi",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673197,
+    "gn:latitude":23.91554,
+    "gn:longitude":120.35235,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Guopi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuo-pei"
+    ],
+    "name:zho_x_preferred":[
+        "Kou-p\u2019i"
+    ],
+    "name:zho_x_variant":[
+        "\u904e\u57e4",
+        "Kuo-p\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673197
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ea20f1a40e86170f2a50b59368eac5bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259986003,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1259986003,
+    "wof:lastmodified":1537708953,
+    "wof:name":"Guopi",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.35235,
+    23.91554,
+    120.35235,
+    23.91554
+],
+  "geometry": {"coordinates":[120.35235,23.91554],"type":"Point"}
+}

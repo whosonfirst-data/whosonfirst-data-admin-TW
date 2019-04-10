@@ -1,0 +1,82 @@
+{
+  "id": 1343864233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48239,23.64032,120.48239,23.64032",
+    "geom:latitude":23.64032,
+    "geom:longitude":120.48239,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P02",
+    "gn:admin4_code":"10009020022.0",
+    "gn:asciiname":"Shiguixi",
+    "gn:country_code":"TW",
+    "gn:dem":45,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669394,
+    "gn:latitude":23.64032,
+    "gn:longitude":120.48239,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shiguixi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihgueisi",
+        "Shiguixi",
+        "Shih-kuei-hsi"
+    ],
+    "name:zho_x_preferred":[
+        "Shih-kuai-ch\u2019i"
+    ],
+    "name:zho_x_variant":[
+        "Shih-kuei-ch\u2019i",
+        "\u77f3\u9f9c\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669394
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e8442103571e9bdc7267cbf471deee48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343864233,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1343864233,
+    "wof:lastmodified":1537708702,
+    "wof:name":"Shiguixi",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48239,
+    23.64032000000001,
+    120.48239,
+    23.64032000000001
+],
+  "geometry": {"coordinates":[120.48239,23.64032000000001],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1276448757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.84945,24.18834,120.84945,24.18834",
+    "geom:latitude":24.18834,
+    "geom:longitude":120.84945,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B10",
+    "gn:admin4_code":"66000100017.0",
+    "gn:asciiname":"Xiabanzhuang",
+    "gn:country_code":"TW",
+    "gn:dem":474,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6726889,
+    "gn:latitude":24.18834,
+    "gn:longitude":120.84945,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiabanzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siabanjhuang",
+        "Hsia-pan-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u534a\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6726889
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"13ddb561525a747767f229afbc095360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276448757,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1276448757,
+    "wof:lastmodified":1537709906,
+    "wof:name":"Xiabanzhuang",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.84945,
+    24.18834,
+    120.84945,
+    24.18834
+],
+  "geometry": {"coordinates":[120.84945,24.18834],"type":"Point"}
+}

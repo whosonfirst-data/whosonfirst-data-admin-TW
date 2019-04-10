@@ -1,0 +1,76 @@
+{
+  "id": 1293613103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.23667,23.01472,120.23667,23.01472",
+    "geom:latitude":23.01472,
+    "geom:longitude":120.23667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R31",
+    "gn:admin4_code":"67000310030.0",
+    "gn:asciiname":"Wuwang",
+    "gn:country_code":"TW",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254136,
+    "gn:latitude":23.01472,
+    "gn:longitude":120.23667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wuwang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wu-wang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e94\u738b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254136
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c3e94b3e15f96cb8acd885048c7a85cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293613103,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1293613103,
+    "wof:lastmodified":1537709498,
+    "wof:name":"Wuwang",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.23667,
+    23.01472,
+    120.23667,
+    23.01472
+],
+  "geometry": {"coordinates":[120.23667,23.01472],"type":"Point"}
+}

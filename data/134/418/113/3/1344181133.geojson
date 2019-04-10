@@ -1,0 +1,79 @@
+{
+  "id": 1344181133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.175,23.19167,120.175,23.19167",
+    "geom:latitude":23.19167,
+    "geom:longitude":120.175,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R12",
+    "gn:admin4_code":"67000120009.0",
+    "gn:asciiname":"Sucuoliao",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668656,
+    "gn:latitude":23.19167,
+    "gn:longitude":120.175,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sucuoliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u8607\u539d\u5bee"
+    ],
+    "name:zho_x_preferred":[
+        "Su-ts\u2019o-liao"
+    ],
+    "name:zho_x_variant":[
+        "\u8607\u539d\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668656
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4304e2f26d42486f6df5b4a381249d1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344181133,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1344181133,
+    "wof:lastmodified":1537708642,
+    "wof:name":"Sucuoliao",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.175,
+    23.19167,
+    120.175,
+    23.19167
+],
+  "geometry": {"coordinates":[120.175,23.19167],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1276663447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.32111,23.72215,120.32111,23.72215",
+    "geom:latitude":23.72215,
+    "geom:longitude":120.32111,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P15",
+    "gn:admin4_code":"10009150008.0",
+    "gn:asciiname":"Longyan",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672400,
+    "gn:latitude":23.72215,
+    "gn:longitude":120.32111,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Longyan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lung-yen"
+    ],
+    "name:zho_x_preferred":[
+        "Lung-yen-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Lung-Yai-Ts\u2019un",
+        "\u9f8d\u5dd6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672400
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"80409bc475ae90175ed90152ff29edf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276663447,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1276663447,
+    "wof:lastmodified":1537708903,
+    "wof:name":"Longyan",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.32111,
+    23.72215,
+    120.32111,
+    23.72215
+],
+  "geometry": {"coordinates":[120.32111,23.72215],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226646367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4625,23.45556,120.4625,23.45556",
+    "geom:latitude":23.45556,
+    "geom:longitude":120.4625,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYI",
+    "gn:admin3_code":"I01",
+    "gn:admin4_code":"10020010055.0",
+    "gn:asciiname":"Hemu",
+    "gn:country_code":"TW",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6575179,
+    "gn:latitude":23.45556,
+    "gn:longitude":120.4625,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hemu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho-mu"
+    ],
+    "name:zho_x_preferred":[
+        "\u548c\u7766"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679603,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6575179
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f8ff1cfd5259006753844bbd692c177b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226646367,
+            "macroregion_id":1108808557,
+            "region_id":85679603
+        }
+    ],
+    "wof:id":1226646367,
+    "wof:lastmodified":1537709540,
+    "wof:name":"Hemu",
+    "wof:parent_id":85679603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4625,
+    23.45556,
+    120.4625,
+    23.45556
+],
+  "geometry": {"coordinates":[120.46250000000001,23.45556],"type":"Point"}
+}

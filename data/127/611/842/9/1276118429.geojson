@@ -1,0 +1,82 @@
+{
+  "id": 1276118429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.35089,23.14845,120.35089,23.14845",
+    "geom:latitude":23.14845,
+    "geom:longitude":120.35089,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R11",
+    "gn:admin4_code":"67000110001.0",
+    "gn:asciiname":"Xincuozi",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674943,
+    "gn:latitude":23.14845,
+    "gn:longitude":120.35089,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xincuozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liu-fen-li",
+        "Xincuozi",
+        "Sincuozih",
+        "Hsin-li"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u539d\u5b50"
+    ],
+    "name:zho_x_variant":[
+        "Hsin-ts\u2019o-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674943
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f11242498b7e14c8066849ba3f33b05e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276118429,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1276118429,
+    "wof:lastmodified":1537709083,
+    "wof:name":"Xincuozi",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.35089,
+    23.14845,
+    120.35089,
+    23.14845
+],
+  "geometry": {"coordinates":[120.35089000000001,23.14845],"type":"Point"}
+}

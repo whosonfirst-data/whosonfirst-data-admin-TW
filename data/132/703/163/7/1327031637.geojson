@@ -1,0 +1,76 @@
+{
+  "id": 1327031637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.62963,25.00334,121.62963,25.00334",
+    "geom:latitude":25.00334,
+    "geom:longitude":121.62963,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F09",
+    "gn:admin4_code":"65000180004.0",
+    "gn:asciiname":"Wangdan",
+    "gn:country_code":"TW",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666186,
+    "gn:latitude":25.00334,
+    "gn:longitude":121.62963,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wangdan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wang-tan"
+    ],
+    "name:zho_x_preferred":[
+        "\u65fa\u8ead"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666186
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c3095d2eaa8a352fc02814f36f29403b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327031637,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1327031637,
+    "wof:lastmodified":1537708484,
+    "wof:name":"Wangdan",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.62963,
+    25.00334,
+    121.62963,
+    25.00334
+],
+  "geometry": {"coordinates":[121.62963000000001,25.00334],"type":"Point"}
+}

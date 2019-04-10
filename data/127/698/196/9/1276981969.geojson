@@ -1,0 +1,99 @@
+{
+  "id": 1276981969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.61847,25.00264,121.61847,25.00264",
+    "geom:latitude":25.00264,
+    "geom:longitude":121.61847,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F09",
+    "gn:admin4_code":"65000180006.0",
+    "gn:asciiname":"Shenkeng",
+    "gn:country_code":"TW",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669528,
+    "gn:latitude":25.00264,
+    "gn:longitude":121.61847,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shenkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shenkeng District"
+    ],
+    "name:hak_x_preferred":[
+        "Chh\u1e73\u0302m-h\u00e2ng-kh\u00ee"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6df1\u5751\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc120\ucef9 \uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160enkengas"
+    ],
+    "name:nan_x_preferred":[
+        "Chhim-khe\u207f-khu"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00e2m Khanh"
+    ],
+    "name:zho_x_preferred":[
+        "\u6df1\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Shen-k\u2019eng",
+        "\u6df1\u5751\u5340"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669528,
+        "wk:page":"Shenkeng_District"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"850641a0f805fe4f5fc9d7f9efe999e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276981969,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1276981969,
+    "wof:lastmodified":1537708714,
+    "wof:name":"Shenkeng",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.61847,
+    25.00264,
+    121.61847,
+    25.00264
+],
+  "geometry": {"coordinates":[121.61847,25.00264],"type":"Point"}
+}

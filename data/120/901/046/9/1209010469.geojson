@@ -1,0 +1,70 @@
+{
+  "id": 1209010469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.95468,24.65265,120.95468,24.65265",
+    "geom:latitude":24.65265,
+    "geom:longitude":120.95468,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K13",
+    "gn:admin4_code":"10005160001.0",
+    "gn:asciiname":"Dudoujiao",
+    "gn:country_code":"TW",
+    "gn:dem":104,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646101,
+    "gn:latitude":24.65265,
+    "gn:longitude":120.95468,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dudoujiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tu-tou-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u809a\u515c\u89d2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646101
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a2602324c06edf18bd61ba22713721be",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209010469
+        }
+    ],
+    "wof:id":1209010469,
+    "wof:lastmodified":1537709721,
+    "wof:name":"Dudoujiao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.95468,
+    24.65265,
+    120.95468,
+    24.65265
+],
+  "geometry": {"coordinates":[120.95468,24.65265],"type":"Point"}
+}

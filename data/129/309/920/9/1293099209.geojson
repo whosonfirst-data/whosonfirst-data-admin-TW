@@ -1,0 +1,78 @@
+{
+  "id": 1293099209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.28759,23.28494,121.28759,23.28494",
+    "geom:latitude":23.28494,
+    "geom:longitude":121.28759,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U03",
+    "gn:admin4_code":"10015030007.0",
+    "gn:asciiname":"Jiuchuang",
+    "gn:country_code":"TW",
+    "gn:dem":180,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6747302,
+    "gn:latitude":23.28494,
+    "gn:longitude":121.28759,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiuchuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiouchuang",
+        "Jiuchuang",
+        "Chiu-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u820a\u838a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6747302
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"39ec3cfb487b67135f706ccd5272d4fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293099209,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1293099209,
+    "wof:lastmodified":1537709924,
+    "wof:name":"Jiuchuang",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.28759,
+    23.28494,
+    121.28759,
+    23.28494
+],
+  "geometry": {"coordinates":[121.28758999999999,23.28494],"type":"Point"}
+}

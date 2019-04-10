@@ -1,0 +1,76 @@
+{
+  "id": 1259885917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36056,23.44889,120.36056,23.44889",
+    "geom:latitude":23.44889,
+    "geom:longitude":120.36056,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q13",
+    "gn:admin4_code":"10010120004.0",
+    "gn:asciiname":"Erchonggou",
+    "gn:country_code":"TW",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676937,
+    "gn:latitude":23.44889,
+    "gn:longitude":120.36056,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Erchonggou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e8c\u91cd\u6e9d"
+    ],
+    "name:zho_x_variant":[
+        "Erh-ch\u2019ung-kou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676937
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1ae5e6791ba8a2277fb647497b76ebda",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259885917,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1259885917,
+    "wof:lastmodified":1537709250,
+    "wof:name":"Erchonggou",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36056,
+    23.44889,
+    120.36056,
+    23.44889
+],
+  "geometry": {"coordinates":[120.36056000000001,23.44889],"type":"Point"}
+}

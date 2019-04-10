@@ -1,0 +1,77 @@
+{
+  "id": 1226541723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.59432,24.93943,121.59432,24.93943",
+    "geom:latitude":24.93943,
+    "geom:longitude":121.59432,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F07",
+    "gn:admin4_code":"65000060024.0",
+    "gn:asciiname":"Zhonglin",
+    "gn:country_code":"TW",
+    "gn:dem":414,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6643711,
+    "gn:latitude":24.93943,
+    "gn:longitude":121.59432,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhonglin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhonglin",
+        "Chung-lin"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6643711
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b0f675dee05d8bb73aff5ce9bcdc02cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226541723,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1226541723,
+    "wof:lastmodified":1537709690,
+    "wof:name":"Zhonglin",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.59432,
+    24.93943,
+    121.59432,
+    24.93943
+],
+  "geometry": {"coordinates":[121.59432,24.93943],"type":"Point"}
+}

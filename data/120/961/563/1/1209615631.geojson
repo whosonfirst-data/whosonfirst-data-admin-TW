@@ -1,0 +1,70 @@
+{
+  "id": 1209615631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.41403,23.61744,120.41403,23.61744",
+    "geom:latitude":23.61744,
+    "geom:longitude":120.41403,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q04",
+    "gn:admin4_code":"10010040008.0",
+    "gn:asciiname":"Chenjingliao",
+    "gn:country_code":"TW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678984,
+    "gn:latitude":23.61744,
+    "gn:longitude":120.41403,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chenjingliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9673\u4e95\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019en-ching-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678984
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b33f3762299024a475377ea49756dd12",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209615631
+        }
+    ],
+    "wof:id":1209615631,
+    "wof:lastmodified":1537709403,
+    "wof:name":"Chenjingliao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.41403,
+    23.61744,
+    120.41403,
+    23.61744
+],
+  "geometry": {"coordinates":[120.41403,23.61744],"type":"Point"}
+}

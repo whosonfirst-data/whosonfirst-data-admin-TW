@@ -1,0 +1,80 @@
+{
+  "id": 1310305461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.38639,23.315,120.38639,23.315",
+    "geom:latitude":23.315,
+    "geom:longitude":120.38639,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R06",
+    "gn:admin4_code":"67000060004.0",
+    "gn:asciiname":"Xuxiucai",
+    "gn:country_code":"TW",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674533,
+    "gn:latitude":23.315,
+    "gn:longitude":120.38639,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xuxiucai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Syusioucai"
+    ],
+    "name:zho_x_preferred":[
+        "\u8a31\u79c0\u624d"
+    ],
+    "name:zho_x_variant":[
+        "Hsu-hsin-ts\u2019ai",
+        "Hs\u00fc-hsiu-ts\u2019ai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674533
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2e35b8bb3d90e717b4172e93bda0db5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310305461,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1310305461,
+    "wof:lastmodified":1537709047,
+    "wof:name":"Xuxiucai",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.38639,
+    23.315,
+    120.38639,
+    23.315
+],
+  "geometry": {"coordinates":[120.38639000000001,23.315],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209539815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.77186,24.64759,120.77186,24.64759",
+    "geom:latitude":24.64759,
+    "geom:longitude":120.77186,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K12",
+    "gn:admin4_code":"10005060016.0",
+    "gn:asciiname":"Keziku",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646175,
+    "gn:latitude":24.64759,
+    "gn:longitude":120.77186,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Keziku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kezihku"
+    ],
+    "name:zho_x_preferred":[
+        "\u86b5\u4ed4\u5800"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019o-tzu-k\u2019u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646175
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c8722f52fbe2aae27031e212b156af88",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209539815
+        }
+    ],
+    "wof:id":1209539815,
+    "wof:lastmodified":1537709726,
+    "wof:name":"Keziku",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.77186,
+    24.64759,
+    120.77186,
+    24.64759
+],
+  "geometry": {"coordinates":[120.77186,24.64759],"type":"Point"}
+}

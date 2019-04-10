@@ -1,0 +1,76 @@
+{
+  "id": 1343676049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.29754,24.48058,118.29754,24.48058",
+    "geom:latitude":24.48058,
+    "geom:longitude":118.29754,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W04",
+    "gn:admin4_code":"9020040001.0",
+    "gn:asciiname":"Wushajiao",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1933193,
+    "gn:latitude":24.48058,
+    "gn:longitude":118.29754,
+    "gn:modification_date":"2017-11-08",
+    "gn:name":"Wushajiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wu-sha-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u6c99\u89d2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1933193
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"39b570cead2599bf4795e4586903c43b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343676049,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1343676049,
+    "wof:lastmodified":1537709429,
+    "wof:name":"Wushajiao",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.29753999999998,
+    24.48058,
+    118.29753999999998,
+    24.48058
+],
+  "geometry": {"coordinates":[118.29753999999998,24.48058],"type":"Point"}
+}

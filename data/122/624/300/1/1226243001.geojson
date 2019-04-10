@@ -1,0 +1,73 @@
+{
+  "id": 1226243001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.49083,24.03806,120.49083,24.03806",
+    "geom:latitude":24.03806,
+    "geom:longitude":120.49083,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N12",
+    "gn:admin4_code":"10007070010.0",
+    "gn:asciiname":"Waiguangcuo",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1988972,
+    "gn:latitude":24.03806,
+    "gn:longitude":120.49083,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Waiguangcuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wai-kuang-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1988972
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"003b34b128d8ba418de2b1f1e4e0f099",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226243001,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1226243001,
+    "wof:lastmodified":1537709437,
+    "wof:name":"Waiguangcuo",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.49083,
+    24.03806,
+    120.49083,
+    24.03806
+],
+  "geometry": {"coordinates":[120.49083,24.03806],"type":"Point"}
+}

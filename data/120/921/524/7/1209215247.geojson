@@ -1,0 +1,72 @@
+{
+  "id": 1209215247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.18861,23.03472,121.18861,23.03472",
+    "geom:latitude":23.03472,
+    "geom:longitude":121.18861,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V10",
+    "gn:admin4_code":"10014060010.0",
+    "gn:asciiname":"Jiawen",
+    "gn:country_code":"TW",
+    "gn:dem":311,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602517,
+    "gn:latitude":23.03472,
+    "gn:longitude":121.18861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiawen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiawun",
+        "Jiawen",
+        "Chia-wen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5609\u6587"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602517
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b7179095f29ba079ea16175bb39c1eea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209215247
+        }
+    ],
+    "wof:id":1209215247,
+    "wof:lastmodified":1537709662,
+    "wof:name":"Jiawen",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.18861,
+    23.03472,
+    121.18861,
+    23.03472
+],
+  "geometry": {"coordinates":[121.18861,23.03472],"type":"Point"}
+}

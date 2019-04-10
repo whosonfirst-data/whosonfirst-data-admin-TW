@@ -1,0 +1,80 @@
+{
+  "id": 1209615527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.811,24.2825,120.811,24.2825",
+    "geom:latitude":24.2825,
+    "geom:longitude":120.811,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B10",
+    "gn:admin4_code":"66000100021.0",
+    "gn:asciiname":"Shangxiaolibu",
+    "gn:country_code":"TW",
+    "gn:dem":343,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675057,
+    "gn:latitude":24.2825,
+    "gn:longitude":120.811,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangxiaolibu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiao-li-pu",
+        "Hsing-lung",
+        "Hsing-lung-li",
+        "Shangxiaolibu",
+        "Shang-hsiao-li-pu",
+        "\u4e0a\u6821\u6817\u57d4",
+        "Hsiao-li-pu",
+        "Shangsiaolibu"
+    ],
+    "name:zho_x_preferred":[
+        "Hsiao-li-p\u2019u"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u6821\u6817\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675057
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"38ce42a8f8692c444a3bce529dbc00e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209615527
+        }
+    ],
+    "wof:id":1209615527,
+    "wof:lastmodified":1537709094,
+    "wof:name":"Shangxiaolibu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.811,
+    24.2825,
+    120.811,
+    24.2825
+],
+  "geometry": {"coordinates":[120.81100000000001,24.2825],"type":"Point"}
+}

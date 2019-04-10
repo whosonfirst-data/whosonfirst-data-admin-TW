@@ -1,0 +1,77 @@
+{
+  "id": 1209727249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.4803,25.21664,121.4803,25.21664",
+    "geom:latitude":25.21664,
+    "geom:longitude":121.4803,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F27",
+    "gn:admin4_code":"65000100005.0",
+    "gn:asciiname":"Anzinei",
+    "gn:country_code":"TW",
+    "gn:dem":146,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679226,
+    "gn:latitude":25.21664,
+    "gn:longitude":121.4803,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Anzinei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Anzihnei",
+        "An-tzu-nei"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5b50\u5185"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679226
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7dcedd27f15b250f429d3b711d5c1abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209727249,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1209727249,
+    "wof:lastmodified":1537709419,
+    "wof:name":"Anzinei",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.4803,
+    25.21664,
+    121.4803,
+    25.21664
+],
+  "geometry": {"coordinates":[121.4803,25.21664],"type":"Point"}
+}

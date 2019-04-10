@@ -1,0 +1,76 @@
+{
+  "id": 1293201287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.17111,23.08361,121.17111,23.08361",
+    "geom:latitude":23.08361,
+    "geom:longitude":121.17111,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V03",
+    "gn:admin4_code":"10014030001.0",
+    "gn:asciiname":"Yongsheng",
+    "gn:country_code":"TW",
+    "gn:dem":279,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602456,
+    "gn:latitude":23.08361,
+    "gn:longitude":121.17111,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yongsheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yung-sheng"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c38\u76db"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602456
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"65533cb181c2aa7a168e832a1eefd53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293201287,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1293201287,
+    "wof:lastmodified":1537709660,
+    "wof:name":"Yongsheng",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.17111,
+    23.08361,
+    121.17111,
+    23.08361
+],
+  "geometry": {"coordinates":[121.17111,23.08361],"type":"Point"}
+}

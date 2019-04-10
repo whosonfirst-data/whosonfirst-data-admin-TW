@@ -1,0 +1,76 @@
+{
+  "id": 1327030361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.90359,24.72488,120.90359,24.72488",
+    "geom:latitude":24.72488,
+    "geom:longitude":120.90359,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040022.0",
+    "gn:asciiname":"Benjihu",
+    "gn:country_code":"TW",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646249,
+    "gn:latitude":24.72488,
+    "gn:longitude":120.90359,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Benjihu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pen-chi-hu"
+    ],
+    "name:zho_x_preferred":[
+        "\u755a\u7b95\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646249
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bb65f3809fe79e9f2512d1eed3716cce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327030361,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1327030361,
+    "wof:lastmodified":1537709732,
+    "wof:name":"Benjihu",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.90359,
+    24.72488,
+    120.90359,
+    24.72488
+],
+  "geometry": {"coordinates":[120.90358999999999,24.72488],"type":"Point"}
+}

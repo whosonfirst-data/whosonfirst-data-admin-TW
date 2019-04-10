@@ -1,0 +1,82 @@
+{
+  "id": 1310702321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.74083,21.94944,120.74083,21.94944",
+    "geom:latitude":21.94944,
+    "geom:longitude":120.74083,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T04",
+    "gn:admin4_code":"10013040013.0",
+    "gn:asciiname":"Daguangli",
+    "gn:country_code":"TW",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668199,
+    "gn:latitude":21.94944,
+    "gn:longitude":120.74083,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Daguangli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-kuang",
+        "Ta-shu-fang",
+        "Ta-hsiu-fang",
+        "Daguangli",
+        "Ta-kuang-li"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5149\u91cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679549,
+        102191569,
+        85632403,
+        1108499273,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668199
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"12d30a118921f10b2097ab63344a7883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310702321,
+            "macrocounty_id":1108499273,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1310702321,
+    "wof:lastmodified":1537708615,
+    "wof:name":"Daguangli",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.74083,
+    21.94944,
+    120.74083,
+    21.94944
+],
+  "geometry": {"coordinates":[120.74083,21.94944],"type":"Point"}
+}

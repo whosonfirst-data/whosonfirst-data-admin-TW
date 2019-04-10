@@ -1,0 +1,73 @@
+{
+  "id": 1276657591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.53333,25.05,121.53333,25.05",
+    "geom:latitude":25.05,
+    "geom:longitude":121.53333,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A10",
+    "gn:admin4_code":"63000040036.0",
+    "gn:asciiname":"Shulanjie",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668881,
+    "gn:latitude":25.05,
+    "gn:longitude":121.53333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shulanjie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shu-lan-chieh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668881
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"12ac916c135d69f57e31adbc92a3d158",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276657591,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1276657591,
+    "wof:lastmodified":1537708661,
+    "wof:name":"Shulanjie",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.53333,
+    25.05,
+    121.53333,
+    25.05
+],
+  "geometry": {"coordinates":[121.53333000000001,25.05],"type":"Point"}
+}

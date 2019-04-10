@@ -1,0 +1,79 @@
+{
+  "id": 1310525481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.57967,25.04306,121.57967,25.04306",
+    "geom:latitude":25.04306,
+    "geom:longitude":121.57967,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A17",
+    "gn:admin4_code":"63000020018.0",
+    "gn:asciiname":"Songshan",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668681,
+    "gn:latitude":25.04306,
+    "gn:longitude":121.57967,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Songshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sung-shan-chuang",
+        "Sung-shan-chen",
+        "Songshan",
+        "Sung-shan"
+    ],
+    "name:zho_x_preferred":[
+        "\u677e\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668681
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ae5a9727246d27a959a37c9af13996b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310525481,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1310525481,
+    "wof:lastmodified":1537708644,
+    "wof:name":"Songshan",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.57967,
+    25.04306,
+    121.57967,
+    25.04306
+],
+  "geometry": {"coordinates":[121.57966999999999,25.04306],"type":"Point"}
+}

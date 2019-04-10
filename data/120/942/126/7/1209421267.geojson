@@ -1,0 +1,70 @@
+{
+  "id": 1209421267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.50091,23.1757,120.50091,23.1757",
+    "geom:latitude":23.1757,
+    "geom:longitude":120.50091,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R24",
+    "gn:admin4_code":"67000240002.0",
+    "gn:asciiname":"Dapi",
+    "gn:country_code":"TW",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750046,
+    "gn:latitude":23.1757,
+    "gn:longitude":120.50091,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dapi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u57e4"
+    ],
+    "name:zho_x_variant":[
+        "Ta-p\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750046
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"483a280f3426200fe4468c42629374ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209421267
+        }
+    ],
+    "wof:id":1209421267,
+    "wof:lastmodified":1537709962,
+    "wof:name":"Dapi",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.50091,
+    23.1757,
+    120.50091,
+    23.1757
+],
+  "geometry": {"coordinates":[120.50091,23.1757],"type":"Point"}
+}

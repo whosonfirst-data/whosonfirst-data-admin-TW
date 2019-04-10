@@ -1,0 +1,70 @@
+{
+  "id": 1209415673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.57535,23.46587,120.57535,23.46587",
+    "geom:latitude":23.46587,
+    "geom:longitude":120.57535,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q15",
+    "gn:admin4_code":"10010140012.0",
+    "gn:asciiname":"Dafangjiao",
+    "gn:country_code":"TW",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656137,
+    "gn:latitude":23.46587,
+    "gn:longitude":120.57535,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dafangjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-fang-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u678b\u8173"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6656137
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"110165f5a34db425552484a4e7812ea1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209415673
+        }
+    ],
+    "wof:id":1209415673,
+    "wof:lastmodified":1537709866,
+    "wof:name":"Dafangjiao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.57535,
+    23.46587,
+    120.57535,
+    23.46587
+],
+  "geometry": {"coordinates":[120.57535,23.46587],"type":"Point"}
+}

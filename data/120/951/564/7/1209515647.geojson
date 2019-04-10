@@ -1,0 +1,70 @@
+{
+  "id": 1209515647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.61186,23.95127,120.61186,23.95127",
+    "geom:latitude":23.95127,
+    "geom:longitude":120.61186,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N05",
+    "gn:admin4_code":"10007100029.0",
+    "gn:asciiname":"Dairenkeng",
+    "gn:country_code":"TW",
+    "gn:dem":124,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650547,
+    "gn:latitude":23.95127,
+    "gn:longitude":120.61186,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dairenkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f85\u4eba\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Tai-jen-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650547
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ff88d58fce2a91e7eff340b72daffd1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209515647
+        }
+    ],
+    "wof:id":1209515647,
+    "wof:lastmodified":1537709809,
+    "wof:name":"Dairenkeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.61186,
+    23.95127,
+    120.61186,
+    23.95127
+],
+  "geometry": {"coordinates":[120.61185999999999,23.95127],"type":"Point"}
+}

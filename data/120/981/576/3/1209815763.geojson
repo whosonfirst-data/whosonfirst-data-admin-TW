@@ -1,0 +1,76 @@
+{
+  "id": 1209815763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.70731,24.1109,120.70731,24.1109",
+    "geom:latitude":24.1109,
+    "geom:longitude":120.70731,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B28",
+    "gn:admin4_code":"66000280011.0",
+    "gn:asciiname":"Shijiujia",
+    "gn:country_code":"TW",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993349,
+    "gn:latitude":24.1109,
+    "gn:longitude":120.70731,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shijiujia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5341\u4e5d\u7532",
+        "Shijiujia",
+        "Shihjioujia",
+        "Shih-chiu-chia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993349
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6d1c82a34034154580c69c677482496f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209815763,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1209815763,
+    "wof:lastmodified":1537709479,
+    "wof:name":"Shijiujia",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.70731,
+    24.1109,
+    120.70731,
+    24.1109
+],
+  "geometry": {"coordinates":[120.70731000000001,24.1109],"type":"Point"}
+}

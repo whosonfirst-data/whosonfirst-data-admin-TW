@@ -1,0 +1,79 @@
+{
+  "id": 1293807707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.20972,25.01906,121.20972,25.01906",
+    "geom:latitude":25.01906,
+    "geom:longitude":121.20972,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H06",
+    "gn:admin4_code":"68000060005.0",
+    "gn:asciiname":"Xiaqingbu",
+    "gn:country_code":"TW",
+    "gn:dem":74,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646727,
+    "gn:latitude":25.01906,
+    "gn:longitude":121.20972,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaqingbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siacingbu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u9752\u57d4"
+    ],
+    "name:zho_x_variant":[
+        "Hsia-ch\u2019ing-pu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646727
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"807bf7f61249fe1b1e3b251db09dccf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293807707,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1293807707,
+    "wof:lastmodified":1537709742,
+    "wof:name":"Xiaqingbu",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.20972,
+    25.01906,
+    121.20972,
+    25.01906
+],
+  "geometry": {"coordinates":[121.20972,25.01906],"type":"Point"}
+}

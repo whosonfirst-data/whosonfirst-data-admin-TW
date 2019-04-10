@@ -1,0 +1,79 @@
+{
+  "id": 1193050895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.62886,23.36662,120.62886,23.36662",
+    "geom:latitude":23.36662,
+    "geom:longitude":120.62886,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q17",
+    "gn:admin4_code":"10010160011.0",
+    "gn:asciiname":"Houshudi",
+    "gn:country_code":"TW",
+    "gn:dem":663,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656217,
+    "gn:latitude":23.36662,
+    "gn:longitude":120.62886,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Houshudi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hou-shu-ti"
+    ],
+    "name:zho_x_preferred":[
+        "\u7334\u6a39\u5e95"
+    ],
+    "name:zho_x_variant":[
+        "Hou-ch\u2019u-ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6656217
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3edab7a9a7709238abdc7bb683f909ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193050895,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1193050895,
+    "wof:lastmodified":1537709873,
+    "wof:name":"Houshudi",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.62886,
+    23.36662,
+    120.62886,
+    23.36662
+],
+  "geometry": {"coordinates":[120.62886,23.36662],"type":"Point"}
+}

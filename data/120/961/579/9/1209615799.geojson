@@ -1,0 +1,72 @@
+{
+  "id": 1209615799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.36619,24.77228,121.36619,24.77228",
+    "geom:latitude":24.77228,
+    "geom:longitude":121.36619,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H13",
+    "gn:admin4_code":"68000130003.0",
+    "gn:asciiname":"Houyixing",
+    "gn:country_code":"TW",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653555,
+    "gn:latitude":24.77228,
+    "gn:longitude":121.36619,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Houyixing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Houyising",
+        "Houyixing",
+        "Hou-i-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f8c\u7fa9\u8208"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653555
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4ade5631534094fe88e097b0aa5f57a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209615799
+        }
+    ],
+    "wof:id":1209615799,
+    "wof:lastmodified":1537709838,
+    "wof:name":"Houyixing",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.36619,
+    24.77228,
+    121.36619,
+    24.77228
+],
+  "geometry": {"coordinates":[121.36619,24.77228],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1226670293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.61948,24.01943,120.61948,24.01943",
+    "geom:latitude":24.01943,
+    "geom:longitude":120.61948,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N14",
+    "gn:admin4_code":"10007090002.0",
+    "gn:asciiname":"Dabulun",
+    "gn:country_code":"TW",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6748128,
+    "gn:latitude":24.01943,
+    "gn:longitude":120.61948,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dabulun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-pu-lun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u57d4\u5d19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6748128
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"35ef86db502c8d65c3c7ada9e17ac29a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226670293,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1226670293,
+    "wof:lastmodified":1537709931,
+    "wof:name":"Dabulun",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.61948,
+    24.01943,
+    120.61948,
+    24.01943
+],
+  "geometry": {"coordinates":[120.61948,24.01943],"type":"Point"}
+}

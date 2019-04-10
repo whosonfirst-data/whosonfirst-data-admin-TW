@@ -1,0 +1,78 @@
+{
+  "id": 1193277353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.47298,25.18535,121.47298,25.18535",
+    "geom:latitude":25.18535,
+    "geom:longitude":121.47298,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F27",
+    "gn:admin4_code":"65000100012.0",
+    "gn:asciiname":"Hongshijiao",
+    "gn:country_code":"TW",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6749220,
+    "gn:latitude":25.18535,
+    "gn:longitude":121.47298,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hongshijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hongshihjiao",
+        "Hongshijiao",
+        "Hung-shih-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d05\u67ff\u8173"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6749220
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"67298e37077d24ce5d85a428a2d420e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193277353,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1193277353,
+    "wof:lastmodified":1537709949,
+    "wof:name":"Hongshijiao",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.47298,
+    25.18535,
+    121.47298,
+    25.18535
+],
+  "geometry": {"coordinates":[121.47298000000001,25.18535],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1360185335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.56611,23.5175,120.56611,23.5175",
+    "geom:latitude":23.5175,
+    "geom:longitude":120.56611,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q15",
+    "gn:admin4_code":"10010140017.0",
+    "gn:asciiname":"Kanzijiao",
+    "gn:country_code":"TW",
+    "gn:dem":176,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673851,
+    "gn:latitude":23.5175,
+    "gn:longitude":120.56611,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kanzijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanzihjiao",
+        "Kanzijiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5d01\u5b50\u8173"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019an-tzu-chiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673851
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1e29ed6f948dc25966da234298eec651",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360185335,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1360185335,
+    "wof:lastmodified":1537708999,
+    "wof:name":"Kanzijiao",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.56611,
+    23.5175,
+    120.56611,
+    23.5175
+],
+  "geometry": {"coordinates":[120.56610999999999,23.5175],"type":"Point"}
+}

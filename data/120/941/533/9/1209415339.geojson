@@ -1,0 +1,70 @@
+{
+  "id": 1209415339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47651,23.75038,120.47651,23.75038",
+    "geom:latitude":23.75038,
+    "geom:longitude":120.47651,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P04",
+    "gn:admin4_code":"10009040021.0",
+    "gn:asciiname":"Luchang",
+    "gn:country_code":"TW",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672592,
+    "gn:latitude":23.75038,
+    "gn:longitude":120.47651,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Luchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9e7f\u5834"
+    ],
+    "name:zho_x_variant":[
+        "Lu-ch\u2019ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672592
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"193ce6a2ba762327567a778a86ed08fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209415339
+        }
+    ],
+    "wof:id":1209415339,
+    "wof:lastmodified":1537708915,
+    "wof:name":"Luchang",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47651,
+    23.75038,
+    120.47651,
+    23.75038
+],
+  "geometry": {"coordinates":[120.47651,23.75038],"type":"Point"}
+}

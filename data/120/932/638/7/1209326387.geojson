@@ -1,0 +1,73 @@
+{
+  "id": 1209326387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.42497,25.05659,121.42497,25.05659",
+    "geom:latitude":25.05659,
+    "geom:longitude":121.42497,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F06",
+    "gn:admin4_code":"65000160006.0",
+    "gn:asciiname":"Sucuozhai",
+    "gn:country_code":"TW",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6748839,
+    "gn:latitude":25.05659,
+    "gn:longitude":121.42497,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sucuozhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sucuojhai"
+    ],
+    "name:zho_x_preferred":[
+        "\u8607\u539d\u5be8"
+    ],
+    "name:zho_x_variant":[
+        "Su-ts\u2019o-chai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6748839
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c9b070b5ce04770c31d5fd65b61045d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209326387
+        }
+    ],
+    "wof:id":1209326387,
+    "wof:lastmodified":1537709939,
+    "wof:name":"Sucuozhai",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.42497,
+    25.05659,
+    121.42497,
+    25.05659
+],
+  "geometry": {"coordinates":[121.42497,25.05659],"type":"Point"}
+}

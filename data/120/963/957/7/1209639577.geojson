@@ -1,0 +1,74 @@
+{
+  "id": 1209639577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.91372,24.60505,120.91372,24.60505",
+    "geom:latitude":24.60505,
+    "geom:longitude":120.91372,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K11",
+    "gn:admin4_code":"10005150006.0",
+    "gn:asciiname":"Jiuxiongkeng",
+    "gn:country_code":"TW",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646161,
+    "gn:latitude":24.60505,
+    "gn:longitude":120.91372,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiuxiongkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiousyongkeng",
+        "Jiuxiongkeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e5d\u828e\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Chiu-hsiung-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646161
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9a5f1f3a29f1ceb7c0471a81b38a7ee3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209639577
+        }
+    ],
+    "wof:id":1209639577,
+    "wof:lastmodified":1537709725,
+    "wof:name":"Jiuxiongkeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.91372,
+    24.60505,
+    120.91372,
+    24.60505
+],
+  "geometry": {"coordinates":[120.91372,24.60505],"type":"Point"}
+}

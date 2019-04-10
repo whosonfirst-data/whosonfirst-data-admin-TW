@@ -1,0 +1,77 @@
+{
+  "id": 1293206521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.87154,24.65851,120.87154,24.65851",
+    "geom:latitude":24.65851,
+    "geom:longitude":120.87154,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040018.0",
+    "gn:asciiname":"Zhongzhouzi",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646203,
+    "gn:latitude":24.65851,
+    "gn:longitude":120.87154,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongzhouzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhongjhouzih",
+        "Chung-chou-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u6d32\u4ed4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646203
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1c74f8b42915b4f5c5e26ac6d82e703f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293206521,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1293206521,
+    "wof:lastmodified":1537709728,
+    "wof:name":"Zhongzhouzi",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.87154,
+    24.65851,
+    120.87154,
+    24.65851
+],
+  "geometry": {"coordinates":[120.87154,24.65851],"type":"Point"}
+}

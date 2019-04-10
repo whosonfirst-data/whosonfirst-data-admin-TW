@@ -1,0 +1,76 @@
+{
+  "id": 1343685733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.17861,23.6725,120.17861,23.6725",
+    "geom:latitude":23.6725,
+    "geom:longitude":120.17861,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P18",
+    "gn:admin4_code":"10009180018.0",
+    "gn:asciiname":"Lincuoliao",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672829,
+    "gn:latitude":23.6725,
+    "gn:longitude":120.17861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lincuoliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6797\u539d\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Lin-ts\u2019o-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672829
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c3e61846203e7cadf3ca7f833c5c3bdf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343685733,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1343685733,
+    "wof:lastmodified":1537708932,
+    "wof:name":"Lincuoliao",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.17861,
+    23.6725,
+    120.17861,
+    23.6725
+],
+  "geometry": {"coordinates":[120.17861000000001,23.6725],"type":"Point"}
+}

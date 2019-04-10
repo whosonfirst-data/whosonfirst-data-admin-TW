@@ -1,0 +1,82 @@
+{
+  "id": 1260188771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.39806,24.04417,120.39806,24.04417",
+    "geom:latitude":24.04417,
+    "geom:longitude":120.39806,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N11",
+    "gn:admin4_code":"10007060017.0",
+    "gn:asciiname":"Fubao",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676413,
+    "gn:latitude":24.04417,
+    "gn:longitude":120.39806,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fubao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hai-feng",
+        "Fubao",
+        "Fu-pao"
+    ],
+    "name:zho_x_preferred":[
+        "Fu-pao-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Hai-feng-k\u2019u",
+        "\u798f\u5bf6"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676413
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4980b9de4432fdff42bad5100040bdab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260188771,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1260188771,
+    "wof:lastmodified":1537709212,
+    "wof:name":"Fubao",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.39806000000002,
+    24.04417,
+    120.39806000000002,
+    24.04417
+],
+  "geometry": {"coordinates":[120.39806000000002,24.04417],"type":"Point"}
+}

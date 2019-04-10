@@ -1,0 +1,80 @@
+{
+  "id": 1293689993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.44444,22.83861,120.44444,22.83861",
+    "geom:latitude":22.83861,
+    "geom:longitude":120.44444,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E30",
+    "gn:admin4_code":"64000300008.0",
+    "gn:asciiname":"Paozihu",
+    "gn:country_code":"TW",
+    "gn:dem":305,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6601019,
+    "gn:latitude":22.83861,
+    "gn:longitude":120.44444,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Paozihu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paozihhu",
+        "Paozihu"
+    ],
+    "name:zho_x_preferred":[
+        "\u530f\u5b50\u6e56"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019ao-tzu-hu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6601019
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2618e4c13a7087f1641537b497e8a58b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293689993,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1293689993,
+    "wof:lastmodified":1537709638,
+    "wof:name":"Paozihu",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.44444,
+    22.83861,
+    120.44444,
+    22.83861
+],
+  "geometry": {"coordinates":[120.44444,22.83861],"type":"Point"}
+}

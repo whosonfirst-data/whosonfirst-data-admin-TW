@@ -1,0 +1,77 @@
+{
+  "id": 1327140277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.59194,23.57667,120.59194,23.57667",
+    "geom:latitude":23.57667,
+    "geom:longitude":120.59194,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q16",
+    "gn:admin4_code":"10010150005.0",
+    "gn:asciiname":"Shuidiliao",
+    "gn:country_code":"TW",
+    "gn:dem":398,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668944,
+    "gn:latitude":23.57667,
+    "gn:longitude":120.59194,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuidiliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shueidiliao",
+        "Shui-ti-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u5e95\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668944
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"831ef9c67c350f2219541052dbc21b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327140277,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1327140277,
+    "wof:lastmodified":1537708667,
+    "wof:name":"Shuidiliao",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.59194,
+    23.57667,
+    120.59194,
+    23.57667
+],
+  "geometry": {"coordinates":[120.59193999999999,23.57667],"type":"Point"}
+}

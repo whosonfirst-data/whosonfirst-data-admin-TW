@@ -1,0 +1,79 @@
+{
+  "id": 1276369975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.63986,24.10884,120.63986,24.10884",
+    "geom:latitude":24.10884,
+    "geom:longitude":120.63986,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B23",
+    "gn:admin4_code":"66000230006.0",
+    "gn:asciiname":"Jiuzhangli",
+    "gn:country_code":"TW",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677840,
+    "gn:latitude":24.10884,
+    "gn:longitude":120.63986,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiuzhangli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiu-huai",
+        "Chiu-te-ts\u2019un",
+        "Chiu-huai-ts\u2019un",
+        "\u4e5d\u5f35\u7282",
+        "Jioujhangli",
+        "Jiuzhangli",
+        "Chiu-chang-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677840
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cc2c8f49932f2c1630ca530519db7b08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276369975,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1276369975,
+    "wof:lastmodified":1537709327,
+    "wof:name":"Jiuzhangli",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.63986,
+    24.10884,
+    120.63986,
+    24.10884
+],
+  "geometry": {"coordinates":[120.63986,24.10884],"type":"Point"}
+}

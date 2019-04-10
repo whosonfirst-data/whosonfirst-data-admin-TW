@@ -1,0 +1,80 @@
+{
+  "id": 1344070055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.71156,23.25548,120.71156,23.25548",
+    "geom:latitude":23.25548,
+    "geom:longitude":120.71156,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E38",
+    "gn:admin4_code":"64000380002.0",
+    "gn:asciiname":"Liangquanpingtai",
+    "gn:country_code":"TW",
+    "gn:dem":881,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656247,
+    "gn:latitude":23.25548,
+    "gn:longitude":120.71156,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liangquanpingtai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liangcyuanpingtai"
+    ],
+    "name:zho_x_preferred":[
+        "\u5169\u6b0a\u5e73\u81fa"
+    ],
+    "name:zho_x_variant":[
+        "Min-ch\u2019\u00fcan-p\u2019ing-t\u2019ai",
+        "Liang-ch\u2019\u00fcan-p\u2019ing-t\u2019ai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6656247
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1e0abe3b842a92854aede101f5feb4cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344070055,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1344070055,
+    "wof:lastmodified":1537709875,
+    "wof:name":"Liangquanpingtai",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.71156,
+    23.25548,
+    120.71156,
+    23.25548
+],
+  "geometry": {"coordinates":[120.71156000000001,23.25548],"type":"Point"}
+}

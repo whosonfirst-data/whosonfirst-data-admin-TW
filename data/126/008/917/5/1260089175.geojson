@@ -1,0 +1,78 @@
+{
+  "id": 1260089175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60993,22.8925,120.60993,22.8925",
+    "geom:latitude":22.8925,
+    "geom:longitude":120.60993,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E32",
+    "gn:admin4_code":"64000320003.0",
+    "gn:asciiname":"Zhuganxing",
+    "gn:country_code":"TW",
+    "gn:dem":133,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658189,
+    "gn:latitude":22.8925,
+    "gn:longitude":120.60993,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhuganxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhugansing",
+        "Zhuganxing",
+        "Chu-kan-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c6c\u809d\u5f62"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658189
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e1c4bdf05845d1d57e4690d5e20ccc9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260089175,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1260089175,
+    "wof:lastmodified":1537709894,
+    "wof:name":"Zhuganxing",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60993,
+    22.8925,
+    120.60993,
+    22.8925
+],
+  "geometry": {"coordinates":[120.60993000000001,22.8925],"type":"Point"}
+}

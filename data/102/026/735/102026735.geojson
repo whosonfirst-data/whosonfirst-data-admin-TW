@@ -1,0 +1,115 @@
+{
+  "id": 102026735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.000273,
+    "geom:area_square_m":3127992.922426,
+    "geom:bbox":"120.702602239,21.9594918686,120.721958381,21.9775466",
+    "geom:latitude":21.968519,
+    "geom:longitude":120.71228,
+    "gn:latitude":22.00417,
+    "gn:longitude":120.74389,
+    "gn:population":31288,
+    "iso:country":"TW",
+    "lbl:latitude":21.968519,
+    "lbl:longitude":120.71228,
+    "mps:latitude":21.968519,
+    "mps:longitude":120.71228,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u6046\u6625\u93ae"
+    ],
+    "name:eng_x_preferred":[
+        "Hengchun"
+    ],
+    "name:hak_x_preferred":[
+        "H\u00e8n-chh\u00fbn-ch\u1e73\u0301n"
+    ],
+    "name:hak_x_variant":[
+        "H\u00e8n-tsh\u00fbn-ts\u1e73\u0301n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6052\u6625\u93ae"
+    ],
+    "name:kor_x_preferred":[
+        "\ud5dd\ucd98 \uc9c4"
+    ],
+    "name:nan_x_preferred":[
+        "H\u00eang-chhun-t\u00ecn"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1eb1ng Xu\u00e2n"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "H\u00eang-chhun-t\u00ecn"
+    ],
+    "name:zho_x_preferred":[
+        "\u6046\u6625\u93ae"
+    ],
+    "name:zho_x_variant":[
+        "Heng-ch\u2019un"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Taiwan",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Hengchun",
+    "qs:loc_lc":"1676242",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[
+        "quattroshapes_pg"
+    ],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"geonames",
+    "wd:wordcount":1665,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676242,
+        "qs:id":133895,
+        "qs_pg:id":133895,
+        "wd:id":"Q710268"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"142a46e69fc8229465e0fffcc867197c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026735,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":102026735,
+    "wof:lastmodified":1527637811,
+    "wof:name":"Hengchun",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:population":31288,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.70260223940936,
+    21.95949186855786,
+    120.72195838136084,
+    21.97754660001264
+],
+  "geometry": {"coordinates":[[[120.71431008019538,21.95969162513501],[120.71242487537104,21.95949186855786],[120.7105341178126,21.95963900732295],[120.7087104546609,21.96012738684911],[120.70702395607968,21.96093824130033],[120.70553942435272,21.96204041439428],[120.70431390492455,21.96339155605257],[120.70339449482857,21.96493974900542],[120.70281653262153,21.9666255029782],[120.70260223940936,21.96838403996854],[120.70275986332986,21.97014778293186],[120.70328336060659,21.97184895234014],[120.70415262573455,21.97342217089148],[120.70533426226352,21.97480697627491],[120.70678286484612,21.9759501453734],[120.70844276348573,21.9768077404854],[120.71025016305653,21.97734679879423],[120.71213559585159,21.97754660001264],[120.71402659276414,21.97739946334953],[120.71585047021419,21.97691104306611],[120.71753712541282,21.97610011120338],[120.71902173223306,21.97499783582876],[120.72024723379737,21.97364658259208],[120.7211665357927,21.97209828574969],[120.7217443161194,21.97041245139279],[120.72195838136084,21.96865386976118],[120.72180051808628,21.96689012469598],[120.72127680651111,21.96518899604489],[120.72040738476569,21.96361585490513],[120.71922567314361,21.96223115180237],[120.71777708842468,21.96108809428226],[120.7161172978859,21.9602306030597],[120.71431008019538,21.95969162513501]]],"type":"Polygon"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1260292339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.81068,25.02056,121.81068,25.02056",
+    "geom:latitude":25.02056,
+    "geom:longitude":121.81068,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F23",
+    "gn:admin4_code":"65000250010.0",
+    "gn:asciiname":"Waiganjiao",
+    "gn:country_code":"TW",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647384,
+    "gn:latitude":25.02056,
+    "gn:longitude":121.81068,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Waiganjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wai-kan-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5916\u67d1\u811a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647384
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"01ac42201e1da34db520c17e137d789b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260292339,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1260292339,
+    "wof:lastmodified":1537709759,
+    "wof:name":"Waiganjiao",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.81068,
+    25.02056,
+    121.81068,
+    25.02056
+],
+  "geometry": {"coordinates":[121.81068,25.02056],"type":"Point"}
+}

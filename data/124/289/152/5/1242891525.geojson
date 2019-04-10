@@ -1,0 +1,76 @@
+{
+  "id": 1242891525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.2619,24.43984,118.2619,24.43984",
+    "geom:latitude":24.43984,
+    "geom:longitude":118.2619,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W05",
+    "gn:admin4_code":"9020050005.0",
+    "gn:asciiname":"Houtou",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675952,
+    "gn:latitude":24.43984,
+    "gn:longitude":118.2619,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Houtou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Shanghai",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hou-t\u2019ou"
+    ],
+    "name:zho_x_preferred":[
+        "\u540e\u982d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675952
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4710446b1850beaa2a3e45361335b676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242891525,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1242891525,
+    "wof:lastmodified":1537709178,
+    "wof:name":"Houtou",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.2619,
+    24.43984,
+    118.2619,
+    24.43984
+],
+  "geometry": {"coordinates":[118.2619,24.43984],"type":"Point"}
+}

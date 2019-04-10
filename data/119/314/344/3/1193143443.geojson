@@ -1,0 +1,80 @@
+{
+  "id": 1193143443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8844,23.97591,120.8844,23.97591",
+    "geom:latitude":23.97591,
+    "geom:longitude":120.8844,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M10",
+    "gn:admin4_code":"10008100010.0",
+    "gn:asciiname":"Xiazhongguakeng",
+    "gn:country_code":"TW",
+    "gn:dem":360,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677324,
+    "gn:latitude":23.97591,
+    "gn:longitude":120.8844,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiazhongguakeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siajhongguakeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u7a2e\u74dc\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Chung-kua-k\u2019eng",
+        "Hsia-chung-kua-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677324
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ad14dd8c10f9a6ad987785d54ff378f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193143443,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1193143443,
+    "wof:lastmodified":1537709284,
+    "wof:name":"Xiazhongguakeng",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8844,
+    23.97591,
+    120.8844,
+    23.97591
+],
+  "geometry": {"coordinates":[120.8844,23.97591],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209815771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.90667,24.95,121.90667,24.95",
+    "geom:latitude":24.95,
+    "geom:longitude":121.90667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G02",
+    "gn:admin4_code":"10002040002.0",
+    "gn:asciiname":"Fanshuliao",
+    "gn:country_code":"TW",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676780,
+    "gn:latitude":24.95,
+    "gn:longitude":121.90667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fanshuliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fan-shu-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u8543\u85af\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679567,
+        102191569,
+        85632403,
+        1108499379,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676780
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"979f168b6d1a106549ad84b2b88d6895",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209815771,
+            "macrocounty_id":1108499379,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1209815771,
+    "wof:lastmodified":1537709240,
+    "wof:name":"Fanshuliao",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.90667,
+    24.95,
+    121.90667,
+    24.95
+],
+  "geometry": {"coordinates":[121.90667000000001,24.95],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1209110155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.33873,24.42397,118.33873,24.42397",
+    "geom:latitude":24.42397,
+    "geom:longitude":118.33873,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W04",
+    "gn:admin4_code":"9020040005.0",
+    "gn:asciiname":"Xiguoshan",
+    "gn:country_code":"TW",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675247,
+    "gn:latitude":24.42397,
+    "gn:longitude":118.33873,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Xiguoshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-kuo-shan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6614\u679c\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675247
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4a93052c0abfd234cabedd941364bf1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209110155
+        }
+    ],
+    "wof:id":1209110155,
+    "wof:lastmodified":1537709113,
+    "wof:name":"Xiguoshan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.33873,
+    24.42397,
+    118.33873,
+    24.42397
+],
+  "geometry": {"coordinates":[118.33873,24.42397],"type":"Point"}
+}

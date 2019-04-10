@@ -1,0 +1,82 @@
+{
+  "id": 1260104379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60083,24.34583,120.60083,24.34583",
+    "geom:latitude":24.34583,
+    "geom:longitude":120.60083,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B22",
+    "gn:admin4_code":"66000220005.0",
+    "gn:asciiname":"Fuxingzhuang",
+    "gn:country_code":"TW",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676481,
+    "gn:latitude":24.34583,
+    "gn:longitude":120.60083,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fuxingzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fu-hsing",
+        "Fuxingzhuang",
+        "Fusingjhuang",
+        "Fu-hsing-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "Fu-hsing-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u798f\u8208\u838a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676481
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7d7e851b0bbf242a95b801424d2e487f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260104379,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1260104379,
+    "wof:lastmodified":1537709216,
+    "wof:name":"Fuxingzhuang",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60083,
+    24.34583,
+    120.60083,
+    24.34583
+],
+  "geometry": {"coordinates":[120.60083,24.34583],"type":"Point"}
+}

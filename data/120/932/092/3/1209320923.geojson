@@ -1,0 +1,72 @@
+{
+  "id": 1209320923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.50556,23.30306,120.50556,23.30306",
+    "geom:latitude":23.30306,
+    "geom:longitude":120.50556,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R03",
+    "gn:admin4_code":"67000030012.0",
+    "gn:asciiname":"Shiya",
+    "gn:country_code":"TW",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6574709,
+    "gn:latitude":23.30306,
+    "gn:longitude":120.50556,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shiya",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shih-yang",
+        "Shihya",
+        "Shih-ya"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u96c5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6574709
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"13144f67b844c752b89913898e7c9bba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209320923
+        }
+    ],
+    "wof:id":1209320923,
+    "wof:lastmodified":1537709536,
+    "wof:name":"Shiya",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.50556,
+    23.30306,
+    120.50556,
+    23.30306
+],
+  "geometry": {"coordinates":[120.50556,23.30306],"type":"Point"}
+}

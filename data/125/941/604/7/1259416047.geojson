@@ -1,0 +1,76 @@
+{
+  "id": 1259416047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86547,23.85548,120.86547,23.85548",
+    "geom:latitude":23.85548,
+    "geom:longitude":120.86547,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M11",
+    "gn:admin4_code":"10008110010.0",
+    "gn:asciiname":"Menpaitan",
+    "gn:country_code":"TW",
+    "gn:dem":559,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671978,
+    "gn:latitude":23.85548,
+    "gn:longitude":120.86547,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Menpaitan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9580\u724c\u6f6d"
+    ],
+    "name:zho_x_variant":[
+        "Men-p\u2019ai-t\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671978
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8d5ddbab7b78c93e22f88dbb98b125ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259416047,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1259416047,
+    "wof:lastmodified":1537708875,
+    "wof:name":"Menpaitan",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86547,
+    23.85548,
+    120.86547,
+    23.85548
+],
+  "geometry": {"coordinates":[120.86547,23.85548],"type":"Point"}
+}

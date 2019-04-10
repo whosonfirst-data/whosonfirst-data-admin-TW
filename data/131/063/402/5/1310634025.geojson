@@ -1,0 +1,77 @@
+{
+  "id": 1310634025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.61399,25.02909,121.61399,25.02909",
+    "geom:latitude":25.02909,
+    "geom:longitude":121.61399,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A13",
+    "gn:admin4_code":"63000090018.0",
+    "gn:asciiname":"Sifenzi",
+    "gn:country_code":"TW",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6729138,
+    "gn:latitude":25.02909,
+    "gn:longitude":121.61399,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sifenzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sihfenzih",
+        "Ssu-fen-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u56db\u5206\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6729138
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f7062a2a121fdb629b08674b738aabf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310634025,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1310634025,
+    "wof:lastmodified":1537709918,
+    "wof:name":"Sifenzi",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.61399,
+    25.02909,
+    121.61399,
+    25.02909
+],
+  "geometry": {"coordinates":[121.61399,25.02909],"type":"Point"}
+}

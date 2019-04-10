@@ -1,0 +1,83 @@
+{
+  "id": 1309912111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.43581,23.58787,120.43581,23.58787",
+    "geom:latitude":23.58787,
+    "geom:longitude":120.43581,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q06",
+    "gn:admin4_code":"10010060012.0",
+    "gn:asciiname":"Sandiexi",
+    "gn:country_code":"TW",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667492,
+    "gn:latitude":23.58787,
+    "gn:longitude":120.43581,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sandiexi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tieh-hsi",
+        "Sandiesi",
+        "San-tieh-hsi"
+    ],
+    "name:zho_x_preferred":[
+        "San-tieh-ch\u2019i"
+    ],
+    "name:zho_x_variant":[
+        "Tieh-ch\u2019i",
+        "Tieh-ch\u2019i-ts\u2019un",
+        "\u4e09\u758a\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667492
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"91ae25387d5166d5e80d204f82f3b0f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309912111,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1309912111,
+    "wof:lastmodified":1537708574,
+    "wof:name":"Sandiexi",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.43581,
+    23.58787,
+    120.43581,
+    23.58787
+],
+  "geometry": {"coordinates":[120.43581,23.58787],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1209616157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.70893,22.69166,120.70893,22.69166",
+    "geom:latitude":22.69166,
+    "geom:longitude":120.70893,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T27",
+    "gn:admin4_code":"10013270006.0",
+    "gn:asciiname":"Haochacun",
+    "gn:country_code":"TW",
+    "gn:dem":234,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676266,
+    "gn:latitude":22.69166,
+    "gn:longitude":120.70893,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Haochacun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hao-ch\u2019a-she",
+        "Haochacun"
+    ],
+    "name:zho_x_preferred":[
+        "\u597d\u8336\u6751"
+    ],
+    "name:zho_x_variant":[
+        "Min-su-ts\u2019un",
+        "Hao-ch\u2019a",
+        "Hao-ch\u2019a-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676266
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b18c7dc38cb43f8c47999871dda2219a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209616157
+        }
+    ],
+    "wof:id":1209616157,
+    "wof:lastmodified":1537709201,
+    "wof:name":"Haochacun",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.70893,
+    22.69166,
+    120.70893,
+    22.69166
+],
+  "geometry": {"coordinates":[120.70893,22.69166],"type":"Point"}
+}

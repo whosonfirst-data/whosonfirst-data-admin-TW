@@ -1,0 +1,77 @@
+{
+  "id": 1327437467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.59028,22.46944,120.59028,22.46944",
+    "geom:latitude":22.46944,
+    "geom:longitude":120.59028,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T15",
+    "gn:admin4_code":"10013150006.0",
+    "gn:asciiname":"Jihu",
+    "gn:country_code":"TW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678289,
+    "gn:latitude":22.46944,
+    "gn:longitude":120.59028,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jihu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fen-chi-hu",
+        "Chi-hu-ts\u2019un",
+        "\u7b95\u6e56",
+        "Jihu",
+        "Chi-hu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678289
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5404402080db6395d82a10ae35aec5a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327437467,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1327437467,
+    "wof:lastmodified":1537709358,
+    "wof:name":"Jihu",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.59028,
+    22.46944,
+    120.59028,
+    22.46944
+],
+  "geometry": {"coordinates":[120.59028000000001,22.46944],"type":"Point"}
+}

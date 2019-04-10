@@ -1,0 +1,76 @@
+{
+  "id": 1276657679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.24667,22.9725,120.24667,22.9725",
+    "geom:latitude":22.9725,
+    "geom:longitude":120.24667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R27",
+    "gn:admin4_code":"67000270004.0",
+    "gn:asciiname":"Kanjiao",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674029,
+    "gn:latitude":22.9725,
+    "gn:longitude":120.24667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kanjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5d01\u8173"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019an-chiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674029
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1b33578600a224984add1af11cdd90da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276657679,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1276657679,
+    "wof:lastmodified":1537709016,
+    "wof:name":"Kanjiao",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.24667,
+    22.9725,
+    120.24667,
+    22.9725
+],
+  "geometry": {"coordinates":[120.24666999999999,22.9725],"type":"Point"}
+}

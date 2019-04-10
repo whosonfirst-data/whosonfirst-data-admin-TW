@@ -1,0 +1,76 @@
+{
+  "id": 1226243101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.53023,22.74949,120.53023,22.74949",
+    "geom:latitude":22.74949,
+    "geom:longitude":120.53023,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T10",
+    "gn:admin4_code":"10013100008.0",
+    "gn:asciiname":"Gongcuo",
+    "gn:country_code":"TW",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658075,
+    "gn:latitude":22.74949,
+    "gn:longitude":120.53023,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Gongcuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9f94\u539d"
+    ],
+    "name:zho_x_variant":[
+        "Kung-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658075
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e666a17a5c0a03b131b5d0b3fd8960a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226243101,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1226243101,
+    "wof:lastmodified":1537709887,
+    "wof:name":"Gongcuo",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.53023,
+    22.74949,
+    120.53023,
+    22.74949
+],
+  "geometry": {"coordinates":[120.53023,22.74949],"type":"Point"}
+}

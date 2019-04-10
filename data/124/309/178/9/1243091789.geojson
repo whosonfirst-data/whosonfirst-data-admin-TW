@@ -1,0 +1,83 @@
+{
+  "id": 1243091789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.2063,25.0744,121.2063,25.0744",
+    "geom:latitude":25.0744,
+    "geom:longitude":121.2063,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H06",
+    "gn:admin4_code":"68000060016.0",
+    "gn:asciiname":"Zhentou",
+    "gn:country_code":"TW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677125,
+    "gn:latitude":25.0744,
+    "gn:longitude":121.2063,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhentou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhentou"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019uan-t\u2019ou-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u00fcn-t\u2019ou-ts\u2019un",
+        "Ch\u2019uan-t\u2019ou",
+        "\u5733\u982d",
+        "Ch\u00fcn-t\u2019ou",
+        "Chen-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677125
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"30166e168243258adf2966f3f2b00b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243091789,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1243091789,
+    "wof:lastmodified":1537709266,
+    "wof:name":"Zhentou",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.2063,
+    25.0744,
+    121.2063,
+    25.0744
+],
+  "geometry": {"coordinates":[121.2063,25.0744],"type":"Point"}
+}

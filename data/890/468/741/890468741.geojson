@@ -1,0 +1,126 @@
+{
+  "id": 890468741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.90638,24.48972,120.90638,24.48972",
+    "geom:latitude":24.48972,
+    "geom:longitude":120.90638,
+    "gn:country":"TW",
+    "gn:fcode":"ADM2",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u82d7\u6817\u5e02"
+    ],
+    "name:cze_x_preferred":[
+        "Miao-li"
+    ],
+    "name:dut_x_preferred":[
+        "Miaoli"
+    ],
+    "name:eng_x_preferred":[
+        "Miaoli"
+    ],
+    "name:fre_x_preferred":[
+        "Miaoli"
+    ],
+    "name:ger_x_preferred":[
+        "Miaoli"
+    ],
+    "name:hak_x_preferred":[
+        "M\u00e8u-li\u030dt-s\u1e73"
+    ],
+    "name:ita_x_preferred":[
+        "Miaoli"
+    ],
+    "name:jpn_x_preferred":[
+        "\u82d7\u6817\u5e02"
+    ],
+    "name:kor_x_preferred":[
+        "\uba00\uc624\ub9ac \ud604"
+    ],
+    "name:lit_x_preferred":[
+        "Miaoli"
+    ],
+    "name:nan_x_preferred":[
+        "Bi\u00e2u-le\u030dk-chh\u012b"
+    ],
+    "name:per_x_preferred":[
+        "\u0645\u06cc\u0627\u0626\u0648\u0644\u06cc"
+    ],
+    "name:pol_x_preferred":[
+        "Miaoli"
+    ],
+    "name:por_x_preferred":[
+        "Miao Li"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044f\u043e\u043b\u0438"
+    ],
+    "name:unk_x_variant":[
+        "Miao-li"
+    ],
+    "name:vie_x_preferred":[
+        "Mi\u00eau L\u1eadt"
+    ],
+    "name:zho_x_preferred":[
+        "\u82d7\u6817\u7e23"
+    ],
+    "qs:name":"Miaoli",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":362,
+    "wof:belongsto":[
+        85679575,
+        102191569,
+        85632403,
+        1108756879,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671968,
+        "qs:id":1030898,
+        "wd:id":"Q701651",
+        "wk:page":"Miaoli"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053724,
+    "wof:geomhash":"cb223e8d41604d89dd23884b8fe19286",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "county_id":890468741,
+            "macrocounty_id":1108756879,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":890468741,
+    "wof:lastmodified":1527792968,
+    "wof:name":"Miaoli",
+    "wof:parent_id":1108756879,
+    "wof:placetype":"county",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.90638,
+    24.48972,
+    120.90638,
+    24.48972
+],
+  "geometry": {"coordinates":[120.90638,24.48972],"type":"Point"}
+}

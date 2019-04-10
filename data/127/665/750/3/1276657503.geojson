@@ -1,0 +1,81 @@
+{
+  "id": 1276657503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.78278,22.1275,120.78278,22.1275",
+    "geom:latitude":22.1275,
+    "geom:longitude":120.78278,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T33",
+    "gn:admin4_code":"10013330001.0",
+    "gn:asciiname":"Qiezhilu",
+    "gn:country_code":"TW",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678586,
+    "gn:latitude":22.1275,
+    "gn:longitude":120.78278,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qiezhilu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciejhihlu",
+        "Qiezhilu"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019iuh-Chih-lu"
+    ],
+    "name:zho_x_variant":[
+        "\u8304\u829d\u8def",
+        "Ch\u2019ieh-chih-lu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678586
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"844eac05cd6397347c99b5f6b51aef1c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276657503,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1276657503,
+    "wof:lastmodified":1537709377,
+    "wof:name":"Qiezhilu",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.78278,
+    22.1275,
+    120.78278,
+    22.1275
+],
+  "geometry": {"coordinates":[120.78278,22.1275],"type":"Point"}
+}

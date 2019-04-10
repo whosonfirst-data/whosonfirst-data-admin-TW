@@ -1,0 +1,77 @@
+{
+  "id": 1209739521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.31293,23.02091,120.31293,23.02091",
+    "geom:latitude":23.02091,
+    "geom:longitude":120.31293,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R18",
+    "gn:admin4_code":"67000180016.0",
+    "gn:asciiname":"Dingshanjiao",
+    "gn:country_code":"TW",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669862,
+    "gn:latitude":23.02091,
+    "gn:longitude":120.31293,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingshanjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shan-chiao-li",
+        "Ting-shan-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u9802\u5c71\u8173"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669862
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f2ac70c80eb63b218308fd3a0889901c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209739521,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1209739521,
+    "wof:lastmodified":1537708741,
+    "wof:name":"Dingshanjiao",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.31293,
+    23.02091,
+    120.31293,
+    23.02091
+],
+  "geometry": {"coordinates":[120.31292999999999,23.02091],"type":"Point"}
+}

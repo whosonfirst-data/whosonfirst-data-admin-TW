@@ -1,0 +1,78 @@
+{
+  "id": 1310205373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.84944,22.12306,120.84944,22.12306",
+    "geom:latitude":22.12306,
+    "geom:longitude":120.84944,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T33",
+    "gn:admin4_code":"10013330005.0",
+    "gn:asciiname":"Zhongbuluo",
+    "gn:country_code":"TW",
+    "gn:dem":88,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6603137,
+    "gn:latitude":22.12306,
+    "gn:longitude":120.84944,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongbuluo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhongbuluo",
+        "Zhongbuluo",
+        "Chung-pu-lo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u90e8\u843d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6603137
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3d0786b766440d44a241ec23afe57e93",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310205373,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1310205373,
+    "wof:lastmodified":1537709673,
+    "wof:name":"Zhongbuluo",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.84944,
+    22.12306,
+    120.84944,
+    22.12306
+],
+  "geometry": {"coordinates":[120.84944,22.12306],"type":"Point"}
+}

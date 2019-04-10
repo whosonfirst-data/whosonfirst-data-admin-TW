@@ -1,0 +1,78 @@
+{
+  "id": 1310702069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.84694,24.58562,121.84694,24.58562",
+    "geom:latitude":24.58562,
+    "geom:longitude":121.84694,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G09",
+    "gn:admin4_code":"10002030016.0",
+    "gn:asciiname":"Gongguankeng",
+    "gn:country_code":"TW",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646981,
+    "gn:latitude":24.58562,
+    "gn:longitude":121.84694,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Gongguankeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u516c\u9928\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Kung-kuan-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679567,
+        102191569,
+        85632403,
+        1108499379,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646981
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3d4fa9f41bfdbf3744a96b1f72811efc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310702069,
+            "macrocounty_id":1108499379,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1310702069,
+    "wof:lastmodified":1537709749,
+    "wof:name":"Gongguankeng",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.84694,
+    24.58562,
+    121.84694,
+    24.58562
+],
+  "geometry": {"coordinates":[121.84694,24.58562],"type":"Point"}
+}

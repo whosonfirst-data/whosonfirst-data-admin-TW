@@ -1,0 +1,76 @@
+{
+  "id": 1260080805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6412,24.1259,120.6412,24.1259",
+    "geom:latitude":24.1259,
+    "geom:longitude":120.6412,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B07",
+    "gn:admin4_code":"66000070002.0",
+    "gn:asciiname":"Shuidui",
+    "gn:country_code":"TW",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993253,
+    "gn:latitude":24.1259,
+    "gn:longitude":120.6412,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuidui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6c34\u7893",
+        "Shueiduei",
+        "Shuidui",
+        "Shui-tui"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993253
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"937f3f77c6e4b1cee0dcfea822cb8d64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260080805,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1260080805,
+    "wof:lastmodified":1537709477,
+    "wof:name":"Shuidui",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6412,
+    24.1259,
+    120.6412,
+    24.1259
+],
+  "geometry": {"coordinates":[120.6412,24.1259],"type":"Point"}
+}

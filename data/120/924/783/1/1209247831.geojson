@@ -1,0 +1,75 @@
+{
+  "id": 1209247831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5272,23.85182,120.5272,23.85182",
+    "geom:latitude":23.85182,
+    "geom:longitude":120.5272,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N04",
+    "gn:admin4_code":"10007190005.0",
+    "gn:asciiname":"Zhenliaozu",
+    "gn:country_code":"TW",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677139,
+    "gn:latitude":23.85182,
+    "gn:longitude":120.5272,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhenliaozu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhenliaozu",
+        "Chen-liao-tsu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5733\u5bee\u7d44"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u00fcn-liao-ts\u2019o",
+        "Ch\u00fcn-liao-tsu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677139
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"453a550e60924bcce9c3f07077681376",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209247831
+        }
+    ],
+    "wof:id":1209247831,
+    "wof:lastmodified":1537709267,
+    "wof:name":"Zhenliaozu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5272,
+    23.85182,
+    120.5272,
+    23.85182
+],
+  "geometry": {"coordinates":[120.52719999999999,23.85182],"type":"Point"}
+}

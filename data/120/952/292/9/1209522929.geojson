@@ -1,0 +1,71 @@
+{
+  "id": 1209522929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.6287,25.2339,121.6287,25.2339",
+    "geom:latitude":25.2339,
+    "geom:longitude":121.6287,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F25",
+    "gn:admin4_code":"65000270011.0",
+    "gn:asciiname":"Xishi",
+    "gn:country_code":"TW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674692,
+    "gn:latitude":25.2339,
+    "gn:longitude":121.6287,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xishi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sishih",
+        "Hsi-shih"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u52e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674692
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5b09700f0a189620f11a21da5c17a215",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209522929
+        }
+    ],
+    "wof:id":1209522929,
+    "wof:lastmodified":1537709061,
+    "wof:name":"Xishi",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.6287,
+    25.2339,
+    121.6287,
+    25.2339
+],
+  "geometry": {"coordinates":[121.62869999999999,25.2339],"type":"Point"}
+}

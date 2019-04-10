@@ -1,0 +1,81 @@
+{
+  "id": 1310601507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.75194,24.41278,120.75194,24.41278",
+    "geom:latitude":24.41278,
+    "geom:longitude":120.75194,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K06",
+    "gn:admin4_code":"10005130002.0",
+    "gn:asciiname":"Dakengwei",
+    "gn:country_code":"TW",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667538,
+    "gn:latitude":24.41278,
+    "gn:longitude":120.75194,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dakengwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Te-hui",
+        "Dakengwei"
+    ],
+    "name:zho_x_preferred":[
+        "Ta-k\u2019eng"
+    ],
+    "name:zho_x_variant":[
+        "\u5927\u5751\u5c3e",
+        "Ta-k\u2019eng-wei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667538
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"879ec438333f8aed8e971a48e7553fdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310601507,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1310601507,
+    "wof:lastmodified":1537708577,
+    "wof:name":"Dakengwei",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.75194,
+    24.41278,
+    120.75194,
+    24.41278
+],
+  "geometry": {"coordinates":[120.75194,24.41278],"type":"Point"}
+}

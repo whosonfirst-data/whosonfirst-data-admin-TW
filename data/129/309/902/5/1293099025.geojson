@@ -1,0 +1,77 @@
+{
+  "id": 1293099025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.97393,24.6088,120.97393,24.6088",
+    "geom:latitude":24.6088,
+    "geom:longitude":120.97393,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K13",
+    "gn:admin4_code":"10005160006.0",
+    "gn:asciiname":"Shilang",
+    "gn:country_code":"TW",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646255,
+    "gn:latitude":24.6088,
+    "gn:longitude":120.97393,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shilang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihlang",
+        "Shih-lang"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u5d00"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646255
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bd77b98c0e0bae437dcfb94ff8624678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293099025,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1293099025,
+    "wof:lastmodified":1537709733,
+    "wof:name":"Shilang",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.97393,
+    24.6088,
+    120.97393,
+    24.6088
+],
+  "geometry": {"coordinates":[120.97393,24.6088],"type":"Point"}
+}

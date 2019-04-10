@@ -1,0 +1,79 @@
+{
+  "id": 1193016567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.7388,24.6491,121.7388,24.6491",
+    "geom:latitude":24.6491,
+    "geom:longitude":121.7388,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G08",
+    "gn:admin4_code":"10002080020.0",
+    "gn:asciiname":"Maobucheng",
+    "gn:country_code":"TW",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672131,
+    "gn:latitude":24.6491,
+    "gn:longitude":121.7388,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Maobucheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mao-pu-wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u8305\u57d4\u57ce"
+    ],
+    "name:zho_x_variant":[
+        "Mao-pu-ch\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672131
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"35e61e483b89d67c5adfad0e753f6b23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193016567,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1193016567,
+    "wof:lastmodified":1537708885,
+    "wof:name":"Maobucheng",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.7388,
+    24.6491,
+    121.7388,
+    24.6491
+],
+  "geometry": {"coordinates":[121.7388,24.6491],"type":"Point"}
+}

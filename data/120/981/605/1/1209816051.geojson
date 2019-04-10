@@ -1,0 +1,73 @@
+{
+  "id": 1209816051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1,24.66667,121.1,24.66667",
+    "geom:latitude":24.66667,
+    "geom:longitude":121.1,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J02",
+    "gn:admin4_code":"10004020002.0",
+    "gn:asciiname":"Wolang",
+    "gn:country_code":"TW",
+    "gn:dem":443,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665957,
+    "gn:latitude":24.66667,
+    "gn:longitude":121.1,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wolang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wo-lang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665957
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2d3e0fd8957df0f2daad669fe2a99eac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209816051,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1209816051,
+    "wof:lastmodified":1537708468,
+    "wof:name":"Wolang",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1,
+    24.66667,
+    121.1,
+    24.66667
+],
+  "geometry": {"coordinates":[121.09999999999999,24.66667],"type":"Point"}
+}

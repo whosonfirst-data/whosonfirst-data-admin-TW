@@ -1,0 +1,77 @@
+{
+  "id": 1276227885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.74919,23.83146,120.74919,23.83146",
+    "geom:latitude":23.83146,
+    "geom:longitude":120.74919,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M05",
+    "gn:admin4_code":"10008050004.0",
+    "gn:asciiname":"Tianliao",
+    "gn:country_code":"TW",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667414,
+    "gn:latitude":23.83146,
+    "gn:longitude":120.74919,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tianliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "T\u2019ien-liao-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u7530\u5bee",
+        "T\u2019ien-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667414
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"291e8323cff6df0d574dc3b59fc8ae55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276227885,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1276227885,
+    "wof:lastmodified":1537708568,
+    "wof:name":"Tianliao",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.74918999999998,
+    23.83146,
+    120.74918999999998,
+    23.83146
+],
+  "geometry": {"coordinates":[120.74918999999998,23.83146],"type":"Point"}
+}

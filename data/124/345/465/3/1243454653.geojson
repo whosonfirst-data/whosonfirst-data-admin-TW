@@ -1,0 +1,76 @@
+{
+  "id": 1243454653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.56764,23.49659,120.56764,23.49659",
+    "geom:latitude":23.49659,
+    "geom:longitude":120.56764,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q15",
+    "gn:admin4_code":"10010140015.0",
+    "gn:asciiname":"Pingding",
+    "gn:country_code":"TW",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656306,
+    "gn:latitude":23.49659,
+    "gn:longitude":120.56764,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pingding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ping-ting"
+    ],
+    "name:zho_x_preferred":[
+        "\u576a\u9802"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6656306
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c00f3a2d24742a234ad97c48cf3546ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243454653,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1243454653,
+    "wof:lastmodified":1537709877,
+    "wof:name":"Pingding",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.56764,
+    23.49659,
+    120.56764,
+    23.49659
+],
+  "geometry": {"coordinates":[120.56764,23.49659],"type":"Point"}
+}

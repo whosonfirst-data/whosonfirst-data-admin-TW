@@ -1,0 +1,72 @@
+{
+  "id": 1209106661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48028,23.45194,120.48028,23.45194",
+    "geom:latitude":23.45194,
+    "geom:longitude":120.48028,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q14",
+    "gn:admin4_code":"10010130008.0",
+    "gn:asciiname":"Sigongbu",
+    "gn:country_code":"TW",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6574646,
+    "gn:latitude":23.45194,
+    "gn:longitude":120.48028,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sigongbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sihgongbu",
+        "Sigongbu",
+        "Ssu-kung-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u53f8\u516c\u5ecd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6574646
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bceced6687cd147df235e565ea4387ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209106661
+        }
+    ],
+    "wof:id":1209106661,
+    "wof:lastmodified":1537709532,
+    "wof:name":"Sigongbu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48028,
+    23.45194,
+    120.48028,
+    23.45194
+],
+  "geometry": {"coordinates":[120.48027999999999,23.45194],"type":"Point"}
+}

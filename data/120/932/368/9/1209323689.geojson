@@ -1,0 +1,76 @@
+{
+  "id": 1209323689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.23556,22.83333,120.23556,22.83333",
+    "geom:latitude":22.83333,
+    "geom:longitude":120.23556,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E27",
+    "gn:admin4_code":"64000270005.0",
+    "gn:asciiname":"Wushulin",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665721,
+    "gn:latitude":22.83333,
+    "gn:longitude":120.23556,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wushulin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pao-ning",
+        "Wu-shu",
+        "Wushulin",
+        "Wu-shu-lin"
+    ],
+    "name:zho_x_preferred":[
+        "Wu-shu-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u70cf\u6a39\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665721
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"15850bd6a1a4b2bd49b38f26921712e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209323689
+        }
+    ],
+    "wof:id":1209323689,
+    "wof:lastmodified":1537708453,
+    "wof:name":"Wushulin",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.23556,
+    22.83333,
+    120.23556,
+    22.83333
+],
+  "geometry": {"coordinates":[120.23556000000001,22.83333],"type":"Point"}
+}

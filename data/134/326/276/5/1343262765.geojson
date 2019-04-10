@@ -1,0 +1,78 @@
+{
+  "id": 1343262765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.87083,23.64,120.87083,23.64",
+    "geom:latitude":23.64,
+    "geom:longitude":120.87083,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M12",
+    "gn:admin4_code":"10008120013.0",
+    "gn:asciiname":"Xinxiang",
+    "gn:country_code":"TW",
+    "gn:dem":870,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675035,
+    "gn:latitude":23.64,
+    "gn:longitude":120.87083,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinxiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinsiang",
+        "Xinxiang",
+        "Hsin-hsiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u9109"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675035
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7d87e9b44c04ce5ebaee86bd19612cf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343262765,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1343262765,
+    "wof:lastmodified":1537709092,
+    "wof:name":"Xinxiang",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.87083,
+    23.64,
+    120.87083,
+    23.64
+],
+  "geometry": {"coordinates":[120.87083,23.64],"type":"Point"}
+}

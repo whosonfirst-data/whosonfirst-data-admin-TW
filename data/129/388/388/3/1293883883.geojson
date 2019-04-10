@@ -1,0 +1,82 @@
+{
+  "id": 1293883883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.44869,23.89774,120.44869,23.89774",
+    "geom:latitude":23.89774,
+    "geom:longitude":120.44869,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N22",
+    "gn:admin4_code":"10007220006.0",
+    "gn:asciiname":"Shisanjia",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665246,
+    "gn:latitude":23.89774,
+    "gn:longitude":120.44869,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shisanjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yung-feng",
+        "Shisanjia",
+        "Shihsanjia",
+        "Shih-san-chia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5341\u4e09\u7532"
+    ],
+    "name:zho_x_variant":[
+        "Yung-feng-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665246
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8728e6662800c1523d7a8be3550349a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293883883,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1293883883,
+    "wof:lastmodified":1537708423,
+    "wof:name":"Shisanjia",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.44868999999998,
+    23.89774,
+    120.44868999999998,
+    23.89774
+],
+  "geometry": {"coordinates":[120.44868999999998,23.89774],"type":"Point"}
+}

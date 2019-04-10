@@ -1,0 +1,78 @@
+{
+  "id": 1276987007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3722,23.9819,120.3722,23.9819",
+    "geom:latitude":23.9819,
+    "geom:longitude":120.3722,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N23",
+    "gn:admin4_code":"10007230025.0",
+    "gn:asciiname":"Shihu",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6644609,
+    "gn:latitude":23.9819,
+    "gn:longitude":120.3722,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shihu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihhu",
+        "Shihu",
+        "Shih-hu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5341\u6238"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6644609
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"dd96ac7e1010e6837bbc32cad2db93d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276987007,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1276987007,
+    "wof:lastmodified":1537709699,
+    "wof:name":"Shihu",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3722,
+    23.9819,
+    120.3722,
+    23.9819
+],
+  "geometry": {"coordinates":[120.37220000000001,23.9819],"type":"Point"}
+}

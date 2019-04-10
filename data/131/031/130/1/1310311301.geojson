@@ -1,0 +1,76 @@
+{
+  "id": 1310311301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.89713,24.47029,120.89713,24.47029",
+    "geom:latitude":24.47029,
+    "geom:longitude":120.89713,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K17",
+    "gn:admin4_code":"10005170007.0",
+    "gn:asciiname":"Sheliaokeng",
+    "gn:country_code":"TW",
+    "gn:dem":417,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669584,
+    "gn:latitude":24.47029,
+    "gn:longitude":120.89713,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sheliaokeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u793e\u5bee\u5751"
+    ],
+    "name:zho_x_variant":[
+        "She-liao-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669584
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0f4aea6fe06b119778a307b53f96c08f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310311301,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1310311301,
+    "wof:lastmodified":1537708719,
+    "wof:name":"Sheliaokeng",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.89713,
+    24.47029,
+    120.89713,
+    24.47029
+],
+  "geometry": {"coordinates":[120.89713,24.47029],"type":"Point"}
+}

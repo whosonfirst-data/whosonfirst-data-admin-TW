@@ -1,0 +1,78 @@
+{
+  "id": 1327030435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.71667,23.74111,120.71667,23.74111",
+    "geom:latitude":23.74111,
+    "geom:longitude":120.71667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M04",
+    "gn:admin4_code":"10008040013.0",
+    "gn:asciiname":"Sunzilinwei",
+    "gn:country_code":"TW",
+    "gn:dem":524,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6580128,
+    "gn:latitude":23.74111,
+    "gn:longitude":120.71667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sunzilinwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sunzihlinwei",
+        "Sunzilinwei",
+        "Sun-tzu-lin-wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u7b4d\u5b50\u6797\u5c3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6580128
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6656e5afa29ac55eae5203ea5d1a35a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327030435,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1327030435,
+    "wof:lastmodified":1537709559,
+    "wof:name":"Sunzilinwei",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.71667,
+    23.74111,
+    120.71667,
+    23.74111
+],
+  "geometry": {"coordinates":[120.71666999999999,23.74111],"type":"Point"}
+}

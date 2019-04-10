@@ -1,0 +1,79 @@
+{
+  "id": 1193050911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.65194,22.26278,120.65194,22.26278",
+    "geom:latitude":22.26278,
+    "geom:longitude":120.65194,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T25",
+    "gn:admin4_code":"10013250001.0",
+    "gn:asciiname":"Fangshan",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676836,
+    "gn:latitude":22.26278,
+    "gn:longitude":120.65194,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Fangshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fang-shan-ts\u2019un",
+        "Fang-shan-chuang",
+        "\u678b\u5c71",
+        "Peng-k\u2019an-t\u2019ou",
+        "Fangshan",
+        "Fang-shan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676836,
+        "wk:page":"Fangshan,_Pingtung"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f56a14c5d09201e7f5340411585eda5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193050911,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1193050911,
+    "wof:lastmodified":1537709244,
+    "wof:name":"Fangshan",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.65194,
+    22.26278,
+    120.65194,
+    22.26278
+],
+  "geometry": {"coordinates":[120.65194,22.26278],"type":"Point"}
+}

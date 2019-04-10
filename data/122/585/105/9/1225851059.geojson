@@ -1,0 +1,79 @@
+{
+  "id": 1225851059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.3997,23.22179,120.3997,23.22179",
+    "geom:latitude":23.22179,
+    "geom:longitude":120.3997,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R09",
+    "gn:admin4_code":"67000090011.0",
+    "gn:asciiname":"Wangyegong",
+    "gn:country_code":"TW",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666170,
+    "gn:latitude":23.22179,
+    "gn:longitude":120.3997,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wangyegong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wang-yeh-kuan",
+        "Wang-yeh",
+        "Wangyegong",
+        "Wang-yeh-kung"
+    ],
+    "name:zho_x_preferred":[
+        "\u738b\u723a\u5bae"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666170
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0dcf69981e75a359aedfc69a5dc3b743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225851059,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1225851059,
+    "wof:lastmodified":1537708483,
+    "wof:name":"Wangyegong",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.3997,
+    23.22179,
+    120.3997,
+    23.22179
+],
+  "geometry": {"coordinates":[120.3997,23.22179],"type":"Point"}
+}

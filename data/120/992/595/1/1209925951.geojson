@@ -1,0 +1,80 @@
+{
+  "id": 1209925951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.7065,24.99647,121.7065,24.99647",
+    "geom:latitude":24.99647,
+    "geom:longitude":121.7065,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F08",
+    "gn:admin4_code":"65000190006.0",
+    "gn:asciiname":"Xishikeng",
+    "gn:country_code":"TW",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674687,
+    "gn:latitude":24.99647,
+    "gn:longitude":121.7065,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xishikeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sishihkeng",
+        "Xishikeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u52e2\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Hsi-shih-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674687
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"05486a70c8d3062d3695e60aff2ff6ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209925951,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1209925951,
+    "wof:lastmodified":1537709060,
+    "wof:name":"Xishikeng",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.7065,
+    24.99647,
+    121.7065,
+    24.99647
+],
+  "geometry": {"coordinates":[121.70650000000001,24.99647],"type":"Point"}
+}

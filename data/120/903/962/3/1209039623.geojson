@@ -1,0 +1,70 @@
+{
+  "id": 1209039623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7885,24.4708,120.7885,24.4708",
+    "geom:latitude":24.4708,
+    "geom:longitude":120.7885,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K05",
+    "gn:admin4_code":"10005100004.0",
+    "gn:asciiname":"Beicha",
+    "gn:country_code":"TW",
+    "gn:dem":188,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652070,
+    "gn:latitude":24.4708,
+    "gn:longitude":120.7885,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Beicha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5317\u53c9"
+    ],
+    "name:zho_x_variant":[
+        "Pei-ch\u2019a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652070
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a6c63d0237f927d429464743b6121878",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209039623
+        }
+    ],
+    "wof:id":1209039623,
+    "wof:lastmodified":1537709811,
+    "wof:name":"Beicha",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7885,
+    24.4708,
+    120.7885,
+    24.4708
+],
+  "geometry": {"coordinates":[120.7885,24.4708],"type":"Point"}
+}

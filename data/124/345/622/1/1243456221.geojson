@@ -1,0 +1,78 @@
+{
+  "id": 1243456221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.62425,25.22403,121.62425,25.22403",
+    "geom:latitude":25.22403,
+    "geom:longitude":121.62425,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F25",
+    "gn:admin4_code":"65000270009.0",
+    "gn:asciiname":"Xialiugu",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675749,
+    "gn:latitude":25.22403,
+    "gn:longitude":121.62425,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xialiugu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sialiougu",
+        "Xialiugu",
+        "Hsia-liu-ku"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u516d\u80a1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675749
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"876c1e62bd965cf635bb276ac053bcf1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243456221,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1243456221,
+    "wof:lastmodified":1537709158,
+    "wof:name":"Xialiugu",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.62425,
+    25.22403,
+    121.62425,
+    25.22403
+],
+  "geometry": {"coordinates":[121.62425,25.22403],"type":"Point"}
+}

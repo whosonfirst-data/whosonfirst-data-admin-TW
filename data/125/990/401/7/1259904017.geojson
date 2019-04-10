@@ -1,0 +1,81 @@
+{
+  "id": 1259904017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.51334,23.75185,120.51334,23.75185",
+    "geom:latitude":23.75185,
+    "geom:longitude":120.51334,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P09",
+    "gn:admin4_code":"10009090006.0",
+    "gn:asciiname":"Rongcun",
+    "gn:country_code":"TW",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674056,
+    "gn:latitude":23.75185,
+    "gn:longitude":120.51334,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Rongcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pu-wei",
+        "Rongcun"
+    ],
+    "name:zho_x_preferred":[
+        "Pu-wei-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u69ae\u6751",
+        "Jung-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674056
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"25ac86ed9f2b055df7d5034e25a85cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259904017,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1259904017,
+    "wof:lastmodified":1537709018,
+    "wof:name":"Rongcun",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.51334,
+    23.75185,
+    120.51334,
+    23.75185
+],
+  "geometry": {"coordinates":[120.51334,23.75185],"type":"Point"}
+}

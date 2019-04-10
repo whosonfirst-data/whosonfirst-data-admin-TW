@@ -1,0 +1,76 @@
+{
+  "id": 1343961133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.27194,22.61972,120.27194,22.61972",
+    "geom:latitude":22.61972,
+    "geom:longitude":120.27194,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E02",
+    "gn:admin4_code":"64000020034.0",
+    "gn:asciiname":"Shaochuantou",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669632,
+    "gn:latitude":22.61972,
+    "gn:longitude":120.27194,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shaochuantou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u54e8\u8239\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Shao-ch\u2019uan-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669632
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ca391420daea381c876cb0351834514f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343961133,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1343961133,
+    "wof:lastmodified":1537708722,
+    "wof:name":"Shaochuantou",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.27194,
+    22.61972,
+    120.27194,
+    22.61972
+],
+  "geometry": {"coordinates":[120.27194,22.61972],"type":"Point"}
+}

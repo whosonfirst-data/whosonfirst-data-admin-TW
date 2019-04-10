@@ -1,0 +1,78 @@
+{
+  "id": 1226659805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.45083,24.46,118.45083,24.46",
+    "geom:latitude":24.46,
+    "geom:longitude":118.45083,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W02",
+    "gn:admin4_code":"9020020003.0",
+    "gn:asciiname":"Dongxi",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666631,
+    "gn:latitude":24.46,
+    "gn:longitude":118.45083,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Dongxi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-ch\u2019i",
+        "Tung-hsi",
+        "Dongxi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666631
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5ec371bd03e478cb3e23b918f0d0acf6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226659805,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1226659805,
+    "wof:lastmodified":1537708511,
+    "wof:name":"Dongxi",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.45083,
+    24.46,
+    118.45083,
+    24.46
+],
+  "geometry": {"coordinates":[118.45083,24.46],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226753849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.19726,25.02374,121.19726,25.02374",
+    "geom:latitude":25.02374,
+    "geom:longitude":121.19726,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H03",
+    "gn:admin4_code":"68000020022.0",
+    "gn:asciiname":"Caoxilun",
+    "gn:country_code":"TW",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646707,
+    "gn:latitude":25.02374,
+    "gn:longitude":121.19726,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Caoxilun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Caosilun"
+    ],
+    "name:zho_x_preferred":[
+        "\u8349\u84c6\u5d19"
+    ],
+    "name:zho_x_variant":[
+        "Ts\u2019ao-hsi-lun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646707
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"46a3fd3f18b5db57bef35e8b2b55e061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226753849,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1226753849,
+    "wof:lastmodified":1537709741,
+    "wof:name":"Caoxilun",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.19726,
+    25.02374,
+    121.19726,
+    25.02374
+],
+  "geometry": {"coordinates":[121.19726,25.02374],"type":"Point"}
+}

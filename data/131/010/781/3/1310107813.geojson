@@ -1,0 +1,80 @@
+{
+  "id": 1310107813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.92234,25.02499,121.92234,25.02499",
+    "geom:latitude":25.02499,
+    "geom:longitude":121.92234,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F24",
+    "gn:admin4_code":"65000260003.0",
+    "gn:asciiname":"Xinshe",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674861,
+    "gn:latitude":25.02499,
+    "gn:longitude":121.92234,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinshe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinshe",
+        "Xinshe",
+        "Hsin-she"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679585,
+        102191569,
+        85632403,
+        1108756871,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674861
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3ada31ba438c2e3c4f3de1d6e062ecaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310107813,
+            "macrocounty_id":1108756871,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1310107813,
+    "wof:lastmodified":1537709076,
+    "wof:name":"Xinshe",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.92234,
+    25.02499,
+    121.92234,
+    25.02499
+],
+  "geometry": {"coordinates":[121.92234000000001,25.02499],"type":"Point"}
+}

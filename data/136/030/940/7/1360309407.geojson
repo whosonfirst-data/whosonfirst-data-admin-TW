@@ -1,0 +1,79 @@
+{
+  "id": 1360309407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.34382,23.9207,120.34382,23.9207",
+    "geom:latitude":23.9207,
+    "geom:longitude":120.34382,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N23",
+    "gn:admin4_code":"10007230005.0",
+    "gn:asciiname":"Houliao",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676021,
+    "gn:latitude":23.9207,
+    "gn:longitude":120.34382,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Houliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hou-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f8c\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Hou-liao-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676021
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"72c3e970e976199d153fa56a75f7b0b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360309407,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1360309407,
+    "wof:lastmodified":1537709183,
+    "wof:name":"Houliao",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.34382,
+    23.9207,
+    120.34382,
+    23.9207
+],
+  "geometry": {"coordinates":[120.34381999999999,23.9207],"type":"Point"}
+}

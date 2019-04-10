@@ -1,0 +1,85 @@
+{
+  "id": 1310029795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.49088,23.76679,120.49088,23.76679",
+    "geom:latitude":23.76679,
+    "geom:longitude":120.49088,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P09",
+    "gn:admin4_code":"10009090004.0",
+    "gn:asciiname":"Xinzhuang",
+    "gn:country_code":"TW",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675043,
+    "gn:latitude":23.76679,
+    "gn:longitude":120.49088,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-chuang-tzu",
+        "Xinzhuang",
+        "Chuang-tzu",
+        "Sinjhuang",
+        "Hsin-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "Hsing-t\u2019ung-li"
+    ],
+    "name:zho_x_variant":[
+        "Hsin-t\u2019ung-li",
+        "\u65b0\u838a",
+        "Hsing-t\u2019ung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675043
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"03b8565e4dffea7b1baa812e8028c507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310029795,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1310029795,
+    "wof:lastmodified":1537709092,
+    "wof:name":"Xinzhuang",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.49088,
+    23.76679,
+    120.49088,
+    23.76679
+],
+  "geometry": {"coordinates":[120.49088,23.76679],"type":"Point"}
+}

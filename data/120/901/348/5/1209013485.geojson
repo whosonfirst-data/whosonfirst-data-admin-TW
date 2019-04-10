@@ -1,0 +1,72 @@
+{
+  "id": 1209013485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.30444,22.75083,120.30444,22.75083",
+    "geom:latitude":22.75083,
+    "geom:longitude":120.30444,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E20",
+    "gn:admin4_code":"64000200015.0",
+    "gn:asciiname":"Shihe",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602161,
+    "gn:latitude":22.75083,
+    "gn:longitude":120.30444,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shihe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihhe",
+        "Shihe",
+        "Shih-ho"
+    ],
+    "name:zho_x_preferred":[
+        "\u4ed5\u548c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602161
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"abd4fcac60a982bfe0813a948a4ce873",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209013485
+        }
+    ],
+    "wof:id":1209013485,
+    "wof:lastmodified":1537709653,
+    "wof:name":"Shihe",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.30444,
+    22.75083,
+    120.30444,
+    22.75083
+],
+  "geometry": {"coordinates":[120.30444,22.75083],"type":"Point"}
+}

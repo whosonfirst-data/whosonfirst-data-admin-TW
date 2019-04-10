@@ -1,0 +1,77 @@
+{
+  "id": 1193022307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.83736,24.54473,120.83736,24.54473",
+    "geom:latitude":24.54473,
+    "geom:longitude":120.83736,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K04",
+    "gn:admin4_code":"10005090017.0",
+    "gn:asciiname":"Hebazhuang",
+    "gn:country_code":"TW",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646231,
+    "gn:latitude":24.54473,
+    "gn:longitude":120.83736,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hebazhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hebajhuang",
+        "Ho-pa-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cb3\u58e9\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646231
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b0ac1684cb9cbaaa1fe8e3b3ebe03b3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193022307,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1193022307,
+    "wof:lastmodified":1537709731,
+    "wof:name":"Hebazhuang",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.83736,
+    24.54473,
+    120.83736,
+    24.54473
+],
+  "geometry": {"coordinates":[120.83736,24.54473],"type":"Point"}
+}

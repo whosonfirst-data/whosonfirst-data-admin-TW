@@ -1,0 +1,84 @@
+{
+  "id": 1276341193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.06269,22.89371,121.06269,22.89371",
+    "geom:latitude":22.89371,
+    "geom:longitude":121.06269,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V12",
+    "gn:admin4_code":"10014130003.0",
+    "gn:asciiname":"Hongye",
+    "gn:country_code":"TW",
+    "gn:dem":338,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674338,
+    "gn:latitude":22.89371,
+    "gn:longitude":121.06269,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hongye",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hung-yeh-ku",
+        "Hung-yeh-ko",
+        "Hung-yeh-she",
+        "Hongye",
+        "Hung-yeh"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019ing-shui"
+    ],
+    "name:zho_x_variant":[
+        "Hung-yeh-ts\u2019un",
+        "\u7d05\u8449"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674338
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a39af730b67dc6890e0bc4d56e586d99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276341193,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1276341193,
+    "wof:lastmodified":1537709035,
+    "wof:name":"Hongye",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.06269,
+    22.89371,
+    121.06269,
+    22.89371
+],
+  "geometry": {"coordinates":[121.06269,22.89371],"type":"Point"}
+}

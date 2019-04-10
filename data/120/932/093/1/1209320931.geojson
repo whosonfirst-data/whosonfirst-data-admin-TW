@@ -1,0 +1,74 @@
+{
+  "id": 1209320931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.1444,23.28489,120.1444,23.28489",
+    "geom:latitude":23.28489,
+    "geom:longitude":120.1444,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R16",
+    "gn:admin4_code":"67000170004.0",
+    "gn:asciiname":"Nankunshen",
+    "gn:country_code":"TW",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671687,
+    "gn:latitude":23.28489,
+    "gn:longitude":120.1444,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nankunshen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan-kun-wu-miao",
+        "Nankunshen"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u9be4\u9bd3"
+    ],
+    "name:zho_x_variant":[
+        "Nan-k\u2019un-shen"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671687
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"492fa8e6cc6d3c3c40fc8f099711f9ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209320931
+        }
+    ],
+    "wof:id":1209320931,
+    "wof:lastmodified":1537708859,
+    "wof:name":"Nankunshen",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.1444,
+    23.28489,
+    120.1444,
+    23.28489
+],
+  "geometry": {"coordinates":[120.1444,23.28489],"type":"Point"}
+}

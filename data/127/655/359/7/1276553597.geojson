@@ -1,0 +1,77 @@
+{
+  "id": 1276553597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.69667,24.3825,120.69667,24.3825",
+    "geom:latitude":24.3825,
+    "geom:longitude":120.69667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K02",
+    "gn:admin4_code":"10005020022.0",
+    "gn:asciiname":"Shibajia",
+    "gn:country_code":"TW",
+    "gn:dem":105,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6587740,
+    "gn:latitude":24.3825,
+    "gn:longitude":120.69667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shibajia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihbajia",
+        "Shih-pa-chia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5341\u516b\u7532"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6587740
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"093931df0efd83944e785e61e6ccf5f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276553597,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1276553597,
+    "wof:lastmodified":1537709595,
+    "wof:name":"Shibajia",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.69667,
+    24.3825,
+    120.69667,
+    24.3825
+],
+  "geometry": {"coordinates":[120.69667,24.3825],"type":"Point"}
+}

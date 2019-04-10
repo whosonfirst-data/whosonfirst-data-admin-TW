@@ -1,0 +1,80 @@
+{
+  "id": 1343393951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.65164,23.48435,120.65164,23.48435",
+    "geom:latitude":23.48435,
+    "geom:longitude":120.65164,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q15",
+    "gn:admin4_code":"10010140024.0",
+    "gn:asciiname":"Qingshan",
+    "gn:country_code":"TW",
+    "gn:dem":700,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656187,
+    "gn:latitude":23.48435,
+    "gn:longitude":120.65164,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qingshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cingshan",
+        "Qingshan"
+    ],
+    "name:zho_x_preferred":[
+        "\u9752\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ing-shan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6656187
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e0ef803a7acdbdf037e66d1c1834e794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343393951,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1343393951,
+    "wof:lastmodified":1537709870,
+    "wof:name":"Qingshan",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.65164,
+    23.48435,
+    120.65164,
+    23.48435
+],
+  "geometry": {"coordinates":[120.65164,23.48435],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1226448457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.66774,25.12232,121.66774,25.12232",
+    "geom:latitude":25.12232,
+    "geom:longitude":121.66774,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"KEE",
+    "gn:admin3_code":"C02",
+    "gn:admin4_code":"10017020016.0",
+    "gn:asciiname":"Xishixiandong",
+    "gn:country_code":"TW",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674690,
+    "gn:latitude":25.12232,
+    "gn:longitude":121.66774,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xishixiandong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sishihsiandong",
+        "Xishixiandong",
+        "Hsi-shih-hsien-tung"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u52e2\u4ed9\u6d1e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679571,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674690
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"54348232162bd5c71cab00b4752b9c6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226448457,
+            "macroregion_id":1108808557,
+            "region_id":85679571
+        }
+    ],
+    "wof:id":1226448457,
+    "wof:lastmodified":1537709061,
+    "wof:name":"Xishixiandong",
+    "wof:parent_id":85679571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.66774,
+    25.12232,
+    121.66774,
+    25.12232
+],
+  "geometry": {"coordinates":[121.66773999999999,25.12232],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293099033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.693,23.85092,120.693,23.85092",
+    "geom:latitude":23.85092,
+    "geom:longitude":120.693,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M06",
+    "gn:admin4_code":"10008060003.0",
+    "gn:asciiname":"Shuiwei",
+    "gn:country_code":"TW",
+    "gn:dem":158,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650225,
+    "gn:latitude":23.85092,
+    "gn:longitude":120.693,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuiwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shueiwei",
+        "Shuiwei",
+        "Shui-wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u5c3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650225
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e53d891e80ff0400a79d28aeb4832674",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293099033,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1293099033,
+    "wof:lastmodified":1537709798,
+    "wof:name":"Shuiwei",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.693,
+    23.85092,
+    120.693,
+    23.85092
+],
+  "geometry": {"coordinates":[120.693,23.85092],"type":"Point"}
+}

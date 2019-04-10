@@ -1,0 +1,82 @@
+{
+  "id": 1310311241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6325,24.27306,120.6325,24.27306",
+    "geom:latitude":24.27306,
+    "geom:longitude":120.6325,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B12",
+    "gn:admin4_code":"66000120029.0",
+    "gn:asciiname":"Dongshan",
+    "gn:country_code":"TW",
+    "gn:dem":198,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669401,
+    "gn:latitude":24.27306,
+    "gn:longitude":120.6325,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-shan-li",
+        "Dongshan",
+        "Tung-shan"
+    ],
+    "name:zho_x_preferred":[
+        "Shih-k\u2019uai-liao"
+    ],
+    "name:zho_x_variant":[
+        "Ta-t\u2019u-liao",
+        "\u6771\u5c71"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669401
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7eca5efe041631c02a34195312787c92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310311241,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1310311241,
+    "wof:lastmodified":1537708703,
+    "wof:name":"Dongshan",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6325,
+    24.27306,
+    120.6325,
+    24.27306
+],
+  "geometry": {"coordinates":[120.63249999999999,24.27306],"type":"Point"}
+}

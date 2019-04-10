@@ -1,0 +1,80 @@
+{
+  "id": 1193276647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.46917,24.19806,121.46917,24.19806",
+    "geom:latitude":24.19806,
+    "geom:longitude":121.46917,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U11",
+    "gn:admin4_code":"10015110002.0",
+    "gn:asciiname":"Xuejiachang",
+    "gn:country_code":"TW",
+    "gn:dem":805,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675341,
+    "gn:latitude":24.19806,
+    "gn:longitude":121.46917,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xuejiachang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Syuejiachang"
+    ],
+    "name:zho_x_preferred":[
+        "\u859b\u5bb6\u5834"
+    ],
+    "name:zho_x_variant":[
+        "Hsieh-chia-ch\u2019ang",
+        "Hs\u00fceh-chia-ch\u2019ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675341
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d401c1d5b75c3a24a96512e48b8520b4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193276647,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1193276647,
+    "wof:lastmodified":1537709121,
+    "wof:name":"Xuejiachang",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.46917,
+    24.19806,
+    121.46917,
+    24.19806
+],
+  "geometry": {"coordinates":[121.46917000000001,24.19806],"type":"Point"}
+}

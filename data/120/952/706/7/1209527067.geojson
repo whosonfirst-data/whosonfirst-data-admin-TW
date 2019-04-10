@@ -1,0 +1,74 @@
+{
+  "id": 1209527067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.5375,25.26199,121.5375,25.26199",
+    "geom:latitude":25.26199,
+    "geom:longitude":121.5375,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F30",
+    "gn:admin4_code":"65000210007.0",
+    "gn:asciiname":"Qiaotou",
+    "gn:country_code":"TW",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1979777,
+    "gn:latitude":25.26199,
+    "gn:longitude":121.5375,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qiaotou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciaotou",
+        "Qiaotou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a4b\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019iao-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1979777
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4c62d789c0e8c4494b7e773b891b1e53",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209527067
+        }
+    ],
+    "wof:id":1209527067,
+    "wof:lastmodified":1537709429,
+    "wof:name":"Qiaotou",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5375,
+    25.26199,
+    121.5375,
+    25.26199
+],
+  "geometry": {"coordinates":[121.53749999999999,25.26199],"type":"Point"}
+}

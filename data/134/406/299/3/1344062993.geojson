@@ -1,0 +1,80 @@
+{
+  "id": 1344062993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.63062,22.79238,120.63062,22.79238",
+    "geom:latitude":22.79238,
+    "geom:longitude":120.63062,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T26",
+    "gn:admin4_code":"10013260008.0",
+    "gn:asciiname":"Dashuichong",
+    "gn:country_code":"TW",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658203,
+    "gn:latitude":22.79238,
+    "gn:longitude":120.63062,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dashuichong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dashueichong",
+        "Dashuichong"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6c34\u6c96"
+    ],
+    "name:zho_x_variant":[
+        "Ta-shui-ch\u2019ung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658203
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b682338a10b1004eeb8e117b07492a81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344062993,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1344062993,
+    "wof:lastmodified":1537709895,
+    "wof:name":"Dashuichong",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.63062,
+    22.79238,
+    120.63062,
+    22.79238
+],
+  "geometry": {"coordinates":[120.63061999999999,22.79238],"type":"Point"}
+}

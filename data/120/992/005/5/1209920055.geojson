@@ -1,0 +1,80 @@
+{
+  "id": 1209920055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.80861,21.95611,120.80861,21.95611",
+    "geom:latitude":21.95611,
+    "geom:longitude":120.80861,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T04",
+    "gn:admin4_code":"10013040016.0",
+    "gn:asciiname":"Shuiyuandi",
+    "gn:country_code":"TW",
+    "gn:dem":119,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668889,
+    "gn:latitude":21.95611,
+    "gn:longitude":120.80861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuiyuandi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shueiyuandi",
+        "Shuiyuandi"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u6e90\u5730"
+    ],
+    "name:zho_x_variant":[
+        "Shui-y\u00fcan-ti"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668889
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"191f4cb13361084ef8b3989ae352f2f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209920055,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1209920055,
+    "wof:lastmodified":1537708662,
+    "wof:name":"Shuiyuandi",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.80861000000002,
+    21.95611,
+    120.80861000000002,
+    21.95611
+],
+  "geometry": {"coordinates":[120.80861000000002,21.95611],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1344057411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7375,23.73861,120.7375,23.73861",
+    "geom:latitude":23.73861,
+    "geom:longitude":120.7375,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M07",
+    "gn:admin4_code":"10008070007.0",
+    "gn:asciiname":"Qitou",
+    "gn:country_code":"TW",
+    "gn:dem":464,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677920,
+    "gn:latitude":23.73861,
+    "gn:longitude":120.7375,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qitou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Citou",
+        "Qitou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5d0e\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019i-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677920
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ba7bad29dfbb09b6e05d705d61cdc639",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344057411,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1344057411,
+    "wof:lastmodified":1537709334,
+    "wof:name":"Qitou",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7375,
+    23.73861,
+    120.7375,
+    23.73861
+],
+  "geometry": {"coordinates":[120.7375,23.73861],"type":"Point"}
+}

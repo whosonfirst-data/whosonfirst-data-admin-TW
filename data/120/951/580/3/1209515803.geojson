@@ -1,0 +1,73 @@
+{
+  "id": 1209515803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.61602,24.15454,120.61602,24.15454",
+    "geom:latitude":24.15454,
+    "geom:longitude":120.61602,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B07",
+    "gn:admin4_code":"66000070023.0",
+    "gn:asciiname":"Zhigaozhuang",
+    "gn:country_code":"TW",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665988,
+    "gn:latitude":24.15454,
+    "gn:longitude":120.61602,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhigaozhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wen-shan",
+        "Chih-kao",
+        "Wen-shan-li",
+        "\u77e5\u9ad8\u838a",
+        "Jhihgaojhuang",
+        "Zhigaozhuang",
+        "Chih-kao-chuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665988
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7bf3ff869c706465e066eaf19d352789",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209515803
+        }
+    ],
+    "wof:id":1209515803,
+    "wof:lastmodified":1537708471,
+    "wof:name":"Zhigaozhuang",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.61602,
+    24.15454,
+    120.61602,
+    24.15454
+],
+  "geometry": {"coordinates":[120.61602000000001,24.15454],"type":"Point"}
+}

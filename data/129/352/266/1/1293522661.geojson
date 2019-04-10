@@ -1,0 +1,78 @@
+{
+  "id": 1293522661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47607,23.23655,120.47607,23.23655",
+    "geom:latitude":23.23655,
+    "geom:longitude":120.47607,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R06",
+    "gn:admin4_code":"67000060013.0",
+    "gn:asciiname":"Fenshuilun",
+    "gn:country_code":"TW",
+    "gn:dem":219,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750035,
+    "gn:latitude":23.23655,
+    "gn:longitude":120.47607,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fenshuilun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fenshueilun",
+        "Fenshuilun",
+        "Fen-shui-lun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5206\u6c34\u5d19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750035
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c898b9c7e6a2d1bb84cf1d9014feaf5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293522661,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1293522661,
+    "wof:lastmodified":1537709962,
+    "wof:name":"Fenshuilun",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47607,
+    23.23655,
+    120.47607,
+    23.23655
+],
+  "geometry": {"coordinates":[120.47607000000001,23.23655],"type":"Point"}
+}

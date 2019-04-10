@@ -1,0 +1,70 @@
+{
+  "id": 1209112031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.61,23.52639,120.61,23.52639",
+    "geom:latitude":23.52639,
+    "geom:longitude":120.61,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q15",
+    "gn:admin4_code":"10010140022.0",
+    "gn:asciiname":"Fujianping",
+    "gn:country_code":"TW",
+    "gn:dem":373,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676512,
+    "gn:latitude":23.52639,
+    "gn:longitude":120.61,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fujianping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u798f\u5efa\u576a"
+    ],
+    "name:zho_x_variant":[
+        "Fu-chien-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676512
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"990b8501e7b5902b1f635f1b22c847de",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209112031
+        }
+    ],
+    "wof:id":1209112031,
+    "wof:lastmodified":1537709219,
+    "wof:name":"Fujianping",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.61,
+    23.52639,
+    120.61,
+    23.52639
+],
+  "geometry": {"coordinates":[120.61,23.52639],"type":"Point"}
+}

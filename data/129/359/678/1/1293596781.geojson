@@ -1,0 +1,80 @@
+{
+  "id": 1293596781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.82389,25.02764,121.82389,25.02764",
+    "geom:latitude":25.02764,
+    "geom:longitude":121.82389,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F23",
+    "gn:admin4_code":"65000250009.0",
+    "gn:asciiname":"Wanqiong",
+    "gn:country_code":"TW",
+    "gn:dem":75,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647581,
+    "gn:latitude":25.02764,
+    "gn:longitude":121.82389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wanqiong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wancyong",
+        "Wanqiong"
+    ],
+    "name:zho_x_preferred":[
+        "\u7063\u7a79"
+    ],
+    "name:zho_x_variant":[
+        "Wan-ch\u2019iung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647581
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3a348c73497b0f68c29054c8982dcf5a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293596781,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1293596781,
+    "wof:lastmodified":1537709761,
+    "wof:name":"Wanqiong",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.82389,
+    25.02764,
+    121.82389,
+    25.02764
+],
+  "geometry": {"coordinates":[121.82389000000001,25.02764],"type":"Point"}
+}

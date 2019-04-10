@@ -1,0 +1,79 @@
+{
+  "id": 1327432033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.69156,25.14606,121.69156,25.14606",
+    "geom:latitude":25.14606,
+    "geom:longitude":121.69156,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"KEE",
+    "gn:admin3_code":"C06",
+    "gn:admin4_code":"10017060013.0",
+    "gn:asciiname":"Liuceng",
+    "gn:country_code":"TW",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6729004,
+    "gn:latitude":25.14606,
+    "gn:longitude":121.69156,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liuceng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Liouceng"
+    ],
+    "name:zho_x_preferred":[
+        "\u516d\u5c64"
+    ],
+    "name:zho_x_variant":[
+        "Liu-ts\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679571,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6729004
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c55571700e1a1e63258030d9d2a3f2b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327432033,
+            "macroregion_id":1108808557,
+            "region_id":85679571
+        }
+    ],
+    "wof:id":1327432033,
+    "wof:lastmodified":1537709914,
+    "wof:name":"Liuceng",
+    "wof:parent_id":85679571,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.69156,
+    25.14606,
+    121.69156,
+    25.14606
+],
+  "geometry": {"coordinates":[121.69156,25.14606],"type":"Point"}
+}

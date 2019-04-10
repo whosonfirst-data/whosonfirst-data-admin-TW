@@ -1,0 +1,76 @@
+{
+  "id": 1309815167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.36511,24.91512,121.36511,24.91512",
+    "geom:latitude":24.91512,
+    "geom:longitude":121.36511,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F15",
+    "gn:admin4_code":"65000090010.0",
+    "gn:asciiname":"Cheliao",
+    "gn:country_code":"TW",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653535,
+    "gn:latitude":24.91512,
+    "gn:longitude":121.36511,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Cheliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8eca\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019e-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653535
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"173d2253b1d115b93a456043a0b6d3c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309815167,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1309815167,
+    "wof:lastmodified":1537709837,
+    "wof:name":"Cheliao",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.36511000000002,
+    24.91512,
+    121.36511000000002,
+    24.91512
+],
+  "geometry": {"coordinates":[121.36511000000002,24.91512],"type":"Point"}
+}

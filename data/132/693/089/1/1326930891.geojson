@@ -1,0 +1,80 @@
+{
+  "id": 1326930891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5525,24.30167,120.5525,24.30167",
+    "geom:latitude":24.30167,
+    "geom:longitude":120.5525,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B12",
+    "gn:admin4_code":"66000120019.0",
+    "gn:asciiname":"Shi'erjia",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669451,
+    "gn:latitude":24.30167,
+    "gn:longitude":120.5525,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shi\u2019erjia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shih-erh-chia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5341\u4e8c\u7532"
+    ],
+    "name:zho_x_variant":[
+        "Shih\u2019erjia",
+        "Shi\u2019erjia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669451
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2cbc6c265633b758b0bef4e4a064496d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326930891,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1326930891,
+    "wof:lastmodified":1537708708,
+    "wof:name":"Shi'erjia",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5525,
+    24.30167,
+    120.5525,
+    24.30167
+],
+  "geometry": {"coordinates":[120.55249999999999,24.30167],"type":"Point"}
+}

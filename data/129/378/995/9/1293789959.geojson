@@ -1,0 +1,76 @@
+{
+  "id": 1293789959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.12917,23.75389,121.12917,23.75389",
+    "geom:latitude":23.75389,
+    "geom:longitude":121.12917,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M12",
+    "gn:admin4_code":"10008120002.0",
+    "gn:asciiname":"Wufensuo",
+    "gn:country_code":"TW",
+    "gn:dem":2433,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6600855,
+    "gn:latitude":23.75389,
+    "gn:longitude":121.12917,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wufensuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wu-fen-so"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e94\u5206\u6240"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6600855
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7c36ab444a9f35e03e0504bd7c22f07a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293789959,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1293789959,
+    "wof:lastmodified":1537709631,
+    "wof:name":"Wufensuo",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.12917,
+    23.75389,
+    121.12917,
+    23.75389
+],
+  "geometry": {"coordinates":[121.12917,23.75389],"type":"Point"}
+}

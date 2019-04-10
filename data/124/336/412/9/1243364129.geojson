@@ -1,0 +1,83 @@
+{
+  "id": 1243364129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.18111,23.50056,120.18111,23.50056",
+    "geom:latitude":23.50056,
+    "geom:longitude":120.18111,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q09",
+    "gn:admin4_code":"10010090022.0",
+    "gn:asciiname":"Hanziliao",
+    "gn:country_code":"TW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673974,
+    "gn:latitude":23.50056,
+    "gn:longitude":120.18111,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hanziliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hanzihliao",
+        "Hanziliao",
+        "Han-tzu-liao"
+    ],
+    "name:zho_x_preferred":[
+        "Chiang-k\u2019ou-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Chiang-k\u2019ou",
+        "\u86b6\u5b50\u5bee",
+        "Kang-k\u2019ou-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673974
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"04faa35e0a43d8c1410c2483f539699d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243364129,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1243364129,
+    "wof:lastmodified":1537709010,
+    "wof:name":"Hanziliao",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.18111,
+    23.50056,
+    120.18111,
+    23.50056
+],
+  "geometry": {"coordinates":[120.18111,23.50056],"type":"Point"}
+}

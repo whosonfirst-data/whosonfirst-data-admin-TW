@@ -1,0 +1,80 @@
+{
+  "id": 1310525641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.64639,24.39833,120.64639,24.39833",
+    "geom:latitude":24.39833,
+    "geom:longitude":120.64639,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B11",
+    "gn:admin4_code":"66000110024.0",
+    "gn:asciiname":"Datiezhuang",
+    "gn:country_code":"TW",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667687,
+    "gn:latitude":24.39833,
+    "gn:longitude":120.64639,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Datiezhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Datiejhuang",
+        "Datiezhuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6253\u9435\u838a"
+    ],
+    "name:zho_x_variant":[
+        "Ta-t\u2019ieh-chuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667687
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"18b1524612623c8014ea67822b797ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310525641,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1310525641,
+    "wof:lastmodified":1537708586,
+    "wof:name":"Datiezhuang",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.64639,
+    24.39833,
+    120.64639,
+    24.39833
+],
+  "geometry": {"coordinates":[120.64639,24.39833],"type":"Point"}
+}

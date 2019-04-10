@@ -1,0 +1,77 @@
+{
+  "id": 1326963255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.81442,23.89414,120.81442,23.89414",
+    "geom:latitude":23.89414,
+    "geom:longitude":120.81442,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M08",
+    "gn:admin4_code":"10008080005.0",
+    "gn:asciiname":"Xiaonanding",
+    "gn:country_code":"TW",
+    "gn:dem":552,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649227,
+    "gn:latitude":23.89414,
+    "gn:longitude":120.81442,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaonanding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siaonanding",
+        "Hsiao-nan-ting"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u6e73\u9802"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649227
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"55210affbf909e653086ee1eb48f12de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326963255,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1326963255,
+    "wof:lastmodified":1537709783,
+    "wof:name":"Xiaonanding",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.81442,
+    23.89414,
+    120.81442,
+    23.89414
+],
+  "geometry": {"coordinates":[120.81442,23.89414],"type":"Point"}
+}

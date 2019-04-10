@@ -1,0 +1,76 @@
+{
+  "id": 1209914405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.85645,24.19857,120.85645,24.19857",
+    "geom:latitude":24.19857,
+    "geom:longitude":120.85645,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B10",
+    "gn:admin4_code":"66000100017.0",
+    "gn:asciiname":"Beilong",
+    "gn:country_code":"TW",
+    "gn:dem":574,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6726858,
+    "gn:latitude":24.19857,
+    "gn:longitude":120.85645,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Beilong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pei-lung"
+    ],
+    "name:zho_x_preferred":[
+        "\u80cc\u9f8d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6726858
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e92c9a0c309f4e9b8d7237c7f36a3a09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209914405,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1209914405,
+    "wof:lastmodified":1537709904,
+    "wof:name":"Beilong",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.85645,
+    24.19857,
+    120.85645,
+    24.19857
+],
+  "geometry": {"coordinates":[120.85645,24.19857],"type":"Point"}
+}

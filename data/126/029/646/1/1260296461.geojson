@@ -1,0 +1,78 @@
+{
+  "id": 1260296461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.42417,25.17687,121.42417,25.17687",
+    "geom:latitude":25.17687,
+    "geom:longitude":121.42417,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F27",
+    "gn:admin4_code":"65000100032.0",
+    "gn:asciiname":"Zhuzilin",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677025,
+    "gn:latitude":25.17687,
+    "gn:longitude":121.42417,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhuzilin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhuzihlin",
+        "Zhuzilin",
+        "Chu-tzu-lin"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u5b50\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677025
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d0024c39982db481415eecf2971c3658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260296461,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1260296461,
+    "wof:lastmodified":1537709258,
+    "wof:name":"Zhuzilin",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.42417,
+    25.17687,
+    121.42417,
+    25.17687
+],
+  "geometry": {"coordinates":[121.42417,25.17687],"type":"Point"}
+}

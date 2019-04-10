@@ -1,0 +1,79 @@
+{
+  "id": 1360286021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47944,24.09639,120.47944,24.09639",
+    "geom:latitude":24.09639,
+    "geom:longitude":120.47944,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N02",
+    "gn:admin4_code":"10007020020.0",
+    "gn:asciiname":"Pizikou",
+    "gn:country_code":"TW",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670418,
+    "gn:latitude":24.09639,
+    "gn:longitude":120.47944,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pizikou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pizihkou"
+    ],
+    "name:zho_x_preferred":[
+        "\u57e4\u5b50\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019i-tzu-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670418
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7e302e52b0f9b56a6200f7bcf603652f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360286021,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1360286021,
+    "wof:lastmodified":1537708781,
+    "wof:name":"Pizikou",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47944,
+    24.09639,
+    120.47944,
+    24.09639
+],
+  "geometry": {"coordinates":[120.47944,24.09639],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1259707911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.57391,25.07169,121.57391,25.07169",
+    "geom:latitude":25.07169,
+    "geom:longitude":121.57391,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A14",
+    "gn:admin4_code":"63000100030.0",
+    "gn:asciiname":"Gangqian",
+    "gn:country_code":"TW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674005,
+    "gn:latitude":25.07169,
+    "gn:longitude":121.57391,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Gangqian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gangcian",
+        "Gangqian"
+    ],
+    "name:zho_x_preferred":[
+        "Chaing-ch\u2019ien"
+    ],
+    "name:zho_x_variant":[
+        "Chiang-ch\u2019ien-ts\u2019un",
+        "Kang-ch\u2019ien-ts\u2019un",
+        "Chiang-ch\u2019ien",
+        "\u6e2f\u5898",
+        "Kang-ch\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674005
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"87b9d072d7d611bf39f45cdd45eaa13f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259707911,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1259707911,
+    "wof:lastmodified":1537709014,
+    "wof:name":"Gangqian",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.57391,
+    25.07169,
+    121.57391,
+    25.07169
+],
+  "geometry": {"coordinates":[121.57391,25.07169],"type":"Point"}
+}

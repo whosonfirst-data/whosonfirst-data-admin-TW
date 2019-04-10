@@ -1,0 +1,76 @@
+{
+  "id": 1292912123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.38278,22.85889,120.38278,22.85889",
+    "geom:latitude":22.85889,
+    "geom:longitude":120.38278,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E22",
+    "gn:admin4_code":"64000220002.0",
+    "gn:asciiname":"Shanheshou",
+    "gn:country_code":"TW",
+    "gn:dem":52,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669732,
+    "gn:latitude":22.85889,
+    "gn:longitude":120.38278,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shanheshou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shan-ho-shou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c71\u6cb3\u58fd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669732
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e8a9f03987e27a55ee936e3b8e78b47b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1292912123,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1292912123,
+    "wof:lastmodified":1537708730,
+    "wof:name":"Shanheshou",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.38278,
+    22.85889,
+    120.38278,
+    22.85889
+],
+  "geometry": {"coordinates":[120.38278,22.85889],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1293889729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.91521,24.67184,120.91521,24.67184",
+    "geom:latitude":24.67184,
+    "geom:longitude":120.91521,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K10",
+    "gn:admin4_code":"10005050021.0",
+    "gn:asciiname":"Wayaoxia",
+    "gn:country_code":"TW",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646066,
+    "gn:latitude":24.67184,
+    "gn:longitude":120.91521,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wayaoxia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wayaosia",
+        "Wayaoxia",
+        "Wa-yao-hsia"
+    ],
+    "name:zho_x_preferred":[
+        "\u74e6\u7aaf\u4e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646066
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f0ed9322443375f825f1d824926037a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293889729,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1293889729,
+    "wof:lastmodified":1537709718,
+    "wof:name":"Wayaoxia",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.91521000000002,
+    24.67184,
+    120.91521000000002,
+    24.67184
+],
+  "geometry": {"coordinates":[120.91521000000002,24.67184],"type":"Point"}
+}

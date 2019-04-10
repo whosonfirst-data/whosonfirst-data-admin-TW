@@ -1,0 +1,76 @@
+{
+  "id": 1243364107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.9435,24.67427,120.9435,24.67427",
+    "geom:latitude":24.67427,
+    "geom:longitude":120.9435,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K10",
+    "gn:admin4_code":"10005050003.0",
+    "gn:asciiname":"Wanjiao",
+    "gn:country_code":"TW",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646128,
+    "gn:latitude":24.67427,
+    "gn:longitude":120.9435,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wanjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wan-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u7063\u89d2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646128
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d38b58a9578f832f24ae039816b28cc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243364107,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1243364107,
+    "wof:lastmodified":1537709723,
+    "wof:name":"Wanjiao",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.9435,
+    24.67427,
+    120.9435,
+    24.67427
+],
+  "geometry": {"coordinates":[120.9435,24.67427],"type":"Point"}
+}

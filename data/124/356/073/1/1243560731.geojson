@@ -1,0 +1,80 @@
+{
+  "id": 1243560731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.31722,23.39556,120.31722,23.39556",
+    "geom:latitude":23.39556,
+    "geom:longitude":120.31722,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q11",
+    "gn:admin4_code":"10010110006.0",
+    "gn:asciiname":"Zhongliao",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677303,
+    "gn:latitude":23.39556,
+    "gn:longitude":120.31722,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhongliao",
+        "Chung-liao"
+    ],
+    "name:zho_x_preferred":[
+        "Chung-liao-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u91cd\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677303
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9535c9be86c039863d60557c57f375d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243560731,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1243560731,
+    "wof:lastmodified":1537709282,
+    "wof:name":"Zhongliao",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.31722,
+    23.39556,
+    120.31722,
+    23.39556
+],
+  "geometry": {"coordinates":[120.31722000000001,23.39556],"type":"Point"}
+}

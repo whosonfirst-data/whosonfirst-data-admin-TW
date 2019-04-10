@@ -1,0 +1,71 @@
+{
+  "id": 1209247815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.07972,24.71722,121.07972,24.71722",
+    "geom:latitude":24.71722,
+    "geom:longitude":121.07972,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J02",
+    "gn:admin4_code":"10004020007.0",
+    "gn:asciiname":"Zhiwo",
+    "gn:country_code":"TW",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6640588,
+    "gn:latitude":24.71722,
+    "gn:longitude":121.07972,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhiwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhihwo",
+        "Chih-wo"
+    ],
+    "name:zho_x_preferred":[
+        "\u76f4\u7aa9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6640588
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"adc774c2b2c1c018171526aee676df20",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209247815
+        }
+    ],
+    "wof:id":1209247815,
+    "wof:lastmodified":1537709676,
+    "wof:name":"Zhiwo",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.07972,
+    24.71722,
+    121.07972,
+    24.71722
+],
+  "geometry": {"coordinates":[121.07971999999999,24.71722],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226366603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.40472,23.39778,120.40472,23.39778",
+    "geom:latitude":23.39778,
+    "geom:longitude":120.40472,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R03",
+    "gn:admin4_code":"67000030017.0",
+    "gn:asciiname":"Shanzijiao",
+    "gn:country_code":"TW",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669663,
+    "gn:latitude":23.39778,
+    "gn:longitude":120.40472,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shanzijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shanzihjiao",
+        "Shan-tzu-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c71\u5b50\u8173"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669663
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5009fb1b34a44678e7a2fb97d0019a0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226366603,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1226366603,
+    "wof:lastmodified":1537708724,
+    "wof:name":"Shanzijiao",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.40472,
+    23.39778,
+    120.40472,
+    23.39778
+],
+  "geometry": {"coordinates":[120.40472,23.39778],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1344181277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.28333,22.98333,120.28333,22.98333",
+    "geom:latitude":22.98333,
+    "geom:longitude":120.28333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R28",
+    "gn:admin4_code":"67000280014.0",
+    "gn:asciiname":"Xinbuluo",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674880,
+    "gn:latitude":22.98333,
+    "gn:longitude":120.28333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinbuluo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-pu-lo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674880
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6db04a9a6dc949f20744dbfa4039e9af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344181277,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1344181277,
+    "wof:lastmodified":1537709077,
+    "wof:name":"Xinbuluo",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.28333,
+    22.98333,
+    120.28333,
+    22.98333
+],
+  "geometry": {"coordinates":[120.28333000000001,22.98333],"type":"Point"}
+}

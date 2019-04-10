@@ -1,0 +1,80 @@
+{
+  "id": 1293589681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.03306,24.58222,121.03306,24.58222",
+    "geom:latitude":24.58222,
+    "geom:longitude":121.03306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K14",
+    "gn:admin4_code":"10005110009.0",
+    "gn:asciiname":"Xiangtianhu",
+    "gn:country_code":"TW",
+    "gn:dem":781,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675687,
+    "gn:latitude":24.58222,
+    "gn:longitude":121.03306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiangtianhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siangtianhu",
+        "Xiangtianhu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5411\u5929\u6e56"
+    ],
+    "name:zho_x_variant":[
+        "Hsiang-t\u2019ien-hu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675687
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c0710dfcec3350f6107e6a644e146c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293589681,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1293589681,
+    "wof:lastmodified":1537709152,
+    "wof:name":"Xiangtianhu",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.03306,
+    24.58222,
+    121.03306,
+    24.58222
+],
+  "geometry": {"coordinates":[121.03306000000001,24.58222],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1276342811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.32877,24.91937,121.32877,24.91937",
+    "geom:latitude":24.91937,
+    "geom:longitude":121.32877,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F15",
+    "gn:admin4_code":"65000090008.0",
+    "gn:asciiname":"Maobu",
+    "gn:country_code":"TW",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672134,
+    "gn:latitude":24.91937,
+    "gn:longitude":121.32877,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Maobu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mao-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u8305\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672134
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ea456bfd3c432e7165031a8465634f2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276342811,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1276342811,
+    "wof:lastmodified":1537708885,
+    "wof:name":"Maobu",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.32877,
+    24.91937,
+    121.32877,
+    24.91937
+],
+  "geometry": {"coordinates":[121.32877000000001,24.91937],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1226646491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6071,24.0711,120.6071,24.0711",
+    "geom:latitude":24.0711,
+    "geom:longitude":120.6071,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N01",
+    "gn:admin4_code":"10007010070.0",
+    "gn:asciiname":"Xigualun",
+    "gn:country_code":"TW",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993528,
+    "gn:latitude":24.0711,
+    "gn:longitude":120.6071,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xigualun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sigualun",
+        "Hsi-kua-lun"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u74dc\u5d19"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993528
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e7305048a6887ce95ea3fd408ef5a9d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226646491,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1226646491,
+    "wof:lastmodified":1537709484,
+    "wof:name":"Xigualun",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6071,
+    24.0711,
+    120.6071,
+    24.0711
+],
+  "geometry": {"coordinates":[120.6071,24.0711],"type":"Point"}
+}

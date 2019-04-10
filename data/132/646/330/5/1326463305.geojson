@@ -1,0 +1,82 @@
+{
+  "id": 1326463305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47983,22.57621,120.47983,22.57621",
+    "geom:latitude":22.57621,
+    "geom:longitude":120.47983,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T05",
+    "gn:admin4_code":"10013050006.0",
+    "gn:asciiname":"Xiapou",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675516,
+    "gn:latitude":22.57621,
+    "gn:longitude":120.47983,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiapou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e0b\u5ecd",
+        "Hsia-pu",
+        "Xiapou",
+        "Siapou"
+    ],
+    "name:zho_x_preferred":[
+        "Hsia-p\u2019ou"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0b\u5ecd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675516
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1c6f3250cdeafd5a1a7971ee92a6c7dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326463305,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1326463305,
+    "wof:lastmodified":1537709138,
+    "wof:name":"Xiapou",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47983,
+    22.57621,
+    120.47983,
+    22.57621
+],
+  "geometry": {"coordinates":[120.47983000000001,22.57621],"type":"Point"}
+}

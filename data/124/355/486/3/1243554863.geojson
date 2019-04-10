@@ -1,0 +1,81 @@
+{
+  "id": 1243554863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.61693,23.80989,120.61693,23.80989",
+    "geom:latitude":23.80989,
+    "geom:longitude":120.61693,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N20",
+    "gn:admin4_code":"10007180008.0",
+    "gn:asciiname":"Ershui",
+    "gn:country_code":"TW",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676888,
+    "gn:latitude":23.80989,
+    "gn:longitude":120.61693,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Ershui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erh-shui-chuang",
+        "Ershui",
+        "Erh-pa-shui",
+        "Ershuei",
+        "Erh-shui"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e8c\u6c34"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676888,
+        "wk:page":"Ershui"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9478d60dd4f70faac7a90eedd850cbdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243554863,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1243554863,
+    "wof:lastmodified":1537709247,
+    "wof:name":"Ershui",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.61693,
+    23.80989,
+    120.61693,
+    23.80989
+],
+  "geometry": {"coordinates":[120.61693,23.80989],"type":"Point"}
+}

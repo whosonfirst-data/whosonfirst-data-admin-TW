@@ -1,0 +1,107 @@
+{
+  "id": 1293499031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.65546,24.99301,121.65546,24.99301",
+    "geom:latitude":24.99301,
+    "geom:longitude":121.65546,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F08",
+    "gn:admin4_code":"65000190002.0",
+    "gn:asciiname":"Shiding",
+    "gn:country_code":"TW",
+    "gn:dem":135,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669226,
+    "gn:latitude":24.99301,
+    "gn:longitude":121.65546,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shiding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Shiding District"
+    ],
+    "name:hak_x_preferred":[
+        "Sa\u030dk-t\u00e0ng-kh\u00ee"
+    ],
+    "name:jpn_x_preferred":[
+        "\u77f3\u7887\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\ub529 \uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160idingas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u77f3\u7887\u5340"
+    ],
+    "name:nan_x_preferred":[
+        "Chio\u030dh-t\u0113ng-khu"
+    ],
+    "name:und_x_variant":[
+        "Shih-ting-hsiang",
+        "Shiding",
+        "Shihding",
+        "Shih-ting"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ea1ch \u0110\u0129nh"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u7887"
+    ],
+    "name:zho_x_variant":[
+        "\u77f3\u7887\u5340"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669226,
+        "wk:page":"Shiding_District"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8cf746da6dc403fc4415e840b8884149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293499031,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1293499031,
+    "wof:lastmodified":1537708688,
+    "wof:name":"Shiding",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.65546,
+    24.99301,
+    121.65546,
+    24.99301
+],
+  "geometry": {"coordinates":[121.65546000000001,24.99301],"type":"Point"}
+}

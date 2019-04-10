@@ -1,0 +1,80 @@
+{
+  "id": 1242683945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.79592,24.30586,120.79592,24.30586",
+    "geom:latitude":24.30586,
+    "geom:longitude":120.79592,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B10",
+    "gn:admin4_code":"66000100025.0",
+    "gn:asciiname":"Shibikengkou",
+    "gn:country_code":"TW",
+    "gn:dem":339,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669289,
+    "gn:latitude":24.30586,
+    "gn:longitude":120.79592,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shibikengkou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihbikengkou",
+        "Shibikengkou"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u58c1\u5751\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "Shih-pi-k\u2019eng-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669289
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"386918c68861239ea4e53c4b6ab264a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242683945,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1242683945,
+    "wof:lastmodified":1537708693,
+    "wof:name":"Shibikengkou",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.79592,
+    24.30586,
+    120.79592,
+    24.30586
+],
+  "geometry": {"coordinates":[120.79592,24.30586],"type":"Point"}
+}

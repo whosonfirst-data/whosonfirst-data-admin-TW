@@ -1,0 +1,75 @@
+{
+  "id": 1259885895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.67672,24.23596,120.67672,24.23596",
+    "geom:latitude":24.23596,
+    "geom:longitude":120.67672,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B16",
+    "gn:admin4_code":"66000160006.0",
+    "gn:asciiname":"Shenan",
+    "gn:country_code":"TW",
+    "gn:dem":168,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669575,
+    "gn:latitude":24.23596,
+    "gn:longitude":120.67672,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shenan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u793e\u5357",
+        "Shenan",
+        "She-nan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669575
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d851523bb28e98fbf19f61e79af52736",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259885895,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1259885895,
+    "wof:lastmodified":1537708718,
+    "wof:name":"Shenan",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.67672,
+    24.23596,
+    120.67672,
+    24.23596
+],
+  "geometry": {"coordinates":[120.67672,24.23596],"type":"Point"}
+}

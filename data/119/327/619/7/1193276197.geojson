@@ -1,0 +1,79 @@
+{
+  "id": 1193276197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.99724,23.96782,120.99724,23.96782",
+    "geom:latitude":23.96782,
+    "geom:longitude":120.99724,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M02",
+    "gn:admin4_code":"10008020028.0",
+    "gn:asciiname":"Maoziting",
+    "gn:country_code":"TW",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649245,
+    "gn:latitude":23.96782,
+    "gn:longitude":120.99724,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Maoziting",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maozihting"
+    ],
+    "name:zho_x_preferred":[
+        "\u8305\u4ed4\u5ead"
+    ],
+    "name:zho_x_variant":[
+        "Mao-tzu-t\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649245
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e8d52d98ab76a7d0d0f60ea9a317ca6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193276197,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1193276197,
+    "wof:lastmodified":1537709784,
+    "wof:name":"Maoziting",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.99724,
+    23.96782,
+    120.99724,
+    23.96782
+],
+  "geometry": {"coordinates":[120.99724000000001,23.96782],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1293589741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.78868,24.47779,120.78868,24.47779",
+    "geom:latitude":24.47779,
+    "geom:longitude":120.78868,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K05",
+    "gn:admin4_code":"10005100002.0",
+    "gn:asciiname":"Dongtianyang",
+    "gn:country_code":"TW",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992126,
+    "gn:latitude":24.47779,
+    "gn:longitude":120.78868,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongtianyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6771\u7530\u6d0b",
+        "Dongtianyang"
+    ],
+    "name:zho_x_preferred":[
+        "Tung-t\u2019ien-yang"
+    ],
+    "name:zho_x_variant":[
+        "\u6771\u7530\u6d0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992126
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b435b7078e1787ee2eff10ab3b4dcd4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293589741,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1293589741,
+    "wof:lastmodified":1537709454,
+    "wof:name":"Dongtianyang",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.78868,
+    24.47779,
+    120.78868,
+    24.47779
+],
+  "geometry": {"coordinates":[120.78868,24.47779],"type":"Point"}
+}

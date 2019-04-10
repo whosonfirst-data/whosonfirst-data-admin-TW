@@ -1,0 +1,70 @@
+{
+  "id": 890470153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8703,24.25679,120.8703,24.25679",
+    "geom:latitude":24.25679,
+    "geom:longitude":120.8703,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u6771\u52e2\u93ae",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u53f0\u4e2d\u5e02",
+    "qs:photos":2287,
+    "qs:photos_1k":463,
+    "qs:photos_9k":10,
+    "qs:photos_9r":9,
+    "qs:photos_all":2287,
+    "qs:photos_sr":17,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":207,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2305194,
+        "qs:id":1087032,
+        "wd:id":"Q701682",
+        "wk:page":"Taichung County"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053805,
+    "wof:geomhash":"9423b584e058104ffd1ecf1aab20e1c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":890470153,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":890470153,
+    "wof:lastmodified":1527727213,
+    "wof:name":"\u6771\u52e2\u93ae",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8703,
+    24.25679,
+    120.8703,
+    24.25679
+],
+  "geometry": {"coordinates":[120.8703,24.25679],"type":"Point"}
+}

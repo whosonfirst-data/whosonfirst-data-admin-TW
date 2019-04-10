@@ -1,0 +1,80 @@
+{
+  "id": 1293105053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.69349,24.69449,121.69349,24.69449",
+    "geom:latitude":24.69449,
+    "geom:longitude":121.69349,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G10",
+    "gn:admin4_code":"10002100016.0",
+    "gn:asciiname":"Jiujiaopou",
+    "gn:country_code":"TW",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677895,
+    "gn:latitude":24.69449,
+    "gn:longitude":121.69349,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiujiaopou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jioujiaopou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6855\u811a\u5ecd"
+    ],
+    "name:zho_x_variant":[
+        "Chiu-chiao-p\u2019u",
+        "Chiu-chiao-p\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677895
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a26f1484651f39dd9bc73f6db0d11c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293105053,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1293105053,
+    "wof:lastmodified":1537709332,
+    "wof:name":"Jiujiaopou",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.69349,
+    24.69449,
+    121.69349,
+    24.69449
+],
+  "geometry": {"coordinates":[121.69349,24.69449],"type":"Point"}
+}

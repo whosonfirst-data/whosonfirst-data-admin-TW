@@ -1,0 +1,76 @@
+{
+  "id": 1309805425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.34199,24.9636,121.34199,24.9636",
+    "geom:latitude":24.9636,
+    "geom:longitude":121.34199,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F16",
+    "gn:admin4_code":"65000080018.0",
+    "gn:asciiname":"Zengcuo",
+    "gn:country_code":"TW",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653510,
+    "gn:latitude":24.9636,
+    "gn:longitude":121.34199,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zengcuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u66fe\u539d"
+    ],
+    "name:zho_x_variant":[
+        "Tseng-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653510
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"25e2e4387a594b1aebb187b124cf061f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309805425,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1309805425,
+    "wof:lastmodified":1537709835,
+    "wof:name":"Zengcuo",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.34199,
+    24.9636,
+    121.34199,
+    24.9636
+],
+  "geometry": {"coordinates":[121.34199,24.9636],"type":"Point"}
+}

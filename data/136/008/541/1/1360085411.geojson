@@ -1,0 +1,77 @@
+{
+  "id": 1360085411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.88094,24.34908,120.88094,24.34908",
+    "geom:latitude":24.34908,
+    "geom:longitude":120.88094,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K16",
+    "gn:admin4_code":"10005070006.0",
+    "gn:asciiname":"Shuangwen",
+    "gn:country_code":"TW",
+    "gn:dem":500,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6651958,
+    "gn:latitude":24.34908,
+    "gn:longitude":120.88094,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuangwen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuangwun",
+        "Shuang-wen"
+    ],
+    "name:zho_x_preferred":[
+        "\u723d\u6587"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6651958
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e2621853a756d47a85bf631f1ceecf1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360085411,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1360085411,
+    "wof:lastmodified":1537709810,
+    "wof:name":"Shuangwen",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.88094,
+    24.34908,
+    120.88094,
+    24.34908
+],
+  "geometry": {"coordinates":[120.88094,24.34908],"type":"Point"}
+}

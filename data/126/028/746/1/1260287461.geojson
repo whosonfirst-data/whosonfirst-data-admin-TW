@@ -1,0 +1,82 @@
+{
+  "id": 1260287461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.43483,22.70681,120.43483,22.70681",
+    "geom:latitude":22.70681,
+    "geom:longitude":120.43483,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E15",
+    "gn:admin4_code":"64000150009.0",
+    "gn:asciiname":"Gupoliao",
+    "gn:country_code":"TW",
+    "gn:dem":30,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673174,
+    "gn:latitude":22.70681,
+    "gn:longitude":120.43483,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Gupoliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u59d1\u5a46\u5bee",
+        "Ku-shan",
+        "Gupoliao"
+    ],
+    "name:zho_x_preferred":[
+        "Ku-shan-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Ku-p\u2019o-liao",
+        "\u59d1\u5a46\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673174
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"52dc08c9819378432992abee66c771d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260287461,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1260287461,
+    "wof:lastmodified":1537708952,
+    "wof:name":"Gupoliao",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.43483,
+    22.70681,
+    120.43483,
+    22.70681
+],
+  "geometry": {"coordinates":[120.43483000000001,22.70681],"type":"Point"}
+}

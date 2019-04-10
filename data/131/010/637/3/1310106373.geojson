@@ -1,0 +1,79 @@
+{
+  "id": 1310106373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.84333,23.69,120.84333,23.69",
+    "geom:latitude":23.69,
+    "geom:longitude":120.84333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M12",
+    "gn:admin4_code":"10008120005.0",
+    "gn:asciiname":"Maobutianzi",
+    "gn:country_code":"TW",
+    "gn:dem":586,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602745,
+    "gn:latitude":23.69,
+    "gn:longitude":120.84333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Maobutianzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Maobutianzih"
+    ],
+    "name:zho_x_preferred":[
+        "\u8305\u57d4\u7530\u4ed4"
+    ],
+    "name:zho_x_variant":[
+        "Mao-pu-t\u2019ien-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602745
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c531aa20b6d3184ff029ae25a8794db2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310106373,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1310106373,
+    "wof:lastmodified":1537709668,
+    "wof:name":"Maobutianzi",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.84333,
+    23.69,
+    120.84333,
+    23.69
+],
+  "geometry": {"coordinates":[120.84332999999999,23.69],"type":"Point"}
+}

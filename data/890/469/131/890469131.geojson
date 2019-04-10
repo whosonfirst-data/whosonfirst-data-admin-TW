@@ -1,0 +1,70 @@
+{
+  "id": 890469131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.214475,24.942944,121.214475,24.942944",
+    "geom:latitude":24.942944,
+    "geom:longitude":121.214475,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u5e73\u93ae\u5e02",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u6843\u5712\u7e23",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wd:wordcount":147,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2304389,
+        "qs:id":890524,
+        "wd:id":"Q25303104",
+        "wk:page":"Taoyuan County, Taiwan"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053750,
+    "wof:geomhash":"dd0b5834723a744285f4861a9f449523",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":890469131,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":890469131,
+    "wof:lastmodified":1527792920,
+    "wof:name":"\u5e73\u93ae\u5e02",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.214475,
+    24.942944,
+    121.214475,
+    24.942944
+],
+  "geometry": {"coordinates":[121.21447499999999,24.942944],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 1259979951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.45281,23.91793,120.45281,23.91793",
+    "geom:latitude":23.91793,
+    "geom:longitude":120.45281,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N22",
+    "gn:admin4_code":"10007220004.0",
+    "gn:asciiname":"Xidixiliao",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674659,
+    "gn:latitude":23.91793,
+    "gn:longitude":120.45281,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xidixiliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-ti-liao",
+        "Sidisiliao",
+        "Hsi-ti-hsi-liao"
+    ],
+    "name:zho_x_preferred":[
+        "Sha-lung-t\u2019ou"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019i-ti-liao",
+        "\u6eaa\u5e95\u897f\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674659
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"22aebd04efccac1da4c855c8e3ca7777",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259979951,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1259979951,
+    "wof:lastmodified":1537709058,
+    "wof:name":"Xidixiliao",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.45281,
+    23.91793,
+    120.45281,
+    23.91793
+],
+  "geometry": {"coordinates":[120.45281,23.91793],"type":"Point"}
+}

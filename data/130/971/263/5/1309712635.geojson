@@ -1,0 +1,83 @@
+{
+  "id": 1309712635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.36962,23.41816,121.36962,23.41816",
+    "geom:latitude":23.41816,
+    "geom:longitude":121.36962,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U03",
+    "gn:admin4_code":"10015030011.0",
+    "gn:asciiname":"Gongqian",
+    "gn:country_code":"TW",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673347,
+    "gn:latitude":23.41816,
+    "gn:longitude":121.36962,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Gongqian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sung-pu-li",
+        "Ma-chiu-ta",
+        "\u5bae\u524d",
+        "Gongqian",
+        "Gongcian"
+    ],
+    "name:zho_x_preferred":[
+        "Kung-ch\u2019ien"
+    ],
+    "name:zho_x_variant":[
+        "\u5bae\u524d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673347
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"df7d142b31df2314b3448601858222c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309712635,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1309712635,
+    "wof:lastmodified":1537708965,
+    "wof:name":"Gongqian",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.36962,
+    23.41816,
+    121.36962,
+    23.41816
+],
+  "geometry": {"coordinates":[121.36962,23.41816],"type":"Point"}
+}

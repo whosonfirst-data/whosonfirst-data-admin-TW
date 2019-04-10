@@ -1,0 +1,82 @@
+{
+  "id": 1327158431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.12722,24.99278,121.12722,24.99278",
+    "geom:latitude":24.99278,
+    "geom:longitude":121.12722,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H11",
+    "gn:admin4_code":"68000110004.0",
+    "gn:asciiname":"Quanzhoucuo",
+    "gn:country_code":"TW",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677684,
+    "gn:latitude":24.99278,
+    "gn:longitude":121.12722,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Quanzhoucuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cyuanjhoucuo",
+        "Quanzhoucuo"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019\u00fcan-chou-p\u2019o"
+    ],
+    "name:zho_x_variant":[
+        "\u6cc9\u5dde\u539d",
+        "Ch\u2019\u00fcan-chou-wu",
+        "Ch\u2019\u00fcan-chou-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677684
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a7a999a27cfc92b6acc2ede57b8515e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327158431,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1327158431,
+    "wof:lastmodified":1537709314,
+    "wof:name":"Quanzhoucuo",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.12722,
+    24.99278,
+    121.12722,
+    24.99278
+],
+  "geometry": {"coordinates":[121.12721999999999,24.99278],"type":"Point"}
+}

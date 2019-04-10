@@ -1,0 +1,81 @@
+{
+  "id": 1293522685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.57917,23.55611,120.57917,23.55611",
+    "geom:latitude":23.55611,
+    "geom:longitude":120.57917,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q16",
+    "gn:admin4_code":"10010150007.0",
+    "gn:asciiname":"Pingzi",
+    "gn:country_code":"TW",
+    "gn:dem":366,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6579746,
+    "gn:latitude":23.55611,
+    "gn:longitude":120.57917,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pingzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pingzih",
+        "Pingzi"
+    ],
+    "name:zho_x_preferred":[
+        "\u576a\u4ed4"
+    ],
+    "name:zho_x_variant":[
+        "Erh-p\u2019ing-tzu",
+        "P\u2019ing-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6579746
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"594f0e33942139b7d212e4f71d2bd72e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293522685,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1293522685,
+    "wof:lastmodified":1537709546,
+    "wof:name":"Pingzi",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.57917,
+    23.55611,
+    120.57917,
+    23.55611
+],
+  "geometry": {"coordinates":[120.57917,23.55611],"type":"Point"}
+}

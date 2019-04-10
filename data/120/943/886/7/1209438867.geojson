@@ -1,0 +1,70 @@
+{
+  "id": 1209438867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.82541,24.53502,120.82541,24.53502",
+    "geom:latitude":24.53502,
+    "geom:longitude":120.82541,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K04",
+    "gn:admin4_code":"10005090014.0",
+    "gn:asciiname":"Gaohecheng",
+    "gn:country_code":"TW",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673822,
+    "gn:latitude":24.53502,
+    "gn:longitude":120.82541,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Gaohecheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ad8\u79be\u7a0b"
+    ],
+    "name:zho_x_variant":[
+        "Kao-ho-ch\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673822
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d353fe1c5030c58b366f0795bf72b22d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209438867
+        }
+    ],
+    "wof:id":1209438867,
+    "wof:lastmodified":1537708997,
+    "wof:name":"Gaohecheng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.82541,
+    24.53502000000001,
+    120.82541,
+    24.53502000000001
+],
+  "geometry": {"coordinates":[120.82541000000001,24.53502000000001],"type":"Point"}
+}

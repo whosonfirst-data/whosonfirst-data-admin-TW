@@ -1,0 +1,76 @@
+{
+  "id": 1360086973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.47925,25.16966,121.47925,25.16966",
+    "geom:latitude":25.16966,
+    "geom:longitude":121.47925,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F27",
+    "gn:admin4_code":"65000100015.0",
+    "gn:asciiname":"Shulinkou",
+    "gn:country_code":"TW",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668872,
+    "gn:latitude":25.16966,
+    "gn:longitude":121.47925,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shulinkou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6a39\u6797\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "Shu-lin-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668872
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ea042a14d2aa04a63ee18527cf09e839",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360086973,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1360086973,
+    "wof:lastmodified":1537708660,
+    "wof:name":"Shulinkou",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.47925,
+    25.16966,
+    121.47925,
+    25.16966
+],
+  "geometry": {"coordinates":[121.47924999999999,25.16966],"type":"Point"}
+}

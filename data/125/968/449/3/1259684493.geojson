@@ -1,0 +1,76 @@
+{
+  "id": 1259684493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.07833,24.89139,121.07833,24.89139",
+    "geom:latitude":24.89139,
+    "geom:longitude":121.07833,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J06",
+    "gn:admin4_code":"10004050008.0",
+    "gn:asciiname":"Changgangling",
+    "gn:country_code":"TW",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679124,
+    "gn:latitude":24.89139,
+    "gn:longitude":121.07833,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Changgangling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9577\u5d17\u5dba"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ang-kang-ling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679124
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9d8bf41404ba3c68a51d87a52b244422",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259684493,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1259684493,
+    "wof:lastmodified":1537709413,
+    "wof:name":"Changgangling",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.07833,
+    24.89139,
+    121.07833,
+    24.89139
+],
+  "geometry": {"coordinates":[121.07832999999999,24.89139],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1225850847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5182,24.06178,120.5182,24.06178",
+    "geom:latitude":24.06178,
+    "geom:longitude":120.5182,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N01",
+    "gn:admin4_code":"10007010029.0",
+    "gn:asciiname":"Dingcitongjiao",
+    "gn:country_code":"TW",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666322,
+    "gn:latitude":24.06178,
+    "gn:longitude":120.5182,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingcitongjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tz\u2019u-t\u2019ung-li",
+        "Tz\u2019u-t\u2019ung",
+        "Ting-li-t\u2019ung-chiao",
+        "Ti-Tung-Li",
+        "\u9802\u83bf\u6850\u811a",
+        "Dingcihtongjiao",
+        "Dingcitongjiao",
+        "Ting-tz\u2019u-t\u2019ung-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "Ting-tz\u2019u-t\u2019ung-chiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666322
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"aca2ed35d193904dc9826d8b2f077baa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225850847,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1225850847,
+    "wof:lastmodified":1537708494,
+    "wof:name":"Dingcitongjiao",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5182,
+    24.06178,
+    120.5182,
+    24.06178
+],
+  "geometry": {"coordinates":[120.51819999999999,24.06178],"type":"Point"}
+}

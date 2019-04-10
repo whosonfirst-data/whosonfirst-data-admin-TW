@@ -1,0 +1,77 @@
+{
+  "id": 1225944457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.85504,24.09696,120.85504,24.09696",
+    "geom:latitude":24.09696,
+    "geom:longitude":120.85504,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M10",
+    "gn:admin4_code":"10008100013.0",
+    "gn:asciiname":"Damaoping",
+    "gn:country_code":"TW",
+    "gn:dem":696,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1991445,
+    "gn:latitude":24.09696,
+    "gn:longitude":120.85504,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Damaoping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u8305\u576a"
+    ],
+    "name:zho_x_variant":[
+        "Ta-ma-p\u2019ing",
+        "Ta-mao-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1991445
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b62df307c8f99097ba4a5a03389154e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225944457,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1225944457,
+    "wof:lastmodified":1537709448,
+    "wof:name":"Damaoping",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.85504,
+    24.09696,
+    120.85504,
+    24.09696
+],
+  "geometry": {"coordinates":[120.85504,24.09696],"type":"Point"}
+}

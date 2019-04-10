@@ -1,0 +1,80 @@
+{
+  "id": 1343561525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.76326,24.07944,120.76326,24.07944",
+    "geom:latitude":24.07944,
+    "geom:longitude":120.76326,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B27",
+    "gn:admin4_code":"66000270019.0",
+    "gn:asciiname":"Pouziping",
+    "gn:country_code":"TW",
+    "gn:dem":195,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1991366,
+    "gn:latitude":24.07944,
+    "gn:longitude":120.76326,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pouziping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pouzihping"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ecd\u5b50\u576a"
+    ],
+    "name:zho_x_variant":[
+        "Pu-tzu-p\u2019ing",
+        "P\u2019ou-tzu-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1991366
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5313f7208fd9d11a05bd16a34c7eb0d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343561525,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1343561525,
+    "wof:lastmodified":1537709443,
+    "wof:name":"Pouziping",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.76326,
+    24.07944,
+    120.76326,
+    24.07944
+],
+  "geometry": {"coordinates":[120.76326,24.07944],"type":"Point"}
+}

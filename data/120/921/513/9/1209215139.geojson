@@ -1,0 +1,73 @@
+{
+  "id": 1209215139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.75361,21.98389,120.75361,21.98389",
+    "geom:latitude":21.98389,
+    "geom:longitude":120.75361,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T04",
+    "gn:admin4_code":"10013040015.0",
+    "gn:asciiname":"Bizitou",
+    "gn:country_code":"TW",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670415,
+    "gn:latitude":21.98389,
+    "gn:longitude":120.75361,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bizitou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bizihtou"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f3b\u4ed4\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Pi-tzu-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670415
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1ef980d41d3fe1b9198f7a940bbb9dda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209215139
+        }
+    ],
+    "wof:id":1209215139,
+    "wof:lastmodified":1537708781,
+    "wof:name":"Bizitou",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.75361,
+    21.98389,
+    120.75361,
+    21.98389
+],
+  "geometry": {"coordinates":[120.75360999999999,21.98389],"type":"Point"}
+}

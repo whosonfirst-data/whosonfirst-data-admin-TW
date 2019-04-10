@@ -1,0 +1,80 @@
+{
+  "id": 1277085759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.37025,24.96051,121.37025,24.96051",
+    "geom:latitude":24.96051,
+    "geom:longitude":121.37025,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F16",
+    "gn:admin4_code":"65000080006.0",
+    "gn:asciiname":"Asikeng",
+    "gn:country_code":"TW",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653523,
+    "gn:latitude":24.96051,
+    "gn:longitude":121.37025,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Asikeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Asihkeng",
+        "Asikeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u56db\u5751"
+    ],
+    "name:zho_x_variant":[
+        "A-ssu-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653523
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"40a22b2503e455fe1afaae10132a466a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1277085759,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1277085759,
+    "wof:lastmodified":1537709836,
+    "wof:name":"Asikeng",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.37025,
+    24.96051,
+    121.37025,
+    24.96051
+],
+  "geometry": {"coordinates":[121.37025,24.96051],"type":"Point"}
+}

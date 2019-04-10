@@ -1,0 +1,77 @@
+{
+  "id": 1360009829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.81656,24.32506,120.81656,24.32506",
+    "geom:latitude":24.32506,
+    "geom:longitude":120.81656,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K16",
+    "gn:admin4_code":"10005070010.0",
+    "gn:asciiname":"Tangpou",
+    "gn:country_code":"TW",
+    "gn:dem":314,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992694,
+    "gn:latitude":24.32506,
+    "gn:longitude":120.81656,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tangpou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7cd6\u5ecd"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ang-p\u2019u",
+        "T\u2019ang-p\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992694
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"68ee214c688beccd1f251bb59c360c53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360009829,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1360009829,
+    "wof:lastmodified":1537709464,
+    "wof:name":"Tangpou",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.81656,
+    24.32506,
+    120.81656,
+    24.32506
+],
+  "geometry": {"coordinates":[120.81656,24.32506],"type":"Point"}
+}

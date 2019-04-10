@@ -1,0 +1,78 @@
+{
+  "id": 1259384641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.96861,24.98694,121.96861,24.98694",
+    "geom:latitude":24.98694,
+    "geom:longitude":121.96861,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F24",
+    "gn:admin4_code":"65000260009.0",
+    "gn:asciiname":"Daku'ao",
+    "gn:country_code":"TW",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6594411,
+    "gn:latitude":24.98694,
+    "gn:longitude":121.96861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Daku\u2019ao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u5800\u6fb3"
+    ],
+    "name:zho_x_variant":[
+        "Daku\u2019ao",
+        "Ta-ch\u00fceh-ao",
+        "Ta-k\u2019u-ao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6594411
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"418bc24424bd32ef9bd3c925783abf21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259384641,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1259384641,
+    "wof:lastmodified":1537709605,
+    "wof:name":"Daku'ao",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.96861,
+    24.98694,
+    121.96861,
+    24.98694
+],
+  "geometry": {"coordinates":[121.96861,24.98694],"type":"Point"}
+}

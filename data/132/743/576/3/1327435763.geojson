@@ -1,0 +1,77 @@
+{
+  "id": 1327435763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.41541,24.48218,118.41541,24.48218",
+    "geom:latitude":24.48218,
+    "geom:longitude":118.41541,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W02",
+    "gn:admin4_code":"9020020004.0",
+    "gn:asciiname":"Houshuitou",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675962,
+    "gn:latitude":24.48218,
+    "gn:longitude":118.41541,
+    "gn:modification_date":"2017-11-03",
+    "gn:name":"Houshuitou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5f8c\u6c34\u982d",
+        "Houshuitou"
+    ],
+    "name:zho_x_preferred":[
+        "Hou-shui-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675962
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3f1ec63fdd4b3dd99473bba075062306",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327435763,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1327435763,
+    "wof:lastmodified":1537709179,
+    "wof:name":"Houshuitou",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.41541,
+    24.48218,
+    118.41541,
+    24.48218
+],
+  "geometry": {"coordinates":[118.41540999999999,24.48218],"type":"Point"}
+}

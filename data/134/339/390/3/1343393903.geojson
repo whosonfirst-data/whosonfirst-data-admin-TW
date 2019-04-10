@@ -1,0 +1,81 @@
+{
+  "id": 1343393903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.75286,24.73462,121.75286,24.73462",
+    "geom:latitude":24.73462,
+    "geom:longitude":121.75286,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G01",
+    "gn:admin4_code":"10002010010.0",
+    "gn:asciiname":"Sijiuyi",
+    "gn:country_code":"TW",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668827,
+    "gn:latitude":24.73462,
+    "gn:longitude":121.75286,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sijiuyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ssu-l\u00fc-i",
+        "Ssu-chiu-i",
+        "Sijiuyi"
+    ],
+    "name:zho_x_preferred":[
+        "\u56db\u9b2e\u4e00"
+    ],
+    "name:zho_x_variant":[
+        "Ssu-l\u00fc-i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668827
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7a30e98b9222ee60b7f3c3780b6b12d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343393903,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1343393903,
+    "wof:lastmodified":1537708656,
+    "wof:name":"Sijiuyi",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.75286,
+    24.73462,
+    121.75286,
+    24.73462
+],
+  "geometry": {"coordinates":[121.75286,24.73462],"type":"Point"}
+}

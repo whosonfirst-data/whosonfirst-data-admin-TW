@@ -1,0 +1,76 @@
+{
+  "id": 1226747991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.77133,23.86438,120.77133,23.86438",
+    "geom:latitude":23.86438,
+    "geom:longitude":120.77133,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M08",
+    "gn:admin4_code":"10008080002.0",
+    "gn:asciiname":"Tiaomikengkou",
+    "gn:country_code":"TW",
+    "gn:dem":211,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649178,
+    "gn:latitude":23.86438,
+    "gn:longitude":120.77133,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tiaomikengkou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6311\u7c73\u5751\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019iao-mi-k\u2019eng-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649178
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"af2805691c23610864848b390d696624",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226747991,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1226747991,
+    "wof:lastmodified":1537709780,
+    "wof:name":"Tiaomikengkou",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.77133,
+    23.86438,
+    120.77133,
+    23.86438
+],
+  "geometry": {"coordinates":[120.77133000000001,23.86438],"type":"Point"}
+}

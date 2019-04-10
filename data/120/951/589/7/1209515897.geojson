@@ -1,0 +1,70 @@
+{
+  "id": 1209515897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.84122,24.18486,120.84122,24.18486",
+    "geom:latitude":24.18486,
+    "geom:longitude":120.84122,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B10",
+    "gn:admin4_code":"66000100017.0",
+    "gn:asciiname":"Shangduan",
+    "gn:country_code":"TW",
+    "gn:dem":458,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1991707,
+    "gn:latitude":24.18486,
+    "gn:longitude":120.84122,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangduan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shang-tuan"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u6bb5"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1991707
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f37ae856a6a98c35af306f5cab0355fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209515897
+        }
+    ],
+    "wof:id":1209515897,
+    "wof:lastmodified":1537709451,
+    "wof:name":"Shangduan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.84122,
+    24.18486,
+    120.84122,
+    24.18486
+],
+  "geometry": {"coordinates":[120.84122000000001,24.18486],"type":"Point"}
+}

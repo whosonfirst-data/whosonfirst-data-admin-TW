@@ -1,0 +1,76 @@
+{
+  "id": 1276121399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.93481,23.25983,120.93481,23.25983",
+    "geom:latitude":23.25983,
+    "geom:longitude":120.93481,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E37",
+    "gn:admin4_code":"64000370008.0",
+    "gn:asciiname":"Kuaigu",
+    "gn:country_code":"TW",
+    "gn:dem":2430,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6725032,
+    "gn:latitude":23.25983,
+    "gn:longitude":120.93481,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kuaigu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6a9c\u8c37"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019uai-ku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6725032
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"37dcc3fb85907644ea0a5cc367cd8fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276121399,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1276121399,
+    "wof:lastmodified":1537709901,
+    "wof:name":"Kuaigu",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.93481,
+    23.25983,
+    120.93481,
+    23.25983
+],
+  "geometry": {"coordinates":[120.93481,23.25983],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1259785495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.49983,24.97823,121.49983,24.97823",
+    "geom:latitude":24.97823,
+    "geom:longitude":121.49983,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F18",
+    "gn:admin4_code":"65000030042.0",
+    "gn:asciiname":"Piwei",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653616,
+    "gn:latitude":24.97823,
+    "gn:longitude":121.49983,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Piwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u57e4\u5c3e"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019i-wei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653616
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0f3d668652be699158ff4336cb2ab49a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259785495,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1259785495,
+    "wof:lastmodified":1537709843,
+    "wof:name":"Piwei",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.49983,
+    24.97823,
+    121.49983,
+    24.97823
+],
+  "geometry": {"coordinates":[121.49983,24.97823],"type":"Point"}
+}

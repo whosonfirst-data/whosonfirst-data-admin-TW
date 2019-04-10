@@ -1,0 +1,78 @@
+{
+  "id": 1260284713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.4087,23.68,120.4087,23.68",
+    "geom:latitude":23.68,
+    "geom:longitude":120.4087,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P03",
+    "gn:admin4_code":"10009030012.0",
+    "gn:asciiname":"Xiananzi",
+    "gn:country_code":"TW",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675723,
+    "gn:latitude":23.68,
+    "gn:longitude":120.4087,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiananzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siananzih",
+        "Xiananzi",
+        "Hsia-nan-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u6e73\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675723
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"337024fda112a9573c1567534c310893",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260284713,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1260284713,
+    "wof:lastmodified":1537709155,
+    "wof:name":"Xiananzi",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.4087,
+    23.68,
+    120.4087,
+    23.68
+],
+  "geometry": {"coordinates":[120.4087,23.68],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1277109591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.3818,24.82152,121.3818,24.82152",
+    "geom:latitude":24.82152,
+    "geom:longitude":121.3818,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H13",
+    "gn:admin4_code":"68000130004.0",
+    "gn:asciiname":"Youxiayun",
+    "gn:country_code":"TW",
+    "gn:dem":557,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678393,
+    "gn:latitude":24.82152,
+    "gn:longitude":121.3818,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Youxiayun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chih-chi",
+        "Youxiayun",
+        "Chih-chi-she",
+        "Yousiayun"
+    ],
+    "name:zho_x_preferred":[
+        "\u512a\u971e\u96f2"
+    ],
+    "name:zho_x_variant":[
+        "Hsi-k\u2019ai-she",
+        "Hsi-k\u2019ai",
+        "Yu-hsia-y\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678393
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"976e4b31ef6cb16d7014511ec336c0af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1277109591,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1277109591,
+    "wof:lastmodified":1537709364,
+    "wof:name":"Youxiayun",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.3818,
+    24.82152,
+    121.3818,
+    24.82152
+],
+  "geometry": {"coordinates":[121.3818,24.82152],"type":"Point"}
+}

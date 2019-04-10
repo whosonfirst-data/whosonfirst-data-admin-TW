@@ -1,0 +1,80 @@
+{
+  "id": 1360208737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.55889,23.72833,120.55889,23.72833",
+    "geom:latitude":23.72833,
+    "geom:longitude":120.55889,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P01",
+    "gn:admin4_code":"10009010030.0",
+    "gn:asciiname":"Xiashuiweikou",
+    "gn:country_code":"TW",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668899,
+    "gn:latitude":23.72833,
+    "gn:longitude":120.55889,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiashuiweikou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siashueiweikou"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u6c34\u5c3e\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "Shui-wei-k\u2019ou",
+        "Hsia-shui-wei-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668899
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c5ee68b9f731a47c04dc0c2dffd9ba52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360208737,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1360208737,
+    "wof:lastmodified":1537708663,
+    "wof:name":"Xiashuiweikou",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.55889,
+    23.72833,
+    120.55889,
+    23.72833
+],
+  "geometry": {"coordinates":[120.55889000000001,23.72833],"type":"Point"}
+}

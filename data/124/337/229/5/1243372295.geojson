@@ -1,0 +1,80 @@
+{
+  "id": 1243372295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.43306,22.92444,120.43306,22.92444",
+    "geom:latitude":22.92444,
+    "geom:longitude":120.43306,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E35",
+    "gn:admin4_code":"64000350011.0",
+    "gn:asciiname":"Qiedonglun",
+    "gn:country_code":"TW",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6600977,
+    "gn:latitude":22.92444,
+    "gn:longitude":120.43306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qiedonglun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciedonglun",
+        "Qiedonglun"
+    ],
+    "name:zho_x_preferred":[
+        "\u8304\u82f3\u5d19"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ieh-tung-lun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6600977
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1aadec34fa14f79439f75e6dd7a6cfdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243372295,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1243372295,
+    "wof:lastmodified":1537709636,
+    "wof:name":"Qiedonglun",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.43306,
+    22.92444,
+    120.43306,
+    22.92444
+],
+  "geometry": {"coordinates":[120.43306,22.92444],"type":"Point"}
+}

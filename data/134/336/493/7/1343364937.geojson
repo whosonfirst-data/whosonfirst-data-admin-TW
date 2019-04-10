@@ -1,0 +1,78 @@
+{
+  "id": 1343364937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.34303,23.11519,120.34303,23.11519",
+    "geom:latitude":23.11519,
+    "geom:longitude":120.34303,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R22",
+    "gn:admin4_code":"67000220001.0",
+    "gn:asciiname":"Beishizhou",
+    "gn:country_code":"TW",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670735,
+    "gn:latitude":23.11519,
+    "gn:longitude":120.34303,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Beishizhou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiu-chuang",
+        "Beishihjhou",
+        "Pei-shih-chou"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u52e2\u6d32"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670735
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4a987a9f20e3cc7a8edd5d92abc5c6ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343364937,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1343364937,
+    "wof:lastmodified":1537708799,
+    "wof:name":"Beishizhou",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.34303,
+    23.11519,
+    120.34303,
+    23.11519
+],
+  "geometry": {"coordinates":[120.34303,23.11519],"type":"Point"}
+}

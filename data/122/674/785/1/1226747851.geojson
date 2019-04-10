@@ -1,0 +1,79 @@
+{
+  "id": 1226747851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.46108,23.94628,120.46108,23.94628",
+    "geom:latitude":23.94628,
+    "geom:longitude":120.46108,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N06",
+    "gn:admin4_code":"10007110013.0",
+    "gn:asciiname":"Zhutouzi",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677060,
+    "gn:latitude":23.94628,
+    "gn:longitude":120.46108,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhutouzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhutouzih"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u982d\u5b50"
+    ],
+    "name:zho_x_variant":[
+        "Chu-t\u2019ou-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677060
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"698230919497fbf859cfa78d50a7933d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226747851,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1226747851,
+    "wof:lastmodified":1537709261,
+    "wof:name":"Zhutouzi",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.46108,
+    23.94628,
+    120.46108,
+    23.94628
+],
+  "geometry": {"coordinates":[120.46108,23.94628],"type":"Point"}
+}

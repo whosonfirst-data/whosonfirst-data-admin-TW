@@ -1,0 +1,77 @@
+{
+  "id": 1242795371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.40822,24.52723,118.40822,24.52723",
+    "geom:latitude":24.52723,
+    "geom:longitude":118.40822,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W02",
+    "gn:admin4_code":"9020020007.0",
+    "gn:asciiname":"Mashan",
+    "gn:country_code":"TW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7502885,
+    "gn:latitude":24.52723,
+    "gn:longitude":118.40822,
+    "gn:modification_date":"2017-11-03",
+    "gn:name":"Mashan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma-shan",
+        "\u99ac\u5c71",
+        "Mashan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679635,
+        102191569,
+        85632403,
+        1108497279,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7502885
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fbed91aa76ff90c76ead72c5bce1c12b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242795371,
+            "macrocounty_id":1108497279,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1242795371,
+    "wof:lastmodified":1537709985,
+    "wof:name":"Mashan",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.40822,
+    24.52723,
+    118.40822,
+    24.52723
+],
+  "geometry": {"coordinates":[118.40822,24.52723],"type":"Point"}
+}

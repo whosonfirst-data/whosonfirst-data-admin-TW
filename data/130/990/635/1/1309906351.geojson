@@ -1,0 +1,80 @@
+{
+  "id": 1309906351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.78333,23.74639,120.78333,23.74639",
+    "geom:latitude":23.74639,
+    "geom:longitude":120.78333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M07",
+    "gn:admin4_code":"10008070010.0",
+    "gn:asciiname":"Dashuikuping",
+    "gn:country_code":"TW",
+    "gn:dem":685,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602730,
+    "gn:latitude":23.74639,
+    "gn:longitude":120.78333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dashuikuping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dashueikuping",
+        "Dashuikuping"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6c34\u5800\u576a"
+    ],
+    "name:zho_x_variant":[
+        "Ta-shui-k\u2019u-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602730
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7f0a283293f93162156a7e3e0a4705c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309906351,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1309906351,
+    "wof:lastmodified":1537709667,
+    "wof:name":"Dashuikuping",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.78333,
+    23.74639,
+    120.78333,
+    23.74639
+],
+  "geometry": {"coordinates":[120.78333000000001,23.74639],"type":"Point"}
+}

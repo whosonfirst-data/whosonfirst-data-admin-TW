@@ -1,0 +1,81 @@
+{
+  "id": 1226448419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.42305,23.61426,120.42305,23.61426",
+    "geom:latitude":23.61426,
+    "geom:longitude":120.42305,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q04",
+    "gn:admin4_code":"10010040007.0",
+    "gn:asciiname":"Paizilu",
+    "gn:country_code":"TW",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671154,
+    "gn:latitude":23.61426,
+    "gn:longitude":120.42305,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Paizilu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Paizihlu"
+    ],
+    "name:zho_x_preferred":[
+        "P\u2019ai-lu-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "P\u2019ai-lu",
+        "\u6392\u5b50\u8def",
+        "P\u2019ai-tzu-lu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671154
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6d6870c8ffc6c477d32f0769e54a9f95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226448419,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1226448419,
+    "wof:lastmodified":1537708824,
+    "wof:name":"Paizilu",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.42305,
+    23.61426,
+    120.42305,
+    23.61426
+],
+  "geometry": {"coordinates":[120.42305,23.61426],"type":"Point"}
+}

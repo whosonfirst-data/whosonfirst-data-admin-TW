@@ -1,0 +1,79 @@
+{
+  "id": 1226545837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.39516,23.17824,120.39516,23.17824",
+    "geom:latitude":23.17824,
+    "geom:longitude":120.39516,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R10",
+    "gn:admin4_code":"67000100005.0",
+    "gn:asciiname":"Cizibu",
+    "gn:country_code":"TW",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6749941,
+    "gn:latitude":23.17824,
+    "gn:longitude":120.39516,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Cizibu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cihzihbu"
+    ],
+    "name:zho_x_preferred":[
+        "\u83bf\u5b50\u57d4"
+    ],
+    "name:zho_x_variant":[
+        "Tz\u2019u-tzu-pu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6749941
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2df899b4497be86674aba269c6d3aad5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226545837,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1226545837,
+    "wof:lastmodified":1537709958,
+    "wof:name":"Cizibu",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.39516,
+    23.17824,
+    120.39516,
+    23.17824
+],
+  "geometry": {"coordinates":[120.39516,23.17824],"type":"Point"}
+}

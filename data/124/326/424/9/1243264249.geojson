@@ -1,0 +1,76 @@
+{
+  "id": 1243264249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.00025,23.96014,121.00025,23.96014",
+    "geom:latitude":23.96014,
+    "geom:longitude":121.00025,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M02",
+    "gn:admin4_code":"10008020028.0",
+    "gn:asciiname":"Liyuku",
+    "gn:country_code":"TW",
+    "gn:dem":533,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672651,
+    "gn:latitude":23.96014,
+    "gn:longitude":121.00025,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liyuku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9bc9\u9b5a\u5800"
+    ],
+    "name:zho_x_variant":[
+        "Li-y\u00fc-k\u2019u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672651
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1e6bd58fb3928feaaf5b79337527434a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243264249,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1243264249,
+    "wof:lastmodified":1537708918,
+    "wof:name":"Liyuku",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.00025,
+    23.96014,
+    121.00025,
+    23.96014
+],
+  "geometry": {"coordinates":[121.00024999999999,23.96014],"type":"Point"}
+}

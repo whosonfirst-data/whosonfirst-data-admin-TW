@@ -1,0 +1,80 @@
+{
+  "id": 1226448869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.65556,24.38861,120.65556,24.38861",
+    "geom:latitude":24.38861,
+    "geom:longitude":120.65556,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B11",
+    "gn:admin4_code":"66000110023.0",
+    "gn:asciiname":"Rinanshe",
+    "gn:country_code":"TW",
+    "gn:dem":63,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674110,
+    "gn:latitude":24.38861,
+    "gn:longitude":120.65556,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Rinanshe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsing-fu-li",
+        "Jih-nan",
+        "Rinanshe",
+        "Rihnanshe",
+        "Jih-nan-she"
+    ],
+    "name:zho_x_preferred":[
+        "\u65e5\u5357\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674110
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d97c1f76e01e3d43c86fa4ebacd704a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226448869,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1226448869,
+    "wof:lastmodified":1537709021,
+    "wof:name":"Rinanshe",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.65556,
+    24.38861,
+    120.65556,
+    24.38861
+],
+  "geometry": {"coordinates":[120.65555999999999,24.38861],"type":"Point"}
+}

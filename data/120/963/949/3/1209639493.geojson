@@ -1,0 +1,75 @@
+{
+  "id": 1209639493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.72194,21.94806,120.72194,21.94806",
+    "geom:latitude":21.94806,
+    "geom:longitude":120.72194,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T04",
+    "gn:admin4_code":"10013040014.0",
+    "gn:asciiname":"Daqiedong",
+    "gn:country_code":"TW",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668607,
+    "gn:latitude":21.94806,
+    "gn:longitude":120.72194,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Daqiedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-chia-tung",
+        "Daqiedong",
+        "Daciedong"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u8304\u82f3"
+    ],
+    "name:zho_x_variant":[
+        "Ta-ch\u2019ieh-tung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668607
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"378e56654e4023e5f9db98fddc1be590",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209639493
+        }
+    ],
+    "wof:id":1209639493,
+    "wof:lastmodified":1537708640,
+    "wof:name":"Daqiedong",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.72194,
+    21.94806,
+    120.72194,
+    21.94806
+],
+  "geometry": {"coordinates":[120.72194,21.94806],"type":"Point"}
+}

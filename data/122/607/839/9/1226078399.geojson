@@ -1,0 +1,76 @@
+{
+  "id": 1226078399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.70786,24.51492,120.70786,24.51492",
+    "geom:latitude":24.51492,
+    "geom:longitude":120.70786,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K03",
+    "gn:admin4_code":"10005030018.0",
+    "gn:asciiname":"Dananwo",
+    "gn:country_code":"TW",
+    "gn:dem":28,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668047,
+    "gn:latitude":24.51492,
+    "gn:longitude":120.70786,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dananwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-nan-wo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6e73\u7aa9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668047
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"90d4508ba57c88276367e03bd150066d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226078399,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1226078399,
+    "wof:lastmodified":1537708606,
+    "wof:name":"Dananwo",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.70786,
+    24.51492,
+    120.70786,
+    24.51492
+],
+  "geometry": {"coordinates":[120.70786,24.51492],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1276341027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.69441,23.87465,120.69441,23.87465",
+    "geom:latitude":23.87465,
+    "geom:longitude":120.69441,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M06",
+    "gn:admin4_code":"10008060007.0",
+    "gn:asciiname":"Kezhuang",
+    "gn:country_code":"TW",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650246,
+    "gn:latitude":23.87465,
+    "gn:longitude":120.69441,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kezhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kejhuang",
+        "Kezhuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ba2\u5e84"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019o-chuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650246
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ed39f79f46c24dbd1ead27db1fd6edbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276341027,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1276341027,
+    "wof:lastmodified":1537709799,
+    "wof:name":"Kezhuang",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.69441,
+    23.87465,
+    120.69441,
+    23.87465
+],
+  "geometry": {"coordinates":[120.69441,23.87465],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293807785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.94606,24.65356,120.94606,24.65356",
+    "geom:latitude":24.65356,
+    "geom:longitude":120.94606,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K13",
+    "gn:admin4_code":"10005160005.0",
+    "gn:asciiname":"Xialinping",
+    "gn:country_code":"TW",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675753,
+    "gn:latitude":24.65356,
+    "gn:longitude":120.94606,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xialinping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sialinping"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u6797\u576a"
+    ],
+    "name:zho_x_variant":[
+        "Hsia-lin-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675753
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c793eda8655c21b0905a2d294476b84a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293807785,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1293807785,
+    "wof:lastmodified":1537709159,
+    "wof:name":"Xialinping",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.94606,
+    24.65356,
+    120.94606,
+    24.65356
+],
+  "geometry": {"coordinates":[120.94606,24.65356],"type":"Point"}
+}

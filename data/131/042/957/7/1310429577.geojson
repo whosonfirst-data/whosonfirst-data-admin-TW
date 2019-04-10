@@ -1,0 +1,73 @@
+{
+  "id": 1310429577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.05,24.28333,121.05,24.28333",
+    "geom:latitude":24.28333,
+    "geom:longitude":121.05,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B29",
+    "gn:admin4_code":"66000290003.0",
+    "gn:asciiname":"Zhongxueshanlinban",
+    "gn:country_code":"TW",
+    "gn:dem":2566,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677370,
+    "gn:latitude":24.28333,
+    "gn:longitude":121.05,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongxueshanlinban",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chung-hs\u00fceh-shan-lin-pan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677370
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"852fd3d472b157ef94c8164d15fba164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310429577,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1310429577,
+    "wof:lastmodified":1537709288,
+    "wof:name":"Zhongxueshanlinban",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.05,
+    24.28333,
+    121.05,
+    24.28333
+],
+  "geometry": {"coordinates":[121.05,24.28333],"type":"Point"}
+}

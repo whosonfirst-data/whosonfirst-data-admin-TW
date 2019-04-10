@@ -1,0 +1,76 @@
+{
+  "id": 1210019793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60293,22.88969,120.60293,22.88969",
+    "geom:latitude":22.88969,
+    "geom:longitude":120.60293,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E32",
+    "gn:admin4_code":"64000320003.0",
+    "gn:asciiname":"Shaotankeng",
+    "gn:country_code":"TW",
+    "gn:dem":138,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669623,
+    "gn:latitude":22.88969,
+    "gn:longitude":120.60293,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shaotankeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u71d2\u70ad\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Shao-t\u2019an-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669623
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bf039ea0fe3e3af64662e7a14a04c8f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1210019793,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1210019793,
+    "wof:lastmodified":1537708721,
+    "wof:name":"Shaotankeng",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60293,
+    22.88969,
+    120.60293,
+    22.88969
+],
+  "geometry": {"coordinates":[120.60293,22.88969],"type":"Point"}
+}

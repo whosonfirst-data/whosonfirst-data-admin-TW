@@ -1,0 +1,81 @@
+{
+  "id": 1343262151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.29353,23.64137,120.29353,23.64137",
+    "geom:latitude":23.64137,
+    "geom:longitude":120.29353,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P17",
+    "gn:admin4_code":"10009170009.0",
+    "gn:asciiname":"Tandong",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667956,
+    "gn:latitude":23.64137,
+    "gn:longitude":120.29353,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tandong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wa-yao",
+        "Tandong"
+    ],
+    "name:zho_x_preferred":[
+        "T\u2019an-tung-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u6f6d\u6771",
+        "T\u2019an-tung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667956
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"54262aaddeaa22079f8308db19e9ecbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343262151,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1343262151,
+    "wof:lastmodified":1537708601,
+    "wof:name":"Tandong",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.29353,
+    23.64137,
+    120.29353,
+    23.64137
+],
+  "geometry": {"coordinates":[120.29353,23.64137],"type":"Point"}
+}

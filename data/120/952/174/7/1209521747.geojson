@@ -1,0 +1,73 @@
+{
+  "id": 1209521747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.29469,23.14993,120.29469,23.14993",
+    "geom:latitude":23.14993,
+    "geom:longitude":120.29469,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R19",
+    "gn:admin4_code":"67000190013.0",
+    "gn:asciiname":"Dongshizhai",
+    "gn:country_code":"TW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666464,
+    "gn:latitude":23.14993,
+    "gn:longitude":120.29469,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongshizhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-shih",
+        "Dongshizhai",
+        "Dongshihjhai",
+        "Tung-shih-chai"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u52e2\u5b85"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666464
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5e7d95216f10950e635fd887beb99b8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209521747
+        }
+    ],
+    "wof:id":1209521747,
+    "wof:lastmodified":1537708501,
+    "wof:name":"Dongshizhai",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.29469,
+    23.14993,
+    120.29469,
+    23.14993
+],
+  "geometry": {"coordinates":[120.29469,23.14993],"type":"Point"}
+}

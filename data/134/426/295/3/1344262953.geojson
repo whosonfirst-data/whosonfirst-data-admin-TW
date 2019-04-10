@@ -1,0 +1,79 @@
+{
+  "id": 1344262953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.21222,24.87694,121.21222,24.87694",
+    "geom:latitude":24.87694,
+    "geom:longitude":121.21222,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H09",
+    "gn:admin4_code":"68000090023.0",
+    "gn:asciiname":"Quanshuikong",
+    "gn:country_code":"TW",
+    "gn:dem":224,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6574583,
+    "gn:latitude":24.87694,
+    "gn:longitude":121.21222,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Quanshuikong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cyuanshueikong"
+    ],
+    "name:zho_x_preferred":[
+        "\u6cc9\u6c34\u7a7a"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019\u00fcan-shui-k\u2019ung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6574583
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3378dbe6b0e0e737929e047560f33b28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344262953,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1344262953,
+    "wof:lastmodified":1537709529,
+    "wof:name":"Quanshuikong",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.21222,
+    24.87694,
+    121.21222,
+    24.87694
+],
+  "geometry": {"coordinates":[121.21222,24.87694],"type":"Point"}
+}

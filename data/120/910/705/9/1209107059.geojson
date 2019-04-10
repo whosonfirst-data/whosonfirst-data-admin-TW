@@ -1,0 +1,74 @@
+{
+  "id": 1209107059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.51278,23.25667,119.51278,23.25667",
+    "geom:latitude":23.25667,
+    "geom:longitude":119.51278,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PEN",
+    "gn:admin3_code":"X05",
+    "gn:admin4_code":"10016050006.0",
+    "gn:asciiname":"Tazi",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6600863,
+    "gn:latitude":23.25667,
+    "gn:longitude":119.51278,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tazi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tazih"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u4ed4"
+    ],
+    "name:zho_x_variant":[
+        "Tung-p\u2019ing",
+        "T\u2019a-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6600863
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e2e973a94a708c205bae11eb976d06fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209107059
+        }
+    ],
+    "wof:id":1209107059,
+    "wof:lastmodified":1537709632,
+    "wof:name":"Tazi",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.51278,
+    23.25667,
+    119.51278,
+    23.25667
+],
+  "geometry": {"coordinates":[119.51278000000001,23.25667],"type":"Point"}
+}

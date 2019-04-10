@@ -1,0 +1,78 @@
+{
+  "id": 1276335183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.54802,25.08319,121.54802,25.08319",
+    "geom:latitude":25.08319,
+    "geom:longitude":121.54802,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A10",
+    "gn:admin4_code":"63000040014.0",
+    "gn:asciiname":"Zhuxialan",
+    "gn:country_code":"TW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6729093,
+    "gn:latitude":25.08319,
+    "gn:longitude":121.54802,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhuxialan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhusialan",
+        "Zhuxialan",
+        "Chu-hsia-lan"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u4e0b\u7c43"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6729093
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7b08254516fa38c7efaa41a248d642c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276335183,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1276335183,
+    "wof:lastmodified":1537709915,
+    "wof:name":"Zhuxialan",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.54802,
+    25.08319,
+    121.54802,
+    25.08319
+],
+  "geometry": {"coordinates":[121.54801999999999,25.08319],"type":"Point"}
+}

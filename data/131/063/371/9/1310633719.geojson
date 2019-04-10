@@ -1,0 +1,78 @@
+{
+  "id": 1310633719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.88316,23.75352,120.88316,23.75352",
+    "geom:latitude":23.75352,
+    "geom:longitude":120.88316,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M12",
+    "gn:admin4_code":"10008120001.0",
+    "gn:asciiname":"Shigongli",
+    "gn:country_code":"TW",
+    "gn:dem":1033,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6648786,
+    "gn:latitude":23.75352,
+    "gn:longitude":120.88316,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shigongli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihgongli",
+        "Shigongli",
+        "Shih-kung-li"
+    ],
+    "name:zho_x_preferred":[
+        "\u5341\u516c\u91cc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6648786
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"aad4267c79f2253de1ad8efdb9dabe1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310633719,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1310633719,
+    "wof:lastmodified":1537709772,
+    "wof:name":"Shigongli",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.88316,
+    23.75352,
+    120.88316,
+    23.75352
+],
+  "geometry": {"coordinates":[120.88316,23.75352],"type":"Point"}
+}

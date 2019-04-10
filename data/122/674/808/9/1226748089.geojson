@@ -1,0 +1,78 @@
+{
+  "id": 1226748089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7294,24.50194,120.7294,24.50194",
+    "geom:latitude":24.50194,
+    "geom:longitude":120.7294,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K03",
+    "gn:admin4_code":"10005030016.0",
+    "gn:asciiname":"Xiangsiwo",
+    "gn:country_code":"TW",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6657725,
+    "gn:latitude":24.50194,
+    "gn:longitude":120.7294,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiangsiwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siangsihwo",
+        "Xiangsiwo",
+        "Hsiang-ssu-wo"
+    ],
+    "name:zho_x_preferred":[
+        "\u76f8\u601d\u7aa9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6657725
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"57be08143ede6597146e52848fb32bc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226748089,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1226748089,
+    "wof:lastmodified":1537709885,
+    "wof:name":"Xiangsiwo",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7294,
+    24.50194,
+    120.7294,
+    24.50194
+],
+  "geometry": {"coordinates":[120.7294,24.50194],"type":"Point"}
+}

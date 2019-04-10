@@ -1,0 +1,78 @@
+{
+  "id": 1309839023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.92308,24.06398,120.92308,24.06398",
+    "geom:latitude":24.06398,
+    "geom:longitude":120.92308,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M10",
+    "gn:admin4_code":"10008100004.0",
+    "gn:asciiname":"Xiaolilin",
+    "gn:country_code":"TW",
+    "gn:dem":377,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1991420,
+    "gn:latitude":24.06398,
+    "gn:longitude":120.92308,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaolilin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siaolilin",
+        "Xiaolilin",
+        "Hsiao-li-lin"
+    ],
+    "name:zho_x_preferred":[
+        "\u6821\u6817\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1991420
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"585584dd6a079b56dfc0f614356dc60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309839023,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1309839023,
+    "wof:lastmodified":1537709447,
+    "wof:name":"Xiaolilin",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.92308,
+    24.06398,
+    120.92308,
+    24.06398
+],
+  "geometry": {"coordinates":[120.92308,24.06398],"type":"Point"}
+}

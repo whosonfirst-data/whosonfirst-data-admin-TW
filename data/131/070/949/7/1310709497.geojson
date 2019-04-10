@@ -1,0 +1,79 @@
+{
+  "id": 1310709497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.49935,24.91213,121.49935,24.91213",
+    "geom:latitude":24.91213,
+    "geom:longitude":121.49935,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F07",
+    "gn:admin4_code":"65000060069.0",
+    "gn:asciiname":"Daqutian",
+    "gn:country_code":"TW",
+    "gn:dem":456,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653628,
+    "gn:latitude":24.91213,
+    "gn:longitude":121.49935,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Daqutian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dacyutian"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5340\u7530"
+    ],
+    "name:zho_x_variant":[
+        "Ta-ch\u2019\u00fc-t\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653628
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9fb47a93fdcf334c49d238494abddf38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310709497,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1310709497,
+    "wof:lastmodified":1537709844,
+    "wof:name":"Daqutian",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.49935,
+    24.91213,
+    121.49935,
+    24.91213
+],
+  "geometry": {"coordinates":[121.49935000000001,24.91213],"type":"Point"}
+}

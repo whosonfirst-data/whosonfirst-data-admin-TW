@@ -1,0 +1,81 @@
+{
+  "id": 1226540631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.58459,24.0971,120.58459,24.0971",
+    "geom:latitude":24.0971,
+    "geom:longitude":120.58459,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N01",
+    "gn:admin4_code":"10007010057.0",
+    "gn:asciiname":"Sancunzhuang",
+    "gn:country_code":"TW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666755,
+    "gn:latitude":24.0971,
+    "gn:longitude":120.58459,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sancunzhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tu-ch\u2019uan-t\u2019ou",
+        "San-ts\u2019un-li",
+        "\u4e09\u6751\u838a",
+        "Sancunzhuang",
+        "Sancunjhuang",
+        "San-ts\u2019un-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "San-ts\u2019un-chuang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666755
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"33d1bcebd892f2ae98337d49cfa8afde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226540631,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1226540631,
+    "wof:lastmodified":1537708519,
+    "wof:name":"Sancunzhuang",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.58459,
+    24.0971,
+    120.58459,
+    24.0971
+],
+  "geometry": {"coordinates":[120.58459000000001,24.0971],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1360185613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.34478,25.01102,121.34478,25.01102",
+    "geom:latitude":25.01102,
+    "geom:longitude":121.34478,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H07",
+    "gn:admin4_code":"68000070001.0",
+    "gn:asciiname":"Fengshukeng",
+    "gn:country_code":"TW",
+    "gn:dem":144,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676594,
+    "gn:latitude":25.01102,
+    "gn:longitude":121.34478,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fengshukeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fongshukeng"
+    ],
+    "name:zho_x_preferred":[
+        "Feng-shu-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u6953\u6a39\u5751",
+        "Feng-shu-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676594
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2cfb2908f5c06303b8a191599a7679cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360185613,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1360185613,
+    "wof:lastmodified":1537709226,
+    "wof:name":"Fengshukeng",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.34478,
+    25.01102,
+    121.34478,
+    25.01102
+],
+  "geometry": {"coordinates":[121.34478,25.01102],"type":"Point"}
+}

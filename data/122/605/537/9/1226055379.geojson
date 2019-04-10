@@ -1,0 +1,79 @@
+{
+  "id": 1226055379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2786,22.72383,120.2786,22.72383",
+    "geom:latitude":22.72383,
+    "geom:longitude":120.2786,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E04",
+    "gn:admin4_code":"64000040036.0",
+    "gn:asciiname":"Yuanzhonggang",
+    "gn:country_code":"TW",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677429,
+    "gn:latitude":22.72383,
+    "gn:longitude":120.2786,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yuanzhonggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Y\u00fcan-chung-kang",
+        "Chung-ho-li",
+        "Y\u00fcan-chung-chiang",
+        "\u63f4\u4e2d\u6e2f",
+        "Chung-ho",
+        "Yuanzhonggang",
+        "Yuanjhonggang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677429
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9068c243b805c49f4dec3c6a44e083cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226055379,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1226055379,
+    "wof:lastmodified":1537709293,
+    "wof:name":"Yuanzhonggang",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2786,
+    22.72383,
+    120.2786,
+    22.72383
+],
+  "geometry": {"coordinates":[120.2786,22.72383],"type":"Point"}
+}

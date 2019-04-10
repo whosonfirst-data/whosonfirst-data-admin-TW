@@ -1,0 +1,75 @@
+{
+  "id": 1209039701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.65749,23.76776,120.65749,23.76776",
+    "geom:latitude":23.76776,
+    "geom:longitude":120.65749,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M04",
+    "gn:admin4_code":"10008040008.0",
+    "gn:asciiname":"Lengshuikeng",
+    "gn:country_code":"TW",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673022,
+    "gn:latitude":23.76776,
+    "gn:longitude":120.65749,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Lengshuikeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lengshueikeng",
+        "Lengshuikeng"
+    ],
+    "name:zho_x_preferred":[
+        "Lang-shui-k\u2019eng"
+    ],
+    "name:zho_x_variant":[
+        "\u51b7\u6c34\u5751",
+        "Leng-shui-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673022
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cd6fd1782d25417012ac0c0e655503e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209039701
+        }
+    ],
+    "wof:id":1209039701,
+    "wof:lastmodified":1537708942,
+    "wof:name":"Lengshuikeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.65749,
+    23.76776,
+    120.65749,
+    23.76776
+],
+  "geometry": {"coordinates":[120.65749,23.76776],"type":"Point"}
+}

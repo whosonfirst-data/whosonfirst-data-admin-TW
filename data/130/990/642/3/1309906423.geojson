@@ -1,0 +1,80 @@
+{
+  "id": 1309906423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7841,23.80474,120.7841,23.80474",
+    "geom:latitude":23.80474,
+    "geom:longitude":120.7841,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M07",
+    "gn:admin4_code":"10008070013.0",
+    "gn:asciiname":"Ruitian",
+    "gn:country_code":"TW",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649138,
+    "gn:latitude":23.80474,
+    "gn:longitude":120.7841,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Ruitian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Rueitian",
+        "Ruitian"
+    ],
+    "name:zho_x_preferred":[
+        "\u745e\u7530"
+    ],
+    "name:zho_x_variant":[
+        "Jui-t\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649138
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e5cee976ede661512c87dd978f2aa1df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309906423,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1309906423,
+    "wof:lastmodified":1537709778,
+    "wof:name":"Ruitian",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7841,
+    23.80474,
+    120.7841,
+    23.80474
+],
+  "geometry": {"coordinates":[120.7841,23.80474],"type":"Point"}
+}

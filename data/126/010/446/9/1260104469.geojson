@@ -1,0 +1,77 @@
+{
+  "id": 1260104469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.91276,24.45272,120.91276,24.45272",
+    "geom:latitude":24.45272,
+    "geom:longitude":120.91276,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K18",
+    "gn:admin4_code":"10005180003.0",
+    "gn:asciiname":"Ershifen",
+    "gn:country_code":"TW",
+    "gn:dem":324,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676891,
+    "gn:latitude":24.45272,
+    "gn:longitude":120.91276,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Ershifen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erh-shih-fen",
+        "Ershihfen"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e8c\u5341\u4efd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676891
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"47e09fa6dff4c3f52889e9d1eff152f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260104469,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1260104469,
+    "wof:lastmodified":1537709247,
+    "wof:name":"Ershifen",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.91276,
+    24.45272000000001,
+    120.91276,
+    24.45272000000001
+],
+  "geometry": {"coordinates":[120.91276000000001,24.45272000000001],"type":"Point"}
+}

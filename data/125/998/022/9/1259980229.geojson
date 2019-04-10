@@ -1,0 +1,79 @@
+{
+  "id": 1259980229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.86786,24.57467,121.86786,24.57467",
+    "geom:latitude":24.57467,
+    "geom:longitude":121.86786,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G09",
+    "gn:admin4_code":"10002030023.0",
+    "gn:asciiname":"Jin'aokeng",
+    "gn:country_code":"TW",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647028,
+    "gn:latitude":24.57467,
+    "gn:longitude":121.86786,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jin\u2019aokeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u76e1\u6fb3\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Jin\u2019aokeng",
+        "Chin-ao-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679567,
+        102191569,
+        85632403,
+        1108499379,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647028
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"51b2897c732ca78c55eb0a8994ed859d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259980229,
+            "macrocounty_id":1108499379,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1259980229,
+    "wof:lastmodified":1537709750,
+    "wof:name":"Jin'aokeng",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.86786,
+    24.57467,
+    121.86786,
+    24.57467
+],
+  "geometry": {"coordinates":[121.86785999999999,24.57467],"type":"Point"}
+}

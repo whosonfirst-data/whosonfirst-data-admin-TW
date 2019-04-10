@@ -1,0 +1,76 @@
+{
+  "id": 1327437627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.91327,24.17177,120.91327,24.17177",
+    "geom:latitude":24.17177,
+    "geom:longitude":120.91327,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B29",
+    "gn:admin4_code":"66000290002.0",
+    "gn:asciiname":"Bailu",
+    "gn:country_code":"TW",
+    "gn:dem":608,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671153,
+    "gn:latitude":24.17177,
+    "gn:longitude":120.91327,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bailu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pai-lu"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u9e7f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671153
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b0a836e11ba6361b7d0eeb24422b817b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327437627,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1327437627,
+    "wof:lastmodified":1537708824,
+    "wof:name":"Bailu",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.91327,
+    24.17177,
+    120.91327,
+    24.17177
+],
+  "geometry": {"coordinates":[120.91327,24.17177],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1209615499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.40083,23.43028,120.40083,23.43028",
+    "geom:latitude":23.43028,
+    "geom:longitude":120.40083,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q13",
+    "gn:admin4_code":"10010120002.0",
+    "gn:asciiname":"Shuishang",
+    "gn:country_code":"TW",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668957,
+    "gn:latitude":23.43028,
+    "gn:longitude":120.40083,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Shuishang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shui-shang-chuang",
+        "Shui-Shan",
+        "Shuishang",
+        "Shueishang",
+        "Shui-shang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u4e0a"
+    ],
+    "name:zho_x_variant":[
+        "Shui-k\u2019u-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668957,
+        "wk:page":"Shuishang"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"20da6d8ddf6342d6be4d45fcda70dca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209615499
+        }
+    ],
+    "wof:id":1209615499,
+    "wof:lastmodified":1537708668,
+    "wof:name":"Shuishang",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.40083,
+    23.43028,
+    120.40083,
+    23.43028
+],
+  "geometry": {"coordinates":[120.40083,23.43028],"type":"Point"}
+}

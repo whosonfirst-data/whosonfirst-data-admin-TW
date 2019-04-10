@@ -1,0 +1,73 @@
+{
+  "id": 1209438979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.66246,23.58192,119.66246,23.58192",
+    "geom:latitude":23.58192,
+    "geom:longitude":119.66246,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PEN",
+    "gn:admin3_code":"X02",
+    "gn:admin4_code":"10016020002.0",
+    "gn:asciiname":"Hudong",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674263,
+    "gn:latitude":23.58192,
+    "gn:longitude":119.66246,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hudong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hu-tung"
+    ],
+    "name:zho_x_preferred":[
+        "Hu-tung-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u6e56\u6771"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674263
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"27a4ecbd93ea151ef178c8900a42891d",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209438979
+        }
+    ],
+    "wof:id":1209438979,
+    "wof:lastmodified":1537709031,
+    "wof:name":"Hudong",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.66246,
+    23.58192,
+    119.66246,
+    23.58192
+],
+  "geometry": {"coordinates":[119.66246,23.58192],"type":"Point"}
+}

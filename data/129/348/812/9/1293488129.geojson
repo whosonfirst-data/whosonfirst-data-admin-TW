@@ -1,0 +1,76 @@
+{
+  "id": 1293488129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.69167,23.65639,120.69167,23.65639",
+    "geom:latitude":23.65639,
+    "geom:longitude":120.69167,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M04",
+    "gn:admin4_code":"10008040023.0",
+    "gn:asciiname":"Sunliao",
+    "gn:country_code":"TW",
+    "gn:dem":504,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6579866,
+    "gn:latitude":23.65639,
+    "gn:longitude":120.69167,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sunliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sun-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u7b4d\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6579866
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"056bfc4f35d8cf713947d5e60dfdc01b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293488129,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1293488129,
+    "wof:lastmodified":1537709553,
+    "wof:name":"Sunliao",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.69167,
+    23.65639,
+    120.69167,
+    23.65639
+],
+  "geometry": {"coordinates":[120.69167,23.65639],"type":"Point"}
+}

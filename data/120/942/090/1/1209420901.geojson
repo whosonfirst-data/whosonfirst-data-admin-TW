@@ -1,0 +1,71 @@
+{
+  "id": 1209420901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.73167,23.74083,120.73167,23.74083",
+    "geom:latitude":23.74083,
+    "geom:longitude":120.73167,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M07",
+    "gn:admin4_code":"10008070007.0",
+    "gn:asciiname":"Shuangxidi",
+    "gn:country_code":"TW",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6580138,
+    "gn:latitude":23.74083,
+    "gn:longitude":120.73167,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuangxidi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuangsidi",
+        "Shuang-hsi-ti"
+    ],
+    "name:zho_x_preferred":[
+        "\u96d9\u6eaa\u5e95"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6580138
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cc40ac58ec2c288ac43373d34c73ceac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209420901
+        }
+    ],
+    "wof:id":1209420901,
+    "wof:lastmodified":1537709560,
+    "wof:name":"Shuangxidi",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.73167,
+    23.74083,
+    120.73167,
+    23.74083
+],
+  "geometry": {"coordinates":[120.73166999999999,23.74083],"type":"Point"}
+}

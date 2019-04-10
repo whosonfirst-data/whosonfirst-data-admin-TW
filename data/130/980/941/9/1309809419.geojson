@@ -1,0 +1,82 @@
+{
+  "id": 1309809419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.15806,23.13667,120.15806,23.13667",
+    "geom:latitude":23.13667,
+    "geom:longitude":120.15806,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R12",
+    "gn:admin4_code":"67000120016.0",
+    "gn:asciiname":"Gangqianzi",
+    "gn:country_code":"TW",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673998,
+    "gn:latitude":23.13667,
+    "gn:longitude":120.15806,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Gangqianzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gangcianzih",
+        "\u6e2f\u5898\u5b50"
+    ],
+    "name:zho_x_preferred":[
+        "Kang-ch\u2019ien-tzu"
+    ],
+    "name:zho_x_variant":[
+        "Chiang-ch\u2019ien-tzu",
+        "Kang-ch\u2019ien",
+        "\u6e2f\u5898\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673998
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"993a66e96e15b782d5ed24ef6ff6956b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309809419,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1309809419,
+    "wof:lastmodified":1537709013,
+    "wof:name":"Gangqianzi",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.15806,
+    23.13667,
+    120.15806,
+    23.13667
+],
+  "geometry": {"coordinates":[120.15806000000001,23.13667],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1343685923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.795,24.2187,120.795,24.2187",
+    "geom:latitude":24.2187,
+    "geom:longitude":120.795,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B19",
+    "gn:admin4_code":"66000190007.0",
+    "gn:asciiname":"Xin'ercun",
+    "gn:country_code":"TW",
+    "gn:dem":476,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675100,
+    "gn:latitude":24.2187,
+    "gn:longitude":120.795,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xin\u2019ercun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-erh"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u4e8c\u6751"
+    ],
+    "name:zho_x_variant":[
+        "Sin\u2019ercun",
+        "Xin\u2019ercun",
+        "Hsin-erh-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675100
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b644a4858e86c375609e3ae85a03eb42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343685923,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1343685923,
+    "wof:lastmodified":1537709099,
+    "wof:name":"Xin'ercun",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.795,
+    24.2187,
+    120.795,
+    24.2187
+],
+  "geometry": {"coordinates":[120.795,24.2187],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1260286045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.54974,25.27503,121.54974,25.27503",
+    "geom:latitude":25.27503,
+    "geom:longitude":121.54974,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F31",
+    "gn:admin4_code":"65000220003.0",
+    "gn:asciiname":"Daxiqian",
+    "gn:country_code":"TW",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668465,
+    "gn:latitude":25.27503,
+    "gn:longitude":121.54974,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Daxiqian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dasician"
+    ],
+    "name:zho_x_preferred":[
+        "Ta-ch\u2019i-ch\u2019ien"
+    ],
+    "name:zho_x_variant":[
+        "\u5927\u6eaa\u5898",
+        "Ta-hsi-ch\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668465
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4dce38a65318a206fb71d1659bd3468b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260286045,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1260286045,
+    "wof:lastmodified":1537708629,
+    "wof:name":"Daxiqian",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.54974,
+    25.27503,
+    121.54974,
+    25.27503
+],
+  "geometry": {"coordinates":[121.54974,25.27503],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890467657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.4034,24.93882,121.4034,24.93882",
+    "geom:latitude":24.93882,
+    "geom:longitude":121.4034,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Sibei Li"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019i-pei"
+    ],
+    "name:zho_x_variant":[
+        "\u6eaa\u5317\u91cc"
+    ],
+    "qs:name":"Xibei Li",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674746,
+        "qs:id":1151922
+    },
+    "wof:country":"TW",
+    "wof:created":1469053659,
+    "wof:geomhash":"5dafddf6b08cc6037e93ca11adbd0cab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890467657,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":890467657,
+    "wof:lastmodified":1505343711,
+    "wof:name":"Xibei Li",
+    "wof:parent_id":85679585,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.4034,
+    24.93882,
+    121.4034,
+    24.93882
+],
+  "geometry": {"coordinates":[121.4034,24.93882],"type":"Point"}
+}

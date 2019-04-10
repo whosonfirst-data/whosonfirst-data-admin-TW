@@ -1,0 +1,73 @@
+{
+  "id": 1209515779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.69916,23.78276,120.69916,23.78276",
+    "geom:latitude":23.78276,
+    "geom:longitude":120.69916,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M04",
+    "gn:admin4_code":"10008040012.0",
+    "gn:asciiname":"Weicuozi",
+    "gn:country_code":"TW",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650532,
+    "gn:latitude":23.78276,
+    "gn:longitude":120.69916,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Weicuozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Weicuozih"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c3e\u539d\u4ed4"
+    ],
+    "name:zho_x_variant":[
+        "Wei-ts\u2019o-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650532
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"67123278a2a8aa1208498f7b63078f1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209515779
+        }
+    ],
+    "wof:id":1209515779,
+    "wof:lastmodified":1537709808,
+    "wof:name":"Weicuozi",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.69916,
+    23.78276,
+    120.69916,
+    23.78276
+],
+  "geometry": {"coordinates":[120.69916000000001,23.78276],"type":"Point"}
+}

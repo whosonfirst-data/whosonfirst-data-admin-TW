@@ -1,0 +1,81 @@
+{
+  "id": 1243555563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.419,23.67067,120.419,23.67067",
+    "geom:latitude":23.67067,
+    "geom:longitude":120.419,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P08",
+    "gn:admin4_code":"10009080010.0",
+    "gn:asciiname":"Fenggang",
+    "gn:country_code":"TW",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676662,
+    "gn:latitude":23.67067,
+    "gn:longitude":120.419,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fenggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fonggang",
+        "Feng-kang"
+    ],
+    "name:zho_x_preferred":[
+        "Pu-ch\u2019iang-lun"
+    ],
+    "name:zho_x_variant":[
+        "Feng-kang-ts\u2019un",
+        "\u8c50\u5d17"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676662
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ba1dca0dee46453e20a4402d632338f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243555563,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1243555563,
+    "wof:lastmodified":1537709230,
+    "wof:name":"Fenggang",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.419,
+    23.67067,
+    120.419,
+    23.67067
+],
+  "geometry": {"coordinates":[120.419,23.67067],"type":"Point"}
+}

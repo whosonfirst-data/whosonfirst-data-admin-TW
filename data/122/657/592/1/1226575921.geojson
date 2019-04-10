@@ -1,0 +1,79 @@
+{
+  "id": 1226575921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.49,23.3325,120.49,23.3325",
+    "geom:latitude":23.3325,
+    "geom:longitude":120.49,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R03",
+    "gn:admin4_code":"67000030012.0",
+    "gn:asciiname":"Qilinwei",
+    "gn:country_code":"TW",
+    "gn:dem":483,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678234,
+    "gn:latitude":23.3325,
+    "gn:longitude":120.49,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qilinwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cilinwei"
+    ],
+    "name:zho_x_preferred":[
+        "\u9e92\u9e9f\u5c3e"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019i-lin-wei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678234
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4b75007cec7873ef6fe8690c9727699f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226575921,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1226575921,
+    "wof:lastmodified":1537709354,
+    "wof:name":"Qilinwei",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.49,
+    23.3325,
+    120.49,
+    23.3325
+],
+  "geometry": {"coordinates":[120.48999999999999,23.3325],"type":"Point"}
+}

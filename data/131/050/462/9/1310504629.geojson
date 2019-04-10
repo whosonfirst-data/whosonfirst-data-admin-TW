@@ -1,0 +1,84 @@
+{
+  "id": 1310504629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.31694,22.75194,120.31694,22.75194",
+    "geom:latitude":22.75194,
+    "geom:longitude":120.31694,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E20",
+    "gn:admin4_code":"64000200002.0",
+    "gn:asciiname":"Xingtang",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675047,
+    "gn:latitude":22.75194,
+    "gn:longitude":120.31694,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xingtang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nei-chuang",
+        "Singtang",
+        "Xingtang"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019iao-tzu-t\u2019ou"
+    ],
+    "name:zho_x_variant":[
+        "Pi-hsiu-ts\u2019un",
+        "Pi-hsui-ts\u2019un",
+        "\u8208\u7cd6",
+        "Hsing-t\u2019ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675047
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"48be4441f7fe91c721b48eef59846c07",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310504629,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1310504629,
+    "wof:lastmodified":1537709093,
+    "wof:name":"Xingtang",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.31694,
+    22.75194,
+    120.31694,
+    22.75194
+],
+  "geometry": {"coordinates":[120.31694,22.75194],"type":"Point"}
+}

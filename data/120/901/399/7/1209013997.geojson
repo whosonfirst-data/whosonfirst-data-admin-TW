@@ -1,0 +1,69 @@
+{
+  "id": 1209013997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.23285,24.44227,118.23285,24.44227",
+    "geom:latitude":24.44227,
+    "geom:longitude":118.23285,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W05",
+    "gn:admin4_code":"9020050003.0",
+    "gn:asciiname":"Dongkeng",
+    "gn:country_code":"TW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666581,
+    "gn:latitude":24.44227,
+    "gn:longitude":118.23285,
+    "gn:modification_date":"2017-11-03",
+    "gn:name":"Dongkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6771\u5751",
+        "Tung-k\u2019eng",
+        "Dongkeng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666581
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c4cb7e4c6534af0e83c5691ed3b1e25b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209013997
+        }
+    ],
+    "wof:id":1209013997,
+    "wof:lastmodified":1537708508,
+    "wof:name":"Dongkeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.23285,
+    24.44227,
+    118.23285,
+    24.44227
+],
+  "geometry": {"coordinates":[118.23285,24.44227],"type":"Point"}
+}

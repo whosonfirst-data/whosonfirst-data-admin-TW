@@ -1,0 +1,72 @@
+{
+  "id": 1209320503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.51716,25.09278,121.51716,25.09278",
+    "geom:latitude":25.09278,
+    "geom:longitude":121.51716,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A15",
+    "gn:admin4_code":"63000110008.0",
+    "gn:asciiname":"Fudeyang",
+    "gn:country_code":"TW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676394,
+    "gn:latitude":25.09278,
+    "gn:longitude":121.51716,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fudeyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fu-te-hsiang",
+        "Fudeyang",
+        "Fu-te-yang"
+    ],
+    "name:zho_x_preferred":[
+        "\u798f\u5fb7\u6d0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676394
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3347927ba4ef87644a782cfd44ed2389",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209320503
+        }
+    ],
+    "wof:id":1209320503,
+    "wof:lastmodified":1537709210,
+    "wof:name":"Fudeyang",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.51716,
+    25.09278,
+    121.51716,
+    25.09278
+],
+  "geometry": {"coordinates":[121.51716,25.09278],"type":"Point"}
+}

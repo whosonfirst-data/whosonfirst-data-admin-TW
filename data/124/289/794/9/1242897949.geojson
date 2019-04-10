@@ -1,0 +1,76 @@
+{
+  "id": 1242897949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.80924,24.50948,120.80924,24.50948",
+    "geom:latitude":24.50948,
+    "geom:longitude":120.80924,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K05",
+    "gn:admin4_code":"10005100007.0",
+    "gn:asciiname":"Donggang",
+    "gn:country_code":"TW",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6645988,
+    "gn:latitude":24.50948,
+    "gn:longitude":120.80924,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Donggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-kang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u5ca1"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6645988
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7b085448bf1b733821978b5bdcbf905c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242897949,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1242897949,
+    "wof:lastmodified":1537709715,
+    "wof:name":"Donggang",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.80924,
+    24.50948,
+    120.80924,
+    24.50948
+],
+  "geometry": {"coordinates":[120.80924,24.50948],"type":"Point"}
+}

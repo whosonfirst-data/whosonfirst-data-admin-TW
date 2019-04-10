@@ -1,0 +1,79 @@
+{
+  "id": 1259583869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.93194,24.76167,120.93194,24.76167",
+    "geom:latitude":24.76167,
+    "geom:longitude":120.93194,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSQ",
+    "gn:admin3_code":"O03",
+    "gn:admin4_code":"10018030016.0",
+    "gn:asciiname":"Luzikeng",
+    "gn:country_code":"TW",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6600631,
+    "gn:latitude":24.76167,
+    "gn:longitude":120.93194,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Luzikeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Luzihkeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u9e7f\u4ed4\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Lu-tzu-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679557,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6600631
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"08eeac5ea2b08ce1dd8e525f8a389e1b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259583869,
+            "macroregion_id":1108808557,
+            "region_id":85679557
+        }
+    ],
+    "wof:id":1259583869,
+    "wof:lastmodified":1537709626,
+    "wof:name":"Luzikeng",
+    "wof:parent_id":85679557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.93194,
+    24.76167,
+    120.93194,
+    24.76167
+],
+  "geometry": {"coordinates":[120.93194,24.76167],"type":"Point"}
+}

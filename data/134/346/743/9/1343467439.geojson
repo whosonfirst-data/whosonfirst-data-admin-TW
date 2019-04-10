@@ -1,0 +1,77 @@
+{
+  "id": 1343467439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5579,22.8719,120.5579,22.8719",
+    "geom:latitude":22.8719,
+    "geom:longitude":120.5579,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E31",
+    "gn:admin4_code":"64000310006.0",
+    "gn:asciiname":"Hengshanwei",
+    "gn:country_code":"TW",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676233,
+    "gn:latitude":22.8719,
+    "gn:longitude":120.5579,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hengshanwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heng-kang-shan",
+        "Heng-shan-wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a6b\u5c71\u5c3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676233
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a58c0d405eb9d6d63bd3d4c9f503a425",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343467439,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1343467439,
+    "wof:lastmodified":1537709198,
+    "wof:name":"Hengshanwei",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5579,
+    22.8719,
+    120.5579,
+    22.8719
+],
+  "geometry": {"coordinates":[120.5579,22.8719],"type":"Point"}
+}

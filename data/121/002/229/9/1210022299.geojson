@@ -1,0 +1,80 @@
+{
+  "id": 1210022299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.21644,23.38689,120.21644,23.38689",
+    "geom:latitude":23.38689,
+    "geom:longitude":120.21644,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q03",
+    "gn:admin4_code":"10010030016.0",
+    "gn:asciiname":"Caipuli",
+    "gn:country_code":"TW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666944,
+    "gn:latitude":23.38689,
+    "gn:longitude":120.21644,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Caipuli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Ts\u2019ai-pu-pu"
+    ],
+    "name:zho_x_variant":[
+        "Ts\u2019ai-p\u2019u-ts\u2019un",
+        "\u83dc\u92ea\u91cc",
+        "Ts\u2019ai-pu-p\u2019ou",
+        "Ts\u2019ai-p\u2019u",
+        "Ts\u2019ai-p\u2019u-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666944
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"06469928df5c50dc5f197fd72a909094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1210022299,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1210022299,
+    "wof:lastmodified":1537708531,
+    "wof:name":"Caipuli",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.21644,
+    23.38689,
+    120.21644,
+    23.38689
+],
+  "geometry": {"coordinates":[120.21644000000001,23.38689],"type":"Point"}
+}

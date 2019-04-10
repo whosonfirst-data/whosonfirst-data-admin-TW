@@ -1,0 +1,76 @@
+{
+  "id": 1225950307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.93192,24.00522,120.93192,24.00522",
+    "geom:latitude":24.00522,
+    "geom:longitude":120.93192,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M02",
+    "gn:admin4_code":"10008020022.0",
+    "gn:asciiname":"Wugongku",
+    "gn:country_code":"TW",
+    "gn:dem":491,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1991287,
+    "gn:latitude":24.00522,
+    "gn:longitude":120.93192,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wugongku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8708\u86a3\u5800"
+    ],
+    "name:zho_x_variant":[
+        "Wu-kung-k\u2019u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1991287
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6651d74da64fde561f052db966dea84f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225950307,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1225950307,
+    "wof:lastmodified":1537709441,
+    "wof:name":"Wugongku",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.93192,
+    24.00522,
+    120.93192,
+    24.00522
+],
+  "geometry": {"coordinates":[120.93192000000001,24.00522],"type":"Point"}
+}

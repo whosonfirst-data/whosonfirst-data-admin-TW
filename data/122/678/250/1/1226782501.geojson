@@ -1,0 +1,82 @@
+{
+  "id": 1226782501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.96,24.76639,120.96,24.76639",
+    "geom:latitude":24.76639,
+    "geom:longitude":120.96,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"HSQ",
+    "gn:admin3_code":"O03",
+    "gn:admin4_code":"10018030010.0",
+    "gn:asciiname":"Shizhalun",
+    "gn:country_code":"TW",
+    "gn:dem":99,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669306,
+    "gn:latitude":24.76639,
+    "gn:longitude":120.96,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shizhalun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shih-pei-lun",
+        "Shihjhalun",
+        "Shizhalun",
+        "Shih-cha-lun"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u6e23\u5d19"
+    ],
+    "name:zho_x_variant":[
+        "Shih-p\u2019ai-lun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679557,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669306
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"42a453a6d36942cd4e6ee63ff25537bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226782501,
+            "macroregion_id":1108808557,
+            "region_id":85679557
+        }
+    ],
+    "wof:id":1226782501,
+    "wof:lastmodified":1537708695,
+    "wof:name":"Shizhalun",
+    "wof:parent_id":85679557,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.96,
+    24.76639,
+    120.96,
+    24.76639
+],
+  "geometry": {"coordinates":[120.95999999999999,24.76639],"type":"Point"}
+}

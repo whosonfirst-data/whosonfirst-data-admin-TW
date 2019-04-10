@@ -1,0 +1,82 @@
+{
+  "id": 1276448833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.52097,24.10612,120.52097,24.10612",
+    "geom:latitude":24.10612,
+    "geom:longitude":120.52097,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N03",
+    "gn:admin4_code":"10007030019.0",
+    "gn:asciiname":"Dongshitou",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6748078,
+    "gn:latitude":24.10612,
+    "gn:longitude":120.52097,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongshitou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6771\u52e2\u982d",
+        "Dongshitou",
+        "Dongshihtou",
+        "Tung-shih-t\u2019ou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u52e2\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Tung-shih-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6748078
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f6ac435b3dcf2208c82ffe76f008aa83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276448833,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1276448833,
+    "wof:lastmodified":1537709929,
+    "wof:name":"Dongshitou",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.52097,
+    24.10612,
+    120.52097,
+    24.10612
+],
+  "geometry": {"coordinates":[120.52097000000001,24.10612],"type":"Point"}
+}

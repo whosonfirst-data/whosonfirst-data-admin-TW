@@ -1,0 +1,79 @@
+{
+  "id": 1293001241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.17302,23.27943,120.17302,23.27943",
+    "geom:latitude":23.27943,
+    "geom:longitude":120.17302,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R17",
+    "gn:admin4_code":"67000130012.0",
+    "gn:asciiname":"Hongxiagang",
+    "gn:country_code":"TW",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674383,
+    "gn:latitude":23.27943,
+    "gn:longitude":120.17302,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hongxiagang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hung-hsia-chiang",
+        "Hongsiagang",
+        "Hongxiagang",
+        "Hung-hsia-kang"
+    ],
+    "name:zho_x_preferred":[
+        "\u7d05\u8766\u6e2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674383
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e9496892051a0cf4c3ed63684f10194c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293001241,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1293001241,
+    "wof:lastmodified":1537709038,
+    "wof:name":"Hongxiagang",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.17302,
+    23.27943,
+    120.17302,
+    23.27943
+],
+  "geometry": {"coordinates":[120.17301999999999,23.27943],"type":"Point"}
+}

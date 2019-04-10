@@ -1,0 +1,79 @@
+{
+  "id": 1209247885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.50113,25.1595,121.50113,25.1595",
+    "geom:latitude":25.1595,
+    "geom:longitude":121.50113,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A16",
+    "gn:admin4_code":"63000120041.0",
+    "gn:asciiname":"Zhongqingque",
+    "gn:country_code":"TW",
+    "gn:dem":427,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677467,
+    "gn:latitude":25.1595,
+    "gn:longitude":121.50113,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongqingque",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chung-ching-ch\u00fceh",
+        "Jhongcingcyue",
+        "Zhongqingque"
+    ],
+    "name:zho_x_preferred":[
+        "Chung-ch\u2019ing-hs\u00fceh"
+    ],
+    "name:zho_x_variant":[
+        "Chung-ch\u2019ing-y\u00fc",
+        "\u4e2d\u9752\u7910",
+        "Chung-ch\u2019ing-yen",
+        "Chung-ch\u2019ing-ch\u2019\u00fceh",
+        "Chung-ching-ch\u00fceh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677467
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cb20a7ccc9d21e9c851f3b74dc7c4f93",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209247885
+        }
+    ],
+    "wof:id":1209247885,
+    "wof:lastmodified":1537709297,
+    "wof:name":"Zhongqingque",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.50113,
+    25.1595,
+    121.50113,
+    25.1595
+],
+  "geometry": {"coordinates":[121.50113,25.1595],"type":"Point"}
+}

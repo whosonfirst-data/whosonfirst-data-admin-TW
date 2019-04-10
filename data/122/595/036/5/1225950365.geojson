@@ -1,0 +1,78 @@
+{
+  "id": 1225950365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.03806,24.66222,121.03806,24.66222",
+    "geom:latitude":24.66222,
+    "geom:longitude":121.03806,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J13",
+    "gn:admin4_code":"10004110005.0",
+    "gn:asciiname":"Xiangjiaowo",
+    "gn:country_code":"TW",
+    "gn:dem":163,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6640566,
+    "gn:latitude":24.66222,
+    "gn:longitude":121.03806,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiangjiaowo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siangjiaowo",
+        "Xiangjiaowo",
+        "Hsiang-chiao-wo"
+    ],
+    "name:zho_x_preferred":[
+        "\u9999\u8549\u7aa9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6640566
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2bd0e8e91862623de0711cf3cc7a4196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225950365,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1225950365,
+    "wof:lastmodified":1537709675,
+    "wof:name":"Xiangjiaowo",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.03806000000002,
+    24.66222,
+    121.03806000000002,
+    24.66222
+],
+  "geometry": {"coordinates":[121.03806000000002,24.66222],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890467667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.35,23.55,120.35,23.55",
+    "geom:latitude":23.55,
+    "geom:longitude":120.35,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Hsin-kang Hsiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u6e2f\u9109"
+    ],
+    "qs:name":"Xingang Xiang",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":162,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674968,
+        "qs:id":1151926,
+        "wd:id":"Q718212",
+        "wk:page":"Xingang, Chiayi"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053659,
+    "wof:geomhash":"6a46707a3e68062c23602590f93f33e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890467667,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":890467667,
+    "wof:lastmodified":1527792895,
+    "wof:name":"Xingang Xiang",
+    "wof:parent_id":85679599,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.35,
+    23.55,
+    120.35,
+    23.55
+],
+  "geometry": {"coordinates":[120.34999999999999,23.55],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1277075353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2775,22.9875,120.2775,22.9875",
+    "geom:latitude":22.9875,
+    "geom:longitude":120.2775,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R28",
+    "gn:admin4_code":"67000280014.0",
+    "gn:asciiname":"Nantan",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671575,
+    "gn:latitude":22.9875,
+    "gn:longitude":120.2775,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nantan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5357\u6f6d"
+    ],
+    "name:zho_x_variant":[
+        "Nan-t\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671575
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"704e79b7288e729f8cbe7300d5fddfd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1277075353,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1277075353,
+    "wof:lastmodified":1537708852,
+    "wof:name":"Nantan",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2775,
+    22.9875,
+    120.2775,
+    22.9875
+],
+  "geometry": {"coordinates":[120.2775,22.9875],"type":"Point"}
+}

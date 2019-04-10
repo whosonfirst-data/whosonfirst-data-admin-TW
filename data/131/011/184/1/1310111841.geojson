@@ -1,0 +1,80 @@
+{
+  "id": 1310111841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.14861,23.21194,120.14861,23.21194",
+    "geom:latitude":23.21194,
+    "geom:longitude":120.14861,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R15",
+    "gn:admin4_code":"67000160005.0",
+    "gn:asciiname":"Huziliao",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674461,
+    "gn:latitude":23.21194,
+    "gn:longitude":120.14861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Huziliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huzihliao",
+        "Huziliao",
+        "Fu-an-liao",
+        "Hu-an-liao",
+        "Hu-tzu-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u864e\u5b50\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674461
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9e0418df0cf7f51d1cd618850405eb83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310111841,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1310111841,
+    "wof:lastmodified":1537709043,
+    "wof:name":"Huziliao",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.14861,
+    23.21194,
+    120.14861,
+    23.21194
+],
+  "geometry": {"coordinates":[120.14861000000001,23.21194],"type":"Point"}
+}

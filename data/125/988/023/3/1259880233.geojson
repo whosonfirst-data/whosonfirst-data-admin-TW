@@ -1,0 +1,76 @@
+{
+  "id": 1259880233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.82829,24.62162,120.82829,24.62162",
+    "geom:latitude":24.62162,
+    "geom:longitude":120.82829,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K12",
+    "gn:admin4_code":"10005060008.0",
+    "gn:asciiname":"Amahu",
+    "gn:country_code":"TW",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646143,
+    "gn:latitude":24.62162,
+    "gn:longitude":120.82829,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Amahu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A-ma-hu"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u9ebb\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646143
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4a91396fd148590cd90c7375b808ad7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259880233,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1259880233,
+    "wof:lastmodified":1537709724,
+    "wof:name":"Amahu",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.82829,
+    24.62162,
+    120.82829,
+    24.62162
+],
+  "geometry": {"coordinates":[120.82829,24.62162],"type":"Point"}
+}

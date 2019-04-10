@@ -1,0 +1,82 @@
+{
+  "id": 1259707657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.35361,23.6012,120.35361,23.6012",
+    "geom:latitude":23.6012,
+    "geom:longitude":120.35361,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P17",
+    "gn:admin4_code":"10009170020.0",
+    "gn:asciiname":"Anbei",
+    "gn:country_code":"TW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672357,
+    "gn:latitude":23.6012,
+    "gn:longitude":120.35361,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Anbei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lun-tzu-liao",
+        "Anbei",
+        "Lun-tzu",
+        "An-pei"
+    ],
+    "name:zho_x_preferred":[
+        "Lun-tzu-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u5b89\u5317"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672357
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d43024dc64816f78747a85b356f718dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259707657,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1259707657,
+    "wof:lastmodified":1537708899,
+    "wof:name":"Anbei",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.35361,
+    23.6012,
+    120.35361,
+    23.6012
+],
+  "geometry": {"coordinates":[120.35361,23.6012],"type":"Point"}
+}

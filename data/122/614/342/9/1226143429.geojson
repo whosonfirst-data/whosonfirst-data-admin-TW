@@ -1,0 +1,86 @@
+{
+  "id": 1226143429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.59753,24.05802,121.59753,24.05802",
+    "geom:latitude":24.05802,
+    "geom:longitude":121.59753,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U11",
+    "gn:admin4_code":"10015110008.0",
+    "gn:asciiname":"Jiamin",
+    "gn:country_code":"TW",
+    "gn:dem":51,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678782,
+    "gn:latitude":24.05802,
+    "gn:longitude":121.59753,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiamin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-shan-she",
+        "I-pan",
+        "Wu-ya-nao",
+        "Wu-ya-nao-she",
+        "Erh-pan",
+        "Jiamin",
+        "Chia-min"
+    ],
+    "name:zho_x_preferred":[
+        "Chia-min-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Ai-k\u2019o-to-sa-she",
+        "\u4f73\u6c11"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678782
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3e106e1a30bbfaec710f63e675b737cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226143429,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1226143429,
+    "wof:lastmodified":1537709390,
+    "wof:name":"Jiamin",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.59753,
+    24.05802000000001,
+    121.59753,
+    24.05802000000001
+],
+  "geometry": {"coordinates":[121.59753000000001,24.05802000000001],"type":"Point"}
+}

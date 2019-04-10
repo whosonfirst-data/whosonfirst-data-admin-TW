@@ -1,0 +1,79 @@
+{
+  "id": 1293488237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.89361,24.7227,120.89361,24.7227",
+    "geom:latitude":24.7227,
+    "geom:longitude":120.89361,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K09",
+    "gn:admin4_code":"10005040021.0",
+    "gn:asciiname":"Dongqiding",
+    "gn:country_code":"TW",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6645923,
+    "gn:latitude":24.7227,
+    "gn:longitude":120.89361,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongqiding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dongciding"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u5d0e\u9802"
+    ],
+    "name:zho_x_variant":[
+        "Tung-ch\u2019i-ting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6645923
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c2d22df0486a0d3eb7a81597559e132b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293488237,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1293488237,
+    "wof:lastmodified":1537709712,
+    "wof:name":"Dongqiding",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.89361,
+    24.7227,
+    120.89361,
+    24.7227
+],
+  "geometry": {"coordinates":[120.89361,24.7227],"type":"Point"}
+}

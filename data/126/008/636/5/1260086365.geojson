@@ -1,0 +1,73 @@
+{
+  "id": 1260086365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36667,23.55,120.36667,23.55",
+    "geom:latitude":23.55,
+    "geom:longitude":120.36667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q07",
+    "gn:admin4_code":"10010070007.0",
+    "gn:asciiname":"Zhuzijiao",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677039,
+    "gn:latitude":23.55,
+    "gn:longitude":120.36667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhuzijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chu-tzu-chiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677039
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"30e9b0b670f3bf595000229235772fa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260086365,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1260086365,
+    "wof:lastmodified":1537709259,
+    "wof:name":"Zhuzijiao",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36667,
+    23.55,
+    120.36667,
+    23.55
+],
+  "geometry": {"coordinates":[120.36667,23.55],"type":"Point"}
+}

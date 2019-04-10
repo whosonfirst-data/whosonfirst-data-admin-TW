@@ -1,0 +1,76 @@
+{
+  "id": 1209715795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.77865,24.68306,121.77865,24.68306",
+    "geom:latitude":24.68306,
+    "geom:longitude":121.77865,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G07",
+    "gn:admin4_code":"10002090007.0",
+    "gn:asciiname":"Yuankongtou",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646907,
+    "gn:latitude":24.68306,
+    "gn:longitude":121.77865,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yuankongtou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5713\u5b54\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Y\u00fcan-k\u2019ung-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646907
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"879099ac0cc4019c9215075de2973995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209715795,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1209715795,
+    "wof:lastmodified":1537709746,
+    "wof:name":"Yuankongtou",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.77865,
+    24.68306,
+    121.77865,
+    24.68306
+],
+  "geometry": {"coordinates":[121.77865,24.68306],"type":"Point"}
+}

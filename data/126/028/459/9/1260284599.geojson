@@ -1,0 +1,79 @@
+{
+  "id": 1260284599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.15722,25.04917,121.15722,25.04917",
+    "geom:latitude":25.04917,
+    "geom:longitude":121.15722,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H12",
+    "gn:admin4_code":"68000120019.0",
+    "gn:asciiname":"Tazijiao",
+    "gn:country_code":"TW",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667616,
+    "gn:latitude":25.04917,
+    "gn:longitude":121.15722,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tazijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tazihjiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5854\u5b50\u811a"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019a-tzu-chiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667616
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5049625bfb385c498f425e14d108eb85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260284599,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1260284599,
+    "wof:lastmodified":1537708582,
+    "wof:name":"Tazijiao",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.15722,
+    25.04917,
+    121.15722,
+    25.04917
+],
+  "geometry": {"coordinates":[121.15722,25.04917],"type":"Point"}
+}

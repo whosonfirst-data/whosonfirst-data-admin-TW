@@ -1,0 +1,76 @@
+{
+  "id": 1243271513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.36314,25.13451,121.36314,25.13451",
+    "geom:latitude":25.13451,
+    "geom:longitude":121.36314,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F02",
+    "gn:admin4_code":"65000170014.0",
+    "gn:asciiname":"Nanwantou",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6749247,
+    "gn:latitude":25.13451,
+    "gn:longitude":121.36314,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nanwantou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5357\u7063\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Nan-wan-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6749247
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"53d7dc5ace5682c2d3ed42df12fdf094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243271513,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1243271513,
+    "wof:lastmodified":1537709950,
+    "wof:name":"Nanwantou",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.36314,
+    25.13451,
+    121.36314,
+    25.13451
+],
+  "geometry": {"coordinates":[121.36314,25.13451],"type":"Point"}
+}

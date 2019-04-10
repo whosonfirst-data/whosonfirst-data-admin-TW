@@ -1,0 +1,81 @@
+{
+  "id": 1276253083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.1543,25.03974,121.1543,25.03974",
+    "geom:latitude":25.03974,
+    "geom:longitude":121.1543,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H12",
+    "gn:admin4_code":"68000120019.0",
+    "gn:asciiname":"Shicuozi",
+    "gn:country_code":"TW",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646494,
+    "gn:latitude":25.03974,
+    "gn:longitude":121.1543,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shicuozi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihcuozih",
+        "Shicuozi",
+        "Shih-wu-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u539d\u4ed4"
+    ],
+    "name:zho_x_variant":[
+        "Shih-ts\u2019o-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646494
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0cbd56de8844e982e272f53aabe5361e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276253083,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1276253083,
+    "wof:lastmodified":1537709736,
+    "wof:name":"Shicuozi",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.1543,
+    25.03974,
+    121.1543,
+    25.03974
+],
+  "geometry": {"coordinates":[121.15430000000001,25.03974],"type":"Point"}
+}

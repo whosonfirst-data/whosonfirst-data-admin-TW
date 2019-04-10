@@ -1,0 +1,78 @@
+{
+  "id": 1343394219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.74943,24.52832,120.74943,24.52832",
+    "geom:latitude":24.52832,
+    "geom:longitude":120.74943,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K07",
+    "gn:admin4_code":"10005140004.0",
+    "gn:asciiname":"Laowuxia",
+    "gn:country_code":"TW",
+    "gn:dem":65,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673041,
+    "gn:latitude":24.52832,
+    "gn:longitude":120.74943,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Laowuxia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Laowusia",
+        "Laowuxia",
+        "Lao-wu-hsia"
+    ],
+    "name:zho_x_preferred":[
+        "\u8001\u5c4b\u4e0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673041
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"20a1a52fa808c6fa111707d8be00078d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343394219,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1343394219,
+    "wof:lastmodified":1537708943,
+    "wof:name":"Laowuxia",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.74943,
+    24.52832,
+    120.74943,
+    24.52832
+],
+  "geometry": {"coordinates":[120.74943,24.52832],"type":"Point"}
+}

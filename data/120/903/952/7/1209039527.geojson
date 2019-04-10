@@ -1,0 +1,74 @@
+{
+  "id": 1209039527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.76301,24.61016,120.76301,24.61016",
+    "geom:latitude":24.61016,
+    "geom:longitude":120.76301,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K12",
+    "gn:admin4_code":"10005060019.0",
+    "gn:asciiname":"Tongxing",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646259,
+    "gn:latitude":24.61016,
+    "gn:longitude":120.76301,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tongxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wan-kuei-kou",
+        "Tongsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u540c\u8208"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ung-hsing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646259
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e19f1ffa0c8259c8e7fc424eaba419b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209039527
+        }
+    ],
+    "wof:id":1209039527,
+    "wof:lastmodified":1537709733,
+    "wof:name":"Tongxing",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.76301,
+    24.61016,
+    120.76301,
+    24.61016
+],
+  "geometry": {"coordinates":[120.76300999999999,24.61016],"type":"Point"}
+}

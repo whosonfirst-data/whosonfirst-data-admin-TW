@@ -1,0 +1,74 @@
+{
+  "id": 1209621201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.78076,24.45007,120.78076,24.45007",
+    "geom:latitude":24.45007,
+    "geom:longitude":120.78076,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K05",
+    "gn:admin4_code":"10005100004.0",
+    "gn:asciiname":"Xiazhuwei",
+    "gn:country_code":"TW",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675853,
+    "gn:latitude":24.45007,
+    "gn:longitude":120.78076,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiazhuwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shia-chu-wei",
+        "Xiazhuwei",
+        "Hsia-chu-wei",
+        "\u4e0b\u7af9\u570d",
+        "Siajhuwei"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u7af9\u570d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675853
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"34f6b8ff0c4dd246398508fc3ad69ecb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209621201
+        }
+    ],
+    "wof:id":1209621201,
+    "wof:lastmodified":1537709170,
+    "wof:name":"Xiazhuwei",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.78076,
+    24.45007,
+    120.78076,
+    24.45007
+],
+  "geometry": {"coordinates":[120.78076,24.45007],"type":"Point"}
+}

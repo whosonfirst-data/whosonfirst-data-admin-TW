@@ -1,0 +1,76 @@
+{
+  "id": 1209715919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.30621,23.86163,120.30621,23.86163",
+    "geom:latitude":23.86163,
+    "geom:longitude":120.30621,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N24",
+    "gn:admin4_code":"10007240006.0",
+    "gn:asciiname":"Caicuoliao",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666933,
+    "gn:latitude":23.86163,
+    "gn:longitude":120.30621,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Caicuoliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8521\u539d\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Ts\u2019ai-ts\u2019o-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666933
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"080be29a7ea6ec0db9a4548cd2117110",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209715919,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1209715919,
+    "wof:lastmodified":1537708530,
+    "wof:name":"Caicuoliao",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.30621,
+    23.86163,
+    120.30621,
+    23.86163
+],
+  "geometry": {"coordinates":[120.30620999999999,23.86163],"type":"Point"}
+}

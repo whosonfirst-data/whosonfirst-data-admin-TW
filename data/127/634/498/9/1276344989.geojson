@@ -1,0 +1,80 @@
+{
+  "id": 1276344989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.425,24.52448,118.425,24.52448",
+    "geom:latitude":24.52448,
+    "geom:longitude":118.425,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W02",
+    "gn:admin4_code":"9020020007.0",
+    "gn:asciiname":"Houyupo",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675914,
+    "gn:latitude":24.52448,
+    "gn:longitude":118.425,
+    "gn:modification_date":"2017-11-03",
+    "gn:name":"Houyupo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u540e\u5dbc\u5761",
+        "Houyupo"
+    ],
+    "name:zho_x_preferred":[
+        "Hou-hs\u00fc-p\u2019o"
+    ],
+    "name:zho_x_variant":[
+        "Hou-y\u00fc-p\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675914
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"af7b4ea132d8042dd5ef54a77d0fbbdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276344989,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1276344989,
+    "wof:lastmodified":1537709176,
+    "wof:name":"Houyupo",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.425,
+    24.52448,
+    118.425,
+    24.52448
+],
+  "geometry": {"coordinates":[118.425,24.52448],"type":"Point"}
+}

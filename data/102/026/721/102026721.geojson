@@ -1,0 +1,107 @@
+{
+  "id": 102026721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00023,
+    "geom:area_square_m":2577862.610045,
+    "geom:bbox":"121.526352216,24.9421713504,121.546157602,24.9561800201",
+    "geom:latitude":24.949811,
+    "geom:longitude":121.536163,
+    "gn:latitude":24.96005,
+    "gn:longitude":121.53892,
+    "iso:country":"TW",
+    "lbl:latitude":24.949183,
+    "lbl:longitude":121.536165,
+    "mps:latitude":24.949183,
+    "mps:longitude":121.536165,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Xindian District"
+    ],
+    "name:hak_x_preferred":[
+        "S\u00een-tiam-kh\u00ee"
+    ],
+    "name:jpn_x_preferred":[
+        "\u65b0\u5e97\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e0\ub3ac \uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Sindianas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u65b0\u5e97\u5340"
+    ],
+    "name:nan_x_preferred":[
+        "Sin-ti\u00e0m-khu"
+    ],
+    "name:unk_x_variant":[
+        "Hsin-tien-chen"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e2n \u0110i\u1ebfm"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5e97\u5340"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u5e97"
+    ],
+    "qs:a1":"*",
+    "qs:a1r":"*",
+    "qs:adm0":"Taiwan",
+    "qs:id":0,
+    "qs:la_lc":"*",
+    "qs:level":"locality",
+    "qs:loc":"Xindian",
+    "qs:loc_lc":"1674828",
+    "qs:pop":0,
+    "qs:source":"Nquattroshapes",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674828,
+        "wd:id":"Q340192",
+        "wk:page":"Xindian District"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9d154ddf8912d82709f3b8b45e8ab2a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026721,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":102026721,
+    "wof:lastmodified":1501867557,
+    "wof:name":"Xindian",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.5263522160421,
+    24.94217135039533,
+    121.54615760167341,
+    24.95618002010002
+],
+  "geometry": {"coordinates":[[[121.54174804700001,24.95618002010002],[121.5417480470001,24.95617981860005],[121.54225607163819,24.95617981860005],[121.5456412879944,24.95393950407886],[121.54594663546403,24.95305599901428],[121.54615760167341,24.95129653632097],[121.54598800903234,24.94953335835618],[121.54544439082473,24.94783422252397],[121.54454765194485,24.94626442240731],[121.54333226341016,24.94488427906823],[121.54184493616275,24.9437468237773],[121.54014282535054,24.94289576109573],[121.53829133419221,24.94236379043035],[121.53636160177781,24.94217135039533],[121.5344277711627,24.94232583408508],[121.53256414244602,24.94282130530735],[121.53084231988247,24.94363872662687],[121.52932846229366,24.94474669047013],[121.52808074212187,24.94610262526959],[121.52714711054377,24.94765443042081],[121.5265634544334,24.94934247738311],[121.5263522160421,24.95110190018673],[121.52652152862818,24.95286508747562],[121.52706490154311,24.95456428042606],[121.52796146723652,24.95613417675942],[121.52800165459165,24.95617981860005],[121.53076171900007,24.95617981860005],[121.53076171899995,24.95618002010002],[121.54174804700001,24.95618002010002]]],"type":"Polygon"}
+}

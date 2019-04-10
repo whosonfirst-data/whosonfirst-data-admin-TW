@@ -1,0 +1,77 @@
+{
+  "id": 1225951645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.49213,24.95115,121.49213,24.95115",
+    "geom:latitude":24.95115,
+    "geom:longitude":121.49213,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F07",
+    "gn:admin4_code":"65000060018.0",
+    "gn:asciiname":"Toucheng",
+    "gn:country_code":"TW",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667060,
+    "gn:latitude":24.95115,
+    "gn:longitude":121.49213,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Toucheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "T\u2019ou-ch\u2019eng-li"
+    ],
+    "name:zho_x_variant":[
+        "\u982d\u57ce",
+        "T\u2019ou-ch\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667060
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4602f632b1809b59a52431ba414a1d4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225951645,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1225951645,
+    "wof:lastmodified":1537708538,
+    "wof:name":"Toucheng",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.49213,
+    24.95115,
+    121.49213,
+    24.95115
+],
+  "geometry": {"coordinates":[121.49213,24.95115],"type":"Point"}
+}

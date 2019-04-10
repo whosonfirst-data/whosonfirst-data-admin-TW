@@ -1,0 +1,77 @@
+{
+  "id": 1242784025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.09778,24.86694,121.09778,24.86694",
+    "geom:latitude":24.86694,
+    "geom:longitude":121.09778,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J04",
+    "gn:admin4_code":"10004030014.0",
+    "gn:asciiname":"Dapingwowei",
+    "gn:country_code":"TW",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6574346,
+    "gn:latitude":24.86694,
+    "gn:longitude":121.09778,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dapingwowei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u5e73\u7aa9\u5c3e"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ai-p\u2019ing-wo-wei",
+        "Ta-p\u2019ing-wo-wei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6574346
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b4723038e75a9d694c9a8f9b94dd2add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242784025,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1242784025,
+    "wof:lastmodified":1537709521,
+    "wof:name":"Dapingwowei",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.09778,
+    24.86694,
+    121.09778,
+    24.86694
+],
+  "geometry": {"coordinates":[121.09778,24.86694],"type":"Point"}
+}

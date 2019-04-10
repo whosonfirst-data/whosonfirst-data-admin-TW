@@ -1,0 +1,81 @@
+{
+  "id": 1276670747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.27,22.865,120.27,22.865",
+    "geom:latitude":22.865,
+    "geom:longitude":120.27,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E24",
+    "gn:admin4_code":"64000240017.0",
+    "gn:asciiname":"Shedong",
+    "gn:country_code":"TW",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669502,
+    "gn:latitude":22.865,
+    "gn:longitude":120.27,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-she",
+        "Shedong",
+        "She-tung"
+    ],
+    "name:zho_x_preferred":[
+        "She-tung-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u793e\u6771"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669502
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0dbc0d91aa36d60246c00cbe5a68dae4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276670747,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1276670747,
+    "wof:lastmodified":1537708712,
+    "wof:name":"Shedong",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.27,
+    22.865,
+    120.27,
+    22.865
+],
+  "geometry": {"coordinates":[120.27,22.865],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1327158151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.79296,24.67713,121.79296,24.67713",
+    "geom:latitude":24.67713,
+    "geom:longitude":121.79296,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G06",
+    "gn:admin4_code":"10002020006.0",
+    "gn:asciiname":"Dana'an",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668074,
+    "gn:latitude":24.67713,
+    "gn:longitude":121.79296,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dana\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-na-an",
+        "Dana\u2019an"
+    ],
+    "name:zho_x_preferred":[
+        "Hsin-ch\u2019\u00fcn-li"
+    ],
+    "name:zho_x_variant":[
+        "\u6253\u90a3\u5cb8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668074
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5d0b03d5c48abfe165ad7816c2e316d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327158151,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1327158151,
+    "wof:lastmodified":1537708608,
+    "wof:name":"Dana'an",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.79296,
+    24.67713,
+    121.79296,
+    24.67713
+],
+  "geometry": {"coordinates":[121.79295999999999,24.67713],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1226366699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.08444,24.94778,121.08444,24.94778",
+    "geom:latitude":24.94778,
+    "geom:longitude":121.08444,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H04",
+    "gn:admin4_code":"68000040021.0",
+    "gn:asciiname":"Xiayinyingwo",
+    "gn:country_code":"TW",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676561,
+    "gn:latitude":24.94778,
+    "gn:longitude":121.08444,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiayinyingwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Feng-yeh",
+        "Xiayinyingwo",
+        "Siayinyingwo",
+        "Hsia-yin-ying-wo"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u9670\u5f71\u7aa9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676561
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"39156af266d20228987ce537dd954d3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226366699,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1226366699,
+    "wof:lastmodified":1537709223,
+    "wof:name":"Xiayinyingwo",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.08444,
+    24.94778,
+    121.08444,
+    24.94778
+],
+  "geometry": {"coordinates":[121.08444,24.94778],"type":"Point"}
+}

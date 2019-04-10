@@ -1,0 +1,80 @@
+{
+  "id": 1343864279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.82704,24.03534,120.82704,24.03534",
+    "geom:latitude":24.03534,
+    "geom:longitude":120.82704,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M10",
+    "gn:admin4_code":"10008100008.0",
+    "gn:asciiname":"Qingliang",
+    "gn:country_code":"TW",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678155,
+    "gn:latitude":24.03534,
+    "gn:longitude":120.82704,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qingliang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cingliang"
+    ],
+    "name:zho_x_preferred":[
+        "\u6e05\u6dbc"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ing-liang-ssu",
+        "Ch\u2019ing-liang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678155
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cd6eb10e6b45f43a6df19de24845f4b9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343864279,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1343864279,
+    "wof:lastmodified":1537709349,
+    "wof:name":"Qingliang",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.82704,
+    24.03534,
+    120.82704,
+    24.03534
+],
+  "geometry": {"coordinates":[120.82704,24.03534],"type":"Point"}
+}

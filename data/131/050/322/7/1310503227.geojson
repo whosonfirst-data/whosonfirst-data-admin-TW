@@ -1,0 +1,82 @@
+{
+  "id": 1310503227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.43753,25.19865,121.43753,25.19865",
+    "geom:latitude":25.19865,
+    "geom:longitude":121.43753,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F27",
+    "gn:admin4_code":"65000100008.0",
+    "gn:asciiname":"Yangchouzi",
+    "gn:country_code":"TW",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665629,
+    "gn:latitude":25.19865,
+    "gn:longitude":121.43753,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yangchouzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yang-peng-tzu",
+        "Yangchouzih",
+        "Yangchouzi"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f8a\u7a20\u5b50"
+    ],
+    "name:zho_x_variant":[
+        "Yang-ch\u2019ao-tzu",
+        "Yang-ch\u2019ou-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665629
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7893e63b7ee9b732ccaf17d04eaf0cf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310503227,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1310503227,
+    "wof:lastmodified":1537708447,
+    "wof:name":"Yangchouzi",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.43753,
+    25.19865,
+    121.43753,
+    25.19865
+],
+  "geometry": {"coordinates":[121.43753,25.19865],"type":"Point"}
+}

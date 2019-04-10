@@ -1,0 +1,79 @@
+{
+  "id": 1259980211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.11278,24.89472,121.11278,24.89472",
+    "geom:latitude":24.89472,
+    "geom:longitude":121.11278,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H04",
+    "gn:admin4_code":"68000040006.0",
+    "gn:asciiname":"Bengpoxia",
+    "gn:country_code":"TW",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670630,
+    "gn:latitude":24.89472,
+    "gn:longitude":121.11278,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bengpoxia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bengposia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5d29\u5761\u4e0b"
+    ],
+    "name:zho_x_variant":[
+        "Peng-p\u2019o-hsia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670630
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7e586b7cba46484481e4df661b98b71a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259980211,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1259980211,
+    "wof:lastmodified":1537708794,
+    "wof:name":"Bengpoxia",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.11278,
+    24.89472,
+    121.11278,
+    24.89472
+],
+  "geometry": {"coordinates":[121.11278,24.89472],"type":"Point"}
+}

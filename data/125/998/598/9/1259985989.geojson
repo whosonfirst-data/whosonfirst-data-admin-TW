@@ -1,0 +1,75 @@
+{
+  "id": 1259985989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.58333,25.05,121.58333,25.05",
+    "geom:latitude":25.05,
+    "geom:longitude":121.58333,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A13",
+    "gn:admin4_code":"63000090009.0",
+    "gn:asciiname":"Dongxin",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666621,
+    "gn:latitude":25.05,
+    "gn:longitude":121.58333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongxin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tung-hsin-chuang-tzu",
+        "Tung-hsin",
+        "Dongxin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666621
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"dcc6a6a5c4964e28ec02375cc5ced961",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259985989,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1259985989,
+    "wof:lastmodified":1537708511,
+    "wof:name":"Dongxin",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.58333,
+    25.05,
+    121.58333,
+    25.05
+],
+  "geometry": {"coordinates":[121.58333,25.05],"type":"Point"}
+}

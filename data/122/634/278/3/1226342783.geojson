@@ -1,0 +1,80 @@
+{
+  "id": 1226342783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47727,23.72717,120.47727,23.72717",
+    "geom:latitude":23.72717,
+    "geom:longitude":120.47727,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P03",
+    "gn:admin4_code":"10009030024.0",
+    "gn:asciiname":"Kanzijiao",
+    "gn:country_code":"TW",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673850,
+    "gn:latitude":23.72717,
+    "gn:longitude":120.47727,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Kanzijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kanzihjiao"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019ien-tzu-chiao"
+    ],
+    "name:zho_x_variant":[
+        "\u5d01\u5b50\u8173",
+        "K\u2019an-tzu-chiao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673850
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"617614660d3db8021af081ba76e86b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226342783,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1226342783,
+    "wof:lastmodified":1537708999,
+    "wof:name":"Kanzijiao",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47727,
+    23.72717,
+    120.47727,
+    23.72717
+],
+  "geometry": {"coordinates":[120.47727,23.72717],"type":"Point"}
+}

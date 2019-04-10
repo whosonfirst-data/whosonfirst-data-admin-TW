@@ -1,0 +1,71 @@
+{
+  "id": 890471861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.169615,22.999315,120.169615,22.999315",
+    "geom:latitude":22.999315,
+    "geom:longitude":120.169615,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "qs:name":"\u77f3\u9580\u91cc",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u53f0\u5357\u5e02",
+    "qs:photos":97,
+    "qs:photos_1k":20,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":97,
+    "qs:photos_sr":3,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wd:wordcount":401,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        1108808553,
+        102026643,
+        85679553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28755010,
+        "qs:id":1286276,
+        "wk:page":"Shimen District"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053872,
+    "wof:geomhash":"e6ddb9bb6f8dbbb51dbfecef0502a838",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026643,
+            "macroregion_id":1108808553,
+            "neighbourhood_id":890471861,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":890471861,
+    "wof:lastmodified":1527727124,
+    "wof:name":"\u77f3\u9580\u91cc",
+    "wof:parent_id":102026643,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.169615,
+    22.999315,
+    120.169615,
+    22.999315
+],
+  "geometry": {"coordinates":[120.16961499999999,22.999315],"type":"Point"}
+}

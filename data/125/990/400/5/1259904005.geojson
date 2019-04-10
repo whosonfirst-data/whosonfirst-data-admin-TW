@@ -1,0 +1,79 @@
+{
+  "id": 1259904005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.69778,24.34694,120.69778,24.34694",
+    "geom:latitude":24.34694,
+    "geom:longitude":120.69778,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B21",
+    "gn:admin4_code":"66000210011.0",
+    "gn:asciiname":"Shangpouzi",
+    "gn:country_code":"TW",
+    "gn:dem":140,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6587517,
+    "gn:latitude":24.34694,
+    "gn:longitude":120.69778,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangpouzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shangpouzih"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u5ecd\u5b50"
+    ],
+    "name:zho_x_variant":[
+        "Shang-p\u2019ou-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6587517
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"31c6b7d148fd41aed5fc07c67e0c94c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259904005,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1259904005,
+    "wof:lastmodified":1537709584,
+    "wof:name":"Shangpouzi",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.69778,
+    24.34694,
+    120.69778,
+    24.34694
+],
+  "geometry": {"coordinates":[120.69777999999999,24.34694],"type":"Point"}
+}

@@ -1,0 +1,106 @@
+{
+  "id": 1243555015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.31056,23.30694,120.31056,23.30694",
+    "geom:latitude":23.30694,
+    "geom:longitude":120.31056,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R01",
+    "gn:admin4_code":"67000010003.0",
+    "gn:asciiname":"Xinying",
+    "gn:country_code":"TW",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA2",
+    "gn:geonameid":1668353,
+    "gn:latitude":23.30694,
+    "gn:longitude":120.31056,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinying",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Sin-jing"
+    ],
+    "name:eng_x_preferred":[
+        "Xinying District"
+    ],
+    "name:hak_x_preferred":[
+        "S\u00een-y\u00e0ng-kh\u00ee"
+    ],
+    "name:jpn_x_preferred":[
+        "\u65b0\u55b6\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e0\uc789 \uad6c"
+    ],
+    "name:nan_x_preferred":[
+        "Sin-i\u00e2\u207f-khu"
+    ],
+    "name:und_x_variant":[
+        "Hsing-ying",
+        "Xinying",
+        "Sinying",
+        "Hsin-ying"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e2n Doanh"
+    ],
+    "name:zho_x_preferred":[
+        "T\u2019ai-nan-hsien"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ai-nan",
+        "\u65b0\u71df",
+        "\u65b0\u71df\u5340"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668353,
+        "wk:page":"Xinying_District"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1fc157901a02b5aad78f25e23141f452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243555015,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1243555015,
+    "wof:lastmodified":1537708623,
+    "wof:name":"Xinying",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.31056,
+    23.30694,
+    120.31056,
+    23.30694
+],
+  "geometry": {"coordinates":[120.31056,23.30694],"type":"Point"}
+}

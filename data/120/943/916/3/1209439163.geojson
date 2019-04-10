@@ -1,0 +1,71 @@
+{
+  "id": 1209439163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7925,23.66583,120.7925,23.66583",
+    "geom:latitude":23.66583,
+    "geom:longitude":120.7925,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M07",
+    "gn:admin4_code":"10008070005.0",
+    "gn:asciiname":"Liulongjiao",
+    "gn:country_code":"TW",
+    "gn:dem":1249,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602750,
+    "gn:latitude":23.66583,
+    "gn:longitude":120.7925,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liulongjiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lioulongjiao",
+        "Liu-lung-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d41\u7c60\u811a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602750
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b1a6479c4a2afdf45c25296449a2524b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209439163
+        }
+    ],
+    "wof:id":1209439163,
+    "wof:lastmodified":1537709668,
+    "wof:name":"Liulongjiao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7925,
+    23.66583,
+    120.7925,
+    23.66583
+],
+  "geometry": {"coordinates":[120.7925,23.66583],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1243566075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.57213,25.27339,121.57213,25.27339",
+    "geom:latitude":25.27339,
+    "geom:longitude":121.57213,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F31",
+    "gn:admin4_code":"65000220005.0",
+    "gn:asciiname":"Shimenkeng",
+    "gn:country_code":"TW",
+    "gn:dem":98,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669335,
+    "gn:latitude":25.27339,
+    "gn:longitude":121.57213,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shimenkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihmenkeng",
+        "Nei-shih-men",
+        "Shimenkeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u9580\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Shih-men-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669335
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b8fdd8a492bb1b2f74da239beaf05398",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243566075,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1243566075,
+    "wof:lastmodified":1537708697,
+    "wof:name":"Shimenkeng",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.57213,
+    25.27339,
+    121.57213,
+    25.27339
+],
+  "geometry": {"coordinates":[121.57213,25.27339],"type":"Point"}
+}

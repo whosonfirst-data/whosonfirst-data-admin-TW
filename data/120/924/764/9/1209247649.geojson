@@ -1,0 +1,72 @@
+{
+  "id": 1209247649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.54528,23.67222,121.54528,23.67222",
+    "geom:latitude":23.67222,
+    "geom:longitude":121.54528,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U08",
+    "gn:admin4_code":"10015080002.0",
+    "gn:asciiname":"Xinfeng",
+    "gn:country_code":"TW",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6600679,
+    "gn:latitude":23.67222,
+    "gn:longitude":121.54528,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinfeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinfong",
+        "Xinfeng",
+        "Hsin-feng"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u8c50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6600679
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4ba978c3d4b433af6f53bd9811362927",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209247649
+        }
+    ],
+    "wof:id":1209247649,
+    "wof:lastmodified":1537709628,
+    "wof:name":"Xinfeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.54528,
+    23.67222000000001,
+    121.54528,
+    23.67222000000001
+],
+  "geometry": {"coordinates":[121.54528000000001,23.67222000000001],"type":"Point"}
+}

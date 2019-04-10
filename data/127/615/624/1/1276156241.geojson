@@ -1,0 +1,83 @@
+{
+  "id": 1276156241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.33828,23.76268,120.33828,23.76268",
+    "geom:latitude":23.76268,
+    "geom:longitude":120.33828,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P12",
+    "gn:admin4_code":"10009120007.0",
+    "gn:asciiname":"Yanyuan",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665500,
+    "gn:latitude":23.76268,
+    "gn:longitude":120.33828,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yanyuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fan-yen-y\u00fcan",
+        "Yanyuan"
+    ],
+    "name:zho_x_preferred":[
+        "A-ch\u2019\u00fcan-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "A-ch\u2019\u00fcan",
+        "\u9e7d\u5712",
+        "Yen-y\u00fcan",
+        "Fan-yen-y\u00fcan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665500
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a52f773e42b6bcc27cdd62d526772095",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276156241,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1276156241,
+    "wof:lastmodified":1537708439,
+    "wof:name":"Yanyuan",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.33828,
+    23.76268,
+    120.33828,
+    23.76268
+],
+  "geometry": {"coordinates":[120.33828,23.76268],"type":"Point"}
+}

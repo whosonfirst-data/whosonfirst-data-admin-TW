@@ -1,0 +1,76 @@
+{
+  "id": 1209539821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.26139,23.33167,120.26139,23.33167",
+    "geom:latitude":23.33167,
+    "geom:longitude":120.26139,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R02",
+    "gn:admin4_code":"67000020011.0",
+    "gn:asciiname":"Annei",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679256,
+    "gn:latitude":23.33167,
+    "gn:longitude":120.26139,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Annei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nan-Nei",
+        "Niu-ch\u2019ou-tzu",
+        "Annei",
+        "An-nei"
+    ],
+    "name:zho_x_preferred":[
+        "An-nei-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u5cb8\u5185"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679256
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7db3e9558a1f12a65ffde1f03f5bafba",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209539821
+        }
+    ],
+    "wof:id":1209539821,
+    "wof:lastmodified":1537709421,
+    "wof:name":"Annei",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.26139,
+    23.33167000000001,
+    120.26139,
+    23.33167000000001
+],
+  "geometry": {"coordinates":[120.26139000000001,23.33167000000001],"type":"Point"}
+}

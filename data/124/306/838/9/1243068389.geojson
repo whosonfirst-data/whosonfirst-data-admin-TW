@@ -1,0 +1,79 @@
+{
+  "id": 1243068389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.94084,23.9809,120.94084,23.9809",
+    "geom:latitude":23.9809,
+    "geom:longitude":120.94084,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M02",
+    "gn:admin4_code":"10008020020.0",
+    "gn:asciiname":"Shuangliao",
+    "gn:country_code":"TW",
+    "gn:dem":420,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669066,
+    "gn:latitude":23.9809,
+    "gn:longitude":120.94084,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuangliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuang-liao"
+    ],
+    "name:zho_x_preferred":[
+        "Shuang-liao-k\u2019an-chiao"
+    ],
+    "name:zho_x_variant":[
+        "\u96d9\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669066
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"220b8b128539dfcfaa459644b7cb2221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243068389,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1243068389,
+    "wof:lastmodified":1537708677,
+    "wof:name":"Shuangliao",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.94084,
+    23.9809,
+    120.94084,
+    23.9809
+],
+  "geometry": {"coordinates":[120.94083999999999,23.9809],"type":"Point"}
+}

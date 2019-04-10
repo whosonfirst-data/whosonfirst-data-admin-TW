@@ -1,0 +1,76 @@
+{
+  "id": 1327438807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.48588,25.25438,121.48588,25.25438",
+    "geom:latitude":25.25438,
+    "geom:longitude":121.48588,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F30",
+    "gn:admin4_code":"65000210008.0",
+    "gn:asciiname":"Haiwei",
+    "gn:country_code":"TW",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676294,
+    "gn:latitude":25.25438,
+    "gn:longitude":121.48588,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Haiwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hai-wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u6d77\u5c3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676294
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8d4c62f98e4d4b25ce5af913d3d1d444",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327438807,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1327438807,
+    "wof:lastmodified":1537709203,
+    "wof:name":"Haiwei",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.48588,
+    25.25438,
+    121.48588,
+    25.25438
+],
+  "geometry": {"coordinates":[121.48587999999999,25.25438],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1344080593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.71722,21.97472,120.71722,21.97472",
+    "geom:latitude":21.97472,
+    "geom:longitude":120.71722,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T04",
+    "gn:admin4_code":"10013040012.0",
+    "gn:asciiname":"Shuikengzi",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6600757,
+    "gn:latitude":21.97472,
+    "gn:longitude":120.71722,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuikengzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shueikengzih"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u5751\u4ed4"
+    ],
+    "name:zho_x_variant":[
+        "Shui-k\u2019eng-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6600757
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ed1559c52ac7ef81ac18b9687b08b644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344080593,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1344080593,
+    "wof:lastmodified":1537709629,
+    "wof:name":"Shuikengzi",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.71722,
+    21.97472,
+    120.71722,
+    21.97472
+],
+  "geometry": {"coordinates":[120.71722,21.97472],"type":"Point"}
+}

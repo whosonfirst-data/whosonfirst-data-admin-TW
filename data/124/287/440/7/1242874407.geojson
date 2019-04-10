@@ -1,0 +1,82 @@
+{
+  "id": 1242874407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.52667,23.52333,120.52667,23.52333",
+    "geom:latitude":23.52333,
+    "geom:longitude":120.52667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q15",
+    "gn:admin4_code":"10010140005.0",
+    "gn:asciiname":"Zhentoukeng",
+    "gn:country_code":"TW",
+    "gn:dem":109,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677124,
+    "gn:latitude":23.52333,
+    "gn:longitude":120.52667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhentoukeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhentoukeng"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019ou-t\u2019ou-k\u2019eng"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019uan-t\u2019ou-k\u2019eng",
+        "\u5733\u982d\u5751",
+        "Ch\u00fcn-t\u2019ou-k\u2019eng",
+        "Chen-t\u2019ou-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677124
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bdd96cb3ddcc37eb089f55294501ae12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242874407,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1242874407,
+    "wof:lastmodified":1537709266,
+    "wof:name":"Zhentoukeng",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.52667,
+    23.52333,
+    120.52667,
+    23.52333
+],
+  "geometry": {"coordinates":[120.52667,23.52333],"type":"Point"}
+}

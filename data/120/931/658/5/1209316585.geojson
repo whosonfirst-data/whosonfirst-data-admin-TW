@@ -1,0 +1,70 @@
+{
+  "id": 1209316585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.35386,25.12507,121.35386,25.12507",
+    "geom:latitude":25.12507,
+    "geom:longitude":121.35386,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F02",
+    "gn:admin4_code":"65000170014.0",
+    "gn:asciiname":"Houkeng",
+    "gn:country_code":"TW",
+    "gn:dem":61,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676048,
+    "gn:latitude":25.12507,
+    "gn:longitude":121.35386,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Houkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5f8c\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Hou-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676048
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"35dd3a98968fa1b72901e319ae3efad0",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209316585
+        }
+    ],
+    "wof:id":1209316585,
+    "wof:lastmodified":1537709185,
+    "wof:name":"Houkeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.35386,
+    25.12507,
+    121.35386,
+    25.12507
+],
+  "geometry": {"coordinates":[121.35386,25.12507],"type":"Point"}
+}

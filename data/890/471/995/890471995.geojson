@@ -1,0 +1,72 @@
+{
+  "id": 890471995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.394012,25.144111,121.394012,25.144111",
+    "geom:latitude":25.144111,
+    "geom:longitude":121.394012,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u516b\u91cc\u9109",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u65b0\u5317\u5e02",
+    "qs:photos":1791,
+    "qs:photos_1k":363,
+    "qs:photos_9k":25,
+    "qs:photos_9r":14,
+    "qs:photos_all":5641,
+    "qs:photos_sr":14,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":161,
+    "wof:belongsto":[
+        85679585,
+        102191569,
+        85632403,
+        1108756871,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2301849,
+        "qs:id":241415,
+        "wd:id":"Q24287568",
+        "wk:page":"Taipei County"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053877,
+    "wof:geomhash":"7ce5fd28aefebdd6e7983056f6c2dfcc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "county_id":890471995,
+            "macrocounty_id":1108756871,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":890471995,
+    "wof:lastmodified":1527727125,
+    "wof:name":"\u516b\u91cc\u9109",
+    "wof:parent_id":1108756871,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.394012,
+    25.144111,
+    121.394012,
+    25.144111
+],
+  "geometry": {"coordinates":[121.394012,25.144111],"type":"Point"}
+}

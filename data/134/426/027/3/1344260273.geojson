@@ -1,0 +1,78 @@
+{
+  "id": 1344260273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.72306,23.13417,120.72306,23.13417",
+    "geom:latitude":23.13417,
+    "geom:longitude":120.72306,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E37",
+    "gn:admin4_code":"64000370004.0",
+    "gn:asciiname":"Gaozhong'ercun",
+    "gn:country_code":"TW",
+    "gn:dem":554,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6586608,
+    "gn:latitude":23.13417,
+    "gn:longitude":120.72306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Gaozhong\u2019ercun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u9ad8\u4e2d\u4e8c\u6751"
+    ],
+    "name:zho_x_variant":[
+        "Gaozhong\u2019ercun",
+        "Gaojhong\u2019ercun",
+        "Kao-chung-erh-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6586608
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2a348cb4f9a0f749fec05c38b45ee043",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1344260273,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1344260273,
+    "wof:lastmodified":1537709566,
+    "wof:name":"Gaozhong'ercun",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.72306,
+    23.13417,
+    120.72306,
+    23.13417
+],
+  "geometry": {"coordinates":[120.72306,23.13417],"type":"Point"}
+}

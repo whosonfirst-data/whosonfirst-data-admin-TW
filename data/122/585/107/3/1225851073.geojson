@@ -1,0 +1,81 @@
+{
+  "id": 1225851073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.17556,24.89444,121.17556,24.89444",
+    "geom:latitude":24.89444,
+    "geom:longitude":121.17556,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H04",
+    "gn:admin4_code":"68000040034.0",
+    "gn:asciiname":"Aipingzi",
+    "gn:country_code":"TW",
+    "gn:dem":253,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674078,
+    "gn:latitude":24.89444,
+    "gn:longitude":121.17556,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Aipingzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Aipingzih",
+        "Aipingzi"
+    ],
+    "name:zho_x_preferred":[
+        "\u77ee\u576a\u5b50"
+    ],
+    "name:zho_x_variant":[
+        "Jui-t\u2019ang",
+        "Ai-p\u2019ing-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674078
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"dd1efcf15bcdbf933ddddd81e179581c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225851073,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1225851073,
+    "wof:lastmodified":1537709019,
+    "wof:name":"Aipingzi",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.17556,
+    24.89444,
+    121.17556,
+    24.89444
+],
+  "geometry": {"coordinates":[121.17556,24.89444],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1293784559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.77263,24.41477,120.77263,24.41477",
+    "geom:latitude":24.41477,
+    "geom:longitude":120.77263,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K06",
+    "gn:admin4_code":"10005130001.0",
+    "gn:asciiname":"Sanyi",
+    "gn:country_code":"TW",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670078,
+    "gn:latitude":24.41477,
+    "gn:longitude":120.77263,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Sanyi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "San-i"
+    ],
+    "name:zho_x_preferred":[
+        "San-ch\u2019a"
+    ],
+    "name:zho_x_variant":[
+        "\u4e09\u7fa9",
+        "San-ch\u2019a-ho"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670078,
+        "wk:page":"Sanyi,_Miaoli"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"faf09dbc2353e9260a8b22e70135dfdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293784559,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1293784559,
+    "wof:lastmodified":1537708756,
+    "wof:name":"Sanyi",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.77263,
+    24.41477,
+    120.77263,
+    24.41477
+],
+  "geometry": {"coordinates":[120.77263000000001,24.41477],"type":"Point"}
+}

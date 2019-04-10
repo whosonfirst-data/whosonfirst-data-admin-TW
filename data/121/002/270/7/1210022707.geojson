@@ -1,0 +1,78 @@
+{
+  "id": 1210022707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.83226,24.64069,121.83226,24.64069",
+    "geom:latitude":24.64069,
+    "geom:longitude":121.83226,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G09",
+    "gn:admin4_code":"10002030001.0",
+    "gn:asciiname":"Yuying",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646944,
+    "gn:latitude":24.64069,
+    "gn:longitude":121.83226,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yuying",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u80b2\u82f1"
+    ],
+    "name:zho_x_variant":[
+        "Y\u00fc-ying"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679567,
+        102191569,
+        85632403,
+        1108499379,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646944
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"23f5b97ad31cf06475090edf660d1243",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1210022707,
+            "macrocounty_id":1108499379,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1210022707,
+    "wof:lastmodified":1537709748,
+    "wof:name":"Yuying",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.83226,
+    24.64069,
+    121.83226,
+    24.64069
+],
+  "geometry": {"coordinates":[121.83226000000001,24.64069],"type":"Point"}
+}

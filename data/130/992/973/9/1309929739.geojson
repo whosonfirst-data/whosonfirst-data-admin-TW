@@ -1,0 +1,83 @@
+{
+  "id": 1309929739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.50389,22.63528,121.50389,22.63528",
+    "geom:latitude":22.63528,
+    "geom:longitude":121.50389,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V11",
+    "gn:admin4_code":"10014110001.0",
+    "gn:asciiname":"Baishawei",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671113,
+    "gn:latitude":22.63528,
+    "gn:longitude":121.50389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Baishawei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-pai-sha",
+        "Baishawei",
+        "Pai-sha-wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u767d\u6c99\u5c3e"
+    ],
+    "name:zho_x_variant":[
+        "Tso-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679623,
+        102191569,
+        85632403,
+        1108499511,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671113
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6978b35887d932f5ef7759190d22fb9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309929739,
+            "macrocounty_id":1108499511,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1309929739,
+    "wof:lastmodified":1537708822,
+    "wof:name":"Baishawei",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.50388999999998,
+    22.63528,
+    121.50388999999998,
+    22.63528
+],
+  "geometry": {"coordinates":[121.50388999999998,22.63528],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 1209716549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.39468,23.80426,120.39468,23.80426",
+    "geom:latitude":23.80426,
+    "geom:longitude":120.39468,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P11",
+    "gn:admin4_code":"10009110011.0",
+    "gn:asciiname":"Hebaoyu",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676157,
+    "gn:latitude":23.80426,
+    "gn:longitude":120.39468,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hebaoyu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ho-pao-hs\u00fc",
+        "Chiang-hou",
+        "Hsia-ho-pao-y\u00fc",
+        "Hebaoyu"
+    ],
+    "name:zho_x_preferred":[
+        "Chiang-hou-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u8377\u5305\u5dbc",
+        "Ho-pao-y\u00fc",
+        "Hsia-ho-pao-y\u00fc",
+        "Ho-pao-hs\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676157
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d1d63a0114e2311d18f6b5998f30f990",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209716549,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1209716549,
+    "wof:lastmodified":1537709193,
+    "wof:name":"Hebaoyu",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.39468,
+    23.80426,
+    120.39468,
+    23.80426
+],
+  "geometry": {"coordinates":[120.39467999999999,23.80426],"type":"Point"}
+}

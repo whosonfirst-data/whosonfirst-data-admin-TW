@@ -1,0 +1,80 @@
+{
+  "id": 1209715933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.54556,24.28722,120.54556,24.28722",
+    "geom:latitude":24.28722,
+    "geom:longitude":120.54556,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B12",
+    "gn:admin4_code":"66000120015.0",
+    "gn:asciiname":"Wenziliao",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665963,
+    "gn:latitude":24.28722,
+    "gn:longitude":120.54556,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wenziliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yen-tzu-liao",
+        "Wen-ya-liao",
+        "Wenziliao",
+        "Wunzihliao",
+        "Wen-tzu-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u586d\u4ed4\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665963
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2afafc887d5ce799b87c7272faf02d35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209715933,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1209715933,
+    "wof:lastmodified":1537708469,
+    "wof:name":"Wenziliao",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.54556,
+    24.28722,
+    120.54556,
+    24.28722
+],
+  "geometry": {"coordinates":[120.54555999999999,24.28722],"type":"Point"}
+}

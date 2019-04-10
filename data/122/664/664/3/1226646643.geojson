@@ -1,0 +1,79 @@
+{
+  "id": 1226646643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.55111,24.26778,120.55111,24.26778",
+    "geom:latitude":24.26778,
+    "geom:longitude":120.55111,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B12",
+    "gn:admin4_code":"66000120016.0",
+    "gn:asciiname":"Niubuzi",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671276,
+    "gn:latitude":24.26778,
+    "gn:longitude":120.55111,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Niubuzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Niu-pu",
+        "Niubuzi",
+        "Nioubuzih",
+        "Niu-pu-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u725b\u57d4\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671276
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ee44a76c745549fceb26724500bd13e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226646643,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1226646643,
+    "wof:lastmodified":1537708832,
+    "wof:name":"Niubuzi",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.55111,
+    24.26778,
+    120.55111,
+    24.26778
+],
+  "geometry": {"coordinates":[120.55110999999999,24.26778],"type":"Point"}
+}

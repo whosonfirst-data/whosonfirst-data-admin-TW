@@ -1,0 +1,81 @@
+{
+  "id": 1259583617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.05861,23.48056,121.05861,23.48056",
+    "geom:latitude":23.48056,
+    "geom:longitude":121.05861,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U13",
+    "gn:admin4_code":"10015130004.0",
+    "gn:asciiname":"Dasuiku",
+    "gn:country_code":"TW",
+    "gn:dem":3216,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667725,
+    "gn:latitude":23.48056,
+    "gn:longitude":121.05861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dasuiku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Dasueiku",
+        "Dasuiku"
+    ],
+    "name:zho_x_preferred":[
+        "Ta-shu-k\u2019u"
+    ],
+    "name:zho_x_variant":[
+        "\u5927\u6c34\u7a9f",
+        "Ta-shui-k\u2019u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667725
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ca3f8cdee84ca6399cf34429550ad3f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259583617,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1259583617,
+    "wof:lastmodified":1537708589,
+    "wof:name":"Dasuiku",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.05861000000002,
+    23.48056,
+    121.05861000000002,
+    23.48056
+],
+  "geometry": {"coordinates":[121.05861000000002,23.48056],"type":"Point"}
+}

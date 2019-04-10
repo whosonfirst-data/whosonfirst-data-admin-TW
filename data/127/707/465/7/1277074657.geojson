@@ -1,0 +1,78 @@
+{
+  "id": 1277074657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.21306,23.12,120.21306,23.12",
+    "geom:latitude":23.12,
+    "geom:longitude":120.21306,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R13",
+    "gn:admin4_code":"67000140003.0",
+    "gn:asciiname":"Shuangzhangbu",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669106,
+    "gn:latitude":23.12,
+    "gn:longitude":120.21306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuangzhangbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuangjhangbu",
+        "Shuangzhangbu",
+        "Shuang-chang-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u96d9\u5f35\u5ecd"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669106
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"16b9bf53ab4bbc7244297f535f25f62b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1277074657,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1277074657,
+    "wof:lastmodified":1537708679,
+    "wof:name":"Shuangzhangbu",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.21306,
+    23.12,
+    120.21306,
+    23.12
+],
+  "geometry": {"coordinates":[120.21306,23.12],"type":"Point"}
+}

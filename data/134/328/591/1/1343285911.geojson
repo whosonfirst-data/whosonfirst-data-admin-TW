@@ -1,0 +1,77 @@
+{
+  "id": 1343285911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.78796,23.96844,120.78796,23.96844",
+    "geom:latitude":23.96844,
+    "geom:longitude":120.78796,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M03",
+    "gn:admin4_code":"10008030022.0",
+    "gn:asciiname":"Shuanglongxiang",
+    "gn:country_code":"TW",
+    "gn:dem":426,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649173,
+    "gn:latitude":23.96844,
+    "gn:longitude":120.78796,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuanglongxiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shuanglongciang",
+        "Shuang-lung-hsiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u96d9\u9f8d\u5df7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649173
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1723b59e1913599370f6e41c659dbe72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343285911,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1343285911,
+    "wof:lastmodified":1537709780,
+    "wof:name":"Shuanglongxiang",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.78796,
+    23.96844,
+    120.78796,
+    23.96844
+],
+  "geometry": {"coordinates":[120.78796,23.96844],"type":"Point"}
+}

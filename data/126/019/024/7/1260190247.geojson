@@ -1,0 +1,78 @@
+{
+  "id": 1260190247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.37314,24.9525,121.37314,24.9525",
+    "geom:latitude":24.9525,
+    "geom:longitude":121.37314,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F17",
+    "gn:admin4_code":"65000070023.0",
+    "gn:asciiname":"Zhangdejie",
+    "gn:country_code":"TW",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653527,
+    "gn:latitude":24.9525,
+    "gn:longitude":121.37314,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhangdejie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhangdejie",
+        "Zhangdejie",
+        "Chang-te-chieh"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f70\u5fb7\u8857"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653527
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"af22fdbece09cbe3400a86156b90bc08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260190247,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1260190247,
+    "wof:lastmodified":1537709836,
+    "wof:name":"Zhangdejie",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.37314,
+    24.9525,
+    121.37314,
+    24.9525
+],
+  "geometry": {"coordinates":[121.37314000000001,24.9525],"type":"Point"}
+}

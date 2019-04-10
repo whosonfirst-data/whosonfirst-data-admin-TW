@@ -1,0 +1,76 @@
+{
+  "id": 1259384737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.60523,24.97794,121.60523,24.97794",
+    "geom:latitude":24.97794,
+    "geom:longitude":121.60523,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F09",
+    "gn:admin4_code":"65000180005.0",
+    "gn:asciiname":"Houshanyue",
+    "gn:country_code":"TW",
+    "gn:dem":418,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6643886,
+    "gn:latitude":24.97794,
+    "gn:longitude":121.60523,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Houshanyue",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7334\u5c71\u5cb3"
+    ],
+    "name:zho_x_variant":[
+        "Hou-shan-y\u00fceh"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6643886
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c70f86ae390cd76d0405fd44a0f16361",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259384737,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1259384737,
+    "wof:lastmodified":1537709695,
+    "wof:name":"Houshanyue",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.60523,
+    24.97794,
+    121.60523,
+    24.97794
+],
+  "geometry": {"coordinates":[121.60523000000001,24.97794],"type":"Point"}
+}

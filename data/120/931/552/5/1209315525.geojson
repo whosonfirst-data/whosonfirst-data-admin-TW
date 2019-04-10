@@ -1,0 +1,71 @@
+{
+  "id": 1209315525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.37995,23.91956,120.37995,23.91956",
+    "geom:latitude":23.91956,
+    "geom:longitude":120.37995,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N08",
+    "gn:admin4_code":"10007200012.0",
+    "gn:asciiname":"Sihuzi",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6644806,
+    "gn:latitude":23.91956,
+    "gn:longitude":120.37995,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sihuzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sihhuzih",
+        "Ssu-hu-tzu"
+    ],
+    "name:zho_x_preferred":[
+        "\u56db\u6238\u5b50"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6644806
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"74eee8907fc88c0be4f2f036822216ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209315525
+        }
+    ],
+    "wof:id":1209315525,
+    "wof:lastmodified":1537709703,
+    "wof:name":"Sihuzi",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.37995,
+    23.91956,
+    120.37995,
+    23.91956
+],
+  "geometry": {"coordinates":[120.37994999999999,23.91956],"type":"Point"}
+}

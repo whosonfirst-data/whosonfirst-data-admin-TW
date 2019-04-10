@@ -1,0 +1,77 @@
+{
+  "id": 1226248673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.82894,24.59717,120.82894,24.59717",
+    "geom:latitude":24.59717,
+    "geom:longitude":120.82894,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K12",
+    "gn:admin4_code":"10005060006.0",
+    "gn:asciiname":"Erzhangli",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676967,
+    "gn:latitude":24.59717,
+    "gn:longitude":120.82894,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Erzhangli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erjhangli",
+        "Erh-chang-li"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e8c\u5f35\u7282"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676967
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c6587e74c3087cdec4efbc564f0a9f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226248673,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1226248673,
+    "wof:lastmodified":1537709252,
+    "wof:name":"Erzhangli",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.82894,
+    24.59717,
+    120.82894,
+    24.59717
+],
+  "geometry": {"coordinates":[120.82894,24.59717],"type":"Point"}
+}

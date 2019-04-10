@@ -1,0 +1,78 @@
+{
+  "id": 1309712807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60861,23.515,120.60861,23.515",
+    "geom:latitude":23.515,
+    "geom:longitude":120.60861,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q15",
+    "gn:admin4_code":"10010140019.0",
+    "gn:asciiname":"Jinshiliao",
+    "gn:country_code":"TW",
+    "gn:dem":435,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677973,
+    "gn:latitude":23.515,
+    "gn:longitude":120.60861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jinshiliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jinshihliao",
+        "Jinshiliao",
+        "Chin-shih-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u7345\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677973
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cecd958993a4f98954d3058c42c2fe6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309712807,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1309712807,
+    "wof:lastmodified":1537709338,
+    "wof:name":"Jinshiliao",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60861,
+    23.515,
+    120.60861,
+    23.515
+],
+  "geometry": {"coordinates":[120.60861,23.515],"type":"Point"}
+}

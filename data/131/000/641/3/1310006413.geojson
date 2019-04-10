@@ -1,0 +1,76 @@
+{
+  "id": 1310006413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.60515,23.85191,120.60515,23.85191",
+    "geom:latitude":23.85191,
+    "geom:longitude":120.60515,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N07",
+    "gn:admin4_code":"10007120002.0",
+    "gn:asciiname":"Neiwan",
+    "gn:country_code":"TW",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671388,
+    "gn:latitude":23.85191,
+    "gn:longitude":120.60515,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Neiwan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nei-wan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5167\u7063"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671388
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9233b1e15e36e5266affb6994aca3cbc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310006413,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1310006413,
+    "wof:lastmodified":1537708839,
+    "wof:name":"Neiwan",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.60515,
+    23.85191,
+    120.60515,
+    23.85191
+],
+  "geometry": {"coordinates":[120.60514999999999,23.85191],"type":"Point"}
+}

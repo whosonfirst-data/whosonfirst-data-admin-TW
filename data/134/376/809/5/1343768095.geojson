@@ -1,0 +1,86 @@
+{
+  "id": 1343768095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.32584,23.38008,121.32584,23.38008",
+    "geom:latitude":23.38008,
+    "geom:longitude":121.32584,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U03",
+    "gn:admin4_code":"10015030015.0",
+    "gn:asciiname":"Dayu",
+    "gn:country_code":"TW",
+    "gn:dem":108,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673593,
+    "gn:latitude":23.38008,
+    "gn:longitude":121.32584,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dayu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-y\u00fc",
+        "Kuang-fu-li",
+        "\u5927\u79b9",
+        "Kuang-fu",
+        "Dayu"
+    ],
+    "name:zho_x_preferred":[
+        "Kuang-fu-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Ta-y\u00fc-ts\u2019un",
+        "Mo-kuang-ts\u2019un",
+        "\u5927\u79b9",
+        "Ta-y\u00fc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673593
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5d01e24bce7c0871323873045a888ab0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343768095,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1343768095,
+    "wof:lastmodified":1537708981,
+    "wof:name":"Dayu",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.32584,
+    23.38008,
+    121.32584,
+    23.38008
+],
+  "geometry": {"coordinates":[121.32584,23.38008],"type":"Point"}
+}

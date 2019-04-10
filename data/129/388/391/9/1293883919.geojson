@@ -1,0 +1,83 @@
+{
+  "id": 1293883919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.42361,22.95389,120.42361,22.95389",
+    "geom:latitude":22.95389,
+    "geom:longitude":120.42361,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R30",
+    "gn:admin4_code":"67000300007.0",
+    "gn:asciiname":"Pizi",
+    "gn:country_code":"TW",
+    "gn:dem":152,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672482,
+    "gn:latitude":22.95389,
+    "gn:longitude":120.42361,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pizi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lien-tsun",
+        "Pizi",
+        "Pizih"
+    ],
+    "name:zho_x_preferred":[
+        "Lung-Ch\u2019uang"
+    ],
+    "name:zho_x_variant":[
+        "\u57e4\u4ed4",
+        "Lung-ch\u2019uan",
+        "P\u2019i-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672482
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"54a5c3e98b3edaacd06ce781b248b9fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293883919,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1293883919,
+    "wof:lastmodified":1537708908,
+    "wof:name":"Pizi",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.42361,
+    22.95389,
+    120.42361,
+    22.95389
+],
+  "geometry": {"coordinates":[120.42361,22.95389],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1309917475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.59483,25.27849,121.59483,25.27849",
+    "geom:latitude":25.27849,
+    "geom:longitude":121.59483,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F31",
+    "gn:admin4_code":"65000220008.0",
+    "gn:asciiname":"Xiajiao",
+    "gn:country_code":"TW",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675898,
+    "gn:latitude":25.27849,
+    "gn:longitude":121.59483,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiajiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siajiao",
+        "Xiajiao",
+        "Hsia-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u89d2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679585,
+        102191569,
+        85632403,
+        1108756871,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675898
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b27402707943a2dd6dbe233b08235ada",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309917475,
+            "macrocounty_id":1108756871,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1309917475,
+    "wof:lastmodified":1537709174,
+    "wof:name":"Xiajiao",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.59483,
+    25.27849,
+    121.59483,
+    25.27849
+],
+  "geometry": {"coordinates":[121.59483,25.27849],"type":"Point"}
+}

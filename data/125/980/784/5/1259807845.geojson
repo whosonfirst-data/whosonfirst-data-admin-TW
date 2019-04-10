@@ -1,0 +1,76 @@
+{
+  "id": 1259807845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8371,24.35684,120.8371,24.35684",
+    "geom:latitude":24.35684,
+    "geom:longitude":120.8371,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K15",
+    "gn:admin4_code":"10005080012.0",
+    "gn:asciiname":"Dachongku",
+    "gn:country_code":"TW",
+    "gn:dem":351,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652146,
+    "gn:latitude":24.35684,
+    "gn:longitude":120.8371,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dachongku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u9283\u5eab"
+    ],
+    "name:zho_x_variant":[
+        "Ta-ch\u2019ung-k\u2019u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652146
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"446ec2d397e4b72a55a65ee04e7f5db4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259807845,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1259807845,
+    "wof:lastmodified":1537709814,
+    "wof:name":"Dachongku",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8371,
+    24.35684,
+    120.8371,
+    24.35684
+],
+  "geometry": {"coordinates":[120.83710000000001,24.35684],"type":"Point"}
+}

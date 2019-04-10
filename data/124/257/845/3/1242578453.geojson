@@ -1,0 +1,81 @@
+{
+  "id": 1242578453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.61135,22.72338,120.61135,22.72338",
+    "geom:latitude":22.72338,
+    "geom:longitude":120.61135,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T10",
+    "gn:admin4_code":"10013100007.0",
+    "gn:asciiname":"Zhenxing",
+    "gn:country_code":"TW",
+    "gn:dem":87,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678931,
+    "gn:latitude":22.72338,
+    "gn:longitude":120.61135,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhenxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Cheng-Hsing-Tsun",
+        "Hsi-kua-y\u00fcan",
+        "Chen-hsing-ts\u2019un",
+        "Zhenxing",
+        "Jhensing",
+        "Chen-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u632f\u8208"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678931
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"27c1e32978b0dd9a970ff5be28a49973",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242578453,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1242578453,
+    "wof:lastmodified":1537709400,
+    "wof:name":"Zhenxing",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.61135,
+    22.72338,
+    120.61135,
+    22.72338
+],
+  "geometry": {"coordinates":[120.61135,22.72338],"type":"Point"}
+}

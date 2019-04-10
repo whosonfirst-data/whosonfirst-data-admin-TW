@@ -1,0 +1,82 @@
+{
+  "id": 1327158313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.52864,22.73951,120.52864,22.73951",
+    "geom:latitude":22.73951,
+    "geom:longitude":120.52864,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T10",
+    "gn:admin4_code":"10013100010.0",
+    "gn:asciiname":"Qifenzi",
+    "gn:country_code":"TW",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678398,
+    "gn:latitude":22.73951,
+    "gn:longitude":120.52864,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qifenzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ch\u2019i-fen-ts\u2019un",
+        "Ch\u2019i-fen",
+        "Qifenzi",
+        "Cifenzih"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e03\u5206\u5b50"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019i-fen-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678398
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ad99e3180418a4b4e3d57e46929d20c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327158313,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1327158313,
+    "wof:lastmodified":1537709365,
+    "wof:name":"Qifenzi",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.52864,
+    22.73951,
+    120.52864,
+    22.73951
+],
+  "geometry": {"coordinates":[120.52864,22.73951],"type":"Point"}
+}

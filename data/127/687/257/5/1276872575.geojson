@@ -1,0 +1,80 @@
+{
+  "id": 1276872575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.90306,24.9475,121.90306,24.9475",
+    "geom:latitude":24.9475,
+    "geom:longitude":121.90306,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G02",
+    "gn:admin4_code":"10002040002.0",
+    "gn:asciiname":"Fanzi'ao",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6594425,
+    "gn:latitude":24.9475,
+    "gn:longitude":121.90306,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fanzi\u2019ao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fan-tzu-ao"
+    ],
+    "name:zho_x_preferred":[
+        "\u8543\u4ed4\u6fb3"
+    ],
+    "name:zho_x_variant":[
+        "Fanzih\u2019ao",
+        "Fanzi\u2019ao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6594425
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"439f6b27204b0534b204869039cdf8a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276872575,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1276872575,
+    "wof:lastmodified":1537709606,
+    "wof:name":"Fanzi'ao",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.90306,
+    24.9475,
+    121.90306,
+    24.9475
+],
+  "geometry": {"coordinates":[121.90306,24.9475],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1310703589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.64545,25.22679,121.64545,25.22679",
+    "geom:latitude":25.22679,
+    "geom:longitude":121.64545,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F25",
+    "gn:admin4_code":"65000270004.0",
+    "gn:asciiname":"Huanggang",
+    "gn:country_code":"TW",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674484,
+    "gn:latitude":25.22679,
+    "gn:longitude":121.64545,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Huanggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Huang-chiang",
+        "Huanggang",
+        "Huang-kang"
+    ],
+    "name:zho_x_preferred":[
+        "\u78fa\u6e2f"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679585,
+        102191569,
+        85632403,
+        1108756871,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674484
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f94d3a611a688acfa96ccc289b907c05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310703589,
+            "macrocounty_id":1108756871,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1310703589,
+    "wof:lastmodified":1537709044,
+    "wof:name":"Huanggang",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.64545,
+    25.22679,
+    121.64545,
+    25.22679
+],
+  "geometry": {"coordinates":[121.64545,25.22679],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209539747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.57233,23.42874,120.57233,23.42874",
+    "geom:latitude":23.42874,
+    "geom:longitude":120.57233,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q14",
+    "gn:admin4_code":"10010130013.0",
+    "gn:asciiname":"Fanzitian",
+    "gn:country_code":"TW",
+    "gn:dem":217,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656147,
+    "gn:latitude":23.42874,
+    "gn:longitude":120.57233,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fanzitian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fanzihtian"
+    ],
+    "name:zho_x_preferred":[
+        "\u756a\u5b50\u7530"
+    ],
+    "name:zho_x_variant":[
+        "Fan-tzu-t\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6656147
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"082fda06a767b0c43dc9c208ca7254bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209539747
+        }
+    ],
+    "wof:id":1209539747,
+    "wof:lastmodified":1537709867,
+    "wof:name":"Fanzitian",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.57233,
+    23.42874,
+    120.57233,
+    23.42874
+],
+  "geometry": {"coordinates":[120.57232999999999,23.42874],"type":"Point"}
+}

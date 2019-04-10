@@ -1,0 +1,80 @@
+{
+  "id": 1243371163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.7058,24.99008,121.7058,24.99008",
+    "geom:latitude":24.99008,
+    "geom:longitude":121.7058,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F08",
+    "gn:admin4_code":"65000190006.0",
+    "gn:asciiname":"Jiuxiongkeng",
+    "gn:country_code":"TW",
+    "gn:dem":275,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677854,
+    "gn:latitude":24.99008,
+    "gn:longitude":121.7058,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiuxiongkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiousyongkeng",
+        "Jiuxiongkeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e5d\u828e\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Chiu-hsiung-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677854
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"688a05de715f9bc003ebb568956871dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243371163,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1243371163,
+    "wof:lastmodified":1537709328,
+    "wof:name":"Jiuxiongkeng",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.7058,
+    24.99008,
+    121.7058,
+    24.99008
+],
+  "geometry": {"coordinates":[121.7058,24.99008],"type":"Point"}
+}

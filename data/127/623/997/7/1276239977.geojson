@@ -1,0 +1,82 @@
+{
+  "id": 1276239977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.53416,25.22185,121.53416,25.22185",
+    "geom:latitude":25.22185,
+    "geom:longitude":121.53416,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F30",
+    "gn:admin4_code":"65000210011.0",
+    "gn:asciiname":"Mulueliao",
+    "gn:country_code":"TW",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671871,
+    "gn:latitude":25.22185,
+    "gn:longitude":121.53416,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Mul\u00fcliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mu-chi-liao",
+        "Mu-li-liao",
+        "Mulyuliao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6728\u5c65\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Mul\u00fcliao",
+        "Mu-l\u00fc-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671871
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"15895038b6739a81d3bd991429f0b74d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276239977,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1276239977,
+    "wof:lastmodified":1537708869,
+    "wof:name":"Mulueliao",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.53416,
+    25.22185,
+    121.53416,
+    25.22185
+],
+  "geometry": {"coordinates":[121.53416,25.22185],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1243369937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.26556,23.73944,120.26556,23.73944",
+    "geom:latitude":23.73944,
+    "geom:longitude":120.26556,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P13",
+    "gn:admin4_code":"10009130002.0",
+    "gn:asciiname":"Xinghualiao",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675068,
+    "gn:latitude":23.73944,
+    "gn:longitude":120.26556,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinghualiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Singhualiao",
+        "Xinghualiao",
+        "Hsing-hua-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u8208\u5316\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675068
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3c3b8712d9d19034fd217be46ffdf0c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243369937,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1243369937,
+    "wof:lastmodified":1537709096,
+    "wof:name":"Xinghualiao",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.26556,
+    23.73944,
+    120.26556,
+    23.73944
+],
+  "geometry": {"coordinates":[120.26555999999999,23.73944],"type":"Point"}
+}

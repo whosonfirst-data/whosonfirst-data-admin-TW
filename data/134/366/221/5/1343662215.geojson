@@ -1,0 +1,82 @@
+{
+  "id": 1343662215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.30088,23.89341,120.30088,23.89341",
+    "geom:latitude":23.89341,
+    "geom:longitude":120.30088,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N24",
+    "gn:admin4_code":"10007240015.0",
+    "gn:asciiname":"Sanfeng",
+    "gn:country_code":"TW",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670133,
+    "gn:latitude":23.89341,
+    "gn:longitude":120.30088,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanfeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanfong",
+        "San-feng"
+    ],
+    "name:zho_x_preferred":[
+        "San-k\u2019uai-ts\u2019o"
+    ],
+    "name:zho_x_variant":[
+        "San-fang-ts\u2019un",
+        "\u4e09\u8c50",
+        "San-feng-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670133
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"abb4f4c03b90a2dc69999b95fccb8829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343662215,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1343662215,
+    "wof:lastmodified":1537708761,
+    "wof:name":"Sanfeng",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.30088,
+    23.89341,
+    120.30088,
+    23.89341
+],
+  "geometry": {"coordinates":[120.30088000000001,23.89341],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 890470105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.661333,24.183167,120.661333,24.183167",
+    "geom:latitude":24.183167,
+    "geom:longitude":120.661333,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u65b0\u5e73\u91cc",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u53f0\u4e2d\u5e02",
+    "qs:photos":369,
+    "qs:photos_1k":75,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":369,
+    "qs:photos_sr":6,
+    "qs:placetype":"Suburb",
+    "qs:pop_sr":"0",
+    "wd:wordcount":198,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        1108808551,
+        102026649,
+        85679617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28760347,
+        "qs:id":1084752,
+        "wd:id":"Q569533",
+        "wk:page":"Beitun District"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053801,
+    "wof:geomhash":"20c54cc87de91177b980faf919c6b20c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":102026649,
+            "macroregion_id":1108808551,
+            "neighbourhood_id":890470105,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":890470105,
+    "wof:lastmodified":1527727212,
+    "wof:name":"\u65b0\u5e73\u91cc",
+    "wof:parent_id":102026649,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.661333,
+    24.183167,
+    120.661333,
+    24.183167
+],
+  "geometry": {"coordinates":[120.661333,24.183167],"type":"Point"}
+}

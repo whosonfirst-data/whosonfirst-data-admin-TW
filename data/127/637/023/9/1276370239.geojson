@@ -1,0 +1,77 @@
+{
+  "id": 1276370239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86696,24.37291,120.86696,24.37291",
+    "geom:latitude":24.37291,
+    "geom:longitude":120.86696,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K15",
+    "gn:admin4_code":"10005080010.0",
+    "gn:asciiname":"Zhangyanwo",
+    "gn:country_code":"TW",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652144,
+    "gn:latitude":24.37291,
+    "gn:longitude":120.86696,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhangyanwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhangyanwo",
+        "Chang-yen-wo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5f35\u56b4\u7aa9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652144
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0e0afbd263f784197adab99279b5d41a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276370239,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1276370239,
+    "wof:lastmodified":1537709814,
+    "wof:name":"Zhangyanwo",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86696,
+    24.37291,
+    120.86696,
+    24.37291
+],
+  "geometry": {"coordinates":[120.86696000000001,24.37291],"type":"Point"}
+}

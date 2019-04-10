@@ -1,0 +1,80 @@
+{
+  "id": 1276657483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.84115,24.40436,120.84115,24.40436",
+    "geom:latitude":24.40436,
+    "geom:longitude":120.84115,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K15",
+    "gn:admin4_code":"10005080007.0",
+    "gn:asciiname":"Shuiqi",
+    "gn:country_code":"TW",
+    "gn:dem":618,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992630,
+    "gn:latitude":24.40436,
+    "gn:longitude":120.84115,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuiqi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u6c34\u78dc",
+        "Shueici"
+    ],
+    "name:zho_x_preferred":[
+        "Shui-ch\u2019i"
+    ],
+    "name:zho_x_variant":[
+        "\u6c34\u78dc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992630
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"842748c2e46fa5d489c0ee04be67c614",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276657483,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1276657483,
+    "wof:lastmodified":1537709460,
+    "wof:name":"Shuiqi",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.84115,
+    24.40436,
+    120.84115,
+    24.40436
+],
+  "geometry": {"coordinates":[120.84115,24.40436],"type":"Point"}
+}

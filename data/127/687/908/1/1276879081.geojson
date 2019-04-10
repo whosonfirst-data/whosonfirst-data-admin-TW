@@ -1,0 +1,80 @@
+{
+  "id": 1276879081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6377,22.68944,120.6377,22.68944",
+    "geom:latitude":22.68944,
+    "geom:longitude":120.6377,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T28",
+    "gn:admin4_code":"10013280003.0",
+    "gn:asciiname":"Liangshan",
+    "gn:country_code":"TW",
+    "gn:dem":93,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672279,
+    "gn:latitude":22.68944,
+    "gn:longitude":120.6377,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liangshan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma-chia",
+        "Liang-shan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6dbc\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "Wa-k\u2019a-pa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672279
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f9d1845fd06d2af7bbd301b2d3dd84ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276879081,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1276879081,
+    "wof:lastmodified":1537708893,
+    "wof:name":"Liangshan",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6377,
+    22.68944,
+    120.6377,
+    22.68944
+],
+  "geometry": {"coordinates":[120.6377,22.68944],"type":"Point"}
+}

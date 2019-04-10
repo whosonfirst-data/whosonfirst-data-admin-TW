@@ -1,0 +1,73 @@
+{
+  "id": 1209010515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7322,22.74382,120.7322,22.74382",
+    "geom:latitude":22.74382,
+    "geom:longitude":120.7322,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T27",
+    "gn:admin4_code":"10013270001.0",
+    "gn:asciiname":"Wutai",
+    "gn:country_code":"TW",
+    "gn:dem":815,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665707,
+    "gn:latitude":22.74382,
+    "gn:longitude":120.7322,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Wutai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Wu-t\u2019ai-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Wu-t\u2019ai-she",
+        "K\u2019a-wu-ta-tan",
+        "Wu-t\u2019ai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665707,
+        "wk:page":"Wutai,_Pingtung"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f7a7bf531acdcfe32fd932eab7d8c589",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209010515
+        }
+    ],
+    "wof:id":1209010515,
+    "wof:lastmodified":1537708452,
+    "wof:name":"Wutai",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7322,
+    22.74382,
+    120.7322,
+    22.74382
+],
+  "geometry": {"coordinates":[120.73220000000001,22.74382],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1209515601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6083,23.9114,120.6083,23.9114",
+    "geom:latitude":23.9114,
+    "geom:longitude":120.6083,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N19",
+    "gn:admin4_code":"10007170009.0",
+    "gn:asciiname":"Shitougongdakeng",
+    "gn:country_code":"TW",
+    "gn:dem":50,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6650551,
+    "gn:latitude":23.9114,
+    "gn:longitude":120.6083,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shitougongdakeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihtougongdakeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u982d\u516c\u5927\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Shih-t\u2019ou-kung-ta-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6650551
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b08a4c288c3e3a364e42462c4064f755",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209515601
+        }
+    ],
+    "wof:id":1209515601,
+    "wof:lastmodified":1537709809,
+    "wof:name":"Shitougongdakeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6083,
+    23.9114,
+    120.6083,
+    23.9114
+],
+  "geometry": {"coordinates":[120.6083,23.9114],"type":"Point"}
+}

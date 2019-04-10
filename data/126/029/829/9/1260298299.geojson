@@ -1,0 +1,80 @@
+{
+  "id": 1260298299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.56155,22.88429,120.56155,22.88429",
+    "geom:latitude":22.88429,
+    "geom:longitude":120.56155,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E31",
+    "gn:admin4_code":"64000310002.0",
+    "gn:asciiname":"Xiahuangwutang",
+    "gn:country_code":"TW",
+    "gn:dem":53,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658177,
+    "gn:latitude":22.88429,
+    "gn:longitude":120.56155,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiahuangwutang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siahuangwutang",
+        "Xiahuangwutang"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0b\u9ec3\u5c4b\u5858"
+    ],
+    "name:zho_x_variant":[
+        "Hsia-huang-wu-t\u2019ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658177
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"df71d5c76fc9e03613085bf0083cfe70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260298299,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1260298299,
+    "wof:lastmodified":1537709893,
+    "wof:name":"Xiahuangwutang",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.56155,
+    22.88429,
+    120.56155,
+    22.88429
+],
+  "geometry": {"coordinates":[120.56155,22.88429],"type":"Point"}
+}

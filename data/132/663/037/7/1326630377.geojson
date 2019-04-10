@@ -1,0 +1,78 @@
+{
+  "id": 1326630377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.50944,24.00667,120.50944,24.00667",
+    "geom:latitude":24.00667,
+    "geom:longitude":120.50944,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N12",
+    "gn:admin4_code":"10007070013.0",
+    "gn:asciiname":"Guanyinnan",
+    "gn:country_code":"TW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993833,
+    "gn:latitude":24.00667,
+    "gn:longitude":120.50944,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Guanyinnan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuan-yin-nan",
+        "\u89c0\u97f3\u6e73",
+        "Guanyinnan"
+    ],
+    "name:zho_x_preferred":[
+        "\u89c0\u97f3\u6e73"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993833
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7892ebf0332639a24f19827a3d1c5a9f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326630377,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1326630377,
+    "wof:lastmodified":1537709490,
+    "wof:name":"Guanyinnan",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.50943999999998,
+    24.00667,
+    120.50943999999998,
+    24.00667
+],
+  "geometry": {"coordinates":[120.50943999999998,24.00667],"type":"Point"}
+}

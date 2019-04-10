@@ -1,0 +1,78 @@
+{
+  "id": 1225944611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.81848,24.48201,120.81848,24.48201",
+    "geom:latitude":24.48201,
+    "geom:longitude":120.81848,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K04",
+    "gn:admin4_code":"10005090007.0",
+    "gn:asciiname":"Guanyebu",
+    "gn:country_code":"TW",
+    "gn:dem":132,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1673513,
+    "gn:latitude":24.48201,
+    "gn:longitude":120.81848,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Guanyebu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kuan-yeh-pu",
+        "Kuan-ti-pu",
+        "Guanyebu"
+    ],
+    "name:zho_x_preferred":[
+        "\u95dc\u723a\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1673513
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0c33673c1e0e9f734503f17da8eeff9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225944611,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1225944611,
+    "wof:lastmodified":1537708975,
+    "wof:name":"Guanyebu",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.81848,
+    24.48201,
+    120.81848,
+    24.48201
+],
+  "geometry": {"coordinates":[120.81847999999999,24.48201],"type":"Point"}
+}

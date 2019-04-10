@@ -1,0 +1,73 @@
+{
+  "id": 1209220537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.49083,23.27556,120.49083,23.27556",
+    "geom:latitude":23.27556,
+    "geom:longitude":120.49083,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R06",
+    "gn:admin4_code":"67000060014.0",
+    "gn:asciiname":"Erkengbu",
+    "gn:country_code":"TW",
+    "gn:dem":267,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676923,
+    "gn:latitude":23.27556,
+    "gn:longitude":120.49083,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Erkengbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "Erh-k\u2019eng-tzu-pu"
+    ],
+    "name:zho_x_variant":[
+        "\u4e8c\u5751\u57d4",
+        "Erk-k\u2019eng-pu",
+        "Erh-K\u2019ang",
+        "Erh-k\u2019eng-pu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676923
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"257eab8944848bc5e1766860cfe0a4cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209220537
+        }
+    ],
+    "wof:id":1209220537,
+    "wof:lastmodified":1537709249,
+    "wof:name":"Erkengbu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.49083,
+    23.27556,
+    120.49083,
+    23.27556
+],
+  "geometry": {"coordinates":[120.49083,23.27556],"type":"Point"}
+}

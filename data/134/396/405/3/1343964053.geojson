@@ -1,0 +1,79 @@
+{
+  "id": 1343964053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.53694,24.24639,120.53694,24.24639",
+    "geom:latitude":24.24639,
+    "geom:longitude":120.53694,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B14",
+    "gn:admin4_code":"66000140010.0",
+    "gn:asciiname":"Dazhuang",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668534,
+    "gn:latitude":24.24639,
+    "gn:longitude":120.53694,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dazhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-chuang-li",
+        "Dazhuang",
+        "Dajhuang",
+        "Ta-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u838a"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668534
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a8d940715f7e2ef708480acaf8bef1a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343964053,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1343964053,
+    "wof:lastmodified":1537708634,
+    "wof:name":"Dazhuang",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.53694,
+    24.24639,
+    120.53694,
+    24.24639
+],
+  "geometry": {"coordinates":[120.53694,24.24639],"type":"Point"}
+}

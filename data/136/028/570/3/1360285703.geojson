@@ -1,0 +1,74 @@
+{
+  "id": 1360285703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48333,22.65,120.48333,22.65",
+    "geom:latitude":22.65,
+    "geom:longitude":120.48333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T01",
+    "gn:admin4_code":"10013010031.0",
+    "gn:asciiname":"Hsin-sheng",
+    "gn:cc2":"TW",
+    "gn:country_code":"TW",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674857,
+    "gn:latitude":22.65,
+    "gn:longitude":120.48333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hsin-sheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsin-sheng-li"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674857
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ebba86411fcda966cc8ad4a9fa2d1f7b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360285703,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1360285703,
+    "wof:lastmodified":1537709076,
+    "wof:name":"Hsin-sheng",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48333,
+    22.65,
+    120.48333,
+    22.65
+],
+  "geometry": {"coordinates":[120.48333,22.65],"type":"Point"}
+}

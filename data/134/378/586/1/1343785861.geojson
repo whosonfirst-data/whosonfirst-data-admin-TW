@@ -1,0 +1,79 @@
+{
+  "id": 1343785861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.66972,24.48278,120.66972,24.48278",
+    "geom:latitude":24.48278,
+    "geom:longitude":120.66972,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K03",
+    "gn:admin4_code":"10005030006.0",
+    "gn:asciiname":"Nanshi",
+    "gn:country_code":"TW",
+    "gn:dem":4,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671618,
+    "gn:latitude":24.48278,
+    "gn:longitude":120.66972,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nanshi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hai-wei",
+        "Nanshih",
+        "Nanshi",
+        "Nan-shih"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u52e2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671618
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ddfb46f3976acda16903b6a05f6a8064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343785861,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1343785861,
+    "wof:lastmodified":1537708854,
+    "wof:name":"Nanshi",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.66972,
+    24.48278,
+    120.66972,
+    24.48278
+],
+  "geometry": {"coordinates":[120.66972,24.48278],"type":"Point"}
+}

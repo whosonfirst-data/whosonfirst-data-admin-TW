@@ -1,0 +1,81 @@
+{
+  "id": 1259385855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.80417,23.21861,120.80417,23.21861",
+    "geom:latitude":23.21861,
+    "geom:longitude":120.80417,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E37",
+    "gn:admin4_code":"64000370006.0",
+    "gn:asciiname":"Fuxingcun",
+    "gn:country_code":"TW",
+    "gn:dem":701,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676491,
+    "gn:latitude":23.21861,
+    "gn:longitude":120.80417,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fuxingcun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fu-hsing",
+        "Fusingcun",
+        "Fuxingcun"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fa9\u8208\u6751"
+    ],
+    "name:zho_x_variant":[
+        "Fu-hsing-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676491
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b2a11fa93f91cdcdf9d08f8b8b9b84ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259385855,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1259385855,
+    "wof:lastmodified":1537709217,
+    "wof:name":"Fuxingcun",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.80417,
+    23.21861,
+    120.80417,
+    23.21861
+],
+  "geometry": {"coordinates":[120.80417,23.21861],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1293201111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.52885,23.93158,120.52885,23.93158",
+    "geom:latitude":23.93158,
+    "geom:longitude":120.52885,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N18",
+    "gn:admin4_code":"10007160020.0",
+    "gn:asciiname":"Tong'anzhai",
+    "gn:country_code":"TW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666685,
+    "gn:latitude":23.93158,
+    "gn:longitude":120.52885,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tong\u2019anzhai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u540c\u5b89\u5b85"
+    ],
+    "name:zho_x_variant":[
+        "Tong\u2019anjhai",
+        "Tong\u2019anzhai",
+        "T\u2019ung-an-ts\u2019un",
+        "T\u2019ung-an-chai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666685
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3b920bd83115871386ba160174aef829",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293201111,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1293201111,
+    "wof:lastmodified":1537708514,
+    "wof:name":"Tong'anzhai",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.52885,
+    23.93158,
+    120.52885,
+    23.93158
+],
+  "geometry": {"coordinates":[120.52885000000001,23.93158],"type":"Point"}
+}

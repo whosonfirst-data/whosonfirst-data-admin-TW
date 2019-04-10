@@ -1,0 +1,80 @@
+{
+  "id": 1225944817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.98103,24.66526,120.98103,24.66526",
+    "geom:latitude":24.66526,
+    "geom:longitude":120.98103,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K13",
+    "gn:admin4_code":"10005160003.0",
+    "gn:asciiname":"Jiuliaoping",
+    "gn:country_code":"TW",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646104,
+    "gn:latitude":24.66526,
+    "gn:longitude":120.98103,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiuliaoping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jiouliaoping",
+        "Jiuliaoping"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e5d\u5bee\u576a"
+    ],
+    "name:zho_x_variant":[
+        "Chiu-liao-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646104
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"46b0a6f3f01f1878781e65b0be55d317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225944817,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1225944817,
+    "wof:lastmodified":1537709721,
+    "wof:name":"Jiuliaoping",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.98103,
+    24.66526,
+    120.98103,
+    24.66526
+],
+  "geometry": {"coordinates":[120.98103,24.66526],"type":"Point"}
+}

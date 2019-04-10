@@ -1,0 +1,81 @@
+{
+  "id": 1276881761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.41757,22.70049,120.41757,22.70049",
+    "geom:latitude":22.70049,
+    "geom:longitude":120.41757,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E15",
+    "gn:admin4_code":"64000150008.0",
+    "gn:asciiname":"Shanzhuku",
+    "gn:country_code":"TW",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7502097,
+    "gn:latitude":22.70049,
+    "gn:longitude":120.41757,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shanzhuku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5c71\u8c6c\u5800",
+        "Shanjhuku",
+        "Shanzhuku"
+    ],
+    "name:zho_x_preferred":[
+        "Shan-chu-k\u2019u"
+    ],
+    "name:zho_x_variant":[
+        "\u5c71\u8c6c\u5800"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7502097
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8edc2bb6451bb8e860b35d52bc646126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276881761,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1276881761,
+    "wof:lastmodified":1537709984,
+    "wof:name":"Shanzhuku",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.41757,
+    22.70049,
+    120.41757,
+    22.70049
+],
+  "geometry": {"coordinates":[120.41757,22.70049],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1293316491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.97089,23.97424,120.97089,23.97424",
+    "geom:latitude":23.97424,
+    "geom:longitude":120.97089,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M02",
+    "gn:admin4_code":"10008020032.0",
+    "gn:asciiname":"Meizijiao",
+    "gn:country_code":"TW",
+    "gn:dem":460,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672002,
+    "gn:latitude":23.97424,
+    "gn:longitude":120.97089,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Meizijiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Meizihjiao",
+        "Mei-tzu-chiao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u5b50\u89d2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672002
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d0f7da8ba5da1984c9b9adb28587763a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293316491,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1293316491,
+    "wof:lastmodified":1537708877,
+    "wof:name":"Meizijiao",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.97089,
+    23.97424,
+    120.97089,
+    23.97424
+],
+  "geometry": {"coordinates":[120.97089,23.97424],"type":"Point"}
+}

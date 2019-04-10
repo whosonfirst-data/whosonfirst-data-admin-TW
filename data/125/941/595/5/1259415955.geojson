@@ -1,0 +1,69 @@
+{
+  "id": 1259415955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.34991,23.06548,121.34991,23.06548",
+    "geom:latitude":23.06548,
+    "geom:longitude":121.34991,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Jiazhilai",
+    "gn:country_code":"TW",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678866,
+    "gn:latitude":23.06548,
+    "gn:longitude":121.34991,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Jiazhilai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chih-lai",
+        "Chia-chih-lai",
+        "Jiazhilai"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u53ea\u4f86"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678866
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"964ed03997e5e43b294bdb06be3704d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1259415955,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259415955,
+    "wof:lastmodified":1537709395,
+    "wof:name":"Jiazhilai",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.34991,
+    23.06548,
+    121.34991,
+    23.06548
+],
+  "geometry": {"coordinates":[121.34990999999999,23.06548],"type":"Point"}
+}

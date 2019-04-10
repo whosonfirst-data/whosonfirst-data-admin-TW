@@ -1,0 +1,76 @@
+{
+  "id": 1259594887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.64583,25.0663,121.64583,25.0663",
+    "geom:latitude":25.0663,
+    "geom:longitude":121.64583,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F28",
+    "gn:admin4_code":"65000110003.0",
+    "gn:asciiname":"Haotianling",
+    "gn:country_code":"TW",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6728993,
+    "gn:latitude":25.0663,
+    "gn:longitude":121.64583,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Haotianling",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u660a\u5929\u5dba"
+    ],
+    "name:zho_x_variant":[
+        "Hao-t\u2019ien-ling"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6728993
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ff3a483f6ff816974f65a3bd92156388",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259594887,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1259594887,
+    "wof:lastmodified":1537709913,
+    "wof:name":"Haotianling",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.64583,
+    25.0663,
+    121.64583,
+    25.0663
+],
+  "geometry": {"coordinates":[121.64583,25.0663],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1209515687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.08583,24.93833,121.08583,24.93833",
+    "geom:latitude":24.93833,
+    "geom:longitude":121.08583,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H04",
+    "gn:admin4_code":"68000040021.0",
+    "gn:asciiname":"Beixiayinyingwo",
+    "gn:country_code":"TW",
+    "gn:dem":96,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6574552,
+    "gn:latitude":24.93833,
+    "gn:longitude":121.08583,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Beixiayinyingwo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Beisiayinyingwo",
+        "Beixiayinyingwo",
+        "Pei-hsia-yin-ying-wo"
+    ],
+    "name:zho_x_preferred":[
+        "\u5317\u4e0b\u9670\u5f71\u7aa9"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6574552
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"43b8dfd2c9ff496842bf23c4e3e6cc74",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209515687
+        }
+    ],
+    "wof:id":1209515687,
+    "wof:lastmodified":1537709527,
+    "wof:name":"Beixiayinyingwo",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.08583,
+    24.93833,
+    121.08583,
+    24.93833
+],
+  "geometry": {"coordinates":[121.08583,24.93833],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1343573953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.73472,23.13861,120.73472,23.13861",
+    "geom:latitude":23.13861,
+    "geom:longitude":120.73472,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E37",
+    "gn:admin4_code":"64000370004.0",
+    "gn:asciiname":"Daduguan",
+    "gn:country_code":"TW",
+    "gn:dem":757,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6586606,
+    "gn:latitude":23.13861,
+    "gn:longitude":120.73472,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Daduguan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-tu-kuan"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u809a\u95dc"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6586606
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2497e2d8e90ea128e503922b526afc32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343573953,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1343573953,
+    "wof:lastmodified":1537709566,
+    "wof:name":"Daduguan",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.73472,
+    23.13861,
+    120.73472,
+    23.13861
+],
+  "geometry": {"coordinates":[120.73472,23.13861],"type":"Point"}
+}

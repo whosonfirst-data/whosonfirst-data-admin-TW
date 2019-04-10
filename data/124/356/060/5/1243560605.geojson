@@ -1,0 +1,84 @@
+{
+  "id": 1243560605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.37917,23.38528,120.37917,23.38528",
+    "geom:latitude":23.38528,
+    "geom:longitude":120.37917,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R05",
+    "gn:admin4_code":"67000050006.0",
+    "gn:asciiname":"Shangqiedong",
+    "gn:country_code":"TW",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669842,
+    "gn:latitude":23.38528,
+    "gn:longitude":120.37917,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangqiedong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chia-min",
+        "Shangqiedong",
+        "Shang-chia-tung",
+        "Shangciedong"
+    ],
+    "name:zho_x_preferred":[
+        "Chia-min-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0a\u8304\u82f3",
+        "Shang-ch\u2019ien-tung",
+        "Shang-ch\u2019ieh-tung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669842
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fe28bddfc9e50930c2cbafd1f7b9fb43",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243560605,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1243560605,
+    "wof:lastmodified":1537708740,
+    "wof:name":"Shangqiedong",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.37917,
+    23.38528,
+    120.37917,
+    23.38528
+],
+  "geometry": {"coordinates":[120.37917,23.38528],"type":"Point"}
+}

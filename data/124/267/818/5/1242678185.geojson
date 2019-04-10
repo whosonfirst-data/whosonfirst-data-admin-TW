@@ -1,0 +1,76 @@
+{
+  "id": 1242678185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.11715,22.74496,121.11715,22.74496",
+    "geom:latitude":22.74496,
+    "geom:longitude":121.11715,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V01",
+    "gn:admin4_code":"10014010034.0",
+    "gn:asciiname":"Yongle",
+    "gn:country_code":"TW",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658310,
+    "gn:latitude":22.74496,
+    "gn:longitude":121.11715,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yongle",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yung-le"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c38\u6a02"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658310
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cea6aa966463ee82918eda14efba711a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242678185,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1242678185,
+    "wof:lastmodified":1537709900,
+    "wof:name":"Yongle",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.11715,
+    22.74496,
+    121.11715,
+    22.74496
+],
+  "geometry": {"coordinates":[121.11715,22.74496],"type":"Point"}
+}

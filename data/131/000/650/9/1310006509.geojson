@@ -1,0 +1,81 @@
+{
+  "id": 1310006509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.64355,24.02623,120.64355,24.02623",
+    "geom:latitude":24.02623,
+    "geom:longitude":120.64355,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B23",
+    "gn:admin4_code":"66000230016.0",
+    "gn:asciiname":"Nongchang",
+    "gn:country_code":"TW",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6748203,
+    "gn:latitude":24.02623,
+    "gn:longitude":120.64355,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nongchang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u8fb2\u5834",
+        "Nongchang",
+        "Nung-ch\u2019ang"
+    ],
+    "name:zho_x_preferred":[
+        "\u8fb2\u5834"
+    ],
+    "name:zho_x_variant":[
+        "Nung-ch\u2019ang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6748203
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e0bdf9c9b3566684e6a542078ef34f6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310006509,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1310006509,
+    "wof:lastmodified":1537709934,
+    "wof:name":"Nongchang",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.64355,
+    24.02623,
+    120.64355,
+    24.02623
+],
+  "geometry": {"coordinates":[120.64355,24.02623],"type":"Point"}
+}

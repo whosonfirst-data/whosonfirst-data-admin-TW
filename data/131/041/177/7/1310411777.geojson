@@ -1,0 +1,76 @@
+{
+  "id": 1310411777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.52825,25.1556,121.52825,25.1556",
+    "geom:latitude":25.1556,
+    "geom:longitude":121.52825,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A16",
+    "gn:admin4_code":"63000120039.0",
+    "gn:asciiname":"Dinghu",
+    "gn:country_code":"TW",
+    "gn:dem":391,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667229,
+    "gn:latitude":25.1556,
+    "gn:longitude":121.52825,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dinghu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ting-hu"
+    ],
+    "name:zho_x_preferred":[
+        "\u9802\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667229
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cb546664b63f2d801abc887eb2d19d01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310411777,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1310411777,
+    "wof:lastmodified":1537708551,
+    "wof:name":"Dinghu",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.52825,
+    25.1556,
+    121.52825,
+    25.1556
+],
+  "geometry": {"coordinates":[121.52825,25.1556],"type":"Point"}
+}

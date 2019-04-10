@@ -1,0 +1,74 @@
+{
+  "id": 1209521463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.50528,23.58056,119.50528,23.58056",
+    "geom:latitude":23.58056,
+    "geom:longitude":119.50528,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PEN",
+    "gn:admin3_code":"X04",
+    "gn:admin4_code":"10016040009.0",
+    "gn:asciiname":"Fengkeng",
+    "gn:country_code":"TW",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602691,
+    "gn:latitude":23.58056,
+    "gn:longitude":119.50528,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fengkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fongkeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u98a8\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Hou-feng-k\u2019eng",
+        "Feng-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602691
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7f0cf2ca88353aebd8a5ecdff68fb063",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209521463
+        }
+    ],
+    "wof:id":1209521463,
+    "wof:lastmodified":1537709666,
+    "wof:name":"Fengkeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.50528,
+    23.58056,
+    119.50528,
+    23.58056
+],
+  "geometry": {"coordinates":[119.50528,23.58056],"type":"Point"}
+}

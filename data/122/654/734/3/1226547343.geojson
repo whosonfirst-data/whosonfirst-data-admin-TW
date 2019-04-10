@@ -1,0 +1,80 @@
+{
+  "id": 1226547343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.54679,24.89562,121.54679,24.89562",
+    "geom:latitude":24.89562,
+    "geom:longitude":121.54679,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F07",
+    "gn:admin4_code":"65000060027.0",
+    "gn:asciiname":"Liziyuan",
+    "gn:country_code":"TW",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665962,
+    "gn:latitude":24.89562,
+    "gn:longitude":121.54679,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liziyuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lizihyuan"
+    ],
+    "name:zho_x_preferred":[
+        "\u6817\u5b50\u5712"
+    ],
+    "name:zho_x_variant":[
+        "Wen-y\u00fcan",
+        "Li-tzu-y\u00fcan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665962
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7c3cdaeb32fb50360d806be5428bc964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226547343,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1226547343,
+    "wof:lastmodified":1537708469,
+    "wof:name":"Liziyuan",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.54679,
+    24.89562,
+    121.54679,
+    24.89562
+],
+  "geometry": {"coordinates":[121.54679,24.89562],"type":"Point"}
+}

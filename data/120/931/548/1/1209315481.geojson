@@ -1,0 +1,72 @@
+{
+  "id": 1209315481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.15528,24.06,121.15528,24.06",
+    "geom:latitude":24.06,
+    "geom:longitude":121.15528,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M13",
+    "gn:admin4_code":"10008130009.0",
+    "gn:asciiname":"Meimu",
+    "gn:country_code":"TW",
+    "gn:dem":1600,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672011,
+    "gn:latitude":24.06,
+    "gn:longitude":121.15528,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Meimu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Mei-shui",
+        "Meimu",
+        "Mei-mu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6885\u6728"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672011
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"25f5410ccb17ce74231d02ad5bf2eef1",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209315481
+        }
+    ],
+    "wof:id":1209315481,
+    "wof:lastmodified":1537708878,
+    "wof:name":"Meimu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.15528,
+    24.06,
+    121.15528,
+    24.06
+],
+  "geometry": {"coordinates":[121.15528,24.06],"type":"Point"}
+}

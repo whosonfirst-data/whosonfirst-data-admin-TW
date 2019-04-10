@@ -1,0 +1,76 @@
+{
+  "id": 1343964115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36036,22.33453,120.36036,22.33453",
+    "geom:latitude":22.33453,
+    "geom:longitude":120.36036,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T22",
+    "gn:admin4_code":"10013220006.0",
+    "gn:asciiname":"Banha",
+    "gn:country_code":"TW",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647772,
+    "gn:latitude":22.33453,
+    "gn:longitude":120.36036,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Banha",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pan-ha"
+    ],
+    "name:zho_x_preferred":[
+        "\u677f\u86e4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647772
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b5e61fd75c5e1e491ab1b82bb8c15230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343964115,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1343964115,
+    "wof:lastmodified":1537709764,
+    "wof:name":"Banha",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36036,
+    22.33453,
+    120.36036,
+    22.33453
+],
+  "geometry": {"coordinates":[120.36036,22.33453],"type":"Point"}
+}

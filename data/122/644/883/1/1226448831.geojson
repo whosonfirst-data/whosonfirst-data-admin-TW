@@ -1,0 +1,81 @@
+{
+  "id": 1226448831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.33042,23.91194,120.33042,23.91194",
+    "geom:latitude":23.91194,
+    "geom:longitude":120.33042,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N23",
+    "gn:admin4_code":"10007230013.0",
+    "gn:asciiname":"Dingpou",
+    "gn:country_code":"TW",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667145,
+    "gn:latitude":23.91194,
+    "gn:longitude":120.33042,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingpou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ting-pu-tzu",
+        "Ting-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u9802\u5ecd"
+    ],
+    "name:zho_x_variant":[
+        "Ting-p\u2019ou-tzu",
+        "Ting-p\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667145
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a89ce9c311b17a35570fcccd3f59bdd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226448831,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1226448831,
+    "wof:lastmodified":1537708545,
+    "wof:name":"Dingpou",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.33042,
+    23.91194,
+    120.33042,
+    23.91194
+],
+  "geometry": {"coordinates":[120.33042,23.91194],"type":"Point"}
+}

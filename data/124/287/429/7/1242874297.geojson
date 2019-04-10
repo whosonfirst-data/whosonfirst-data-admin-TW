@@ -1,0 +1,80 @@
+{
+  "id": 1242874297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.7718,23.9115,120.7718,23.9115",
+    "geom:latitude":23.9115,
+    "geom:longitude":120.7718,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M08",
+    "gn:admin4_code":"10008080009.0",
+    "gn:asciiname":"Shibaguliao",
+    "gn:country_code":"TW",
+    "gn:dem":192,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678811,
+    "gn:latitude":23.9115,
+    "gn:longitude":120.7718,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shibaguliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shih-pa-chia-liao",
+        "Shibaguliao",
+        "Chia-liao",
+        "Shihbaguliao",
+        "Shih-pa-ku-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u5341\u516b\u80a1\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678811
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8ad5987e3b89a349e6a1bb67ce4388fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242874297,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1242874297,
+    "wof:lastmodified":1537709391,
+    "wof:name":"Shibaguliao",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.7718,
+    23.9115,
+    120.7718,
+    23.9115
+],
+  "geometry": {"coordinates":[120.7718,23.9115],"type":"Point"}
+}

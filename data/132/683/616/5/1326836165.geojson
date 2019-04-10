@@ -1,0 +1,76 @@
+{
+  "id": 1326836165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48354,23.10109,120.48354,23.10109",
+    "geom:latitude":23.10109,
+    "geom:longitude":120.48354,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R23",
+    "gn:admin4_code":"67000230006.0",
+    "gn:asciiname":"Erbu",
+    "gn:country_code":"TW",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676895,
+    "gn:latitude":23.10109,
+    "gn:longitude":120.48354,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Erbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Erh-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e8c\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676895
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"15e7e4f832cd66545cd70d0dd05acc11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326836165,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1326836165,
+    "wof:lastmodified":1537709247,
+    "wof:name":"Erbu",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48354,
+    23.10109,
+    120.48354,
+    23.10109
+],
+  "geometry": {"coordinates":[120.48354,23.10109],"type":"Point"}
+}

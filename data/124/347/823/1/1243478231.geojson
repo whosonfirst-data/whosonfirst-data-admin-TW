@@ -1,0 +1,82 @@
+{
+  "id": 1243478231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.37696,23.87106,120.37696,23.87106",
+    "geom:latitude":23.87106,
+    "geom:longitude":120.37696,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N08",
+    "gn:admin4_code":"10007200007.0",
+    "gn:asciiname":"Xiangtian",
+    "gn:country_code":"TW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675688,
+    "gn:latitude":23.87106,
+    "gn:longitude":120.37696,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiangtian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chu-wei-tzu",
+        "Xiangtian",
+        "Siangtian"
+    ],
+    "name:zho_x_preferred":[
+        "Hsiang-t\u2019ien-li"
+    ],
+    "name:zho_x_variant":[
+        "\u9999\u7530",
+        "Hsiang-t\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679593,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675688
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0059fc2b352a8e364355db2053132a4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243478231,
+            "macroregion_id":1108808557,
+            "region_id":85679593
+        }
+    ],
+    "wof:id":1243478231,
+    "wof:lastmodified":1537709153,
+    "wof:name":"Xiangtian",
+    "wof:parent_id":85679593,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.37696,
+    23.87106,
+    120.37696,
+    23.87106
+],
+  "geometry": {"coordinates":[120.37696,23.87106],"type":"Point"}
+}

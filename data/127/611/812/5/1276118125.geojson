@@ -1,0 +1,79 @@
+{
+  "id": 1276118125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.41944,23.25806,120.41944,23.25806",
+    "geom:latitude":23.25806,
+    "geom:longitude":120.41944,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R06",
+    "gn:admin4_code":"67000060009.0",
+    "gn:asciiname":"Neidishui",
+    "gn:country_code":"TW",
+    "gn:dem":149,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667085,
+    "gn:latitude":23.25806,
+    "gn:longitude":120.41944,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Neidishui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Neidishuei",
+        "Ti-shui-tzu",
+        "Neidishui",
+        "Nei-ti-shui"
+    ],
+    "name:zho_x_preferred":[
+        "\u5185\u6ef4\u6c34"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667085
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"213ec41b776bba0a44c253bc07b9b5ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276118125,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1276118125,
+    "wof:lastmodified":1537708540,
+    "wof:name":"Neidishui",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.41944,
+    23.25806,
+    120.41944,
+    23.25806
+],
+  "geometry": {"coordinates":[120.41943999999999,23.25806],"type":"Point"}
+}

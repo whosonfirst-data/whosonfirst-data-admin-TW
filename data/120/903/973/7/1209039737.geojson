@@ -1,0 +1,69 @@
+{
+  "id": 1209039737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.56667,25.0,121.56667,25.0",
+    "geom:latitude":25.0,
+    "geom:longitude":121.56667,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A11",
+    "gn:admin4_code":"63000080039.0",
+    "gn:asciiname":"Bojiacun",
+    "gn:country_code":"TW",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670394,
+    "gn:latitude":25.0,
+    "gn:longitude":121.56667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bojiacun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Po-chia",
+        "Po-chia-ts\u2019un",
+        "Bojiacun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670394
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9619929ea9ab21c62cd5447e816ded0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209039737
+        }
+    ],
+    "wof:id":1209039737,
+    "wof:lastmodified":1537708779,
+    "wof:name":"Bojiacun",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.56667,
+    25.0,
+    121.56667,
+    25.0
+],
+  "geometry": {"coordinates":[121.56667,25.0],"type":"Point"}
+}

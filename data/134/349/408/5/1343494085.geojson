@@ -1,0 +1,76 @@
+{
+  "id": 1343494085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.39506,24.78658,121.39506,24.78658",
+    "geom:latitude":24.78658,
+    "geom:longitude":121.39506,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H13",
+    "gn:admin4_code":"68000130003.0",
+    "gn:asciiname":"Shangyunei",
+    "gn:country_code":"TW",
+    "gn:dem":653,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653556,
+    "gn:latitude":24.78658,
+    "gn:longitude":121.39506,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangyunei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4e0a\u5b87\u5167"
+    ],
+    "name:zho_x_variant":[
+        "Shang-y\u00fc-nei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653556
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1ee97ee2299f0011e3673030ecae3e4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343494085,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1343494085,
+    "wof:lastmodified":1537709838,
+    "wof:name":"Shangyunei",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.39506000000002,
+    24.78658,
+    121.39506000000002,
+    24.78658
+],
+  "geometry": {"coordinates":[121.39506000000002,24.78658],"type":"Point"}
+}

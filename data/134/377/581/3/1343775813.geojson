@@ -1,0 +1,76 @@
+{
+  "id": 1343775813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.45308,24.46053,118.45308,24.46053",
+    "geom:latitude":24.46053,
+    "geom:longitude":118.45308,
+    "gn:admin1_code":"01",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W02",
+    "gn:admin4_code":"9020020003.0",
+    "gn:asciiname":"Neiyang",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671376,
+    "gn:latitude":24.46053,
+    "gn:longitude":118.45308,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Neiyang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nei-yang"
+    ],
+    "name:zho_x_preferred":[
+        "\u5167\u6d0b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671376
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b14bff9b0ba421673d1af4ddc6ea6925",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343775813,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1343775813,
+    "wof:lastmodified":1537708838,
+    "wof:name":"Neiyang",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.45308,
+    24.46053,
+    118.45308,
+    24.46053
+],
+  "geometry": {"coordinates":[118.45308,24.46053],"type":"Point"}
+}

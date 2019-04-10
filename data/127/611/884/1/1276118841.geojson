@@ -1,0 +1,76 @@
+{
+  "id": 1276118841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.82194,24.87417,121.82194,24.87417",
+    "geom:latitude":24.87417,
+    "geom:longitude":121.82194,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G02",
+    "gn:admin4_code":"10002040016.0",
+    "gn:asciiname":"Beimenkeng",
+    "gn:country_code":"TW",
+    "gn:dem":181,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6594380,
+    "gn:latitude":24.87417,
+    "gn:longitude":121.82194,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Beimenkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5317\u9580\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Pei-men-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6594380
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"58cde44b8126230903e1f6b6aea2b1f9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276118841,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1276118841,
+    "wof:lastmodified":1537709604,
+    "wof:name":"Beimenkeng",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.82193999999998,
+    24.87417,
+    121.82193999999998,
+    24.87417
+],
+  "geometry": {"coordinates":[121.82193999999998,24.87417],"type":"Point"}
+}

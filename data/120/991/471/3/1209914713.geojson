@@ -1,0 +1,80 @@
+{
+  "id": 1209914713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48064,23.5753,120.48064,23.5753",
+    "geom:latitude":23.5753,
+    "geom:longitude":120.48064,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q04",
+    "gn:admin4_code":"10010040014.0",
+    "gn:asciiname":"Mayuanliao",
+    "gn:country_code":"TW",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672215,
+    "gn:latitude":23.5753,
+    "gn:longitude":120.48064,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Mayuanliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ma-liao",
+        "Mayuanliao"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ebb\u5712\u5bee"
+    ],
+    "name:zho_x_variant":[
+        "Ma-y\u00fcan-liao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672215
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a0ca06da9b08fa6eb2e2e2faed710794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209914713,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1209914713,
+    "wof:lastmodified":1537708890,
+    "wof:name":"Mayuanliao",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48064,
+    23.5753,
+    120.48064,
+    23.5753
+],
+  "geometry": {"coordinates":[120.48063999999999,23.5753],"type":"Point"}
+}

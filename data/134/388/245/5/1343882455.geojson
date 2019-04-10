@@ -1,0 +1,81 @@
+{
+  "id": 1343882455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.64806,24.33139,120.64806,24.33139",
+    "geom:latitude":24.33139,
+    "geom:longitude":120.64806,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B21",
+    "gn:admin4_code":"66000210004.0",
+    "gn:asciiname":"Ciyao",
+    "gn:country_code":"TW",
+    "gn:dem":143,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666312,
+    "gn:latitude":24.33139,
+    "gn:longitude":120.64806,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Ciyao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pi-yao",
+        "Ciyao",
+        "Cihyao"
+    ],
+    "name:zho_x_preferred":[
+        "\u78c1\u78d8"
+    ],
+    "name:zho_x_variant":[
+        "Tz\u2019u-yao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666312
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6688a37b8d9b9186b87d68bb1e7218fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343882455,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1343882455,
+    "wof:lastmodified":1537708493,
+    "wof:name":"Ciyao",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.64806000000002,
+    24.33139,
+    120.64806000000002,
+    24.33139
+],
+  "geometry": {"coordinates":[120.64806000000002,24.33139],"type":"Point"}
+}

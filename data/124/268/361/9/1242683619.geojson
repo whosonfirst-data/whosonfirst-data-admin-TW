@@ -1,0 +1,79 @@
+{
+  "id": 1242683619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.55829,25.14634,121.55829,25.14634",
+    "geom:latitude":25.14634,
+    "geom:longitude":121.55829,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A15",
+    "gn:admin4_code":"63000110047.0",
+    "gn:asciiname":"Shanzhuhu",
+    "gn:country_code":"TW",
+    "gn:dem":544,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677594,
+    "gn:latitude":25.14634,
+    "gn:longitude":121.55829,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shanzhuhu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shanjhuhu",
+        "Shanzhuhu",
+        "Chu-hu",
+        "Shan-chu-hu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c71\u8c6c\u6e56"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677594
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"09b850103429bde7c8e52d3f52d2e666",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242683619,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1242683619,
+    "wof:lastmodified":1537709307,
+    "wof:name":"Shanzhuhu",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.55829,
+    25.14634,
+    121.55829,
+    25.14634
+],
+  "geometry": {"coordinates":[121.55829,25.14634],"type":"Point"}
+}

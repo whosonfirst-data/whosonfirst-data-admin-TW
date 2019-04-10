@@ -1,0 +1,73 @@
+{
+  "id": 1209621423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.91749,24.69554,120.91749,24.69554",
+    "geom:latitude":24.69554,
+    "geom:longitude":120.91749,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K10",
+    "gn:admin4_code":"10005050028.0",
+    "gn:asciiname":"Sanbanqiao",
+    "gn:country_code":"TW",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646061,
+    "gn:latitude":24.69554,
+    "gn:longitude":120.91749,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sanbanqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sanbanciao"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e09\u677f\u6a4b"
+    ],
+    "name:zho_x_variant":[
+        "San-pan-ch\u2019iao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646061
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"badbe35e0bccade508e1ec92d30699ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209621423
+        }
+    ],
+    "wof:id":1209621423,
+    "wof:lastmodified":1537709718,
+    "wof:name":"Sanbanqiao",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.91749,
+    24.69554,
+    120.91749,
+    24.69554
+],
+  "geometry": {"coordinates":[120.91749,24.69554],"type":"Point"}
+}

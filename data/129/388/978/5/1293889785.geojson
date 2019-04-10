@@ -1,0 +1,79 @@
+{
+  "id": 1293889785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.86346,24.15555,120.86346,24.15555",
+    "geom:latitude":24.15555,
+    "geom:longitude":120.86346,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B19",
+    "gn:admin4_code":"66000190013.0",
+    "gn:asciiname":"Mazhukeng",
+    "gn:country_code":"TW",
+    "gn:dem":527,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672262,
+    "gn:latitude":24.15555,
+    "gn:longitude":120.86346,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Mazhukeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Majhukeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ebb\u7af9\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Ma-chu-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672262
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e32ed04ce30cea060924dc4985823995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293889785,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1293889785,
+    "wof:lastmodified":1537708892,
+    "wof:name":"Mazhukeng",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.86346,
+    24.15555,
+    120.86346,
+    24.15555
+],
+  "geometry": {"coordinates":[120.86346,24.15555],"type":"Point"}
+}

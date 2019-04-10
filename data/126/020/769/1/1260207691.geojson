@@ -1,0 +1,80 @@
+{
+  "id": 1260207691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.53361,22.48694,120.53361,22.48694",
+    "geom:latitude":22.48694,
+    "geom:longitude":120.53361,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T20",
+    "gn:admin4_code":"10013200008.0",
+    "gn:asciiname":"Shouyuan",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669111,
+    "gn:latitude":22.48694,
+    "gn:longitude":120.53361,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shouyuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsiang-tzu-nei",
+        "Shou-y\u00fcan-ts\u2019un",
+        "\u58fd\u5143",
+        "Shouyuan",
+        "Shou-y\u00fcan"
+    ],
+    "name:zho_x_preferred":[
+        "Shou-y\u00fcan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669111
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f5d879c4bf666d7082f4c8b3c78da72a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260207691,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1260207691,
+    "wof:lastmodified":1537708680,
+    "wof:name":"Shouyuan",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.53361,
+    22.48694,
+    120.53361,
+    22.48694
+],
+  "geometry": {"coordinates":[120.53361,22.48694],"type":"Point"}
+}

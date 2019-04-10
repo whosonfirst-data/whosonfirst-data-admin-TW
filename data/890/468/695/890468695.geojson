@@ -1,0 +1,70 @@
+{
+  "id": 890468695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.51667,23.83333,121.51667,23.83333",
+    "geom:latitude":23.83333,
+    "geom:longitude":121.51667,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Shou-feng Hsiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u58fd\u8c50\u9109"
+    ],
+    "qs:name":"Shoufong Township",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669121,
+        "qs:id":1027050
+    },
+    "wof:country":"TW",
+    "wof:created":1469053721,
+    "wof:geomhash":"a3600d9074b158ad50c08934a1ed7b9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890468695,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":890468695,
+    "wof:lastmodified":1505343712,
+    "wof:name":"Shoufong Township",
+    "wof:parent_id":85679607,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.51667,
+    23.83333,
+    121.51667,
+    23.83333
+],
+  "geometry": {"coordinates":[121.51667,23.83333],"type":"Point"}
+}

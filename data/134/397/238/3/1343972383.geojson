@@ -1,0 +1,90 @@
+{
+  "id": 1343972383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.31712,24.43415,118.31712,24.43415",
+    "geom:latitude":24.43415,
+    "geom:longitude":118.31712,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W03",
+    "gn:asciiname":"Jincheng",
+    "gn:country_code":"TW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLA",
+    "gn:geonameid":1678008,
+    "gn:latitude":24.43415,
+    "gn:longitude":118.31712,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Jincheng",
+    "gn:population":37507,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Jincheng"
+    ],
+    "name:und_x_variant":[
+        "Chin-men",
+        "Chin-men-hsien-ch\u2019eng",
+        "Chin-men-hsien",
+        "Hou-p\u2019u",
+        "Chin-ch\u2019eng",
+        "Jincheng",
+        "Quemoyhsien",
+        "Quemoy",
+        "Kinmen"
+    ],
+    "name:zho_x_preferred":[
+        "\u91d1\u57ce"
+    ],
+    "src:geom":"geonames",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678008,
+        "wk:page":"Jincheng%2C_Kinmen"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f97b2a74ad19c243943bf7bc1a4112e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343972383,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1343972383,
+    "wof:lastmodified":1537709339,
+    "wof:name":"Jincheng",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:population":37507,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.31712,
+    24.43415,
+    118.31712,
+    24.43415
+],
+  "geometry": {"coordinates":[118.31712,24.43415],"type":"Point"}
+}

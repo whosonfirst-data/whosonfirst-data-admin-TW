@@ -1,0 +1,81 @@
+{
+  "id": 1260207739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.66694,24.39472,120.66694,24.39472",
+    "geom:latitude":24.39472,
+    "geom:longitude":120.66694,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B11",
+    "gn:admin4_code":"66000110023.0",
+    "gn:asciiname":"Houbixi",
+    "gn:country_code":"TW",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675992,
+    "gn:latitude":24.39472,
+    "gn:longitude":120.66694,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Houbixi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Houbisi",
+        "Houbixi",
+        "Hou-pi-hsi"
+    ],
+    "name:zho_x_preferred":[
+        "Hou-pi-ch\u2019i"
+    ],
+    "name:zho_x_variant":[
+        "\u5f8c\u58c1\u6eaa"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675992
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a4f671275ca36a442306b9c7d2117a6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1260207739,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1260207739,
+    "wof:lastmodified":1537709181,
+    "wof:name":"Houbixi",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.66694,
+    24.39472,
+    120.66694,
+    24.39472
+],
+  "geometry": {"coordinates":[120.66694,24.39472],"type":"Point"}
+}

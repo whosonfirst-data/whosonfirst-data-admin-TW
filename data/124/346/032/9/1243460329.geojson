@@ -1,0 +1,78 @@
+{
+  "id": 1243460329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.17722,22.99972,121.17722,22.99972",
+    "geom:latitude":22.99972,
+    "geom:longitude":121.17722,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V03",
+    "gn:admin4_code":"10014030006.0",
+    "gn:asciiname":"Guangxing",
+    "gn:country_code":"TW",
+    "gn:dem":239,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602473,
+    "gn:latitude":22.99972,
+    "gn:longitude":121.17722,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Guangxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Guangsing",
+        "Guangxing",
+        "Kuang-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ee3\u8208"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602473
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d974f082d42979897dd6d22ab5ed04b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243460329,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1243460329,
+    "wof:lastmodified":1537709660,
+    "wof:name":"Guangxing",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.17722,
+    22.99972,
+    121.17722,
+    22.99972
+],
+  "geometry": {"coordinates":[121.17722000000001,22.99972],"type":"Point"}
+}

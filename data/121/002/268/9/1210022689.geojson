@@ -1,0 +1,80 @@
+{
+  "id": 1210022689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.53278,23.59333,120.53278,23.59333",
+    "geom:latitude":23.59333,
+    "geom:longitude":120.53278,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q04",
+    "gn:admin4_code":"10010040012.0",
+    "gn:asciiname":"Qiding",
+    "gn:country_code":"TW",
+    "gn:dem":116,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675159,
+    "gn:latitude":23.59333,
+    "gn:longitude":120.53278,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qiding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciding"
+    ],
+    "name:zho_x_preferred":[
+        "\u5d0e\u9802"
+    ],
+    "name:zho_x_variant":[
+        "Hsin-ch\u2019i-ting",
+        "Ch\u2019i-ting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675159
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c58b29849a3bd4ccf710d147c99ade30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1210022689,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1210022689,
+    "wof:lastmodified":1537709105,
+    "wof:name":"Qiding",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.53278,
+    23.59333,
+    120.53278,
+    23.59333
+],
+  "geometry": {"coordinates":[120.53278,23.59333],"type":"Point"}
+}

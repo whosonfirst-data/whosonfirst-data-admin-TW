@@ -1,0 +1,76 @@
+{
+  "id": 1276986889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.83383,24.24569,120.83383,24.24569",
+    "geom:latitude":24.24569,
+    "geom:longitude":120.83383,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B10",
+    "gn:admin4_code":"66000100012.0",
+    "gn:asciiname":"Yuandun",
+    "gn:country_code":"TW",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1991839,
+    "gn:latitude":24.24569,
+    "gn:longitude":120.83383,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yuandun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5713\u58a9"
+    ],
+    "name:zho_x_variant":[
+        "Y\u00fcan-tun"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1991839
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1245d36bdbe5015f7d6f998d12603db3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276986889,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1276986889,
+    "wof:lastmodified":1537709452,
+    "wof:name":"Yuandun",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.83383,
+    24.24569,
+    120.83383,
+    24.24569
+],
+  "geometry": {"coordinates":[120.83383000000001,24.24569],"type":"Point"}
+}

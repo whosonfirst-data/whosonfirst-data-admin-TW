@@ -1,0 +1,73 @@
+{
+  "id": 1259492385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.43333,22.55,120.43333,22.55",
+    "geom:latitude":22.55,
+    "geom:longitude":120.43333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E14",
+    "gn:admin4_code":"64000140015.0",
+    "gn:asciiname":"Liyu Shan",
+    "gn:country_code":"TW",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672646,
+    "gn:latitude":22.55,
+    "gn:longitude":120.43333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liyu Shan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Li-y\u00fc Shan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672646
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"70a198d0f074c353fa98879295574714",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259492385,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1259492385,
+    "wof:lastmodified":1537708918,
+    "wof:name":"Liyu Shan",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.43333,
+    22.55,
+    120.43333,
+    22.55
+],
+  "geometry": {"coordinates":[120.43333,22.55],"type":"Point"}
+}

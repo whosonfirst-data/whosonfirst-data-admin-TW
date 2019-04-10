@@ -1,0 +1,80 @@
+{
+  "id": 1277074909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.77806,24.39861,121.77806,24.39861",
+    "geom:latitude":24.39861,
+    "geom:longitude":121.77806,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G12",
+    "gn:admin4_code":"10002120005.0",
+    "gn:asciiname":"Changshuiyin",
+    "gn:country_code":"TW",
+    "gn:dem":499,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6367880,
+    "gn:latitude":24.39861,
+    "gn:longitude":121.77806,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Changshuiyin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Changshueiyin",
+        "Changshuiyin"
+    ],
+    "name:zho_x_preferred":[
+        "\u9577\u6c34\u5f15"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ang-shui-yin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6367880
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e2dc1b6d8d210a72df4ca27f2ee8eaea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1277074909,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1277074909,
+    "wof:lastmodified":1537709506,
+    "wof:name":"Changshuiyin",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.77806,
+    24.39861,
+    121.77806,
+    24.39861
+],
+  "geometry": {"coordinates":[121.77806,24.39861],"type":"Point"}
+}

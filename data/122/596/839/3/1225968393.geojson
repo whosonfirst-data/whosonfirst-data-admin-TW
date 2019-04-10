@@ -1,0 +1,78 @@
+{
+  "id": 1225968393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.61333,23.62917,120.61333,23.62917",
+    "geom:latitude":23.62917,
+    "geom:longitude":120.61333,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P07",
+    "gn:admin4_code":"10009070004.0",
+    "gn:asciiname":"Banliaobu",
+    "gn:country_code":"TW",
+    "gn:dem":319,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671025,
+    "gn:latitude":23.62917,
+    "gn:longitude":120.61333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Banliaobu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fang-liao-pu",
+        "Banliaobu",
+        "Pan-liao-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u677f\u5bee\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671025
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c65ff1da5f95fbd8a97338f651a78e36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225968393,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1225968393,
+    "wof:lastmodified":1537708816,
+    "wof:name":"Banliaobu",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.61333,
+    23.62917,
+    120.61333,
+    23.62917
+],
+  "geometry": {"coordinates":[120.61333,23.62917],"type":"Point"}
+}

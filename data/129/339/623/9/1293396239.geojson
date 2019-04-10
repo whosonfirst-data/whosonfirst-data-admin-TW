@@ -1,0 +1,76 @@
+{
+  "id": 1293396239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.145,24.66167,121.145,24.66167",
+    "geom:latitude":24.66167,
+    "geom:longitude":121.145,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J15",
+    "gn:admin4_code":"10004130002.0",
+    "gn:asciiname":"Shangbilai",
+    "gn:country_code":"TW",
+    "gn:dem":741,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6640642,
+    "gn:latitude":24.66167,
+    "gn:longitude":121.145,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shangbilai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shang-pi-lai"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e0a\u6bd4\u4f86"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6640642
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"be544ea2d09dcf272c036d9455fc343f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293396239,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1293396239,
+    "wof:lastmodified":1537709679,
+    "wof:name":"Shangbilai",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.145,
+    24.66167,
+    121.145,
+    24.66167
+],
+  "geometry": {"coordinates":[121.145,24.66167],"type":"Point"}
+}

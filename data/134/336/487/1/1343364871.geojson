@@ -1,0 +1,82 @@
+{
+  "id": 1343364871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.57667,24.17173,120.57667,24.17173",
+    "geom:latitude":24.17173,
+    "geom:longitude":120.57667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B24",
+    "gn:admin4_code":"66000240016.0",
+    "gn:asciiname":"Zhepou",
+    "gn:country_code":"TW",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678876,
+    "gn:latitude":24.17173,
+    "gn:longitude":120.57667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhepou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhepou",
+        "Zhepou",
+        "Che-pu",
+        "Che-p\u2019ou"
+    ],
+    "name:zho_x_preferred":[
+        "\u8517\u5ecd"
+    ],
+    "name:zho_x_variant":[
+        "Che-p\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678876
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cbfd3ce6feb36b189c3eb71f2e705679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343364871,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1343364871,
+    "wof:lastmodified":1537709396,
+    "wof:name":"Zhepou",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.57667,
+    24.17173,
+    120.57667,
+    24.17173
+],
+  "geometry": {"coordinates":[120.57666999999999,24.17173],"type":"Point"}
+}

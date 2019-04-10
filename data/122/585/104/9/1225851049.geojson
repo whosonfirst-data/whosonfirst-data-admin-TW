@@ -1,0 +1,80 @@
+{
+  "id": 1225851049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.20584,25.03249,121.20584,25.03249",
+    "geom:latitude":25.03249,
+    "geom:longitude":121.20584,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H06",
+    "gn:admin4_code":"68000060002.0",
+    "gn:asciiname":"Tianxin",
+    "gn:country_code":"TW",
+    "gn:dem":57,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667451,
+    "gn:latitude":25.03249,
+    "gn:longitude":121.20584,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tianxin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tiansin"
+    ],
+    "name:zho_x_preferred":[
+        "T\u2019ien-hsin-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u7530\u5fc3",
+        "T\u2019ien-hsin"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667451
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d47614e576489e9d7c7e2319fcc3ed24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225851049,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1225851049,
+    "wof:lastmodified":1537708571,
+    "wof:name":"Tianxin",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.20584,
+    25.03249,
+    121.20584,
+    25.03249
+],
+  "geometry": {"coordinates":[121.20583999999999,25.03249],"type":"Point"}
+}

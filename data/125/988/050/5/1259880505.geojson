@@ -1,0 +1,77 @@
+{
+  "id": 1259880505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.52028,23.07667,120.52028,23.07667",
+    "geom:latitude":23.07667,
+    "geom:longitude":120.52028,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R25",
+    "gn:admin4_code":"67000250008.0",
+    "gn:asciiname":"Yushan",
+    "gn:country_code":"TW",
+    "gn:dem":115,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677066,
+    "gn:latitude":23.07667,
+    "gn:longitude":120.52028,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Yushan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u7389\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "Chu-t\u2019ou-ch\u2019i",
+        "Y\u00fc-shan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677066
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5492317534929f02b09ed4e8559bbf6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259880505,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1259880505,
+    "wof:lastmodified":1537709261,
+    "wof:name":"Yushan",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.52028,
+    23.07667,
+    120.52028,
+    23.07667
+],
+  "geometry": {"coordinates":[120.52028,23.07667],"type":"Point"}
+}

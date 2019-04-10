@@ -1,0 +1,88 @@
+{
+  "id": 890467707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.48333,25.0,121.48333,25.0",
+    "geom:latitude":25.0,
+    "geom:longitude":121.48333,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Zhonghe District"
+    ],
+    "name:eng_x_variant":[
+        "Jhonghe District",
+        "Zhonghe",
+        "Jhonghe"
+    ],
+    "name:unk_x_variant":[
+        "Chung-ho Shih"
+    ],
+    "name:zho_x_historical":[
+        "\u4e2d\u548c\u5e02"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u548c\u5e02"
+    ],
+    "name:zho_x_variant":[
+        "\u4e2d\u548c\u5340",
+        "\u4e2d\u548c"
+    ],
+    "qs:name":"Zhonghe Shi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":161,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677421,
+        "qs:id":1030940,
+        "wd:id":"Q24287568",
+        "wk:page":"Taipei County"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053661,
+    "wof:geomhash":"10093e1e2c39e6f43ba764d04af56d91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890467707,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":890467707,
+    "wof:lastmodified":1527792893,
+    "wof:name":"Zhonghe Shi",
+    "wof:parent_id":85679585,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.48333,
+    25.0,
+    121.48333,
+    25.0
+],
+  "geometry": {"coordinates":[121.48333,25.0],"type":"Point"}
+}

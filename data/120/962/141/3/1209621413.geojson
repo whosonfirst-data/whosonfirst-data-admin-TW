@@ -1,0 +1,72 @@
+{
+  "id": 1209621413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.89496,24.49256,120.89496,24.49256",
+    "geom:latitude":24.49256,
+    "geom:longitude":120.89496,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K17",
+    "gn:admin4_code":"10005170005.0",
+    "gn:asciiname":"Fenglin",
+    "gn:country_code":"TW",
+    "gn:dem":320,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1992306,
+    "gn:latitude":24.49256,
+    "gn:longitude":120.89496,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fenglin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Feng-lin",
+        "\u8c50\u6797",
+        "Fonglin"
+    ],
+    "name:zho_x_preferred":[
+        "\u8c50\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1992306
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"63badcf998ffbfebe9082393d5a042ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209621413
+        }
+    ],
+    "wof:id":1209621413,
+    "wof:lastmodified":1537709456,
+    "wof:name":"Fenglin",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.89496,
+    24.49256,
+    120.89496,
+    24.49256
+],
+  "geometry": {"coordinates":[120.89496,24.49256],"type":"Point"}
+}

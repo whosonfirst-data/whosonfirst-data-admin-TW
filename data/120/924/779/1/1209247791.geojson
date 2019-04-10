@@ -1,0 +1,73 @@
+{
+  "id": 1209247791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.48251,23.40905,121.48251,23.40905",
+    "geom:latitude":23.40905,
+    "geom:longitude":121.48251,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V08",
+    "gn:admin4_code":"10014080001.0",
+    "gn:asciiname":"Jialushe",
+    "gn:country_code":"TW",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678792,
+    "gn:latitude":23.40905,
+    "gn:longitude":121.48251,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jialushe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chia-lu-she",
+        "\u52a0\u9304\u793e",
+        "Chia-lu",
+        "Jialushe"
+    ],
+    "name:zho_x_preferred":[
+        "\u52a0\u9304\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678792
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"dea36b68898a6732c6eb7e5ce0bc04f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209247791
+        }
+    ],
+    "wof:id":1209247791,
+    "wof:lastmodified":1537709390,
+    "wof:name":"Jialushe",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.48251,
+    23.40905,
+    121.48251,
+    23.40905
+],
+  "geometry": {"coordinates":[121.48251,23.40905],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1209717595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.52396,24.96792,121.52396,24.96792",
+    "geom:latitude":24.96792,
+    "geom:longitude":121.52396,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F07",
+    "gn:admin4_code":"65000060056.0",
+    "gn:asciiname":"Ankengxia",
+    "gn:country_code":"TW",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6643665,
+    "gn:latitude":24.96792,
+    "gn:longitude":121.52396,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Ankengxia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ankengsia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5b89\u5751\u4e0b"
+    ],
+    "name:zho_x_variant":[
+        "An-k\u2019eng-hsia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6643665
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"6ccda200e9406f5d027e1af55cd2c59e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209717595,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1209717595,
+    "wof:lastmodified":1537709688,
+    "wof:name":"Ankengxia",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.52396,
+    24.96792,
+    121.52396,
+    24.96792
+],
+  "geometry": {"coordinates":[121.52396,24.96792],"type":"Point"}
+}

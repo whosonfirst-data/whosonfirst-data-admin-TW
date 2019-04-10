@@ -1,0 +1,77 @@
+{
+  "id": 1360185223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36262,23.18442,120.36262,23.18442",
+    "geom:latitude":23.18442,
+    "geom:longitude":120.36262,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R10",
+    "gn:admin4_code":"67000100013.0",
+    "gn:asciiname":"Jiushe",
+    "gn:country_code":"TW",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6749936,
+    "gn:latitude":23.18442,
+    "gn:longitude":120.36262,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiushe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jioushe",
+        "Chiu-she"
+    ],
+    "name:zho_x_preferred":[
+        "\u820a\u793e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6749936
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2705f9bbacfa9e3e118bfc048f209aab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360185223,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1360185223,
+    "wof:lastmodified":1537709958,
+    "wof:name":"Jiushe",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36262,
+    23.18442000000001,
+    120.36262,
+    23.18442000000001
+],
+  "geometry": {"coordinates":[120.36262000000001,23.18442000000001],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1193137565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.71332,24.03237,120.71332,24.03237",
+    "geom:latitude":24.03237,
+    "geom:longitude":120.71332,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B26",
+    "gn:admin4_code":"66000260016.0",
+    "gn:asciiname":"Wai'ankeng",
+    "gn:country_code":"TW",
+    "gn:dem":204,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993756,
+    "gn:latitude":24.03237,
+    "gn:longitude":120.71332,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wai\u2019ankeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5916\u6697\u5751",
+        "Wai\u2019ankeng",
+        "Wai-an-k\u2019eng"
+    ],
+    "name:zho_x_preferred":[
+        "Wai\u2019ankeng"
+    ],
+    "name:zho_x_variant":[
+        "Wai-an-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993756
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"092ee45465c2a116d3c396727311d5b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193137565,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1193137565,
+    "wof:lastmodified":1537709487,
+    "wof:name":"Wai'ankeng",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.71332,
+    24.03237,
+    120.71332,
+    24.03237
+],
+  "geometry": {"coordinates":[120.71332,24.03237],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1343768285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"119.56667,23.55,119.56667,23.55",
+    "geom:latitude":23.55,
+    "geom:longitude":119.56667,
+    "gn:admin1_code":"4.0",
+    "gn:asciiname":"Haiguangxincun",
+    "gn:country_code":"TW",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676323,
+    "gn:latitude":23.55,
+    "gn:longitude":119.56667,
+    "gn:modification_date":"2012-01-17",
+    "gn:name":"Haiguangxincun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hai-kuang-hsin-ts\u2019un"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676323
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9c145d2e6f3744027e42bef9fa844311",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1343768285,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1343768285,
+    "wof:lastmodified":1537709205,
+    "wof:name":"Haiguangxincun",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    119.56667,
+    23.55,
+    119.56667,
+    23.55
+],
+  "geometry": {"coordinates":[119.56667,23.55],"type":"Point"}
+}

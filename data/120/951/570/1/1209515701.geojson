@@ -1,0 +1,70 @@
+{
+  "id": 1209515701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.68048,24.24138,120.68048,24.24138",
+    "geom:latitude":24.24138,
+    "geom:longitude":120.68048,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B16",
+    "gn:admin4_code":"66000160006.0",
+    "gn:asciiname":"Dingniubu",
+    "gn:country_code":"TW",
+    "gn:dem":175,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993137,
+    "gn:latitude":24.24138,
+    "gn:longitude":120.68048,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingniubu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u9802\u725b\u57d4",
+        "Dingniubu",
+        "Dingnioubu",
+        "Ting-niu-pu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993137
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b0309c7baeaa82842a11c7faa9380f0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209515701
+        }
+    ],
+    "wof:id":1209515701,
+    "wof:lastmodified":1537709473,
+    "wof:name":"Dingniubu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.68048,
+    24.24138,
+    120.68048,
+    24.24138
+],
+  "geometry": {"coordinates":[120.68048,24.24138],"type":"Point"}
+}

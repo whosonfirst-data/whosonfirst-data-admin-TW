@@ -1,0 +1,76 @@
+{
+  "id": 1293784377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.47944,22.67417,121.47944,22.67417",
+    "geom:latitude":22.67417,
+    "geom:longitude":121.47944,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V11",
+    "gn:admin4_code":"10014110001.0",
+    "gn:asciiname":"Chaikou",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679188,
+    "gn:latitude":22.67417,
+    "gn:longitude":121.47944,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chaikou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u67f4\u53e3"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ai-k\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679188
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"79f88551c3d16d8501ff8bce94ee0aa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293784377,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1293784377,
+    "wof:lastmodified":1537709417,
+    "wof:name":"Chaikou",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.47944,
+    22.67417,
+    121.47944,
+    22.67417
+],
+  "geometry": {"coordinates":[121.47944,22.67417],"type":"Point"}
+}

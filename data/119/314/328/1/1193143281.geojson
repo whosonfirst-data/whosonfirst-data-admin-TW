@@ -1,0 +1,79 @@
+{
+  "id": 1193143281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.84603,24.3598,120.84603,24.3598",
+    "geom:latitude":24.3598,
+    "geom:longitude":120.84603,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K15",
+    "gn:admin4_code":"10005080011.0",
+    "gn:asciiname":"Zhuqiao",
+    "gn:country_code":"TW",
+    "gn:dem":415,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6652147,
+    "gn:latitude":24.3598,
+    "gn:longitude":120.84603,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhuqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhuciao"
+    ],
+    "name:zho_x_preferred":[
+        "\u7af9\u6a4b"
+    ],
+    "name:zho_x_variant":[
+        "Chu-ch\u2019iao"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6652147
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f42c497af9ec575c9d2afd82fc278718",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193143281,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1193143281,
+    "wof:lastmodified":1537709814,
+    "wof:name":"Zhuqiao",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.84603,
+    24.3598,
+    120.84603,
+    24.3598
+],
+  "geometry": {"coordinates":[120.84603,24.3598],"type":"Point"}
+}

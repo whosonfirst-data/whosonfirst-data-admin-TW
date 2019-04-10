@@ -1,0 +1,78 @@
+{
+  "id": 1277005899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.44472,22.98111,120.44472,22.98111",
+    "geom:latitude":22.98111,
+    "geom:longitude":120.44472,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R26",
+    "gn:admin4_code":"67000260009.0",
+    "gn:asciiname":"Dalinwei",
+    "gn:country_code":"TW",
+    "gn:dem":245,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668152,
+    "gn:latitude":22.98111,
+    "gn:longitude":120.44472,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dalinwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-lin",
+        "Dalinwei",
+        "Ta-lin-wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6797\u5c3e"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668152
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"91d2f96512881ccf6530fdc45c32ee45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1277005899,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1277005899,
+    "wof:lastmodified":1537708611,
+    "wof:name":"Dalinwei",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.44472,
+    22.98111,
+    120.44472,
+    22.98111
+],
+  "geometry": {"coordinates":[120.44472,22.98111],"type":"Point"}
+}

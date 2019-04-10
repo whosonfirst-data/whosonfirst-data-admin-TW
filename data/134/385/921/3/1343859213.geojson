@@ -1,0 +1,83 @@
+{
+  "id": 1343859213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.17373,25.0851,121.17373,25.0851",
+    "geom:latitude":25.0851,
+    "geom:longitude":121.17373,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H06",
+    "gn:admin4_code":"68000060018.0",
+    "gn:asciiname":"Xucuogang",
+    "gn:country_code":"TW",
+    "gn:dem":2,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674520,
+    "gn:latitude":25.0851,
+    "gn:longitude":121.17373,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xucuogang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Syucuogang",
+        "Xucuogang"
+    ],
+    "name:zho_x_preferred":[
+        "Hs\u00fc-ts\u2019o-chiang"
+    ],
+    "name:zho_x_variant":[
+        "Hs\u00fc-ts\u2019o",
+        "Hs\u00fc-Ts\u2019o-Ts\u2019un",
+        "\u8a31\u539d\u6e2f",
+        "Hs\u00fc-ts\u2019o-kang"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674520
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7784fe2a88c345dcc9679ffb0e0f80fd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343859213,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1343859213,
+    "wof:lastmodified":1537709046,
+    "wof:name":"Xucuogang",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.17373,
+    25.0851,
+    121.17373,
+    25.0851
+],
+  "geometry": {"coordinates":[121.17373000000001,25.0851],"type":"Point"}
+}

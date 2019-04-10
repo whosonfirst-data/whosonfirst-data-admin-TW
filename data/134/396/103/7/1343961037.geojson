@@ -1,0 +1,76 @@
+{
+  "id": 1343961037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.46889,22.90917,120.46889,22.90917",
+    "geom:latitude":22.90917,
+    "geom:longitude":120.46889,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E35",
+    "gn:admin4_code":"64000350012.0",
+    "gn:asciiname":"Caiyuanding",
+    "gn:country_code":"TW",
+    "gn:dem":92,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6600997,
+    "gn:latitude":22.90917,
+    "gn:longitude":120.46889,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Caiyuanding",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u83dc\u5712\u9802"
+    ],
+    "name:zho_x_variant":[
+        "Ts\u2019ai-y\u00fcan-ting"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6600997
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2567b3a8dba49405a75d49cd9f9042fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343961037,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1343961037,
+    "wof:lastmodified":1537709637,
+    "wof:name":"Caiyuanding",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.46889,
+    22.90917,
+    120.46889,
+    22.90917
+],
+  "geometry": {"coordinates":[120.46889,22.90917],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 890468669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.496881,24.181836,121.496881,24.181836",
+    "geom:latitude":24.181836,
+    "geom:longitude":121.496881,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u5bcc\u4e16\u6751",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u82b1\u84ee\u7e23",
+    "qs:photos":4812,
+    "qs:photos_1k":975,
+    "qs:photos_9k":21,
+    "qs:photos_9r":13,
+    "qs:photos_all":4812,
+    "qs:photos_sr":23,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":28759322,
+        "qs:id":378263
+    },
+    "wof:country":"TW",
+    "wof:created":1469053719,
+    "wof:geomhash":"78a69706a64d3fdf17d1f6589e654465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":890468669,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":890468669,
+    "wof:lastmodified":1499923720,
+    "wof:name":"\u5bcc\u4e16\u6751",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.496881,
+    24.181836,
+    121.496881,
+    24.181836
+],
+  "geometry": {"coordinates":[121.496881,24.181836],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 1276874097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.46232,25.23956,121.46232,25.23956",
+    "geom:latitude":25.23956,
+    "geom:longitude":121.46232,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F27",
+    "gn:admin4_code":"65000100002.0",
+    "gn:asciiname":"Shitoucuo",
+    "gn:country_code":"TW",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669199,
+    "gn:latitude":25.23956,
+    "gn:longitude":121.46232,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shitoucuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihtoucuo"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u982d\u539d"
+    ],
+    "name:zho_x_variant":[
+        "Shih-t\u2019ou-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669199
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9200cb9a34e5597763c80664cd225aa7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276874097,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1276874097,
+    "wof:lastmodified":1537708686,
+    "wof:name":"Shitoucuo",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.46232,
+    25.23956,
+    121.46232,
+    25.23956
+],
+  "geometry": {"coordinates":[121.46232000000001,25.23956],"type":"Point"}
+}

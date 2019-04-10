@@ -1,0 +1,79 @@
+{
+  "id": 1226756409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.39748,22.48851,120.39748,22.48851",
+    "geom:latitude":22.48851,
+    "geom:longitude":120.39748,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E13",
+    "gn:admin4_code":"64000130017.0",
+    "gn:asciiname":"Fengyun",
+    "gn:country_code":"TW",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676553,
+    "gn:latitude":22.48851,
+    "gn:longitude":120.39748,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fengyun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fongyun"
+    ],
+    "name:zho_x_preferred":[
+        "\u9cf3\u82b8"
+    ],
+    "name:zho_x_variant":[
+        "Feng-y\u00fcn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676553
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e120ed0b15b27ccafb18301d4d57bf69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226756409,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1226756409,
+    "wof:lastmodified":1537709222,
+    "wof:name":"Fengyun",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.39748,
+    22.48851,
+    120.39748,
+    22.48851
+],
+  "geometry": {"coordinates":[120.39748,22.48851],"type":"Point"}
+}

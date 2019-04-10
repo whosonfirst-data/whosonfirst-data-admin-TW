@@ -1,0 +1,79 @@
+{
+  "id": 1243456359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.65895,24.93866,121.65895,24.93866",
+    "geom:latitude":24.93866,
+    "geom:longitude":121.65895,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F08",
+    "gn:admin4_code":"65000190011.0",
+    "gn:asciiname":"Ganjiaofang",
+    "gn:country_code":"TW",
+    "gn:dem":299,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674020,
+    "gn:latitude":24.93866,
+    "gn:longitude":121.65895,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Ganjiaofang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Kan-chiao-fang"
+    ],
+    "name:zho_x_preferred":[
+        "\u67d1\u811a\u574a"
+    ],
+    "name:zho_x_variant":[
+        "Kan-chiao-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674020
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"88d59f45b1a034733a2599c44078b411",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243456359,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1243456359,
+    "wof:lastmodified":1537709016,
+    "wof:name":"Ganjiaofang",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.65895,
+    24.93866,
+    121.65895,
+    24.93866
+],
+  "geometry": {"coordinates":[121.65895,24.93866],"type":"Point"}
+}

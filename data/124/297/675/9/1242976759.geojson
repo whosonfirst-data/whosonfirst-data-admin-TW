@@ -1,0 +1,82 @@
+{
+  "id": 1242976759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.59611,24.33472,120.59611,24.33472",
+    "geom:latitude":24.33472,
+    "geom:longitude":120.59611,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B11",
+    "gn:admin4_code":"66000110014.0",
+    "gn:asciiname":"Liukuaicuo",
+    "gn:country_code":"TW",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672716,
+    "gn:latitude":24.33472,
+    "gn:longitude":120.59611,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Liukuaicuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lioukuaicuo",
+        "Liukuaicuo"
+    ],
+    "name:zho_x_preferred":[
+        "Wen Ch\u2019\u00fc"
+    ],
+    "name:zho_x_variant":[
+        "Wen-ch\u2019\u00fc-li",
+        "\u516d\u584a\u539d",
+        "Liu-k\u2019uai-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672716
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2d4776611a81f19c079c60430d3e7478",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242976759,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1242976759,
+    "wof:lastmodified":1537708923,
+    "wof:name":"Liukuaicuo",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.59611,
+    24.33472,
+    120.59611,
+    24.33472
+],
+  "geometry": {"coordinates":[120.59611,24.33472],"type":"Point"}
+}

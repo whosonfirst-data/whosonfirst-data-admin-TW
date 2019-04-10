@@ -1,0 +1,72 @@
+{
+  "id": 1209247925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.24139,23.21111,121.24139,23.21111",
+    "geom:latitude":23.21111,
+    "geom:longitude":121.24139,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U13",
+    "gn:admin4_code":"10015130006.0",
+    "gn:asciiname":"Xiuluan",
+    "gn:country_code":"TW",
+    "gn:dem":278,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602416,
+    "gn:latitude":23.21111,
+    "gn:longitude":121.24139,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiuluan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siouluan",
+        "Xiuluan",
+        "Hsiu-luan"
+    ],
+    "name:zho_x_preferred":[
+        "\u79c0\u5dd2"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602416
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3300bd3356c1d3ff75b8a31ba0046fda",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209247925
+        }
+    ],
+    "wof:id":1209247925,
+    "wof:lastmodified":1537709659,
+    "wof:name":"Xiuluan",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.24139,
+    23.21111,
+    121.24139,
+    23.21111
+],
+  "geometry": {"coordinates":[121.24139,23.21111],"type":"Point"}
+}

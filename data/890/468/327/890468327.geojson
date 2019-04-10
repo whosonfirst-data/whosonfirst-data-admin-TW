@@ -1,0 +1,75 @@
+{
+  "id": 890468327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.45,25.01667,121.45,25.01667",
+    "geom:latitude":25.01667,
+    "geom:longitude":121.45,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "\u677f\u6a4b\u5e02"
+    ],
+    "name:zho_x_preferred":[
+        "Pan-ch\u2019iao Chen"
+    ],
+    "name:zho_x_variant":[
+        "Pan-ch\u2019iao Shih",
+        "Pan-ch\u2019iao",
+        "\u677f\u6a4b\u5e02"
+    ],
+    "qs:name":"Banqiao Shi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671035,
+        "qs:id":371285
+    },
+    "wof:country":"TW",
+    "wof:created":1469053700,
+    "wof:geomhash":"7901bd05be1271d1c251874335ed4fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890468327,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":890468327,
+    "wof:lastmodified":1505343711,
+    "wof:name":"Banqiao Shi",
+    "wof:parent_id":85679585,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.45,
+    25.01667,
+    121.45,
+    25.01667
+],
+  "geometry": {"coordinates":[121.45,25.01667],"type":"Point"}
+}

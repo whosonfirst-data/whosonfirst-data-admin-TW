@@ -1,0 +1,77 @@
+{
+  "id": 1276553663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.39894,23.21683,120.39894,23.21683",
+    "geom:latitude":23.21683,
+    "geom:longitude":120.39894,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R09",
+    "gn:admin4_code":"67000090011.0",
+    "gn:asciiname":"Donggaorui",
+    "gn:country_code":"TW",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666584,
+    "gn:latitude":23.21683,
+    "gn:longitude":120.39894,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Donggaorui",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Donggaoruei",
+        "Tung-kao-jui"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u818f\u868b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666584
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e6f900313a79eb49a0ec0d5a6258615e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276553663,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1276553663,
+    "wof:lastmodified":1537708509,
+    "wof:name":"Donggaorui",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.39894,
+    23.21683,
+    120.39894,
+    23.21683
+],
+  "geometry": {"coordinates":[120.39894,23.21683],"type":"Point"}
+}

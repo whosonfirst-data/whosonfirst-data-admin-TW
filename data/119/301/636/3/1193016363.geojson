@@ -1,0 +1,77 @@
+{
+  "id": 1193016363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.47777,23.18769,120.47777,23.18769",
+    "geom:latitude":23.18769,
+    "geom:longitude":120.47777,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R24",
+    "gn:admin4_code":"67000240004.0",
+    "gn:asciiname":"Zhaoxing",
+    "gn:country_code":"TW",
+    "gn:dem":84,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6750045,
+    "gn:latitude":23.18769,
+    "gn:longitude":120.47777,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhaoxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jhaosing",
+        "Chao-hsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u7167\u8208"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6750045
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"03c75991cdc90c1c363999941fe7d289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193016363,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1193016363,
+    "wof:lastmodified":1537709962,
+    "wof:name":"Zhaoxing",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.47777,
+    23.18769,
+    120.47777,
+    23.18769
+],
+  "geometry": {"coordinates":[120.47777000000001,23.18769],"type":"Point"}
+}

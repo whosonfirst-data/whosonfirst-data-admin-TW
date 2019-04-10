@@ -1,0 +1,70 @@
+{
+  "id": 1209515907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.00944,24.70167,121.00944,24.70167",
+    "geom:latitude":24.70167,
+    "geom:longitude":121.00944,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J13",
+    "gn:admin4_code":"10004110003.0",
+    "gn:asciiname":"Shakeng",
+    "gn:country_code":"TW",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6640775,
+    "gn:latitude":24.70167,
+    "gn:longitude":121.00944,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shakeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6c99\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Sha-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6640775
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"65887f6c0b002fbf9743c8f3369524e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209515907
+        }
+    ],
+    "wof:id":1209515907,
+    "wof:lastmodified":1537709683,
+    "wof:name":"Shakeng",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.00943999999998,
+    24.70167,
+    121.00943999999998,
+    24.70167
+],
+  "geometry": {"coordinates":[121.00943999999998,24.70167],"type":"Point"}
+}

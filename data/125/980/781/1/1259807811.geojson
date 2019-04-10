@@ -1,0 +1,76 @@
+{
+  "id": 1259807811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.88984,23.8537,120.88984,23.8537",
+    "geom:latitude":23.8537,
+    "geom:longitude":120.88984,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M09",
+    "gn:admin4_code":"10008090010.0",
+    "gn:asciiname":"Alimei",
+    "gn:country_code":"TW",
+    "gn:dem":748,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1679306,
+    "gn:latitude":23.8537,
+    "gn:longitude":120.88984,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Alimei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "A-li-mei"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u91cc\u7709"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1679306
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a8c1c81c43cd647465bafb0386850806",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259807811,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1259807811,
+    "wof:lastmodified":1537709424,
+    "wof:name":"Alimei",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.88984,
+    23.8537,
+    120.88984,
+    23.8537
+],
+  "geometry": {"coordinates":[120.88984000000001,23.8537],"type":"Point"}
+}

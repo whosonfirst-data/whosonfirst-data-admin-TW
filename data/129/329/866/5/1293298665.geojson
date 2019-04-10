@@ -1,0 +1,78 @@
+{
+  "id": 1293298665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.38056,23.67977,120.38056,23.67977",
+    "geom:latitude":23.67977,
+    "geom:longitude":120.38056,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P05",
+    "gn:admin4_code":"10009050010.0",
+    "gn:asciiname":"Xiaozhuwei",
+    "gn:country_code":"TW",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6655639,
+    "gn:latitude":23.67977,
+    "gn:longitude":120.38056,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaozhuwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siaojhuwei",
+        "Xiaozhuwei",
+        "Hsiao-chu-wei"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u7af9\u570d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6655639
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1daaca46e8d7c7f532d91a029b29f10a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293298665,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1293298665,
+    "wof:lastmodified":1537709858,
+    "wof:name":"Xiaozhuwei",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.38056,
+    23.67977,
+    120.38056,
+    23.67977
+],
+  "geometry": {"coordinates":[120.38056,23.67977],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 1209115005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.36759,22.6902,120.36759,22.6902",
+    "geom:latitude":22.6902,
+    "geom:longitude":120.36759,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E17",
+    "gn:admin4_code":"64000170004.0",
+    "gn:asciiname":"Shezhixing",
+    "gn:country_code":"TW",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669491,
+    "gn:latitude":22.6902,
+    "gn:longitude":120.36759,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shezhixing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "She-Tzu-Hsin",
+        "She-chih-hsing",
+        "\u86c7\u4e4b\u5f62",
+        "She-tzu-hsing",
+        "Shezhixing",
+        "Shejhihsing"
+    ],
+    "name:zho_x_preferred":[
+        "\u86c7\u4e4b\u5f62"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669491
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1579abd8871f51f423d41bef390674bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209115005
+        }
+    ],
+    "wof:id":1209115005,
+    "wof:lastmodified":1537708711,
+    "wof:name":"Shezhixing",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.36759,
+    22.6902,
+    120.36759,
+    22.6902
+],
+  "geometry": {"coordinates":[120.36759000000001,22.6902],"type":"Point"}
+}

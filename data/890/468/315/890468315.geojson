@@ -1,0 +1,78 @@
+{
+  "id": 890468315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.48333,25.06667,121.48333,25.06667",
+    "geom:latitude":25.06667,
+    "geom:longitude":121.48333,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "\u4e09\u91cd\u5e02"
+    ],
+    "name:zho_x_preferred":[
+        "San-ch\u2019ung Chen"
+    ],
+    "name:zho_x_variant":[
+        "San-ch\u2019ung Shih",
+        "San-ch\u2019ung",
+        "\u4e09\u91cd\u5e02"
+    ],
+    "qs:name":"Sanchong Shi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":161,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670138,
+        "qs:id":371268,
+        "wd:id":"Q24287568",
+        "wk:page":"Taipei County"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053699,
+    "wof:geomhash":"373c2f23d4b2742eeeff02751be1314c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890468315,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":890468315,
+    "wof:lastmodified":1527792968,
+    "wof:name":"Sanchong Shi",
+    "wof:parent_id":85679585,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.48333,
+    25.06667,
+    121.48333,
+    25.06667
+],
+  "geometry": {"coordinates":[121.48333,25.06667],"type":"Point"}
+}

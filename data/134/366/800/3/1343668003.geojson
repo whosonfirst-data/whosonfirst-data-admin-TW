@@ -1,0 +1,80 @@
+{
+  "id": 1343668003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.75639,24.34861,120.75639,24.34861",
+    "geom:latitude":24.34861,
+    "geom:longitude":120.75639,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K06",
+    "gn:admin4_code":"10005130007.0",
+    "gn:asciiname":"Nanpianshanxia",
+    "gn:country_code":"TW",
+    "gn:dem":203,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671663,
+    "gn:latitude":24.34861,
+    "gn:longitude":120.75639,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nanpianshanxia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Nanpianshansia",
+        "Nanpianshanxia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5357\u7247\u5c71\u4e0b"
+    ],
+    "name:zho_x_variant":[
+        "Nan-p\u2019ien-shan-hsia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1671663
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c8824aa02f323cab714ae699207c7f29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343668003,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1343668003,
+    "wof:lastmodified":1537708857,
+    "wof:name":"Nanpianshanxia",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.75639,
+    24.34861,
+    120.75639,
+    24.34861
+],
+  "geometry": {"coordinates":[120.75639,24.34861],"type":"Point"}
+}

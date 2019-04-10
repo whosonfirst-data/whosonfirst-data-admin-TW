@@ -1,0 +1,76 @@
+{
+  "id": 1242791979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.44315,24.42946,118.44315,24.42946",
+    "geom:latitude":24.42946,
+    "geom:longitude":118.44315,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W01",
+    "gn:admin4_code":"9020030004.0",
+    "gn:asciiname":"Xicun",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674645,
+    "gn:latitude":24.42946,
+    "gn:longitude":118.44315,
+    "gn:modification_date":"2017-11-07",
+    "gn:name":"Xicun",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hsi-ts\u2019un"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u6751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679635,
+        1108808555
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674645
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e6742a7ad7b0bb08ad4b72a0f9881553",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242791979,
+            "macroregion_id":1108808555,
+            "region_id":85679635
+        }
+    ],
+    "wof:id":1242791979,
+    "wof:lastmodified":1537709056,
+    "wof:name":"Xicun",
+    "wof:parent_id":85679635,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.44315,
+    24.42946,
+    118.44315,
+    24.42946
+],
+  "geometry": {"coordinates":[118.44315,24.42946],"type":"Point"}
+}

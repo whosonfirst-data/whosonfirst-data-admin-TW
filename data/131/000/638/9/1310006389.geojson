@@ -1,0 +1,83 @@
+{
+  "id": 1310006389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.48147,22.63551,120.48147,22.63551",
+    "geom:latitude":22.63551,
+    "geom:longitude":120.48147,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T01",
+    "gn:admin4_code":"10013010043.0",
+    "gn:asciiname":"Longhua",
+    "gn:country_code":"TW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672468,
+    "gn:latitude":22.63551,
+    "gn:longitude":120.48147,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Longhua",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lung-hua-li",
+        "Lung-hua",
+        "\u9f8d\u83ef",
+        "Kuei-mao",
+        "Longhua"
+    ],
+    "name:zho_x_preferred":[
+        "Kuei-t\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u9f8d\u83ef"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672468
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"41c58f90d831a3dd55e0d1ce9d3ac255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310006389,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1310006389,
+    "wof:lastmodified":1537708907,
+    "wof:name":"Longhua",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.48147,
+    22.63551,
+    120.48147,
+    22.63551
+],
+  "geometry": {"coordinates":[120.48147,22.63551],"type":"Point"}
+}

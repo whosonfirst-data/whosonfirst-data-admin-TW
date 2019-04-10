@@ -1,0 +1,78 @@
+{
+  "id": 1309815259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.81028,24.97917,121.81028,24.97917",
+    "geom:latitude":24.97917,
+    "geom:longitude":121.81028,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F23",
+    "gn:admin4_code":"65000250012.0",
+    "gn:asciiname":"Baochengkeng",
+    "gn:country_code":"TW",
+    "gn:dem":397,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670976,
+    "gn:latitude":24.97917,
+    "gn:longitude":121.81028,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Baochengkeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u4fdd\u6210\u5751"
+    ],
+    "name:zho_x_variant":[
+        "Pao-sheng-k\u2019eng",
+        "Pao-ch\u2019eng-kung",
+        "Pao-ch\u2019eng-k\u2019eng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670976
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"44f563b120c7d0cf4f5fbcab4959fafc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309815259,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1309815259,
+    "wof:lastmodified":1537708813,
+    "wof:name":"Baochengkeng",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.81028,
+    24.97917,
+    121.81028,
+    24.97917
+],
+  "geometry": {"coordinates":[121.81028000000001,24.97917],"type":"Point"}
+}

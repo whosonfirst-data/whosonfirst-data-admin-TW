@@ -1,0 +1,77 @@
+{
+  "id": 1243068473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.59611,24.25056,120.59611,24.25056",
+    "geom:latitude":24.25056,
+    "geom:longitude":120.59611,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B13",
+    "gn:admin4_code":"66000130019.0",
+    "gn:asciiname":"Xinxishiliao",
+    "gn:country_code":"TW",
+    "gn:dem":170,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6587589,
+    "gn:latitude":24.25056,
+    "gn:longitude":120.59611,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinxishiliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sinsishihliao",
+        "Hsin-hsi-shih-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u897f\u52e2\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6587589
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c930ab2eb989204f0ff8b6531779e34d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243068473,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1243068473,
+    "wof:lastmodified":1537709588,
+    "wof:name":"Xinxishiliao",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.59611,
+    24.25056,
+    120.59611,
+    24.25056
+],
+  "geometry": {"coordinates":[120.59611,24.25056],"type":"Point"}
+}

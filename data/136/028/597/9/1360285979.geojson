@@ -1,0 +1,79 @@
+{
+  "id": 1360285979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.75861,24.28444,120.75861,24.28444",
+    "geom:latitude":24.28444,
+    "geom:longitude":120.75861,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B10",
+    "gn:admin4_code":"66000100024.0",
+    "gn:asciiname":"Pitoushan",
+    "gn:country_code":"TW",
+    "gn:dem":260,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670435,
+    "gn:latitude":24.28444,
+    "gn:longitude":120.75861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Pitoushan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "P\u2019i-t\u2019ou-li"
+    ],
+    "name:zho_x_variant":[
+        "Pa-t\u2019ou",
+        "\u57e4\u982d\u5c71",
+        "P\u2019i-t\u2019ou",
+        "P\u2019i-t\u2019ou-shan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670435
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4902d872f56fc662d44d46662b0a6832",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360285979,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1360285979,
+    "wof:lastmodified":1537708782,
+    "wof:name":"Pitoushan",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.75861,
+    24.28444,
+    120.75861,
+    24.28444
+],
+  "geometry": {"coordinates":[120.75861,24.28444],"type":"Point"}
+}

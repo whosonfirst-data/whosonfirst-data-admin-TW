@@ -1,0 +1,73 @@
+{
+  "id": 1209515719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.72402,24.20259,120.72402,24.20259",
+    "geom:latitude":24.20259,
+    "geom:longitude":120.72402,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B17",
+    "gn:admin4_code":"66000170013.0",
+    "gn:asciiname":"Xiaxintian",
+    "gn:country_code":"TW",
+    "gn:dem":191,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1993172,
+    "gn:latitude":24.20259,
+    "gn:longitude":120.72402,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaxintian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u4e0b\u65b0\u7530",
+        "Xiaxintian",
+        "Siasintian",
+        "Hsia-hsin-t\u2019ien"
+    ],
+    "name:zho_x_preferred":[
+        "Hsia-hsin-t\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1993172
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b5becce053723f5c21dae9419e03b5df",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209515719
+        }
+    ],
+    "wof:id":1209515719,
+    "wof:lastmodified":1537709475,
+    "wof:name":"Xiaxintian",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.72402,
+    24.20259,
+    120.72402,
+    24.20259
+],
+  "geometry": {"coordinates":[120.72402,24.20259],"type":"Point"}
+}

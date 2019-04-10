@@ -1,0 +1,72 @@
+{
+  "id": 890467537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.349216,23.085416,120.349216,23.085416",
+    "geom:latitude":23.085416,
+    "geom:longitude":120.349216,
+    "gp:adm0":23424971,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"\u5c71\u4e0a\u9109",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u53f0\u5357\u5e02",
+    "qs:photos":30,
+    "qs:photos_1k":6,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":30,
+    "qs:photos_sr":2,
+    "qs:placetype":"County",
+    "qs:pop_sr":"0",
+    "wd:wordcount":136,
+    "wof:belongsto":[
+        85679553,
+        102191569,
+        85632403,
+        1108756869,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":2302677,
+        "qs:id":268758,
+        "wd:id":"Q477601",
+        "wk:page":"Tainan County"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053653,
+    "wof:geomhash":"cdf60f1bf4771ba39dcbdb335711f809",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "county_id":890467537,
+            "macrocounty_id":1108756869,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":890467537,
+    "wof:lastmodified":1527792897,
+    "wof:name":"\u5c71\u4e0a\u9109",
+    "wof:parent_id":1108756869,
+    "wof:placetype":"county",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.349216,
+    23.085416,
+    120.349216,
+    23.085416
+],
+  "geometry": {"coordinates":[120.349216,23.085416],"type":"Point"}
+}

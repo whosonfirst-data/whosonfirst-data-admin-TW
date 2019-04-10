@@ -1,0 +1,73 @@
+{
+  "id": 1209314951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6098,23.8733,120.6098,23.8733",
+    "geom:latitude":23.8733,
+    "geom:longitude":120.6098,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CHA",
+    "gn:admin3_code":"N07",
+    "gn:admin4_code":"10007120005.0",
+    "gn:asciiname":"Jinmaozhuang",
+    "gn:country_code":"TW",
+    "gn:dem":94,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677957,
+    "gn:latitude":23.8733,
+    "gn:longitude":120.6098,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jinmaozhuang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Jinmaojhuang",
+        "Jinmaozhuang",
+        "Chin-yen",
+        "Chin-mao-chuang"
+    ],
+    "name:zho_x_preferred":[
+        "\u9326\u6bdb\u5e84"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677957
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a9ab9993f0f5b86fbd33553eab2e4351",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209314951
+        }
+    ],
+    "wof:id":1209314951,
+    "wof:lastmodified":1537709337,
+    "wof:name":"Jinmaozhuang",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6098,
+    23.8733,
+    120.6098,
+    23.8733
+],
+  "geometry": {"coordinates":[120.60980000000001,23.8733],"type":"Point"}
+}

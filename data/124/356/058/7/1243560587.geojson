@@ -1,0 +1,81 @@
+{
+  "id": 1243560587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.39783,23.65034,120.39783,23.65034",
+    "geom:latitude":23.65034,
+    "geom:longitude":120.39783,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P08",
+    "gn:admin4_code":"10009080011.0",
+    "gn:asciiname":"Tianwei",
+    "gn:country_code":"TW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672962,
+    "gn:latitude":23.65034,
+    "gn:longitude":120.39783,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tianwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lien-mei",
+        "Tianwei"
+    ],
+    "name:zho_x_preferred":[
+        "Lien-mei-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u7530\u5c3e",
+        "T\u2019ien-wei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672962
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c32be3b6590cf5222239560d9b7dcff3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243560587,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1243560587,
+    "wof:lastmodified":1537708938,
+    "wof:name":"Tianwei",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.39783,
+    23.65034,
+    120.39783,
+    23.65034
+],
+  "geometry": {"coordinates":[120.39783,23.65034],"type":"Point"}
+}

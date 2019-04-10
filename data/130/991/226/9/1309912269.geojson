@@ -1,0 +1,78 @@
+{
+  "id": 1309912269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.80961,23.93424,120.80961,23.93424",
+    "geom:latitude":23.93424,
+    "geom:longitude":120.80961,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M08",
+    "gn:admin4_code":"10008080012.0",
+    "gn:asciiname":"Luzhudi",
+    "gn:country_code":"TW",
+    "gn:dem":521,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672572,
+    "gn:latitude":23.93424,
+    "gn:longitude":120.80961,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Luzhudi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lu-chu-nan",
+        "Lujhudi",
+        "Lu-chu-ti"
+    ],
+    "name:zho_x_preferred":[
+        "\u8606\u7af9\u5754"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672572
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"e597a2e0ac87553b474e177de1736999",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309912269,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1309912269,
+    "wof:lastmodified":1537708914,
+    "wof:name":"Luzhudi",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.80961,
+    23.93424,
+    120.80961,
+    23.93424
+],
+  "geometry": {"coordinates":[120.80961000000001,23.93424],"type":"Point"}
+}

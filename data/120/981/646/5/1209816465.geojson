@@ -1,0 +1,73 @@
+{
+  "id": 1209816465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.28333,23.01667,120.28333,23.01667",
+    "geom:latitude":23.01667,
+    "geom:longitude":120.28333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R31",
+    "gn:admin4_code":"67000310023.0",
+    "gn:asciiname":"Houtian",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675956,
+    "gn:latitude":23.01667,
+    "gn:longitude":120.28333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Houtian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hou-t\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675956
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4646060436cf13d36f60a3632e8e47de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209816465,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1209816465,
+    "wof:lastmodified":1537709178,
+    "wof:name":"Houtian",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.28333,
+    23.01667,
+    120.28333,
+    23.01667
+],
+  "geometry": {"coordinates":[120.28333000000001,23.01667],"type":"Point"}
+}

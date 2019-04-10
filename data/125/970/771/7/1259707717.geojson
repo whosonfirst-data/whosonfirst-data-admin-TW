@@ -1,0 +1,79 @@
+{
+  "id": 1259707717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.79889,22.13361,120.79889,22.13361",
+    "geom:latitude":22.13361,
+    "geom:longitude":120.79889,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T33",
+    "gn:admin4_code":"10013330001.0",
+    "gn:asciiname":"Zhongjianlu",
+    "gn:country_code":"TW",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677182,
+    "gn:latitude":22.13361,
+    "gn:longitude":120.79889,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongjianlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chung-wen-lu",
+        "Zhongjianlu",
+        "Jhongjianlu",
+        "Chung-chien-lu"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e2d\u9593\u8def"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677182
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"24d0cab57b3f0026a7944a6a7a2337cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259707717,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1259707717,
+    "wof:lastmodified":1537709271,
+    "wof:name":"Zhongjianlu",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.79889,
+    22.13361,
+    120.79889,
+    22.13361
+],
+  "geometry": {"coordinates":[120.79889,22.13361],"type":"Point"}
+}

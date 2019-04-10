@@ -1,0 +1,78 @@
+{
+  "id": 1209914395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.85143,23.86066,120.85143,23.86066",
+    "geom:latitude":23.86066,
+    "geom:longitude":120.85143,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M11",
+    "gn:admin4_code":"10008110010.0",
+    "gn:asciiname":"Gaoshanxiang",
+    "gn:country_code":"TW",
+    "gn:dem":928,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649149,
+    "gn:latitude":23.86066,
+    "gn:longitude":120.85143,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Gaoshanxiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gaoshansiang",
+        "Gaoshanxiang",
+        "Kao-shan-hsiang"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ad8\u5c71\u5df7"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649149
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"ffe6f9536748b687ceeec98b0f08c866",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209914395,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1209914395,
+    "wof:lastmodified":1537709778,
+    "wof:name":"Gaoshanxiang",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.85143,
+    23.86066,
+    120.85143,
+    23.86066
+],
+  "geometry": {"coordinates":[120.85142999999999,23.86066],"type":"Point"}
+}

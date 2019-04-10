@@ -1,0 +1,77 @@
+{
+  "id": 1292909359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.56789,23.4638,120.56789,23.4638",
+    "geom:latitude":23.4638,
+    "geom:longitude":120.56789,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q17",
+    "gn:admin4_code":"10010160005.0",
+    "gn:asciiname":"Fanlu",
+    "gn:country_code":"TW",
+    "gn:dem":222,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676810,
+    "gn:latitude":23.4638,
+    "gn:longitude":120.56789,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Fanlu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fan-lu"
+    ],
+    "name:zho_x_preferred":[
+        "\u756a\u8def"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679599,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676810,
+        "wk:page":"Fanlu,_Chiayi"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"403b92dc2a5cba952103034f3df1112d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1292909359,
+            "macroregion_id":1108808557,
+            "region_id":85679599
+        }
+    ],
+    "wof:id":1292909359,
+    "wof:lastmodified":1537709242,
+    "wof:name":"Fanlu",
+    "wof:parent_id":85679599,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.56789,
+    23.4638,
+    120.56789,
+    23.4638
+],
+  "geometry": {"coordinates":[120.56789000000001,23.4638],"type":"Point"}
+}

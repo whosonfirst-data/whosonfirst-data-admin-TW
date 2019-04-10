@@ -1,0 +1,76 @@
+{
+  "id": 1360009743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.79276,24.2215,120.79276,24.2215",
+    "geom:latitude":24.2215,
+    "geom:longitude":120.79276,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B19",
+    "gn:admin4_code":"66000190007.0",
+    "gn:asciiname":"Nanku",
+    "gn:country_code":"TW",
+    "gn:dem":466,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6726834,
+    "gn:latitude":24.2215,
+    "gn:longitude":120.79276,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nanku",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6e73\u5800"
+    ],
+    "name:zho_x_variant":[
+        "Nan-k\u2019u"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6726834
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"7f26be4138884ed140cf774199596d13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360009743,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1360009743,
+    "wof:lastmodified":1537709902,
+    "wof:name":"Nanku",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.79276000000002,
+    24.2215,
+    120.79276000000002,
+    24.2215
+],
+  "geometry": {"coordinates":[120.79276000000002,24.2215],"type":"Point"}
+}

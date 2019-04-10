@@ -1,0 +1,80 @@
+{
+  "id": 1276980565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.42861,23.38611,120.42861,23.38611",
+    "geom:latitude":23.38611,
+    "geom:longitude":120.42861,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R03",
+    "gn:admin4_code":"67000030023.0",
+    "gn:asciiname":"Qiaotou",
+    "gn:country_code":"TW",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678679,
+    "gn:latitude":23.38611,
+    "gn:longitude":120.42861,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qiaotou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ciaotou",
+        "Qiaotou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6a4b\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019iao-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679553,
+        1108808553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678679
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"592c3214bf6aa12d3dde8f24977f9241",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276980565,
+            "macroregion_id":1108808553,
+            "region_id":85679553
+        }
+    ],
+    "wof:id":1276980565,
+    "wof:lastmodified":1537709383,
+    "wof:name":"Qiaotou",
+    "wof:parent_id":85679553,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.42861,
+    23.38611,
+    120.42861,
+    23.38611
+],
+  "geometry": {"coordinates":[120.42861000000001,23.38611],"type":"Point"}
+}

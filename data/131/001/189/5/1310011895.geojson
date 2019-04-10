@@ -1,0 +1,80 @@
+{
+  "id": 1310011895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.82417,22.28028,120.82417,22.28028",
+    "geom:latitude":22.28028,
+    "geom:longitude":120.82417,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V14",
+    "gn:admin4_code":"10014150004.0",
+    "gn:asciiname":"Jiu'anshuo",
+    "gn:country_code":"TW",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6587903,
+    "gn:latitude":22.28028,
+    "gn:longitude":120.82417,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiu\u2019anshuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chiu-an-shuo"
+    ],
+    "name:zho_x_preferred":[
+        "\u820a\u5b89\u6714"
+    ],
+    "name:zho_x_variant":[
+        "Jiu\u2019anshuo",
+        "Jiou\u2019anshuo"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6587903
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9ffbfb8aed18bd9a7f245f29dc001f80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1310011895,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1310011895,
+    "wof:lastmodified":1537709600,
+    "wof:name":"Jiu'anshuo",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.82417,
+    22.28028,
+    120.82417,
+    22.28028
+],
+  "geometry": {"coordinates":[120.82417,22.28028],"type":"Point"}
+}

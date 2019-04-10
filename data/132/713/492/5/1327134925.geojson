@@ -1,0 +1,81 @@
+{
+  "id": 1327134925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.83639,22.41056,120.83639,22.41056",
+    "geom:latitude":22.41056,
+    "geom:longitude":120.83639,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V14",
+    "gn:admin4_code":"10014150003.0",
+    "gn:asciiname":"Shizibushe",
+    "gn:country_code":"TW",
+    "gn:dem":683,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669280,
+    "gn:latitude":22.41056,
+    "gn:longitude":120.83639,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shizibushe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shihzihbushe",
+        "Shih-pu"
+    ],
+    "name:zho_x_preferred":[
+        "Shih-tzu-pu-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u67ff\u5b50\u57d4\u793e",
+        "Shih-tzu-p\u2019u-she"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669280
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"2e5329d377ca5151886e23faa3423989",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1327134925,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1327134925,
+    "wof:lastmodified":1537708692,
+    "wof:name":"Shizibushe",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.83639,
+    22.41056,
+    120.83639,
+    22.41056
+],
+  "geometry": {"coordinates":[120.83638999999999,22.41056],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1259584215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.6,25.08333,121.6,25.08333",
+    "geom:latitude":25.08333,
+    "geom:longitude":121.6,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A14",
+    "gn:admin4_code":"63000100032.0",
+    "gn:asciiname":"Shisifenpo",
+    "gn:country_code":"TW",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1669242,
+    "gn:latitude":25.08333,
+    "gn:longitude":121.6,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shisifenpo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shih-ssu-fen-p\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1669242
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"f8d933fd430e7cf5acaf47f736c1d18d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259584215,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1259584215,
+    "wof:lastmodified":1537708689,
+    "wof:name":"Shisifenpo",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.6,
+    25.08333,
+    121.6,
+    25.08333
+],
+  "geometry": {"coordinates":[121.59999999999999,25.08333],"type":"Point"}
+}

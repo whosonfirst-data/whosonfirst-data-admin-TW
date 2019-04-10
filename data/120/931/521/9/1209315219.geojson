@@ -1,0 +1,75 @@
+{
+  "id": 1209315219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.8092,24.2188,120.8092,24.2188",
+    "geom:latitude":24.2188,
+    "geom:longitude":120.8092,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B19",
+    "gn:admin4_code":"66000190009.0",
+    "gn:asciiname":"Bacongshuxia",
+    "gn:country_code":"TW",
+    "gn:dem":498,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670898,
+    "gn:latitude":24.2188,
+    "gn:longitude":120.8092,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bacongshuxia",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pa-tseng-shu-hsia",
+        "Bacongshusia",
+        "Bacongshuxia"
+    ],
+    "name:zho_x_preferred":[
+        "\u516b\u53e2\u6a39\u4e0b"
+    ],
+    "name:zho_x_variant":[
+        "Pa-ts\u2019ung-shu-hsia"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670898
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a2b72b8993fbb1ed5a6b751e9b0628d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209315219
+        }
+    ],
+    "wof:id":1209315219,
+    "wof:lastmodified":1537708809,
+    "wof:name":"Bacongshuxia",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.8092,
+    24.2188,
+    120.8092,
+    24.2188
+],
+  "geometry": {"coordinates":[120.8092,24.2188],"type":"Point"}
+}

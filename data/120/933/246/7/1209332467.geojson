@@ -1,0 +1,71 @@
+{
+  "id": 1209332467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"118.42753,24.49344,118.42753,24.49344",
+    "geom:latitude":24.49344,
+    "geom:longitude":118.42753,
+    "gn:admin1_code":"1.0",
+    "gn:admin2_code":"KIN",
+    "gn:admin3_code":"W02",
+    "gn:admin4_code":"9020020002.0",
+    "gn:asciiname":"Xishanqian",
+    "gn:country_code":"TW",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674708,
+    "gn:latitude":24.49344,
+    "gn:longitude":118.42753,
+    "gn:modification_date":"2017-11-03",
+    "gn:name":"Xishanqian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u897f\u5c71\u524d",
+        "Xishanqian"
+    ],
+    "name:zho_x_preferred":[
+        "Hsi-shan-ch\u2019ien"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1674708
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"80e9b9b0ac8dc5cba8c29b0bdd6a85c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209332467
+        }
+    ],
+    "wof:id":1209332467,
+    "wof:lastmodified":1537709062,
+    "wof:name":"Xishanqian",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    118.42753,
+    24.49344,
+    118.42753,
+    24.49344
+],
+  "geometry": {"coordinates":[118.42753,24.49344],"type":"Point"}
+}

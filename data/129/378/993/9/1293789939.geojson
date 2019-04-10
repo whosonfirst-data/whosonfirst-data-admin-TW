@@ -1,0 +1,85 @@
+{
+  "id": 1293789939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.74066,24.27042,121.74066,24.27042",
+    "geom:latitude":24.27042,
+    "geom:longitude":121.74066,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U11",
+    "gn:admin4_code":"10015110009.0",
+    "gn:asciiname":"Hezhong",
+    "gn:country_code":"TW",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676150,
+    "gn:latitude":24.27042,
+    "gn:longitude":121.74066,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Hezhong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Hejhong",
+        "Ho-chung"
+    ],
+    "name:zho_x_preferred":[
+        "Ku-k\u2019u-tz\u2019u-she"
+    ],
+    "name:zho_x_variant":[
+        "Ho-p\u2019ing-ts\u2019un",
+        "Ku-k\u2019u-tz\u2019u",
+        "\u548c\u4e2d",
+        "Ho-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85679607,
+        102191569,
+        85632403,
+        1108498083,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676150
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"00c82a30c13293730cfd78a9e68ee135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293789939,
+            "macrocounty_id":1108498083,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1293789939,
+    "wof:lastmodified":1537709192,
+    "wof:name":"Hezhong",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.74066,
+    24.27042,
+    121.74066,
+    24.27042
+],
+  "geometry": {"coordinates":[121.74066000000001,24.27042],"type":"Point"}
+}

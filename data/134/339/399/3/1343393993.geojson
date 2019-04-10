@@ -1,0 +1,79 @@
+{
+  "id": 1343393993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.54667,23.77111,121.54667,23.77111",
+    "geom:latitude":23.77111,
+    "geom:longitude":121.54667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U06",
+    "gn:admin4_code":"10015060014.0",
+    "gn:asciiname":"Nankeng",
+    "gn:country_code":"TW",
+    "gn:dem":72,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254562,
+    "gn:latitude":23.77111,
+    "gn:longitude":121.54667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nankeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u5357\u5751"
+    ],
+    "name:zho_x_preferred":[
+        "Nan-k\u2019eng"
+    ],
+    "name:zho_x_variant":[
+        "\u5357\u5751"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6254562
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"c224b8e6946ee84121638fe0683a1591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343393993,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1343393993,
+    "wof:lastmodified":1537709501,
+    "wof:name":"Nankeng",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.54667,
+    23.77111,
+    121.54667,
+    23.77111
+],
+  "geometry": {"coordinates":[121.54667000000001,23.77111],"type":"Point"}
+}

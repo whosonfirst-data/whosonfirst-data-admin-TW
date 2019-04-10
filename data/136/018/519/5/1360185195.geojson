@@ -1,0 +1,80 @@
+{
+  "id": 1360185195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.66567,24.07116,120.66567,24.07116",
+    "geom:latitude":24.07116,
+    "geom:longitude":120.66567,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B26",
+    "gn:admin4_code":"66000260013.0",
+    "gn:asciiname":"Wucuo",
+    "gn:country_code":"TW",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665879,
+    "gn:latitude":24.07116,
+    "gn:longitude":120.66567,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wucuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wu-fu-ts\u2019un",
+        "Wu-fu",
+        "\u5433\u539d",
+        "Wucuo",
+        "Wu-ts\u2019o"
+    ],
+    "name:zho_x_preferred":[
+        "Wu-ts\u2019o"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665879
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5c93193d831701a3702391f724f47526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360185195,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1360185195,
+    "wof:lastmodified":1537708463,
+    "wof:name":"Wucuo",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.66567,
+    24.07116,
+    120.66567,
+    24.07116
+],
+  "geometry": {"coordinates":[120.66567000000001,24.07116],"type":"Point"}
+}

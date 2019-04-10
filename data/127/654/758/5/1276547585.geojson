@@ -1,0 +1,77 @@
+{
+  "id": 1276547585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.10389,24.83833,121.10389,24.83833",
+    "geom:latitude":24.83833,
+    "geom:longitude":121.10389,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J04",
+    "gn:admin4_code":"10004030015.0",
+    "gn:asciiname":"Xiaomaobu",
+    "gn:country_code":"TW",
+    "gn:dem":89,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675598,
+    "gn:latitude":24.83833,
+    "gn:longitude":121.10389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaomaobu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siaomaobu",
+        "Hsiao-mao-pu"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u8305\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679563,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675598
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d3d4312ed9b4056714141b5a70dab14a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276547585,
+            "macroregion_id":1108808557,
+            "region_id":85679563
+        }
+    ],
+    "wof:id":1276547585,
+    "wof:lastmodified":1537709146,
+    "wof:name":"Xiaomaobu",
+    "wof:parent_id":85679563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.10389,
+    24.83833,
+    121.10389,
+    24.83833
+],
+  "geometry": {"coordinates":[121.10389000000001,24.83833],"type":"Point"}
+}

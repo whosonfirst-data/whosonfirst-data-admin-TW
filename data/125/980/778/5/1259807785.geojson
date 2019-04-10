@@ -1,0 +1,82 @@
+{
+  "id": 1259807785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.695,24.7114,121.695,24.7114",
+    "geom:latitude":24.7114,
+    "geom:longitude":121.695,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G05",
+    "gn:admin4_code":"10002070006.0",
+    "gn:asciiname":"Wenziyanbu",
+    "gn:country_code":"TW",
+    "gn:dem":36,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678044,
+    "gn:latitude":24.7114,
+    "gn:longitude":121.695,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wenziyanbu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wen-tzu-yen-pu",
+        "\u868a\u5b50\u7159\u57d4",
+        "Wenziyanbu"
+    ],
+    "name:zho_x_preferred":[
+        "Shen-kou-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019in-hsiang",
+        "\u868a\u5b50\u7159\u57d4"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679567,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1678044
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"94f214e677ba119d17f41581899548c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1259807785,
+            "macroregion_id":1108808557,
+            "region_id":85679567
+        }
+    ],
+    "wof:id":1259807785,
+    "wof:lastmodified":1537709342,
+    "wof:name":"Wenziyanbu",
+    "wof:parent_id":85679567,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.695,
+    24.7114,
+    121.695,
+    24.7114
+],
+  "geometry": {"coordinates":[121.69499999999999,24.7114],"type":"Point"}
+}

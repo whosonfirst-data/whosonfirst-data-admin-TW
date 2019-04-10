@@ -1,0 +1,76 @@
+{
+  "id": 1326932119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.60022,25.00464,121.60022,25.00464",
+    "geom:latitude":25.00464,
+    "geom:longitude":121.60022,
+    "gn:admin1_code":"03",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F09",
+    "gn:admin4_code":"65000180007.0",
+    "gn:asciiname":"Caodiwei",
+    "gn:country_code":"TW",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666858,
+    "gn:latitude":25.00464,
+    "gn:longitude":121.60022,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Caodiwei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u8349\u5730\u5c3e"
+    ],
+    "name:zho_x_variant":[
+        "Ts\u2019ao-ti-wei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1666858
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"1ca3474dbab9c91572177da1523fc34e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1326932119,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1326932119,
+    "wof:lastmodified":1537708525,
+    "wof:name":"Caodiwei",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.60022,
+    25.00464,
+    121.60022,
+    25.00464
+],
+  "geometry": {"coordinates":[121.60021999999999,25.00464],"type":"Point"}
+}

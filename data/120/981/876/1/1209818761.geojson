@@ -1,0 +1,79 @@
+{
+  "id": 1209818761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.64333,23.16333,120.64333,23.16333",
+    "geom:latitude":23.16333,
+    "geom:longitude":120.64333,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E33",
+    "gn:admin4_code":"64000330007.0",
+    "gn:asciiname":"Xiaolin",
+    "gn:country_code":"TW",
+    "gn:dem":375,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1675605,
+    "gn:latitude":23.16333,
+    "gn:longitude":120.64333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiaolin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Siaolin",
+        "Xiaolin",
+        "Hsiao-lin"
+    ],
+    "name:zho_x_preferred":[
+        "\u5c0f\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675605,
+        "wk:page":"Siaolin_Village%2C_Kaohsiung"
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"bf709668b10951f0523a8fa34ac023e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209818761,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1209818761,
+    "wof:lastmodified":1537709147,
+    "wof:name":"Xiaolin",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.64333,
+    23.16333,
+    120.64333,
+    23.16333
+],
+  "geometry": {"coordinates":[120.64333000000001,23.16333],"type":"Point"}
+}

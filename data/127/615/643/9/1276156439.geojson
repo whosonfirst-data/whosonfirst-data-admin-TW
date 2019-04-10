@@ -1,0 +1,76 @@
+{
+  "id": 1276156439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.77278,23.66056,120.77278,23.66056",
+    "geom:latitude":23.66056,
+    "geom:longitude":120.77278,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M07",
+    "gn:admin4_code":"10008070005.0",
+    "gn:asciiname":"Neishupi",
+    "gn:country_code":"TW",
+    "gn:dem":1674,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602755,
+    "gn:latitude":23.66056,
+    "gn:longitude":120.77278,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Neishupi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5185\u6a39\u76ae"
+    ],
+    "name:zho_x_variant":[
+        "Nei-shu-p\u2019i"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679611,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6602755
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"cbb5c4a767c54116049dc707f121646b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276156439,
+            "macroregion_id":1108808557,
+            "region_id":85679611
+        }
+    ],
+    "wof:id":1276156439,
+    "wof:lastmodified":1537709668,
+    "wof:name":"Neishupi",
+    "wof:parent_id":85679611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.77278,
+    23.66056,
+    120.77278,
+    23.66056
+],
+  "geometry": {"coordinates":[120.77278,23.66056],"type":"Point"}
+}

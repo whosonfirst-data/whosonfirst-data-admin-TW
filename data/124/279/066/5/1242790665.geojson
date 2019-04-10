@@ -1,0 +1,76 @@
+{
+  "id": 1242790665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.755,23.15389,120.755,23.15389",
+    "geom:latitude":23.15389,
+    "geom:longitude":120.755,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E37",
+    "gn:admin4_code":"64000370001.0",
+    "gn:asciiname":"Shengou",
+    "gn:country_code":"TW",
+    "gn:dem":735,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6586602,
+    "gn:latitude":23.15389,
+    "gn:longitude":120.755,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shengou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shen-kou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6df1\u6e9d"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6586602
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"61e7574fe26850e98d2973c8d12591c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1242790665,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1242790665,
+    "wof:lastmodified":1537709566,
+    "wof:name":"Shengou",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.755,
+    23.15389,
+    120.755,
+    23.15389
+],
+  "geometry": {"coordinates":[120.755,23.15389],"type":"Point"}
+}

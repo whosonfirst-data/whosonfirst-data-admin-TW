@@ -1,0 +1,75 @@
+{
+  "id": 1343858537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.58333,24.01667,121.58333,24.01667",
+    "geom:latitude":24.01667,
+    "geom:longitude":121.58333,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U04",
+    "gn:admin4_code":"10015040005.0",
+    "gn:asciiname":"Zhongzheng",
+    "gn:country_code":"TW",
+    "gn:dem":26,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1677489,
+    "gn:latitude":24.01667,
+    "gn:longitude":121.58333,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhongzheng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Chung-cheng-she",
+        "Chung-cheng",
+        "Zhongzheng"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1677489
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"a218bdc2cdabce1c622837e3065a2956",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1343858537,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1343858537,
+    "wof:lastmodified":1537709299,
+    "wof:name":"Zhongzheng",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.58333,
+    24.01667,
+    121.58333,
+    24.01667
+],
+  "geometry": {"coordinates":[121.58333,24.01667],"type":"Point"}
+}

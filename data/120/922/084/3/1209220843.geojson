@@ -1,0 +1,74 @@
+{
+  "id": 1209220843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5487,24.19923,120.5487,24.19923",
+    "geom:latitude":24.19923,
+    "geom:longitude":120.5487,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B25",
+    "gn:admin4_code":"66000250011.0",
+    "gn:asciiname":"Longmujing",
+    "gn:country_code":"TW",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1672488,
+    "gn:latitude":24.19923,
+    "gn:longitude":120.5487,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Longmujing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lung-ching",
+        "Lung-ch\u2019\u00fcan-ts\u2019un",
+        "Lung-ch\u2019\u00fcan",
+        "Longmujing",
+        "Lung-mu-ching"
+    ],
+    "name:zho_x_preferred":[
+        "\u9f8d\u76ee\u4e95"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1672488
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5b0990ddfa36f84d8697b50035eac8a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209220843
+        }
+    ],
+    "wof:id":1209220843,
+    "wof:lastmodified":1537708908,
+    "wof:name":"Longmujing",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5487,
+    24.19923,
+    120.5487,
+    24.19923
+],
+  "geometry": {"coordinates":[120.5487,24.19923],"type":"Point"}
+}

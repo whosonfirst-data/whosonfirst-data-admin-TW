@@ -1,0 +1,73 @@
+{
+  "id": 1226747833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.56667,25.13333,121.56667,25.13333",
+    "geom:latitude":25.13333,
+    "geom:longitude":121.56667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TPE",
+    "gn:admin3_code":"A15",
+    "gn:admin4_code":"63000110047.0",
+    "gn:asciiname":"Fanzishukong",
+    "gn:country_code":"TW",
+    "gn:dem":469,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676729,
+    "gn:latitude":25.13333,
+    "gn:longitude":121.56667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Fanzishukong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Fan-tzu-shu-k\u2019ung"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679583,
+        1108808545
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1676729
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"8bda2d47a5369872ad1e1796e0c5c9db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226747833,
+            "macroregion_id":1108808545,
+            "region_id":85679583
+        }
+    ],
+    "wof:id":1226747833,
+    "wof:lastmodified":1537709236,
+    "wof:name":"Fanzishukong",
+    "wof:parent_id":85679583,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.56667,
+    25.13333,
+    121.56667,
+    25.13333
+],
+  "geometry": {"coordinates":[121.56667,25.13333],"type":"Point"}
+}

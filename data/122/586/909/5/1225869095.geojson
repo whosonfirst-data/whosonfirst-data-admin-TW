@@ -1,0 +1,82 @@
+{
+  "id": 1225869095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.6,24.38667,120.6,24.38667",
+    "geom:latitude":24.38667,
+    "geom:longitude":120.6,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B22",
+    "gn:admin4_code":"66000220008.0",
+    "gn:asciiname":"Xiada'an",
+    "gn:country_code":"TW",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1665270,
+    "gn:latitude":24.38667,
+    "gn:longitude":120.6,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xiada\u2019an",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Yung-an",
+        "Hsia-ta-an"
+    ],
+    "name:zho_x_preferred":[
+        "Yung-an-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u4e0b\u5927\u5b89",
+        "Siada\u2019an",
+        "Xiada\u2019an"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679617,
+        1108808551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1665270
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"d52026b47e275f8a3455b553b60e305d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1225869095,
+            "macroregion_id":1108808551,
+            "region_id":85679617
+        }
+    ],
+    "wof:id":1225869095,
+    "wof:lastmodified":1537708425,
+    "wof:name":"Xiada'an",
+    "wof:parent_id":85679617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.6,
+    24.38667,
+    120.6,
+    24.38667
+],
+  "geometry": {"coordinates":[120.59999999999999,24.38667],"type":"Point"}
+}

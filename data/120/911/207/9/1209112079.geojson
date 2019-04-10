@@ -1,0 +1,74 @@
+{
+  "id": 1209112079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.2675,22.99,120.2675,22.99",
+    "geom:latitude":22.99,
+    "geom:longitude":120.2675,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R27",
+    "gn:admin4_code":"67000270001.0",
+    "gn:asciiname":"Tujingzi",
+    "gn:country_code":"TW",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6601994,
+    "gn:latitude":22.99,
+    "gn:longitude":120.2675,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tujingzi",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tujingzih",
+        "Tujingzi"
+    ],
+    "name:zho_x_preferred":[
+        "\u571f\u4e95\u4ed4"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019u-ching-tzu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6601994
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"5972b60cf8bc118a4d3a48c6505b0afe",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209112079
+        }
+    ],
+    "wof:id":1209112079,
+    "wof:lastmodified":1537709650,
+    "wof:name":"Tujingzi",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.2675,
+    22.99,
+    120.2675,
+    22.99
+],
+  "geometry": {"coordinates":[120.2675,22.99],"type":"Point"}
+}

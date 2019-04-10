@@ -1,0 +1,76 @@
+{
+  "id": 1209112357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.57398,22.65092,120.57398,22.65092",
+    "geom:latitude":22.65092,
+    "geom:longitude":120.57398,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T13",
+    "gn:admin4_code":"10013130012.0",
+    "gn:asciiname":"Dahe",
+    "gn:country_code":"TW",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668483,
+    "gn:latitude":22.65092,
+    "gn:longitude":120.57398,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dahe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Ta-ho",
+        "\u5927\u548c",
+        "Dahe"
+    ],
+    "name:zho_x_preferred":[
+        "Ta-ho-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Ta-Hu-Ts\u2019un",
+        "\u5927\u548c"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668483
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"68bd18803316919af21cad2e7b0d3599",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209112357
+        }
+    ],
+    "wof:id":1209112357,
+    "wof:lastmodified":1537708630,
+    "wof:name":"Dahe",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.57398,
+    22.65092000000001,
+    120.57398,
+    22.65092000000001
+],
+  "geometry": {"coordinates":[120.57398000000001,22.65092000000001],"type":"Point"}
+}

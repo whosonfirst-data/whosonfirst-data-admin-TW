@@ -1,0 +1,82 @@
+{
+  "id": 1276340971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.31761,23.4078,121.31761,23.4078",
+    "geom:latitude":23.4078,
+    "geom:longitude":121.31761,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U13",
+    "gn:admin4_code":"10015130003.0",
+    "gn:asciiname":"Taiping",
+    "gn:country_code":"TW",
+    "gn:dem":125,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668334,
+    "gn:latitude":23.4078,
+    "gn:longitude":121.31761,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Taiping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "\u592a\u5e73",
+        "Taiping"
+    ],
+    "name:zho_x_preferred":[
+        "T\u2019ai-p\u2019ing-she"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ai-p\u2019ing",
+        "T\u2019a-pi-la",
+        "\u592a\u5e73"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668334
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"fee2a9815010e948c9c749c5919c28fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276340971,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1276340971,
+    "wof:lastmodified":1537708622,
+    "wof:name":"Taiping",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.31761000000002,
+    23.4078,
+    121.31761000000002,
+    23.4078
+],
+  "geometry": {"coordinates":[121.31761000000002,23.4078],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1193022235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.40329,23.50623,120.40329,23.50623",
+    "geom:latitude":23.50623,
+    "geom:longitude":120.40329,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q12",
+    "gn:admin4_code":"10010010016.0",
+    "gn:asciiname":"Xidiliao",
+    "gn:country_code":"TW",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6655049,
+    "gn:latitude":23.50623,
+    "gn:longitude":120.40329,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xidiliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sidiliao",
+        "Xidiliao",
+        "Hsi-ti-liao"
+    ],
+    "name:zho_x_preferred":[
+        "\u6eaa\u5e95\u5bee"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679603,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6655049
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b5feeb3ca47e6bbacbc329aa99ff80af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1193022235,
+            "macroregion_id":1108808557,
+            "region_id":85679603
+        }
+    ],
+    "wof:id":1193022235,
+    "wof:lastmodified":1537709850,
+    "wof:name":"Xidiliao",
+    "wof:parent_id":85679603,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.40328999999998,
+    23.50623,
+    120.40328999999998,
+    23.50623
+],
+  "geometry": {"coordinates":[120.40328999999998,23.50623],"type":"Point"}
+}

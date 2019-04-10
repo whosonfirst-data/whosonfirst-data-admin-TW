@@ -1,0 +1,76 @@
+{
+  "id": 1360009757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.12775,22.9991,121.12775,22.9991",
+    "geom:latitude":22.9991,
+    "geom:longitude":121.12775,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V13",
+    "gn:admin4_code":"10014120006.0",
+    "gn:asciiname":"Jiaping",
+    "gn:country_code":"TW",
+    "gn:dem":350,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6658222,
+    "gn:latitude":22.9991,
+    "gn:longitude":121.12775,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiaping",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u52a0\u5e73"
+    ],
+    "name:zho_x_variant":[
+        "Chia-p\u2019ing"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679623,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6658222
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"35a1e6828a8cd1c7cb3a68e75721f6da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360009757,
+            "macroregion_id":1108808557,
+            "region_id":85679623
+        }
+    ],
+    "wof:id":1360009757,
+    "wof:lastmodified":1537709895,
+    "wof:name":"Jiaping",
+    "wof:parent_id":85679623,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.12775,
+    22.9991,
+    121.12775,
+    22.9991
+],
+  "geometry": {"coordinates":[121.12775000000001,22.9991],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 890467593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.65,25.08333,121.65,25.08333",
+    "geom:latitude":25.08333,
+    "geom:longitude":121.65,
+    "gn:country":"TW",
+    "gn:fcode":"ADMD",
+    "gn:pop":0,
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Hsi-chih Shih"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c50\u6b62\u5e02"
+    ],
+    "qs:name":"Xizhi Shi",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"0",
+    "src:population":"geonames",
+    "wd:wordcount":161,
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1675392,
+        "qs:id":275115,
+        "wd:id":"Q24287568",
+        "wk:page":"Taipei County"
+    },
+    "wof:country":"TW",
+    "wof:created":1469053655,
+    "wof:geomhash":"590967fb1a4e81d2d256c66120cd3c2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "localadmin_id":890467593,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":890467593,
+    "wof:lastmodified":1527792892,
+    "wof:name":"Xizhi Shi",
+    "wof:parent_id":85679585,
+    "wof:placetype":"localadmin",
+    "wof:population":0,
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.65,
+    25.08333,
+    121.65,
+    25.08333
+],
+  "geometry": {"coordinates":[121.65000000000001,25.08333],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1293300365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.38537,24.94748,121.38537,24.94748",
+    "geom:latitude":24.94748,
+    "geom:longitude":121.38537,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F17",
+    "gn:admin4_code":"65000070024.0",
+    "gn:asciiname":"Nanyuan",
+    "gn:country_code":"TW",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653575,
+    "gn:latitude":24.94748,
+    "gn:longitude":121.38537,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Nanyuan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5357\u5712"
+    ],
+    "name:zho_x_variant":[
+        "Nan-y\u00fcan"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653575
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"4e8efb65526b2b0bd6080743e16134a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293300365,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1293300365,
+    "wof:lastmodified":1537709839,
+    "wof:name":"Nanyuan",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.38537,
+    24.94748,
+    121.38537,
+    24.94748
+],
+  "geometry": {"coordinates":[121.38536999999999,24.94748],"type":"Point"}
+}

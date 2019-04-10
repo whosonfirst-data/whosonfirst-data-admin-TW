@@ -1,0 +1,76 @@
+{
+  "id": 1276442701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.97112,24.65632,120.97112,24.65632",
+    "geom:latitude":24.65632,
+    "geom:longitude":120.97112,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K13",
+    "gn:admin4_code":"10005160001.0",
+    "gn:asciiname":"Shantangbei",
+    "gn:country_code":"TW",
+    "gn:dem":102,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6646141,
+    "gn:latitude":24.65632,
+    "gn:longitude":120.97112,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shantangbei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5c71\u5858\u80cc"
+    ],
+    "name:zho_x_variant":[
+        "Shan-t\u2019ang-pei"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679575,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6646141
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"74019abf789d022e842d090f7d197c27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1276442701,
+            "macroregion_id":1108808557,
+            "region_id":85679575
+        }
+    ],
+    "wof:id":1276442701,
+    "wof:lastmodified":1537709723,
+    "wof:name":"Shantangbei",
+    "wof:parent_id":85679575,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.97112,
+    24.65632,
+    120.97112,
+    24.65632
+],
+  "geometry": {"coordinates":[120.97112,24.65632],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1243369873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.63555,22.51627,120.63555,22.51627",
+    "geom:latitude":22.51627,
+    "geom:longitude":120.63555,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PIF",
+    "gn:admin3_code":"T30",
+    "gn:admin4_code":"10013300003.0",
+    "gn:asciiname":"Danlin",
+    "gn:country_code":"TW",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667995,
+    "gn:latitude":22.51627,
+    "gn:longitude":120.63555,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Danlin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tan-lin",
+        "\u4e39\u6797",
+        "Danlin",
+        "Tan-na-hsiu"
+    ],
+    "name:zho_x_preferred":[
+        "T\u2019a-na-hsiu"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019a-na-hsiu-she",
+        "Tan-lin-ts\u2019un",
+        "\u4e39\u6797"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679549,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1667995
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9e26f538c9575d53e85b8ba02dcc0560",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1243369873,
+            "macroregion_id":1108808557,
+            "region_id":85679549
+        }
+    ],
+    "wof:id":1243369873,
+    "wof:lastmodified":1537708603,
+    "wof:name":"Danlin",
+    "wof:parent_id":85679549,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.63555,
+    22.51627,
+    120.63555,
+    22.51627
+],
+  "geometry": {"coordinates":[120.63554999999999,22.51627],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 1309718023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.40897,23.65576,121.40897,23.65576",
+    "geom:latitude":23.65576,
+    "geom:longitude":121.40897,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U02",
+    "gn:admin4_code":"10015070007.0",
+    "gn:asciiname":"Shuiguangtou",
+    "gn:country_code":"TW",
+    "gn:dem":127,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668887,
+    "gn:latitude":23.65576,
+    "gn:longitude":121.40897,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuiguangtou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shueiguangtou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c34\u5ee3\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Shui-y\u00fcan-t\u2019i",
+        "Shui-y\u00fcan-t\u2019ou",
+        "Shui-kuang-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679607,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1668887
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"0126ee367631cf45e5bb5014ae46e1c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1309718023,
+            "macroregion_id":1108808557,
+            "region_id":85679607
+        }
+    ],
+    "wof:id":1309718023,
+    "wof:lastmodified":1537708661,
+    "wof:name":"Shuiguangtou",
+    "wof:parent_id":85679607,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.40897,
+    23.65576,
+    121.40897,
+    23.65576
+],
+  "geometry": {"coordinates":[121.40897,23.65576],"type":"Point"}
+}

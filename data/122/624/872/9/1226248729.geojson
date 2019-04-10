@@ -1,0 +1,80 @@
+{
+  "id": 1226248729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.34719,24.80322,121.34719,24.80322",
+    "geom:latitude":24.80322,
+    "geom:longitude":121.34719,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TAO",
+    "gn:admin3_code":"H13",
+    "gn:admin4_code":"68000130002.0",
+    "gn:asciiname":"Xikoutai",
+    "gn:country_code":"TW",
+    "gn:dem":380,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6653480,
+    "gn:latitude":24.80322,
+    "gn:longitude":121.34719,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xikoutai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Sikoutai",
+        "Xikoutai"
+    ],
+    "name:zho_x_preferred":[
+        "\u6eaa\u53e3\u81fa"
+    ],
+    "name:zho_x_variant":[
+        "Hsi-k\u2019ou-t\u2019ai"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679589,
+        1108808543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6653480
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"79f948c9cd7c87276548e87350643f42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1226248729,
+            "macroregion_id":1108808543,
+            "region_id":85679589
+        }
+    ],
+    "wof:id":1226248729,
+    "wof:lastmodified":1537709832,
+    "wof:name":"Xikoutai",
+    "wof:parent_id":85679589,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.34719,
+    24.80322,
+    121.34719,
+    24.80322
+],
+  "geometry": {"coordinates":[121.34719,24.80322],"type":"Point"}
+}

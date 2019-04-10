@@ -1,0 +1,74 @@
+{
+  "id": 1209215721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.5319,24.15464,120.5319,24.15464",
+    "geom:latitude":24.15464,
+    "geom:longitude":120.5319,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TXG",
+    "gn:admin3_code":"B24",
+    "gn:admin4_code":"66000240011.0",
+    "gn:asciiname":"Bianzitou",
+    "gn:country_code":"TW",
+    "gn:dem":12,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670585,
+    "gn:latitude":24.15464,
+    "gn:longitude":120.5319,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Bianzitou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Bianzihtou",
+        "Pien-tzu-t\u2019ou"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c74\u5b50\u982d"
+    ],
+    "name:zho_x_variant":[
+        "Pien-tzu-t\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1670585
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"b867b6d89ee37189ae6c87d74727ccd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209215721
+        }
+    ],
+    "wof:id":1209215721,
+    "wof:lastmodified":1537708791,
+    "wof:name":"Bianzitou",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.5319,
+    24.15464,
+    120.5319,
+    24.15464
+],
+  "geometry": {"coordinates":[120.53189999999999,24.15464],"type":"Point"}
+}

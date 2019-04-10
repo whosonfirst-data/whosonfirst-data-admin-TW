@@ -1,0 +1,76 @@
+{
+  "id": 1209818391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.45083,22.93639,120.45083,22.93639",
+    "geom:latitude":22.93639,
+    "geom:longitude":120.45083,
+    "gn:admin1_code":"2.0",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E35",
+    "gn:admin4_code":"64000350018.0",
+    "gn:asciiname":"Dacaobu",
+    "gn:country_code":"TW",
+    "gn:dem":79,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6600975,
+    "gn:latitude":22.93639,
+    "gn:longitude":120.45083,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dacaobu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u5927\u8349\u57d4"
+    ],
+    "name:zho_x_variant":[
+        "Ta-ts\u2019ao-pu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679547,
+        1108808547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6600975
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"9b1e22690f2112399d925c906a9c6ed0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1209818391,
+            "macroregion_id":1108808547,
+            "region_id":85679547
+        }
+    ],
+    "wof:id":1209818391,
+    "wof:lastmodified":1537709635,
+    "wof:name":"Dacaobu",
+    "wof:parent_id":85679547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.45083,
+    22.93639,
+    120.45083,
+    22.93639
+],
+  "geometry": {"coordinates":[120.45083,22.93639],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209338585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.98386,23.95991,120.98386,23.95991",
+    "geom:latitude":23.95991,
+    "geom:longitude":120.98386,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M02",
+    "gn:admin4_code":"10008020010.0",
+    "gn:asciiname":"Wentougu",
+    "gn:country_code":"TW",
+    "gn:dem":448,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6649207,
+    "gn:latitude":23.95991,
+    "gn:longitude":120.98386,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wentougu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Wuntougu",
+        "Wentougu"
+    ],
+    "name:zho_x_preferred":[
+        "\u6587\u982d\u80a1"
+    ],
+    "name:zho_x_variant":[
+        "Wen-t\u2019ou-ku"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6649207
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"39f582ee72fde3c5f14c3d4ba4f7570e",
+    "wof:hierarchy":[
+        {
+            "country_id":85632403,
+            "locality_id":1209338585
+        }
+    ],
+    "wof:id":1209338585,
+    "wof:lastmodified":1537709782,
+    "wof:name":"Wentougu",
+    "wof:parent_id":85632403,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.98386,
+    23.95991,
+    120.98386,
+    23.95991
+],
+  "geometry": {"coordinates":[120.98386000000001,23.95991],"type":"Point"}
+}

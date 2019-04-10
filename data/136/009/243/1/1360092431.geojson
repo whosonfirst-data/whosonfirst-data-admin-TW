@@ -1,0 +1,78 @@
+{
+  "id": 1360092431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"121.95929,25.00377,121.95929,25.00377",
+    "geom:latitude":25.00377,
+    "geom:longitude":121.95929,
+    "gn:admin1_code":"3.0",
+    "gn:admin2_code":"TPQ",
+    "gn:admin3_code":"F24",
+    "gn:admin4_code":"65000260006.0",
+    "gn:asciiname":"Wailonglinjie",
+    "gn:country_code":"TW",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6647398,
+    "gn:latitude":25.00377,
+    "gn:longitude":121.95929,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Wailonglinjie",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lung-lung",
+        "Wailonglinjie",
+        "Wai-lung-lin-chieh"
+    ],
+    "name:zho_x_preferred":[
+        "\u5916\u5d90\u6797\u8857"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679585,
+        1108808549
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6647398
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"41e54c01bf01a27ca85fd6ebad0eba2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1360092431,
+            "macroregion_id":1108808549,
+            "region_id":85679585
+        }
+    ],
+    "wof:id":1360092431,
+    "wof:lastmodified":1537709760,
+    "wof:name":"Wailonglinjie",
+    "wof:parent_id":85679585,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    121.95929,
+    25.00377000000001,
+    121.95929,
+    25.00377000000001
+],
+  "geometry": {"coordinates":[121.95929,25.00377000000001],"type":"Point"}
+}

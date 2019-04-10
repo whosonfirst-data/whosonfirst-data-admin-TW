@@ -1,0 +1,76 @@
+{
+  "id": 1293299011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"120.20667,23.6375,120.20667,23.6375",
+    "geom:latitude":23.6375,
+    "geom:longitude":120.20667,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P18",
+    "gn:admin4_code":"10009180012.0",
+    "gn:asciiname":"Dongyangchou",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1896612,
+    "gn:latitude":23.6375,
+    "gn:longitude":120.20667,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dongyangchou",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
+    "iso:country":"TW",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:zho_x_preferred":[
+        "\u6771\u7f8a\u7a20"
+    ],
+    "name:zho_x_variant":[
+        "Tung-yang-ch\u2019ou"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632403,
+        85679619,
+        1108808557
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":1896612
+    },
+    "wof:country":"TW",
+    "wof:geomhash":"3831fc84efb15e6f22ecd1c2cb43e184",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632403,
+            "locality_id":1293299011,
+            "macroregion_id":1108808557,
+            "region_id":85679619
+        }
+    ],
+    "wof:id":1293299011,
+    "wof:lastmodified":1537709428,
+    "wof:name":"Dongyangchou",
+    "wof:parent_id":85679619,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    120.20667,
+    23.6375,
+    120.20667,
+    23.6375
+],
+  "geometry": {"coordinates":[120.20667,23.6375],"type":"Point"}
+}
