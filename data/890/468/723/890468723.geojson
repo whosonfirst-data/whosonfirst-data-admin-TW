@@ -22,12 +22,18 @@
         "Landkreis Yunlin"
     ],
     "name:eng_x_preferred":[
+        "Yunlin"
+    ],
+    "name:eng_x_variant":[
         "Yunlin County"
     ],
     "name:eus_x_preferred":[
         "Yunlin konderria"
     ],
     "name:fra_x_preferred":[
+        "Comt\u00e9 de Yunlin"
+    ],
+    "name:fre_x_preferred":[
         "Comt\u00e9 de Yunlin"
     ],
     "name:gan_x_preferred":[
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":890468723,
-    "wof:lastmodified":1527792968,
+    "wof:lastmodified":1555220351,
     "wof:name":"Yunlin",
     "wof:parent_id":1108498757,
     "wof:placetype":"county",

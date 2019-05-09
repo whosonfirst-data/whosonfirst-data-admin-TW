@@ -13,6 +13,7 @@
     "gp:adm0":23424971,
     "iso:country":"TW",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "qs:name":"\u6771\u77f3\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5609\u7fa9\u7e23",
@@ -36,7 +37,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053850,
-    "wof:geomhash":"5279c95171a6155cb7e39037079b613c",
+    "wof:geomhash":"4a93e5582b9a4baebf0257b1d17471f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -46,7 +47,7 @@
         }
     ],
     "wof:id":890471291,
-    "wof:lastmodified":1469053850,
+    "wof:lastmodified":1554413769,
     "wof:name":"\u6771\u77f3\u9109",
     "wof:parent_id":85679599,
     "wof:placetype":"county",

@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "name:eng_x_preferred":[
+        "Kinmen"
+    ],
+    "name:eng_x_variant":[
         "Kinmen County"
     ],
     "name:kor_x_preferred":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890467577,
-    "wof:lastmodified":1527792901,
+    "wof:lastmodified":1555220351,
     "wof:name":"Kinmen",
     "wof:parent_id":1108497279,
     "wof:placetype":"county",
