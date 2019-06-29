@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000276,
-    "geom:area_square_m":3129311.112946,
+    "geom:area_square_m":3129311.112944,
     "geom:bbox":"121.306751005,23.3180949987,121.326305692,23.336153308",
     "geom:latitude":23.327124,
     "geom:longitude":121.316528,
@@ -18,9 +18,6 @@
     "mps:longitude":121.316528,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u7389\u91cc\u93ae"
-    ],
     "name:eng_x_preferred":[
         "Yuli"
     ],
@@ -49,7 +46,8 @@
         "Y\u00fc-Li-Ch\u2019en"
     ],
     "name:zho_x_variant":[
-        "Y\u00fc-li"
+        "Y\u00fc-li",
+        "\u7389\u91cc\u93ae"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -88,7 +86,7 @@
         }
     ],
     "wof:id":102026599,
-    "wof:lastmodified":1527637810,
+    "wof:lastmodified":1561775203,
     "wof:name":"Yuli",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

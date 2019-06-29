@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003591,
-    "geom:area_square_m":40928566.649793,
+    "geom:area_square_m":40928566.649812,
     "geom:bbox":"121.076079415,22.7418258433,121.172475764,23.0533812936",
     "geom:latitude":22.823152,
     "geom:longitude":121.124736,
@@ -25,17 +25,11 @@
     "name:ces_x_preferred":[
         "Tchaj-tung"
     ],
-    "name:chi_x_preferred":[
-        "\u81fa\u6771\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Tchaj-tung"
-    ],
     "name:deu_x_preferred":[
         "Taitung"
     ],
-    "name:dut_x_preferred":[
-        "Taitung"
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03ca\u03c4\u03bf\u03cd\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Taitung City"
@@ -46,14 +40,8 @@
     "name:fra_x_preferred":[
         "Ta\u00eftung"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Taitung"
-    ],
-    "name:ger_x_preferred":[
-        "Taitung"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03ca\u03c4\u03bf\u03cd\u03bd\u03b3\u03ba"
     ],
     "name:hak_x_preferred":[
         "Th\u00f2i-t\u00fbng-s\u1e73"
@@ -81,9 +69,6 @@
     ],
     "name:nld_x_variant":[
         "T\u00e1idong"
-    ],
-    "name:per_x_preferred":[
-        "\u062a\u0627\u06cc\u062a\u0648\u0646\u06af"
     ],
     "name:pol_x_preferred":[
         "Taidong"
@@ -150,7 +135,7 @@
         }
     ],
     "wof:id":102026785,
-    "wof:lastmodified":1527637809,
+    "wof:lastmodified":1561775203,
     "wof:name":"Taitung City",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

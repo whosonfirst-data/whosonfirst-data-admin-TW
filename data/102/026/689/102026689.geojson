@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002456,
-    "geom:area_square_m":27633108.036709,
+    "geom:area_square_m":27633108.036706,
     "geom:bbox":"120.801290148,24.3730983403,121.007797054,24.6111006655",
     "geom:latitude":24.526803,
     "geom:longitude":120.865847,
@@ -22,16 +22,7 @@
     "name:ces_x_preferred":[
         "Miao-li"
     ],
-    "name:chi_x_preferred":[
-        "\u82d7\u6817\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Miao-li"
-    ],
     "name:deu_x_preferred":[
-        "Miaoli"
-    ],
-    "name:dut_x_preferred":[
         "Miaoli"
     ],
     "name:eng_x_preferred":[
@@ -41,12 +32,6 @@
         "\u0645\u06cc\u0627\u0626\u0648\u0644\u06cc"
     ],
     "name:fra_x_preferred":[
-        "Miaoli"
-    ],
-    "name:fre_x_preferred":[
-        "Miaoli"
-    ],
-    "name:ger_x_preferred":[
         "Miaoli"
     ],
     "name:hak_x_preferred":[
@@ -69,9 +54,6 @@
     ],
     "name:nld_x_preferred":[
         "Miaoli"
-    ],
-    "name:per_x_preferred":[
-        "\u0645\u06cc\u0627\u0626\u0648\u0644\u06cc"
     ],
     "name:pol_x_preferred":[
         "Miaoli"
@@ -227,7 +209,7 @@
         }
     ],
     "wof:id":102026689,
-    "wof:lastmodified":1514507878,
+    "wof:lastmodified":1561775202,
     "wof:name":"Miaoli",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

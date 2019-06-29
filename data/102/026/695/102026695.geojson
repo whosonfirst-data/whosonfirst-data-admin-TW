@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000523,
-    "geom:area_square_m":5904152.112202,
+    "geom:area_square_m":5904152.1122,
     "geom:bbox":"120.4168093,24.042457085,120.447447921,24.0705354028",
     "geom:latitude":24.056497,
     "geom:longitude":120.432129,
@@ -18,9 +18,6 @@
     "mps:longitude":120.427241,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u9e7f\u6e2f\u93ae"
-    ],
     "name:deu_x_preferred":[
         "Lukang"
     ],
@@ -28,12 +25,6 @@
         "Lukang"
     ],
     "name:fra_x_preferred":[
-        "Lukang"
-    ],
-    "name:fre_x_preferred":[
-        "Lukang"
-    ],
-    "name:ger_x_preferred":[
         "Lukang"
     ],
     "name:hak_x_preferred":[
@@ -113,7 +104,7 @@
         }
     ],
     "wof:id":102026695,
-    "wof:lastmodified":1527637808,
+    "wof:lastmodified":1561775202,
     "wof:name":"Lugang",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

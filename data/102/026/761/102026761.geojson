@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000277,
-    "geom:area_square_m":3126347.278975,
+    "geom:area_square_m":3126347.278978,
     "geom:bbox":"120.526670218,24.0725503779,120.546327913,24.0905979889",
     "geom:latitude":24.081574,
     "geom:longitude":120.536499,
@@ -22,16 +22,7 @@
     "name:ces_x_preferred":[
         "\u010cang-chua"
     ],
-    "name:chi_x_preferred":[
-        "\u5f70\u5316\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "\u010cang-chua"
-    ],
     "name:deu_x_preferred":[
-        "Changhua"
-    ],
-    "name:dut_x_preferred":[
         "Changhua"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +35,6 @@
         "Changhua"
     ],
     "name:fra_x_preferred":[
-        "Changhua"
-    ],
-    "name:fre_x_preferred":[
-        "Changhua"
-    ],
-    "name:ger_x_preferred":[
         "Changhua"
     ],
     "name:hak_x_preferred":[
@@ -72,9 +57,6 @@
     ],
     "name:nld_x_preferred":[
         "Changhua"
-    ],
-    "name:per_x_preferred":[
-        "\u0686\u0627\u0646\u06af\u0648\u0627"
     ],
     "name:pol_x_preferred":[
         "Zhanghua"
@@ -107,7 +89,6 @@
         "\u5f70\u5316\u5e02"
     ],
     "name:zho_x_variant":[
-        "\u5f70\u5316\u5e02",
         "\u5f70\u5316"
     ],
     "ne:ADM0CAP":0.0,
@@ -243,7 +224,7 @@
         }
     ],
     "wof:id":102026761,
-    "wof:lastmodified":1514507650,
+    "wof:lastmodified":1561775203,
     "wof:name":"Chang-hua",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

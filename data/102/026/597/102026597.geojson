@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001281,
-    "geom:area_square_m":14505876.388709,
+    "geom:area_square_m":14505876.388728,
     "geom:bbox":"120.515713522,23.670719071,120.568270429,23.7189483144",
     "geom:latitude":23.695528,
     "geom:longitude":120.541235,
@@ -23,16 +23,7 @@
     "name:ces_x_preferred":[
         "Tou-liou"
     ],
-    "name:chi_x_preferred":[
-        "\u6597\u516d\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Tou-liou"
-    ],
     "name:deu_x_preferred":[
-        "Douliu"
-    ],
-    "name:dut_x_preferred":[
         "Douliu"
     ],
     "name:eng_x_preferred":[
@@ -47,11 +38,8 @@
     "name:fas_x_preferred":[
         "\u062f\u0648\u0644\u06cc\u0648"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Touliu"
-    ],
-    "name:ger_x_preferred":[
-        "Douliu"
     ],
     "name:hak_x_preferred":[
         "T\u00e9u-liuk-s\u1e73"
@@ -76,9 +64,6 @@
     ],
     "name:nld_x_variant":[
         "D\u01d2uli\u00f9"
-    ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u0644\u06cc\u0648"
     ],
     "name:pol_x_preferred":[
         "Douliu"
@@ -105,7 +90,6 @@
         "\u6597\u516d\u5e02"
     ],
     "name:zho_x_variant":[
-        "\u6597\u516d\u5e02",
         "\u6597\u516d",
         "Y\u00fcn-lin"
     ],
@@ -249,7 +233,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637811,
+    "wof:lastmodified":1561775203,
     "wof:name":"Douliu",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

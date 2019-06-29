@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01644,
-    "geom:area_square_m":185036527.693143,
+    "geom:area_square_m":185036527.693205,
     "geom:bbox":"118.14367476,24.160258066,119.479206155,24.999616759",
     "geom:latitude":24.461459,
     "geom:longitude":118.377977,
@@ -34,9 +34,6 @@
     "name:aze_x_preferred":[
         "Szinm\u0131nsyundao"
     ],
-    "name:baq_x_preferred":[
-        "Kinmen"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09cb\u09af\u09bc\u09c7\u09ae\u09af\u09bc"
     ],
@@ -46,17 +43,17 @@
     "name:cdo_x_preferred":[
         "G\u012dng-mu\u00f2ng"
     ],
-    "name:chi_x_preferred":[
-        "\u91d1\u9580\u7e23"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Okres \u0164in-men"
     ],
     "name:dan_x_preferred":[
         "Kinmen"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Kinmen"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03af\u03bd\u03bc\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Kinmen"
@@ -64,17 +61,17 @@
     "name:est_x_preferred":[
         "Jinmen"
     ],
+    "name:eus_x_preferred":[
+        "Kinmen"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u06cc\u0646\u0645\u0646"
+    ],
     "name:fin_x_preferred":[
         "Kinmen"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Jinmen"
-    ],
-    "name:ger_x_preferred":[
-        "Kinmen"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03af\u03bd\u03bc\u03b5\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0abf\u0aa8\u0aae\u0ac7\u0aa8"
@@ -121,23 +118,23 @@
     "name:mar_x_preferred":[
         "\u0915\u093f\u092e\u0947\u0928"
     ],
-    "name:may_x_preferred":[
-        "Kinmen"
-    ],
     "name:mon_x_preferred":[
         "\u0416\u0438\u043d\u044c\u043c\u044d\u043d\u044c"
     ],
+    "name:msa_x_preferred":[
+        "Kinmen"
+    ],
     "name:nan_x_preferred":[
         "Kim-mn\u0302g-ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Kinmen"
     ],
     "name:nob_x_preferred":[
         "Kinmen"
     ],
     "name:oci_x_preferred":[
         "Kinmen"
-    ],
-    "name:per_x_preferred":[
-        "\u06a9\u06cc\u0646\u0645\u0646"
     ],
     "name:pol_x_preferred":[
         "Kinmen"
@@ -187,6 +184,9 @@
     "name:yue_x_preferred":[
         "\u91d1\u9580"
     ],
+    "name:zho_x_preferred":[
+        "\u91d1\u9580\u7e23"
+    ],
     "src:geom":"meso",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -213,7 +213,7 @@
         }
     ],
     "wof:id":1108497279,
-    "wof:lastmodified":1514507865,
+    "wof:lastmodified":1561775297,
     "wof:name":"Kinmen",
     "wof:parent_id":85679635,
     "wof:placetype":"macrocounty",

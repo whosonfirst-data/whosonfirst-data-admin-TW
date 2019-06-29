@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.125936,
-    "geom:area_square_m":1414962031.148056,
+    "geom:area_square_m":1414962031.143672,
     "geom:bbox":"120.925221256,24.427375744,121.412322907,24.946389104",
     "geom:latitude":24.68109,
     "geom:longitude":121.163529,
@@ -30,41 +30,35 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0647\u0633\u064a\u0646\u0634\u0648"
     ],
-    "name:baq_x_preferred":[
-        "Hsinchu konderria"
-    ],
     "name:ben_x_preferred":[
         "\u09b9\u09c7\u09b8\u09bf\u09a8\u099a\u09c1 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
     "name:cdo_x_preferred":[
         "S\u012dng-d\u00e9\u0324\u1e73k"
     ],
-    "name:chi_x_preferred":[
-        "\u65b0\u7af9\u7e23"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Okres Sin-\u010du"
     ],
     "name:dan_x_preferred":[
         "Hsinchu County"
     ],
-    "name:dut_x_preferred":[
-        "Hsinchu"
+    "name:deu_x_preferred":[
+        "Landkreis Hsinchu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03c3\u03af\u03bd\u03c4\u03c3\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Hsinchu County"
     ],
+    "name:eus_x_preferred":[
+        "Hsinchu konderria"
+    ],
     "name:fin_x_preferred":[
         "Hsinchun kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Comt\u00e9 de Hsinchu"
-    ],
-    "name:ger_x_preferred":[
-        "Landkreis Hsinchu"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a7\u03c3\u03af\u03bd\u03c4\u03c3\u03bf\u03c5"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0aa8\u0acd\u0a9a\u0ac1 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -102,14 +96,17 @@
     "name:mar_x_preferred":[
         "\u0938\u093f\u0902\u091a\u0942 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
-        "Hsinchu County"
-    ],
     "name:mon_x_preferred":[
         "\u0428\u0438\u043d\u044c\u0436\u04af \u0448\u044f\u043d\u044c"
     ],
+    "name:msa_x_preferred":[
+        "Hsinchu County"
+    ],
     "name:nan_x_preferred":[
         "Sin-tek-ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Hsinchu"
     ],
     "name:nob_x_preferred":[
         "Hsinchu Fylke"
@@ -159,6 +156,9 @@
     "name:yue_x_preferred":[
         "\u65b0\u7af9\u7e23"
     ],
+    "name:zho_x_preferred":[
+        "\u65b0\u7af9\u7e23"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -185,7 +185,7 @@
         }
     ],
     "wof:id":1108756867,
-    "wof:lastmodified":1553816508,
+    "wof:lastmodified":1561775280,
     "wof:name":"Hsinchu",
     "wof:parent_id":85679563,
     "wof:placetype":"macrocounty",

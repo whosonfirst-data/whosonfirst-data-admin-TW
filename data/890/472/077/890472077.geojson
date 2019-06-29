@@ -19,23 +19,20 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u063a\u0648\u0646\u063a"
     ],
-    "name:chi_x_preferred":[
-        "\u99ac\u516c\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Ma-kung"
     ],
-    "name:dut_x_preferred":[
-        "Magong"
+    "name:deu_x_preferred":[
+        "Makung"
     ],
     "name:eng_x_preferred":[
         "Magong"
     ],
-    "name:fre_x_preferred":[
-        "Magong"
+    "name:fas_x_preferred":[
+        "\u0645\u0627\u06af\u0648\u0646\u06af"
     ],
-    "name:ger_x_preferred":[
-        "Makung"
+    "name:fra_x_preferred":[
+        "Magong"
     ],
     "name:hak_x_preferred":[
         "M\u00e2-k\u00fbng-s\u1e73"
@@ -55,8 +52,8 @@
     "name:nan_x_preferred":[
         "M\u00e1-keng-chh\u012b"
     ],
-    "name:per_x_preferred":[
-        "\u0645\u0627\u06af\u0648\u0646\u06af"
+    "name:nld_x_preferred":[
+        "Magong"
     ],
     "name:pol_x_preferred":[
         "Magong"
@@ -75,6 +72,9 @@
     ],
     "name:vie_x_preferred":[
         "M\u00e3 C\u00f4ng"
+    ],
+    "name:zho_x_preferred":[
+        "\u99ac\u516c\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Taiwan",
@@ -200,7 +200,7 @@
         }
     ],
     "wof:id":890472077,
-    "wof:lastmodified":1527790280,
+    "wof:lastmodified":1561775321,
     "wof:name":"Ma-kung",
     "wof:parent_id":85679627,
     "wof:placetype":"locality",

@@ -25,13 +25,10 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
-    "name:chi_x_preferred":[
-        "\u5c4f\u6771\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Pching-tung"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Pingtung"
     ],
     "name:eng_x_preferred":[
@@ -46,10 +43,10 @@
     "name:epo_x_preferred":[
         "Ping Tung"
     ],
-    "name:fre_x_preferred":[
-        "Pingtung"
+    "name:fas_x_preferred":[
+        "\u067e\u06cc\u0646\u06af\u062a\u0648\u0646\u06af"
     ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Pingtung"
     ],
     "name:hak_x_preferred":[
@@ -73,8 +70,8 @@
     "name:nan_x_preferred":[
         "P\u00een-tong-chh\u012b"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u06cc\u0646\u06af\u062a\u0648\u0646\u06af"
+    "name:nld_x_preferred":[
+        "Pingtung"
     ],
     "name:pol_x_preferred":[
         "Pingdong"
@@ -92,7 +89,8 @@
         "\u5c4f\u6771\u7e23"
     ],
     "name:zho_x_variant":[
-        "\u5c4f\u6771"
+        "\u5c4f\u6771",
+        "\u5c4f\u6771\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TWN",
@@ -215,7 +213,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1553550605,
+    "wof:lastmodified":1561775235,
     "wof:name":"Pingtung",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

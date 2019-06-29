@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.315228,
-    "geom:area_square_m":3591582278.538596,
+    "geom:area_square_m":3591582278.537906,
     "geom:bbox":"120.739052031,21.942511678,121.616400996,23.443813754",
     "geom:latitude":22.863038,
     "geom:longitude":121.041579,
@@ -31,9 +31,6 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u062a\u0627\u064a\u062a\u0648\u0646\u063a"
     ],
-    "name:baq_x_preferred":[
-        "Taitung konderria"
-    ],
     "name:ben_x_preferred":[
         "\u099f\u09be\u0987\u099f\u09c1\u0982 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
@@ -43,17 +40,17 @@
     "name:cdo_x_preferred":[
         "D\u00e0i-d\u0115\u0324ng"
     ],
-    "name:chi_x_preferred":[
-        "\u81fa\u6771\u7e23"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Okres Tchaj-tung"
     ],
     "name:dan_x_preferred":[
         "Taitung County"
     ],
-    "name:dut_x_preferred":[
-        "Taitung"
+    "name:deu_x_preferred":[
+        "Landkreis Taitung"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03ca\u03c4\u03bf\u03cd\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Taitung County"
@@ -61,17 +58,14 @@
     "name:eng_x_variant":[
         "Taitung"
     ],
+    "name:eus_x_preferred":[
+        "Taitung konderria"
+    ],
     "name:fin_x_preferred":[
         "Taitungn kunta"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Comt\u00e9 de Taitung"
-    ],
-    "name:ger_x_preferred":[
-        "Landkreis Taitung"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03b1\u03ca\u03c4\u03bf\u03cd\u03bd\u03b3\u03ba"
     ],
     "name:guj_x_preferred":[
         "\u0aa4\u0ac8\u0aa4\u0ac1\u0a82\u0a97 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -109,14 +103,17 @@
     "name:mar_x_preferred":[
         "\u0924\u093e\u092f\u0924\u0941\u0917 \u0915\u093e\u0909\u0902\u091f\u0940"
     ],
-    "name:may_x_preferred":[
-        "Taitung County"
-    ],
     "name:mon_x_preferred":[
         "\u0422\u0430\u0439\u0434\u0443\u043d"
     ],
+    "name:msa_x_preferred":[
+        "Taitung County"
+    ],
     "name:nan_x_preferred":[
         "T\u00e2i-tang-ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Taitung"
     ],
     "name:nob_x_preferred":[
         "Taitung Fylke"
@@ -166,6 +163,9 @@
     "name:yue_x_preferred":[
         "\u81fa\u6771\u7e23"
     ],
+    "name:zho_x_preferred":[
+        "\u81fa\u6771\u7e23"
+    ],
     "src:geom":"meso",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -192,7 +192,7 @@
         }
     ],
     "wof:id":1108499511,
-    "wof:lastmodified":1553816451,
+    "wof:lastmodified":1561775292,
     "wof:name":"Taitung",
     "wof:parent_id":85679623,
     "wof:placetype":"macrocounty",

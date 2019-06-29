@@ -17,17 +17,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0648\u0632\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u6734\u5b50\u5e02"
+    "name:deu_x_preferred":[
+        "Puzih"
     ],
     "name:eng_x_preferred":[
         "Puzi"
     ],
-    "name:fre_x_preferred":[
-        "Puzi"
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0632\u06cc"
     ],
-    "name:ger_x_preferred":[
-        "Puzih"
+    "name:fra_x_preferred":[
+        "Puzi"
     ],
     "name:hak_x_preferred":[
         "Ph\u00fa-ch\u1e73\u0301-s\u1e73"
@@ -44,9 +44,6 @@
     "name:nan_x_preferred":[
         "Phoh-ch\u00fa-chh\u012b"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u0648\u0632\u06cc"
-    ],
     "name:pol_x_preferred":[
         "Pozi"
     ],
@@ -58,6 +55,9 @@
     ],
     "name:vie_x_preferred":[
         "Ph\u00e1c T\u1eed"
+    ],
+    "name:zho_x_preferred":[
+        "\u6734\u5b50\u5e02"
     ],
     "ne:ADM0CAP":0.0,
     "ne:ADM0NAME":"Taiwan",
@@ -178,7 +178,7 @@
         }
     ],
     "wof:id":1141906821,
-    "wof:lastmodified":1514508084,
+    "wof:lastmodified":1561775373,
     "wof:name":"Puzi",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

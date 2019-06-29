@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000877,
-    "geom:area_square_m":9830501.875633,
+    "geom:area_square_m":9830501.875629,
     "geom:bbox":"121.207750273,24.9421726716,121.249525298,24.9701868883",
     "geom:latitude":24.954442,
     "geom:longitude":121.229451,
@@ -22,10 +22,7 @@
     "name:ara_x_preferred":[
         "\u0632\u0648\u0646\u063a\u0644\u064a"
     ],
-    "name:chi_x_preferred":[
-        "\u4e2d\u58e2\u5340"
-    ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Zhongli"
     ],
     "name:eng_x_preferred":[
@@ -34,10 +31,7 @@
     "name:fra_x_preferred":[
         "Chungli"
     ],
-    "name:fre_x_preferred":[
-        "Zhongli"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_variant":[
         "Zhongli"
     ],
     "name:hak_x_preferred":[
@@ -60,6 +54,9 @@
     ],
     "name:nan_x_preferred":[
         "Tiong-le\u030dk-khu"
+    ],
+    "name:nld_x_preferred":[
+        "Zhongli"
     ],
     "name:pol_x_preferred":[
         "Zhongli"
@@ -217,7 +214,7 @@
         }
     ],
     "wof:id":102026747,
-    "wof:lastmodified":1514508345,
+    "wof:lastmodified":1561775202,
     "wof:name":"Zhongli",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

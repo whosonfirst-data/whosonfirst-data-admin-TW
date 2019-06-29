@@ -22,16 +22,13 @@
     "name:cdo_x_preferred":[
         "Li\u00e8ng-g\u014fng-g\u00e2ing"
     ],
-    "name:chi_x_preferred":[
-        "\u9023\u6c5f\u7e23"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Okres Lien-\u0165iang"
     ],
     "name:eng_x_preferred":[
         "Fukien"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "comt\u00e9 de Lienchiang"
     ],
     "name:hak_x_preferred":[
@@ -53,6 +50,9 @@
         "\u9023\u6c5f\u7e23"
     ],
     "name:yue_x_preferred":[
+        "\u9023\u6c5f\u7e23"
+    ],
+    "name:zho_x_preferred":[
         "\u9023\u6c5f\u7e23"
     ],
     "src:geom":"meso",
@@ -97,7 +97,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1536615854,
+    "wof:lastmodified":1561775278,
     "wof:name":"Fujian",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

@@ -25,13 +25,10 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
-    "name:chi_x_preferred":[
-        "\u82b1\u84ee\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Chua-lien"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hualien"
     ],
     "name:eng_x_preferred":[
@@ -43,13 +40,13 @@
         "Hualien Hsien",
         "Hualien City"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0648\u0627\u0644\u06cc\u0646"
+    ],
     "name:fin_x_preferred":[
         "Hualien"
     ],
-    "name:fre_x_preferred":[
-        "Hualien"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hualien"
     ],
     "name:hak_x_preferred":[
@@ -83,9 +80,6 @@
     "name:nob_x_preferred":[
         "Hualien"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0627\u0644\u06cc\u0646"
-    ],
     "name:pol_x_preferred":[
         "Hualian"
     ],
@@ -109,7 +103,8 @@
     ],
     "name:zho_x_variant":[
         "\u82b1\u83b2\u53bf",
-        "\u82b1\u84ee"
+        "\u82b1\u84ee",
+        "\u82b1\u84ee\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TWN",
@@ -232,7 +227,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1553550558,
+    "wof:lastmodified":1561775234,
     "wof:name":"Hualien",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

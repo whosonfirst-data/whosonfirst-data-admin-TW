@@ -33,9 +33,6 @@
     "name:fra_x_preferred":[
         "Comt\u00e9 de Yunlin"
     ],
-    "name:fre_x_preferred":[
-        "Comt\u00e9 de Yunlin"
-    ],
     "name:gan_x_preferred":[
         "\u96f2\u6797"
     ],
@@ -113,7 +110,7 @@
         }
     ],
     "wof:id":890468723,
-    "wof:lastmodified":1555220351,
+    "wof:lastmodified":1561775325,
     "wof:name":"Yunlin",
     "wof:parent_id":1108498757,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003619,
-    "geom:area_square_m":40650798.94273,
+    "geom:area_square_m":40650798.942729,
     "geom:bbox":"121.724121161,24.662948774,121.83178268,24.7708256534",
     "geom:latitude":24.714626,
     "geom:longitude":121.763795,
@@ -23,20 +23,11 @@
     "name:ces_x_preferred":[
         "I-lan"
     ],
-    "name:chi_x_preferred":[
-        "\u5b9c\u862d\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "I-lan"
-    ],
     "name:deu_x_preferred":[
         "Yilan"
     ],
     "name:deu_x_variant":[
         "Ilan"
-    ],
-    "name:dut_x_preferred":[
-        "Yilan"
     ],
     "name:eng_x_colloquial":[
         "Yilan City"
@@ -54,12 +45,6 @@
         "\u06cc\u06cc\u0644\u0627\u0646"
     ],
     "name:fra_x_preferred":[
-        "Yilan"
-    ],
-    "name:fre_x_preferred":[
-        "Yilan"
-    ],
-    "name:ger_x_preferred":[
         "Yilan"
     ],
     "name:hak_x_preferred":[
@@ -88,9 +73,6 @@
     ],
     "name:nld_x_variant":[
         "Y\u00edl\u00e1n"
-    ],
-    "name:per_x_preferred":[
-        "\u06cc\u06cc\u0644\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Yilan"
@@ -265,7 +247,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527637806,
+    "wof:lastmodified":1561775201,
     "wof:name":"Yilan",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",
