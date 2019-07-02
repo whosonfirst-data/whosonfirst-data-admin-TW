@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003834,
-    "geom:area_square_m":43482269.309217,
+    "geom:area_square_m":43482269.309178,
     "geom:bbox":"120.416853004,23.439104455,120.50233778,23.5075382278",
     "geom:latitude":23.474153,
     "geom:longitude":120.456463,
@@ -22,26 +22,23 @@
     "name:ara_x_preferred":[
         "\u0634\u064a\u0627 \u064a\u064a"
     ],
-    "name:baq_x_preferred":[
-        "Chiayi"
-    ],
     "name:ben_x_preferred":[
         "\u09b8\u09bf\u09af\u09bc\u09be\u0987  \u09b6\u09b9\u09b0"
     ],
     "name:cdo_x_preferred":[
         "G\u0103-ngi\u00ea"
     ],
-    "name:chi_x_preferred":[
-        "\u5609\u7fa9\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "\u0164ia-i"
     ],
     "name:dan_x_preferred":[
         "Chiayi"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Chiayi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03ac\u03b3\u03b9"
     ],
     "name:eng_x_preferred":[
         "Chiayi City"
@@ -50,17 +47,17 @@
         "Chia-i",
         "Chiayi"
     ],
+    "name:eus_x_preferred":[
+        "Chiayi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0627\u06cc\u0627\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Chiayi City"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Chiayi"
-    ],
-    "name:ger_x_preferred":[
-        "Chiayi"
-    ],
-    "name:gre_x_preferred":[
-        "\u03a4\u03c3\u03b9\u03ac\u03b3\u03b9"
     ],
     "name:guj_x_preferred":[
         "\u0a9a\u0abf\u0a86\u0a87 \u0ab6\u0ab9\u0ac7\u0ab0"
@@ -104,20 +101,20 @@
     "name:mar_x_preferred":[
         "\u091a\u093f\u0906\u0908 \u0936\u0939\u0930"
     ],
-    "name:may_x_preferred":[
-        "Chiayi"
-    ],
     "name:mon_x_preferred":[
         "\u0416\u044f\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Chiayi"
     ],
     "name:nan_x_preferred":[
         "Ka-g\u012b-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Chiayi"
     ],
-    "name:per_x_preferred":[
-        "\u0686\u06cc\u0627\u06cc\u0627\u06cc"
+    "name:nob_x_preferred":[
+        "Chiayi"
     ],
     "name:pol_x_preferred":[
         "Jiayi"
@@ -310,7 +307,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1514507799,
+    "wof:lastmodified":1561775203,
     "wof:name":"Jiayi Shi",
     "wof:parent_id":85679603,
     "wof:placetype":"locality",

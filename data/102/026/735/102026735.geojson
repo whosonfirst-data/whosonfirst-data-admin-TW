@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":3127992.922426,
+    "geom:area_square_m":3127992.922422,
     "geom:bbox":"120.702602239,21.9594918686,120.721958381,21.9775466",
     "geom:latitude":21.968519,
     "geom:longitude":120.71228,
@@ -19,9 +19,6 @@
     "mps:longitude":120.71228,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:chi_x_preferred":[
-        "\u6046\u6625\u93ae"
-    ],
     "name:eng_x_preferred":[
         "Hengchun"
     ],
@@ -94,7 +91,7 @@
         }
     ],
     "wof:id":102026735,
-    "wof:lastmodified":1527637811,
+    "wof:lastmodified":1561775203,
     "wof:name":"Hengchun",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

@@ -133,7 +133,8 @@
         "\u010c\u00ednsk\u00e1 republika"
     ],
     "name:ces_x_variant":[
-        "Tajwan"
+        "Tajwan",
+        "Tchaj-wan"
     ],
     "name:che_x_preferred":[
         "\u0422\u0430\u0439\u0432\u0430\u043d\u044c"
@@ -158,9 +159,6 @@
     ],
     "name:cym_x_preferred":[
         "Taiwan"
-    ],
-    "name:cze_x_preferred":[
-        "Tchaj-wan"
     ],
     "name:cze_x_variant":[
         "Tajwan"
@@ -662,9 +660,6 @@
     "name:ron_x_preferred":[
         "Taiwan"
     ],
-    "name:rum_x_preferred":[
-        "Taiwan"
-    ],
     "name:run_x_preferred":[
         "Tayiwani"
     ],
@@ -1057,7 +1052,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1544059146,
+    "wof:lastmodified":1561775234,
     "wof:name":"Taiwan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

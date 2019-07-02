@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002193,
-    "geom:area_square_m":24779378.693593,
+    "geom:area_square_m":24779378.693594,
     "geom:bbox":"121.581358425,23.9596559895,121.644960927,24.0103377013",
     "geom:latitude":23.986026,
     "geom:longitude":121.610187,
@@ -20,13 +20,10 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
-    "name:chi_x_preferred":[
-        "\u82b1\u84ee\u5e02"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Chua-lien"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Hualien"
     ],
     "name:eng_x_preferred":[
@@ -38,10 +35,7 @@
     "name:fin_x_preferred":[
         "Hualien"
     ],
-    "name:fre_x_preferred":[
-        "Hualien"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Hualien"
     ],
     "name:hak_x_preferred":[
@@ -65,11 +59,11 @@
     "name:nan_x_preferred":[
         "Hoa-li\u00e2n-chh\u012b"
     ],
-    "name:nob_x_preferred":[
+    "name:nld_x_preferred":[
         "Hualien"
     ],
-    "name:per_x_preferred":[
-        "\u0647\u0648\u0627\u0644\u06cc\u0646"
+    "name:nob_x_preferred":[
+        "Hualien"
     ],
     "name:pny_x_preferred":[
         "Hu\u0101li\u00e1n Sh\u00ec"
@@ -232,7 +226,7 @@
         }
     ],
     "wof:id":102026715,
-    "wof:lastmodified":1514507757,
+    "wof:lastmodified":1561775203,
     "wof:name":"Hualian",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

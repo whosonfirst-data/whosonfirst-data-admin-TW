@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001996,
-    "geom:area_square_m":22402552.861776,
+    "geom:area_square_m":22402552.861763,
     "geom:bbox":"120.988033713,24.7994658035,121.040774357,24.8605756927",
     "geom:latitude":24.831587,
     "geom:longitude":121.015972,
@@ -22,16 +22,7 @@
     "name:ces_x_preferred":[
         "\u010cu-pej"
     ],
-    "name:chi_x_preferred":[
-        "\u7af9\u5317\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "\u010cu-pej"
-    ],
     "name:deu_x_preferred":[
-        "Zhubei"
-    ],
-    "name:dut_x_preferred":[
         "Zhubei"
     ],
     "name:eng_x_preferred":[
@@ -40,10 +31,7 @@
     "name:fas_x_preferred":[
         "\u0698\u0648\u0628\u06cc"
     ],
-    "name:fre_x_preferred":[
-        "Zhubei"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Zhubei"
     ],
     "name:hak_x_preferred":[
@@ -66,9 +54,6 @@
     ],
     "name:nld_x_preferred":[
         "Zhubei"
-    ],
-    "name:per_x_preferred":[
-        "\u0698\u0648\u0628\u06cc"
     ],
     "name:pol_x_preferred":[
         "Zhubei"
@@ -231,7 +216,7 @@
         }
     ],
     "wof:id":102026743,
-    "wof:lastmodified":1527637814,
+    "wof:lastmodified":1561775204,
     "wof:name":"Zhubei",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.011954,
-    "geom:area_square_m":135506362.064003,
+    "geom:area_square_m":135506362.063868,
     "geom:bbox":"119.314294387,23.186564029,119.72756791,23.810694694",
     "geom:latitude":23.543059,
     "geom:longitude":119.57506,
@@ -34,11 +34,11 @@
     "name:cdo_x_preferred":[
         "P\u00e0ng-h\u00f9-g\u00e2ing"
     ],
-    "name:chi_x_preferred":[
-        "\u6f8e\u6e56\u7e23"
-    ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Okres Pcheng-chu"
+    ],
+    "name:deu_x_preferred":[
+        "Landkreis Penghu"
     ],
     "name:eng_x_preferred":[
         "Penghu County"
@@ -49,11 +49,8 @@
     "name:epo_x_preferred":[
         "Penghuoj"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "comt\u00e9 de Penghu"
-    ],
-    "name:ger_x_preferred":[
-        "Landkreis Penghu"
     ],
     "name:hak_x_preferred":[
         "Ph\u00e0ng-f\u00f9-yen"
@@ -85,6 +82,9 @@
     "name:yue_x_preferred":[
         "\u6f8e\u6e56\u7e23"
     ],
+    "name:zho_x_preferred":[
+        "\u6f8e\u6e56\u7e23"
+    ],
     "src:geom":"meso",
     "src:geom_alt":[],
     "src:lbl:centroid":"mapshaper",
@@ -111,7 +111,7 @@
         }
     ],
     "wof:id":1108500085,
-    "wof:lastmodified":1514508060,
+    "wof:lastmodified":1561775284,
     "wof:name":"Penghu",
     "wof:parent_id":85679627,
     "wof:placetype":"macrocounty",

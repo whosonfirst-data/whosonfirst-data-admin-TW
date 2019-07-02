@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001912,
-    "geom:area_square_m":21819172.611807,
+    "geom:area_square_m":21819172.611795,
     "geom:bbox":"120.460856289,22.6480811235,120.517385664,22.6990773412",
     "geom:latitude":22.674025,
     "geom:longitude":120.489576,
@@ -22,16 +22,7 @@
     "name:ces_x_preferred":[
         "Pching-tung"
     ],
-    "name:chi_x_preferred":[
-        "\u5c4f\u6771\u5e02"
-    ],
-    "name:cze_x_preferred":[
-        "Pching-tung"
-    ],
     "name:deu_x_preferred":[
-        "Pingtung"
-    ],
-    "name:dut_x_preferred":[
         "Pingtung"
     ],
     "name:eng_x_preferred":[
@@ -44,12 +35,6 @@
         "\u067e\u06cc\u0646\u06af\u062a\u0648\u0646\u06af"
     ],
     "name:fra_x_preferred":[
-        "Pingtung"
-    ],
-    "name:fre_x_preferred":[
-        "Pingtung"
-    ],
-    "name:ger_x_preferred":[
         "Pingtung"
     ],
     "name:hak_x_preferred":[
@@ -76,9 +61,6 @@
     "name:nld_x_preferred":[
         "Pingtung"
     ],
-    "name:per_x_preferred":[
-        "\u067e\u06cc\u0646\u06af\u062a\u0648\u0646\u06af"
-    ],
     "name:pol_x_preferred":[
         "Pingdong"
     ],
@@ -101,7 +83,6 @@
         "\u5c4f\u6771\u5e02"
     ],
     "name:zho_x_variant":[
-        "\u5c4f\u6771\u5e02",
         "P\u2019ing-tung-chieh",
         "P\u2019ing-tung-hsien",
         "P\u2019ing-tung-shih",
@@ -241,7 +222,7 @@
         }
     ],
     "wof:id":102026677,
-    "wof:lastmodified":1527637813,
+    "wof:lastmodified":1561775204,
     "wof:name":"Pingtung",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",
