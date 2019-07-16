@@ -15,8 +15,197 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Taichung"
+    ],
+    "name:ara_x_preferred":[
+        "\u062a\u0627\u064a \u0634\u0627\u0646\u063a"
+    ],
+    "name:ast_x_preferred":[
+        "Taichung"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a4\u09be\u0987\u099a\u09cb\u0982"
+    ],
+    "name:cat_x_preferred":[
+        "Taichung"
+    ],
+    "name:cdo_x_preferred":[
+        "D\u00e0i-d\u1e73\u0306ng"
+    ],
+    "name:ces_x_preferred":[
+        "Tchaj-\u010dung"
+    ],
+    "name:che_x_preferred":[
+        "\u0422\u0430\u0439\u0447\u0436\u0443\u043d"
+    ],
+    "name:dan_x_preferred":[
+        "Taichung"
+    ],
+    "name:deu_x_preferred":[
+        "Taichung"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b1\u03ca\u03c4\u03c3\u03bf\u03cd\u03bd\u03b3\u03ba"
+    ],
+    "name:eng_x_preferred":[
+        "Taichung"
+    ],
+    "name:epo_x_preferred":[
+        "Taj\u0109ung"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u0627\u06cc\u0686\u0648\u0646\u06af"
+    ],
+    "name:fin_x_preferred":[
+        "Taichung"
+    ],
+    "name:fra_x_preferred":[
+        "Taichung"
+    ],
+    "name:gan_x_preferred":[
+        "\u81fa\u4e2d\u5e02"
+    ],
+    "name:gle_x_preferred":[
+        "Taichung"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aa4\u0abe\u0a88\u0a9a\u0ac1\u0a82\u0a97"
+    ],
+    "name:hak_x_preferred":[
+        "Th\u00f2i-ch\u00fbng-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d0\u05d9\u05d2'\u05d5\u05e0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u0924\u093e\u0907\u091a\u0941\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Tajcshung"
+    ],
+    "name:ind_x_preferred":[
+        "Kota Taichung"
+    ],
+    "name:ita_x_preferred":[
+        "Taichung"
+    ],
+    "name:jpn_x_preferred":[
+        "\u53f0\u4e2d\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0ca4\u0cbe\u0caf\u0ccd\u0c9a\u0cc1\u0c82\u0c97\u0ccd"
+    ],
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u0439\u0447\u0436\u0443\u043d"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\uc774\uc911\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Taid\u017euna"
+    ],
+    "name:lit_x_preferred":[
+        "Tai\u010dungas"
+    ],
+    "name:ltz_x_preferred":[
+        "Taichung"
+    ],
+    "name:lzh_x_preferred":[
+        "\u81fa\u4e2d\u5e02"
+    ],
+    "name:mar_x_preferred":[
+        "\u0924\u093e\u0908\u091a\u0941\u0902\u0917"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0422\u0430\u0458\u045f\u0443\u043d\u0433"
+    ],
+    "name:mon_x_preferred":[
+        "\u0422\u0430\u0439\u0436\u0443\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Taichung"
+    ],
+    "name:nan_x_preferred":[
+        "T\u00e2i-tiong-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Taichung"
+    ],
+    "name:nob_x_preferred":[
+        "Taichung"
+    ],
+    "name:oci_x_preferred":[
+        "Taichung"
+    ],
+    "name:pol_x_preferred":[
+        "Taizhong"
+    ],
+    "name:por_x_preferred":[
+        "Taichung"
+    ],
+    "name:que_x_preferred":[
+        "T'aychun"
+    ],
+    "name:ron_x_preferred":[
+        "Taichung"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u0447\u0436\u0443\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Taichung"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da7\u0dcf\u0dba\u0dd2\u0da0\u0db1\u0dca\u0d9c\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Taichung"
+    ],
+    "name:swe_x_preferred":[
+        "Taichung"
+    ],
+    "name:szl_x_preferred":[
+        "Taizhong"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba4\u0bbe\u0baf\u0bcd\u0b9a\u0b99\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1f\u0c3e\u0c2f\u0c3f\u0c1a\u0c41\u0c02\u0c17\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e44\u0e17\u0e08\u0e07"
+    ],
+    "name:tur_x_preferred":[
+        "Taichung"
+    ],
+    "name:uig_x_preferred":[
+        "Teyjong shehiri"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0439\u0447\u0436\u0443\u043d"
+    ],
     "name:unk_x_variant":[
         "Tai Chung Municipality"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0627\u0626\u0686\u0648\u0646\u06af"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00e0i Trung"
+    ],
+    "name:war_x_preferred":[
+        "Taichung"
+    ],
+    "name:wuu_x_preferred":[
+        "\u53f0\u4e2d\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u81fa\u4e2d\u5e02"
+    ],
+    "name:zha_x_preferred":[
+        "Daizcungh"
     ],
     "name:zho_x_preferred":[
         "\u81fa\u4e2d\u5e02"
@@ -59,7 +248,7 @@
         }
     ],
     "wof:id":890467559,
-    "wof:lastmodified":1527792893,
+    "wof:lastmodified":1563280801,
     "wof:name":"Taichung",
     "wof:parent_id":1108497005,
     "wof:placetype":"county",

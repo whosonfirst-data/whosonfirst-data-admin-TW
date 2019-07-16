@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Donggang"
     ],
+    "name:eng_x_variant":[
+        "Donggang Township"
+    ],
     "name:fra_x_preferred":[
         "Donggang"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub465\uac15 \uc9c4"
+    ],
+    "name:kor_x_variant":[
+        "\ub465\uac15\uc9c4"
     ],
     "name:nan_x_preferred":[
         "Tang-k\u00e1ng-t\u00ecn"
@@ -50,6 +56,9 @@
     ],
     "name:vie_x_preferred":[
         "\u0110\u00f4ng C\u1ea3ng"
+    ],
+    "name:yue_x_preferred":[
+        "\u6771\u6e2f\u93ae"
     ],
     "name:zho_x_preferred":[
         "\u6771\u6e2f"
@@ -97,7 +106,7 @@
         }
     ],
     "wof:id":102026617,
-    "wof:lastmodified":1561775202,
+    "wof:lastmodified":1563278946,
     "wof:name":"Donggang",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

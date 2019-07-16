@@ -21,8 +21,14 @@
     "name:eng_x_preferred":[
         "Houlong"
     ],
+    "name:fra_x_preferred":[
+        "Houlong"
+    ],
     "name:hak_x_preferred":[
         "Heu-li\u00f9ng-ts\u1e73\u0301n"
+    ],
+    "name:ita_x_preferred":[
+        "Houlong"
     ],
     "name:jpn_x_preferred":[
         "\u5f8c\u9f8d\u93ae"
@@ -30,11 +36,20 @@
     "name:kor_x_preferred":[
         "\ud5c8\uc6b0\ub8fd \uc9c4"
     ],
+    "name:kor_x_variant":[
+        "\ud5c8\uc6b0\ub8fd\uc9c4"
+    ],
+    "name:nan_x_preferred":[
+        "\u0100u-l\u00e2ng-t\u00ecn"
+    ],
     "name:unk_x_variant":[
         "Hou-lung-chuang"
     ],
     "name:vie_x_preferred":[
         "H\u1eadu Long"
+    ],
+    "name:yue_x_preferred":[
+        "\u5f8c\u9f8d\u93ae"
     ],
     "name:zho_x_preferred":[
         "\u5f8c\u9f8d\u93ae"
@@ -75,7 +90,7 @@
         }
     ],
     "wof:id":102026733,
-    "wof:lastmodified":1561775203,
+    "wof:lastmodified":1563278958,
     "wof:name":"Houlong",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

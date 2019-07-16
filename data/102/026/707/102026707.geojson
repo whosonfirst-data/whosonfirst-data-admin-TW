@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
+    "name:ceb_x_preferred":[
+        "Yilan"
+    ],
     "name:ces_x_preferred":[
         "I-lan"
     ],
@@ -62,6 +65,9 @@
     "name:kor_x_preferred":[
         "\uc774\ub780 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc774\ub780\uc2dc"
+    ],
     "name:lit_x_preferred":[
         "Jilanas"
     ],
@@ -86,6 +92,9 @@
     "name:tur_x_preferred":[
         "Yilan"
     ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u0430\u043d"
+    ],
     "name:unk_x_variant":[
         "I-lan-hsien"
     ],
@@ -94,6 +103,9 @@
     ],
     "name:vie_x_preferred":[
         "Nghi Lan"
+    ],
+    "name:yue_x_preferred":[
+        "\u5b9c\u862d\u5e02"
     ],
     "name:zho_min_nan_x_preferred":[
         "G\u00ee-l\u00e2n-chh\u012b"
@@ -247,7 +259,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1561775201,
+    "wof:lastmodified":1563278944,
     "wof:name":"Yilan",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

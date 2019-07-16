@@ -45,11 +45,17 @@
     "name:cdo_x_preferred":[
         "G\u014f\u0324-h\u1e73\u0300ng"
     ],
+    "name:ceb_x_preferred":[
+        "Kaohsiung"
+    ],
     "name:ces_x_preferred":[
         "Kao-siung"
     ],
     "name:che_x_preferred":[
         "\u0413\u0430\u043e\u0441\u044e\u043d"
+    ],
+    "name:cym_x_preferred":[
+        "Dinas Kaohsiung"
     ],
     "name:dan_x_preferred":[
         "Kaohsiung"
@@ -62,6 +68,9 @@
     ],
     "name:eng_x_preferred":[
         "Kaohsiung City"
+    ],
+    "name:eng_x_variant":[
+        "Kaohsiung"
     ],
     "name:epo_x_preferred":[
         "Kao\u015diung"
@@ -126,11 +135,17 @@
     "name:kor_x_preferred":[
         "\uac00\uc624\uc29d \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uac00\uc624\uc29d\uc2dc"
+    ],
     "name:lav_x_preferred":[
         "Gaosjunas speci\u0101l\u0101 municipalit\u0101te"
     ],
     "name:lit_x_preferred":[
         "Gaosiongas"
+    ],
+    "name:ltz_x_preferred":[
+        "Kaohsiung"
     ],
     "name:lzh_x_preferred":[
         "\u9ad8\u96c4\u5e02"
@@ -362,7 +377,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1561775235,
+    "wof:lastmodified":1563279374,
     "wof:name":"Kaohsiung City",
     "wof:parent_id":1108808547,
     "wof:placetype":"region",

@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
+    "name:ceb_x_preferred":[
+        "Nantou"
+    ],
     "name:ces_x_preferred":[
         "Nan-tchou"
     ],
@@ -50,6 +53,9 @@
     "name:kor_x_preferred":[
         "\ub09c\ud130\uc6b0 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ub09c\ud130\uc6b0\uc2dc"
+    ],
     "name:lit_x_preferred":[
         "Nantou"
     ],
@@ -68,6 +74,12 @@
     "name:rus_x_preferred":[
         "\u041d\u0430\u043d\u044c\u0442\u043e\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Nantou"
+    ],
+    "name:tur_x_preferred":[
+        "Nantou"
+    ],
     "name:unk_x_variant":[
         "Nantow"
     ],
@@ -76,6 +88,9 @@
     ],
     "name:war_x_preferred":[
         "Nantou"
+    ],
+    "name:yue_x_preferred":[
+        "\u5357\u6295\u5e02"
     ],
     "name:zho_x_preferred":[
         "Nan-t\u2019ou-chieh"
@@ -221,7 +236,7 @@
         }
     ],
     "wof:id":102026683,
-    "wof:lastmodified":1561775204,
+    "wof:lastmodified":1563278969,
     "wof:name":"Nantou",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

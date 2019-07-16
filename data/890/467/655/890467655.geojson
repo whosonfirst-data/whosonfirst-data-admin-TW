@@ -15,14 +15,176 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u064a\u0646 \u0634\u0648"
+    ],
+    "name:bel_x_preferred":[
+        "\u0421\u0456\u043d\u044c\u0447\u0436\u0443"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09bf\u09a8\u09b8\u09cb"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f5e\u0f72\u0f42\u0f0b\u0f40\u0fb2\u0f74\u0f60\u0f74\u0f0d"
+    ],
+    "name:cat_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:cdo_x_preferred":[
+        "S\u012dng-d\u00e9\u0324\u1e73k"
+    ],
+    "name:ceb_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:ces_x_preferred":[
+        "Sin-\u010du"
+    ],
+    "name:dan_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:deu_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03c3\u03b9\u03bd\u03c4\u03c3\u03bf\u03cd"
+    ],
+    "name:eng_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u06cc\u0646\u0686\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:fra_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0abf\u0aa8\u0acd\u0a9a\u0ac1"
+    ],
+    "name:hak_x_preferred":[
+        "S\u00een-tsuk-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e9\u05d9\u05e0\u05d2'\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u093f\u0902\u091a\u0941"
+    ],
+    "name:hun_x_preferred":[
+        "Hszincsu"
+    ],
+    "name:ind_x_preferred":[
+        "Kota Hsinchu"
+    ],
+    "name:ita_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u65b0\u7af9\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb6\u0cbf\u0c82\u0c9a\u0cc1"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0421\u0438\u043d\u044c\u0447\u0436\u0443"
+    ],
     "name:kor_x_preferred":[
         "\uc2e0\uc8fc \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\uc2e0\uc8fc\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Sji\u0146d\u017eu"
+    ],
+    "name:lit_x_preferred":[
+        "Sind\u017eu"
+    ],
+    "name:lzh_x_preferred":[
+        "\u65b0\u7af9\u5e02"
+    ],
+    "name:mar_x_preferred":[
+        "\u0939\u094d\u0938\u093f\u0902\u091a\u0941"
+    ],
+    "name:mon_x_preferred":[
+        "\u0428\u0438\u043d\u044c\u0436\u04af"
+    ],
+    "name:msa_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:nan_x_preferred":[
+        "Sin-tek-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:nob_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:pol_x_preferred":[
+        "Xinzhu"
+    ],
+    "name:por_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u044c\u0447\u0436\u0443"
+    ],
+    "name:sco_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc3\u0dd2\u0db1\u0dca\u0da0\u0dd4"
+    ],
+    "name:spa_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:swe_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb9\u0bc6\u0b9a\u0bbf\u0ba9\u0bcd\u0b9a\u0bcd\u0b9a\u0bc2"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c36\u0c3f\u0c02\u0c1a\u0c41"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e04\u0e23\u0e0b\u0e34\u0e19\u0e08\u0e39\u0e4b"
+    ],
+    "name:tur_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u043d\u044c\u0447\u0436\u0443"
     ],
     "name:unk_x_variant":[
         "Sinjhu Sian"
     ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0633\u06cc\u0646\u0686\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e2n Tr\u00fac"
+    ],
+    "name:war_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:wuu_x_preferred":[
+        "\u65b0\u7af9\u5e02"
+    ],
+    "name:yue_x_preferred":[
+        "\u65b0\u7af9\u5e02"
+    ],
+    "name:zha_x_preferred":[
+        "Sinhcuz"
+    ],
     "name:zho_x_preferred":[
         "\u65b0\u7af9\u7e23"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u7af9\u5e02"
     ],
     "qs:name":"Hsinchu",
     "qs:photos_9r":0,
@@ -58,7 +220,7 @@
         }
     ],
     "wof:id":890467655,
-    "wof:lastmodified":1527792900,
+    "wof:lastmodified":1563280832,
     "wof:name":"Hsinchu",
     "wof:parent_id":1108756867,
     "wof:placetype":"county",

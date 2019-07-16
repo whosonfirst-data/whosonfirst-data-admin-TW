@@ -26,8 +26,14 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u064a \u0634\u0627\u0646\u063a"
     ],
+    "name:ast_x_preferred":[
+        "Taichung"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0987\u099a\u09cb\u0982"
+    ],
+    "name:cat_x_preferred":[
+        "Taichung"
     ],
     "name:cdo_x_preferred":[
         "D\u00e0i-d\u1e73\u0306ng"
@@ -101,8 +107,14 @@
     "name:kan_x_preferred":[
         "\u0ca4\u0cbe\u0caf\u0ccd\u0c9a\u0cc1\u0c82\u0c97\u0ccd"
     ],
+    "name:kir_x_preferred":[
+        "\u0422\u0430\u0439\u0447\u0436\u0443\u043d"
+    ],
     "name:kor_x_preferred":[
         "\ud0c0\uc774\uc911 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ud0c0\uc774\uc911\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Taid\u017euna"
@@ -149,6 +161,9 @@
     "name:que_x_preferred":[
         "Taychun"
     ],
+    "name:que_x_variant":[
+        "T'aychun"
+    ],
     "name:ron_x_preferred":[
         "Taichung"
     ],
@@ -166,6 +181,9 @@
     ],
     "name:swe_x_preferred":[
         "Taichung"
+    ],
+    "name:szl_x_preferred":[
+        "Taizhong"
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbe\u0baf\u0bcd\u0b9a\u0b99\u0bcd"
@@ -345,7 +363,7 @@
         }
     ],
     "wof:id":102026649,
-    "wof:lastmodified":1561775204,
+    "wof:lastmodified":1563278964,
     "wof:megacity":1,
     "wof:name":"Taichung",
     "wof:parent_id":85679617,

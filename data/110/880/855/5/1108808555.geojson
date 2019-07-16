@@ -22,11 +22,20 @@
     "name:cdo_x_preferred":[
         "Li\u00e8ng-g\u014fng-g\u00e2ing"
     ],
+    "name:ceb_x_preferred":[
+        "Lienchiang"
+    ],
     "name:ces_x_preferred":[
         "Okres Lien-\u0165iang"
     ],
+    "name:cym_x_preferred":[
+        "Sir Lienchiang"
+    ],
     "name:eng_x_preferred":[
         "Fukien"
+    ],
+    "name:eng_x_variant":[
+        "Lienchiang County"
     ],
     "name:fra_x_preferred":[
         "comt\u00e9 de Lienchiang"
@@ -43,6 +52,9 @@
     "name:kor_x_preferred":[
         "\ub844\uc7a5 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ub844\uc7a5\ud604"
+    ],
     "name:nan_x_preferred":[
         "Li\u00e2n-kang-ko\u0101n"
     ],
@@ -51,6 +63,9 @@
     ],
     "name:yue_x_preferred":[
         "\u9023\u6c5f\u7e23"
+    ],
+    "name:yue_x_variant":[
+        "\u9023\u6c5f"
     ],
     "name:zho_x_preferred":[
         "\u9023\u6c5f\u7e23"
@@ -97,7 +112,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1561775278,
+    "wof:lastmodified":1563280271,
     "wof:name":"Fujian",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

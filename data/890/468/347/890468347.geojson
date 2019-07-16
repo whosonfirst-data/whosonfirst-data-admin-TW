@@ -15,8 +15,38 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:dan_x_preferred":[
+        "Jiaoxi"
+    ],
+    "name:eng_x_preferred":[
+        "Jiaoxi"
+    ],
+    "name:fra_x_preferred":[
+        "Jiaoxi"
+    ],
+    "name:hak_x_preferred":[
+        "Tsi\u00e2u-h\u00e2i-hi\u00f4ng"
+    ],
+    "name:ita_x_preferred":[
+        "Jiaoxi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7901\u6e13\u90f7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc790\uc624\uc2dc\ud5a5"
+    ],
+    "name:nan_x_preferred":[
+        "Ta-khe-hiong"
+    ],
+    "name:nld_x_preferred":[
+        "Jiaoxi"
+    ],
     "name:unk_x_variant":[
         "Chiao-hsi Hsiang"
+    ],
+    "name:vie_x_preferred":[
+        "Ti\u00eau Kh\u00ea"
     ],
     "name:zho_x_preferred":[
         "\u7901\u6eaa\u9109"
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":890468347,
-    "wof:lastmodified":1527792968,
+    "wof:lastmodified":1563280953,
     "wof:name":"Jiaoxi Xiang",
     "wof:parent_id":85679567,
     "wof:placetype":"localadmin",

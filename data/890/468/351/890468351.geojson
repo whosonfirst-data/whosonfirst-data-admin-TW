@@ -15,6 +15,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Ji-Xu Xiang"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8fb0\u6e86\u7247"
+    ],
     "name:unk_x_variant":[
         "Chi-an Hsiang"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":890468351,
-    "wof:lastmodified":1527792968,
+    "wof:lastmodified":1563280964,
     "wof:name":"Ji\u2019an Xiang",
     "wof:parent_id":85679607,
     "wof:placetype":"localadmin",

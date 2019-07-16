@@ -40,8 +40,14 @@
     "name:cdo_x_preferred":[
         "H\u00f9ng-l\u00ecng"
     ],
+    "name:ceb_x_preferred":[
+        "Yunlin"
+    ],
     "name:ces_x_preferred":[
         "Okres J\u00fcn-lin"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Yunlin"
     ],
     "name:dan_x_preferred":[
         "Yunlin County"
@@ -66,6 +72,9 @@
     ],
     "name:fra_x_preferred":[
         "comt\u00e9 de Yunlin"
+    ],
+    "name:frr_x_preferred":[
+        "Yunlin"
     ],
     "name:gan_x_preferred":[
         "\u96f2\u6797"
@@ -93,6 +102,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc708\ub9b0 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\uc708\ub9b0\ud604"
     ],
     "name:lav_x_preferred":[
         "Junlinas distrikts"
@@ -195,7 +207,7 @@
         }
     ],
     "wof:id":1108498757,
-    "wof:lastmodified":1561775291,
+    "wof:lastmodified":1563280296,
     "wof:name":"Yunlin",
     "wof:parent_id":85679619,
     "wof:placetype":"macrocounty",

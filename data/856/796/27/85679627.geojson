@@ -25,6 +25,30 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":9.0,
+    "name:ara_x_preferred":[
+        "\u0628\u0633\u0643\u0627\u062f\u0648\u0631\u0632"
+    ],
+    "name:aze_x_preferred":[
+        "Penhuledao"
+    ],
+    "name:cdo_x_preferred":[
+        "P\u00e0ng-h\u00f9 G\u00f9ng-d\u014d\u0324"
+    ],
+    "name:ceb_x_preferred":[
+        "Penghu"
+    ],
+    "name:ces_x_preferred":[
+        "Pescadorsk\u00e9 ostrovy"
+    ],
+    "name:dan_x_preferred":[
+        "Pescadores"
+    ],
+    "name:deu_x_preferred":[
+        "Penghu-Inseln"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b7\u03c3\u03b9\u03ac \u03a0\u03ad\u03bd\u03b3\u03ba\u03bf\u03c5"
+    ],
     "name:eng_x_preferred":[
         "Penghu County"
     ],
@@ -32,20 +56,142 @@
         "P'eng-hu",
         "Penghu Hsien",
         "Penghus",
+        "Penghu",
+        "Penghu Islands"
+    ],
+    "name:epo_x_preferred":[
+        "Penghuoj"
+    ],
+    "name:est_x_preferred":[
+        "Penghu saarestik"
+    ],
+    "name:eus_x_preferred":[
         "Penghu"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0646\u06af\u0647\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Peskadorit"
+    ],
+    "name:fra_x_preferred":[
+        "\u00eeles Pescadores"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aaa\u0ac7\u0aa8\u0acd\u0a97\u0ac2 \u0a86\u0a87\u0ab2\u0ac7\u0aa8\u0acd\u0aa1\u0acd\u0ab8"
+    ],
+    "name:hak_x_preferred":[
+        "Ph\u00e0ng-f\u00f9-yen"
+    ],
+    "name:hun_x_preferred":[
+        "Penghu-szigetek"
+    ],
+    "name:ind_x_preferred":[
+        "Kepulauan Pescadores"
+    ],
+    "name:isl_x_preferred":[
+        "Penghu"
+    ],
+    "name:ita_x_preferred":[
+        "isole Penghu"
     ],
     "name:jpn_x_preferred":[
         "\u30dd\u30f3\u30d5\u30fc"
     ],
+    "name:jpn_x_variant":[
+        "\u6f8e\u6e56\u8af8\u5cf6"
+    ],
+    "name:kan_x_preferred":[
+        "\u0caa\u0cc6\u0ca8\u0ccd\u0cb9\u0cc1 \u0ca6\u0ccd\u0cb5\u0cc0\u0caa\u0c97\u0cb3\u0cc1"
+    ],
     "name:kor_x_preferred":[
         "\ud391\ud6c4"
+    ],
+    "name:kor_x_variant":[
+        "\ud391\ud6c4 \uc81c\ub3c4"
+    ],
+    "name:lav_x_preferred":[
+        "Penhu salas"
+    ],
+    "name:lit_x_preferred":[
+        "Penghu salos"
+    ],
+    "name:mar_x_preferred":[
+        "\u092a\u0947\u0928\u0939\u0941 \u0906\u0908\u0938\u0932\u0901\u0921"
+    ],
+    "name:mon_x_preferred":[
+        "\u041f\u04e9\u043d\u0445\u04af"
+    ],
+    "name:msa_x_preferred":[
+        "Penghu"
+    ],
+    "name:nan_x_preferred":[
+        "Ph\u00ea\u207f-\u00f4\u0358-ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Pescadores"
+    ],
+    "name:nob_x_preferred":[
+        "Pescadores"
+    ],
+    "name:pol_x_preferred":[
+        "Peskadory"
+    ],
+    "name:por_x_preferred":[
+        "Ilhas Pescadores"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u044d\u043d\u0445\u0443"
+    ],
+    "name:sco_x_preferred":[
+        "Penghu"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db4\u0dd9\u0db1\u0dca\u0d9c\u0dd4 \u0daf\u0dd4\u0db4\u0dad\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Islas Pescadores"
+    ],
+    "name:swe_x_preferred":[
+        "Pescadorerna"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bc7\u0b99\u0bcd\u0b95\u0bcd\u0b95\u0bc1 \u0b87\u0bb8\u0bcd\u0bb2\u0bbe\u0ba3\u0bcd\u0b9f\u0bcd\u0bb8"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2a\u0c46\u0c02\u0c17\u0c42 \u0c26\u0c40\u0c35\u0c41\u0c32\u0c41"
+    ],
+    "name:tgl_x_preferred":[
+        "Pescadores"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1c\u0e34\u0e07\u0e2b\u0e39"
+    ],
+    "name:tur_x_preferred":[
+        "Pescadores Adalar\u0131"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0410\u0440\u0445\u0456\u043f\u0435\u043b\u0430\u0433 \u041f\u0435\u043d\u0445\u0443"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0646\u06af\u06be\u0648"
+    ],
+    "name:wuu_x_preferred":[
+        "\u6f8e\u6e56\u5217\u5c9b"
+    ],
+    "name:yor_x_preferred":[
+        "Penghu"
+    ],
+    "name:yue_x_preferred":[
+        "\u6f8e\u6e56\u5217\u5cf6"
     ],
     "name:zho_x_preferred":[
         "\u6f8e\u6e56\u7e23"
     ],
     "name:zho_x_variant":[
         "\u6f8e\u6e56",
-        "\u6f8e\u6e56\u53bf"
+        "\u6f8e\u6e56\u53bf",
+        "\u6f8e\u6e56\u7fa4\u5cf6"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TWN",
@@ -168,7 +314,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1553550562,
+    "wof:lastmodified":1563279362,
     "wof:name":"Penghu",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

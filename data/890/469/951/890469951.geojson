@@ -13,6 +13,30 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Beitun District"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5317\u5c6f\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ubca0\uc774\ud230\uad6c"
+    ],
+    "name:nan_x_preferred":[
+        "Pak-t\u016bn-khu"
+    ],
+    "name:pol_x_preferred":[
+        "Beitun"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1eafc \u0110\u1ed3n"
+    ],
+    "name:zho_x_preferred":[
+        "\u58fd\u5fb7\u91cc"
+    ],
+    "name:zho_x_variant":[
+        "\u5317\u5c6f\u5340"
+    ],
     "qs:name":"\u5e73\u660c\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u4e2d\u5e02",
@@ -53,7 +77,7 @@
         }
     ],
     "wof:id":890469951,
-    "wof:lastmodified":1527792921,
+    "wof:lastmodified":1563280889,
     "wof:name":"\u5e73\u660c\u91cc",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

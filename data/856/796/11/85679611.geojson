@@ -25,6 +25,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ceb_x_preferred":[
+        "Nantou"
+    ],
     "name:ces_x_preferred":[
         "Nan-tchou"
     ],
@@ -59,8 +62,14 @@
     "name:jpn_x_preferred":[
         "\u5357\u6295"
     ],
+    "name:jpn_x_variant":[
+        "\u5357\u6295\u5e02"
+    ],
     "name:kor_x_preferred":[
         "\ub09c\ud130\uc6b0"
+    ],
+    "name:kor_x_variant":[
+        "\ub09c\ud130\uc6b0\uc2dc"
     ],
     "name:lit_x_preferred":[
         "Nantou"
@@ -80,11 +89,20 @@
     "name:rus_x_preferred":[
         "\u041d\u0430\u043d\u044c\u0442\u043e\u0443"
     ],
+    "name:spa_x_preferred":[
+        "Nantou"
+    ],
+    "name:tur_x_preferred":[
+        "Nantou"
+    ],
     "name:vie_x_preferred":[
         "Nam \u0110\u1ea7u"
     ],
     "name:war_x_preferred":[
         "Nantou"
+    ],
+    "name:yue_x_preferred":[
+        "\u5357\u6295\u5e02"
     ],
     "name:zho_min_nan_x_preferred":[
         "L\u00e2m-t\u00e2u"
@@ -217,7 +235,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1561775233,
+    "wof:lastmodified":1563279362,
     "wof:name":"Nantou",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

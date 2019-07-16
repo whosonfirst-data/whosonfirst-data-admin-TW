@@ -13,6 +13,132 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u064a\u0627\u0648\u0644\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09ae\u09bf\u09af\u09bc\u09be\u0993\u09b2\u09bf \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
+    ],
+    "name:cdo_x_preferred":[
+        "Mi\u00e8u-l\u012dk"
+    ],
+    "name:ceb_x_preferred":[
+        "Miaoli"
+    ],
+    "name:ces_x_preferred":[
+        "Okres Miao-li"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Miaoli"
+    ],
+    "name:dan_x_preferred":[
+        "Miaoli County"
+    ],
+    "name:deu_x_preferred":[
+        "Landkreis Miaoli"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03b9\u03b1\u03bf\u03bb\u03af"
+    ],
+    "name:eng_x_preferred":[
+        "Miaoli County"
+    ],
+    "name:eus_x_preferred":[
+        "Miaoli konderria"
+    ],
+    "name:fin_x_preferred":[
+        "Miaolin kunta"
+    ],
+    "name:frr_x_preferred":[
+        "Miaoli"
+    ],
+    "name:guj_x_preferred":[
+        "\u0aae\u0abf\u0aaf\u0abe\u0a93\u0ab2\u0ac0 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
+    ],
+    "name:hak_x_preferred":[
+        "M\u00e8u-li\u030dt-yen"
+    ],
+    "name:hin_x_preferred":[
+        "\u092e\u093f\u092f\u093e\u0913\u0932\u0940 \u0915\u093e\u0909\u0902\u091f\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Kabupaten Miaoli"
+    ],
+    "name:jpn_x_preferred":[
+        "\u82d7\u6817\u770c"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cae\u0cbf\u0caf\u0cbe\u0cb2\u0cbf \u0c95\u0ccc\u0c82\u0c9f\u0cbf"
+    ],
+    "name:kor_x_preferred":[
+        "\uba00\uc624\ub9ac\ud604"
+    ],
+    "name:lav_x_preferred":[
+        "Miaoli apri\u0146\u0137is"
+    ],
+    "name:lit_x_preferred":[
+        "Miaoli apskritis"
+    ],
+    "name:lzh_x_preferred":[
+        "\u82d7\u6817\u7e23"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2e\u0d3f\u0d2f\u0d4b\u0d32\u0d3f \u0d15\u0d57\u0d23\u0d4d\u0d1f\u0d3f"
+    ],
+    "name:mar_x_preferred":[
+        "\u092e\u093f\u092f\u093e\u0913\u0932\u0940 \u0915\u093e\u0909\u0902\u091f\u0940"
+    ],
+    "name:mon_x_preferred":[
+        "\u041c\u044f\u043e\u043b\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Daerah Miaoli"
+    ],
+    "name:nan_x_preferred":[
+        "Bi\u00e2u-le\u030dk-ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Miaoli"
+    ],
+    "name:nob_x_preferred":[
+        "Miaoli Fylke"
+    ],
+    "name:pol_x_preferred":[
+        "Miaoli"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u044f\u043e\u043b\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0db8\u0dd2\u0dba\u0dcf\u0d94\u0dbd\u0dd2 \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:swe_x_preferred":[
+        "Miaoli County"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c2e\u0c3f\u0c2f\u0c3e\u0c35\u0c4b\u0c32\u0c3f \u0c15\u0c4c\u0c02\u0c1f\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e2b\u0e21\u0e35\u0e22\u0e27\u0e25\u0e35\u0e48"
+    ],
+    "name:tur_x_preferred":[
+        "Miaoli County"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041e\u043a\u0440\u0443\u0433 \u041c\u044f\u043e\u043b\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0645\u06cc\u0627\u0648\u0644\u06cc \u06a9\u0627\u0624\u0646\u0679\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Mi\u00eau L\u1eadt"
+    ],
+    "name:yue_x_preferred":[
+        "\u82d7\u6817\u7e23"
+    ],
+    "name:zho_x_preferred":[
+        "\u82d7\u6817\u7e23"
+    ],
     "qs:name":"\u982d\u5c4b\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u82d7\u6817\u7e23",
@@ -53,7 +179,7 @@
         }
     ],
     "wof:id":890471445,
-    "wof:lastmodified":1554413769,
+    "wof:lastmodified":1563280695,
     "wof:name":"\u982d\u5c4b\u9109",
     "wof:parent_id":1108756879,
     "wof:placetype":"county",

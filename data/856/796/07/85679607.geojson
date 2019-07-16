@@ -25,8 +25,14 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ceb_x_preferred":[
+        "Hualian"
+    ],
     "name:ces_x_preferred":[
         "Chua-lien"
+    ],
+    "name:cym_x_preferred":[
+        "Dinas Hualien"
     ],
     "name:deu_x_preferred":[
         "Hualien"
@@ -68,6 +74,9 @@
     "name:kor_x_preferred":[
         "\ud654\ub844\ud604"
     ],
+    "name:kor_x_variant":[
+        "\ud654\ub844\uc2dc"
+    ],
     "name:lit_x_preferred":[
         "Hualianas"
     ],
@@ -89,6 +98,12 @@
     "name:sco_x_preferred":[
         "Hualien Ceety"
     ],
+    "name:spa_x_preferred":[
+        "Hualien"
+    ],
+    "name:sqi_x_preferred":[
+        "Hualien"
+    ],
     "name:tur_x_preferred":[
         "Hualien"
     ],
@@ -97,6 +112,9 @@
     ],
     "name:war_x_preferred":[
         "Hualien"
+    ],
+    "name:yue_x_preferred":[
+        "\u82b1\u84ee\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u82b1\u84ee\u7e23"
@@ -227,7 +245,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1561775234,
+    "wof:lastmodified":1563279363,
     "wof:name":"Hualien",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

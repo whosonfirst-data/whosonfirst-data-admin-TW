@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Xiluo"
     ],
+    "name:eng_x_variant":[
+        "Xiluo Township"
+    ],
     "name:hak_x_preferred":[
         "S\u00ee-l\u00f4-ts\u1e73\u0301n"
     ],
@@ -29,6 +32,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2dc\ub904 \uc9c4"
+    ],
+    "name:kor_x_variant":[
+        "\uc2dc\ub904\uc9c4"
     ],
     "name:lzh_x_preferred":[
         "\u897f\u87ba\u93ae"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":102026729,
-    "wof:lastmodified":1561775204,
+    "wof:lastmodified":1563278976,
     "wof:name":"Xiluo",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

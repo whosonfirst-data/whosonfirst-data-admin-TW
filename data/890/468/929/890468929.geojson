@@ -13,6 +13,36 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Chonma County"
+    ],
+    "name:hun_x_preferred":[
+        "Cshonma"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5929\u6469\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc9c\ub9c8\uad70"
+    ],
+    "name:nan_x_preferred":[
+        "Ch'\u014fnma K\u016bn"
+    ],
+    "name:nob_x_preferred":[
+        "Chonma"
+    ],
+    "name:pol_x_preferred":[
+        "Ch'\u014fnma"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0445\u043e\u043d\u043c\u0430"
+    ],
+    "name:vie_x_preferred":[
+        "Chonma"
+    ],
+    "name:zho_x_preferred":[
+        "\u5929\u6469\u90e1"
+    ],
     "qs:name":"\u65b0\u660c\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5357\u5e02",
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":890468929,
-    "wof:lastmodified":1527792969,
+    "wof:lastmodified":1563280988,
     "wof:name":"\u65b0\u660c\u91cc",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

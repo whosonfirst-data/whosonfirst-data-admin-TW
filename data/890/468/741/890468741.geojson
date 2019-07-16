@@ -24,6 +24,9 @@
     "name:eng_x_preferred":[
         "Miaoli"
     ],
+    "name:eng_x_variant":[
+        "Miaoli City"
+    ],
     "name:fas_x_preferred":[
         "\u0645\u06cc\u0627\u0626\u0648\u0644\u06cc"
     ],
@@ -42,8 +45,14 @@
     "name:kor_x_preferred":[
         "\uba00\uc624\ub9ac \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uba00\uc624\ub9ac\uc2dc"
+    ],
     "name:lit_x_preferred":[
         "Miaoli"
+    ],
+    "name:lzh_x_preferred":[
+        "\u82d7\u6817\u5e02"
     ],
     "name:nan_x_preferred":[
         "Bi\u00e2u-le\u030dk-chh\u012b"
@@ -60,11 +69,23 @@
     "name:rus_x_preferred":[
         "\u041c\u044f\u043e\u043b\u0438"
     ],
+    "name:spa_x_preferred":[
+        "Miaoli"
+    ],
+    "name:tur_x_preferred":[
+        "Miaoli"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041c\u044f\u043e\u043b\u0456"
+    ],
     "name:unk_x_variant":[
         "Miao-li"
     ],
     "name:vie_x_preferred":[
         "Mi\u00eau L\u1eadt"
+    ],
+    "name:yue_x_preferred":[
+        "\u82d7\u6817\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u82d7\u6817\u7e23"
@@ -106,7 +127,7 @@
         }
     ],
     "wof:id":890468741,
-    "wof:lastmodified":1561775325,
+    "wof:lastmodified":1563280957,
     "wof:name":"Miaoli",
     "wof:parent_id":1108756879,
     "wof:placetype":"county",

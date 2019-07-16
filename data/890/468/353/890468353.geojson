@@ -15,8 +15,32 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Checheng"
+    ],
+    "name:eng_x_preferred":[
+        "Checheng"
+    ],
+    "name:hak_x_preferred":[
+        "Tsh\u00e2-s\u00e0ng-hi\u00f4ng"
+    ],
+    "name:ita_x_preferred":[
+        "Checheng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u8eca\u57ce\u90f7"
+    ],
+    "name:kor_x_preferred":[
+        "\ucc98\uccad\ud5a5"
+    ],
+    "name:nan_x_preferred":[
+        "Chhia-si\u00e2\u207f-hiong"
+    ],
     "name:unk_x_variant":[
         "Checheng Siang"
+    ],
+    "name:vie_x_preferred":[
+        "Xa Th\u00e0nh"
     ],
     "name:zho_x_preferred":[
         "\u8eca\u57ce\u9109"
@@ -57,7 +81,7 @@
         }
     ],
     "wof:id":890468353,
-    "wof:lastmodified":1527792966,
+    "wof:lastmodified":1563280922,
     "wof:name":"Checheng Xiang",
     "wof:parent_id":85679549,
     "wof:placetype":"localadmin",

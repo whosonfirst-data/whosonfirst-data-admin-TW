@@ -31,8 +31,14 @@
     "name:cdo_x_preferred":[
         "Li\u00e8ng-g\u014fng-g\u00e2ing"
     ],
+    "name:ceb_x_preferred":[
+        "Lienchiang"
+    ],
     "name:ces_x_preferred":[
         "Okres Lien-\u0165iang"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Lienchiang"
     ],
     "name:eng_x_preferred":[
         "Lienchiang County"
@@ -55,6 +61,9 @@
     "name:kor_x_preferred":[
         "\ub844\uc7a5 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ub844\uc7a5\ud604"
+    ],
     "name:nan_x_preferred":[
         "Li\u00e2n-kang-ko\u0101n"
     ],
@@ -63,6 +72,9 @@
     ],
     "name:yue_x_preferred":[
         "\u9023\u6c5f\u7e23"
+    ],
+    "name:yue_x_variant":[
+        "\u9023\u6c5f"
     ],
     "name:zho_x_preferred":[
         "\u9023\u6c5f\u7e23"
@@ -93,7 +105,7 @@
         }
     ],
     "wof:id":1108497811,
-    "wof:lastmodified":1561775295,
+    "wof:lastmodified":1563280303,
     "wof:name":"Lienchiang",
     "wof:parent_id":85679637,
     "wof:placetype":"macrocounty",

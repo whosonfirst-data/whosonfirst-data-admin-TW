@@ -31,6 +31,9 @@
     "name:ces_x_preferred":[
         "\u0164ia-i"
     ],
+    "name:cym_x_preferred":[
+        "Chiayi City"
+    ],
     "name:dan_x_preferred":[
         "Chiayi"
     ],
@@ -88,6 +91,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc790\uc774 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\uc790\uc774\uc2dc"
     ],
     "name:lav_x_preferred":[
         "Dzjaji"
@@ -307,7 +313,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1561775203,
+    "wof:lastmodified":1563278961,
     "wof:name":"Jiayi Shi",
     "wof:parent_id":85679603,
     "wof:placetype":"locality",

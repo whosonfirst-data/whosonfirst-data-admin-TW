@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00023,
-    "geom:area_square_m":2577862.610045,
+    "geom:area_square_m":2577862.610044,
     "geom:bbox":"121.526352216,24.9421713504,121.546157602,24.9561800201",
     "geom:latitude":24.949811,
     "geom:longitude":121.536163,
@@ -18,8 +18,14 @@
     "mps:longitude":121.536165,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Xindian"
+    ],
     "name:eng_x_preferred":[
         "Xindian District"
+    ],
+    "name:fra_x_preferred":[
+        "Sindian"
     ],
     "name:hak_x_preferred":[
         "S\u00een-tiam-kh\u00ee"
@@ -30,20 +36,38 @@
     "name:kor_x_preferred":[
         "\uc2e0\ub3ac \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc2e0\ub3ac\uad6c"
+    ],
     "name:lit_x_preferred":[
         "Sindianas"
     ],
     "name:lzh_x_preferred":[
         "\u65b0\u5e97\u5340"
     ],
+    "name:msa_x_preferred":[
+        "Xindian"
+    ],
     "name:nan_x_preferred":[
         "Sin-ti\u00e0m-khu"
+    ],
+    "name:nld_x_preferred":[
+        "Xindian District"
+    ],
+    "name:pol_x_preferred":[
+        "Xindian"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0456\u043d\u044c\u0434\u044f\u043d\u044c"
     ],
     "name:unk_x_variant":[
         "Hsin-tien-chen"
     ],
     "name:vie_x_preferred":[
         "T\u00e2n \u0110i\u1ebfm"
+    ],
+    "name:war_x_preferred":[
+        "Xindian"
     ],
     "name:zho_x_preferred":[
         "\u65b0\u5e97\u5340"
@@ -88,7 +112,7 @@
         }
     ],
     "wof:id":102026721,
-    "wof:lastmodified":1501867557,
+    "wof:lastmodified":1563278975,
     "wof:name":"Xindian",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

@@ -15,8 +15,41 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Hengchun"
+    ],
+    "name:eng_x_preferred":[
+        "Hengchun Township"
+    ],
+    "name:fas_x_preferred":[
+        "\u0647\u0646\u06af\u0686\u0648\u0646"
+    ],
+    "name:hak_x_preferred":[
+        "H\u00e8n-tsh\u00fbn-ts\u1e73\u0301n"
+    ],
+    "name:ind_x_preferred":[
+        "Hengchun"
+    ],
+    "name:ita_x_preferred":[
+        "Hengchun"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6052\u6625\u93ae"
+    ],
+    "name:kor_x_preferred":[
+        "\ud5dd\ucd98\uc9c4"
+    ],
+    "name:nan_x_preferred":[
+        "H\u00eang-chhun-t\u00ecn"
+    ],
     "name:unk_x_variant":[
         "Hengchun Jhen"
+    ],
+    "name:vie_x_preferred":[
+        "H\u1eb1ng Xu\u00e2n"
+    ],
+    "name:yue_x_preferred":[
+        "\u6046\u6625\u93ae"
     ],
     "name:zho_x_preferred":[
         "\u6046\u6625\u93ae"
@@ -57,7 +90,7 @@
         }
     ],
     "wof:id":890468717,
-    "wof:lastmodified":1527792970,
+    "wof:lastmodified":1563280990,
     "wof:name":"Hengchun Zhen",
     "wof:parent_id":85679549,
     "wof:placetype":"localadmin",

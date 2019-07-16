@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001286,
-    "geom:area_square_m":14428426.497181,
+    "geom:area_square_m":14428426.497195,
     "geom:bbox":"121.207757426,24.8126122244,121.249514974,24.870545298",
     "geom:latitude":24.840502,
     "geom:longitude":121.2243,
@@ -18,11 +18,20 @@
     "mps:longitude":121.219823,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Longtan"
+    ],
     "name:eng_x_preferred":[
         "Longtan District"
     ],
+    "name:eng_x_variant":[
+        "Longtan"
+    ],
     "name:hak_x_preferred":[
         "Li\u00f9ng-th\u00e2m-kh\u00ee"
+    ],
+    "name:hak_x_variant":[
+        "Li\u00f9ng-th\u00e2m-hi\u00f4ng"
     ],
     "name:jpn_x_preferred":[
         "\u9f8d\u6f6d\u533a"
@@ -30,11 +39,23 @@
     "name:kor_x_preferred":[
         "\ub8fd\ud0c4 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub8fd\ud0c4 \ud5a5"
+    ],
     "name:lit_x_preferred":[
         "Longtanas"
     ],
+    "name:nan_x_preferred":[
+        "Li\u00f4ng-th\u00e2m-khu"
+    ],
+    "name:por_x_preferred":[
+        "Longtan"
+    ],
     "name:vie_x_preferred":[
         "Long \u0110\u00e0m"
+    ],
+    "name:war_x_preferred":[
+        "Longtan"
     ],
     "name:zho_x_preferred":[
         "Lung-t\u2019an-chuang"
@@ -81,7 +102,7 @@
         }
     ],
     "wof:id":102026693,
-    "wof:lastmodified":1501221470,
+    "wof:lastmodified":1563278951,
     "wof:name":"Longtan",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

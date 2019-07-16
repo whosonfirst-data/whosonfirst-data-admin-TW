@@ -37,6 +37,9 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u064a\u0628\u064a\u0647"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u064a\u0628\u064a\u0647"
+    ],
     "name:ast_x_preferred":[
         "Taip\u00e9i"
     ],
@@ -46,8 +49,14 @@
     "name:aze_x_preferred":[
         "Taybey"
     ],
+    "name:bcl_x_preferred":[
+        "Taipei"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0430\u0439\u0431\u044d\u0439"
+    ],
+    "name:bel_x_variant":[
+        "\u0422\u0430\u0439\u0431\u044d\u0439"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0987\u09aa\u09c7"
@@ -72,6 +81,9 @@
     ],
     "name:cdo_x_preferred":[
         "D\u00e0i-b\u00e1e\u0324k"
+    ],
+    "name:ceb_x_preferred":[
+        "Taipei"
     ],
     "name:ces_x_preferred":[
         "Tchaj-pej"
@@ -146,6 +158,9 @@
     "name:glg_x_preferred":[
         "Taipei"
     ],
+    "name:gsw_x_preferred":[
+        "Taipeh"
+    ],
     "name:guj_x_preferred":[
         "\u0aa4\u0abe\u0aaf\u0aaa\u0ac7\u0a88"
     ],
@@ -175,6 +190,9 @@
     ],
     "name:hye_x_preferred":[
         "\u0539\u0561\u0575\u0562\u0565\u0575"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0539\u0561\u0575\u0562\u0567\u0575"
     ],
     "name:ido_x_preferred":[
         "Taipei"
@@ -206,6 +224,9 @@
     "name:jpn_x_preferred":[
         "\u53f0\u5317\u5e02"
     ],
+    "name:kal_x_preferred":[
+        "Taipei"
+    ],
     "name:kan_x_preferred":[
         "\u0ca4\u0cc8\u0caa\u0cc6"
     ],
@@ -224,11 +245,17 @@
     "name:kor_x_preferred":[
         "\ud0c0\uc774\ubca0\uc774 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\ud0c0\uc774\ubca0\uc774\uc2dc"
+    ],
     "name:lad_x_preferred":[
         "Taipei"
     ],
     "name:lat_x_preferred":[
         "Taipeium"
+    ],
+    "name:lat_x_variant":[
+        "Taipeia"
     ],
     "name:lav_x_preferred":[
         "Taibei"
@@ -347,7 +374,13 @@
     "name:slv_x_preferred":[
         "Tajpej"
     ],
+    "name:sme_x_preferred":[
+        "Taipei"
+    ],
     "name:sna_x_preferred":[
+        "Taipei"
+    ],
+    "name:som_x_preferred":[
         "Taipei"
     ],
     "name:spa_x_preferred":[
@@ -365,11 +398,20 @@
     "name:swe_x_preferred":[
         "Taipei"
     ],
+    "name:szl_x_preferred":[
+        "Tajpej"
+    ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbe\u0baf\u0bcd\u0baa\u0bc6\u0baf\u0bcd"
     ],
     "name:tat_x_preferred":[
         "Taybey"
+    ],
+    "name:tat_x_variant":[
+        "\u0422\u04d9\u0439\u0431\u0435\u0439"
+    ],
+    "name:tay_x_preferred":[
+        "Taypey"
     ],
     "name:tel_x_preferred":[
         "\u0c24\u0c3e\u0c2f\u0c3f\u0c2a\u0c46\u0c2f\u0c4d"
@@ -559,7 +601,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1561775235,
+    "wof:lastmodified":1563279372,
     "wof:name":"Taipei City",
     "wof:parent_id":1108808545,
     "wof:placetype":"region",

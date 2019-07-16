@@ -13,6 +13,48 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Wanli"
+    ],
+    "name:eng_x_preferred":[
+        "Wanli District"
+    ],
+    "name:fra_x_preferred":[
+        "Wanli"
+    ],
+    "name:hak_x_preferred":[
+        "Van-l\u00ee-kh\u00ee"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e07\u91cc\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc644\ub9ac\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Vanli"
+    ],
+    "name:nan_x_preferred":[
+        "B\u0101n-l\u00ed-khu"
+    ],
+    "name:pol_x_preferred":[
+        "Wanli"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043d\u044c\u043b\u0456"
+    ],
+    "name:vie_x_preferred":[
+        "V\u1ea1n L\u00fd"
+    ],
+    "name:yue_x_preferred":[
+        "\u842c\u91cc\u5340"
+    ],
+    "name:zho_x_preferred":[
+        "\u5efa\u83ef\u91cc"
+    ],
+    "name:zho_x_variant":[
+        "\u842c\u91cc\u5340"
+    ],
     "qs:name":"\u5927\u9d6c\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u4e2d\u5e02",
@@ -53,7 +95,7 @@
         }
     ],
     "wof:id":890467545,
-    "wof:lastmodified":1527792897,
+    "wof:lastmodified":1563280817,
     "wof:name":"\u5927\u9d6c\u91cc",
     "wof:parent_id":102026719,
     "wof:placetype":"neighbourhood",

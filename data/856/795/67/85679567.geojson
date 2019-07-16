@@ -25,6 +25,9 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ceb_x_preferred":[
+        "Yilan"
+    ],
     "name:ces_x_preferred":[
         "I-lan"
     ],
@@ -61,8 +64,14 @@
     "name:jpn_x_preferred":[
         "\u5b9c\u862d"
     ],
+    "name:jpn_x_variant":[
+        "\u5b9c\u862d\u5e02"
+    ],
     "name:kor_x_preferred":[
         "\uc774\ub780"
+    ],
+    "name:kor_x_variant":[
+        "\uc774\ub780\uc2dc"
     ],
     "name:lit_x_preferred":[
         "Jilanas"
@@ -88,11 +97,17 @@
     "name:tur_x_preferred":[
         "Yilan"
     ],
+    "name:ukr_x_preferred":[
+        "\u0406\u043b\u0430\u043d"
+    ],
     "name:urd_x_preferred":[
         "\u06cc\u0644\u0646 \u0633\u0679\u06cc"
     ],
     "name:vie_x_preferred":[
         "Nghi Lan"
+    ],
+    "name:yue_x_preferred":[
+        "\u5b9c\u862d\u5e02"
     ],
     "name:zho_min_nan_x_preferred":[
         "G\u00ee-l\u00e2n"
@@ -225,7 +240,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1561775234,
+    "wof:lastmodified":1563279368,
     "wof:name":"Yilan",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

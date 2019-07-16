@@ -60,6 +60,12 @@
     "name:kor_x_preferred":[
         "\ud0c0\uc774\ub09c \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ud0c0\uc774\ub09c\ud604"
+    ],
+    "name:lzh_x_preferred":[
+        "\u81fa\u5357\u7e23"
+    ],
     "name:nan_x_preferred":[
         "T\u00e2i-l\u00e2m-ko\u0101n"
     ],
@@ -83,6 +89,9 @@
     ],
     "name:zho_x_preferred":[
         "\u53f0\u5357\u7e23"
+    ],
+    "name:zho_x_variant":[
+        "\u81fa\u5357\u7e23"
     ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
@@ -110,7 +119,7 @@
         }
     ],
     "wof:id":1108756869,
-    "wof:lastmodified":1561775279,
+    "wof:lastmodified":1563280274,
     "wof:name":"Tainan",
     "wof:parent_id":85679553,
     "wof:placetype":"macrocounty",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000955,
-    "geom:area_square_m":10708945.964087,
+    "geom:area_square_m":10708945.964076,
     "geom:bbox":"121.424727755,24.9521323187,121.458268968,24.9961581473",
     "geom:latitude":24.973092,
     "geom:longitude":121.442343,
@@ -18,13 +18,59 @@
     "mps:longitude":121.440343,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tucheng"
+    ],
+    "name:eng_x_preferred":[
+        "Tucheng District"
+    ],
+    "name:fra_x_preferred":[
+        "Tucheng"
+    ],
+    "name:hak_x_preferred":[
+        "Th\u00fa-s\u00e0ng-kh\u00ee"
+    ],
+    "name:jpn_x_preferred":[
+        "\u571f\u57ce\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ud22c\uccad\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Tu\u010dengas"
+    ],
+    "name:lzh_x_preferred":[
+        "\u571f\u57ce\u5340"
+    ],
+    "name:nan_x_preferred":[
+        "Th\u00f4\u0358-si\u00e2\u207f-khu"
+    ],
+    "name:nld_x_preferred":[
+        "Tucheng District"
+    ],
+    "name:pol_x_preferred":[
+        "Tucheng"
+    ],
+    "name:tur_x_preferred":[
+        "Tucheng District"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0443\u0447\u0435\u043d"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ed5 Th\u00e0nh"
+    ],
+    "name:war_x_preferred":[
+        "Tucheng"
+    ],
     "name:zho_x_preferred":[
         "T\u2019u-ch\u2019eng-chuang"
     ],
     "name:zho_x_variant":[
         "T\u2019u-ch\u2019eng-hsiang",
         "\u571f\u57ce",
-        "T\u2019u-ch\u2019eng"
+        "T\u2019u-ch\u2019eng",
+        "\u571f\u57ce\u5340"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -63,7 +109,7 @@
         }
     ],
     "wof:id":102026623,
-    "wof:lastmodified":1501221416,
+    "wof:lastmodified":1563278965,
     "wof:name":"Tucheng",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

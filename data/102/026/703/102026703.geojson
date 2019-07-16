@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00028,
-    "geom:area_square_m":3129523.864658,
+    "geom:area_square_m":3129523.864662,
     "geom:bbox":"121.811981199,25.1213367921,121.831817671,25.1393948243",
     "geom:latitude":25.130366,
     "geom:longitude":121.821899,
@@ -18,8 +18,14 @@
     "mps:longitude":121.8219,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Ruifang"
+    ],
     "name:eng_x_preferred":[
         "Ruifang District"
+    ],
+    "name:fra_x_preferred":[
+        "Ruifang"
     ],
     "name:hak_x_preferred":[
         "Lui-f\u00f4ng-kh\u00ee"
@@ -30,14 +36,26 @@
     "name:kor_x_preferred":[
         "\ub8e8\uc774\ud321 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub8e8\uc774\ud321\uad6c"
+    ],
     "name:lit_x_preferred":[
         "\u017duifangas"
+    ],
+    "name:lit_x_variant":[
+        "Ruifangas"
     ],
     "name:lzh_x_preferred":[
         "\u745e\u82b3\u5340"
     ],
     "name:nan_x_preferred":[
         "S\u016bi-hong-khu"
+    ],
+    "name:pol_x_preferred":[
+        "Ruifang"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0416\u0443\u0439\u0444\u0430\u043d"
     ],
     "name:unk_x_variant":[
         "Jui-fang-chuang"
@@ -49,7 +67,8 @@
         "\u745e\u82b3"
     ],
     "name:zho_x_variant":[
-        "\u745e\u82b3\u5340"
+        "\u745e\u82b3\u5340",
+        "\u6046\u6625\u93ae"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -82,7 +101,7 @@
         }
     ],
     "wof:id":102026703,
-    "wof:lastmodified":1506732165,
+    "wof:lastmodified":1563278961,
     "wof:name":"Ruifang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

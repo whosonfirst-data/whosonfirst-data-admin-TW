@@ -31,20 +31,47 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u064a\u0628\u064a\u0647 \u0627\u0644\u062c\u062f\u064a\u062f\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u064a\u067e\u064a\u0647 \u0627\u0644\u062c\u062f\u064a\u062f\u0647"
+    ],
+    "name:ast_x_preferred":[
+        "Nuevu Taip\u00e9i"
+    ],
+    "name:bel_x_preferred":[
+        "\u041d\u043e\u0432\u044b \u0422\u0430\u0439\u0431\u044d\u0439"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09bf\u0989 \u09a4\u09be\u0987\u09aa\u09c7 \u09b8\u09bf\u099f\u09bf"
+    ],
+    "name:cat_x_preferred":[
+        "Nova Taipei"
+    ],
     "name:cdo_x_preferred":[
         "S\u012dng-b\u00e1e\u0324k"
+    ],
+    "name:ceb_x_preferred":[
+        "Taipei"
     ],
     "name:ces_x_preferred":[
         "Nov\u00e1 Tchaj-pej"
     ],
+    "name:ces_x_variant":[
+        "Nov\u00fd Tchaj-pej"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0438\u043d\u044c\u0431\u044d\u0439"
+    ],
+    "name:cym_x_preferred":[
+        "Dinas Newydd Taipei"
     ],
     "name:dan_x_preferred":[
         "Ny Taipei"
     ],
     "name:deu_x_preferred":[
         "Neu-Taipeh"
+    ],
+    "name:ell_x_preferred":[
+        "\u039d\u03b9\u03bf\u03cd \u03a4\u03b1\u03ca\u03c0\u03ad\u03b9 \u03a3\u03af\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
         "New Taipei City"
@@ -72,17 +99,29 @@
     "name:fra_x_preferred":[
         "Nouveau Taipei"
     ],
+    "name:guj_x_preferred":[
+        "\u0aa8\u0acd\u0aaf\u0ac1 \u0aa4\u0abe\u0a87\u0aaa\u0ac7 \u0ab6\u0ab9\u0ac7\u0ab0"
+    ],
     "name:hak_x_preferred":[
         "S\u00een-pet-s\u1e73"
     ],
     "name:heb_x_preferred":[
         "\u05e0\u05d9\u05d5 \u05d8\u05d0\u05d9\u05e4\u05d9\u05d9"
     ],
+    "name:hin_x_preferred":[
+        "\u0928\u094d\u092f\u0942 \u0924\u093e\u0907\u092a\u0947 \u0936\u0939\u0930"
+    ],
     "name:hun_x_preferred":[
         "Hszinpej"
     ],
+    "name:hye_x_preferred":[
+        "\u0546\u0578\u0580 \u0546\u0561\u0575\u057a\u0565\u0575"
+    ],
     "name:ind_x_preferred":[
         "Kota New Taipei"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Taipei"
     ],
     "name:ita_x_preferred":[
         "Nuova Taipei"
@@ -90,11 +129,29 @@
     "name:jpn_x_preferred":[
         "\u65b0\u5317\u5e02"
     ],
+    "name:kan_x_preferred":[
+        "\u0cb9\u0cca\u0cb8 \u0ca4\u0cc8\u0caa\u0cc6 \u0ca8\u0c97\u0cb0"
+    ],
     "name:kor_x_preferred":[
         "\uc2e0\ubca0\uc774 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc2e0\ubca0\uc774\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Sinbei"
+    ],
     "name:lit_x_preferred":[
         "Sinb\u0117jus"
+    ],
+    "name:lzh_x_preferred":[
+        "\u65b0\u5317\u5e02"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d28\u0d4d\u0d2f\u0d42 \u0d24\u0d3e\u0d2f\u0d4d\u0d2a\u0d46\u0d2f\u0d4d \u0d28\u0d17\u0d30\u0d02"
+    ],
+    "name:mar_x_preferred":[
+        "\u0928\u094d\u092f\u0942 \u0924\u093e\u0907\u092a\u0947 \u0936\u0939\u0930"
     ],
     "name:mkd_x_preferred":[
         "\u041d\u043e\u0432 \u0422\u0430\u0458\u043f\u0435\u0458"
@@ -102,8 +159,20 @@
     "name:mon_x_preferred":[
         "\u0428\u0438\u043d\u044c\u0431\u044d\u0439"
     ],
+    "name:msa_x_preferred":[
+        "New Taipei City"
+    ],
+    "name:nan_x_preferred":[
+        "Sin-pak-chh\u012b"
+    ],
     "name:nld_x_preferred":[
         "Nieuw Taipei"
+    ],
+    "name:nob_x_preferred":[
+        "Ny Taipei"
+    ],
+    "name:oci_x_preferred":[
+        "Nau Taipeh"
     ],
     "name:pan_x_preferred":[
         "\u0a28\u0a35\u0a3e\u0a02 \u0a24\u0a3e\u0a08\u0a2a\u0a08 \u0a38\u0a3c\u0a39\u0a3f\u0a30"
@@ -114,6 +183,9 @@
     "name:por_x_preferred":[
         "Nova Taip\u00e9"
     ],
+    "name:por_x_variant":[
+        "Novo Taip\u00e9"
+    ],
     "name:que_x_preferred":[
         "Musuq T'aypik"
     ],
@@ -123,8 +195,20 @@
     "name:sco_x_preferred":[
         "New Taipei"
     ],
+    "name:sin_x_preferred":[
+        "\u0db1\u0dd2\u0dc0\u0dca \u0dad\u0dcf\u0dba\u0dd2\u0db4\u0dda \u0db1\u0d9c\u0dbb\u0dba"
+    ],
     "name:spa_x_preferred":[
         "Nuevo Taip\u00e9i"
+    ],
+    "name:swe_x_preferred":[
+        "Ny Taipei City"
+    ],
+    "name:tam_x_preferred":[
+        "\u0ba8\u0bbf\u0baf\u0bc2  \u0b9f\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c28\u0c4d\u0c2f\u0c42 \u0c1f\u0c3e\u0c2f\u0c3f\u0c2a\u0c46\u0c2f\u0c4d \u0c38\u0c3f\u0c1f\u0c40"
     ],
     "name:tgl_x_preferred":[
         "New Taipei"
@@ -150,7 +234,13 @@
     "name:war_x_preferred":[
         "Syudad han Bag-o nga Taipei"
     ],
+    "name:war_x_variant":[
+        "Bag-o nga Taipei"
+    ],
     "name:wuu_x_preferred":[
+        "\u65b0\u5317\u5e02"
+    ],
+    "name:yue_x_preferred":[
         "\u65b0\u5317\u5e02"
     ],
     "name:zha_x_preferred":[
@@ -167,7 +257,6 @@
         "\u65b0\u5317\u5e02"
     ],
     "name:zho_x_variant":[
-        "\u65b0\u5317\u5e02",
         "T\u2019ai-wan",
         "\u81fa\u5317\u7e23",
         "T\u2019ai-wan Sheng",
@@ -302,7 +391,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1553550556,
+    "wof:lastmodified":1563279373,
     "wof:name":"New Taipei City",
     "wof:parent_id":1108808549,
     "wof:placetype":"region",

@@ -31,14 +31,23 @@
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0647\u0648\u0627\u0644\u064a\u0646"
     ],
+    "name:ara_x_variant":[
+        "\u0647\u0648\u0627\u0644\u064a\u0646"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09af\u09bc\u09be\u09b2\u09bf\u09af\u09bc\u09c7\u09a8 \u0995\u09be\u0989\u09a8\u09cd\u099f\u09bf"
     ],
     "name:cdo_x_preferred":[
         "Hu\u0103-li\u00e8ng"
     ],
+    "name:ceb_x_preferred":[
+        "Hualien"
+    ],
     "name:ces_x_preferred":[
         "Okres Chua-lien"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Hualien"
     ],
     "name:dan_x_preferred":[
         "Hualien County"
@@ -67,6 +76,12 @@
     "name:fra_x_preferred":[
         "Comt\u00e9 d'Hualien"
     ],
+    "name:fra_x_variant":[
+        "comt\u00e9 d'Hualien"
+    ],
+    "name:frr_x_preferred":[
+        "Hualien"
+    ],
     "name:guj_x_preferred":[
         "\u0ab9\u0ac1\u0a86\u0ab2\u0abf\u0aaf\u0aa8 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
     ],
@@ -90,6 +105,9 @@
     ],
     "name:kor_x_preferred":[
         "\ud654\ub844 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ud654\ub844\ud604"
     ],
     "name:lav_x_preferred":[
         "Hualia\u0146as apri\u0146\u0137is"
@@ -192,7 +210,7 @@
         }
     ],
     "wof:id":1108498083,
-    "wof:lastmodified":1561775294,
+    "wof:lastmodified":1563280301,
     "wof:name":"Hualien",
     "wof:parent_id":85679607,
     "wof:placetype":"macrocounty",
