@@ -31,11 +31,20 @@
     "name:ara_x_preferred":[
         "\u0628\u0633\u0643\u0627\u062f\u0648\u0631\u0632"
     ],
+    "name:ast_x_preferred":[
+        "Islles Pescadores"
+    ],
     "name:cdo_x_preferred":[
         "P\u00e0ng-h\u00f9-g\u00e2ing"
     ],
     "name:ces_x_preferred":[
         "Okres Pcheng-chu"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Penghu"
+    ],
+    "name:dan_x_preferred":[
+        "Pescadorerne"
     ],
     "name:deu_x_preferred":[
         "Landkreis Penghu"
@@ -49,14 +58,26 @@
     "name:epo_x_preferred":[
         "Penghuoj"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0646\u06af\u0647\u0648"
+    ],
+    "name:fin_x_preferred":[
+        "Peskadorit"
+    ],
     "name:fra_x_preferred":[
         "comt\u00e9 de Penghu"
+    ],
+    "name:frr_x_preferred":[
+        "Penghu"
     ],
     "name:hak_x_preferred":[
         "Ph\u00e0ng-f\u00f9-yen"
     ],
     "name:ind_x_preferred":[
         "Kabupaten Penghu"
+    ],
+    "name:isl_x_preferred":[
+        "Penghu"
     ],
     "name:ita_x_preferred":[
         "contea di Penghu"
@@ -67,17 +88,56 @@
     "name:kor_x_preferred":[
         "\ud391\ud6c4 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\ud391\ud6c4\ud604"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d2a\u0d46\u0d7b\u0d18\u0d41"
+    ],
+    "name:mon_x_preferred":[
+        "\u041f\u04e9\u043d\u0445\u04af"
+    ],
+    "name:msa_x_preferred":[
+        "Penghu"
+    ],
     "name:nan_x_preferred":[
         "Ph\u00ea\u207f-\u00f4\u0358-ko\u0101n"
+    ],
+    "name:nld_x_preferred":[
+        "Pescadores"
+    ],
+    "name:por_x_preferred":[
+        "Penghu"
     ],
     "name:rus_x_preferred":[
         "\u041f\u044d\u043d\u0445\u0443"
     ],
+    "name:sco_x_preferred":[
+        "Penghu"
+    ],
+    "name:spa_x_preferred":[
+        "Islas Pescadores"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e1c\u0e34\u0e07\u0e2b\u0e39"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0435\u043d\u0445\u0443"
+    ],
     "name:und_x_variant":[
         "\u6f8e\u6e56\u7e23"
     ],
+    "name:urd_x_preferred":[
+        "\u067e\u06cc\u0646\u06af\u06c1\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00e0nh H\u1ed3"
+    ],
     "name:wuu_x_preferred":[
         "\u6f8e\u6e56\u53bf"
+    ],
+    "name:yor_x_preferred":[
+        "Penghu"
     ],
     "name:yue_x_preferred":[
         "\u6f8e\u6e56\u7e23"
@@ -111,7 +171,7 @@
         }
     ],
     "wof:id":1108500085,
-    "wof:lastmodified":1561775284,
+    "wof:lastmodified":1563280284,
     "wof:name":"Penghu",
     "wof:parent_id":85679627,
     "wof:placetype":"macrocounty",

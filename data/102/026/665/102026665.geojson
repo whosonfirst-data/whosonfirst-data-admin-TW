@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002269,
-    "geom:area_square_m":25422281.085403,
+    "geom:area_square_m":25422281.085333,
     "geom:bbox":"121.416486254,24.9811921615,121.490077025,25.037597971",
     "geom:latitude":25.008009,
     "geom:longitude":121.45469,
@@ -19,6 +19,15 @@
     "mps:longitude":121.461379,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Banqiao"
+    ],
+    "name:ces_x_preferred":[
+        "Pan-\u010dchiao"
+    ],
+    "name:deu_x_preferred":[
+        "Banqiao"
+    ],
     "name:eng_x_preferred":[
         "Banqiao District"
     ],
@@ -27,8 +36,62 @@
         "Banciao",
         "Banqiao"
     ],
+    "name:epo_x_preferred":[
+        "Pan\u0109iao"
+    ],
+    "name:fin_x_preferred":[
+        "Banqiao"
+    ],
+    "name:fra_x_preferred":[
+        "Panchiao"
+    ],
+    "name:hak_x_preferred":[
+        "P\u00e1n-khi\u00e8u-kh\u00ee"
+    ],
+    "name:jpn_x_preferred":[
+        "\u677f\u6a4b\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc18\ucc28\uc624\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Ban\u010diao"
+    ],
+    "name:lzh_x_preferred":[
+        "\u677f\u6a4b\u5340"
+    ],
+    "name:nan_x_preferred":[
+        "Pang-ki\u00f4-khu"
+    ],
+    "name:nld_x_preferred":[
+        "Banqiao"
+    ],
+    "name:nob_x_preferred":[
+        "Panchiao"
+    ],
+    "name:pol_x_preferred":[
+        "Banqiao"
+    ],
+    "name:sco_x_preferred":[
+        "Banqiao Destrict"
+    ],
+    "name:spa_x_preferred":[
+        "Panch'iao"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043d\u044c\u0446\u044f\u043e"
+    ],
     "name:unk_x_variant":[
         "San-kuang-li"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ea3n Ki\u1ec1u"
+    ],
+    "name:war_x_preferred":[
+        "Banqiao"
+    ],
+    "name:yue_x_preferred":[
+        "\u677f\u6a4b\u5340"
     ],
     "name:zho_x_historical":[
         "\u678b\u6a4b"
@@ -84,7 +147,7 @@
         }
     ],
     "wof:id":102026665,
-    "wof:lastmodified":1505338992,
+    "wof:lastmodified":1563278973,
     "wof:name":"Banqiao",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

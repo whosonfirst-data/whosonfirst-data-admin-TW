@@ -37,8 +37,14 @@
     "name:cdo_x_preferred":[
         "N\u00e0ng-d\u00e0u"
     ],
+    "name:ceb_x_preferred":[
+        "Nantou"
+    ],
     "name:ces_x_preferred":[
         "Okres Nan-tchou"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Nantou"
     ],
     "name:dan_x_preferred":[
         "Nantou County"
@@ -63,6 +69,9 @@
     ],
     "name:fra_x_preferred":[
         "Comt\u00e9 de Nantou"
+    ],
+    "name:frr_x_preferred":[
+        "Nantou"
     ],
     "name:gan_x_preferred":[
         "\u5357\u6295"
@@ -90,6 +99,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub09c\ud130\uc6b0 \ud604"
+    ],
+    "name:kor_x_variant":[
+        "\ub09c\ud130\uc6b0\ud604"
     ],
     "name:lav_x_preferred":[
         "Na\u0146tou apri\u0146\u0137is"
@@ -192,7 +204,7 @@
         }
     ],
     "wof:id":1108498475,
-    "wof:lastmodified":1561775293,
+    "wof:lastmodified":1563280299,
     "wof:name":"Nantou",
     "wof:parent_id":85679611,
     "wof:placetype":"macrocounty",

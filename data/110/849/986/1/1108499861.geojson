@@ -37,8 +37,14 @@
     "name:cdo_x_preferred":[
         "G\u0103-ngi\u00ea"
     ],
+    "name:ceb_x_preferred":[
+        "Chiayi"
+    ],
     "name:ces_x_preferred":[
         "Okres \u0164ia-i"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Chiayi"
     ],
     "name:dan_x_preferred":[
         "Chiayi County"
@@ -64,6 +70,9 @@
     "name:fra_x_preferred":[
         "Comt\u00e9 de Chiayi"
     ],
+    "name:frr_x_preferred":[
+        "Chiayi"
+    ],
     "name:guj_x_preferred":[
         "\u0a9a\u0ac0\u0a86\u0aaf\u0ac0 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
     ],
@@ -88,6 +97,9 @@
     "name:kor_x_preferred":[
         "\uc790\uc774 \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc790\uc774\ud604"
+    ],
     "name:lav_x_preferred":[
         "Czai apgabals"
     ],
@@ -99,6 +111,9 @@
     ],
     "name:mar_x_preferred":[
         "\u091a\u093f\u0906\u0908 \u0915\u093e\u0909\u0902\u091f\u0940"
+    ],
+    "name:mon_x_preferred":[
+        "\u0416\u044f\u0438 \u0448\u044f\u043d\u044c"
     ],
     "name:msa_x_preferred":[
         "Daerah Chiayi"
@@ -186,7 +201,7 @@
         }
     ],
     "wof:id":1108499861,
-    "wof:lastmodified":1561775298,
+    "wof:lastmodified":1563280307,
     "wof:name":"Chiayi",
     "wof:parent_id":85679603,
     "wof:placetype":"macrocounty",

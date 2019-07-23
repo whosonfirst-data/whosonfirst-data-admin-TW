@@ -22,11 +22,17 @@
     "name:ara_x_preferred":[
         "\u0632\u0648\u0646\u063a\u0644\u064a"
     ],
+    "name:ceb_x_preferred":[
+        "Zhongli"
+    ],
     "name:deu_x_preferred":[
         "Zhongli"
     ],
     "name:eng_x_preferred":[
         "Zhongli District"
+    ],
+    "name:eng_x_variant":[
+        "Zhongli"
     ],
     "name:fra_x_preferred":[
         "Chungli"
@@ -37,6 +43,9 @@
     "name:hak_x_preferred":[
         "Ch\u00fbng-la\u030dk-kh\u00ee"
     ],
+    "name:hak_x_variant":[
+        "Ch\u00fbng-la\u030dk-s\u1e73"
+    ],
     "name:hun_x_preferred":[
         "Csungli"
     ],
@@ -45,6 +54,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc911\ub9ac \uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc911\ub9ac\uad6c"
     ],
     "name:lit_x_preferred":[
         "D\u017eongli"
@@ -78,6 +90,9 @@
     ],
     "name:war_x_preferred":[
         "Zhongli"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e2d\u58e2\u5340"
     ],
     "name:zho_x_preferred":[
         "\u4e2d\u58e2"
@@ -214,7 +229,7 @@
         }
     ],
     "wof:id":102026747,
-    "wof:lastmodified":1561775202,
+    "wof:lastmodified":1563278954,
     "wof:name":"Zhongli",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

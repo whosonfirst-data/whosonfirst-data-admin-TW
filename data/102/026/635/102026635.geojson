@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001561,
-    "geom:area_square_m":17467169.75327,
+    "geom:area_square_m":17467169.753285,
     "geom:bbox":"121.416471026,25.1511738999,121.469271373,25.1916008961",
     "geom:latitude":25.173104,
     "geom:longitude":121.441975,
@@ -18,11 +18,65 @@
     "mps:longitude":121.444113,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Tamsui"
+    ],
+    "name:eng_x_preferred":[
+        "Tamsui District"
+    ],
+    "name:fra_x_preferred":[
+        "Tamsui"
+    ],
+    "name:hak_x_preferred":[
+        "Th\u00e2m-s\u00fai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6de1\u6c34\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2e8\uc218\uc774\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Dan\u0161ujus"
+    ],
+    "name:nan_x_preferred":[
+        "T\u0101m-ch\u00fai-khu"
+    ],
+    "name:nld_x_preferred":[
+        "Tamsui District"
+    ],
+    "name:nob_x_preferred":[
+        "Tamsui"
+    ],
+    "name:pol_x_preferred":[
+        "Danshui"
+    ],
+    "name:por_x_preferred":[
+        "Tamsui"
+    ],
+    "name:spa_x_preferred":[
+        "Tamsui"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u0430\u043d\u044c\u0448\u0443\u0439"
+    ],
     "name:unk_x_variant":[
         "Tan-shui-chen"
     ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea1m Th\u1ee7y"
+    ],
+    "name:war_x_preferred":[
+        "Tamsui"
+    ],
+    "name:yue_x_preferred":[
+        "\u6de1\u6c34"
+    ],
     "name:zho_x_preferred":[
         "\u6de1\u6c34"
+    ],
+    "name:zho_x_variant":[
+        "\u6de1\u6c34\u5340"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -61,7 +115,7 @@
         }
     ],
     "wof:id":102026635,
-    "wof:lastmodified":1501221418,
+    "wof:lastmodified":1563278952,
     "wof:name":"Danshui",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

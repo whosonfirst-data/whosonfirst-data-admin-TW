@@ -18,17 +18,26 @@
     "mps:longitude":120.430748,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Huwei Zhen"
+    ],
     "name:eng_x_preferred":[
         "Huwei"
     ],
     "name:hak_x_preferred":[
         "F\u00fa-m\u00ee-ts\u1e73\u0301n"
     ],
+    "name:ita_x_preferred":[
+        "Huwei"
+    ],
     "name:jpn_x_preferred":[
         "\u864e\u5c3e\u93ae"
     ],
     "name:kor_x_preferred":[
         "\ud6c4\uc6e8\uc774 \uc9c4"
+    ],
+    "name:kor_x_variant":[
+        "\ud6c4\uc6e8\uc774\uc9c4"
     ],
     "name:lzh_x_preferred":[
         "\u864e\u5c3e\u93ae"
@@ -88,7 +97,7 @@
         }
     ],
     "wof:id":102026711,
-    "wof:lastmodified":1561775204,
+    "wof:lastmodified":1563278976,
     "wof:name":"Huwei",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

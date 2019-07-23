@@ -13,6 +13,33 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "West District"
+    ],
+    "name:epo_x_preferred":[
+        "\u8cf4\u798f\u91cc"
+    ],
+    "name:ita_x_preferred":[
+        "Distretto Occidentale"
+    ],
+    "name:jpn_x_preferred":[
+        "\u897f\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc \uad6c"
+    ],
+    "name:nan_x_preferred":[
+        "Se-khu"
+    ],
+    "name:pol_x_preferred":[
+        "Xi"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1eadn T\u00e2y"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u5340"
+    ],
     "qs:name":"\u5fe0\u8aa0\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u9ad8\u96c4\u5e02",
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":890470219,
-    "wof:lastmodified":1527727212,
+    "wof:lastmodified":1563280730,
     "wof:name":"\u5fe0\u8aa0\u91cc",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

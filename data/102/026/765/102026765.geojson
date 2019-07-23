@@ -30,6 +30,9 @@
     "name:kor_x_preferred":[
         "\uc548\ub09c \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc548\ub09c\uad6c"
+    ],
     "name:nan_x_preferred":[
         "An-l\u00e2m-khu"
     ],
@@ -44,6 +47,9 @@
     ],
     "name:vie_x_preferred":[
         "An Nam"
+    ],
+    "name:yue_x_preferred":[
+        "\u5b89\u5357\u5340"
     ],
     "name:zho_x_preferred":[
         "Hsia-hsu-ts\u2019o-liao"
@@ -91,7 +97,7 @@
         }
     ],
     "wof:id":102026765,
-    "wof:lastmodified":1561775201,
+    "wof:lastmodified":1563278943,
     "wof:name":"Annan",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

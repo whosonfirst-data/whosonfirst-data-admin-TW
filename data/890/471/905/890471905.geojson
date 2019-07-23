@@ -13,6 +13,36 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "Longjing District"
+    ],
+    "name:hak_x_preferred":[
+        "Li\u00f9ng-tsi\u00e1ng-hi\u00f4ng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9f8d\u4e95\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ub8fd\uc9d5\uad6c"
+    ],
+    "name:nan_x_preferred":[
+        "Li\u00f4ng-ch\u00e9\u207f-khu"
+    ],
+    "name:pol_x_preferred":[
+        "Longjing"
+    ],
+    "name:rup_x_preferred":[
+        "Longjing"
+    ],
+    "name:vie_x_preferred":[
+        "Long T\u0129nh"
+    ],
+    "name:zho_x_preferred":[
+        "\u745e\u5d17\u91cc"
+    ],
+    "name:zho_x_variant":[
+        "\u9f8d\u4e95\u5340"
+    ],
     "qs:name":"\u65b0\u5e84\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u4e2d\u5e02",
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":890471905,
-    "wof:lastmodified":1527727125,
+    "wof:lastmodified":1563280683,
     "wof:name":"\u65b0\u5e84\u91cc",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

@@ -15,11 +15,41 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Xianxiashi"
+    ],
+    "name:eng_x_preferred":[
+        "County-administered city"
+    ],
+    "name:hak_x_preferred":[
+        "Yen-hot-s\u1e73"
+    ],
+    "name:jpn_x_preferred":[
+        "\u770c\u8f44\u5e02"
+    ],
+    "name:kor_x_preferred":[
+        "\ud604\ud560\uc2dc"
+    ],
+    "name:nan_x_preferred":[
+        "ko\u0101n-hat-chh\u012b"
+    ],
+    "name:rus_x_preferred":[
+        "\u0433\u043e\u0440\u043e\u0434 \u0443\u0435\u0437\u0434\u043d\u043e\u0433\u043e \u043f\u043e\u0434\u0447\u0438\u043d\u0435\u043d\u0438\u044f"
+    ],
     "name:unk_x_variant":[
         "Lu-chu Hsiang"
     ],
+    "name:vie_x_preferred":[
+        "Huy\u1ec7n h\u1ea1t th\u1ecb"
+    ],
+    "name:yue_x_preferred":[
+        "\u7e23\u8f44\u5e02"
+    ],
     "name:zho_x_preferred":[
         "\u8606\u7af9\u9109"
+    ],
+    "name:zho_x_variant":[
+        "\u7e23\u8f44\u5e02"
     ],
     "qs:name":"Luzhu Xiang",
     "qs:photos_9r":0,
@@ -53,7 +83,7 @@
         }
     ],
     "wof:id":890467729,
-    "wof:lastmodified":1527792902,
+    "wof:lastmodified":1563280845,
     "wof:name":"Luzhu Xiang",
     "wof:parent_id":85679589,
     "wof:placetype":"localadmin",

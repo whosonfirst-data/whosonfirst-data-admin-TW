@@ -15,11 +15,149 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0627 \u064a\u064a"
+    ],
+    "name:cdo_x_preferred":[
+        "G\u0103-ngi\u00ea"
+    ],
+    "name:ces_x_preferred":[
+        "\u0164ia-i"
+    ],
+    "name:cym_x_preferred":[
+        "Chiayi City"
+    ],
+    "name:dan_x_preferred":[
+        "Chiayi"
+    ],
+    "name:deu_x_preferred":[
+        "Chiayi"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03c3\u03b9\u03ac\u03b3\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "Chiayi City"
+    ],
+    "name:eus_x_preferred":[
+        "Chiayi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0627\u06cc\u0627\u06cc"
+    ],
+    "name:fin_x_preferred":[
+        "Chiayi City"
+    ],
+    "name:fra_x_preferred":[
+        "Chiayi"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a9a\u0abf\u0a86\u0a87 \u0ab6\u0ab9\u0ac7\u0ab0"
+    ],
+    "name:hak_x_preferred":[
+        "K\u00e2-ngi-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d9\u05d0\u05d9\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Csiaji"
+    ],
+    "name:ind_x_preferred":[
+        "Kota Chiayi"
+    ],
+    "name:ita_x_preferred":[
+        "Chiayi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5609\u7fa9\u5e02"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c9a\u0cbf\u0caf\u0cbe\u0caf\u0cbf"
+    ],
     "name:kor_x_preferred":[
         "\uc790\uc774 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc790\uc774\uc2dc"
+    ],
+    "name:lav_x_preferred":[
+        "Dzjaji"
+    ],
+    "name:lit_x_preferred":[
+        "Dziaji"
+    ],
+    "name:lzh_x_preferred":[
+        "\u5609\u7fa9\u5e02"
+    ],
+    "name:mar_x_preferred":[
+        "\u091a\u093f\u0906\u0908 \u0936\u0939\u0930"
+    ],
+    "name:mon_x_preferred":[
+        "\u0416\u044f\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Chiayi"
+    ],
+    "name:nan_x_preferred":[
+        "Ka-g\u012b-chh\u012b"
+    ],
+    "name:nld_x_preferred":[
+        "Chiayi"
+    ],
+    "name:nob_x_preferred":[
+        "Chiayi"
+    ],
+    "name:pol_x_preferred":[
+        "Jiayi"
+    ],
+    "name:por_x_preferred":[
+        "Chiayi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0437\u044f\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0da0\u0dd2\u0dba\u0dcf\u0dba\u0dd2 \u0dc3\u0dd2\u0da7\u0dd2"
+    ],
+    "name:spa_x_preferred":[
+        "Chiayi"
+    ],
+    "name:swe_x_preferred":[
+        "Jiayi"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bbf\u0baf\u0bbe\u0b87 \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c1a\u0c3f\u0c2f\u0c3e\u0c02\u0c2f\u0c3f \u0c38\u0c3f\u0c1f\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e04\u0e23\u0e40\u0e08\u0e35\u0e22\u0e2d\u0e35\u0e49"
+    ],
+    "name:tur_x_preferred":[
+        "Chiayi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0437\u044f\u0457"
+    ],
     "name:unk_x_variant":[
         "Chia-i"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u0627\u06cc\u06cc \u0634\u06c1\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Gia Ngh\u0129a"
+    ],
+    "name:war_x_preferred":[
+        "Chiayi"
+    ],
+    "name:yue_x_preferred":[
+        "\u5609\u7fa9\u5e02"
+    ],
+    "name:zho_x_preferred":[
+        "\u5609\u7fa9\u5e02"
     ],
     "qs:name":"Chiayi",
     "qs:photos_9r":0,
@@ -58,7 +196,7 @@
         }
     ],
     "wof:id":890468355,
-    "wof:lastmodified":1527792967,
+    "wof:lastmodified":1563280926,
     "wof:name":"Chiayi",
     "wof:parent_id":1108499861,
     "wof:placetype":"county",

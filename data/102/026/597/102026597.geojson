@@ -20,6 +20,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":7.0,
+    "name:ceb_x_preferred":[
+        "Douliu"
+    ],
     "name:ces_x_preferred":[
         "Tou-liou"
     ],
@@ -35,6 +38,9 @@
         "Touliu",
         "Douliu"
     ],
+    "name:epo_x_preferred":[
+        "Douliu"
+    ],
     "name:fas_x_preferred":[
         "\u062f\u0648\u0644\u06cc\u0648"
     ],
@@ -44,11 +50,17 @@
     "name:hak_x_preferred":[
         "T\u00e9u-liuk-s\u1e73"
     ],
+    "name:ita_x_preferred":[
+        "Douliu"
+    ],
     "name:jpn_x_preferred":[
         "\u6597\u516d\u5e02"
     ],
     "name:kor_x_preferred":[
         "\ub354\uc6b0\ub958 \uc2dc"
+    ],
+    "name:kor_x_variant":[
+        "\ub354\uc6b0\ub958\uc2dc"
     ],
     "name:lit_x_preferred":[
         "Douliu"
@@ -74,6 +86,12 @@
     "name:spa_x_preferred":[
         "Douliu"
     ],
+    "name:tur_x_preferred":[
+        "Douliu"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0414\u043e\u0443\u043b\u044e"
+    ],
     "name:unk_x_variant":[
         "Tou-liu"
     ],
@@ -82,6 +100,9 @@
     ],
     "name:war_x_preferred":[
         "Douliou"
+    ],
+    "name:yue_x_preferred":[
+        "\u6597\u516d\u5e02"
     ],
     "name:zho_min_nan_x_preferred":[
         "T\u00e1u-la\u030dk-chh\u012b"
@@ -233,7 +254,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1561775203,
+    "wof:lastmodified":1563278960,
     "wof:name":"Douliu",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

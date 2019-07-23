@@ -13,6 +13,33 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0627\u064a\u0628\u0646\u063a"
+    ],
+    "name:eng_x_preferred":[
+        "Kaepung County"
+    ],
+    "name:jpn_x_preferred":[
+        "\u958b\u8c4a\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\uac1c\ud48d\uad70"
+    ],
+    "name:nan_x_preferred":[
+        "Kaep'ung K\u016bn"
+    ],
+    "name:nob_x_preferred":[
+        "Kaepung"
+    ],
+    "name:pol_x_preferred":[
+        "Kaep'ung"
+    ],
+    "name:vie_x_preferred":[
+        "Kaepung"
+    ],
+    "name:zho_x_preferred":[
+        "\u958b\u8c50\u90e1"
+    ],
     "qs:name":"\u65b0\u897f\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5609\u7fa9\u5e02",
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":890469865,
-    "wof:lastmodified":1527792921,
+    "wof:lastmodified":1563280904,
     "wof:name":"\u65b0\u897f\u91cc",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

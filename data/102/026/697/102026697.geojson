@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000279,
-    "geom:area_square_m":3129756.503785,
+    "geom:area_square_m":3129756.503788,
     "geom:bbox":"121.877915726,24.9122836014,121.897719079,24.9303425585",
     "geom:latitude":24.921313,
     "geom:longitude":121.887817,
@@ -18,8 +18,14 @@
     "mps:longitude":121.887818,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Linkou"
+    ],
     "name:eng_x_preferred":[
         "Linkou District"
+    ],
+    "name:fra_x_preferred":[
+        "Linkou"
     ],
     "name:hak_x_preferred":[
         "N\u00e0-khi\u00e9u-kh\u00ee"
@@ -30,8 +36,20 @@
     "name:kor_x_preferred":[
         "\ub9b0\ucee4\uc6b0 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub9b0\ucee4\uc6b0\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Linkou"
+    ],
     "name:nan_x_preferred":[
         "N\u00e2-kh\u00e1u-khu"
+    ],
+    "name:pol_x_preferred":[
+        "Linkou"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041b\u0456\u043d\u044c\u043a\u043e\u0443"
     ],
     "name:unk_x_variant":[
         "Hsi-lin"
@@ -47,7 +65,8 @@
         "Hsi-lin-ts\u2019un",
         "\u6797\u53e3",
         "Lin-k\u2019ou",
-        "\u6797\u53e3\u5340"
+        "\u6797\u53e3\u5340",
+        "Kending"
     ],
     "qs:a1":"*",
     "qs:a1r":"*",
@@ -81,7 +100,7 @@
         }
     ],
     "wof:id":102026697,
-    "wof:lastmodified":1506732170,
+    "wof:lastmodified":1563278970,
     "wof:name":"Linkou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

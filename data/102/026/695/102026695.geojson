@@ -30,6 +30,9 @@
     "name:hak_x_preferred":[
         "Lu\u030dk-k\u00f3ng-ch\u1e73\u0301n"
     ],
+    "name:hak_x_variant":[
+        "Lu\u030dk-k\u00f3ng-ts\u1e73\u0301n"
+    ],
     "name:ita_x_preferred":[
         "Lugang"
     ],
@@ -38,6 +41,9 @@
     ],
     "name:kor_x_preferred":[
         "\ub8e8\uac15 \uc9c4"
+    ],
+    "name:kor_x_variant":[
+        "\ub8e8\uac15\uc9c4"
     ],
     "name:nan_x_preferred":[
         "Lo\u030dk-k\u00e1ng-t\u00ecn"
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":102026695,
-    "wof:lastmodified":1561775202,
+    "wof:lastmodified":1563278953,
     "wof:name":"Lugang",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

@@ -46,6 +46,9 @@
     "name:kor_x_preferred":[
         "\uc8fc\ubca0\uc774 \uc2dc"
     ],
+    "name:kor_x_variant":[
+        "\uc8fc\ubca0\uc774\uc2dc"
+    ],
     "name:lit_x_preferred":[
         "D\u017eub\u0117jus"
     ],
@@ -64,6 +67,9 @@
     "name:sco_x_preferred":[
         "Zhubei"
     ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0436\u0443\u0431\u0435\u0439"
+    ],
     "name:unk_x_variant":[
         "Hung-mao"
     ],
@@ -72,6 +78,9 @@
     ],
     "name:war_x_preferred":[
         "Zhubei"
+    ],
+    "name:yue_x_preferred":[
+        "\u7af9\u5317\u5e02"
     ],
     "name:zho_min_nan_x_preferred":[
         "Tek-pak-chh\u012b"
@@ -216,7 +225,7 @@
         }
     ],
     "wof:id":102026743,
-    "wof:lastmodified":1561775204,
+    "wof:lastmodified":1563278974,
     "wof:name":"Zhubei",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

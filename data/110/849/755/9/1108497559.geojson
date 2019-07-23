@@ -40,6 +40,9 @@
     "name:ces_x_preferred":[
         "Okres Sin-\u010du"
     ],
+    "name:cym_x_preferred":[
+        "Sir Hsinchu"
+    ],
     "name:dan_x_preferred":[
         "Hsinchu County"
     ],
@@ -63,6 +66,9 @@
     ],
     "name:fra_x_preferred":[
         "Comt\u00e9 de Hsinchu"
+    ],
+    "name:frr_x_preferred":[
+        "Hsinchu"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0abf\u0aa8\u0acd\u0a9a\u0ac1 \u0a95\u0abe\u0a89\u0aa8\u0acd\u0a9f\u0ac0"
@@ -88,6 +94,9 @@
     "name:kor_x_preferred":[
         "\uc2e0\uc8fc \ud604"
     ],
+    "name:kor_x_variant":[
+        "\uc2e0\uc8fc\ud604"
+    ],
     "name:lav_x_preferred":[
         "Sji\u0146d\u017eu apri\u0146\u0137is"
     ],
@@ -96,6 +105,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u65b0\u7af9\u7e23"
+    ],
+    "name:mal_x_preferred":[
+        "\u0d39\u0d4d\u0d38\u0d3f\u0d1e\u0d4d\u0d1a\u0d41 \u0d15\u0d57\u0d23\u0d4d\u0d1f\u0d3f"
     ],
     "name:mar_x_preferred":[
         "\u0938\u093f\u0902\u091a\u0942 \u0915\u093e\u0909\u0902\u091f\u0940"
@@ -193,7 +205,7 @@
         }
     ],
     "wof:id":1108497559,
-    "wof:lastmodified":1561775288,
+    "wof:lastmodified":1563280290,
     "wof:name":"Hsinchu",
     "wof:parent_id":85679557,
     "wof:placetype":"macrocounty",

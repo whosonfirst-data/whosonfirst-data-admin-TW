@@ -15,8 +15,41 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Toucheng"
+    ],
+    "name:eng_x_preferred":[
+        "Toucheng"
+    ],
+    "name:fra_x_preferred":[
+        "Toucheng"
+    ],
+    "name:hak_x_preferred":[
+        "Th\u00e8u-s\u00e0ng-ts\u1e73\u0301n"
+    ],
+    "name:ita_x_preferred":[
+        "Toucheng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u982d\u57ce\u93ae"
+    ],
+    "name:kor_x_preferred":[
+        "\ud130\uc6b0\uccad\uc9c4"
+    ],
+    "name:nan_x_preferred":[
+        "Th\u00e2u-si\u00e2\u207f-t\u00ecn"
+    ],
+    "name:nld_x_preferred":[
+        "Toucheng"
+    ],
     "name:unk_x_variant":[
         "Toucheng Jhen"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea7u Th\u00e0nh"
+    ],
+    "name:yue_x_preferred":[
+        "\u982d\u57ce\u93ae"
     ],
     "name:zho_x_preferred":[
         "\u982d\u57ce\u93ae"
@@ -57,7 +90,7 @@
         }
     ],
     "wof:id":890468305,
-    "wof:lastmodified":1527792969,
+    "wof:lastmodified":1563280967,
     "wof:name":"Toucheng Zhen",
     "wof:parent_id":85679567,
     "wof:placetype":"localadmin",

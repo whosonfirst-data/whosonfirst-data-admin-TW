@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000279,
-    "geom:area_square_m":3129476.357319,
+    "geom:area_square_m":3129476.357322,
     "geom:bbox":"121.691159936,24.772718207,121.71093972,24.7907762569",
     "geom:latitude":24.781747,
     "geom:longitude":121.70105,
@@ -18,14 +18,32 @@
     "mps:longitude":121.70105,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Yuanshan"
+    ],
+    "name:eng_x_preferred":[
+        "Yuanshan"
+    ],
+    "name:fra_x_preferred":[
+        "Yuanshan"
+    ],
     "name:hak_x_preferred":[
         "Y\u00e8n-s\u00e2n-hi\u00f4ng"
+    ],
+    "name:ita_x_preferred":[
+        "Yuanshan"
     ],
     "name:jpn_x_preferred":[
         "\u54e1\u5c71\u90f7"
     ],
     "name:kor_x_preferred":[
         "\uc704\uc548\uc0b0 \ud5a5"
+    ],
+    "name:kor_x_variant":[
+        "\uc704\uc548\uc0b0\ud5a5"
+    ],
+    "name:nan_x_preferred":[
+        "\u00ce\u207f-soa\u207f-hiong"
     ],
     "name:vie_x_preferred":[
         "Vi\u00ean S\u01a1n"
@@ -76,7 +94,7 @@
         }
     ],
     "wof:id":102026603,
-    "wof:lastmodified":1527637808,
+    "wof:lastmodified":1563278951,
     "wof:name":"Yuanshan",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

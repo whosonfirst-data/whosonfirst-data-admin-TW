@@ -15,8 +15,32 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Yujing"
+    ],
+    "name:eng_x_preferred":[
+        "Yujing District"
+    ],
+    "name:hak_x_preferred":[
+        "Ngiu\u030dk-tsi\u00e1ng-hi\u00f4ng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7389\u4e95\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc704\uc9d5\uad6c"
+    ],
+    "name:nan_x_preferred":[
+        "Gio\u030dk-ch\u00e9\u207f-khu"
+    ],
     "name:unk_x_variant":[
         "Y\u00fc-ching-chuang"
+    ],
+    "name:vie_x_preferred":[
+        "Ng\u1ecdc T\u0129nh"
+    ],
+    "name:yue_x_preferred":[
+        "\u7389\u4e95\u5340"
     ],
     "name:zho_x_preferred":[
         "Y\u00fc-ching-ts\u2019un"
@@ -24,7 +48,8 @@
     "name:zho_x_variant":[
         "\u7389\u4e95",
         "Y\u00fc-ching",
-        "Y\u00fc-ching-chuang"
+        "Y\u00fc-ching-chuang",
+        "\u7389\u4e95\u5340"
     ],
     "qs:name":"Yujing",
     "qs:photos_9r":0,
@@ -58,7 +83,7 @@
         }
     ],
     "wof:id":890467595,
-    "wof:lastmodified":1527792893,
+    "wof:lastmodified":1563280801,
     "wof:name":"Yujing",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

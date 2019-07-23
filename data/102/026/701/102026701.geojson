@@ -41,11 +41,17 @@
     "name:cdo_x_preferred":[
         "G\u014f\u0324-h\u1e73\u0300ng"
     ],
+    "name:ceb_x_preferred":[
+        "Kaohsiung"
+    ],
     "name:ces_x_preferred":[
         "Kao-siung"
     ],
     "name:che_x_preferred":[
         "\u0413\u0430\u043e\u0441\u044e\u043d"
+    ],
+    "name:cym_x_preferred":[
+        "Dinas Kaohsiung"
     ],
     "name:dan_x_preferred":[
         "Kaohsiung"
@@ -141,6 +147,9 @@
     ],
     "name:lit_x_preferred":[
         "Gaosiongas"
+    ],
+    "name:ltz_x_preferred":[
+        "Kaohsiung"
     ],
     "name:lzh_x_preferred":[
         "\u9ad8\u96c4\u5e02"
@@ -406,7 +415,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1561775201,
+    "wof:lastmodified":1563278941,
     "wof:megacity":1,
     "wof:name":"Kaohsiung",
     "wof:parent_id":85679547,

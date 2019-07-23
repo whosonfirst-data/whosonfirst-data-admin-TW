@@ -13,6 +13,33 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Fuxing"
+    ],
+    "name:eng_x_preferred":[
+        "Fuxing District"
+    ],
+    "name:hak_x_preferred":[
+        "Fu\u030dk-h\u00een-hi\u00f4ng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5fa9\u8208\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\uc2f1 \ud5a5"
+    ],
+    "name:lit_x_preferred":[
+        "Fusingas"
+    ],
+    "name:nan_x_preferred":[
+        "Ho\u030dk-heng-khu"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u00fac H\u01b0ng"
+    ],
+    "name:zho_x_preferred":[
+        "\u5fa9\u8208\u5340"
+    ],
     "qs:name":"\u5fa9\u8208\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u6843\u5712\u7e23",
@@ -53,7 +80,7 @@
         }
     ],
     "wof:id":890468971,
-    "wof:lastmodified":1554413766,
+    "wof:lastmodified":1563280952,
     "wof:name":"\u5fa9\u8208\u9109",
     "wof:parent_id":1108499669,
     "wof:placetype":"county",

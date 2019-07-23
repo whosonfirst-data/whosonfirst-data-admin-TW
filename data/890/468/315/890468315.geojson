@@ -15,6 +15,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cym_x_preferred":[
+        "Sir Taipei"
+    ],
+    "name:eng_x_preferred":[
+        "Taipei County"
+    ],
+    "name:epo_x_preferred":[
+        "Kantono Tajpeo"
+    ],
     "name:unk_x_variant":[
         "\u4e09\u91cd\u5e02"
     ],
@@ -24,7 +33,8 @@
     "name:zho_x_variant":[
         "San-ch\u2019ung Shih",
         "San-ch\u2019ung",
-        "\u4e09\u91cd\u5e02"
+        "\u4e09\u91cd\u5e02",
+        "\u81fa\u5317\u7e23"
     ],
     "qs:name":"Sanchong Shi",
     "qs:photos_9r":0,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":890468315,
-    "wof:lastmodified":1527792968,
+    "wof:lastmodified":1563280950,
     "wof:name":"Sanchong Shi",
     "wof:parent_id":85679585,
     "wof:placetype":"localadmin",

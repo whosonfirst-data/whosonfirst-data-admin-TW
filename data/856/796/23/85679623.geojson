@@ -28,6 +28,9 @@
     "name:cdo_x_preferred":[
         "D\u00e0i-d\u1e73\u0306ng"
     ],
+    "name:ceb_x_preferred":[
+        "Taitung City"
+    ],
     "name:ces_x_preferred":[
         "Tchaj-tung"
     ],
@@ -67,6 +70,9 @@
     "name:kor_x_preferred":[
         "\ud0c0\uc774\ub465"
     ],
+    "name:kor_x_variant":[
+        "\ud0c0\uc774\ub465\uc2dc"
+    ],
     "name:lit_x_preferred":[
         "Taidongas"
     ],
@@ -82,11 +88,23 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0439\u0434\u0443\u043d"
     ],
+    "name:spa_x_preferred":[
+        "Taitung"
+    ],
+    "name:tur_x_preferred":[
+        "Taitung"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0422\u0430\u0439\u0434\u0443\u043d"
+    ],
     "name:vie_x_preferred":[
         "Th\u00e0nh ph\u1ed1 \u0110\u00e0i \u0110\u00f4ng"
     ],
     "name:war_x_preferred":[
         "Taitung"
+    ],
+    "name:yue_x_preferred":[
+        "\u81fa\u6771\u5e02"
     ],
     "name:zho_min_nan_x_preferred":[
         "T\u00e2i-tang"
@@ -219,7 +237,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1561775234,
+    "wof:lastmodified":1563279364,
     "wof:name":"Taitung",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

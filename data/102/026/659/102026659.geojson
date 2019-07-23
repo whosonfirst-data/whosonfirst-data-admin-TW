@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000464,
-    "geom:area_square_m":5241859.763378,
+    "geom:area_square_m":5241859.763383,
     "geom:bbox":"121.526433866,23.8918753222,121.557062326,23.9099342978",
     "geom:latitude":23.900905,
     "geom:longitude":121.541748,
@@ -18,8 +18,17 @@
     "mps:longitude":121.541748,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Shoufeng"
+    ],
+    "name:eng_x_preferred":[
+        "Shoufeng"
+    ],
     "name:hak_x_preferred":[
         "Su-f\u00fbng-hi\u00f4ng"
+    ],
+    "name:ita_x_preferred":[
+        "Shoufeng"
     ],
     "name:jpn_x_preferred":[
         "\u5bff\u8c4a\u90f7"
@@ -27,11 +36,23 @@
     "name:kor_x_preferred":[
         "\uc11c\uc6b0\ud391 \ud5a5"
     ],
+    "name:kor_x_variant":[
+        "\uc11c\uc6b0\ud391\ud5a5"
+    ],
+    "name:nan_x_preferred":[
+        "Si\u016b-hong-hiong"
+    ],
+    "name:pol_x_preferred":[
+        "Shoufeng"
+    ],
     "name:unk_x_variant":[
         "Shou"
     ],
     "name:vie_x_preferred":[
         "Th\u1ecd Phong"
+    ],
+    "name:yue_x_preferred":[
+        "\u58fd\u8c50\u9109"
     ],
     "name:zho_min_nan_x_preferred":[
         "Si\u016b-hong-hiong"
@@ -80,7 +101,7 @@
         }
     ],
     "wof:id":102026659,
-    "wof:lastmodified":1527637808,
+    "wof:lastmodified":1563278952,
     "wof:name":"Shoufeng",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

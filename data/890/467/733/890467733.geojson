@@ -13,6 +13,33 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Daxi"
+    ],
+    "name:eng_x_preferred":[
+        "Daxi"
+    ],
+    "name:hak_x_preferred":[
+        "Thai-h\u00e2i-ts\u1e73\u0301n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5927\u6e13\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2e4\uc2dc \uc9c4"
+    ],
+    "name:lit_x_preferred":[
+        "Dasi"
+    ],
+    "name:nan_x_preferred":[
+        "T\u0101i-khe-t\u00ecn"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea1i Kh\u00ea"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6eaa\u5340"
+    ],
     "qs:name":"\u5927\u6eaa\u93ae",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u6843\u5712\u7e23",
@@ -51,7 +78,7 @@
         }
     ],
     "wof:id":890467733,
-    "wof:lastmodified":1527792897,
+    "wof:lastmodified":1563280820,
     "wof:name":"\u5927\u6eaa\u93ae",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

@@ -21,6 +21,9 @@
     "name:eng_x_preferred":[
         "Dasi"
     ],
+    "name:eng_x_variant":[
+        "Daxi"
+    ],
     "name:hak_x_preferred":[
         "Thai-h\u00e2i-ts\u1e73\u0301n"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":890470807,
-    "wof:lastmodified":1561775320,
+    "wof:lastmodified":1563280773,
     "wof:name":"Daxi",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

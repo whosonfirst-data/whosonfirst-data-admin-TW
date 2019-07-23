@@ -13,6 +13,18 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cym_x_preferred":[
+        "Sir Taipei"
+    ],
+    "name:eng_x_preferred":[
+        "Taipei County"
+    ],
+    "name:epo_x_preferred":[
+        "Kantono Tajpeo"
+    ],
+    "name:zho_x_preferred":[
+        "\u81fa\u5317\u7e23"
+    ],
     "qs:name":"\u77f3\u7887\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u65b0\u5317\u5e02",
@@ -53,7 +65,7 @@
         }
     ],
     "wof:id":890471443,
-    "wof:lastmodified":1554413769,
+    "wof:lastmodified":1563280689,
     "wof:name":"\u77f3\u7887\u9109",
     "wof:parent_id":1108756871,
     "wof:placetype":"county",
