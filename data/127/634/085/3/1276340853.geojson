@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wuri"
+    ],
+    "name:deu_x_preferred":[
+        "Wuri"
+    ],
+    "name:swe_x_preferred":[
+        "Wuri"
+    ],
     "name:und_x_variant":[
         "\u70cf\u65e5",
         "Wuri",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1276340853,
-    "wof:lastmodified":1537708461,
+    "wof:lastmodified":1564179665,
     "wof:name":"Wuri",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

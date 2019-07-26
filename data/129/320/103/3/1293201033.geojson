@@ -35,7 +35,8 @@
         "Li-tao-ts\u2019un"
     ],
     "name:zho_x_variant":[
-        "\u5229\u7a3b"
+        "\u5229\u7a3b",
+        "\u4fda\u5c9b\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1293201033,
-    "wof:lastmodified":1537708929,
+    "wof:lastmodified":1564179496,
     "wof:name":"Lidao",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

@@ -28,11 +28,32 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mingjian"
+    ],
+    "name:hak_x_preferred":[
+        "Mi\u00e0ng-ki\u00ean-hi\u00f4ng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u540d\u9593\u90f7"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc0d\uc820\ud5a5"
+    ],
+    "name:pol_x_preferred":[
+        "Mingjian"
+    ],
     "name:und_x_variant":[
         "Ming-chien"
     ],
+    "name:vie_x_preferred":[
+        "Danh Gian"
+    ],
     "name:zho_x_preferred":[
         "\u540d\u9593"
+    ],
+    "name:zho_x_variant":[
+        "\u540d\u9593\u9109"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +79,7 @@
         }
     ],
     "wof:id":1259690059,
-    "wof:lastmodified":1537708873,
+    "wof:lastmodified":1564181289,
     "wof:name":"Mingjian",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

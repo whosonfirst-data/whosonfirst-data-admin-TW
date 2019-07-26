@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jiucheng"
+    ],
     "name:und_x_variant":[
         "Jioucheng",
         "Jiucheng"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1209817151,
-    "wof:lastmodified":1537709332,
+    "wof:lastmodified":1564180046,
     "wof:name":"Jiucheng",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

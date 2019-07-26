@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Erwan"
+    ],
+    "name:fra_x_preferred":[
+        "Erwan"
+    ],
     "name:und_x_variant":[
         "Erh-wan"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1293722365,
-    "wof:lastmodified":1537709718,
+    "wof:lastmodified":1564179559,
     "wof:name":"Erwan",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

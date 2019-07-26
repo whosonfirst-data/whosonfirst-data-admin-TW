@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sanjiao"
+    ],
+    "name:deu_x_preferred":[
+        "Sanjiao"
+    ],
+    "name:swe_x_preferred":[
+        "Sanjiao"
+    ],
     "name:und_x_variant":[
         "San-chiao"
     ],
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1259985741,
-    "wof:lastmodified":1537708765,
+    "wof:lastmodified":1564181162,
     "wof:name":"Sanjiao",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

@@ -33,7 +33,8 @@
     ],
     "name:zho_x_variant":[
         "Ch\u2019ih-ch\u2019a-liao",
-        "Ch\u2019a-t\u2019ing"
+        "Ch\u2019a-t\u2019ing",
+        "\u8336\u4ead\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1193149931,
-    "wof:lastmodified":1537709888,
+    "wof:lastmodified":1564180111,
     "wof:name":"Chating",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

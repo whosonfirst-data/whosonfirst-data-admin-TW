@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shibi"
+    ],
+    "name:deu_x_preferred":[
+        "Shibi"
+    ],
+    "name:swe_x_preferred":[
+        "Shibi"
+    ],
     "name:und_x_variant":[
         "Shihbi",
         "Shibi",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1326854407,
-    "wof:lastmodified":1537709875,
+    "wof:lastmodified":1564178789,
     "wof:name":"Shibi",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

@@ -33,7 +33,8 @@
     ],
     "name:zho_x_variant":[
         "Nan-shan-ts\u2019un",
-        "Nan-shan-p\u2019ing"
+        "Nan-shan-p\u2019ing",
+        "\u5357\u5c71\u576a\u4e61"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1343273379,
-    "wof:lastmodified":1537708856,
+    "wof:lastmodified":1564179119,
     "wof:name":"Nanshanping",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

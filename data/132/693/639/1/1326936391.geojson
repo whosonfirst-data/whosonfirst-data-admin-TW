@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Xinzhuang"
+    ],
+    "name:deu_x_preferred":[
+        "Xinzhuang"
+    ],
     "name:und_x_variant":[
         "Liu-ho",
         "Sinjhuang",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1326936391,
-    "wof:lastmodified":1537708924,
+    "wof:lastmodified":1564178692,
     "wof:name":"Xinzhuang",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Baihe"
+    ],
+    "name:nor_x_preferred":[
+        "Baihe"
+    ],
     "name:und_x_variant":[
         "Pai-ho"
     ],
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1326554241,
-    "wof:lastmodified":1537708825,
+    "wof:lastmodified":1564178823,
     "wof:name":"Baihe",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

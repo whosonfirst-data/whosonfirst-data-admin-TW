@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nanshi"
+    ],
+    "name:deu_x_preferred":[
+        "Nanshi"
+    ],
+    "name:swe_x_preferred":[
+        "Nanshi"
+    ],
     "name:und_x_variant":[
         "Nanshih",
         "Nan-shih"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1209247861,
-    "wof:lastmodified":1537708857,
+    "wof:lastmodified":1564179902,
     "wof:name":"Nanshi",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

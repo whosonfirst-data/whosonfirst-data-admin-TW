@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:swe_x_preferred":[
+        "Zhuxian"
+    ],
     "name:und_x_variant":[
         "Jhusian",
         "Chu-hsien"
@@ -37,7 +40,8 @@
     ],
     "name:zho_x_variant":[
         "Chu-kuang-k\u2019eng",
-        "Chu-kuang-k\u2019ung"
+        "Chu-kuang-k\u2019ung",
+        "\u6731\u4ed9\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1343964113,
-    "wof:lastmodified":1537709304,
+    "wof:lastmodified":1564178922,
     "wof:name":"Zhuxian",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

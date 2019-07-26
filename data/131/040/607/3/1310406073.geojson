@@ -28,11 +28,18 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nanyuan"
+    ],
+    "name:swe_x_preferred":[
+        "Nanyuan"
+    ],
     "name:zho_x_preferred":[
         "\u5357\u5712"
     ],
     "name:zho_x_variant":[
-        "Nan-y\u00fcan"
+        "Nan-y\u00fcan",
+        "\u5357\u82d1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":1310406073,
-    "wof:lastmodified":1537709521,
+    "wof:lastmodified":1564180305,
     "wof:name":"Nanyuan",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jiubao"
+    ],
     "name:und_x_variant":[
         "Chiu-pao",
         "Jioubao",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1260104311,
-    "wof:lastmodified":1537709462,
+    "wof:lastmodified":1564180224,
     "wof:name":"Jiubao",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

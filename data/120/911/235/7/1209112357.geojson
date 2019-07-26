@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dahe"
+    ],
+    "name:deu_x_preferred":[
+        "Dahe"
+    ],
+    "name:swe_x_preferred":[
+        "Dahe"
+    ],
     "name:und_x_variant":[
         "Ta-ho",
         "\u5927\u548c",
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1209112357,
-    "wof:lastmodified":1537708630,
+    "wof:lastmodified":1564180000,
     "wof:name":"Dahe",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

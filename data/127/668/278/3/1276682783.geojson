@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:new_x_preferred":[
+        "\u091f\u093e\u0901\u0921\u0940"
+    ],
     "name:und_x_variant":[
         "\u6f6d\u5e95"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1276682783,
-    "wof:lastmodified":1537708601,
+    "wof:lastmodified":1564179698,
     "wof:name":"Tandi",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

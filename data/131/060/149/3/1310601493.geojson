@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dazhuang"
+    ],
+    "name:deu_x_preferred":[
+        "Dazhuang"
+    ],
+    "name:swe_x_preferred":[
+        "Dazhuang"
+    ],
     "name:und_x_variant":[
         "Dajhuang",
         "Ta-chuang"
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1310601493,
-    "wof:lastmodified":1537709623,
+    "wof:lastmodified":1564180452,
     "wof:name":"Dazhuang",
     "wof:parent_id":85679557,
     "wof:placetype":"locality",

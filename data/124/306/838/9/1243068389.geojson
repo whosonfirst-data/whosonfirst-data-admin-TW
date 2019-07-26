@@ -28,14 +28,57 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0634\u0648\u0627\u0646\u063a \u0644\u064a\u0627\u0648"
+    ],
+    "name:ceb_x_preferred":[
+        "Shuangliao Shi"
+    ],
+    "name:deu_x_preferred":[
+        "Shuangliao"
+    ],
+    "name:fra_x_preferred":[
+        "Shuangliao"
+    ],
+    "name:ita_x_preferred":[
+        "Shuangliao"
+    ],
+    "name:jpn_x_preferred":[
+        "\u53cc\u907c\u5e02"
+    ],
+    "name:kik_x_preferred":[
+        "Shuangliao"
+    ],
+    "name:kor_x_preferred":[
+        "\uc1bd\ub7b4\uc624\uc2dc"
+    ],
+    "name:nor_x_preferred":[
+        "Shuangliao"
+    ],
+    "name:pol_x_preferred":[
+        "Shuangliao"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u0443\u0430\u043d\u043b\u044f\u043e"
+    ],
+    "name:swe_x_preferred":[
+        "Shuangliao"
+    ],
     "name:und_x_variant":[
         "Shuang-liao"
+    ],
+    "name:urd_x_preferred":[
+        "\u0634\u0648\u0627\u0646\u06af\u0644\u06cc\u0627\u0648"
+    ],
+    "name:vie_x_preferred":[
+        "Song Li\u00eau"
     ],
     "name:zho_x_preferred":[
         "Shuang-liao-k\u2019an-chiao"
     ],
     "name:zho_x_variant":[
-        "\u96d9\u5bee"
+        "\u96d9\u5bee",
+        "\u53cc\u8fbd\u5e02"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +103,7 @@
         }
     ],
     "wof:id":1243068389,
-    "wof:lastmodified":1537708677,
+    "wof:lastmodified":1564180915,
     "wof:name":"Shuangliao",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

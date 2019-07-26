@@ -13,6 +13,33 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Xinning Xian"
+    ],
+    "name:deu_x_preferred":[
+        "Xinning"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u06cc\u0646\u200c\u0646\u06cc\u0646\u06af"
+    ],
+    "name:jpn_x_preferred":[
+        "\u65b0\u5be7\u770c"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e0\ub2dd\ud604"
+    ],
+    "name:nor_x_preferred":[
+        "Xinning"
+    ],
+    "name:swe_x_preferred":[
+        "Xinning"
+    ],
+    "name:vie_x_preferred":[
+        "T\u00e2n Ninh"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u5b81\u53bf"
+    ],
     "qs:name":"\u6c34\u6e90\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u82b1\u84ee\u7e23",
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":890470471,
-    "wof:lastmodified":1527727212,
+    "wof:lastmodified":1564180671,
     "wof:name":"\u6c34\u6e90\u6751",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

@@ -28,6 +28,18 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guandu"
+    ],
+    "name:deu_x_preferred":[
+        "Guandu"
+    ],
+    "name:fra_x_preferred":[
+        "Guandu"
+    ],
+    "name:por_x_preferred":[
+        "Guandu"
+    ],
     "name:und_x_variant":[
         "Kuan-tu-li",
         "Guandu",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1309744873,
-    "wof:lastmodified":1537708975,
+    "wof:lastmodified":1564180581,
     "wof:name":"Guandu",
     "wof:parent_id":85679583,
     "wof:placetype":"locality",

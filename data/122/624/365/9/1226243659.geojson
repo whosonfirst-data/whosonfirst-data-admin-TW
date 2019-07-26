@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Qiaotou"
+    ],
+    "name:deu_x_preferred":[
+        "Qiaotou"
+    ],
+    "name:swe_x_preferred":[
+        "Qiaotou"
+    ],
     "name:und_x_variant":[
         "Ciaotou",
         "Qiaotou"
@@ -36,7 +45,8 @@
         "\u6a4b\u982d"
     ],
     "name:zho_x_variant":[
-        "Ch\u2019iao-t\u2019ou"
+        "Ch\u2019iao-t\u2019ou",
+        "\u6865\u5934\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +71,7 @@
         }
     ],
     "wof:id":1226243659,
-    "wof:lastmodified":1537709383,
+    "wof:lastmodified":1564181479,
     "wof:name":"Qiaotou",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

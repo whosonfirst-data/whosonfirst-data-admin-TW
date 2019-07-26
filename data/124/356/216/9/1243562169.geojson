@@ -28,8 +28,14 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dakeng"
+    ],
     "name:und_x_variant":[
         "Ta-k\u2019eng"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u5751\u98a8\u666f\u5340"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1243562169,
-    "wof:lastmodified":1537708617,
+    "wof:lastmodified":1564181028,
     "wof:name":"Dakeng",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

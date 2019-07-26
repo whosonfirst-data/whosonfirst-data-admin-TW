@@ -28,6 +28,21 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Masai"
+    ],
+    "name:deu_x_preferred":[
+        "Masai"
+    ],
+    "name:nor_x_preferred":[
+        "Masai"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0441\u0430\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Masai"
+    ],
     "name:und_x_variant":[
         "Ma-sai"
     ],
@@ -59,7 +74,7 @@
         }
     ],
     "wof:id":1242678181,
-    "wof:lastmodified":1537709745,
+    "wof:lastmodified":1564180985,
     "wof:name":"Masai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -28,14 +28,35 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Madou"
+    ],
+    "name:hak_x_preferred":[
+        "M\u00e0-theu-kh\u00ee"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9ebb\u8c46\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\ub354\uc6b0\uad6c"
+    ],
+    "name:rus_x_preferred":[
+        "\u041c\u0430\u0434\u043e\u0443"
+    ],
     "name:und_x_variant":[
         "Ma-tou",
         "Ma-tou-chen",
         "Madou",
         "\u9ebb\u8c46"
     ],
+    "name:vie_x_preferred":[
+        "Ma \u0110\u1eadu"
+    ],
     "name:zho_x_preferred":[
         "\u9ebb\u8c46"
+    ],
+    "name:zho_x_variant":[
+        "\u9ebb\u8c46\u5340"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -55,7 +76,7 @@
         }
     ],
     "wof:id":1209338543,
-    "wof:lastmodified":1537708883,
+    "wof:lastmodified":1564179995,
     "wof:name":"Madou",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Xizhou"
+    ],
     "name:und_x_variant":[
         "Hsi-chou-li",
         "Sijhou",
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1242801689,
-    "wof:lastmodified":1537709124,
+    "wof:lastmodified":1564180928,
     "wof:name":"Xizhou",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

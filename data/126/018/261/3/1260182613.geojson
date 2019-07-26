@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Beishi"
+    ],
+    "name:deu_x_preferred":[
+        "Beishi"
+    ],
+    "name:swe_x_preferred":[
+        "Beishi"
+    ],
     "name:und_x_variant":[
         "Pei-shih",
         "\u5317\u52e2",
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1260182613,
-    "wof:lastmodified":1537708800,
+    "wof:lastmodified":1564180186,
     "wof:name":"Beishi",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

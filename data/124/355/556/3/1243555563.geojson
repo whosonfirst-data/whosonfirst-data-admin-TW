@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fenggang"
+    ],
+    "name:deu_x_preferred":[
+        "Fenggang"
+    ],
     "name:und_x_variant":[
         "Fonggang",
         "Feng-kang"
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1243555563,
-    "wof:lastmodified":1537709230,
+    "wof:lastmodified":1564180916,
     "wof:name":"Fenggang",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

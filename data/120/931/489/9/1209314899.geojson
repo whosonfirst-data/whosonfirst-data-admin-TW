@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nanhe"
+    ],
+    "name:fra_x_preferred":[
+        "Nanhe"
+    ],
     "name:und_x_variant":[
         "\u5357\u548c",
         "Nan-ho-ts\u2019un",
@@ -51,7 +57,7 @@
         }
     ],
     "wof:id":1209314899,
-    "wof:lastmodified":1537708864,
+    "wof:lastmodified":1564179826,
     "wof:name":"Nanhe",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

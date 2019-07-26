@@ -28,6 +28,18 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Siku"
+    ],
+    "name:fra_x_preferred":[
+        "Siku"
+    ],
+    "name:hun_x_preferred":[
+        "Siku"
+    ],
+    "name:ita_x_preferred":[
+        "Siku"
+    ],
     "name:und_x_variant":[
         "Sihku",
         "Siku"
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1276585581,
-    "wof:lastmodified":1537708656,
+    "wof:lastmodified":1564179676,
     "wof:name":"Siku",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

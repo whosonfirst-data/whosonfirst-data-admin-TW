@@ -28,6 +28,21 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Gongguan Xiang"
+    ],
+    "name:fra_x_preferred":[
+        "Gongguan"
+    ],
+    "name:hak_x_preferred":[
+        "K\u00fbng-k\u00f3n-hi\u00f4ng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u516c\u9928\u90f7"
+    ],
+    "name:kor_x_preferred":[
+        "\uad81\uad00\ud5a5"
+    ],
     "name:und_x_variant":[
         "Kung-kuan-tzu",
         "Kung-kuan-li",
@@ -35,8 +50,14 @@
         "Gongguan",
         "Kung-kuan"
     ],
+    "name:vie_x_preferred":[
+        "C\u00f4ng Qu\u00e1n"
+    ],
     "name:zho_x_preferred":[
         "\u516c\u9928"
+    ],
+    "name:zho_x_variant":[
+        "\u516c\u9928\u9109"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +83,7 @@
         }
     ],
     "wof:id":1243460537,
-    "wof:lastmodified":1537709110,
+    "wof:lastmodified":1564181006,
     "wof:name":"Gongguan",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

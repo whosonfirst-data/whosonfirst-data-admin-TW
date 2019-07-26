@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gangkou"
+    ],
+    "name:nor_x_preferred":[
+        "Gangkou"
+    ],
     "name:und_x_variant":[
         "\u6e2f\u53e3"
     ],
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1243460441,
-    "wof:lastmodified":1537709011,
+    "wof:lastmodified":1564181010,
     "wof:name":"Gangkou",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

@@ -35,6 +35,9 @@
     "name:zho_x_preferred":[
         "\u666f\u5e84"
     ],
+    "name:zho_x_variant":[
+        "\u4e95\u5e84\u9547"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1310708171,
-    "wof:lastmodified":1537709930,
+    "wof:lastmodified":1564180278,
     "wof:name":"Jingzhuang",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

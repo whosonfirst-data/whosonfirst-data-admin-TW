@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Xiao'ao"
+    ],
+    "name:kor_x_preferred":[
+        "\ucd08 \uc18c\uc624"
+    ],
     "name:und_x_variant":[
         "Chiang-ao",
         "Kang-ao",
@@ -63,7 +69,7 @@
         }
     ],
     "wof:id":1242783807,
-    "wof:lastmodified":1537709015,
+    "wof:lastmodified":1564181059,
     "wof:name":"Xiao'ao",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

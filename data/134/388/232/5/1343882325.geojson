@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Wukan"
+    ],
+    "name:epo_x_preferred":[
+        "Wukan"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648\u06a9\u0627\u0646"
+    ],
     "name:zho_x_preferred":[
         "Wu-k\u2019an-she"
     ],
@@ -35,7 +44,8 @@
         "Wu-ch\u2019ien-li",
         "Wu-k\u2019an-li",
         "\u70cf\u5d01",
-        "Wu-k\u2019an"
+        "Wu-k\u2019an",
+        "\u70cf\u574e\u6751"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +72,7 @@
         }
     ],
     "wof:id":1343882325,
-    "wof:lastmodified":1537708461,
+    "wof:lastmodified":1564179162,
     "wof:name":"Wukan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

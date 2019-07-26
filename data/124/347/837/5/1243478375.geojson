@@ -36,11 +36,15 @@
         "Sung-pu",
         "Songpu"
     ],
+    "name:vie_x_preferred":[
+        "T\u00f9ng Ph\u1ed1"
+    ],
     "name:zho_x_preferred":[
         "Sung-p\u2019u"
     ],
     "name:zho_x_variant":[
-        "\u677e\u6d66"
+        "\u677e\u6d66",
+        "\u677e\u6d66\u8857\u9053"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1243478375,
-    "wof:lastmodified":1537708645,
+    "wof:lastmodified":1564181021,
     "wof:name":"Songpu",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

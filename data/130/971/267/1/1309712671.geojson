@@ -28,15 +28,28 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hak_x_preferred":[
+        "Th\u00f2i-s\u00ee-hi\u00f4ng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u53f0\u897f\u90f7"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\uc774\uc2dc\ud5a5"
+    ],
     "name:und_x_variant":[
         "Taisi"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00e0i T\u00e2y"
     ],
     "name:zho_x_preferred":[
         "Hai-k\u2019ou"
     ],
     "name:zho_x_variant":[
         "\u81fa\u897f",
-        "T\u2019ai-hsi"
+        "T\u2019ai-hsi",
+        "\u81fa\u897f\u9109"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +75,7 @@
         }
     ],
     "wof:id":1309712671,
-    "wof:lastmodified":1537708624,
+    "wof:lastmodified":1564180559,
     "wof:name":"Taixi",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

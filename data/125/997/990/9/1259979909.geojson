@@ -28,6 +28,21 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Donggang"
+    ],
+    "name:deu_x_preferred":[
+        "Donggang"
+    ],
+    "name:fra_x_preferred":[
+        "Donggang"
+    ],
+    "name:nor_x_preferred":[
+        "Donggang"
+    ],
+    "name:swe_x_preferred":[
+        "Donggang"
+    ],
     "name:und_x_variant":[
         "Tung-kang",
         "Tung-chiang-tzu",
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1259979909,
-    "wof:lastmodified":1537708509,
+    "wof:lastmodified":1564181175,
     "wof:name":"Donggang",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guhe"
+    ],
+    "name:swe_x_preferred":[
+        "Guhe"
+    ],
     "name:und_x_variant":[
         "Ku-ho"
     ],
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1259885971,
-    "wof:lastmodified":1537709504,
+    "wof:lastmodified":1564181306,
     "wof:name":"Guhe",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shangzhuang"
+    ],
+    "name:swe_x_preferred":[
+        "Shangzhuang"
+    ],
     "name:und_x_variant":[
         "Shangjhuang",
         "Shang-chuang"
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1259807631,
-    "wof:lastmodified":1537709733,
+    "wof:lastmodified":1564181290,
     "wof:name":"Shangzhuang",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

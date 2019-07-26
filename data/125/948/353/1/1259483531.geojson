@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:mlg_x_preferred":[
+        "Linkou"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043d\u044c\u043a\u043e\u0443"
+    ],
     "name:und_x_variant":[
         "Shan-chiao"
     ],
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1259483531,
-    "wof:lastmodified":1537709963,
+    "wof:lastmodified":1564181187,
     "wof:name":"Linkou",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

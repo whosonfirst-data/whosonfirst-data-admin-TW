@@ -13,6 +13,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:zho_x_preferred":[
+        "\u5357\u6d32\u9547"
+    ],
     "qs:name":"\u660e\u6e56\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u82d7\u6817\u7e23",
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890470365,
-    "wof:lastmodified":1527727211,
+    "wof:lastmodified":1564180665,
     "wof:name":"\u660e\u6e56\u6751",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

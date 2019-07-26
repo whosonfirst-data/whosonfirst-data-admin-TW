@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Datan"
+    ],
+    "name:ita_x_preferred":[
+        "Datan"
+    ],
     "name:zho_x_preferred":[
         "Ta-t\u2019an-ts\u2019un"
     ],
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1209220643,
-    "wof:lastmodified":1537708587,
+    "wof:lastmodified":1564179933,
     "wof:name":"Datan",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

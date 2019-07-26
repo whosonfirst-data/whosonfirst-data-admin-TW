@@ -28,8 +28,26 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tianchi"
+    ],
+    "name:deu_x_preferred":[
+        "Tian Chi"
+    ],
+    "name:fra_x_preferred":[
+        "Tianchi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5929\u6c60"
+    ],
+    "name:nld_x_preferred":[
+        "Tianchi"
+    ],
     "name:und_x_variant":[
         "Tianchih"
+    ],
+    "name:vie_x_preferred":[
+        "Thi\u00ean Tr\u00ec"
     ],
     "name:zho_x_preferred":[
         "\u5929\u6c60"
@@ -60,7 +78,7 @@
         }
     ],
     "wof:id":1343567209,
-    "wof:lastmodified":1537708573,
+    "wof:lastmodified":1564179072,
     "wof:name":"Tianchi",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

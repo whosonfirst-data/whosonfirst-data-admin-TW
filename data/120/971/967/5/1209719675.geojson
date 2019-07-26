@@ -34,6 +34,9 @@
     "name:zho_x_preferred":[
         "\u6c34\u982d"
     ],
+    "name:zho_x_variant":[
+        "\u6c34\u5934\u9547"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1209719675,
-    "wof:lastmodified":1537708666,
+    "wof:lastmodified":1564179910,
     "wof:name":"Shuitou",
     "wof:parent_id":85679635,
     "wof:placetype":"locality",

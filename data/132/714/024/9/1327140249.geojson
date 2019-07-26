@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yongfeng"
+    ],
+    "name:deu_x_preferred":[
+        "Yongfeng"
+    ],
     "name:und_x_variant":[
         "Yongfong",
         "Yongfeng",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1327140249,
-    "wof:lastmodified":1537709436,
+    "wof:lastmodified":1564178701,
     "wof:name":"Yongfeng",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

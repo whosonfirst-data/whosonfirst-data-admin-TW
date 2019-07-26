@@ -28,10 +28,22 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Sizihwan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u897f\u5b50\u6e7e"
+    ],
+    "name:spa_x_preferred":[
+        "Sizihwan"
+    ],
     "name:und_x_variant":[
         "Hsi-tzu-wan",
         "Sizih Wan",
         "Xizi Wan",
+        "\u897f\u5b50\u7063"
+    ],
+    "name:zho_x_preferred":[
         "\u897f\u5b50\u7063"
     ],
     "src:geom":"geonames",
@@ -58,7 +70,7 @@
         }
     ],
     "wof:id":1310504601,
-    "wof:lastmodified":1537709055,
+    "wof:lastmodified":1564180413,
     "wof:name":"Xizi Wan",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

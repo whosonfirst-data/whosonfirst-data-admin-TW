@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Paiwan"
+    ],
+    "name:spa_x_preferred":[
+        "Paiwan"
+    ],
     "name:und_x_variant":[
         "Fa-wan"
     ],
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1344080759,
-    "wof:lastmodified":1537709972,
+    "wof:lastmodified":1564178969,
     "wof:name":"Paiwan",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

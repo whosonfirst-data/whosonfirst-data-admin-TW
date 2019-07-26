@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Hehe"
+    ],
+    "name:spa_x_preferred":[
+        "Hehe"
+    ],
     "name:und_x_variant":[
         "Ho-ho"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1293006579,
-    "wof:lastmodified":1537709450,
+    "wof:lastmodified":1564179309,
     "wof:name":"Hehe",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

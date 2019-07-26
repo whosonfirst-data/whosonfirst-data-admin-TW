@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Sanxiantai"
+    ],
+    "name:por_x_preferred":[
+        "Sanxiantai"
+    ],
+    "name:spa_x_preferred":[
+        "Sansiantai"
+    ],
     "name:und_x_variant":[
         "Sansiantai",
         "Sanxiantai"
@@ -36,7 +45,8 @@
         "\u4e09\u4ed9\u81fa"
     ],
     "name:zho_x_variant":[
-        "San-hsien-t\u2019ai"
+        "San-hsien-t\u2019ai",
+        "\u4e09\u4ed9\u53f0"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +73,7 @@
         }
     ],
     "wof:id":1193016919,
-    "wof:lastmodified":1537709824,
+    "wof:lastmodified":1564180095,
     "wof:name":"Sanxiantai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

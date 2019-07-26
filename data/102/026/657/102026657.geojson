@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001897,
-    "geom:area_square_m":21349972.061113,
+    "geom:area_square_m":21349972.061107,
     "geom:bbox":"121.119932641,24.0123518103,121.227561307,25.0697477749",
     "geom:latitude":24.481765,
     "geom:longitude":121.173913,
@@ -18,10 +18,16 @@
     "mps:longitude":121.150889,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Dawan"
+    ],
     "name:deu_x_preferred":[
         "Dawan"
     ],
     "name:ind_x_preferred":[
+        "Dawan"
+    ],
+    "name:swe_x_preferred":[
         "Dawan"
     ],
     "name:unk_x_variant":[
@@ -70,7 +76,7 @@
         }
     ],
     "wof:id":102026657,
-    "wof:lastmodified":1527637808,
+    "wof:lastmodified":1564178898,
     "wof:name":"Dawan",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

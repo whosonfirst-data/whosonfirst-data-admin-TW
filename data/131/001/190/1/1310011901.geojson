@@ -35,7 +35,8 @@
         "\u4e03\u82d3"
     ],
     "name:zho_x_variant":[
-        "Ch\u2019i-ling"
+        "Ch\u2019i-ling",
+        "\u5c90\u5cad\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1310011901,
-    "wof:lastmodified":1537709354,
+    "wof:lastmodified":1564180352,
     "wof:name":"Qiling",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

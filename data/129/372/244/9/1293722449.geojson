@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sanjie"
+    ],
+    "name:deu_x_preferred":[
+        "Sanjie"
+    ],
+    "name:swe_x_preferred":[
+        "Sanjie"
+    ],
     "name:und_x_variant":[
         "San-chieh"
     ],
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1293722449,
-    "wof:lastmodified":1537708763,
+    "wof:lastmodified":1564179556,
     "wof:name":"Sanjie",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

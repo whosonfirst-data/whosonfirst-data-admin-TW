@@ -37,7 +37,8 @@
         "Hsiao-ch\u2019i"
     ],
     "name:zho_x_variant":[
-        "\u5c0f\u6eaa"
+        "\u5c0f\u6eaa",
+        "\u5c0f\u6eaa\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1259390123,
-    "wof:lastmodified":1537709150,
+    "wof:lastmodified":1564181171,
     "wof:name":"Xiaoxi",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

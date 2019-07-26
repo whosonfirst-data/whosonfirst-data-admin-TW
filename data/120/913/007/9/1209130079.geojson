@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Xiushui"
+    ],
+    "name:fra_x_preferred":[
+        "Xiushui"
+    ],
     "name:und_x_variant":[
         "Hsiu-shui-li",
         "Sioushuei",
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1209130079,
-    "wof:lastmodified":1537709051,
+    "wof:lastmodified":1564179939,
     "wof:name":"Xiushui",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

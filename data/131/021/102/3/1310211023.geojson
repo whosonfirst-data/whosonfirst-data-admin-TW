@@ -28,8 +28,35 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Lajia"
+    ],
+    "name:dan_x_preferred":[
+        "Lajia"
+    ],
+    "name:deu_x_preferred":[
+        "Lajia"
+    ],
+    "name:fra_x_preferred":[
+        "Lajia"
+    ],
+    "name:hun_x_preferred":[
+        "Lacsia"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5587\u5bb6\u907a\u8de1"
+    ],
+    "name:lat_x_preferred":[
+        "Lajia"
+    ],
+    "name:nor_x_preferred":[
+        "Lajia"
+    ],
     "name:und_x_variant":[
         "La-chia"
+    ],
+    "name:zho_x_preferred":[
+        "\u5587\u5bb6\u9057\u5740"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +81,7 @@
         }
     ],
     "wof:id":1310211023,
-    "wof:lastmodified":1537708950,
+    "wof:lastmodified":1564180390,
     "wof:name":"Lajia",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

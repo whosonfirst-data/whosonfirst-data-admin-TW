@@ -28,8 +28,17 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u4e94\u6307\u5c71"
+    ],
+    "name:nor_x_preferred":[
+        "Wuzhishan"
+    ],
     "name:und_x_variant":[
         "Wu-chih-shan"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e94\u6307\u5c71"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1360086779,
-    "wof:lastmodified":1537708466,
+    "wof:lastmodified":1564180479,
     "wof:name":"Wuzhishan",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

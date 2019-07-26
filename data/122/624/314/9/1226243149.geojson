@@ -36,6 +36,9 @@
     "name:zho_x_preferred":[
         "\u4e5d\u516c"
     ],
+    "name:zho_x_variant":[
+        "\u65e7\u5bab\u5730\u533a"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1226243149,
-    "wof:lastmodified":1537709750,
+    "wof:lastmodified":1564181484,
     "wof:name":"Jiugong",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

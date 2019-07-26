@@ -34,6 +34,9 @@
     "name:zho_x_preferred":[
         "\u5dd6\u8173"
     ],
+    "name:zho_x_variant":[
+        "\u71d5\u90ca\u9547"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1360091131,
-    "wof:lastmodified":1537708443,
+    "wof:lastmodified":1564180467,
     "wof:name":"Yanjiao",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Pitou"
+    ],
+    "name:fra_x_preferred":[
+        "Pitou"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0438\u0442\u0443"
+    ],
     "name:zho_x_preferred":[
         "Y\u00fcan-p\u2019i-li"
     ],
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1310111659,
-    "wof:lastmodified":1537708779,
+    "wof:lastmodified":1564180375,
     "wof:name":"Pitou",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

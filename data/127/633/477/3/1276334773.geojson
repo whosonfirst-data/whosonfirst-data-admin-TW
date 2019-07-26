@@ -34,6 +34,9 @@
     "name:zho_x_preferred":[
         "\u5f8c\u71df"
     ],
+    "name:zho_x_variant":[
+        "\u4faf\u8425\u9547"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1276334773,
-    "wof:lastmodified":1537709176,
+    "wof:lastmodified":1564179654,
     "wof:name":"Houying",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

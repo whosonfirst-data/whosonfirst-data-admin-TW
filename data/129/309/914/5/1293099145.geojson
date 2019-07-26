@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dexing"
+    ],
+    "name:deu_x_preferred":[
+        "Dexing"
+    ],
+    "name:nor_x_preferred":[
+        "Dexing"
+    ],
     "name:und_x_variant":[
         "Desing",
         "Dexing",
@@ -65,7 +74,7 @@
         }
     ],
     "wof:id":1293099145,
-    "wof:lastmodified":1537708959,
+    "wof:lastmodified":1564179324,
     "wof:name":"Dexing",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

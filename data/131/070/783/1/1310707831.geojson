@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tuku"
+    ],
+    "name:que_x_preferred":[
+        "Tuku"
+    ],
+    "name:swe_x_preferred":[
+        "Tuku"
+    ],
     "name:zho_x_preferred":[
         "\u571f\u5eab"
     ],
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1310707831,
-    "wof:lastmodified":1537708517,
+    "wof:lastmodified":1564180282,
     "wof:name":"Tuku",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

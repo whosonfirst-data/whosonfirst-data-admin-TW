@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Junjie"
+    ],
     "name:und_x_variant":[
         "Jyunjie"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1343964435,
-    "wof:lastmodified":1537709301,
+    "wof:lastmodified":1564178922,
     "wof:name":"Junjie",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

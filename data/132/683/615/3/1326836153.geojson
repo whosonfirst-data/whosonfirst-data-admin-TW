@@ -28,6 +28,24 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Huli"
+    ],
+    "name:deu_x_preferred":[
+        "Huli"
+    ],
+    "name:fra_x_preferred":[
+        "Huli"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u0443\u043b\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Huli"
+    ],
+    "name:tur_x_preferred":[
+        "Huli"
+    ],
     "name:und_x_variant":[
         "Hsia-hu-li",
         "Huli",
@@ -56,7 +74,7 @@
         }
     ],
     "wof:id":1326836153,
-    "wof:lastmodified":1537709165,
+    "wof:lastmodified":1564178817,
     "wof:name":"Huli",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

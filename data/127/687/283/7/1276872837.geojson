@@ -36,6 +36,9 @@
     "name:zho_x_preferred":[
         "\u5927\u586d"
     ],
+    "name:zho_x_variant":[
+        "\u738b\u5927\u6587"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1276872837,
-    "wof:lastmodified":1537708581,
+    "wof:lastmodified":1564179641,
     "wof:name":"Dawen",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

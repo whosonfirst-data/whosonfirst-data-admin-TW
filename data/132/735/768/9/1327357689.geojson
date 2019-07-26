@@ -28,12 +28,27 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Donghai"
+    ],
+    "name:deu_x_preferred":[
+        "Donghai"
+    ],
+    "name:mlg_x_preferred":[
+        "Donghai"
+    ],
+    "name:nor_x_preferred":[
+        "Donghai"
+    ],
     "name:und_x_variant":[
         "Pei-ch\u2019i-wei",
         "\u6771\u6d77",
         "Tung-hai-ts\u2019un",
         "Donghai",
         "Tung-hai"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4ng H\u1ea3i"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1327357689,
-    "wof:lastmodified":1537708806,
+    "wof:lastmodified":1564178770,
     "wof:name":"Donghai",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

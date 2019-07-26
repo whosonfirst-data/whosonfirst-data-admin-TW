@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Yuanfeng"
+    ],
     "name:und_x_variant":[
         "Yuanfong"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1309745185,
-    "wof:lastmodified":1537709612,
+    "wof:lastmodified":1564180579,
     "wof:name":"Yuanfeng",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

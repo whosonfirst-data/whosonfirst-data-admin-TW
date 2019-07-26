@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Nanzi"
+    ],
     "name:eng_x_preferred":[
         "Nanzih District"
     ],
@@ -37,8 +40,17 @@
     "name:kor_x_preferred":[
         "\ub09c\ucbd4 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ub09c\ucbd4\uad6c"
+    ],
     "name:nan_x_preferred":[
         "L\u00e2m-ch\u00fa-khu"
+    ],
+    "name:pol_x_preferred":[
+        "Nanzi"
+    ],
+    "name:swe_x_preferred":[
+        "Nanzi"
     ],
     "name:und_x_variant":[
         "Nan-tzu-chuang",
@@ -77,7 +89,7 @@
         }
     ],
     "wof:id":1310414735,
-    "wof:lastmodified":1537708851,
+    "wof:lastmodified":1564180272,
     "wof:name":"Nanzi",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

@@ -13,6 +13,33 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Shiqian Xian"
+    ],
+    "name:deu_x_preferred":[
+        "Shiqian"
+    ],
+    "name:fas_x_preferred":[
+        "\u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u06cc\u0686\u06cc\u0627\u0646"
+    ],
+    "name:jpn_x_preferred":[
+        "\u77f3\u9621\u770c"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2a4\uccb8\ud604"
+    ],
+    "name:nor_x_preferred":[
+        "Shiqian"
+    ],
+    "name:swe_x_preferred":[
+        "Shiqian"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ea1ch Thi\u00ean"
+    ],
+    "name:zho_x_preferred":[
+        "\u77f3\u9621\u53bf"
+    ],
     "qs:name":"\u6c34\u5c3e\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5f70\u5316\u7e23",
@@ -50,7 +77,7 @@
         }
     ],
     "wof:id":890471959,
-    "wof:lastmodified":1527727125,
+    "wof:lastmodified":1564180635,
     "wof:name":"\u6c34\u5c3e\u6751",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

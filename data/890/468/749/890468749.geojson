@@ -15,6 +15,30 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nangang"
+    ],
+    "name:deu_x_preferred":[
+        "Nangang"
+    ],
+    "name:eus_x_preferred":[
+        "Nangang"
+    ],
+    "name:fra_x_preferred":[
+        "Nangang"
+    ],
+    "name:kor_x_preferred":[
+        "\ub09c\uac15\uad6c"
+    ],
+    "name:nor_x_preferred":[
+        "Nangang"
+    ],
+    "name:sco_x_preferred":[
+        "Nangang"
+    ],
+    "name:swe_x_preferred":[
+        "Nangang"
+    ],
     "name:unk_x_variant":[
         "Nangang Qu"
     ],
@@ -55,7 +79,7 @@
         }
     ],
     "wof:id":890468749,
-    "wof:lastmodified":1527792968,
+    "wof:lastmodified":1564180836,
     "wof:name":"Nangang District",
     "wof:parent_id":85679583,
     "wof:placetype":"localadmin",

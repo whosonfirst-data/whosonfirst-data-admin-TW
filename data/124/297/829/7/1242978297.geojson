@@ -28,8 +28,35 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Bali"
+    ],
+    "name:fra_x_preferred":[
+        "Bali"
+    ],
+    "name:hak_x_preferred":[
+        "Pat-l\u00ee-kh\u00ee"
+    ],
+    "name:jpn_x_preferred":[
+        "\u516b\u91cc\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\ubc14\ub9ac\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Bali"
+    ],
+    "name:pol_x_preferred":[
+        "Bali"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0430\u043b\u0456"
+    ],
     "name:und_x_variant":[
         "Pa-li"
+    ],
+    "name:vie_x_preferred":[
+        "B\u00e1t L\u00fd"
     ],
     "name:zho_x_preferred":[
         "Lao-ch\u2019ien-ts\u2019un"
@@ -37,7 +64,8 @@
     "name:zho_x_variant":[
         "Lao-ch\u2019ien",
         "\u516b\u91cc",
-        "Hs\u00fcn-t\u2019ang-pu"
+        "Hs\u00fcn-t\u2019ang-pu",
+        "\u516b\u91cc\u5340"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +91,7 @@
         }
     ],
     "wof:id":1242978297,
-    "wof:lastmodified":1537708946,
+    "wof:lastmodified":1564181063,
     "wof:name":"Bali",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

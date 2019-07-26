@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\uc6b0\ubcf4"
+    ],
+    "name:pol_x_preferred":[
+        "Krok Yu"
+    ],
     "name:zho_x_preferred":[
         "Y\u00fc-pu-ts\u2019un"
     ],
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1243478591,
-    "wof:lastmodified":1537708419,
+    "wof:lastmodified":1564181015,
     "wof:name":"Yubu",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

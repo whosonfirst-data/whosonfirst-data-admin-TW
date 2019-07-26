@@ -38,7 +38,8 @@
     "name:zho_x_variant":[
         "Ho-ling-ts\u2019un",
         "Ho-hsiang-ts\u2019un",
-        "Hsiang-k\u2019ou"
+        "Hsiang-k\u2019ou",
+        "\u5df7\u53e3\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1193161057,
-    "wof:lastmodified":1537709194,
+    "wof:lastmodified":1564180140,
     "wof:name":"Xiangkou",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

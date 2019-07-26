@@ -28,6 +28,24 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u0623\u0633 \u0623\u0648\u0644\u0627\u0646\u0628\u064a"
+    ],
+    "name:fra_x_preferred":[
+        "Cap Eluanbi"
+    ],
+    "name:ind_x_preferred":[
+        "Tanjung Eluanbi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9d5d\u947e\u9f3b"
+    ],
+    "name:por_x_preferred":[
+        "Cabo Eluanbi"
+    ],
+    "name:spa_x_preferred":[
+        "Cabo Eluanbi"
+    ],
     "name:und_x_variant":[
         "O-Lan-Pi",
         "Eluanbi",
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":1293390383,
-    "wof:lastmodified":1537708828,
+    "wof:lastmodified":1564179346,
     "wof:name":"Eluanbi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

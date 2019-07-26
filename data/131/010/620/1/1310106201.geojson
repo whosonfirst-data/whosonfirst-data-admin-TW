@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dajing"
+    ],
+    "name:swe_x_preferred":[
+        "Dajing"
+    ],
     "name:und_x_variant":[
         "Ta-ching"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1310106201,
-    "wof:lastmodified":1537709958,
+    "wof:lastmodified":1564180382,
     "wof:name":"Dajing",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

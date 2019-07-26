@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Magang"
+    ],
+    "name:swe_x_preferred":[
+        "Magang"
+    ],
     "name:und_x_variant":[
         "Ma-kang"
     ],
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1343470319,
-    "wof:lastmodified":1537708891,
+    "wof:lastmodified":1564179015,
     "wof:name":"Magang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

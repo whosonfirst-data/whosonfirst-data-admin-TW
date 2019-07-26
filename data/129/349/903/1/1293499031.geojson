@@ -28,8 +28,14 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Shiding"
+    ],
     "name:eng_x_preferred":[
         "Shiding District"
+    ],
+    "name:fra_x_preferred":[
+        "Shiding"
     ],
     "name:hak_x_preferred":[
         "Sa\u030dk-t\u00e0ng-kh\u00ee"
@@ -40,6 +46,9 @@
     "name:kor_x_preferred":[
         "\uc2a4\ub529 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc2a4\ub529\uad6c"
+    ],
     "name:lit_x_preferred":[
         "\u0160idingas"
     ],
@@ -48,6 +57,12 @@
     ],
     "name:nan_x_preferred":[
         "Chio\u030dh-t\u0113ng-khu"
+    ],
+    "name:pol_x_preferred":[
+        "Shiding"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0428\u0456\u0434\u0456\u043d"
     ],
     "name:und_x_variant":[
         "Shih-ting-hsiang",
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":1293499031,
-    "wof:lastmodified":1537708688,
+    "wof:lastmodified":1564179396,
     "wof:name":"Shiding",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

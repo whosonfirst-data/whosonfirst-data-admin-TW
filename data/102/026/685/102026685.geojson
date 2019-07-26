@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000465,
-    "geom:area_square_m":5229895.790775,
+    "geom:area_square_m":5229895.790774,
     "geom:bbox":"120.768336846,24.473124319,120.799046116,24.4911742437",
     "geom:latitude":24.482149,
     "geom:longitude":120.783691,
@@ -18,7 +18,13 @@
     "mps:longitude":120.783691,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Nanshi"
+    ],
     "name:deu_x_preferred":[
+        "Nanshi"
+    ],
+    "name:swe_x_preferred":[
         "Nanshi"
     ],
     "name:unk_x_variant":[
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":102026685,
-    "wof:lastmodified":1527637812,
+    "wof:lastmodified":1564178901,
     "wof:name":"Nanshi",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

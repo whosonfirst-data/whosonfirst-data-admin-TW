@@ -36,7 +36,8 @@
         "\u516c\u897f"
     ],
     "name:zho_x_variant":[
-        "Hsia-k\u2019u-ling-lin"
+        "Hsia-k\u2019u-ling-lin",
+        "\u8d21\u6eaa\u4e61"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1193016345,
-    "wof:lastmodified":1537709942,
+    "wof:lastmodified":1564180089,
     "wof:name":"Gongxi",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

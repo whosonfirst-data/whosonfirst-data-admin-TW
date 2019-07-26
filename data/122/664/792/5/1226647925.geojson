@@ -28,8 +28,35 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Wanli"
+    ],
+    "name:fra_x_preferred":[
+        "Wanli"
+    ],
+    "name:hak_x_preferred":[
+        "Van-l\u00ee-kh\u00ee"
+    ],
+    "name:jpn_x_preferred":[
+        "\u4e07\u91cc\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc644\ub9ac\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Vanli"
+    ],
+    "name:pol_x_preferred":[
+        "Wanli"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0412\u0430\u043d\u044c\u043b\u0456"
+    ],
     "name:und_x_variant":[
         "Wan-li"
+    ],
+    "name:vie_x_preferred":[
+        "V\u1ea1n L\u00fd"
     ],
     "name:zho_x_preferred":[
         "Ma-su-chiang-k\u2019ou"
@@ -37,7 +64,8 @@
     "name:zho_x_variant":[
         "Wan-li-ts\u2019un",
         "Ma-lien-chiang-k\u2019ou",
-        "\u842c\u91cc"
+        "\u842c\u91cc",
+        "\u842c\u91cc\u5340"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +93,7 @@
         }
     ],
     "wof:id":1226647925,
-    "wof:lastmodified":1537708482,
+    "wof:lastmodified":1564181505,
     "wof:name":"Wanli",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

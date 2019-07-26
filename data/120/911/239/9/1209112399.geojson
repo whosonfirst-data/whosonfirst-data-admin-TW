@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Daxi"
+    ],
+    "name:deu_x_preferred":[
+        "Daxi"
+    ],
+    "name:swe_x_preferred":[
+        "Daxi"
+    ],
     "name:und_x_variant":[
         "Dasi",
         "Ta-hsi"
@@ -55,7 +64,7 @@
         }
     ],
     "wof:id":1209112399,
-    "wof:lastmodified":1537708630,
+    "wof:lastmodified":1564180006,
     "wof:name":"Daxi",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

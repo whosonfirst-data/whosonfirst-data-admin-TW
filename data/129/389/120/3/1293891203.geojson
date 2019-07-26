@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u91d1\u74dc\u77f3\u9271\u5c71"
+    ],
+    "name:kor_x_preferred":[
+        "\uc9c4\uacfc\uc2a4"
+    ],
     "name:und_x_variant":[
         "Chin-kwa-shih",
         "Jinguashih",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1293891203,
-    "wof:lastmodified":1537709340,
+    "wof:lastmodified":1564179537,
     "wof:name":"Jinguashi",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

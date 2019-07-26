@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dongning"
+    ],
     "name:und_x_variant":[
         "Yung-ch\u2019un",
         "Yung-ch\u2019un-ts\u2019un",
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1293001087,
-    "wof:lastmodified":1537708506,
+    "wof:lastmodified":1564179313,
     "wof:name":"Dongning",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

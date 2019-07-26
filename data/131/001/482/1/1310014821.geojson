@@ -28,6 +28,18 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:epo_x_preferred":[
+        "\u011conghuo"
+    ],
+    "name:hun_x_preferred":[
+        "Csunghu"
+    ],
+    "name:ind_x_preferred":[
+        "Zhonghu"
+    ],
+    "name:nor_x_preferred":[
+        "Zhonghu"
+    ],
     "name:und_x_variant":[
         "Jhonghu",
         "Zhonghu",
@@ -59,7 +71,7 @@
         }
     ],
     "wof:id":1310014821,
-    "wof:lastmodified":1537709638,
+    "wof:lastmodified":1564180348,
     "wof:name":"Zhonghu",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

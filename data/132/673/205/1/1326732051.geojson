@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Balian"
+    ],
     "name:und_x_variant":[
         "Pa-lien-chiang",
         "Pa-lien-kang",
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1326732051,
-    "wof:lastmodified":1537708818,
+    "wof:lastmodified":1564178661,
     "wof:name":"Balian",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

@@ -28,6 +28,27 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wuyi"
+    ],
+    "name:deu_x_preferred":[
+        "Wuyi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0648\u0648 \u06cc\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Wuyi"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\uc774\ud604"
+    ],
+    "name:nor_x_preferred":[
+        "Wuyi"
+    ],
+    "name:swe_x_preferred":[
+        "Wuyi"
+    ],
     "name:und_x_variant":[
         "Wu-i"
     ],
@@ -57,7 +78,7 @@
         }
     ],
     "wof:id":1193161043,
-    "wof:lastmodified":1537709615,
+    "wof:lastmodified":1564180139,
     "wof:name":"Wuyi",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

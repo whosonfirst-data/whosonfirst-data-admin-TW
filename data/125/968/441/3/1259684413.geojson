@@ -28,6 +28,21 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Chima"
+    ],
+    "name:deu_x_preferred":[
+        "Chima"
+    ],
+    "name:ita_x_preferred":[
+        "Chima"
+    ],
+    "name:nld_x_preferred":[
+        "Chima"
+    ],
+    "name:swe_x_preferred":[
+        "Chima"
+    ],
     "name:und_x_variant":[
         "Chihma",
         "Chima"
@@ -65,7 +80,7 @@
         }
     ],
     "wof:id":1259684413,
-    "wof:lastmodified":1537709353,
+    "wof:lastmodified":1564181248,
     "wof:name":"Chima",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

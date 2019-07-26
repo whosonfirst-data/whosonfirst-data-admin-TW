@@ -28,10 +28,25 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hak_x_preferred":[
+        "Ma\u030dk-li\u00e0u-hi\u00f4ng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9ea6\u5bee\u90f7"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9c8\uc774\ub7b4\uc624\ud5a5"
+    ],
     "name:und_x_variant":[
         "\u9ea5\u5bee",
         "Mailiao",
         "Mai-liao"
+    ],
+    "name:vie_x_preferred":[
+        "M\u1ea1ch Li\u00eau"
+    ],
+    "name:zho_x_preferred":[
+        "\u9ea5\u5bee\u9109"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1225944815,
-    "wof:lastmodified":1537708891,
+    "wof:lastmodified":1564181323,
     "wof:name":"Mailiao",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

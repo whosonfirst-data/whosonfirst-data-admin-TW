@@ -28,11 +28,24 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hak_x_preferred":[
+        "Th\u00fa-kh\u00f9-ts\u1e73\u0301n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u571f\u5eab\u93ae"
+    ],
+    "name:kor_x_preferred":[
+        "\ud22c\ucfe0\uc9c4"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u1ed5 Kh\u1ed1"
+    ],
     "name:zho_x_preferred":[
         "T\u2019u-k\u2019u-chuang"
     ],
     "name:zho_x_variant":[
-        "T\u2019u-k\u2019u"
+        "T\u2019u-k\u2019u",
+        "\u571f\u5eab\u93ae"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +71,7 @@
         }
     ],
     "wof:id":1310601443,
-    "wof:lastmodified":1537708517,
+    "wof:lastmodified":1564180440,
     "wof:name":"Tuku",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

@@ -28,9 +28,39 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Puzi"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0648\u0632\u06cc"
+    ],
+    "name:hak_x_preferred":[
+        "Ph\u00fa-ch\u1e73\u0301-s\u1e73"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6734\u5b50\u5e02"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\ucbd4\uc2dc"
+    ],
+    "name:lit_x_preferred":[
+        "Pudzi"
+    ],
+    "name:pol_x_preferred":[
+        "Pozi"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0443\u0446\u0437\u044b"
+    ],
+    "name:spa_x_preferred":[
+        "Puzi"
+    ],
     "name:und_x_variant":[
         "Pozih",
         "Pozi"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u00e1c T\u1eed"
     ],
     "name:zho_x_preferred":[
         "P\u2019o-tzu-chen"
@@ -38,7 +68,8 @@
     "name:zho_x_variant":[
         "\u6734\u5b50",
         "P\u2019u-tzu-chiao",
-        "P\u2019o-tzu"
+        "P\u2019o-tzu",
+        "\u6734\u5b50\u5e02"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +95,7 @@
         }
     ],
     "wof:id":1209716545,
-    "wof:lastmodified":1537708777,
+    "wof:lastmodified":1564179915,
     "wof:name":"Pozi",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

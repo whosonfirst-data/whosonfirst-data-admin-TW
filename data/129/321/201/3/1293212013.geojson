@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fenshui"
+    ],
+    "name:swe_x_preferred":[
+        "Fenshui"
+    ],
     "name:und_x_variant":[
         "Fenshuei",
         "Fen-shui"
@@ -36,7 +42,8 @@
         "P\u2019en-shui"
     ],
     "name:zho_x_variant":[
-        "\u6fc6\u6c34"
+        "\u6fc6\u6c34",
+        "\u5206\u6c34\u4e61"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":1293212013,
-    "wof:lastmodified":1537709222,
+    "wof:lastmodified":1564179555,
     "wof:name":"Fenshui",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
