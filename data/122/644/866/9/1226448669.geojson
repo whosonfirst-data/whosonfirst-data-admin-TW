@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Yongling"
+    ],
     "name:und_x_variant":[
         "Yung-ling"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1226448669,
-    "wof:lastmodified":1537709915,
+    "wof:lastmodified":1564181354,
     "wof:name":"Yongling",
     "wof:parent_id":85679583,
     "wof:placetype":"locality",

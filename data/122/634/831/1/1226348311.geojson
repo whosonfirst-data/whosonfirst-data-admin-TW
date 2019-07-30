@@ -28,6 +28,21 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Badu"
+    ],
+    "name:deu_x_preferred":[
+        "Badu"
+    ],
+    "name:fra_x_preferred":[
+        "Badu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0430\u0434\u0443"
+    ],
+    "name:swe_x_preferred":[
+        "Badu"
+    ],
     "name:und_x_variant":[
         "Pa-tu"
     ],
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1226348311,
-    "wof:lastmodified":1537708808,
+    "wof:lastmodified":1564181403,
     "wof:name":"Badu",
     "wof:parent_id":85679571,
     "wof:placetype":"locality",

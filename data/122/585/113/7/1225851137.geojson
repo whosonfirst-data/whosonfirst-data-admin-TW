@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Guishan"
+    ],
+    "name:kor_x_preferred":[
+        "\uad6c\uc774\uc0b0"
+    ],
     "name:und_x_variant":[
         "Kuei-shan"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":1225851137,
-    "wof:lastmodified":1537708970,
+    "wof:lastmodified":1564181557,
     "wof:name":"Guishan",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

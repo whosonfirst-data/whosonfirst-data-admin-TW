@@ -36,6 +36,9 @@
     "name:zho_x_preferred":[
         "\u5317\u838a"
     ],
+    "name:zho_x_variant":[
+        "\u5317\u5e84\u9547"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1243073767,
-    "wof:lastmodified":1537708806,
+    "wof:lastmodified":1564180870,
     "wof:name":"Beizhuang",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

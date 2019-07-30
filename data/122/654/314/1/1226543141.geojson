@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5449\u6dde\u533a"
+    ],
+    "name:mlg_x_preferred":[
+        "Wusong"
+    ],
     "name:und_x_variant":[
         "Wu-sung",
         "Pei-shan-li",
@@ -35,6 +41,9 @@
         "Pei-shan",
         "Wusong",
         "Niao-sung"
+    ],
+    "name:zho_x_preferred":[
+        "\u5434\u6dde\u533a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1226543141,
-    "wof:lastmodified":1537708801,
+    "wof:lastmodified":1564181527,
     "wof:name":"Wusong",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

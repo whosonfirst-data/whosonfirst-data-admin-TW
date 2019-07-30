@@ -36,7 +36,8 @@
         "\u7345\u6f6d"
     ],
     "name:zho_x_variant":[
-        "Shih-t\u2019an"
+        "Shih-t\u2019an",
+        "\u77f3\u6f6d\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1226546153,
-    "wof:lastmodified":1537708688,
+    "wof:lastmodified":1564181530,
     "wof:name":"Shitan",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

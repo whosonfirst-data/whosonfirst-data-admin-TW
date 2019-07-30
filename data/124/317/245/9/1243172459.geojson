@@ -28,6 +28,27 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Longshan"
+    ],
+    "name:deu_x_preferred":[
+        "Longshan"
+    ],
+    "name:fra_x_preferred":[
+        "Longshan"
+    ],
+    "name:nor_x_preferred":[
+        "Longshan"
+    ],
+    "name:pol_x_preferred":[
+        "Longshan"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u043d\u0448\u0430\u043d\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Longshan"
+    ],
     "name:und_x_variant":[
         "Heng-lung-shan",
         "Heng-lung-shan-she",
@@ -61,7 +82,7 @@
         }
     ],
     "wof:id":1243172459,
-    "wof:lastmodified":1537708905,
+    "wof:lastmodified":1564181107,
     "wof:name":"Longshan",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

@@ -28,6 +28,24 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Xinfeng"
+    ],
+    "name:deu_x_preferred":[
+        "Xinfeng"
+    ],
+    "name:fra_x_preferred":[
+        "Xinfeng"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e0\ud391\ud604"
+    ],
+    "name:nor_x_preferred":[
+        "Xinfeng"
+    ],
+    "name:swe_x_preferred":[
+        "Xinfeng"
+    ],
     "name:und_x_variant":[
         "Sinfong",
         "Hsin-feng"
@@ -63,7 +81,7 @@
         }
     ],
     "wof:id":1344181337,
-    "wof:lastmodified":1537708640,
+    "wof:lastmodified":1564179102,
     "wof:name":"Xinfeng",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

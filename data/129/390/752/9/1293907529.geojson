@@ -28,16 +28,38 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Yuchi"
+    ],
+    "name:fra_x_preferred":[
+        "Yuchi"
+    ],
+    "name:hak_x_preferred":[
+        "\u01f8g-tsh\u1e73\u0300-hi\u00f4ng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9b5a\u6c60\u90f7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc704\uce20\ud5a5"
+    ],
+    "name:pol_x_preferred":[
+        "Yuchi"
+    ],
     "name:und_x_variant":[
         "Yuchih",
         "Yuchi"
+    ],
+    "name:vie_x_preferred":[
+        "Ng\u01b0 Tr\u00ec"
     ],
     "name:zho_x_preferred":[
         "Y\u00fc-ch\u2019ih-hsiang"
     ],
     "name:zho_x_variant":[
         "\u9b5a\u6c60",
-        "Y\u00fc-ch\u2019ih"
+        "Y\u00fc-ch\u2019ih",
+        "\u9b5a\u6c60\u9109"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +85,7 @@
         }
     ],
     "wof:id":1293907529,
-    "wof:lastmodified":1537708430,
+    "wof:lastmodified":1564179363,
     "wof:name":"Yuchi",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

@@ -28,11 +28,26 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hak_x_preferred":[
+        "L\u00ecm-lo\u030dk-hi\u00f4ng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u9e9f\u6d1b\u90f7"
+    ],
+    "name:kor_x_preferred":[
+        "\ub9b0\ub904\ud5a5"
+    ],
     "name:und_x_variant":[
         "Lin-lo"
     ],
+    "name:vie_x_preferred":[
+        "L\u00e2n L\u1ea1c"
+    ],
     "name:zho_x_preferred":[
         "\u9e9f\u6d1b"
+    ],
+    "name:zho_x_variant":[
+        "\u9e9f\u6d1b\u9109"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +73,7 @@
         }
     ],
     "wof:id":1293206381,
-    "wof:lastmodified":1537708933,
+    "wof:lastmodified":1564179515,
     "wof:name":"Linluo",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

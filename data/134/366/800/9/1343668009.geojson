@@ -39,7 +39,8 @@
         "T\u2019ai-tzu-ts\u2019un",
         "Ta-tzu-ts\u2019un",
         "\u592a\u5b50",
-        "T\u2019ai-tzu"
+        "T\u2019ai-tzu",
+        "\u592a\u5b50#\u4e2d\u56fd"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +65,7 @@
         }
     ],
     "wof:id":1343668009,
-    "wof:lastmodified":1537708620,
+    "wof:lastmodified":1564179039,
     "wof:name":"Taizi",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

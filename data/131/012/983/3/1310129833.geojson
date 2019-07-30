@@ -31,6 +31,9 @@
     "name:und_x_variant":[
         "Kou-ting"
     ],
+    "name:vie_x_preferred":[
+        "C\u00e2u \u0110inh"
+    ],
     "name:zho_x_preferred":[
         "\u6e9d\u9802"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1310129833,
-    "wof:lastmodified":1537709699,
+    "wof:lastmodified":1564180262,
     "wof:name":"Gouding",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

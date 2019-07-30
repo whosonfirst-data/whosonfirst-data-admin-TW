@@ -36,6 +36,9 @@
     "name:zho_x_preferred":[
         "\u6e2f\u5c3e"
     ],
+    "name:zho_x_variant":[
+        "\u6e2f\u5c3e\u9547"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1260284603,
-    "wof:lastmodified":1537709005,
+    "wof:lastmodified":1564180217,
     "wof:name":"Gangwei",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

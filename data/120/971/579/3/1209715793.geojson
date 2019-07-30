@@ -35,6 +35,9 @@
     "name:zho_x_preferred":[
         "\u6771\u7af9"
     ],
+    "name:zho_x_variant":[
+        "\u4e1c\u6e1a\u8857\u9053"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1209715793,
-    "wof:lastmodified":1537709819,
+    "wof:lastmodified":1564179917,
     "wof:name":"Dongzhu",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

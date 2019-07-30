@@ -28,6 +28,27 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hedong"
+    ],
+    "name:deu_x_preferred":[
+        "Hedong"
+    ],
+    "name:eus_x_preferred":[
+        "Hedong"
+    ],
+    "name:fra_x_preferred":[
+        "Hedong"
+    ],
+    "name:nor_x_preferred":[
+        "Hedong"
+    ],
+    "name:rus_x_preferred":[
+        "\u0425\u044d\u0434\u0443\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Hedong"
+    ],
     "name:und_x_variant":[
         "Fen-chi-hu",
         "Ho-tung-li",
@@ -60,7 +81,7 @@
         }
     ],
     "wof:id":1360309415,
-    "wof:lastmodified":1537709191,
+    "wof:lastmodified":1564180471,
     "wof:name":"Hedong",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

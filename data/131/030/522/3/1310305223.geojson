@@ -28,11 +28,29 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:afr_x_preferred":[
+        "Liqiu"
+    ],
+    "name:cdo_x_preferred":[
+        "L\u012dk-chi\u016d"
+    ],
+    "name:hak_x_preferred":[
+        "Li\u030dp-chhi\u00fb"
+    ],
+    "name:swe_x_preferred":[
+        "Liqiu"
+    ],
     "name:und_x_variant":[
         "Pa-la-chi-la-erh",
         "Li-Chu",
         "Liciou",
         "Liqiu"
+    ],
+    "name:vie_x_preferred":[
+        "L\u1eadp thu"
+    ],
+    "name:zha_x_preferred":[
+        "Laebcou"
     ],
     "name:zho_x_preferred":[
         "Li-ch\u2019iu-ts\u2019un"
@@ -64,7 +82,7 @@
         }
     ],
     "wof:id":1310305223,
-    "wof:lastmodified":1537708939,
+    "wof:lastmodified":1564180345,
     "wof:name":"Liqiu",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

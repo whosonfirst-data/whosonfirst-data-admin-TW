@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mudan"
+    ],
+    "name:deu_x_preferred":[
+        "Mudan"
+    ],
+    "name:fra_x_preferred":[
+        "Mudan"
+    ],
     "name:und_x_variant":[
         "Wu-tan",
         "Mudan",
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1326732049,
-    "wof:lastmodified":1537708868,
+    "wof:lastmodified":1564178659,
     "wof:name":"Mudan",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

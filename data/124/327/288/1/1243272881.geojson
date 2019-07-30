@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Weixin"
+    ],
+    "name:fra_x_preferred":[
+        "Weixin"
+    ],
     "name:und_x_variant":[
         "Chu-tzu-chiang",
         "Weisin",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1243272881,
-    "wof:lastmodified":1537708474,
+    "wof:lastmodified":1564181082,
     "wof:name":"Weixin",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

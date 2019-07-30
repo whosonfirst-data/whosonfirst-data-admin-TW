@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Zhonghe"
+    ],
+    "name:deu_x_preferred":[
+        "Zhonghe"
+    ],
+    "name:swe_x_preferred":[
+        "Zhonghe"
+    ],
     "name:und_x_variant":[
         "\u5fe0\u548c",
         "Zhonghe",
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":1210022529,
-    "wof:lastmodified":1537709502,
+    "wof:lastmodified":1564180085,
     "wof:name":"Zhonghe",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

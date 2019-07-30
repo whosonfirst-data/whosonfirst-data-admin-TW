@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Guangfu"
+    ],
+    "name:swe_x_preferred":[
+        "Guangfu"
+    ],
     "name:und_x_variant":[
         "Kuang-fu-li",
         "Shou-chin-lao",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1326933399,
-    "wof:lastmodified":1537708681,
+    "wof:lastmodified":1564178677,
     "wof:name":"Guangfu",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

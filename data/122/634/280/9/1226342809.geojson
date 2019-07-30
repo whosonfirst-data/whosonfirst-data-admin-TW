@@ -28,16 +28,38 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Xincheng"
+    ],
+    "name:hak_x_preferred":[
+        "S\u00een-s\u00e0ng-hi\u00f4ng"
+    ],
+    "name:ita_x_preferred":[
+        "Xincheng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u65b0\u57ce\u90f7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e0\uccad\ud5a5"
+    ],
+    "name:pol_x_preferred":[
+        "Xincheng"
+    ],
     "name:und_x_variant":[
         "Yen-hai",
         "Sincheng",
         "Xincheng"
     ],
+    "name:vie_x_preferred":[
+        "T\u00e2n Th\u00e0nh"
+    ],
     "name:zho_x_preferred":[
         "\u65b0\u57ce"
     ],
     "name:zho_x_variant":[
-        "Hsin-ch\u2019eng"
+        "Hsin-ch\u2019eng",
+        "\u65b0\u57ce\u9109"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -65,7 +87,7 @@
         }
     ],
     "wof:id":1226342809,
-    "wof:lastmodified":1537709109,
+    "wof:lastmodified":1564181392,
     "wof:name":"Xincheng",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

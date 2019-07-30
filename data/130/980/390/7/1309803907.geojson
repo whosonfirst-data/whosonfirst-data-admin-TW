@@ -37,7 +37,8 @@
     ],
     "name:zho_x_variant":[
         "\u6eaa\u57d4",
-        "Hsi-p\u2019u-tzu"
+        "Hsi-p\u2019u-tzu",
+        "\u897f\u57d4\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1309803907,
-    "wof:lastmodified":1537709063,
+    "wof:lastmodified":1564180585,
     "wof:name":"Xibu",
     "wof:parent_id":85679557,
     "wof:placetype":"locality",

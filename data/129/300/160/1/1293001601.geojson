@@ -28,9 +28,27 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Taiwu"
+    ],
+    "name:hak_x_preferred":[
+        "Thai-v\u00fa-hi\u00f4ng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6cf0\u6b66\u90f7"
+    ],
+    "name:kor_x_preferred":[
+        "\ud0c0\uc774\uc6b0\ud5a5"
+    ],
+    "name:por_x_preferred":[
+        "Taiwu"
+    ],
     "name:und_x_variant":[
         "\u6cf0\u6b66",
         "Taiwu"
+    ],
+    "name:vie_x_preferred":[
+        "Th\u00e1i V\u0169"
     ],
     "name:zho_x_preferred":[
         "T\u2019ai-wu-ts\u2019un"
@@ -38,7 +56,8 @@
     "name:zho_x_variant":[
         "T\u2019ai-wu",
         "K\u2019u-la-lu-ssu",
-        "\u6cf0\u6b66"
+        "\u6cf0\u6b66",
+        "\u6cf0\u6b66\u9109"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -64,7 +83,7 @@
         }
     ],
     "wof:id":1293001601,
-    "wof:lastmodified":1537708620,
+    "wof:lastmodified":1564179305,
     "wof:name":"Taiwu",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

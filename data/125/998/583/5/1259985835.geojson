@@ -31,6 +31,9 @@
     "name:und_x_variant":[
         "Wa-hu"
     ],
+    "name:vie_x_preferred":[
+        "Wahu"
+    ],
     "name:zho_x_preferred":[
         "\u51f9\u6e56"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1259985835,
-    "wof:lastmodified":1537709891,
+    "wof:lastmodified":1564181170,
     "wof:name":"Wahu",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

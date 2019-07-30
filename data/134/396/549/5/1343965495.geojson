@@ -28,6 +28,21 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dalai"
+    ],
+    "name:deu_x_preferred":[
+        "Dalai"
+    ],
+    "name:fra_x_preferred":[
+        "Dala\u00ef"
+    ],
+    "name:mlg_x_preferred":[
+        "Dalai"
+    ],
+    "name:swe_x_preferred":[
+        "Dalai"
+    ],
     "name:und_x_variant":[
         "Ta-lai"
     ],
@@ -57,7 +72,7 @@
         }
     ],
     "wof:id":1343965495,
-    "wof:lastmodified":1537708614,
+    "wof:lastmodified":1564178926,
     "wof:name":"Dalai",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

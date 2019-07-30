@@ -30,6 +30,9 @@
     "name:und_x_variant":[
         "Chang-chia-chuang"
     ],
+    "name:zho_x_preferred":[
+        "\u5f20\u5bb6\u5e84\u9547"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85632403
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1209327509,
-    "wof:lastmodified":1537709415,
+    "wof:lastmodified":1564179964,
     "wof:name":"Zhangjiazhuang",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

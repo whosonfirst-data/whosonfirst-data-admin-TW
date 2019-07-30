@@ -28,6 +28,21 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Yongji"
+    ],
+    "name:fra_x_preferred":[
+        "Yongji"
+    ],
+    "name:nor_x_preferred":[
+        "Yongji"
+    ],
+    "name:rus_x_preferred":[
+        "\u042e\u043d\u0446\u0437\u0438"
+    ],
+    "name:swe_x_preferred":[
+        "Yongji"
+    ],
     "name:und_x_variant":[
         "Yung-chi"
     ],
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1226540941,
-    "wof:lastmodified":1537709805,
+    "wof:lastmodified":1564181533,
     "wof:name":"Yongji",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

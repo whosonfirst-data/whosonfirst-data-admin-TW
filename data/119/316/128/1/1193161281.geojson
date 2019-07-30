@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Xindian"
+    ],
+    "name:deu_x_preferred":[
+        "Xindian"
+    ],
+    "name:swe_x_preferred":[
+        "Xindian"
+    ],
     "name:und_x_variant":[
         "Sindian",
         "Xindian",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1193161281,
-    "wof:lastmodified":1537709694,
+    "wof:lastmodified":1564180142,
     "wof:name":"Xindian",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

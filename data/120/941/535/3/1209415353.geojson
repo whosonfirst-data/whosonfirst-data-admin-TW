@@ -28,8 +28,32 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cat_x_preferred":[
+        "Daji"
+    ],
+    "name:deu_x_preferred":[
+        "Daji"
+    ],
+    "name:fra_x_preferred":[
+        "Daji"
+    ],
+    "name:ind_x_preferred":[
+        "Daji"
+    ],
+    "name:por_x_preferred":[
+        "Daji"
+    ],
+    "name:spa_x_preferred":[
+        "Daji"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e4b\u0e32\u0e08\u0e35\u0e48"
+    ],
     "name:und_x_variant":[
         "Ta-chi"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00e1t K\u1ef7"
     ],
     "name:zho_x_preferred":[
         "\u5927\u5409"
@@ -51,7 +75,7 @@
         }
     ],
     "wof:id":1209415353,
-    "wof:lastmodified":1537709747,
+    "wof:lastmodified":1564179890,
     "wof:name":"Daji",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

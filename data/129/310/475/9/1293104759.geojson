@@ -28,6 +28,27 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nan Xi"
+    ],
+    "name:ces_x_preferred":[
+        "Nan-si"
+    ],
+    "name:deu_x_preferred":[
+        "Nanxi"
+    ],
+    "name:fra_x_preferred":[
+        "Nanxi"
+    ],
+    "name:kor_x_preferred":[
+        "\ub09c\uc2dc"
+    ],
+    "name:nor_x_preferred":[
+        "Nanxi"
+    ],
+    "name:swe_x_preferred":[
+        "Nan Xi"
+    ],
     "name:und_x_variant":[
         "Nan-hsi-chuang",
         "Nan-hsi-hsiang",
@@ -66,7 +87,7 @@
         }
     ],
     "wof:id":1293104759,
-    "wof:lastmodified":1537708864,
+    "wof:lastmodified":1564179551,
     "wof:name":"Nanxi",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

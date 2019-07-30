@@ -28,6 +28,30 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Nangang"
+    ],
+    "name:deu_x_preferred":[
+        "Nangang"
+    ],
+    "name:eus_x_preferred":[
+        "Nangang"
+    ],
+    "name:fra_x_preferred":[
+        "Nangang"
+    ],
+    "name:kor_x_preferred":[
+        "\ub09c\uac15\uad6c"
+    ],
+    "name:nor_x_preferred":[
+        "Nangang"
+    ],
+    "name:sco_x_preferred":[
+        "Nangang"
+    ],
+    "name:swe_x_preferred":[
+        "Nangang"
+    ],
     "name:und_x_variant":[
         "Nan-chiang",
         "Nangang",
@@ -62,7 +86,7 @@
         }
     ],
     "wof:id":1326931005,
-    "wof:lastmodified":1537708861,
+    "wof:lastmodified":1564178684,
     "wof:name":"Nangang",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

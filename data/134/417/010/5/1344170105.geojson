@@ -32,7 +32,8 @@
         "\u81fa\u4e0a"
     ],
     "name:zho_x_variant":[
-        "T\u2019ai-shang"
+        "T\u2019ai-shang",
+        "\u53f0\u7063\u5546\u4eba"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1344170105,
-    "wof:lastmodified":1537708621,
+    "wof:lastmodified":1564179093,
     "wof:name":"Taishang",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

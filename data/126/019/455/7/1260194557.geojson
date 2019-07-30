@@ -28,6 +28,24 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wushan"
+    ],
+    "name:deu_x_preferred":[
+        "Wushan"
+    ],
+    "name:fra_x_preferred":[
+        "Wushan"
+    ],
+    "name:kor_x_preferred":[
+        "\uc6b0\uc0b0\ud604"
+    ],
+    "name:nor_x_preferred":[
+        "Wushan"
+    ],
+    "name:swe_x_preferred":[
+        "Wushan"
+    ],
     "name:und_x_variant":[
         "Wu-shan"
     ],
@@ -57,7 +75,7 @@
         }
     ],
     "wof:id":1260194557,
-    "wof:lastmodified":1537708454,
+    "wof:lastmodified":1564180228,
     "wof:name":"Wushan",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dongxi"
+    ],
+    "name:swe_x_preferred":[
+        "Dongxi"
+    ],
     "name:und_x_variant":[
         "Tung-ch\u2019i",
         "Tung-hsi",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1226659805,
-    "wof:lastmodified":1537708511,
+    "wof:lastmodified":1564181520,
     "wof:name":"Dongxi",
     "wof:parent_id":85679635,
     "wof:placetype":"locality",

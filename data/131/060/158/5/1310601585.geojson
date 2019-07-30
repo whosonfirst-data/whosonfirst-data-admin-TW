@@ -32,7 +32,8 @@
         "\u4e94\u91cc\u724c"
     ],
     "name:zho_x_variant":[
-        "Wu-li-p\u2019ai"
+        "Wu-li-p\u2019ai",
+        "\u4e94\u91cc\u724c\u8857\u9053"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1310601585,
-    "wof:lastmodified":1537708457,
+    "wof:lastmodified":1564180435,
     "wof:name":"Wulipai",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

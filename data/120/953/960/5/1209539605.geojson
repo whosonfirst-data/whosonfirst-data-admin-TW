@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sanhe"
+    ],
+    "name:deu_x_preferred":[
+        "Sanhe"
+    ],
+    "name:nor_x_preferred":[
+        "Sanhe"
+    ],
     "name:und_x_variant":[
         "Fan-tzu-chuang",
         "Sanhe",
@@ -54,7 +63,7 @@
         }
     ],
     "wof:id":1209539605,
-    "wof:lastmodified":1537709239,
+    "wof:lastmodified":1564179833,
     "wof:name":"Sanhe",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

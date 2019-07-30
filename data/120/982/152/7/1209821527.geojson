@@ -28,14 +28,29 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ind_x_preferred":[
+        "Rinan"
+    ],
+    "name:jpn_x_preferred":[
+        "\u65e5\u5357\u90e1"
+    ],
+    "name:kor_x_preferred":[
+        "\uc77c\ub0a8\uad70"
+    ],
     "name:und_x_variant":[
         "Jih-nan-chuang",
         "Rinan",
         "Rihnan",
         "Jih-nan"
     ],
+    "name:vie_x_preferred":[
+        "Nh\u1eadt Nam"
+    ],
     "name:zho_x_preferred":[
         "\u65e5\u5357"
+    ],
+    "name:zho_x_variant":[
+        "\u65e5\u5357\u90e1"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +75,7 @@
         }
     ],
     "wof:id":1209821527,
-    "wof:lastmodified":1537709021,
+    "wof:lastmodified":1564179926,
     "wof:name":"Rinan",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

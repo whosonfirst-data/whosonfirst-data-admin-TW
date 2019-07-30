@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Heliu"
+    ],
+    "name:swe_x_preferred":[
+        "Heliu"
+    ],
     "name:und_x_variant":[
         "Heliou",
         "Heliu",
@@ -59,7 +65,7 @@
         }
     ],
     "wof:id":1310129837,
-    "wof:lastmodified":1537709579,
+    "wof:lastmodified":1564180262,
     "wof:name":"Heliu",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

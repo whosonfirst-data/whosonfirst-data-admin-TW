@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gongguan"
+    ],
     "name:und_x_variant":[
         "Ting-kung-kuan",
         "Kung-kung",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1292906729,
-    "wof:lastmodified":1537708551,
+    "wof:lastmodified":1564179486,
     "wof:name":"Gongguan",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

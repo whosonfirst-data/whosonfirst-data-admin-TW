@@ -28,6 +28,18 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wuli"
+    ],
+    "name:deu_x_preferred":[
+        "Wuli"
+    ],
+    "name:fra_x_preferred":[
+        "Wuli"
+    ],
+    "name:swe_x_preferred":[
+        "Wuli"
+    ],
     "name:und_x_variant":[
         "Wu-li"
     ],
@@ -57,7 +69,7 @@
         }
     ],
     "wof:id":1360091023,
-    "wof:lastmodified":1537708458,
+    "wof:lastmodified":1564180458,
     "wof:name":"Wuli",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

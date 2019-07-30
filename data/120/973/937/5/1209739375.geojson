@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Shekou"
+    ],
+    "name:nor_x_preferred":[
+        "Shekou"
+    ],
+    "name:swe_x_preferred":[
+        "Shekou"
+    ],
     "name:und_x_variant":[
         "\u793e\u53e3",
         "Shekou"
@@ -37,7 +46,8 @@
     ],
     "name:zho_x_variant":[
         "She-k\u2019ou-ts\u2019un",
-        "\u793e\u53e3"
+        "\u793e\u53e3",
+        "\u86c7\u53e3\u5de5\u4e1a\u533a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +72,7 @@
         }
     ],
     "wof:id":1209739375,
-    "wof:lastmodified":1537708719,
+    "wof:lastmodified":1564180008,
     "wof:name":"Shekou",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

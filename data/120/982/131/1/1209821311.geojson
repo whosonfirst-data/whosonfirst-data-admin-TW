@@ -28,14 +28,38 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Xinwu"
+    ],
+    "name:hak_x_preferred":[
+        "S\u00een-vuk-kh\u00ee"
+    ],
+    "name:jpn_x_preferred":[
+        "\u65b0\u5c4b\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2e0\uc6b0\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Sinvu"
+    ],
+    "name:pol_x_preferred":[
+        "Xinwu"
+    ],
     "name:und_x_variant":[
         "Pu-ting",
         "Xinwu",
         "Sinwu",
         "Hsin-wu"
     ],
+    "name:vie_x_preferred":[
+        "T\u00e2n \u1ed0c"
+    ],
     "name:zho_x_preferred":[
         "\u65b0\u5c4b"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u5c4b\u5340"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +85,7 @@
         }
     ],
     "wof:id":1209821311,
-    "wof:lastmodified":1537709069,
+    "wof:lastmodified":1564179924,
     "wof:name":"Xinwu",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

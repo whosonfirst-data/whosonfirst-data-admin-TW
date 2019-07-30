@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u0634\u0648\u06cc\u200c\u0628\u0648"
+    ],
+    "name:nor_x_preferred":[
+        "Shuibu"
+    ],
     "name:und_x_variant":[
         "Yen-shui-pu",
         "Lan-shui-li",
@@ -38,6 +44,9 @@
     ],
     "name:zho_x_preferred":[
         "\u6c34\u57d4"
+    ],
+    "name:zho_x_variant":[
+        "\u6c34\u6b65\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1293889891,
-    "wof:lastmodified":1537708947,
+    "wof:lastmodified":1564179573,
     "wof:name":"Shuibu",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

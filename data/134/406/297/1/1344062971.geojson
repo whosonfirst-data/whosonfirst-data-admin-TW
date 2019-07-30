@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Xiyuan"
+    ],
     "name:und_x_variant":[
         "Siyuan",
         "Xiyuan"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1344062971,
-    "wof:lastmodified":1537708648,
+    "wof:lastmodified":1564178963,
     "wof:name":"Xiyuan",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

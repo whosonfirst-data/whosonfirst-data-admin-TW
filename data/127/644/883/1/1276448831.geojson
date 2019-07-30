@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Shangguan"
+    ],
     "name:und_x_variant":[
         "Shang-kuan-li",
         "Shui-men",
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1276448831,
-    "wof:lastmodified":1537708735,
+    "wof:lastmodified":1564179612,
     "wof:name":"Shangguan",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

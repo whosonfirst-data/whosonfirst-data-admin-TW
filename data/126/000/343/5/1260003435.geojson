@@ -36,7 +36,8 @@
         "Pei-chuang-ts\u2019un"
     ],
     "name:zho_x_variant":[
-        "\u5317\u838a"
+        "\u5317\u838a",
+        "\u5317\u5e84\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1260003435,
-    "wof:lastmodified":1537708806,
+    "wof:lastmodified":1564180152,
     "wof:name":"Beizhuang",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

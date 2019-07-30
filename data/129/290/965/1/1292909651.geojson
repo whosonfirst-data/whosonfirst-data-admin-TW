@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ita_x_preferred":[
+        "Huzi"
+    ],
+    "name:swa_x_preferred":[
+        "Huzi"
+    ],
     "name:und_x_variant":[
         "Huzih",
         "Hu-tzu"
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1292909651,
-    "wof:lastmodified":1537709031,
+    "wof:lastmodified":1564179485,
     "wof:name":"Huzi",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

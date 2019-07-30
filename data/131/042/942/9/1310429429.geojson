@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Mamu"
+    ],
     "name:und_x_variant":[
         "Ma-mu"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1310429429,
-    "wof:lastmodified":1537709885,
+    "wof:lastmodified":1564180360,
     "wof:name":"Mamu",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

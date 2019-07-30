@@ -28,10 +28,28 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Fuxing"
+    ],
+    "name:deu_x_preferred":[
+        "Fuxing"
+    ],
+    "name:fra_x_preferred":[
+        "Fuxing"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5fa9\u8208"
+    ],
+    "name:nor_x_preferred":[
+        "Fuxing"
+    ],
     "name:und_x_variant":[
         "Fusing",
         "Fuxing",
         "Fu-hsing"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u1ee5c H\u01b0ng"
     ],
     "name:zho_x_preferred":[
         "\u5fa9\u8208"
@@ -62,7 +80,7 @@
         }
     ],
     "wof:id":1343365185,
-    "wof:lastmodified":1537709820,
+    "wof:lastmodified":1564178910,
     "wof:name":"Fuxing",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

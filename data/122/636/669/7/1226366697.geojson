@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jiangjun"
+    ],
+    "name:swe_x_preferred":[
+        "Jiangjun"
+    ],
     "name:und_x_variant":[
         "Chiang-fu",
         "Chiang-kun",
@@ -64,7 +70,7 @@
         }
     ],
     "wof:id":1226366697,
-    "wof:lastmodified":1537709388,
+    "wof:lastmodified":1564181543,
     "wof:name":"Jiangjun",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

@@ -32,7 +32,8 @@
         "\u904e\u7530"
     ],
     "name:zho_x_variant":[
-        "Kuo-t\u2019ien"
+        "Kuo-t\u2019ien",
+        "\u90ed\u7530\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1327232713,
-    "wof:lastmodified":1537709743,
+    "wof:lastmodified":1564178733,
     "wof:name":"Guotian",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

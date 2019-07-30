@@ -36,7 +36,8 @@
         "\u6c34\u982d"
     ],
     "name:zho_x_variant":[
-        "Shui-t\u2019ou"
+        "Shui-t\u2019ou",
+        "\u6c34\u5934\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1310501783,
-    "wof:lastmodified":1537709590,
+    "wof:lastmodified":1564180415,
     "wof:name":"Shuitou",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

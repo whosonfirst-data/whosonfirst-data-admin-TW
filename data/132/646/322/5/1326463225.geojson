@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shiqiao"
+    ],
+    "name:deu_x_preferred":[
+        "Shiqiao"
+    ],
+    "name:swe_x_preferred":[
+        "Shiqiao"
+    ],
     "name:und_x_variant":[
         "Shihciao",
         "Shiqiao"
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1326463225,
-    "wof:lastmodified":1537709542,
+    "wof:lastmodified":1564178800,
     "wof:name":"Shiqiao",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

@@ -37,7 +37,8 @@
         "\u91d1\u5c6f"
     ],
     "name:zho_x_variant":[
-        "Chin-t\u2019un"
+        "Chin-t\u2019un",
+        "\u91d1\u5c6f\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1309929935,
-    "wof:lastmodified":1537709338,
+    "wof:lastmodified":1564180571,
     "wof:name":"Jintun",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

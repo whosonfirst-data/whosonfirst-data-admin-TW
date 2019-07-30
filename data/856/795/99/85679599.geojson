@@ -25,6 +25,18 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0634\u064a\u0627 \u064a\u064a"
+    ],
+    "name:cdo_x_preferred":[
+        "G\u0103-ngi\u00ea"
+    ],
+    "name:ces_x_preferred":[
+        "\u0164ia-i"
+    ],
+    "name:deu_x_preferred":[
+        "Chiayi"
+    ],
     "name:eng_x_preferred":[
         "Chiayi County"
     ],
@@ -33,21 +45,92 @@
         "Chiayi",
         "Chiayi Hsien"
     ],
+    "name:eus_x_preferred":[
+        "Chiayi"
+    ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0627\u06cc\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Chiayi"
+    ],
+    "name:hak_x_preferred":[
+        "K\u00e2-ngi-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d9\u05d0\u05d9\u05d9"
+    ],
+    "name:ind_x_preferred":[
+        "Kota Chiayi"
+    ],
+    "name:ita_x_preferred":[
+        "Chiayi"
+    ],
     "name:jpn_x_preferred":[
         "\u30c1\u30e3\u30a4\u30fc"
     ],
     "name:jpn_x_variant":[
-        "\u5609\u7fa9"
+        "\u5609\u7fa9",
+        "\u5609\u7fa9\u5e02"
     ],
     "name:kor_x_preferred":[
         "\uc790\uc774\ud604"
+    ],
+    "name:kor_x_variant":[
+        "\uc790\uc774\uc2dc"
+    ],
+    "name:lit_x_preferred":[
+        "Dziaji"
+    ],
+    "name:mon_x_preferred":[
+        "\u0416\u044f\u0438"
+    ],
+    "name:nld_x_preferred":[
+        "Chiayi"
+    ],
+    "name:nor_x_preferred":[
+        "Chiayi"
+    ],
+    "name:pol_x_preferred":[
+        "Jiayi"
+    ],
+    "name:por_x_preferred":[
+        "Chiayi"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0437\u044f\u0438"
+    ],
+    "name:spa_x_preferred":[
+        "Chiayi"
+    ],
+    "name:swe_x_preferred":[
+        "Jiayi"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e04\u0e23\u0e40\u0e08\u0e35\u0e22\u0e2d\u0e35\u0e49"
+    ],
+    "name:tur_x_preferred":[
+        "Chiayi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0437\u044f\u0457"
+    ],
+    "name:urd_x_preferred":[
+        "\u0686\u06cc\u0627\u06cc\u06cc \u0634\u06c1\u0631"
+    ],
+    "name:vie_x_preferred":[
+        "Gia Ngh\u0129a"
+    ],
+    "name:war_x_preferred":[
+        "Chiayi"
     ],
     "name:zho_x_preferred":[
         "\u5609\u7fa9\u7e23"
     ],
     "name:zho_x_variant":[
         "\u5609\u4e49\u53bf",
-        "\u5609\u7fa9"
+        "\u5609\u7fa9",
+        "\u5609\u7fa9\u5e02"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"TWN",
@@ -166,7 +249,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1553550557,
+    "wof:lastmodified":1564179303,
     "wof:name":"Chiayi",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

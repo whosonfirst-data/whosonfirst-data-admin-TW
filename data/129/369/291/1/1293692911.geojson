@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Liming"
+    ],
+    "name:deu_x_preferred":[
+        "Liming"
+    ],
+    "name:swe_x_preferred":[
+        "Liming"
+    ],
     "name:und_x_variant":[
         "Li-ming"
     ],
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1293692911,
-    "wof:lastmodified":1537708936,
+    "wof:lastmodified":1564179461,
     "wof:name":"Liming",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

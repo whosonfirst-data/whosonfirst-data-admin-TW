@@ -28,6 +28,36 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Bilu"
+    ],
+    "name:deu_x_preferred":[
+        "Bilu"
+    ],
+    "name:fra_x_preferred":[
+        "Bilou"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d9\u05dc\"\u05d5"
+    ],
+    "name:ita_x_preferred":[
+        "Bilu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d3\u30fc\u30eb\u30fc"
+    ],
+    "name:pol_x_preferred":[
+        "Bilu"
+    ],
+    "name:rus_x_preferred":[
+        "\u0411\u0438\u043b\u0443"
+    ],
+    "name:slv_x_preferred":[
+        "Bilu"
+    ],
+    "name:spa_x_preferred":[
+        "Bilu"
+    ],
     "name:und_x_variant":[
         "Pi-la-lao",
         "Pi-la-lao-she",
@@ -65,7 +95,7 @@
         }
     ],
     "wof:id":1327334079,
-    "wof:lastmodified":1537708790,
+    "wof:lastmodified":1564178752,
     "wof:name":"Bilu",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

@@ -28,10 +28,19 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u0646\u06af\u06a9\u0646\u06af"
+    ],
+    "name:sco_x_preferred":[
+        "Dongkeng"
+    ],
     "name:und_x_variant":[
         "\u6771\u5751",
         "Tung-k\u2019eng",
         "Dongkeng"
+    ],
+    "name:zho_x_preferred":[
+        "\u4e1c\u5751\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1209013997,
-    "wof:lastmodified":1537708508,
+    "wof:lastmodified":1564179854,
     "wof:name":"Dongkeng",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

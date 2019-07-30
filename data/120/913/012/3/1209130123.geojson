@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Dongshi"
+    ],
+    "name:kor_x_preferred":[
+        "\ub465\uc2a4 \ud5a5"
+    ],
     "name:und_x_variant":[
         "Dongshih",
         "Tung-shih"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1209130123,
-    "wof:lastmodified":1537708502,
+    "wof:lastmodified":1564179938,
     "wof:name":"Dongshi",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

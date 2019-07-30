@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Xinan"
+    ],
+    "name:deu_x_preferred":[
+        "Xinan"
+    ],
+    "name:swe_x_preferred":[
+        "Xinan"
+    ],
     "name:und_x_variant":[
         "Sinan",
         "Hsi-nan"
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":1310406289,
-    "wof:lastmodified":1537709110,
+    "wof:lastmodified":1564180300,
     "wof:name":"Xinan",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

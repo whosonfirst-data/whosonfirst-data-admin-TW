@@ -35,7 +35,8 @@
         "\u5eb7\u6a4b"
     ],
     "name:zho_x_variant":[
-        "K\u2019ang-ch\u2019iao"
+        "K\u2019ang-ch\u2019iao",
+        "\u5eb7\u6865\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1327237495,
-    "wof:lastmodified":1537709762,
+    "wof:lastmodified":1564178728,
     "wof:name":"Kangqiao",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

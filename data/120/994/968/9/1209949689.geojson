@@ -28,6 +28,21 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Qixia"
+    ],
+    "name:deu_x_preferred":[
+        "Qixia"
+    ],
+    "name:fra_x_preferred":[
+        "Qixia"
+    ],
+    "name:nor_x_preferred":[
+        "Qixia"
+    ],
+    "name:rus_x_preferred":[
+        "\u0426\u0438\u0441\u044f"
+    ],
     "name:und_x_variant":[
         "Hsia-wu-fen",
         "Qixia",
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1209949689,
-    "wof:lastmodified":1537709129,
+    "wof:lastmodified":1564179978,
     "wof:name":"Qixia",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

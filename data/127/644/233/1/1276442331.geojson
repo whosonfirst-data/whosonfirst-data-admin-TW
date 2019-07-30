@@ -38,7 +38,8 @@
     ],
     "name:zho_x_variant":[
         "Chiang-wei-ts\u2019un",
-        "\u6e2f\u5c3e"
+        "\u6e2f\u5c3e",
+        "\u6e2f\u5c3e\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1276442331,
-    "wof:lastmodified":1537709005,
+    "wof:lastmodified":1564179610,
     "wof:name":"Gangwei",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

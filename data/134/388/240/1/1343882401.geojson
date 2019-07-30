@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Daqiao"
+    ],
+    "name:deu_x_preferred":[
+        "Daqiao"
+    ],
+    "name:swe_x_preferred":[
+        "Daqiao"
+    ],
     "name:und_x_variant":[
         "Daciao",
         "Daqiao"
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1343882401,
-    "wof:lastmodified":1537709821,
+    "wof:lastmodified":1564179164,
     "wof:name":"Daqiao",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

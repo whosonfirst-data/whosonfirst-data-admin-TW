@@ -36,6 +36,9 @@
     "name:zho_x_preferred":[
         "\u9802\u5b85"
     ],
+    "name:zho_x_variant":[
+        "\u4e01\u5be8\u6751"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1259684959,
-    "wof:lastmodified":1537709986,
+    "wof:lastmodified":1564181255,
     "wof:name":"Dingzhai",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

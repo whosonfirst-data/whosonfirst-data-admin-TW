@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:por_x_preferred":[
+        "Gamin"
+    ],
+    "name:rus_x_preferred":[
+        "Gamin"
+    ],
     "name:und_x_variant":[
         "Ka-min"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1343585227,
-    "wof:lastmodified":1537709748,
+    "wof:lastmodified":1564179078,
     "wof:name":"Gamin",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

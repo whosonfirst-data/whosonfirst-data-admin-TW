@@ -28,6 +28,18 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shilin"
+    ],
+    "name:deu_x_preferred":[
+        "Shilin"
+    ],
+    "name:mlg_x_preferred":[
+        "Shilin"
+    ],
+    "name:sco_x_preferred":[
+        "Shilin"
+    ],
     "name:und_x_variant":[
         "Shih-lin-chuang",
         "Shih-li",
@@ -62,7 +74,7 @@
         }
     ],
     "wof:id":1276663715,
-    "wof:lastmodified":1537708700,
+    "wof:lastmodified":1564179687,
     "wof:name":"Shilin",
     "wof:parent_id":85679583,
     "wof:placetype":"locality",

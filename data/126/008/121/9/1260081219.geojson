@@ -28,8 +28,20 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shilin"
+    ],
+    "name:deu_x_preferred":[
+        "Shilin"
+    ],
     "name:eng_x_preferred":[
         "Shih-lin Inspection Station"
+    ],
+    "name:mlg_x_preferred":[
+        "Shilin"
+    ],
+    "name:sco_x_preferred":[
+        "Shilin"
     ],
     "name:und_x_variant":[
         "Shih-lin Inspection Station",
@@ -67,7 +79,7 @@
         }
     ],
     "wof:id":1260081219,
-    "wof:lastmodified":1537708700,
+    "wof:lastmodified":1564180165,
     "wof:name":"Shilin",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

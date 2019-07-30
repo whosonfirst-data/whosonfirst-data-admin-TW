@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:kor_x_preferred":[
+        "\ud574\uc81c"
+    ],
     "name:und_x_variant":[
         "Sici"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1344262999,
-    "wof:lastmodified":1537709127,
+    "wof:lastmodified":1564179089,
     "wof:name":"Xiqi",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

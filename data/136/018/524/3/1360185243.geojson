@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dongyuan"
+    ],
+    "name:deu_x_preferred":[
+        "Dongyuan"
+    ],
+    "name:nor_x_preferred":[
+        "Dongyuan"
+    ],
     "name:und_x_variant":[
         "Hsin-mu-tan-she",
         "Hsin-mu-tan",
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1360185243,
-    "wof:lastmodified":1537708498,
+    "wof:lastmodified":1564180496,
     "wof:name":"Dongyuan",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

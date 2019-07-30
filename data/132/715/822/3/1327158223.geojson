@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:tha_x_preferred":[
+        "\u0e17\u0e2d\u0e07\u0e1b\u0e32\u0e19"
+    ],
     "name:zho_x_preferred":[
         "\u6876\u76e4"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1327158223,
-    "wof:lastmodified":1537708505,
+    "wof:lastmodified":1564178717,
     "wof:name":"Tongpan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

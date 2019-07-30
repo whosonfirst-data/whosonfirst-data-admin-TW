@@ -28,15 +28,31 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Mudan"
+    ],
+    "name:hak_x_preferred":[
+        "M\u00e9u-t\u00e2n-hi\u00f4ng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7261\u4e39\u90f7"
+    ],
+    "name:kor_x_preferred":[
+        "\ubb34\ub2e8\ud5a5"
+    ],
     "name:und_x_variant":[
         "Mu-tan-she",
         "Mu-tan"
+    ],
+    "name:vie_x_preferred":[
+        "M\u1eabu \u0110\u01a1n"
     ],
     "name:zho_x_preferred":[
         "Mu-tan-ts\u2019un"
     ],
     "name:zho_x_variant":[
-        "\u7261\u4e39"
+        "\u7261\u4e39",
+        "\u7261\u4e39\u9109"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -62,7 +78,7 @@
         }
     ],
     "wof:id":1310112155,
-    "wof:lastmodified":1537708868,
+    "wof:lastmodified":1564180377,
     "wof:name":"Mudan",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

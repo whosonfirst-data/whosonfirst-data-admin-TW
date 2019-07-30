@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hun_x_preferred":[
+        "Danan"
+    ],
+    "name:ita_x_preferred":[
+        "Danan"
+    ],
     "name:und_x_variant":[
         "Ta-nan"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1276334863,
-    "wof:lastmodified":1537708607,
+    "wof:lastmodified":1564179661,
     "wof:name":"Danan",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

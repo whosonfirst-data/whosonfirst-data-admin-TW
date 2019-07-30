@@ -32,7 +32,8 @@
         "\u6f84\u5c71"
     ],
     "name:zho_x_variant":[
-        "Ch\u2019eng-shan"
+        "Ch\u2019eng-shan",
+        "\u6210\u5c71\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -57,7 +58,7 @@
         }
     ],
     "wof:id":1259689985,
-    "wof:lastmodified":1537709966,
+    "wof:lastmodified":1564181246,
     "wof:name":"Chengshan",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

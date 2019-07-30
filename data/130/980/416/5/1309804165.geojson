@@ -33,7 +33,8 @@
     ],
     "name:zho_x_variant":[
         "\u5857\u6e9d",
-        "T\u2019u-kou"
+        "T\u2019u-kou",
+        "\u4e2d\u534e\u7530\u56ed\u72ac"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +59,7 @@
         }
     ],
     "wof:id":1309804165,
-    "wof:lastmodified":1537708517,
+    "wof:lastmodified":1564180594,
     "wof:name":"Tugou",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Matai"
+    ],
+    "name:deu_x_preferred":[
+        "Matai"
+    ],
+    "name:swe_x_preferred":[
+        "Matai"
+    ],
     "name:und_x_variant":[
         "Ma-i",
         "Matai"
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1259789591,
-    "wof:lastmodified":1537708883,
+    "wof:lastmodified":1564181231,
     "wof:name":"Matai",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

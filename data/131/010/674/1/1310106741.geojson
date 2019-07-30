@@ -35,7 +35,8 @@
         "\u6587\u7530"
     ],
     "name:zho_x_variant":[
-        "Wen-t\u2019ien"
+        "Wen-t\u2019ien",
+        "\u6587\u7530\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1310106741,
-    "wof:lastmodified":1537709552,
+    "wof:lastmodified":1564180381,
     "wof:name":"Wentian",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

@@ -28,11 +28,38 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Gangshan"
+    ],
+    "name:fra_x_preferred":[
+        "Gangshan"
+    ],
+    "name:hak_x_preferred":[
+        "K\u00f4ng-s\u00e2n-kh\u00ee"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5ca1\u5c71\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uac15\uc0b0\uad6c"
+    ],
+    "name:lit_x_preferred":[
+        "Gang\u0161anas"
+    ],
+    "name:pol_x_preferred":[
+        "Gangshan"
+    ],
     "name:und_x_variant":[
         "Kang-shan-chuang",
         "Gangshan",
         "A-kung-tien",
         "Kang-shan"
+    ],
+    "name:vie_x_preferred":[
+        "C\u01b0\u01a1ng S\u01a1n"
+    ],
+    "name:zho_x_preferred":[
+        "\u5ca1\u5c71\u5340"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -58,7 +85,7 @@
         }
     ],
     "wof:id":1326733499,
-    "wof:lastmodified":1537709008,
+    "wof:lastmodified":1564178662,
     "wof:name":"Gangshan",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

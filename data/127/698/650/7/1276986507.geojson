@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:oci_x_preferred":[
+        "Zhuangzi"
+    ],
+    "name:pol_x_preferred":[
+        "Zhuangzi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0427\u0436\u0443\u0430\u043d-\u0446\u0437\u0438"
+    ],
     "name:und_x_variant":[
         "Jhuangzih",
         "Zhuangzi",
@@ -59,7 +68,7 @@
         }
     ],
     "wof:id":1276986507,
-    "wof:lastmodified":1537709313,
+    "wof:lastmodified":1564179792,
     "wof:name":"Zhuangzi",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

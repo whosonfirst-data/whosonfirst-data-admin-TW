@@ -28,6 +28,18 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Guanghua"
+    ],
+    "name:deu_x_preferred":[
+        "Guanghua"
+    ],
+    "name:pol_x_preferred":[
+        "Guanghua"
+    ],
+    "name:swe_x_preferred":[
+        "Guanghua"
+    ],
     "name:und_x_variant":[
         "Shih-chang-li",
         "Guanghua",
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":1259789659,
-    "wof:lastmodified":1537709087,
+    "wof:lastmodified":1564181222,
     "wof:name":"Guanghua",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

@@ -34,6 +34,9 @@
     "name:zho_x_preferred":[
         "\u69ae\u83ef"
     ],
+    "name:zho_x_variant":[
+        "\u8363\u534e\u4e61"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1225845439,
-    "wof:lastmodified":1537709018,
+    "wof:lastmodified":1564181560,
     "wof:name":"Ronghua",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Jiayi"
+    ],
     "name:und_x_variant":[
         "Chia-i"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1326754437,
-    "wof:lastmodified":1537709972,
+    "wof:lastmodified":1564178649,
     "wof:name":"Jiayi",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

@@ -28,6 +28,36 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Xihu"
+    ],
+    "name:dan_x_preferred":[
+        "Xihu"
+    ],
+    "name:deu_x_preferred":[
+        "Xihu"
+    ],
+    "name:eus_x_preferred":[
+        "Xihu"
+    ],
+    "name:fra_x_preferred":[
+        "Xihu"
+    ],
+    "name:jpn_x_preferred":[
+        "\u897f\u6e56\u533a"
+    ],
+    "name:kor_x_preferred":[
+        "\uc2dc\ud6c4\uad6c"
+    ],
+    "name:nor_x_preferred":[
+        "Xihu"
+    ],
+    "name:pol_x_preferred":[
+        "Xihu"
+    ],
+    "name:spa_x_preferred":[
+        "Xihu"
+    ],
     "name:und_x_variant":[
         "Sihu",
         "Hsi-hu"
@@ -36,7 +66,8 @@
         "Hsi-hu-ts\u2019un"
     ],
     "name:zho_x_variant":[
-        "\u897f\u6e56"
+        "\u897f\u6e56",
+        "\u897f\u6e56\u533a"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -61,7 +92,7 @@
         }
     ],
     "wof:id":1209821781,
-    "wof:lastmodified":1537709115,
+    "wof:lastmodified":1564179927,
     "wof:name":"Xihu",
     "wof:parent_id":85679583,
     "wof:placetype":"locality",

@@ -35,7 +35,8 @@
         "\u571f\u725b"
     ],
     "name:zho_x_variant":[
-        "T\u2019u-niu"
+        "T\u2019u-niu",
+        "\u9014\u725b\u65c5\u6e38\u7f51"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1343494257,
-    "wof:lastmodified":1537708498,
+    "wof:lastmodified":1564179009,
     "wof:name":"Tuniu",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

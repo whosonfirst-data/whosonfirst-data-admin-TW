@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Yongchang"
+    ],
+    "name:deu_x_preferred":[
+        "Yongchang"
+    ],
     "name:zho_x_preferred":[
         "\u6c38\u660c"
     ],
@@ -57,7 +63,7 @@
         }
     ],
     "wof:id":1293522643,
-    "wof:lastmodified":1537709897,
+    "wof:lastmodified":1564179362,
     "wof:name":"Yongchang",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

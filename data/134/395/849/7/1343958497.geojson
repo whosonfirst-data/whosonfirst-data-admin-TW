@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Dawo"
+    ],
     "name:und_x_variant":[
         "Ta-wo"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1343958497,
-    "wof:lastmodified":1537708581,
+    "wof:lastmodified":1564179024,
     "wof:name":"Dawo",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

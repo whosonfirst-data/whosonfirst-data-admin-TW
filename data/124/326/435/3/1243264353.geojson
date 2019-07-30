@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Sankan"
+    ],
     "name:zho_x_preferred":[
         "\u4e09\u5d01"
     ],
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1243264353,
-    "wof:lastmodified":1537708756,
+    "wof:lastmodified":1564181138,
     "wof:name":"Sankan",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

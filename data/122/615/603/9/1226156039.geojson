@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Changfeng"
+    ],
+    "name:pol_x_preferred":[
+        "Changfeng"
+    ],
     "name:und_x_variant":[
         "\u9577\u98a8",
         "Changfeng",
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":1226156039,
-    "wof:lastmodified":1537709983,
+    "wof:lastmodified":1564181493,
     "wof:name":"Changfeng",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

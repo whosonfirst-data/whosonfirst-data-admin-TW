@@ -28,9 +28,27 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hak_x_preferred":[
+        "Sien-s\u00ee-hi\u00f4ng"
+    ],
+    "name:ita_x_preferred":[
+        "Xianxi"
+    ],
+    "name:jpn_x_preferred":[
+        "\u7dda\u897f\u90f7"
+    ],
+    "name:kor_x_preferred":[
+        "\uc174\uc2dc\ud5a5"
+    ],
+    "name:pol_x_preferred":[
+        "Xianxi"
+    ],
     "name:und_x_variant":[
         "Siansi",
         "Hsien-hsi"
+    ],
+    "name:vie_x_preferred":[
+        "Tuy\u1ebfn T\u00e2y"
     ],
     "name:zho_x_preferred":[
         "Y\u00fc-pu-ts\u2019un"
@@ -40,7 +58,8 @@
         "Hsien-shi-ts\u2019un",
         "Hsien-hsi-ts\u2019un",
         "\u7dda\u897f",
-        "Y\u00fc-pu"
+        "Y\u00fc-pu",
+        "\u7dda\u897f\u9109"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -60,7 +79,7 @@
         }
     ],
     "wof:id":1209521495,
-    "wof:lastmodified":1537709119,
+    "wof:lastmodified":1564179881,
     "wof:name":"Xianxi",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

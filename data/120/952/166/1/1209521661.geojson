@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Hezhuang"
+    ],
+    "name:swe_x_preferred":[
+        "Hezhuang"
+    ],
     "name:und_x_variant":[
         "Hejhuang",
         "Hezhuang",
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1209521661,
-    "wof:lastmodified":1537709532,
+    "wof:lastmodified":1564179873,
     "wof:name":"Hezhuang",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

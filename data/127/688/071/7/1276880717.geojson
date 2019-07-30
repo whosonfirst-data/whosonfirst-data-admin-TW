@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Longxing"
+    ],
     "name:und_x_variant":[
         "Lung-y\u00fcan",
         "She-tzu-hsing",
@@ -68,7 +71,7 @@
         }
     ],
     "wof:id":1276880717,
-    "wof:lastmodified":1537708902,
+    "wof:lastmodified":1564179600,
     "wof:name":"Longxing",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Linzi"
+    ],
+    "name:swe_x_preferred":[
+        "Linzi"
+    ],
     "name:und_x_variant":[
         "Linzih",
         "Lin-tzu"
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":1343669195,
-    "wof:lastmodified":1537708931,
+    "wof:lastmodified":1564179043,
     "wof:name":"Linzi",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

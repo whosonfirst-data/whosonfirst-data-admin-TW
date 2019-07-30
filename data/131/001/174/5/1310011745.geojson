@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Dayang"
+    ],
+    "name:msa_x_preferred":[
+        "Dayang"
+    ],
+    "name:swe_x_preferred":[
+        "Dayang"
+    ],
     "name:und_x_variant":[
         "Ta-yang"
     ],
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1310011745,
-    "wof:lastmodified":1537708580,
+    "wof:lastmodified":1564180350,
     "wof:name":"Dayang",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

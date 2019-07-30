@@ -36,6 +36,9 @@
     "name:zho_x_preferred":[
         "\u897f\u9580"
     ],
+    "name:zho_x_variant":[
+        "\u897f\u9580\u59d3"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85679585,
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1242885799,
-    "wof:lastmodified":1537709946,
+    "wof:lastmodified":1564180958,
     "wof:name":"Ximen",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

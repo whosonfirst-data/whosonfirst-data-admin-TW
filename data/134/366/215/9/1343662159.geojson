@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Pingzhen"
+    ],
+    "name:deu_x_preferred":[
+        "Pingzhen"
+    ],
     "name:eng_x_preferred":[
         "Pingzhen District"
     ],
@@ -40,6 +46,9 @@
     "name:kor_x_preferred":[
         "\ud551\uc804 \uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ud551\uc804\uad6c"
+    ],
     "name:lit_x_preferred":[
         "Pingd\u017eenas"
     ],
@@ -49,6 +58,9 @@
     "name:nan_x_preferred":[
         "P\u00eang-t\u00ecn-khu"
     ],
+    "name:pol_x_preferred":[
+        "Pingzhen"
+    ],
     "name:rus_x_preferred":[
         "\u041f\u0438\u043d\u0447\u0436\u044d\u043d\u044c"
     ],
@@ -57,6 +69,9 @@
     ],
     "name:vie_x_preferred":[
         "B\u00ecnh Tr\u1ea5n"
+    ],
+    "name:war_x_preferred":[
+        "Pingzhen"
     ],
     "name:zho_x_preferred":[
         "P\u2019ing-chen"
@@ -88,7 +103,7 @@
         }
     ],
     "wof:id":1343662159,
-    "wof:lastmodified":1537709530,
+    "wof:lastmodified":1564179037,
     "wof:name":"Pingzhen",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

@@ -28,6 +28,9 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:fra_x_preferred":[
+        "Siming"
+    ],
     "name:und_x_variant":[
         "Ssu-ming"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1310106269,
-    "wof:lastmodified":1537708650,
+    "wof:lastmodified":1564180381,
     "wof:name":"Siming",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

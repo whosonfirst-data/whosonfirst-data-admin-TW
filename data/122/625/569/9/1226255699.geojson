@@ -38,7 +38,8 @@
         "Ch\u2019i-pu"
     ],
     "name:zho_x_variant":[
-        "\u6eaa\u57d4"
+        "\u6eaa\u57d4",
+        "\u897f\u57d4\u9547"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -63,7 +64,7 @@
         }
     ],
     "wof:id":1226255699,
-    "wof:lastmodified":1537709065,
+    "wof:lastmodified":1564181468,
     "wof:name":"Xibu",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Shuanglong"
+    ],
+    "name:deu_x_preferred":[
+        "Shuanglong"
+    ],
+    "name:swe_x_preferred":[
+        "Shuanglong"
+    ],
     "name:und_x_variant":[
         "Shuang-lung"
     ],
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1326536013,
-    "wof:lastmodified":1537709766,
+    "wof:lastmodified":1564178870,
     "wof:name":"Shuanglong",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

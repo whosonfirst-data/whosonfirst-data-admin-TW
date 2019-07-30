@@ -28,6 +28,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:hrv_x_preferred":[
+        "Du'ao"
+    ],
+    "name:ind_x_preferred":[
+        "Du'ao"
+    ],
+    "name:kor_x_preferred":[
+        "\ucd08 \ub3c4\uc624"
+    ],
     "name:und_x_variant":[
         "Tu-ao"
     ],
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":1276657539,
-    "wof:lastmodified":1537708520,
+    "wof:lastmodified":1564179777,
     "wof:name":"Du'ao",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

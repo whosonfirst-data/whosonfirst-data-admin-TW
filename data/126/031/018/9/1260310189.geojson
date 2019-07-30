@@ -28,6 +28,12 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wude"
+    ],
+    "name:swe_x_preferred":[
+        "Wude"
+    ],
     "name:und_x_variant":[
         "Chi-wu-wu",
         "Chi-mu-wu",
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":1260310189,
-    "wof:lastmodified":1537708452,
+    "wof:lastmodified":1564180155,
     "wof:name":"Wude",
     "wof:parent_id":85679627,
     "wof:placetype":"locality",
