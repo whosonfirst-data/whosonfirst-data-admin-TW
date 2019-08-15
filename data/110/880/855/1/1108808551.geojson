@@ -10,6 +10,9 @@
     "geom:latitude":24.238211,
     "geom:longitude":120.892398,
     "iso:country":"TW",
+    "label:eng_x_preferred_shortcode":[
+        "TG"
+    ],
     "lbl:latitude":24.182561,
     "lbl:longitude":120.719226,
     "meso:c_desc":"\u81fa\u4e2d\u5e02",
@@ -201,7 +204,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1564180247,
+    "wof:lastmodified":1565737788,
     "wof:name":"Taichung",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

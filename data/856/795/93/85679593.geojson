@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CG"
+    ],
     "lbl:latitude":23.955046,
     "lbl:longitude":120.485273,
     "mps:latitude":23.955046,
@@ -230,16 +233,13 @@
         }
     ],
     "wof:id":85679593,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563279369,
+    "wof:lastmodified":1565737748,
     "wof:name":"Changhua",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "special municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TC"
+    ],
     "lbl:latitude":25.081481,
     "lbl:longitude":121.559465,
     "mps:latitude":25.081481,
@@ -592,16 +595,13 @@
         }
     ],
     "wof:id":85679583,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563279372,
+    "wof:lastmodified":1565737749,
     "wof:name":"Taipei City",
     "wof:parent_id":1108808545,
     "wof:placetype":"region",

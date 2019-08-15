@@ -10,6 +10,9 @@
     "geom:latitude":22.996104,
     "geom:longitude":120.61766,
     "iso:country":"TW",
+    "label:eng_x_preferred_shortcode":[
+        "KH"
+    ],
     "lbl:latitude":23.019079,
     "lbl:longitude":120.696834,
     "meso:c_desc":"\u9ad8\u96c4\u5e02",
@@ -294,7 +297,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563280258,
+    "wof:lastmodified":1565737779,
     "wof:name":"Kaohsiung",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

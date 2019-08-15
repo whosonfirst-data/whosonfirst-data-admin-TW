@@ -10,6 +10,9 @@
     "geom:latitude":24.903294,
     "geom:longitude":121.257645,
     "iso:country":"TW",
+    "label:eng_x_preferred_shortcode":[
+        "TA"
+    ],
     "lbl:latitude":24.982686,
     "lbl:longitude":121.212607,
     "meso:c_desc":"\u6843\u5712\u5e02",
@@ -211,11 +214,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563280259,
+    "wof:lastmodified":1565888207,
     "wof:name":"Taoyuan",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",
     "wof:repo":"whosonfirst-data-admin-tw",
+    "wof:shortcode":"TA",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]

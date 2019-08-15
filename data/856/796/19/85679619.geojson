@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "YL"
+    ],
     "lbl:latitude":23.721086,
     "lbl:longitude":120.367467,
     "mps:latitude":23.721086,
@@ -149,16 +152,13 @@
         }
     ],
     "wof:id":85679619,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1553550561,
+    "wof:lastmodified":1565737747,
     "wof:name":"Yunlin",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

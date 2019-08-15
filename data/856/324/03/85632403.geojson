@@ -14,6 +14,9 @@
     "itu:country_code":[
         "886"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TW"
+    ],
     "lbl:latitude":23.798532,
     "lbl:longitude":120.955426,
     "mps:latitude":23.798532,
@@ -1149,7 +1152,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563279367,
+    "wof:lastmodified":1565737748,
     "wof:name":"Taiwan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

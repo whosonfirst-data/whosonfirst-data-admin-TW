@@ -10,6 +10,9 @@
     "geom:latitude":25.082945,
     "geom:longitude":121.553296,
     "iso:country":"TW",
+    "label:eng_x_preferred_shortcode":[
+        "TP"
+    ],
     "lbl:latitude":25.068338,
     "lbl:longitude":121.562009,
     "meso:c_desc":"\u81fa\u5317\u5e02",
@@ -491,7 +494,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563280263,
+    "wof:lastmodified":1565737779,
     "wof:name":"Taipei",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

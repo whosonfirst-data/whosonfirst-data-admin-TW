@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LK"
+    ],
     "lbl:latitude":26.223052,
     "lbl:longitude":119.99016,
     "mps:latitude":26.223052,
@@ -147,16 +150,13 @@
         }
     ],
     "wof:id":85679637,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1553550564,
+    "wof:lastmodified":1565737747,
     "wof:name":"Lienchiang",
     "wof:parent_id":1108808555,
     "wof:placetype":"region",

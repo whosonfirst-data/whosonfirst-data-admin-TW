@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "special municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TY"
+    ],
     "lbl:latitude":24.974148,
     "lbl:longitude":121.216587,
     "mps:latitude":24.974148,
@@ -196,16 +199,13 @@
         }
     ],
     "wof:id":85679589,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563279369,
+    "wof:lastmodified":1565737748,
     "wof:name":"Taoyuan",
     "wof:parent_id":1108808543,
     "wof:placetype":"region",

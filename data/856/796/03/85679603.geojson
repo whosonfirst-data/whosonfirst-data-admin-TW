@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CS"
+    ],
     "lbl:latitude":23.482159,
     "lbl:longitude":120.441862,
     "mps:latitude":23.482159,
@@ -142,16 +145,13 @@
         }
     ],
     "wof:id":85679603,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1553550557,
+    "wof:lastmodified":1565737747,
     "wof:name":"Chiayi City",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

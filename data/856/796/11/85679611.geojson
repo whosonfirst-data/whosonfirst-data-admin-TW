@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NT"
+    ],
     "lbl:latitude":23.861534,
     "lbl:longitude":120.979576,
     "mps:latitude":23.861534,
@@ -226,16 +229,13 @@
         }
     ],
     "wof:id":85679611,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563279362,
+    "wof:lastmodified":1565737747,
     "wof:name":"Nantou",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

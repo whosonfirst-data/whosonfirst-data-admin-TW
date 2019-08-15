@@ -10,6 +10,9 @@
     "geom:latitude":24.703206,
     "geom:longitude":118.611951,
     "iso:country":"TW",
+    "label:eng_x_preferred_shortcode":[
+        "FK"
+    ],
     "lbl:latitude":24.473793,
     "lbl:longitude":118.420136,
     "meso:c_desc":"\u9023\u6c5f\u7e23",
@@ -112,7 +115,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563280271,
+    "wof:lastmodified":1565737790,
     "wof:name":"Fujian",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

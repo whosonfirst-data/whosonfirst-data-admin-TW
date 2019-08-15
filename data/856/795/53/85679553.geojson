@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "special municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TI"
+    ],
     "lbl:latitude":23.146852,
     "lbl:longitude":120.333411,
     "mps:latitude":23.146852,
@@ -347,16 +350,13 @@
         }
     ],
     "wof:id":85679553,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563279370,
+    "wof:lastmodified":1565737748,
     "wof:name":"Tainan City",
     "wof:parent_id":1108808553,
     "wof:placetype":"region",

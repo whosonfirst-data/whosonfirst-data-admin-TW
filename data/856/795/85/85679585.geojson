@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "special municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "TP"
+    ],
     "lbl:latitude":24.867046,
     "lbl:longitude":121.531676,
     "mps:latitude":24.867046,
@@ -382,16 +385,13 @@
         }
     ],
     "wof:id":85679585,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563279373,
+    "wof:lastmodified":1565737749,
     "wof:name":"New Taipei City",
     "wof:parent_id":1108808549,
     "wof:placetype":"region",

@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CH"
+    ],
     "lbl:latitude":23.434909,
     "lbl:longitude":120.66049,
     "mps:latitude":23.434909,
@@ -240,16 +243,13 @@
         }
     ],
     "wof:id":85679599,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1564179303,
+    "wof:lastmodified":1565737748,
     "wof:name":"Chiayi",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

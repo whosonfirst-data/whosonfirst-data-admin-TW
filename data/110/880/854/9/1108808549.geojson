@@ -10,6 +10,9 @@
     "geom:latitude":24.987105,
     "geom:longitude":121.595366,
     "iso:country":"TW",
+    "label:eng_x_preferred_shortcode":[
+        "NT"
+    ],
     "lbl:latitude":24.872264,
     "lbl:longitude":121.560334,
     "meso:c_desc":"\u65b0\u5317\u5e02",
@@ -268,7 +271,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563280254,
+    "wof:lastmodified":1565737777,
     "wof:name":"New Taipei",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

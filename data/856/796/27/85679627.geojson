@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PH"
+    ],
     "lbl:latitude":23.570943,
     "lbl:longitude":119.593836,
     "mps:latitude":23.570943,
@@ -305,16 +308,13 @@
         }
     ],
     "wof:id":85679627,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563279362,
+    "wof:lastmodified":1565737747,
     "wof:name":"Penghu",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

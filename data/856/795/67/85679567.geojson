@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "IL"
+    ],
     "lbl:latitude":24.560299,
     "lbl:longitude":121.639921,
     "mps:latitude":24.560299,
@@ -231,16 +234,13 @@
         }
     ],
     "wof:id":85679567,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563279368,
+    "wof:lastmodified":1565737748,
     "wof:name":"Yilan",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

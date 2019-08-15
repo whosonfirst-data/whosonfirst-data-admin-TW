@@ -10,6 +10,9 @@
     "geom:latitude":23.150778,
     "geom:longitude":120.324758,
     "iso:country":"TW",
+    "label:eng_x_preferred_shortcode":[
+        "TN"
+    ],
     "lbl:latitude":23.138879,
     "lbl:longitude":120.330714,
     "meso:c_desc":"\u81fa\u5357\u5e02",
@@ -198,7 +201,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1564180249,
+    "wof:lastmodified":1565737789,
     "wof:name":"Tainan",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

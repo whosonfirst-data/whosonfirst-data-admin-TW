@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PT"
+    ],
     "lbl:latitude":22.552789,
     "lbl:longitude":120.594956,
     "mps:latitude":22.552789,
@@ -219,16 +222,13 @@
         }
     ],
     "wof:id":85679549,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563279374,
+    "wof:lastmodified":1565737749,
     "wof:name":"Pingtung",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

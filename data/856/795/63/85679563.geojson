@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HH"
+    ],
     "lbl:latitude":24.697028,
     "lbl:longitude":121.164609,
     "mps:latitude":24.697028,
@@ -310,16 +313,13 @@
         }
     ],
     "wof:id":85679563,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563279372,
+    "wof:lastmodified":1565737748,
     "wof:name":"Hsinchu",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

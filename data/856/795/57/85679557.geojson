@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HS"
+    ],
     "lbl:latitude":24.784099,
     "lbl:longitude":120.946793,
     "mps:latitude":24.784099,
@@ -148,16 +151,13 @@
         }
     ],
     "wof:id":85679557,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1553550599,
+    "wof:lastmodified":1565737748,
     "wof:name":"Hsinchu City",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

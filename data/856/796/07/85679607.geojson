@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "county"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "HL"
+    ],
     "lbl:latitude":23.798405,
     "lbl:longitude":121.403372,
     "mps:latitude":23.798405,
@@ -236,16 +239,13 @@
         }
     ],
     "wof:id":85679607,
-    "wof:lang":[
-        "chi"
-    ],
     "wof:lang_x_official":[
         "zho"
     ],
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1563279363,
+    "wof:lastmodified":1565737747,
     "wof:name":"Hualien",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",
