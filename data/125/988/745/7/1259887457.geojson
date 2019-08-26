@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.66333,24.89667,121.70333,24.93667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chiu-hsiung-lin (2)",
         "Chiu-hsiung-lin",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259887457,
-    "wof:lastmodified":1537709328,
+    "wof:lastmodified":1566590097,
     "wof:name":"Jiuxionglin",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

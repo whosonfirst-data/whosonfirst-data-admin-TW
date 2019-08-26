@@ -14,6 +14,8 @@
     "iso:country":"TW",
     "lbl:latitude":24.552122,
     "lbl:longitude":120.819427,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.552122,
     "mps:longitude":120.819427,
     "mz:hierarchy_label":1,
@@ -82,7 +84,7 @@
     "name:ukr_x_preferred":[
         "\u041c\u044f\u043e\u043b\u0456"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Miao-li-chieh"
     ],
     "name:vie_x_preferred":[
@@ -203,7 +205,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -213,7 +215,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1671971,
-        "qs:id":1030900,
         "qs_pg:id":1030900,
         "wd:id":"Q701651",
         "wk:page":"Miaoli"
@@ -230,7 +231,7 @@
         }
     ],
     "wof:id":102026689,
-    "wof:lastmodified":1563278947,
+    "wof:lastmodified":1566588417,
     "wof:name":"Miaoli",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

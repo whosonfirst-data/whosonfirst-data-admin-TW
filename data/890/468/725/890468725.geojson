@@ -11,11 +11,15 @@
     "geom:longitude":120.68583,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"120.58583,23.99833,120.78583,24.19833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ta-li Hsiang"
     ],
     "qs:name":"Dali Shi",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1668156,
-        "qs:id":1030875
+        "qs_pg:id":1030875
     },
     "wof:country":"TW",
     "wof:created":1469053722,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890468725,
-    "wof:lastmodified":1505343712,
+    "wof:lastmodified":1566589823,
     "wof:name":"Dali Shi",
     "wof:parent_id":85679617,
     "wof:placetype":"localadmin",

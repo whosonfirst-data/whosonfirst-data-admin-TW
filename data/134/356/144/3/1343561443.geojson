@@ -26,15 +26,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.66513,23.93116,120.70513,23.97116",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Xiazhuang"
     ],
     "name:und_x_variant":[
         "Hsia-chuang-hsiang",
         "Siajhuang",
-        "Xiazhuang",
         "Hsia-chuang"
     ],
     "name:zho_x_preferred":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1343561443,
-    "wof:lastmodified":1564179064,
+    "wof:lastmodified":1566588550,
     "wof:name":"Xiazhuang",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

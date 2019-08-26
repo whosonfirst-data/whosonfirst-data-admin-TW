@@ -11,8 +11,11 @@
     "geom:longitude":120.662112,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.657112,24.167401,120.667112,24.177401",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Wanli"
     ],
@@ -77,7 +80,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28760386,
-        "qs:id":273425,
+        "qs_pg:id":273425,
         "wd:id":"Q570582",
         "wk:page":"Wanli District, New Taipei"
     },
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890467545,
-    "wof:lastmodified":1563280817,
+    "wof:lastmodified":1566589762,
     "wof:name":"\u5927\u9d6c\u91cc",
     "wof:parent_id":102026719,
     "wof:placetype":"neighbourhood",

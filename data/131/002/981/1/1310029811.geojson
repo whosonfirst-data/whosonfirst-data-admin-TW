@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.8825,22.46667,120.9225,22.50667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u7235\u963f\u57d4\u65fa"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310029811,
-    "wof:lastmodified":1537709598,
+    "wof:lastmodified":1566589566,
     "wof:name":"Jue'abuwang",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

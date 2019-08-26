@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.16861,23.00444,120.20861,23.04444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hsi-tzu-tun",
-        "Sizihcian",
-        "\u6eaa\u5b50\u5898"
+        "Sizihcian"
     ],
     "name:zho_x_preferred":[
         "Hsi-tzu-ch\u2019ien"
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1344057823,
-    "wof:lastmodified":1537709055,
+    "wof:lastmodified":1566588587,
     "wof:name":"Xiziqian",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

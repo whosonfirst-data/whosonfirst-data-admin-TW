@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.02778,24.73111,121.06778,24.77111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Huli"
     ],
@@ -48,7 +52,6 @@
     ],
     "name:und_x_variant":[
         "Hsia-hu-li",
-        "Huli",
         "Hu-li"
     ],
     "src:geom":"geonames",
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1326836153,
-    "wof:lastmodified":1564178817,
+    "wof:lastmodified":1566588354,
     "wof:name":"Huli",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

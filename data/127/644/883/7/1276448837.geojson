@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.41266,23.72939,121.45266,23.76939",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Feng-kuang-li",
         "Feng-kuang",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1276448837,
-    "wof:lastmodified":1537709230,
+    "wof:lastmodified":1566588958,
     "wof:name":"Fengyi",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

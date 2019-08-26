@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.46916,23.61355,120.50916,23.65355",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u57e4\u5bee",
         "Piliao"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1310205333,
-    "wof:lastmodified":1537709979,
+    "wof:lastmodified":1566589523,
     "wof:name":"Piliao",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

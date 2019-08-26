@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.43248,25.16358,121.47248,25.20358",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191569,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1343572775,
-    "wof:lastmodified":1537078530,
+    "wof:lastmodified":1566588540,
     "wof:name":"Danshuei Township",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

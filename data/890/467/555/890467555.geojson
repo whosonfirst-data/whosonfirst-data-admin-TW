@@ -11,10 +11,14 @@
     "geom:longitude":120.66667,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"120.56667,22.13333,120.76667,22.33333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Fangshan"
     ],
@@ -33,7 +37,7 @@
     "name:nan_x_preferred":[
         "Pang-soa\u207f-hiong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fangshan Siang"
     ],
     "name:vie_x_preferred":[
@@ -59,7 +63,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1676833,
-        "qs:id":371315,
+        "qs_pg:id":371315,
         "wd:id":"Q707860",
         "wk:page":"Fangshan, Pingtung"
     },
@@ -75,7 +79,7 @@
         }
     ],
     "wof:id":890467555,
-    "wof:lastmodified":1563280821,
+    "wof:lastmodified":1566589763,
     "wof:name":"Fangshan Xiang",
     "wof:parent_id":85679549,
     "wof:placetype":"localadmin",

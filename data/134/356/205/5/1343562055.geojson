@@ -26,15 +26,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.71833,22.24278,120.75833,22.28278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "A-hsieh-mei-hs\u00fc",
         "\u963f\u8036\u7f8e\u9808",
         "Ayemeisyu",
         "Mei-hs\u00fc",
-        "Ayemeixu",
-        "A-yeh-mei-hs\u00fc"
+        "Ayemeixu"
     ],
     "name:zho_x_preferred":[
         "A-yeh-mei-hs\u00fc"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1343562055,
-    "wof:lastmodified":1537708879,
+    "wof:lastmodified":1566588549,
     "wof:name":"Ayemeixu",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.5205,24.08027,120.5605,24.12027",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mao-sheng-li",
-        "Maoshengcuo",
-        "Mao-sheng-ts\u2019o"
+        "Maoshengcuo"
     ],
     "name:zho_x_preferred":[
         "\u8302\u76db\u539d"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1260310067,
-    "wof:lastmodified":1537708885,
+    "wof:lastmodified":1566589308,
     "wof:name":"Maoshengcuo",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

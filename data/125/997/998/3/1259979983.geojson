@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.58583,24.3075,120.62583,24.3475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shueibiantou",
         "Shuibiantou"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1259979983,
-    "wof:lastmodified":1537708669,
+    "wof:lastmodified":1566590018,
     "wof:name":"Shuibiantou",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

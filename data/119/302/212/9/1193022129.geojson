@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.63944,23.48361,120.67944,23.52361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shueisheliao",
         "Shuisheliao",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1193022129,
-    "wof:lastmodified":1537708674,
+    "wof:lastmodified":1566589290,
     "wof:name":"Shuisheliao",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

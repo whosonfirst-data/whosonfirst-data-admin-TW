@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.75924,24.23577,120.79924,24.27577",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u4e8c\u576a",
         "Erping"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1343267813,
-    "wof:lastmodified":1537709471,
+    "wof:lastmodified":1566588612,
     "wof:name":"Erping",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

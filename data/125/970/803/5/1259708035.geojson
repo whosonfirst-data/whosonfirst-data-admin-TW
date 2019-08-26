@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.18917,23.12889,120.22917,23.16889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shih-liao",
         "Shihliao",
         "Shiliao",
-        "Shih-liao-tzu",
-        "\u65bd\u5bee"
+        "Shih-liao-tzu"
     ],
     "name:zho_x_preferred":[
         "Shih-ts\u2019o-liao"
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1259708035,
-    "wof:lastmodified":1537708700,
+    "wof:lastmodified":1566590035,
     "wof:name":"Shiliao",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

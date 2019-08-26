@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.23306,23.17583,120.27306,23.21583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chia-nien-pang",
-        "Jianianbang",
-        "\u52a0\u8f26\u90a6"
+        "Jianianbang"
     ],
     "name:zho_x_preferred":[
         "\u52a0\u8f26\u90a6"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1226546111,
-    "wof:lastmodified":1537709492,
+    "wof:lastmodified":1566590204,
     "wof:name":"Jianianbang",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

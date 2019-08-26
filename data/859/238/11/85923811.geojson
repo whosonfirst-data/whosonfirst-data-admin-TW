@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000036,
-    "geom:area_square_m":407904.191945,
+    "geom:area_square_m":407904.191944,
     "geom:bbox":"121.568588674,25.0258840559,121.575175917,25.0321057139",
     "geom:latitude":25.029071,
     "geom:longitude":121.57184,
@@ -13,6 +13,7 @@
     "iso:country":"TW",
     "lbl:latitude":25.028794,
     "lbl:longitude":121.570648,
+    "lbl:max_zoom":18.0,
     "mps:latitude":25.028995,
     "mps:longitude":121.571796,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":6,
-    "name:unk_x_variant":[
-        "\u4e09\u7281\u91cc"
-    ],
     "name:zho_x_preferred":[
         "\u4e09\u7281\u91cc"
     ],
@@ -55,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -66,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28756378,
-        "qs:id":1290311,
         "qs_pg:id":1290311
     },
     "wof:country":"TW",
@@ -85,7 +82,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527269241,
+    "wof:lastmodified":1566588736,
     "wof:name":"\u4e09\u7281\u91cc",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

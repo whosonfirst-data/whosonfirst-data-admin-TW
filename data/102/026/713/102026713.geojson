@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000279,
-    "geom:area_square_m":3127768.306115,
+    "geom:area_square_m":3127768.30612,
     "geom:bbox":"121.042962645,24.8624602035,121.062750314,24.8805122226",
     "geom:latitude":24.871486,
     "geom:longitude":121.052856,
@@ -14,10 +14,13 @@
     "iso:country":"TW",
     "lbl:latitude":24.871486,
     "lbl:longitude":121.052856,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.871486,
     "mps:longitude":121.052856,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Hukou"
     ],
@@ -49,7 +52,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":53,
     "wof:belongsto":[
         102191569,
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":102026713,
-    "wof:lastmodified":1527637809,
+    "wof:lastmodified":1566588420,
     "wof:name":"Hukou",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

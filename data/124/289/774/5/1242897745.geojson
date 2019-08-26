@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.28583,23.44639,120.32583,23.48639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tung-shih-li",
         "Tung-shih",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1242897745,
-    "wof:lastmodified":1537708503,
+    "wof:lastmodified":1566589892,
     "wof:name":"Dongshiliao",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

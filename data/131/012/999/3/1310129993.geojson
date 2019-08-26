@@ -26,16 +26,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.60694,22.39167,120.64694,22.43167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "K\u2019an-t\u2019ou",
         "\u5d4c\u982d",
         "Qiantou",
         "K\u2019an-t\u2019ou-ying",
         "Ciantou",
-        "K\u2019an-i",
-        "Ch\u2019ien-t\u2019ou"
+        "K\u2019an-i"
     ],
     "name:zho_x_preferred":[
         "Ch\u2019ien-t\u2019ou"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1310129993,
-    "wof:lastmodified":1537709003,
+    "wof:lastmodified":1566589464,
     "wof:name":"Qiantou",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

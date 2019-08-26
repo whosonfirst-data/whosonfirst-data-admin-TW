@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.45152,23.3605,121.49152,23.4005",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dajyulai",
-        "Dajulai",
-        "Ta-ch\u00fc-lai"
+        "Dajulai"
     ],
     "name:zho_x_preferred":[
         "\u5927\u4ff1\u4f86"
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1309745099,
-    "wof:lastmodified":1537708633,
+    "wof:lastmodified":1566589653,
     "wof:name":"Dajulai",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

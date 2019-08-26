@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.7423,23.73734,120.7823,23.77734",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pai-mao-lin"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326636319,
-    "wof:lastmodified":1537709782,
+    "wof:lastmodified":1566588374,
     "wof:name":"Baimaolin",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

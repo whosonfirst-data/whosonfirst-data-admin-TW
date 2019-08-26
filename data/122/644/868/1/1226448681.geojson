@@ -26,11 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.79833,24.31675,120.83833,24.35675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:und_x_variant":[
-        "\u576a\u5c3e"
-    ],
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "P\u2019ing-wei"
     ],
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1226448681,
-    "wof:lastmodified":1537709464,
+    "wof:lastmodified":1566590119,
     "wof:name":"Pingwei",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.66829,25.12867,121.70829,25.16867",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Singjikeng"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276442489,
-    "wof:lastmodified":1537709097,
+    "wof:lastmodified":1566588957,
     "wof:name":"Xingjikeng",
     "wof:parent_id":85679571,
     "wof:placetype":"locality",

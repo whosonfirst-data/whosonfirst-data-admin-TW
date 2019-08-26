@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.17972,23.17667,120.21972,23.21667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hsieh-pang-liao",
         "Siebangliao",
         "Hsieh-fang-liao",
-        "Xiebangliao",
-        "\u8b1d\u699c\u5bee"
+        "Xiebangliao"
     ],
     "name:zho_x_preferred":[
         "\u8b1d\u699c\u5bee"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1226670091,
-    "wof:lastmodified":1537709121,
+    "wof:lastmodified":1566590151,
     "wof:name":"Xiebangliao",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

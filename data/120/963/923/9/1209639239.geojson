@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.68242,24.08706,120.72242,24.12706",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u597d\u4f86\u90a8",
-        "Haolaicun",
-        "Hao-lai-ts\u2019un"
+        "Haolaicun"
     ],
     "name:zho_x_preferred":[
         "Hao-lai-ts\u2019un"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1209639239,
-    "wof:lastmodified":1537709479,
+    "wof:lastmodified":1566589132,
     "wof:name":"Haolaicun",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

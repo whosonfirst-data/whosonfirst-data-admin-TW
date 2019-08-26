@@ -11,10 +11,14 @@
     "geom:longitude":121.65,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"121.55,24.98333,121.75,25.18333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Sir Taipei"
     ],
@@ -24,7 +28,7 @@
     "name:epo_x_preferred":[
         "Kantono Tajpeo"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsi-chih Shih"
     ],
     "name:zho_x_preferred":[
@@ -48,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1675392,
-        "qs:id":275115,
+        "qs_pg:id":275115,
         "wd:id":"Q24287568",
         "wk:page":"Taipei County"
     },
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890467593,
-    "wof:lastmodified":1563280798,
+    "wof:lastmodified":1566589754,
     "wof:name":"Xizhi Shi",
     "wof:parent_id":85679585,
     "wof:placetype":"localadmin",

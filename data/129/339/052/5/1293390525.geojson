@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.15972,23.14806,120.19972,23.18806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dongshihjiao",
         "Tung-shih-chiao"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293390525,
-    "wof:lastmodified":1537709494,
+    "wof:lastmodified":1566588786,
     "wof:name":"Dongshijiao",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

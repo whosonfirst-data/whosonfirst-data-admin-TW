@@ -11,17 +11,21 @@
     "geom:longitude":121.21667,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"121.11667,24.83333,121.31667,25.03333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Sir Taoyuan"
     ],
     "name:eng_x_preferred":[
         "Taoyuan County"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pingjhen Shih"
     ],
     "name:zho_x_preferred":[
@@ -48,7 +52,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1670550,
-        "qs:id":371269,
+        "qs_pg:id":371269,
         "wd:id":"Q25303104",
         "wk:page":"Taoyuan County, Taiwan"
     },
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":890468317,
-    "wof:lastmodified":1563280993,
+    "wof:lastmodified":1566589843,
     "wof:name":"Pingzhen Shi",
     "wof:parent_id":85679589,
     "wof:placetype":"localadmin",

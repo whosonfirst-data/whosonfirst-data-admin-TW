@@ -13,6 +13,7 @@
     "iso:country":"TW",
     "lbl:latitude":23.817387,
     "lbl:longitude":120.952514,
+    "lbl:min_zoom":9.0,
     "meso:adm1_en":"Taiwan",
     "meso:adm1_loc":"\u5b9c\u862d\u7e23",
     "meso:gadm_admin":"Nantou",
@@ -28,6 +29,7 @@
     "mps:longitude":120.952514,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0646\u0627\u0646\u062a\u0648"
     ],
@@ -163,9 +165,6 @@
     "name:ukr_x_preferred":[
         "\u041e\u043a\u0440\u0443\u0433 \u041d\u0430\u043d\u044c\u0442\u043e\u0443"
     ],
-    "name:und_x_variant":[
-        "\u5357\u6295\u7e23"
-    ],
     "name:urd_x_preferred":[
         "\u0646\u0627\u0646\u062a\u0648\u0648 \u06a9\u0627\u0624\u0646\u0679\u06cc"
     ],
@@ -180,7 +179,7 @@
     ],
     "src:geom":"meso",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -204,7 +203,7 @@
         }
     ],
     "wof:id":1108498475,
-    "wof:lastmodified":1563280299,
+    "wof:lastmodified":1566589448,
     "wof:name":"Nantou",
     "wof:parent_id":85679611,
     "wof:placetype":"macrocounty",

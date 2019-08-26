@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.04806,24.9725,121.08806,25.0125",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fengtian"
     ],
@@ -41,8 +45,7 @@
         "\u0424\u044d\u043d\u0442\u044f\u043d\u044c"
     ],
     "name:und_x_variant":[
-        "Fongtian",
-        "Fengtian"
+        "Fongtian"
     ],
     "name:vie_x_preferred":[
         "Ph\u1ee5ng Thi\u00ean"
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":1310211227,
-    "wof:lastmodified":1564180398,
+    "wof:lastmodified":1566589549,
     "wof:name":"Fengtian",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

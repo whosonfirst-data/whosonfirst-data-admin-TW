@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.54558,24.1883,120.58558,24.2283",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San-k\u2019uei-ts\u2019o",
-        "Sankuaicuo",
-        "San-k\u2019uai-ts\u2019o"
+        "Sankuaicuo"
     ],
     "name:zho_x_preferred":[
         "\u4e09\u584a\u539d"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1209721955,
-    "wof:lastmodified":1537709473,
+    "wof:lastmodified":1566589249,
     "wof:name":"Sankuaicuo",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

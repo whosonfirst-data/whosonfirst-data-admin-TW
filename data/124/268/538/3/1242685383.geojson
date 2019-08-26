@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.40842,24.90356,121.44842,24.94356",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jhulun",
         "Chu-lun"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1242685383,
-    "wof:lastmodified":1537709841,
+    "wof:lastmodified":1566589907,
     "wof:name":"Zhulun",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

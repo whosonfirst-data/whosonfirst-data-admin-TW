@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.34372,23.38018,121.38372,23.42018",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guanyinshansia",
         "Kuan-yin-shan-hsia"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276980605,
-    "wof:lastmodified":1537709923,
+    "wof:lastmodified":1566589097,
     "wof:name":"Guanyinshanxia",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

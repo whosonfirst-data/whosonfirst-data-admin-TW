@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.15333,24.73417,121.19333,24.77417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wazihku"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1343268125,
-    "wof:lastmodified":1537708488,
+    "wof:lastmodified":1566588610,
     "wof:name":"Waziku",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

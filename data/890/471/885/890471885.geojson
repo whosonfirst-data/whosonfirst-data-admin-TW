@@ -11,8 +11,11 @@
     "geom:longitude":120.698547,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Namaxia"
     ],
@@ -65,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28752156,
-        "qs:id":233167,
+        "qs_pg:id":233167,
         "wd:id":"Q708115",
         "wk:page":"Namasia District"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890471885,
-    "wof:lastmodified":1563280691,
+    "wof:lastmodified":1566589698,
     "wof:name":"\u4e09\u6c11\u9109",
     "wof:parent_id":1108756877,
     "wof:placetype":"county",

@@ -11,8 +11,12 @@
     "geom:longitude":120.685597,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.665597,24.078975,120.705597,24.118975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Okres Tchaj-\u010dung"
     ],
@@ -79,7 +83,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2299004,
-        "qs:id":424843,
+        "qs_pg:id":424843,
         "wd:id":"Q701682",
         "wk:page":"Taichung County"
     },
@@ -96,7 +100,7 @@
         }
     ],
     "wof:id":890471329,
-    "wof:lastmodified":1563280707,
+    "wof:lastmodified":1566589705,
     "wof:name":"\u5927\u91cc\u5e02",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

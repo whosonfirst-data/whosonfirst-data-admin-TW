@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.02944,24.88833,121.06944,24.92833",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Aishihcun",
         "Aishicun"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1226248563,
-    "wof:lastmodified":1537709514,
+    "wof:lastmodified":1566590183,
     "wof:name":"Aishicun",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.30366,23.27381,121.34366,23.31381",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chuanzihshan"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1344057249,
-    "wof:lastmodified":1537709924,
+    "wof:lastmodified":1566588587,
     "wof:name":"Chuanzishan",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

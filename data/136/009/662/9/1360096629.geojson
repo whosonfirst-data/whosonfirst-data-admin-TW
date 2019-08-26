@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.47877,24.91812,121.51877,24.95812",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Erbazih",
         "Erh-pa-tzu"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1360096629,
-    "wof:lastmodified":1537709843,
+    "wof:lastmodified":1566589585,
     "wof:name":"Erbazi",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

@@ -26,15 +26,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.54389,23.76417,121.58389,23.80417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shui-lien",
         "Shuilian",
         "Shui-Lie-Tsun",
         "Shui-lien-wei",
-        "Shueilian",
-        "\u6c34\u7489"
+        "Shueilian"
     ],
     "name:zho_x_preferred":[
         "Shui-lien-ts\u2019un"
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1225868815,
-    "wof:lastmodified":1537708671,
+    "wof:lastmodified":1566590163,
     "wof:name":"Shuilian",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

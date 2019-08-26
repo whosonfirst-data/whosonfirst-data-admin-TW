@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.36038,22.69984,120.40038,22.73984",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San-kung-liao",
-        "\u4e09\u516c\u5bee",
         "Sangongliao"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1225947353,
-    "wof:lastmodified":1537709982,
+    "wof:lastmodified":1566590100,
     "wof:name":"Sangongliao",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

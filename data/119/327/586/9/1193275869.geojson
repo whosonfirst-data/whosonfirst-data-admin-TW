@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.75598,24.3969,120.79598,24.4369",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ta-lan-chiang",
-        "Ta-lan-kang",
-        "\u6253\u703e\u7f38"
+        "Ta-lan-kang"
     ],
     "name:zho_x_preferred":[
         "\u6253\u703e\u7f38"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1193275869,
-    "wof:lastmodified":1537708614,
+    "wof:lastmodified":1566589294,
     "wof:name":"Dalangang",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

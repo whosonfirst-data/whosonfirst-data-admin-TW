@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.80043,24.50756,120.84043,24.54756",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siadianzih",
         "Hsia-tien-tzu"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1360085539,
-    "wof:lastmodified":1537709132,
+    "wof:lastmodified":1566589594,
     "wof:name":"Xiadianzi",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.9328,23.87991,120.9728,23.91991",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u9577\u5bee\u5c3e"
     ],
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":1209438893,
-    "wof:lastmodified":1537709412,
+    "wof:lastmodified":1566589239,
     "wof:name":"Changliaowei",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

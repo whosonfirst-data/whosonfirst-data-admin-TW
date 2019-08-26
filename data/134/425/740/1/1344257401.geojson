@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.79971,24.15504,120.83971,24.19504",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u62bd\u85e4\u5751"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1344257401,
-    "wof:lastmodified":1537709903,
+    "wof:lastmodified":1566588459,
     "wof:name":"Choutengkeng",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

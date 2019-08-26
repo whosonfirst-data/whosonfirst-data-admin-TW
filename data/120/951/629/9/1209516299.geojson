@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.36637,24.77053,121.40637,24.81053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siayunei",
         "Xiayunei"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209516299,
-    "wof:lastmodified":1537709848,
+    "wof:lastmodified":1566589206,
     "wof:name":"Xiayunei",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

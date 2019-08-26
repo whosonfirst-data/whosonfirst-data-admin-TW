@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.0729,22.8166,121.1129,22.8566",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Mei-nung"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343768417,
-    "wof:lastmodified":1537709898,
+    "wof:lastmodified":1566588504,
     "wof:name":"Meinong",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

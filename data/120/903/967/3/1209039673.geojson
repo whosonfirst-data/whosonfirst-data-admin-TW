@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.58528,23.55083,120.62528,23.59083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fei-tzu-chiao",
         "Lizihjiao",
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209039673,
-    "wof:lastmodified":1537709233,
+    "wof:lastmodified":1566589200,
     "wof:name":"Lizijiao",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

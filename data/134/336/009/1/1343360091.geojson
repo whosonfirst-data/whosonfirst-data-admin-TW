@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.71257,24.09832,120.75257,24.13832",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "Sinping",
-        "Hsin-p\u2019ing"
+        "Sinping"
     ],
     "name:zho_x_preferred":[
         "\u65b0\u576a"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1343360091,
-    "wof:lastmodified":1537709930,
+    "wof:lastmodified":1566588432,
     "wof:name":"Xinping",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.43776,23.8434,120.47776,23.8834",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shang-ssu-hu",
         "Sincuo",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1259583819,
-    "wof:lastmodified":1537709702,
+    "wof:lastmodified":1566590074,
     "wof:name":"Xincuo",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

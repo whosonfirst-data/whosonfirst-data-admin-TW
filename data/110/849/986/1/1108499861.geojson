@@ -13,6 +13,7 @@
     "iso:country":"TW",
     "lbl:latitude":23.480819,
     "lbl:longitude":120.447027,
+    "lbl:min_zoom":9.0,
     "meso:adm1_en":"Taiwan",
     "meso:adm1_loc":"\u5b9c\u862d\u7e23",
     "meso:gadm_admin":"Chiayi City",
@@ -28,6 +29,7 @@
     "mps:longitude":120.447027,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0634\u064a\u0627\u064a"
     ],
@@ -146,7 +148,7 @@
         "Chiayi"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bbf\u0baf\u0bbe\u0baf\u0bbf  \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
+        "\u0b9a\u0bbf\u0baf\u0bbe\u0baf\u0bbf \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c1a\u0c3f\u0c2f\u0c3e\u0c2f\u0c40 \u0c15\u0c4c\u0c02\u0c1f\u0c40"
@@ -177,7 +179,7 @@
     ],
     "src:geom":"meso",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -201,7 +203,7 @@
         }
     ],
     "wof:id":1108499861,
-    "wof:lastmodified":1563280307,
+    "wof:lastmodified":1566589463,
     "wof:name":"Chiayi",
     "wof:parent_id":85679603,
     "wof:placetype":"macrocounty",

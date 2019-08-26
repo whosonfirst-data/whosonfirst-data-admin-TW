@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.45597,24.92198,121.49597,24.96198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u4e94\u57ce"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276239859,
-    "wof:lastmodified":1537708468,
+    "wof:lastmodified":1566589053,
     "wof:name":"Wucheng",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

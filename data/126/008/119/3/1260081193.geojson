@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.55309,22.60387,120.59309,22.64387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tsao-tzu-chiao",
-        "\u65e9\u5b50\u89d2",
         "Zaozijiao",
         "Zaozihjiao"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1260081193,
-    "wof:lastmodified":1537708525,
+    "wof:lastmodified":1566589314,
     "wof:name":"Zaozijiao",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

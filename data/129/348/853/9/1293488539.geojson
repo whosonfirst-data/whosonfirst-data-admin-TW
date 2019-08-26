@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.52067,22.52987,120.56067,22.56987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0427\u0430\u043e\u0434\u0436\u043e\u0443"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Ch\u2019ao-chou-chang",
-        "Chaojhou",
-        "Chaozhou"
+        "Chaojhou"
     ],
     "name:vie_x_preferred":[
         "Tri\u1ec1u Ch\u00e2u"
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1293488539,
-    "wof:lastmodified":1564179389,
+    "wof:lastmodified":1566588813,
     "wof:name":"Chaozhou",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"118.384,24.49019,118.424,24.53019",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Xiyuan"
     ],
     "name:und_x_variant":[
-        "\u897f\u5712",
-        "Xiyuan"
+        "\u897f\u5712"
     ],
     "name:zho_x_preferred":[
         "Hsi-y\u00fcan"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1309807569,
-    "wof:lastmodified":1564180592,
+    "wof:lastmodified":1566589661,
     "wof:name":"Xiyuan",
     "wof:parent_id":85679635,
     "wof:placetype":"locality",

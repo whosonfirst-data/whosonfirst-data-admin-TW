@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.15778,23.10806,120.19778,23.14806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lioucuo",
-        "Liucuo",
-        "\u5289\u539d"
+        "Liucuo"
     ],
     "name:zho_x_preferred":[
         "Liu-ts\u2019o"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1226466439,
-    "wof:lastmodified":1537708920,
+    "wof:lastmodified":1566590188,
     "wof:name":"Liucuo",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

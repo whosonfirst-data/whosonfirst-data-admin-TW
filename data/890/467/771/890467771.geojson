@@ -11,8 +11,11 @@
     "geom:longitude":120.696981,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.691981,24.1574065,120.701981,24.1674065",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
         "Beitun District"
     ],
@@ -59,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28760368,
-        "qs:id":229774,
+        "qs_pg:id":229774,
         "wd:id":"Q569533",
         "wk:page":"Beitun District"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890467771,
-    "wof:lastmodified":1563280815,
+    "wof:lastmodified":1566589761,
     "wof:name":"\u5317\u8208\u91cc",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

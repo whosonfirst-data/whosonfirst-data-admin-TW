@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.63444,23.6225,120.67444,23.6625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Dingjhenzih",
         "Dingzhenzi",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276980861,
-    "wof:lastmodified":1537709557,
+    "wof:lastmodified":1566589094,
     "wof:name":"Dingzhenzi",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.555,22.38139,120.595,22.42139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Donghai"
     ],
@@ -44,7 +48,6 @@
         "Pei-ch\u2019i-wei",
         "\u6771\u6d77",
         "Tung-hai-ts\u2019un",
-        "Donghai",
         "Tung-hai"
     ],
     "name:vie_x_preferred":[
@@ -73,7 +76,7 @@
         }
     ],
     "wof:id":1327357689,
-    "wof:lastmodified":1564178770,
+    "wof:lastmodified":1566588319,
     "wof:name":"Donghai",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

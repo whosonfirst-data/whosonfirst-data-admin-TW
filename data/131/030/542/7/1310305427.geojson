@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.23333,23.09472,120.27333,23.13472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ling-chi",
-        "Lingji",
-        "\u5dba\u5bc4"
+        "Lingji"
     ],
     "name:zho_x_preferred":[
         "\u5dba\u5bc4"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1310305427,
-    "wof:lastmodified":1537708935,
+    "wof:lastmodified":1566589511,
     "wof:name":"Lingji",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

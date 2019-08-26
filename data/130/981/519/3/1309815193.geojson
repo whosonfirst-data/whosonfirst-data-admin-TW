@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.38,25.13,121.42,25.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nei-hu"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1309815193,
-    "wof:lastmodified":1537708844,
+    "wof:lastmodified":1566589666,
     "wof:name":"Neihu",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

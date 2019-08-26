@@ -11,8 +11,12 @@
     "geom:longitude":120.241928,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.221928,23.1696,120.261928,23.2096",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Okres Tchaj-nan"
     ],
@@ -82,7 +86,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2306203,
-        "qs:id":237279,
+        "qs_pg:id":237279,
         "wd:id":"Q477601",
         "wk:page":"Tainan County"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890471923,
-    "wof:lastmodified":1563280671,
+    "wof:lastmodified":1566589687,
     "wof:name":"\u9ebb\u8c46\u93ae",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

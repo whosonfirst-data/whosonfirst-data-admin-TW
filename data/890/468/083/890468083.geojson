@@ -11,8 +11,12 @@
     "geom:longitude":121.812286,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"121.792286,24.656345,121.832286,24.696345",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Ashina District"
     ],
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28757221,
-        "qs:id":1286589,
+        "qs_pg:id":1286589,
         "wd:id":"Q4805097",
         "wk:page":"Ashina District, Hiroshima"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890468083,
-    "wof:lastmodified":1563280932,
+    "wof:lastmodified":1566589815,
     "wof:name":"\u5354\u548c\u6751",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.34583,23.34778,120.38583,23.38778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hou-pi-chuang",
         "Houbi",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1259415797,
-    "wof:lastmodified":1537709182,
+    "wof:lastmodified":1566590043,
     "wof:name":"Houbi",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

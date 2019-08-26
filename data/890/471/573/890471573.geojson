@@ -11,8 +11,12 @@
     "geom:longitude":120.482002,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.462002,22.868388,120.502002,22.908388",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ces_x_preferred":[
         "Okres Kao-siung"
     ],
@@ -82,7 +86,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2295794,
-        "qs:id":220090,
+        "qs_pg:id":220090,
         "wd:id":"Q219147",
         "wk:page":"Kaohsiung County"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890471573,
-    "wof:lastmodified":1563280675,
+    "wof:lastmodified":1566589689,
     "wof:name":"\u65d7\u5c71\u93ae",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

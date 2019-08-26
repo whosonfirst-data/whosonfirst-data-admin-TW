@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.4764,23.93198,120.5164,23.97198",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fas_x_preferred":[
         "\u0647\u0648\u06a9\u0633\u06cc"
     ],
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1226048869,
-    "wof:lastmodified":1564181419,
+    "wof:lastmodified":1566590154,
     "wof:name":"Houxi",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

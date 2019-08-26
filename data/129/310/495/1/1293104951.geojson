@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.80085,23.77234,120.84085,23.81234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Syunliaozih",
         "Sun-liao-tzu",
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1293104951,
-    "wof:lastmodified":1537708643,
+    "wof:lastmodified":1566588915,
     "wof:name":"Xunliaozi",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

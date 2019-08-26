@@ -11,10 +11,14 @@
     "geom:longitude":120.36126,
     "gn:country":"TW",
     "gn:fcode":"PPLA2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"120.34126,22.60659,120.38126,22.64659",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fengshan"
     ],
@@ -51,7 +55,7 @@
     "name:swe_x_preferred":[
         "Fengshan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kao-hsiung"
     ],
     "name:vie_x_preferred":[
@@ -75,7 +79,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1673816,
-        "qs:id":244465,
+        "qs_pg:id":244465,
         "wk:page":"Fengshan"
     },
     "wof:country":"TW",
@@ -91,7 +95,7 @@
         }
     ],
     "wof:id":890472055,
-    "wof:lastmodified":1564180724,
+    "wof:lastmodified":1566589752,
     "wof:name":"Fengshan",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

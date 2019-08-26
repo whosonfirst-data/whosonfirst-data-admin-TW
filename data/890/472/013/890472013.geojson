@@ -11,8 +11,12 @@
     "geom:longitude":120.226448,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.206448,22.90139,120.246448,22.94139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"\u4e8c\u884c\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5357\u5e02",
@@ -33,7 +37,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28754430,
-        "qs:id":242011
+        "qs_pg:id":242011
     },
     "wof:country":"TW",
     "wof:created":1469053879,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890472013,
-    "wof:lastmodified":1499912580,
+    "wof:lastmodified":1566589751,
     "wof:name":"\u4e8c\u884c\u6751",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

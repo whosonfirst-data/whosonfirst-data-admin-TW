@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.23611,23.21361,120.27611,23.25361",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "Ho-liao-tzu",
-        "\u86b5\u5bee"
+        "Ho-liao-tzu"
     ],
     "name:zho_x_preferred":[
         "K\u2019o-liao"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1243560679,
-    "wof:lastmodified":1537708987,
+    "wof:lastmodified":1566589938,
     "wof:name":"Keliao",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

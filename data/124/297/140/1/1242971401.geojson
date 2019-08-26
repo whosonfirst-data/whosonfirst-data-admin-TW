@@ -26,16 +26,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.67,22.28472,120.71,22.32472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nei-shih-t\u2019ou-she",
         "Nei-shih-ts\u2019un",
         "\u5185\u7345\u982d",
         "Neishihtou",
         "Neishitou",
-        "Nei-shih",
-        "Nei-shih-t\u2019ou"
+        "Nei-shih"
     ],
     "name:zho_x_preferred":[
         "Nei-shih-t\u2019ou"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1242971401,
-    "wof:lastmodified":1537708841,
+    "wof:lastmodified":1566589963,
     "wof:name":"Neishitou",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

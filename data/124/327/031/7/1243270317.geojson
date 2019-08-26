@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.54667,23.72583,120.58667,23.76583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siashihsanfen",
         "Xiashisanfen",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1243270317,
-    "wof:lastmodified":1537709554,
+    "wof:lastmodified":1566589967,
     "wof:name":"Xiashisanfen",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

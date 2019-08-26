@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.77613,24.32151,120.81613,24.36151",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "Suan-kan-hu",
-        "\u9178\u67d1\u6e56"
+        "Suan-kan-hu"
     ],
     "name:zho_x_preferred":[
         "\u9178\u67d1\u6e56"
@@ -58,7 +61,7 @@
         }
     ],
     "wof:id":1310006193,
-    "wof:lastmodified":1537708647,
+    "wof:lastmodified":1566589492,
     "wof:name":"Suanganhu",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

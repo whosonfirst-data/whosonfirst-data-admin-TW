@@ -26,16 +26,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.2859,23.24689,121.3259,23.28689",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dongli"
     ],
     "name:und_x_variant":[
         "Ta-chuang",
-        "Tung-li",
-        "\u6771\u91cc",
-        "Dongli"
+        "Tung-li"
     ],
     "name:zho_x_preferred":[
         "\u6771\u91cc"
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1259388965,
-    "wof:lastmodified":1564181151,
+    "wof:lastmodified":1566590005,
     "wof:name":"Dongli",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.32992,23.45274,121.36992,23.49274",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wu-hao",
-        "\u99ac\u7acb\u96f2",
         "Ma-li-wen",
         "Maliyun",
         "Wu-ho"
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1310205331,
-    "wof:lastmodified":1537708889,
+    "wof:lastmodified":1566589523,
     "wof:name":"Maliyun",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

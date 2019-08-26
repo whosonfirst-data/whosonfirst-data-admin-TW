@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.43073,25.17113,121.47073,25.21113",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kung-pu-lun"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310316581,
-    "wof:lastmodified":1537709936,
+    "wof:lastmodified":1566589497,
     "wof:name":"Gongbulun",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

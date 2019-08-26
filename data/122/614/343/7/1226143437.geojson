@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.91889,24.73556,120.95889,24.77556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Caonanzih",
         "Caonanzi"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1226143437,
-    "wof:lastmodified":1537709626,
+    "wof:lastmodified":1566590175,
     "wof:name":"Caonanzi",
     "wof:parent_id":85679557,
     "wof:placetype":"locality",

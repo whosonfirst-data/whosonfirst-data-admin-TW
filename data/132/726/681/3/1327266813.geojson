@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.47475,23.5217,120.51475,23.5617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Houshanzih",
         "Hou-shan-tzu"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1327266813,
-    "wof:lastmodified":1537709179,
+    "wof:lastmodified":1566588411,
     "wof:name":"Houshanzi",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

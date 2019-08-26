@@ -11,8 +11,11 @@
     "geom:longitude":120.677719,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.672719,24.12507,120.682719,24.13507",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "qs:name":"\u9577\u69ae\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u4e2d\u5e02",
@@ -25,16 +28,16 @@
     "qs:placetype":"Suburb",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85679617,
         102191569,
         85632403,
         1108808551,
-        102026649
+        102026649,
+        85679617
     ],
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28760569,
-        "qs:id":1084985
+        "qs_pg:id":1084985
     },
     "wof:country":"TW",
     "wof:created":1469053801,
@@ -50,7 +53,7 @@
         }
     ],
     "wof:id":890470113,
-    "wof:lastmodified":1499912542,
+    "wof:lastmodified":1566589749,
     "wof:name":"\u9577\u69ae\u91cc",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

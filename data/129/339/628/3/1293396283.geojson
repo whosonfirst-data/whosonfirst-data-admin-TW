@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.54667,23.59667,120.58667,23.63667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pan-t\u2019ien-hu"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1293396283,
-    "wof:lastmodified":1537708814,
+    "wof:lastmodified":1566588783,
     "wof:name":"Bantianhu",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

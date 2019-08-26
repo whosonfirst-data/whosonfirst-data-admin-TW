@@ -11,8 +11,12 @@
     "geom:longitude":121.145973,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"121.125973,24.88769,121.165973,24.92769",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Sir Taoyuan"
     ],
@@ -43,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2305795,
-        "qs:id":224418,
+        "qs_pg:id":224418,
         "wd:id":"Q25303104",
         "wk:page":"Taoyuan County, Taiwan"
     },
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":890471641,
-    "wof:lastmodified":1563280693,
+    "wof:lastmodified":1566589699,
     "wof:name":"\u694a\u6885\u5e02",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

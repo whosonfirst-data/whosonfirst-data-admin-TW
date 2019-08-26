@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.79263,24.35012,120.83263,24.39012",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kuan-tao-shan"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276663587,
-    "wof:lastmodified":1537708975,
+    "wof:lastmodified":1566589016,
     "wof:name":"Guandaoshan",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

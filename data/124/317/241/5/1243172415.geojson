@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.39889,23.29139,120.43889,23.33139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kuo-kou-tzu",
         "Kuo-kou"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1243172415,
-    "wof:lastmodified":1537708955,
+    "wof:lastmodified":1566589985,
     "wof:name":"Guogou",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

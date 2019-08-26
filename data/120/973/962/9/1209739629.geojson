@@ -26,16 +26,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.64412,24.04049,120.68412,24.08049",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ssu-te",
         "Ssu-k\u2019uai-ts\u2019o",
         "Ssu-te-ts\u2019un",
         "\u56db\u5fb7\u539d",
         "Sihdecuo",
-        "Sidecuo",
-        "Ssu-te-ts\u2019o"
+        "Sidecuo"
     ],
     "name:zho_x_preferred":[
         "Ssu-te-ts\u2019o"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1209739629,
-    "wof:lastmodified":1537708649,
+    "wof:lastmodified":1566589221,
     "wof:name":"Sidecuo",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

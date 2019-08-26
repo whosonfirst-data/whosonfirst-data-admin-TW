@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.7346,22.73658,120.7746,22.77658",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ta-wu",
         "Hsia-ta-wu",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1226043123,
-    "wof:lastmodified":1537708539,
+    "wof:lastmodified":1566590156,
     "wof:name":"Xiaoshanxiang",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

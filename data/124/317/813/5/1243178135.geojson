@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.36508,23.5769,121.40508,23.6169",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guanjhengsiang",
         "Kuan-cheng-hsiang"
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1243178135,
-    "wof:lastmodified":1537709826,
+    "wof:lastmodified":1566589986,
     "wof:name":"Guanzhengxiang",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

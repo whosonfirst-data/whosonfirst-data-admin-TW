@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"119.52424,23.52033,119.56424,23.56033",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Feng-kuei-li",
         "Feng-kuei-mei",
@@ -67,7 +71,7 @@
         }
     ],
     "wof:id":1326754545,
-    "wof:lastmodified":1537709230,
+    "wof:lastmodified":1566588232,
     "wof:name":"Fenggui",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

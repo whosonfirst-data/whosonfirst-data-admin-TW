@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.50028,23.05667,120.54028,23.09667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Yushan"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1259880505,
-    "wof:lastmodified":1564181314,
+    "wof:lastmodified":1566590096,
     "wof:name":"Yushan",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

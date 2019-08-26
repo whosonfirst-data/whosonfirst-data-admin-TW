@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":24.974148,
     "lbl:longitude":121.216587,
+    "lbl:min_zoom":8.0,
     "mps:latitude":24.974148,
     "mps:longitude":121.216587,
     "mz:hierarchy_label":1,
@@ -158,9 +159,9 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:area_km":"1221",
     "statoids:as_of_date":"2010-12-31",
     "statoids:capital":"Taoyuan",
@@ -184,7 +185,7 @@
         "gn:id":1667900,
         "gp:id":2347345,
         "hasc:id":"TW.TA.TY",
-        "qs:id":1135410,
+        "qs_pg:id":1135410,
         "unlc:id":"TW-TAO",
         "wd:id":"Q401325"
     },
@@ -205,7 +206,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1565737748,
+    "wof:lastmodified":1566588754,
     "wof:name":"Taoyuan",
     "wof:parent_id":1108808543,
     "wof:placetype":"region",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.80878,24.51747,120.84878,24.55747",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u6e21\u8239\u982d"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276341133,
-    "wof:lastmodified":1537708519,
+    "wof:lastmodified":1566589005,
     "wof:name":"Duchuantou",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

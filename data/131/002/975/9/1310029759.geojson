@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.52915,25.06052,121.56915,25.10052",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jhuzihlin",
         "Zhuzilin",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1310029759,
-    "wof:lastmodified":1537709258,
+    "wof:lastmodified":1566589566,
     "wof:name":"Zhuzilin",
     "wof:parent_id":85679583,
     "wof:placetype":"locality",

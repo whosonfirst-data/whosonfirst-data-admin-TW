@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.26979,22.56617,120.30979,22.60617",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shang-chu-li",
         "\u5927\u6c55\u982d",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1293699711,
-    "wof:lastmodified":1537708739,
+    "wof:lastmodified":1566588856,
     "wof:name":"Dashantou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

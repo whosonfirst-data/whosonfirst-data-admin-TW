@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":24.502627,
     "lbl:longitude":120.885197,
+    "lbl:min_zoom":8.0,
     "mps:latitude":24.502627,
     "mps:longitude":120.885197,
     "mz:hierarchy_label":1,
@@ -178,9 +179,9 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:area_km":"1820",
     "statoids:as_of_date":"2010-12-31",
     "statoids:capital":"Miaoli",
@@ -204,7 +205,7 @@
         "gn:id":1671968,
         "gp:id":2347338,
         "hasc:id":"TW.TA.ML",
-        "qs:id":1135409,
+        "qs_pg:id":1135409,
         "unlc:id":"TW-MIA",
         "wd:id":"Q701651"
     },
@@ -225,7 +226,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1565737748,
+    "wof:lastmodified":1566588754,
     "wof:name":"Miaoli",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

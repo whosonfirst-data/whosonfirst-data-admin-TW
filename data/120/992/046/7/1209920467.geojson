@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.259,23.10773,121.299,23.14773",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u7c97\u6e9d\u53e3"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209920467,
-    "wof:lastmodified":1537709821,
+    "wof:lastmodified":1566589187,
     "wof:name":"Cugoukou",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

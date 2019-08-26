@@ -25,8 +25,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"119.59694,23.22583,119.63694,23.26583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shagangzih",
         "Sha-kang-tzu"
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1293006931,
-    "wof:lastmodified":1537709504,
+    "wof:lastmodified":1566588761,
     "wof:name":"Shagangzi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

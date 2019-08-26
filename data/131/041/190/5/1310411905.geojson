@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.7872,24.40887,120.8272,24.44887",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hsin-chi-lung",
-        "\u65b0\u96de\u9686",
         "Xinjilong",
         "Sinjilong"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1310411905,
-    "wof:lastmodified":1537709106,
+    "wof:lastmodified":1566589469,
     "wof:name":"Xinjilong",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

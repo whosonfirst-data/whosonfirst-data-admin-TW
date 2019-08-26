@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.59667,23.53,120.63667,23.57",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "I-chih-shan"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1243091635,
-    "wof:lastmodified":1537709029,
+    "wof:lastmodified":1566589865,
     "wof:name":"Yizhishan",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

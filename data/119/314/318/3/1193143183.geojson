@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.71726,24.04375,120.75726,24.08375",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u6850\u6797",
-        "Tonglin",
-        "T\u2019ung-lin"
+        "Tonglin"
     ],
     "name:zho_x_preferred":[
         "T\u2019ung-lin"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1193143183,
-    "wof:lastmodified":1537709926,
+    "wof:lastmodified":1566589282,
     "wof:name":"Tonglin",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

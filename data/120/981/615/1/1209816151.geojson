@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.50006,22.62244,120.54006,22.66244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shang-chu-chia",
-        "\u4e0a\u7af9\u67b6",
         "Shangzhujia",
         "Shangjhujia"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1209816151,
-    "wof:lastmodified":1537708573,
+    "wof:lastmodified":1566589245,
     "wof:name":"Shangzhujia",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

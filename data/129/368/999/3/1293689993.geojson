@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.42444,22.81861,120.46444,22.85861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Paozihhu",
         "Paozihu"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1293689993,
-    "wof:lastmodified":1537709638,
+    "wof:lastmodified":1566588850,
     "wof:name":"Paozihu",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

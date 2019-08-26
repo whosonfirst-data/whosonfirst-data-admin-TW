@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.6858,24.97008,121.7258,25.01008",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jiousyongkeng",
         "Jiuxiongkeng"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1243371163,
-    "wof:lastmodified":1537709328,
+    "wof:lastmodified":1566589868,
     "wof:name":"Jiuxiongkeng",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.62664,25.16264,121.66664,25.20264",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ma-ssu-ting",
         "Masilin",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242585031,
-    "wof:lastmodified":1537708883,
+    "wof:lastmodified":1566589916,
     "wof:name":"Masilin",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

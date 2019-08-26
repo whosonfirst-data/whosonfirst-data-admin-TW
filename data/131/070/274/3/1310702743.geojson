@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.67921,24.00615,120.71921,24.04615",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u8eca\u5e73\u71df",
-        "Chepingying",
-        "Ch\u2019e-p\u2019ing-ying"
+        "Chepingying"
     ],
     "name:zho_x_preferred":[
         "Ch\u2019e-p\u2019ing-ying"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1310702743,
-    "wof:lastmodified":1537709487,
+    "wof:lastmodified":1566589473,
     "wof:name":"Chepingying",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

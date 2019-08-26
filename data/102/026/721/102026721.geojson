@@ -14,10 +14,13 @@
     "iso:country":"TW",
     "lbl:latitude":24.949183,
     "lbl:longitude":121.536165,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.949183,
     "mps:longitude":121.536165,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Xindian"
     ],
@@ -60,7 +63,7 @@
     "name:ukr_x_preferred":[
         "\u0421\u0456\u043d\u044c\u0434\u044f\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsin-tien-chen"
     ],
     "name:vie_x_preferred":[
@@ -87,7 +90,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -112,7 +115,7 @@
         }
     ],
     "wof:id":102026721,
-    "wof:lastmodified":1563278975,
+    "wof:lastmodified":1566588429,
     "wof:name":"Xindian",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

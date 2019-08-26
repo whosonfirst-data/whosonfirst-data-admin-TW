@@ -13,6 +13,7 @@
     "iso:country":"TW",
     "lbl:latitude":24.18258,
     "lbl:longitude":120.719195,
+    "lbl:min_zoom":9.0,
     "meso:adm1_en":"Taichung",
     "meso:adm1_loc":"\u81fa\u4e2d\u5e02",
     "meso:gadm_admin":"Taichung",
@@ -28,6 +29,7 @@
     "mps:longitude":120.719195,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:ces_x_preferred":[
         "Okres Tchaj-\u010dung"
     ],
@@ -87,7 +89,7 @@
     ],
     "src:geom":"meso",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -111,7 +113,7 @@
         }
     ],
     "wof:id":1108497005,
-    "wof:lastmodified":1563280294,
+    "wof:lastmodified":1566589437,
     "wof:name":"Taichung",
     "wof:parent_id":85679617,
     "wof:placetype":"macrocounty",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.50835,24.15396,120.54835,24.19396",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ch\u2019eng-kung",
         "Ch\u2019eng-kung-ts\u2019un",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1310006279,
-    "wof:lastmodified":1537708940,
+    "wof:lastmodified":1566589492,
     "wof:name":"Liaozi",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

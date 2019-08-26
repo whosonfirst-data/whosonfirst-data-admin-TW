@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.84526,23.77987,120.88526,23.81987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cihyao"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293000977,
-    "wof:lastmodified":1537708493,
+    "wof:lastmodified":1566588761,
     "wof:name":"Ciyao",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

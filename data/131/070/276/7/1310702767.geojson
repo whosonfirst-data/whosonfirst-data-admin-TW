@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.76306,24.72944,121.80306,24.76944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Zhuangwei"
     ],
@@ -45,7 +49,6 @@
     ],
     "name:und_x_variant":[
         "Chuang-wu",
-        "Zhuangwei",
         "Jhuangwei",
         "Chuang-wei"
     ],
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1310702767,
-    "wof:lastmodified":1564180286,
+    "wof:lastmodified":1566589479,
     "wof:name":"Zhuangwei",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

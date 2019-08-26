@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.18139,24.68528,121.22139,24.72528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hak_x_preferred":[
         "Tsi\u00e2m-sa\u030dk-hi\u00f4ng"
     ],
@@ -74,7 +78,7 @@
         }
     ],
     "wof:id":1276585471,
-    "wof:lastmodified":1564179681,
+    "wof:lastmodified":1566589009,
     "wof:name":"Jianshi",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

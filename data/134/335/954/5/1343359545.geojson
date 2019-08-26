@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.43263,22.52526,120.47263,22.56526",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u7530\u6d0b\u5b50",
         "Tianyangzi",
         "Tianyangzih"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1343359545,
-    "wof:lastmodified":1537708560,
+    "wof:lastmodified":1566588540,
     "wof:name":"Tianyangzi",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

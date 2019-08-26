@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.7217,23.73153,120.7617,23.77153",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wu-yu-ku"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1309809549,
-    "wof:lastmodified":1537709807,
+    "wof:lastmodified":1566589655,
     "wof:name":"Wuyougu",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

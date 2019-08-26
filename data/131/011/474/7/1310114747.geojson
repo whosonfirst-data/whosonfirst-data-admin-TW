@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.5018,22.8294,120.5418,22.8694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fuxing"
     ],
@@ -45,7 +49,6 @@
     ],
     "name:und_x_variant":[
         "Chi-ho-li",
-        "Fuxing",
         "Fusing",
         "Fu-hsing-chuan",
         "Fu-hsing"
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1310114747,
-    "wof:lastmodified":1564180377,
+    "wof:lastmodified":1566589533,
     "wof:name":"Fuxing",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

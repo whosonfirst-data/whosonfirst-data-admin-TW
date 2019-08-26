@@ -11,10 +11,14 @@
     "geom:longitude":120.46138,
     "gn:country":"TW",
     "gn:fcode":"PPL",
-    "gn:pop":16597,
+    "gn:population":16597,
     "iso:country":"TW",
+    "lbl:bbox":"120.44138,23.10493,120.48138,23.14493",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":10.0,
     "name:deu_x_preferred":[
         "Yujing"
     ],
@@ -32,9 +36,6 @@
     ],
     "name:nan_x_preferred":[
         "Gio\u030dk-ch\u00e9\u207f-khu"
-    ],
-    "name:unk_x_variant":[
-        "Y\u00fc-ching-chuang"
     ],
     "name:vie_x_preferred":[
         "Ng\u1ecdc T\u0129nh"
@@ -66,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1665357,
-        "qs:id":276762,
+        "qs_pg:id":276762,
         "wd:id":"Q708690",
         "wk:page":"Yujing District"
     },
@@ -83,7 +84,7 @@
         }
     ],
     "wof:id":890467595,
-    "wof:lastmodified":1563280801,
+    "wof:lastmodified":1566589755,
     "wof:name":"Yujing",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

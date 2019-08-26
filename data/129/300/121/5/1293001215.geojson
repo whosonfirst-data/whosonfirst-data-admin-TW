@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.75645,23.76007,120.79645,23.80007",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sioufong",
         "Xiufeng",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1293001215,
-    "wof:lastmodified":1537709054,
+    "wof:lastmodified":1566588763,
     "wof:name":"Xiufeng",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

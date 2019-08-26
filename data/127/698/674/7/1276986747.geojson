@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"119.49116,23.59579,119.53116,23.63579",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u6797\u6295",
         "Lintou"
     ],
     "name:zho_x_preferred":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1276986747,
-    "wof:lastmodified":1537709976,
+    "wof:lastmodified":1566589087,
     "wof:name":"Lintou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

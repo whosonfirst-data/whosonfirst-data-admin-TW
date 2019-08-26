@@ -26,13 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.59197,23.97621,120.63197,24.01621",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u98df\u6c34\u5751",
         "Shishuikeng",
-        "Shihshueikeng",
-        "Shih-shui-k\u2019eng"
+        "Shihshueikeng"
     ],
     "name:zho_x_preferred":[
         "Shih-shui-k\u2019eng"
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1343858583,
-    "wof:lastmodified":1537708690,
+    "wof:lastmodified":1566588491,
     "wof:name":"Shishuikeng",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

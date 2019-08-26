@@ -26,13 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.8129,24.2835,120.8529,24.3235",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shangsin",
         "Shangxin",
-        "Shang-hsin",
-        "\u4e0a\u65b0"
+        "Shang-hsin"
     ],
     "name:zho_x_preferred":[
         "T\u2019u-hsin"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1243173167,
-    "wof:lastmodified":1537708737,
+    "wof:lastmodified":1566589988,
     "wof:name":"Shangxin",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

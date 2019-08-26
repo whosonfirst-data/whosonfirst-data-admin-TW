@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.0204,22.7451,121.0604,22.7851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dongxing"
     ],
@@ -55,7 +59,6 @@
     "name:und_x_variant":[
         "Ta-nan-she",
         "Dongsing",
-        "Dongxing",
         "Ta-nan",
         "Tung-hsing"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":1360009749,
-    "wof:lastmodified":1564180456,
+    "wof:lastmodified":1566589581,
     "wof:name":"Dongxing",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":24.697028,
     "lbl:longitude":121.164609,
+    "lbl:min_zoom":8.0,
     "mps:latitude":24.697028,
     "mps:longitude":121.164609,
     "mz:hierarchy_label":1,
@@ -274,9 +275,9 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:area_km":"1428",
     "statoids:as_of_date":"2010-12-31",
     "statoids:capital":"Hsinchu",
@@ -299,7 +300,7 @@
         "gn:id":1675107,
         "gp:id":2347334,
         "hasc:id":"TW.TA.HH",
-        "qs:id":1135411,
+        "qs_pg:id":1135411,
         "wd:id":"Q249994"
     },
     "wof:country":"TW",
@@ -319,7 +320,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1565737748,
+    "wof:lastmodified":1566588755,
     "wof:name":"Hsinchu",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

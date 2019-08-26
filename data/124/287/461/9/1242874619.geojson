@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.61028,22.40889,120.65028,22.44889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kuei-hua-men",
         "Kuai-hua-men",
@@ -36,8 +40,7 @@
         "\u6b78\u5d07",
         "Chia-li-liao",
         "Gueichong",
-        "Guichong",
-        "Kuei-ch\u2019ung"
+        "Guichong"
     ],
     "name:zho_x_preferred":[
         "Kuei-ch\u2019ung"
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1242874619,
-    "wof:lastmodified":1537708973,
+    "wof:lastmodified":1566589888,
     "wof:name":"Guichong",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

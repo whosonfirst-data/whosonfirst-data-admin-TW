@@ -11,10 +11,13 @@
     "geom:longitude":121.04833,
     "gn:country":"TW",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:kor_x_preferred":[
         "\ud0c0\uc774\ub465 \ud604"
     ],
@@ -27,7 +30,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0430\u0439\u0434\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taidong Sian"
     ],
     "name:zho_x_preferred":[
@@ -52,7 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1668292,
-        "qs:id":1030876,
+        "qs_pg:id":1030876,
         "wk:page":"Taitung"
     },
     "wof:country":"TW",
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890468727,
-    "wof:lastmodified":1564180866,
+    "wof:lastmodified":1566589845,
     "wof:name":"Taitung",
     "wof:parent_id":1108499511,
     "wof:placetype":"county",

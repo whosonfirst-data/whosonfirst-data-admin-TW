@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.6889,24.0141,120.7289,24.0541",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u6469\u5929\u5dba",
-        "Motianling",
-        "Mo-t\u2019ien-ling"
+        "Motianling"
     ],
     "name:zho_x_preferred":[
         "Mo-t\u2019ien-ling"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1360309487,
-    "wof:lastmodified":1537709486,
+    "wof:lastmodified":1566589589,
     "wof:name":"Motianling",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.27456,24.90327,121.31456,24.94327",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u50d1\u611b"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276800421,
-    "wof:lastmodified":1537709829,
+    "wof:lastmodified":1566588969,
     "wof:name":"Qiao'ai",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

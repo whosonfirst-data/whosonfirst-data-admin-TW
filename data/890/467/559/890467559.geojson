@@ -11,10 +11,13 @@
     "geom:longitude":120.66145,
     "gn:country":"TW",
     "gn:fcode":"ADM2",
-    "gn:pop":1050000,
+    "gn:population":1050000,
     "iso:country":"TW",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:afr_x_preferred":[
         "Taichung"
     ],
@@ -186,7 +189,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0439\u0447\u0436\u0443\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tai Chung Municipality"
     ],
     "name:urd_x_preferred":[
@@ -230,7 +233,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1668392,
-        "qs:id":557987,
+        "qs_pg:id":557987,
         "wd:id":"Q245023",
         "wk:page":"Taichung"
     },
@@ -248,7 +251,7 @@
         }
     ],
     "wof:id":890467559,
-    "wof:lastmodified":1563280801,
+    "wof:lastmodified":1566589755,
     "wof:name":"Taichung",
     "wof:parent_id":1108497005,
     "wof:placetype":"county",

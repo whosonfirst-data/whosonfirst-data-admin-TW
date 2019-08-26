@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.84079,25.01598,121.88079,25.05598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Meijhusi",
         "Mei-chu-hsi"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226144829,
-    "wof:lastmodified":1537709758,
+    "wof:lastmodified":1566590169,
     "wof:name":"Meizhuxi",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

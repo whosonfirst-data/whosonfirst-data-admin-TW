@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"118.21212,24.42612,118.25212,24.46612",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u6e56\u4e95\u982d",
         "Hu-ching-t\u2019ou",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343876093,
-    "wof:lastmodified":1537709041,
+    "wof:lastmodified":1566588597,
     "wof:name":"Hujingtou",
     "wof:parent_id":85679635,
     "wof:placetype":"locality",

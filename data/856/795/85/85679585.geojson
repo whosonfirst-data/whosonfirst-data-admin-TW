@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":24.867046,
     "lbl:longitude":121.531676,
+    "lbl:min_zoom":8.0,
     "mps:latitude":24.867046,
     "mps:longitude":121.531676,
     "mz:hierarchy_label":1,
@@ -208,7 +209,7 @@
         "Ny Taipei City"
     ],
     "name:tam_x_preferred":[
-        "\u0ba8\u0bbf\u0baf\u0bc2  \u0b9f\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
+        "\u0ba8\u0bbf\u0baf\u0bc2 \u0b9f\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c28\u0c4d\u0c2f\u0c42 \u0c1f\u0c3e\u0c2f\u0c3f\u0c2a\u0c46\u0c2f\u0c4d \u0c38\u0c3f\u0c1f\u0c40"
@@ -225,7 +226,7 @@
     "name:ukr_x_preferred":[
         "\u041d\u043e\u0432\u0438\u0439 \u0422\u0430\u0439\u0431\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Taiwan Sheng"
     ],
     "name:urd_x_preferred":[
@@ -340,9 +341,9 @@
     "qs:type":"Special Municipality",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:area_km":"2053",
     "statoids:area_mi":"105",
     "statoids:as_of_date":"2010-12-31",
@@ -371,7 +372,7 @@
         "gp:id":20070569,
         "hasc:id":"TW.NT.TP",
         "iso:id":"TW-TPE",
-        "qs:id":902125,
+        "qs_pg:id":902125,
         "wd:id":"Q244898"
     },
     "wof:country":"TW",
@@ -391,11 +392,10 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1565737749,
+    "wof:lastmodified":1566588755,
     "wof:name":"New Taipei City",
     "wof:parent_id":1108808549,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"special municipality",
     "wof:population":4054467,
     "wof:population_rank":12,

@@ -11,8 +11,11 @@
     "geom:longitude":120.875015,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0645\u064a\u0627\u0648\u0644\u064a"
     ],
@@ -161,7 +164,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2303949,
-        "qs:id":890513,
+        "qs_pg:id":890513,
         "wd:id":"Q63706",
         "wk:page":"Miaoli County"
     },
@@ -179,7 +182,7 @@
         }
     ],
     "wof:id":890471445,
-    "wof:lastmodified":1563280695,
+    "wof:lastmodified":1566589700,
     "wof:name":"\u982d\u5c4b\u9109",
     "wof:parent_id":1108756879,
     "wof:placetype":"county",

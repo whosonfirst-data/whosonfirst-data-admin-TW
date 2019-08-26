@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.47745,23.94025,120.51745,23.98025",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yin-ting",
         "Yin-ting-shan"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1309839179,
-    "wof:lastmodified":1537708437,
+    "wof:lastmodified":1566589638,
     "wof:name":"Yindingshan",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

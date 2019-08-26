@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.69334,25.07723,121.73334,25.11723",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cdo_x_preferred":[
         "Ch\u00e9k-d\u016b-k\u1e73\u0306"
     ],
@@ -83,7 +87,7 @@
         }
     ],
     "wof:id":1226266909,
-    "wof:lastmodified":1564181374,
+    "wof:lastmodified":1566590130,
     "wof:name":"Qidu",
     "wof:parent_id":85679571,
     "wof:placetype":"locality",

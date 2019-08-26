@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.96352,23.95986,121.00352,23.99986",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hun_x_preferred":[
         "Danan"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1276334863,
-    "wof:lastmodified":1564179661,
+    "wof:lastmodified":1566588994,
     "wof:name":"Danan",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.46312,22.59056,120.50312,22.63056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hsi-shi-wei",
-        "\u897f\u52e2\u5c3e",
         "Sishihwei",
         "Xishiwei"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1226754017,
-    "wof:lastmodified":1537709982,
+    "wof:lastmodified":1566590110,
     "wof:name":"Xishiwei",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

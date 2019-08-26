@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.5711,23.7469,120.6111,23.7869",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yen-tsan"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1193276613,
-    "wof:lastmodified":1537708440,
+    "wof:lastmodified":1566589293,
     "wof:name":"Yanzan",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

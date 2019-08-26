@@ -26,13 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.5339,24.00449,120.5739,24.04449",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ch\u2019iao-t\u2019ou-ts\u2019un",
         "Qiaozitou",
-        "Ciaozihtou",
-        "Ch\u2019iao-tzu-t\u2019ou"
+        "Ciaozihtou"
     ],
     "name:zho_x_preferred":[
         "\u6a4b\u4ed4\u982d"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1326931057,
-    "wof:lastmodified":1537709382,
+    "wof:lastmodified":1566588252,
     "wof:name":"Qiaozitou",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.7253,24.8705,121.7653,24.9105",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:asm_x_preferred":[
         "\u09ac\u09bf\u09b9\u09c1"
     ],
@@ -75,7 +79,6 @@
     ],
     "name:und_x_variant":[
         "Tao-tiao-tzu",
-        "Bihu",
         "Pi-hu"
     ],
     "name:zho_x_preferred":[
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":1327041763,
-    "wof:lastmodified":1564178789,
+    "wof:lastmodified":1566588333,
     "wof:name":"Bihu",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

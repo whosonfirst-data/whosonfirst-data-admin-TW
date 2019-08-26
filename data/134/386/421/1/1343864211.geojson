@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.6613,24.05754,120.7013,24.09754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kanzihjiao",
-        "Kanzijiao",
-        "K\u2019an-tzu-chiao"
+        "Kanzijiao"
     ],
     "name:zho_x_preferred":[
         "\u5d01\u5b50\u8173"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1343864211,
-    "wof:lastmodified":1537709930,
+    "wof:lastmodified":1566588616,
     "wof:name":"Kanzijiao",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.80008,24.00213,120.84008,24.04213",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fucheng"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1293133999,
-    "wof:lastmodified":1564179417,
+    "wof:lastmodified":1566588830,
     "wof:name":"Fucheng",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

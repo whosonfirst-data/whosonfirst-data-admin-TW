@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.67836,25.09695,121.71836,25.13695",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tung-shih-chung-ku",
         "Zhonggu",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1360085545,
-    "wof:lastmodified":1537709284,
+    "wof:lastmodified":1566589594,
     "wof:name":"Zhonggu",
     "wof:parent_id":85679571,
     "wof:placetype":"locality",

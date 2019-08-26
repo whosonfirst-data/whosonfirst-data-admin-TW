@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.51333,24.88,121.55333,24.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Su-tzu-y\u00fcan"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226050073,
-    "wof:lastmodified":1537708642,
+    "wof:lastmodified":1566590150,
     "wof:name":"Suziyuan",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

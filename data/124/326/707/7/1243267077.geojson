@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.28917,22.73889,120.32917,22.77889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Qiaotou"
     ],
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":1243267077,
-    "wof:lastmodified":1564181125,
+    "wof:lastmodified":1566589991,
     "wof:name":"Qiaotou",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

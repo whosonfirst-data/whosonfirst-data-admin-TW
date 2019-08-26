@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.89153,24.56924,120.93153,24.60924",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shaping"
     ],
@@ -41,8 +45,7 @@
         "\u0428\u0435\u0439\u043f\u0438\u043d\u0433"
     ],
     "name:und_x_variant":[
-        "Jen-lung",
-        "Shaping"
+        "Jen-lung"
     ],
     "name:zho_x_preferred":[
         "Jen-Lurg-Ts\u2019un"
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1193275911,
-    "wof:lastmodified":1564180135,
+    "wof:lastmodified":1566589295,
     "wof:name":"Shaping",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

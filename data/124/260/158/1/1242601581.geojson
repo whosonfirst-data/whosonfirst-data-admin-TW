@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.45139,24.10444,120.49139,24.14444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tianjhongyang",
         "Tianzhongyang"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1242601581,
-    "wof:lastmodified":1537708572,
+    "wof:lastmodified":1566589909,
     "wof:name":"Tianzhongyang",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.36942,23.13174,120.40942,23.17174",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u7d05\u82b1\u5712"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326963415,
-    "wof:lastmodified":1537709958,
+    "wof:lastmodified":1566588375,
     "wof:name":"Honghuayuan",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

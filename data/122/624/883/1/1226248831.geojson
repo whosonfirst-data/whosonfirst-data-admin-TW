@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.555,24.32972,120.595,24.36972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Nanzhuang"
     ],
@@ -42,7 +46,6 @@
     ],
     "name:und_x_variant":[
         "Nanjhuang",
-        "Nanzhuang",
         "Nan-chuang"
     ],
     "name:vie_x_preferred":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1226248831,
-    "wof:lastmodified":1564181488,
+    "wof:lastmodified":1566590185,
     "wof:name":"Nanzhuang",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

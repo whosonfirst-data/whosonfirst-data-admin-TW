@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.339,22.65914,120.379,22.69914",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nan-shih-pu",
-        "\u5357\u52e2\u57d4",
         "Nanshibu",
         "Nanshihbu"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1293009573,
-    "wof:lastmodified":1537708853,
+    "wof:lastmodified":1566588764,
     "wof:name":"Nanshibu",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

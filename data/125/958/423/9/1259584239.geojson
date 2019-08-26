@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.557,24.0511,120.597,24.0911",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ts\u2019ang-sha-k\u2019eng",
         "\u8f46\u5c71\u5751",
         "Lu-sha-k\u2019eng",
-        "Lushankeng",
-        "Lu-shan-k\u2019eng"
+        "Lushankeng"
     ],
     "name:zho_x_preferred":[
         "Lu-shan-k\u2019eng"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1259584239,
-    "wof:lastmodified":1537708529,
+    "wof:lastmodified":1566590067,
     "wof:name":"Lushankeng",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

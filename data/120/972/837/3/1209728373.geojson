@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.41222,22.75333,120.45222,22.79333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wu-sung-chiao",
         "Wujiaosong",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1209728373,
-    "wof:lastmodified":1537708452,
+    "wof:lastmodified":1566589252,
     "wof:name":"Wujiaosong",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

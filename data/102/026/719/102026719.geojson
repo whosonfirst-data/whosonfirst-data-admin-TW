@@ -14,10 +14,13 @@
     "iso:country":"TW",
     "lbl:latitude":24.183366,
     "lbl:longitude":120.617696,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.183366,
     "mps:longitude":120.617696,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Xitun District"
     ],
@@ -32,9 +35,6 @@
     ],
     "name:pol_x_preferred":[
         "Xitun"
-    ],
-    "name:unk_x_variant":[
-        "\u897f\u5c6f"
     ],
     "name:vie_x_preferred":[
         "T\u00e2y \u0110\u1ed3n"
@@ -59,7 +59,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -84,7 +84,7 @@
         }
     ],
     "wof:id":102026719,
-    "wof:lastmodified":1563278975,
+    "wof:lastmodified":1566588428,
     "wof:name":"Xitun",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.5643,23.7311,120.6043,23.7711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u064a\u0627\u0646\u063a\u0627\u0646"
     ],
@@ -122,7 +126,7 @@
         }
     ],
     "wof:id":1259483713,
-    "wof:lastmodified":1564181194,
+    "wof:lastmodified":1566590028,
     "wof:name":"Yong'an",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

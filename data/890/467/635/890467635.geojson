@@ -11,10 +11,14 @@
     "geom:longitude":119.56667,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"119.46667,23.45,119.66667,23.65",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Xianxiashi"
     ],
@@ -36,7 +40,7 @@
     "name:rus_x_preferred":[
         "\u0433\u043e\u0440\u043e\u0434 \u0443\u0435\u0437\u0434\u043d\u043e\u0433\u043e \u043f\u043e\u0434\u0447\u0438\u043d\u0435\u043d\u0438\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ma-kung Shih"
     ],
     "name:vie_x_preferred":[
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1672227,
-        "qs:id":1030903,
+        "qs_pg:id":1030903,
         "wd:id":"Q713146",
         "wk:page":"County-controlled city"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890467635,
-    "wof:lastmodified":1563280811,
+    "wof:lastmodified":1566589759,
     "wof:name":"Magong Shi",
     "wof:parent_id":-1,
     "wof:placetype":"localadmin",

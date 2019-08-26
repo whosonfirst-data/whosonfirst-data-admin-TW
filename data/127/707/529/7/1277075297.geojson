@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.3554,23.86748,120.3954,23.90748",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ting-fan-chuang",
         "Ting-fan-she"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1277075297,
-    "wof:lastmodified":1537709699,
+    "wof:lastmodified":1566588941,
     "wof:name":"Dingfanshe",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

@@ -26,11 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.84876,24.34651,120.88876,24.38651",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:und_x_variant":[
-        "\u5927\u7a3b\u57d5"
-    ],
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "Ta-tao-ch\u2019eng"
     ],
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1293099427,
-    "wof:lastmodified":1537709461,
+    "wof:lastmodified":1566588775,
     "wof:name":"Dadaocheng",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

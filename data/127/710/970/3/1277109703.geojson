@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.74145,24.77434,121.78145,24.81434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kung-pu"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1277109703,
-    "wof:lastmodified":1537708962,
+    "wof:lastmodified":1566589102,
     "wof:name":"Gongbu",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

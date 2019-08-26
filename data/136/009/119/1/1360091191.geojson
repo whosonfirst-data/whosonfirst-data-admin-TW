@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.59138,22.83068,120.63138,22.87068",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jiouliaocun",
         "Chiu-liao"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1360091191,
-    "wof:lastmodified":1537709890,
+    "wof:lastmodified":1566589584,
     "wof:name":"Jiuliaocun",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

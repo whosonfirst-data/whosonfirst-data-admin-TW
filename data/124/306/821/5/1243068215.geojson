@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.77169,24.34197,120.81169,24.38197",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u8eca\u4e32\u5bee",
         "Chechuanliao"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1243068215,
-    "wof:lastmodified":1537709404,
+    "wof:lastmodified":1566589871,
     "wof:name":"Chechuanliao",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

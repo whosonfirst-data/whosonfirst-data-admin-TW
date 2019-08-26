@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"119.56209,23.65645,119.60209,23.69645",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Mazi"
     ],
@@ -36,8 +40,6 @@
     ],
     "name:und_x_variant":[
         "Ma-tzu",
-        "\u78bc\u4ed4",
-        "Mazi",
         "Mazih"
     ],
     "name:zho_x_preferred":[
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":1293589819,
-    "wof:lastmodified":1564179470,
+    "wof:lastmodified":1566588863,
     "wof:name":"Mazi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

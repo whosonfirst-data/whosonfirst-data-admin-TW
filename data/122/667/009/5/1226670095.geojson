@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.53083,22.43417,120.57083,22.47417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u6b66\u4e01\u6f6d",
-        "Wudingtan",
-        "Wu-ting-t\u2019an"
+        "Wudingtan"
     ],
     "name:zho_x_preferred":[
         "Wu-ting-t\u2019an"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1226670095,
-    "wof:lastmodified":1537708451,
+    "wof:lastmodified":1566590151,
     "wof:name":"Wudingtan",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

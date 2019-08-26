@@ -26,12 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.63361,24.42111,120.67361,24.46111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "Y\u00fcang-li",
-        "Y\u00fcan-li-chuang",
-        "Y\u00fcan-li-chen",
         "Fang-li",
         "Yuanli"
     ],
@@ -61,7 +62,7 @@
         }
     ],
     "wof:id":1209010345,
-    "wof:lastmodified":1537708436,
+    "wof:lastmodified":1566589129,
     "wof:name":"Yuanli",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

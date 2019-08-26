@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.73778,24.435,120.77778,24.475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ciedonglang",
         "Qiedonglang"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1259985649,
-    "wof:lastmodified":1537709454,
+    "wof:lastmodified":1566590012,
     "wof:name":"Qiedonglang",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

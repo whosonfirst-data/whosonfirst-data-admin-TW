@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.50483,22.5531,120.54483,22.5931",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kou-tzu-chien",
         "Ssu-chou",
-        "\u6cd7\u6d32",
         "Sizhou",
         "Sihjhou"
     ],
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1360309413,
-    "wof:lastmodified":1537708656,
+    "wof:lastmodified":1566589589,
     "wof:name":"Sizhou",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

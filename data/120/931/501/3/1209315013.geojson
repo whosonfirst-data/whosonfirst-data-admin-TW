@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.86686,24.06994,120.90686,24.10994",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siangjiaoshih",
         "Xiangjiaoshi",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209315013,
-    "wof:lastmodified":1537709448,
+    "wof:lastmodified":1566589108,
     "wof:name":"Xiangjiaoshi",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

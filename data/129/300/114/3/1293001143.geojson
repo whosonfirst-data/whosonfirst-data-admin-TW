@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.55583,23.49861,120.59583,23.53861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u74e6\u539d\u57d4"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293001143,
-    "wof:lastmodified":1537708478,
+    "wof:lastmodified":1566588770,
     "wof:name":"Wacuobu",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

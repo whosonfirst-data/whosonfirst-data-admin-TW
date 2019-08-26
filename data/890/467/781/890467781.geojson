@@ -11,8 +11,11 @@
     "geom:longitude":121.235279,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:deu_x_preferred":[
         "Dayuan"
     ],
@@ -74,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2306209,
-        "qs:id":237281,
+        "qs_pg:id":237281,
         "wd:id":"Q718384",
         "wk:page":"Dayuan District"
     },
@@ -92,7 +95,7 @@
         }
     ],
     "wof:id":890467781,
-    "wof:lastmodified":1563280839,
+    "wof:lastmodified":1566589769,
     "wof:name":"\u5927\u5712\u9109",
     "wof:parent_id":1108499669,
     "wof:placetype":"county",

@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.39254,22.66753,120.43254,22.70753",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lung-mu-ching",
-        "\u9f8d\u76ee\u6751",
         "Lung-mu",
         "Longmucun"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1343971165,
-    "wof:lastmodified":1537708905,
+    "wof:lastmodified":1566588456,
     "wof:name":"Longmucun",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

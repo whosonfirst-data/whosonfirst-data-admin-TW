@@ -11,10 +11,14 @@
     "geom:longitude":120.94934,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"120.84934,24.71641,121.04934,24.91641",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "District Nord"
     ],
@@ -29,9 +33,6 @@
     ],
     "name:kor_x_preferred":[
         "\ubca0\uc774\uad6c"
-    ],
-    "name:unk_x_variant":[
-        "\u5317\u5340"
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn B\u1eafc"
@@ -54,7 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":8356558,
-        "qs:id":1042696,
+        "qs_pg:id":1042696,
         "wk:page":"North District, Tainan"
     },
     "wof:country":"TW",
@@ -70,7 +71,7 @@
         }
     ],
     "wof:id":890467557,
-    "wof:lastmodified":1564180728,
+    "wof:lastmodified":1566589756,
     "wof:name":"Bei Qu",
     "wof:parent_id":85679557,
     "wof:placetype":"localadmin",

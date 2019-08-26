@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.45235,22.60605,120.49235,22.64605",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u793e\u4e0a\u6751",
         "Sheshangcun"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1344057217,
-    "wof:lastmodified":1537708713,
+    "wof:lastmodified":1566588589,
     "wof:name":"Sheshangcun",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

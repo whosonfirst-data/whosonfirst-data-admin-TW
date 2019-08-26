@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.63028,22.29056,120.67028,22.33056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Nanshi"
     ],
@@ -42,7 +46,6 @@
         "Nan-hsi-hu",
         "Nan-shih-hu-ch\u2019iao",
         "\u5357\u4e16",
-        "Nanshi",
         "Nanshih",
         "Nan-shih"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1260290847,
-    "wof:lastmodified":1564180201,
+    "wof:lastmodified":1566589335,
     "wof:name":"Nanshi",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

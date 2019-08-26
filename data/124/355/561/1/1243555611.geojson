@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.12967,24.98533,121.16967,25.02533",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u9802\u5927\u540c"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243555611,
-    "wof:lastmodified":1537709739,
+    "wof:lastmodified":1566589875,
     "wof:name":"Dingdatong",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

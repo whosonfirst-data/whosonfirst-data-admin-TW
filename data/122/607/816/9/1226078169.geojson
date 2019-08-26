@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.23583,24.91222,121.27583,24.95222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Longgang"
     ],
@@ -52,7 +56,6 @@
     "name:und_x_variant":[
         "She-tzu",
         "Chung-she",
-        "Longgang",
         "Lung-kang"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1226078169,
-    "wof:lastmodified":1564181537,
+    "wof:lastmodified":1566590210,
     "wof:name":"Longgang",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

@@ -26,13 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.55667,24.15173,120.59667,24.19173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jhepou",
         "Zhepou",
-        "Che-pu",
-        "Che-p\u2019ou"
+        "Che-pu"
     ],
     "name:zho_x_preferred":[
         "\u8517\u5ecd"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1343364871,
-    "wof:lastmodified":1537709396,
+    "wof:lastmodified":1566588436,
     "wof:name":"Zhepou",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

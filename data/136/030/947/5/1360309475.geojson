@@ -26,13 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.54753,24.09587,120.58753,24.13587",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u6e73\u5b50\u982d",
         "Nanzitou",
-        "Nanzihtou",
-        "Nan-tzu-t\u2019ou"
+        "Nanzihtou"
     ],
     "name:zho_x_preferred":[
         "\u6e73\u5b50\u982d"
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1360309475,
-    "wof:lastmodified":1537709932,
+    "wof:lastmodified":1566589590,
     "wof:name":"Nanzitou",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

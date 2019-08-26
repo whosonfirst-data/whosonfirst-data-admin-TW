@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.37293,23.5579,120.41293,23.5979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "Pen-ts\u2019o-ts\u2019un"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310525497,
-    "wof:lastmodified":1537708793,
+    "wof:lastmodified":1566589503,
     "wof:name":"Bencuo",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.75838,24.42739,120.79838,24.46739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chu-wei",
-        "\u7af9\u570d",
         "Zhuwei",
         "Jhuwei"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1259783899,
-    "wof:lastmodified":1537709256,
+    "wof:lastmodified":1566590051,
     "wof:name":"Zhuwei",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

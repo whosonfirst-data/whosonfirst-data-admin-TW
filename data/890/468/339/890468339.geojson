@@ -11,11 +11,15 @@
     "geom:longitude":120.6,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"120.5,22.3,120.7,22.5",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "\u678b\u5bee\u9109"
     ],
     "qs:name":"Fangliao Xiang",
@@ -32,7 +36,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1676846,
-        "qs:id":371344
+        "qs_pg:id":371344
     },
     "wof:country":"TW",
     "wof:created":1469053700,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":890468339,
-    "wof:lastmodified":1505343711,
+    "wof:lastmodified":1566589812,
     "wof:name":"Fangliao Xiang",
     "wof:parent_id":85679549,
     "wof:placetype":"localadmin",

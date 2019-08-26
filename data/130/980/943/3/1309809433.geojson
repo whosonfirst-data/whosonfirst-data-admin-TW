@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.8295,24.02423,120.8695,24.06423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Qidong"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1309809433,
-    "wof:lastmodified":1564180599,
+    "wof:lastmodified":1566589665,
     "wof:name":"Qidong",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

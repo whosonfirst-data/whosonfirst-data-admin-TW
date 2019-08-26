@@ -11,11 +11,15 @@
     "geom:longitude":121.51667,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"121.41667,23.73333,121.61667,23.93333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Shou-feng Hsiang"
     ],
     "name:zho_x_preferred":[
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1669121,
-        "qs:id":1027050
+        "qs_pg:id":1027050
     },
     "wof:country":"TW",
     "wof:created":1469053721,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890468695,
-    "wof:lastmodified":1505343712,
+    "wof:lastmodified":1566589822,
     "wof:name":"Shoufong Township",
     "wof:parent_id":85679607,
     "wof:placetype":"localadmin",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.13611,24.96972,121.17611,25.00972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shang-lo-wu",
         "Shangluocuo"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310106163,
-    "wof:lastmodified":1537709510,
+    "wof:lastmodified":1566589537,
     "wof:name":"Shangluocuo",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

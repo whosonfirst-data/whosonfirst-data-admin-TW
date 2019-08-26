@@ -11,10 +11,14 @@
     "geom:longitude":120.45,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"120.35,23.45,120.55,23.65",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Minxiong"
     ],
@@ -39,7 +43,7 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u043d\u044c\u0441\u044e\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Min-hsiung Hsiang"
     ],
     "name:vie_x_preferred":[
@@ -63,7 +67,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1671912,
-        "qs:id":1030897,
+        "qs_pg:id":1030897,
         "wd:id":"Q713803",
         "wk:page":"Minxiong, Chiayi"
     },
@@ -80,7 +84,7 @@
         }
     ],
     "wof:id":890468737,
-    "wof:lastmodified":1563280922,
+    "wof:lastmodified":1566589811,
     "wof:name":"Minxiong Xiang",
     "wof:parent_id":85679599,
     "wof:placetype":"localadmin",

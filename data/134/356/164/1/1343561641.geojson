@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.33556,23.46083,120.37556,23.50083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u9b5a\u5bee"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1343561641,
-    "wof:lastmodified":1537709538,
+    "wof:lastmodified":1566588553,
     "wof:name":"Yuliao",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

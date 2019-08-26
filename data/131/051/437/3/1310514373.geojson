@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.36934,22.50277,120.40934,22.54277",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u6e05\u6c34\u5dd6",
         "Cingshueiyan",
         "Qingshuiyan"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1310514373,
-    "wof:lastmodified":1537709345,
+    "wof:lastmodified":1566589567,
     "wof:name":"Qingshuiyan",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

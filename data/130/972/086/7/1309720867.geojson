@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.50656,22.93719,120.54656,22.97719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cihzihliao"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1309720867,
-    "wof:lastmodified":1537708493,
+    "wof:lastmodified":1566589668,
     "wof:name":"Ciziliao",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

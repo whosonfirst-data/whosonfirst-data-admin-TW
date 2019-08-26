@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"119.5989,23.57678,119.6389,23.61678",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Zhongliao"
     ],
@@ -81,7 +85,7 @@
         }
     ],
     "wof:id":1243296677,
-    "wof:lastmodified":1564181089,
+    "wof:lastmodified":1566589970,
     "wof:name":"Zhongliao",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

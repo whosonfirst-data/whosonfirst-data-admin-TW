@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.67769,24.76561,121.71769,24.80561",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u706b\u70ad\u5751"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1260310091,
-    "wof:lastmodified":1537709694,
+    "wof:lastmodified":1566589307,
     "wof:name":"Huotankeng",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.54465,23.97455,120.58465,24.01455",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u5927\u8def\u7554",
-        "Dalupan",
-        "Ta-lu-p\u2019an"
+        "Dalupan"
     ],
     "name:zho_x_preferred":[
         "Ta-lu-p\u2019an"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1209438883,
-    "wof:lastmodified":1537709489,
+    "wof:lastmodified":1566589239,
     "wof:name":"Dalupan",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

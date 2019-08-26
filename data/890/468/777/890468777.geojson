@@ -11,10 +11,14 @@
     "geom:longitude":121.55,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"121.45,24.9,121.65,25.1",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Wenshan"
     ],
@@ -57,9 +61,6 @@
     "name:ukr_x_preferred":[
         "\u0412\u0435\u043d\u044c\u0448\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
-        "\u6587\u5c71\u5340"
-    ],
     "name:vie_x_preferred":[
         "V\u0103n S\u01a1n"
     ],
@@ -86,7 +87,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1678145,
-        "qs:id":1030950,
+        "qs_pg:id":1030950,
         "wd:id":"Q271143",
         "wk:page":"Wenshan District"
     },
@@ -103,7 +104,7 @@
         }
     ],
     "wof:id":890468777,
-    "wof:lastmodified":1563280955,
+    "wof:lastmodified":1566589826,
     "wof:name":"Wenshan Qu",
     "wof:parent_id":85679583,
     "wof:placetype":"localadmin",

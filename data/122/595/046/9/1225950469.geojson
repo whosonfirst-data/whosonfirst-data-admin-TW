@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.28145,23.5397,120.32145,23.5797",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u8607\u539d\u5bee"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1225950469,
-    "wof:lastmodified":1537708642,
+    "wof:lastmodified":1566590104,
     "wof:name":"Sucuoliao",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

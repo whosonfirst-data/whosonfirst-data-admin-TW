@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.74979,24.14106,120.78979,24.18106",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Poizihkeng"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1260080599,
-    "wof:lastmodified":1537708769,
+    "wof:lastmodified":1566589317,
     "wof:name":"Pouzikeng",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

@@ -11,8 +11,12 @@
     "geom:longitude":121.368026,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"121.348026,24.927405,121.388026,24.967405",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Yingge"
     ],
@@ -82,7 +86,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2306214,
-        "qs:id":1240186,
+        "qs_pg:id":1240186,
         "wd:id":"Q516297",
         "wk:page":"Yingge District"
     },
@@ -99,7 +103,7 @@
         }
     ],
     "wof:id":890467977,
-    "wof:lastmodified":1563280812,
+    "wof:lastmodified":1566589760,
     "wof:name":"\u9daf\u6b4c\u93ae",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

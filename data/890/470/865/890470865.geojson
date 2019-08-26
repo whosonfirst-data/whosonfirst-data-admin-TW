@@ -11,8 +11,12 @@
     "geom:longitude":120.650886,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.630886,23.174946,120.670886,23.214946",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Xiaolin"
     ],
@@ -55,7 +59,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28753913,
-        "qs:id":907491,
+        "qs_pg:id":907491,
         "wd:id":"Q715940",
         "wk:page":"Siaolin Village, Kaohsiung"
     },
@@ -72,7 +76,7 @@
         }
     ],
     "wof:id":890470865,
-    "wof:lastmodified":1563280776,
+    "wof:lastmodified":1566589743,
     "wof:name":"\u5c0f\u6797\u6751",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

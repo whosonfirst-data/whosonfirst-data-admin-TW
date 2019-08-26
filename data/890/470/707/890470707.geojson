@@ -11,8 +11,11 @@
     "geom:longitude":120.371936,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.3669355,22.5607195,120.3769355,22.5707195",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:ceb_x_preferred":[
         "\u016cnd\u014fk-kun"
     ],
@@ -71,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28754033,
-        "qs:id":65830,
+        "qs_pg:id":65830,
         "wd:id":"Q251951",
         "wk:page":"Kyonghung County"
     },
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":890470707,
-    "wof:lastmodified":1563280724,
+    "wof:lastmodified":1566589715,
     "wof:name":"\u677e\u5c71\u91cc",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

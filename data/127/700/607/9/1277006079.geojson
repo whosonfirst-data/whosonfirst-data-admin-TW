@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.7675,23.69583,120.8075,23.73583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shihbagu",
         "Shih-pa-ku"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1277006079,
-    "wof:lastmodified":1537709667,
+    "wof:lastmodified":1566588949,
     "wof:name":"Shibagu",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

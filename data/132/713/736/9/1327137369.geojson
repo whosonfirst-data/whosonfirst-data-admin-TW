@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.36326,22.61183,120.40326,22.65183",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0628\u064a\u062f\u064a\u0646\u063a"
     ],
@@ -100,10 +104,6 @@
     "name:ukr_x_preferred":[
         "\u041f\u0456\u0434\u0456\u043d\u0433"
     ],
-    "name:und_x_variant":[
-        "\u57e4\u9802",
-        "Piding"
-    ],
     "name:uzb_x_preferred":[
         "Piding"
     ],
@@ -143,7 +143,7 @@
         }
     ],
     "wof:id":1327137369,
-    "wof:lastmodified":1564178694,
+    "wof:lastmodified":1566588264,
     "wof:name":"Piding",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

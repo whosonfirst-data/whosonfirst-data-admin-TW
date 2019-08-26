@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.96802,23.92684,121.00802,23.96684",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siadongbu",
         "Hsia-tung-pu"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1243172381,
-    "wof:lastmodified":1537709130,
+    "wof:lastmodified":1566589986,
     "wof:name":"Xiadongbu",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

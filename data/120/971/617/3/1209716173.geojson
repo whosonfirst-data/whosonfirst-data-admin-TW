@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.75654,24.41028,120.79654,24.45028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dakeng"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1209716173,
-    "wof:lastmodified":1564179906,
+    "wof:lastmodified":1566589159,
     "wof:name":"Dakeng",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

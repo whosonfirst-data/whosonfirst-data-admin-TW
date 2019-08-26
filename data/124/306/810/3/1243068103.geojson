@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.33306,22.89222,120.37306,22.93222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u8349\u57e4"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243068103,
-    "wof:lastmodified":1537709648,
+    "wof:lastmodified":1566589871,
     "wof:name":"Caopi",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

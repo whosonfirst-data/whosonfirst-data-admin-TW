@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.76926,24.44389,120.80926,24.48389",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u5c71\u6392",
         "Shanpai"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1344263191,
-    "wof:lastmodified":1537708726,
+    "wof:lastmodified":1566588569,
     "wof:name":"Shanpai",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

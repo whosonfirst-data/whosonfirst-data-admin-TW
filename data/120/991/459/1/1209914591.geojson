@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.48299,23.48928,120.52299,23.52928",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jyuezih"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1209914591,
-    "wof:lastmodified":1537709851,
+    "wof:lastmodified":1566589119,
     "wof:name":"Juezi",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":120.3,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"120.2,23.3,120.4,23.5",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lucao"
     ],
@@ -39,7 +43,7 @@
     "name:rus_x_preferred":[
         "\u041b\u0443\u0446\u0430\u043e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lucao Siang"
     ],
     "name:vie_x_preferred":[
@@ -67,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1672305,
-        "qs:id":1030906,
+        "qs_pg:id":1030906,
         "wd:id":"Q715873",
         "wk:page":"Lucao, Chiayi"
     },
@@ -84,7 +88,7 @@
         }
     ],
     "wof:id":890468743,
-    "wof:lastmodified":1563280987,
+    "wof:lastmodified":1566589841,
     "wof:name":"Lucao Xiang",
     "wof:parent_id":85679599,
     "wof:placetype":"localadmin",

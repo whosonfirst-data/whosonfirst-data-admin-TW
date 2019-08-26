@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.5015,22.7202,120.5415,22.7602",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Luoyang"
     ],
@@ -183,7 +187,6 @@
     ],
     "name:und_x_variant":[
         "Pan-fen-tzu",
-        "Luoyang",
         "Lo-yang"
     ],
     "name:urd_x_preferred":[
@@ -218,7 +221,7 @@
         }
     ],
     "wof:id":1209639327,
-    "wof:lastmodified":1564179870,
+    "wof:lastmodified":1566589134,
     "wof:name":"Luoyang",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

@@ -11,8 +11,11 @@
     "geom:longitude":121.592731,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:eng_x_preferred":[
         "Ji'an"
     ],
@@ -37,7 +40,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2296261,
-        "qs:id":1207576
+        "qs_pg:id":1207576
     },
     "wof:country":"TW",
     "wof:created":1469053654,
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":890467567,
-    "wof:lastmodified":1555220351,
+    "wof:lastmodified":1566589754,
     "wof:name":"\u5409\u5b89\u9109",
     "wof:parent_id":1108498083,
     "wof:placetype":"county",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.44639,23.36611,120.48639,23.40611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Neicinei"
     ],
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1276341073,
-    "wof:lastmodified":1537708847,
+    "wof:lastmodified":1566589002,
     "wof:name":"Neiqinei",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

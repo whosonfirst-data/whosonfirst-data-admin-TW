@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.89858,23.82197,120.93858,23.86197",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hu-lu-lun"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310502443,
-    "wof:lastmodified":1537709781,
+    "wof:lastmodified":1566589552,
     "wof:name":"Hululun",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

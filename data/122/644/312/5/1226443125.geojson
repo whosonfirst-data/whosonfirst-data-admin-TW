@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.53694,23.71861,121.57694,23.75861",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Niouliaokeng",
         "Niuliaokeng"
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1226443125,
-    "wof:lastmodified":1537709627,
+    "wof:lastmodified":1566590121,
     "wof:name":"Niuliaokeng",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

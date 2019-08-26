@@ -26,11 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.53639,23.74556,121.57639,23.78556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:und_x_variant":[
-        "\u8708\u86a3\u5751"
-    ],
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "Wu-kung-k\u2019eng"
     ],
@@ -62,7 +63,7 @@
         }
     ],
     "wof:id":1344080623,
-    "wof:lastmodified":1537709502,
+    "wof:lastmodified":1566588479,
     "wof:name":"Wugongkeng",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

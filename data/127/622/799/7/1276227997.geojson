@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.03801,22.75112,121.07801,22.79112",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Beinan"
     ],
@@ -44,8 +48,7 @@
         "\ubca0\uc774\ub09c\ud5a5"
     ],
     "name:und_x_variant":[
-        "Pei-nan-ts'un",
-        "Beinan"
+        "Pei-nan-ts'un"
     ],
     "name:vie_x_preferred":[
         "Ti Nam"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1276227997,
-    "wof:lastmodified":1564179707,
+    "wof:lastmodified":1566589029,
     "wof:name":"Pei-nan",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

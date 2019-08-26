@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.56861,23.5325,120.60861,23.5725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shueibolin",
         "Shuibolin",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193137923,
-    "wof:lastmodified":1537709545,
+    "wof:lastmodified":1566589276,
     "wof:name":"Shuibolin",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.58379,25.05391,121.62379,25.09391",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shihsihfen",
         "Shisifen",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343958485,
-    "wof:lastmodified":1537708689,
+    "wof:lastmodified":1566588520,
     "wof:name":"Shisifen",
     "wof:parent_id":85679583,
     "wof:placetype":"locality",

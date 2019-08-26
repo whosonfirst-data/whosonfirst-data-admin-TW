@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.79167,21.98972,120.83167,22.02972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hsieh-ma-li",
         "She-ma",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1309911913,
-    "wof:lastmodified":1537708718,
+    "wof:lastmodified":1566589625,
     "wof:name":"Shemali",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.73743,24.59257,120.77743,24.63257",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gongsihliao",
         "Kung-ssu-liao-chuang",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193276213,
-    "wof:lastmodified":1537708961,
+    "wof:lastmodified":1566589292,
     "wof:name":"Gongsiliao",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

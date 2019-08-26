@@ -11,10 +11,14 @@
     "geom:longitude":121.51667,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"121.41667,24.95,121.61667,25.15",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cdo_x_preferred":[
         "D\u1e73\u0306ng-c\u00e9ng-k\u1e73\u0306"
     ],
@@ -38,9 +42,6 @@
     ],
     "name:pol_x_preferred":[
         "Zhongzheng"
-    ],
-    "name:unk_x_variant":[
-        "\u4e2d\u6b63\u5340"
     ],
     "name:vie_x_preferred":[
         "Trung Ch\u00ednh"
@@ -70,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1678974,
-        "qs:id":350647,
+        "qs_pg:id":350647,
         "wd:id":"Q712871",
         "wk:page":"Zhongzheng District, Keelung"
     },
@@ -87,7 +88,7 @@
         }
     ],
     "wof:id":890468273,
-    "wof:lastmodified":1563280930,
+    "wof:lastmodified":1566589815,
     "wof:name":"Zhongzheng Qu",
     "wof:parent_id":85679583,
     "wof:placetype":"localadmin",

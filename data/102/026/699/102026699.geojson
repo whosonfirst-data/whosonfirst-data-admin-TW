@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001194,
-    "geom:area_square_m":13697392.530692,
+    "geom:area_square_m":13697392.53067,
     "geom:bbox":"120.812467551,21.9085388441,120.864778825,21.9469782731",
     "geom:latitude":21.926286,
     "geom:longitude":120.837624,
@@ -14,10 +14,13 @@
     "iso:country":"TW",
     "lbl:latitude":21.917576,
     "lbl:longitude":120.832891,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.917576,
     "mps:longitude":120.832891,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:aze_x_preferred":[
         "Ayd\u0131nk\u0259nd"
     ],
@@ -39,7 +42,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102026699,
-    "wof:lastmodified":1501221471,
+    "wof:lastmodified":1566588426,
     "wof:name":"Kending",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

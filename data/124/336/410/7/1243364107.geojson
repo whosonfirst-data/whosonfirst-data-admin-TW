@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.9235,24.65427,120.9635,24.69427",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wan-chiao"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243364107,
-    "wof:lastmodified":1537709723,
+    "wof:lastmodified":1566589862,
     "wof:name":"Wanjiao",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

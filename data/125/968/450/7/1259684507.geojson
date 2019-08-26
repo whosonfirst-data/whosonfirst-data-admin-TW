@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.3215,24.98074,121.3615,25.02074",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guosi",
         "Guoxi",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259684507,
-    "wof:lastmodified":1537709942,
+    "wof:lastmodified":1566590062,
     "wof:name":"Guoxi",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

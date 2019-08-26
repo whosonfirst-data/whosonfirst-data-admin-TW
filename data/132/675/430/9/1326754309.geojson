@@ -26,13 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.5903,24.04729,120.6303,24.08729",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Syuesiaokeng",
         "Hs\u00fceh-hsiao-k\u2019emg",
-        "Xuexiaokeng",
-        "Hs\u00fceh-hsiao-k\u2019eng"
+        "Xuexiaokeng"
     ],
     "name:zho_x_preferred":[
         "\u5b78\u6821\u5751"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1326754309,
-    "wof:lastmodified":1537709484,
+    "wof:lastmodified":1566588231,
     "wof:name":"Xuexiaokeng",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

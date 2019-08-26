@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.26189,24.83794,121.30189,24.87794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Neijha",
         "Nei-cha"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1225845491,
-    "wof:lastmodified":1537709831,
+    "wof:lastmodified":1566590225,
     "wof:name":"Neizha",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

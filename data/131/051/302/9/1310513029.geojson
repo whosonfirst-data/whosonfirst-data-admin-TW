@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.61771,24.91051,121.65771,24.95051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u6f6d\u8170"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310513029,
-    "wof:lastmodified":1537708599,
+    "wof:lastmodified":1566589567,
     "wof:name":"Tanyao",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

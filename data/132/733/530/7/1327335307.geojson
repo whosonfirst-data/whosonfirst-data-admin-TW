@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.35322,25.04652,121.39322,25.08652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Yuankuzih",
         "Yuankuzi"
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1327335307,
-    "wof:lastmodified":1537708436,
+    "wof:lastmodified":1566588309,
     "wof:name":"Yuankuzi",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

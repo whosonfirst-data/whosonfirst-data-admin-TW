@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.0705,22.7548,121.1105,22.7948",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Fengtian"
     ],
@@ -42,7 +46,6 @@
     ],
     "name:und_x_variant":[
         "Ta-yin-liao",
-        "Fengtian",
         "Fongtian",
         "Yen-liao"
     ],
@@ -72,7 +75,7 @@
         }
     ],
     "wof:id":1209515585,
-    "wof:lastmodified":1564179982,
+    "wof:lastmodified":1566589206,
     "wof:name":"Fengtian",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

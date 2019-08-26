@@ -26,13 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.6415,23.98143,120.6815,24.02143",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u7530\u539d\u5b50",
         "Tiancuozi",
-        "Tiancuozih",
-        "T\u2019ien-ts\u2019o-tzu"
+        "Tiancuozih"
     ],
     "name:zho_x_preferred":[
         "T\u2019ien-ts\u2019o-tzu"
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1243068099,
-    "wof:lastmodified":1537708564,
+    "wof:lastmodified":1566589874,
     "wof:name":"Tiancuozi",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

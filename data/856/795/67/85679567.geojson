@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":24.560299,
     "lbl:longitude":121.639921,
+    "lbl:min_zoom":8.0,
     "mps:latitude":24.560299,
     "mps:longitude":121.639921,
     "mz:hierarchy_label":1,
@@ -193,9 +194,9 @@
     "qs:type":"County",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:area_km":"2144",
     "statoids:as_of_date":"2010-12-31",
     "statoids:capital":"Ilan",
@@ -219,7 +220,7 @@
         "gn:id":1674197,
         "gp:id":2347336,
         "hasc:id":"TW.TA.IL",
-        "qs:id":1135413,
+        "qs_pg:id":1135413,
         "unlc:id":"TW-ILA",
         "wd:id":"Q680842"
     },
@@ -240,7 +241,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1565737748,
+    "wof:lastmodified":1566588754,
     "wof:name":"Yilan",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

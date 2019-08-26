@@ -11,11 +11,15 @@
     "geom:longitude":121.29696,
     "gn:country":"TW",
     "gn:fcode":"PPL",
-    "gn:pop":402014,
+    "gn:population":402014,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"121.27696,24.97368,121.31696,25.01368",
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:rus_x_preferred":[
         "\u0422\u0430\u043e\u044e\u0430\u043d\u044c"
     ],
@@ -41,7 +45,7 @@
     "wof:concordances":{
         "gn:id":6696918,
         "gp:id":2298866,
-        "qs:id":923004
+        "qs_pg:id":923004
     },
     "wof:country":"TW",
     "wof:created":1469053755,
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":890469231,
-    "wof:lastmodified":1505343712,
+    "wof:lastmodified":1566589800,
     "wof:name":"\u6843\u5712\u5e02",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

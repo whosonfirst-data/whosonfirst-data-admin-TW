@@ -26,13 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.5175,22.41444,120.5575,22.45444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u56db\u584a\u539d",
         "Sihkuaicuo",
-        "Sikuaicuo",
-        "Ssu-k\u2019uai-ts\u2019o"
+        "Sikuaicuo"
     ],
     "name:zho_x_preferred":[
         "Ssu-k\u2019uai-ts\u2019o"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1209515763,
-    "wof:lastmodified":1537708653,
+    "wof:lastmodified":1566589210,
     "wof:name":"Sikuaicuo",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

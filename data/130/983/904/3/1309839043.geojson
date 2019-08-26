@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.59878,22.72374,120.63878,22.76374",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hsin-ta-lu-kuan",
         "Kuang-hsing-ts\u2019un",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1309839043,
-    "wof:lastmodified":1537708979,
+    "wof:lastmodified":1566589636,
     "wof:name":"Guangxing",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

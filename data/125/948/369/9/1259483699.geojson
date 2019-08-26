@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.54264,24.99293,121.58264,25.03293",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u7834\u8eca\u57d4"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259483699,
-    "wof:lastmodified":1537709909,
+    "wof:lastmodified":1566590030,
     "wof:name":"Pochebu",
     "wof:parent_id":85679583,
     "wof:placetype":"locality",

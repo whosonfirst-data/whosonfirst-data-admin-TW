@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.55409,24.97777,121.59409,25.01777",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Touyankuei",
         "Touyankui"
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1193016277,
-    "wof:lastmodified":1537708533,
+    "wof:lastmodified":1566589268,
     "wof:name":"Touyankui",
     "wof:parent_id":85679583,
     "wof:placetype":"locality",

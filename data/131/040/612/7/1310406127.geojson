@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.70478,24.11945,120.74478,24.15945",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u4e09\u53c9",
-        "Sancha",
-        "San-ch\u2019a"
+        "Sancha"
     ],
     "name:zho_x_preferred":[
         "San-ch\u2019a"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1310406127,
-    "wof:lastmodified":1537708767,
+    "wof:lastmodified":1566589490,
     "wof:name":"Sancha",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

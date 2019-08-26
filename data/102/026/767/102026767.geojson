@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000281,
-    "geom:area_square_m":3123291.766268,
+    "geom:area_square_m":3123291.766271,
     "geom:bbox":"119.944231071,26.1513508184,119.964216087,26.1693860335",
     "geom:latitude":26.160369,
     "geom:longitude":119.954224,
@@ -14,10 +14,13 @@
     "iso:country":"TW",
     "lbl:latitude":26.160368,
     "lbl:longitude":119.954223,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":26.160368,
     "mps:longitude":119.954223,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u4ecb\u58fd\u6751"
     ],
@@ -36,7 +39,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":102026767,
-    "wof:lastmodified":1501273020,
+    "wof:lastmodified":1566588422,
     "wof:name":"Jieshoucun",
     "wof:parent_id":85679637,
     "wof:placetype":"locality",

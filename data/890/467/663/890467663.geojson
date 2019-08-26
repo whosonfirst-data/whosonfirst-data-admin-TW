@@ -11,17 +11,21 @@
     "geom:longitude":121.06667,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"120.96667,24.88333,121.16667,25.08333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Sir Taoyuan"
     ],
     "name:eng_x_preferred":[
         "Taoyuan County"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsin-wu"
     ],
     "name:zho_x_preferred":[
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1674774,
-        "qs:id":1151924,
+        "qs_pg:id":1151924,
         "wd:id":"Q25303104",
         "wk:page":"Taoyuan County, Taiwan"
     },
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890467663,
-    "wof:lastmodified":1563280833,
+    "wof:lastmodified":1566589767,
     "wof:name":"Xinwu Xiang",
     "wof:parent_id":85679589,
     "wof:placetype":"localadmin",

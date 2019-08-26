@@ -26,13 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.51147,24.07252,120.55147,24.11252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jhao\u2019ancuo",
-        "Zhao\u2019ancuo",
-        "Chao-an-li",
-        "Chao-an-ts\u2019o"
+        "Chao-an-li"
     ],
     "name:zho_x_preferred":[
         "\u8a54\u5b89\u539d"
@@ -64,7 +66,7 @@
         }
     ],
     "wof:id":1343762661,
-    "wof:lastmodified":1537709408,
+    "wof:lastmodified":1566588500,
     "wof:name":"Zhao'ancuo",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

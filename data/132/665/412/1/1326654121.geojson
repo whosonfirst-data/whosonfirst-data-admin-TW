@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.84213,24.55244,120.88213,24.59244",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u5408\u6210"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326654121,
-    "wof:lastmodified":1537709196,
+    "wof:lastmodified":1566588379,
     "wof:name":"Hecheng",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

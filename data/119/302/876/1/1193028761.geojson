@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.23,22.79667,120.27,22.83667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pen-chou-ts\u2019un",
         "Pen-chou",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1193028761,
-    "wof:lastmodified":1537708795,
+    "wof:lastmodified":1566589290,
     "wof:name":"Benzhou",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

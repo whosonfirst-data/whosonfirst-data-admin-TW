@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.51389,23.6425,120.55389,23.6825",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u9802\u67f4"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326963461,
-    "wof:lastmodified":1537708559,
+    "wof:lastmodified":1566588375,
     "wof:name":"Dingchai",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

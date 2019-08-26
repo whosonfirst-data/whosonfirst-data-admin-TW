@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.5938,25.23851,121.6338,25.27851",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wujhaolun",
         "Wu-chao-lun"
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226541707,
-    "wof:lastmodified":1537708468,
+    "wof:lastmodified":1566590209,
     "wof:name":"Wuzhaolun",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

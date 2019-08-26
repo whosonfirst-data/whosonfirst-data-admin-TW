@@ -11,8 +11,12 @@
     "geom:longitude":120.677604,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.657604,23.188139,120.697604,23.228139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0642\u0631\u064a\u0629 \u0635\u064a\u0646\u064a\u0629"
     ],
@@ -73,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28753908,
-        "qs:id":996197,
+        "qs_pg:id":996197,
         "wd:id":"Q13100073",
         "wk:page":"Villages of the People's Republic of China"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890469807,
-    "wof:lastmodified":1563280902,
+    "wof:lastmodified":1566589800,
     "wof:name":"\u6c11\u65cf\u6751",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.68211,23.44731,120.72211,23.48731",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Leye"
     ],
@@ -41,7 +45,6 @@
         "Lo-yeh-she",
         "La-la-wu-ya-she",
         "La-la-wu-ya",
-        "Leye",
         "Le-yeh"
     ],
     "name:zho_x_preferred":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1259789531,
-    "wof:lastmodified":1564181222,
+    "wof:lastmodified":1566590043,
     "wof:name":"Leye",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

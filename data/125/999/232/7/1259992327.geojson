@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.51822,22.84147,120.55822,22.88147",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Neiliouliao",
         "Nei-liu-liao"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1259992327,
-    "wof:lastmodified":1537708842,
+    "wof:lastmodified":1566590023,
     "wof:name":"Neiliuliao",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

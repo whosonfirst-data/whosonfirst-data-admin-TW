@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"119.95583,26.19583,119.99583,26.23583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pan-li",
         "Pan-li-ts\u2019un",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1344174799,
-    "wof:lastmodified":1537708816,
+    "wof:lastmodified":1566588569,
     "wof:name":"Banlicun",
     "wof:parent_id":85679637,
     "wof:placetype":"locality",
