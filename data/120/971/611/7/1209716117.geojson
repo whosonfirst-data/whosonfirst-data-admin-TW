@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"119.66943,23.54117,119.70943,23.58117",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hou-wan",
-        "\u5f8c\u7063",
         "Houwan"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209716117,
-    "wof:lastmodified":1537709975,
+    "wof:lastmodified":1566589159,
     "wof:name":"Houwan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

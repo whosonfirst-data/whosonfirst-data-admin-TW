@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.69667,24.73,121.73667,24.77",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chin-pao-li-ku"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276227989,
-    "wof:lastmodified":1537709339,
+    "wof:lastmodified":1566589029,
     "wof:name":"Jinbaoligu",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.68656,23.81536,120.72656,23.85536",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siawanzih",
         "Hsia-wan-tzu"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1210017535,
-    "wof:lastmodified":1537709808,
+    "wof:lastmodified":1566589254,
     "wof:name":"Xiawanzi",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

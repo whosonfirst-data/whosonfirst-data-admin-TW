@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000274,
-    "geom:area_square_m":3126206.228272,
+    "geom:area_square_m":3126206.228276,
     "geom:bbox":"120.340006184,22.6810280693,120.359456794,22.699076247",
     "geom:latitude":22.690052,
     "geom:longitude":120.349731,
@@ -14,11 +14,14 @@
     "iso:country":"TW",
     "lbl:latitude":22.690052,
     "lbl:longitude":120.349731,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":22.690052,
     "mps:longitude":120.349731,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Jen-wu-chuang"
     ],
     "name:zho_x_preferred":[
@@ -39,7 +42,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":102026705,
-    "wof:lastmodified":1501221472,
+    "wof:lastmodified":1566588422,
     "wof:name":"Renwu",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

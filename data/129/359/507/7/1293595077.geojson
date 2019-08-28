@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.58881,24.6568,121.62881,24.6968",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Datong"
     ],
@@ -44,8 +48,7 @@
         "\ub2e4\ud241\ud5a5"
     ],
     "name:und_x_variant":[
-        "Le-shui",
-        "Datong"
+        "Le-shui"
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ea1i \u0110\u1ed3ng"
@@ -81,7 +84,7 @@
         }
     ],
     "wof:id":1293595077,
-    "wof:lastmodified":1564179441,
+    "wof:lastmodified":1566588845,
     "wof:name":"Datong",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

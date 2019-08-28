@@ -26,12 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.59871,24.04079,120.63871,24.08079",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u5751\u53e3",
-        "Kengkou",
-        "K\u2019eng-k\u2019ou"
+        "Kengkou"
     ],
     "name:zho_x_preferred":[
         "\u5751\u53e3"
@@ -62,7 +64,7 @@
         }
     ],
     "wof:id":1260104239,
-    "wof:lastmodified":1537709934,
+    "wof:lastmodified":1566589348,
     "wof:name":"Kengkou",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

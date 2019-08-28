@@ -11,10 +11,14 @@
     "geom:longitude":120.7525,
     "gn:country":"TW",
     "gn:fcode":"PPL",
-    "gn:pop":19599,
+    "gn:population":19599,
     "iso:country":"TW",
+    "lbl:bbox":"120.7325,23.72639,120.7725,23.76639",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":10.0,
     "name:ceb_x_preferred":[
         "Lugu"
     ],
@@ -30,7 +34,7 @@
     "name:swe_x_preferred":[
         "Lugu"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Lu-ku"
     ],
     "name:zho_x_preferred":[
@@ -54,7 +58,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1672551,
-        "qs:id":558209,
+        "qs_pg:id":558209,
         "wk:page":"Lugu"
     },
     "wof:country":"TW",
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":890467561,
-    "wof:lastmodified":1564180728,
+    "wof:lastmodified":1566589755,
     "wof:name":"Lugu",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

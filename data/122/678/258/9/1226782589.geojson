@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.55863,23.35979,120.59863,23.39979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u6c38\u5bcc\u8def\u56d7"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226782589,
-    "wof:lastmodified":1537709879,
+    "wof:lastmodified":1566590179,
     "wof:name":"Yongfulukou",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

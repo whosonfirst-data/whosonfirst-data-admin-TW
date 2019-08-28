@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.42765,22.43434,120.46765,22.47434",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hou-i-tzu",
         "Houwunzih",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1259507509,
-    "wof:lastmodified":1537709176,
+    "wof:lastmodified":1566590056,
     "wof:name":"Houwenzi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

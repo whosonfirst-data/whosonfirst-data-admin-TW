@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.21694,25.00132,121.25694,25.04132",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ciding"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276233869,
-    "wof:lastmodified":1537709745,
+    "wof:lastmodified":1566589056,
     "wof:name":"Qiding",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

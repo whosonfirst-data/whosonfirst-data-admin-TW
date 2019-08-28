@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.71111,24.45889,120.75111,24.49889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u5927\u67b7\u982d"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1276228095,
-    "wof:lastmodified":1537708640,
+    "wof:lastmodified":1566589034,
     "wof:name":"Dajiatou",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

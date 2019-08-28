@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.50111,22.44944,120.54111,22.48944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lan-t\u2019ou-lu",
         "\u6feb\u982d",
         "Lantou",
-        "Sheng-nung-lu",
-        "Lan-t\u2019ou"
+        "Sheng-nung-lu"
     ],
     "name:zho_x_preferred":[
         "Lan-t\u2019ou"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1309712717,
-    "wof:lastmodified":1537708715,
+    "wof:lastmodified":1566589644,
     "wof:name":"Lantou",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

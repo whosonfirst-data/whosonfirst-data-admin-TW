@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.28048,23.63906,120.32048,23.67906",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Erh-fang-liao"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1243577867,
-    "wof:lastmodified":1537709250,
+    "wof:lastmodified":1566589932,
     "wof:name":"Erfangliao",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

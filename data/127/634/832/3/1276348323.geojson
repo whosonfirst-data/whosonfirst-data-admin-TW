@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.54667,22.88,120.58667,22.92",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hsi-p\u2019ien-shan"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1276348323,
-    "wof:lastmodified":1537709066,
+    "wof:lastmodified":1566588998,
     "wof:name":"Xipianshan",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

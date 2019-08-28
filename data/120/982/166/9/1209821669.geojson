@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.39936,23.73628,120.43936,23.77628",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hak_x_preferred":[
         "Thi\u00e8n-m\u00ee-hi\u00f4ng"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1209821669,
-    "wof:lastmodified":1564179918,
+    "wof:lastmodified":1566589166,
     "wof:name":"Tianwei",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

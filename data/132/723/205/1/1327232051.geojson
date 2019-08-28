@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.51476,24.01902,120.55476,24.05902",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chung-k\u2019ou",
         "Kouzhuang",
         "Koujhuang",
-        "Chung-k\u2019ou-ts\u2019un",
-        "K\u2019ou-chuang"
+        "Chung-k\u2019ou-ts\u2019un"
     ],
     "name:zho_x_preferred":[
         "\u53e3\u838a"
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1327232051,
-    "wof:lastmodified":1537709284,
+    "wof:lastmodified":1566588289,
     "wof:name":"Kouzhuang",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

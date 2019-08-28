@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.54444,22.03778,121.58444,22.07778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "I-la-nu-mi",
         "I-la-nu-mi-li-chiao",
@@ -69,7 +73,7 @@
         }
     ],
     "wof:id":1226266885,
-    "wof:lastmodified":1537708514,
+    "wof:lastmodified":1566590127,
     "wof:name":"Dongqing",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

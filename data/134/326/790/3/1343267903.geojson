@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.54793,24.1834,120.58793,24.2234",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lu-tzu-chiang-liao",
         "Lugangliao",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343267903,
-    "wof:lastmodified":1537708913,
+    "wof:lastmodified":1566588600,
     "wof:name":"Lugangliao",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

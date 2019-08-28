@@ -11,8 +11,11 @@
     "geom:longitude":120.228817,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.223817,22.99552,120.233817,23.00552",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
         "Kimhyonggwon County"
     ],
@@ -59,7 +62,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28755021,
-        "qs:id":890727,
+        "qs_pg:id":890727,
         "wd:id":"Q196242",
         "wk:page":"Kimhyonggwon County"
     },
@@ -77,7 +80,7 @@
         }
     ],
     "wof:id":890469907,
-    "wof:lastmodified":1563280847,
+    "wof:lastmodified":1566589772,
     "wof:name":"\u6771\u8208\u91cc",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

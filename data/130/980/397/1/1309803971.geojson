@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.52621,24.1699,120.56621,24.2099",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Longjing"
     ],
@@ -49,7 +53,6 @@
     "name:und_x_variant":[
         "Lung-hsi-ts\u2019un",
         "Lung-hsi",
-        "Longjing",
         "Lung-ching"
     ],
     "name:zho_x_preferred":[
@@ -78,7 +81,7 @@
         }
     ],
     "wof:id":1309803971,
-    "wof:lastmodified":1564180585,
+    "wof:lastmodified":1566589656,
     "wof:name":"Longjing",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

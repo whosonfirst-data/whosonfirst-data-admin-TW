@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.6903,24.9152,121.7303,24.9552",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Pinglin"
     ],
@@ -100,7 +104,7 @@
         }
     ],
     "wof:id":1327243353,
-    "wof:lastmodified":1564178719,
+    "wof:lastmodified":1566588283,
     "wof:name":"Pinglin",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

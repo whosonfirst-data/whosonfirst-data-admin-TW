@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.0225,24.71167,121.0625,24.75167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u5317\u5751"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209839713,
-    "wof:lastmodified":1537709683,
+    "wof:lastmodified":1566589143,
     "wof:name":"Beikeng",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

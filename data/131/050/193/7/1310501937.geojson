@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.74638,24.28677,120.78638,24.32677",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u725b\u7a20\u5751",
         "Niouchoukeng"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1310501937,
-    "wof:lastmodified":1537709466,
+    "wof:lastmodified":1566589551,
     "wof:name":"Niuchoukeng",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

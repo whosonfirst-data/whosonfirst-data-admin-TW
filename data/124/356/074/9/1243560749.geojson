@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.89501,23.89035,120.93501,23.93035",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shanjhajiao",
         "Shan-cha-chiao"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1243560749,
-    "wof:lastmodified":1537708743,
+    "wof:lastmodified":1566589936,
     "wof:name":"Shanzhajiao",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

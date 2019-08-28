@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.56402,22.56208,120.60402,22.60208",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San-kou-shui",
-        "\u4e09\u6e9d\u6c34",
         "Sangoushui",
         "Sangoushuei"
     ],
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1360085937,
-    "wof:lastmodified":1537708755,
+    "wof:lastmodified":1566589591,
     "wof:name":"Sangoushui",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

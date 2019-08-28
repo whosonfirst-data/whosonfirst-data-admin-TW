@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.46639,24.12806,120.50639,24.16806",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hak_x_preferred":[
         "Tsh\u00fbn-k\u00f3ng-hi\u00f4ng"
     ],
@@ -47,7 +51,6 @@
         "Shen-chiang",
         "Hou-hu",
         "Shui-wei",
-        "Shengang",
         "Shen-kang"
     ],
     "name:vie_x_preferred":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1226546123,
-    "wof:lastmodified":1564181529,
+    "wof:lastmodified":1566590207,
     "wof:name":"Shengang",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

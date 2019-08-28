@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000273,
-    "geom:area_square_m":3128206.821887,
+    "geom:area_square_m":3128206.821882,
     "geom:bbox":"120.757534891,21.9391128301,120.77688901,21.9571682929",
     "geom:latitude":21.948141,
     "geom:longitude":120.767212,
@@ -14,11 +14,14 @@
     "iso:country":"TW",
     "lbl:latitude":21.948141,
     "lbl:longitude":120.767212,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":21.948141,
     "mps:longitude":120.767212,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Ta-pan-lieh"
     ],
     "name:zho_x_preferred":[
@@ -36,8 +39,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
-    "wof:belongs_to":[],
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,7 +56,7 @@
         }
     ],
     "wof:id":102026651,
-    "wof:lastmodified":1506732162,
+    "wof:lastmodified":1566588418,
     "wof:name":"Nanwan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

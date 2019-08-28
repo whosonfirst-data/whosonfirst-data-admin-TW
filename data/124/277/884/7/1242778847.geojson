@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.49133,24.05304,120.53133,24.09304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u5357\u90ed\u5e84",
         "Nanguozhuang",
         "Nanguojhuang",
         "Nan-kuo-chuang"
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1242778847,
-    "wof:lastmodified":1537709933,
+    "wof:lastmodified":1566589943,
     "wof:name":"Nanguozhuang",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

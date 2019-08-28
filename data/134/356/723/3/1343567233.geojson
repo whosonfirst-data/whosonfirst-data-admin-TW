@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.6474,23.75321,120.6874,23.79321",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Fangliaozih",
         "Fang-liao-tzu"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343567233,
-    "wof:lastmodified":1537709244,
+    "wof:lastmodified":1566588551,
     "wof:name":"Fangliaozi",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

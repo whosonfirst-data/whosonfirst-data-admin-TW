@@ -11,10 +11,13 @@
     "geom:longitude":118.38861,
     "gn:country":"TW",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:ara_x_preferred":[
         "\u0643\u0646\u0645\u0646"
     ],
@@ -171,7 +174,7 @@
     "name:ukr_x_preferred":[
         "\u0426\u0437\u0456\u043d\u044c\u043c\u0435\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Fu-chien"
     ],
     "name:urd_x_preferred":[
@@ -206,7 +209,7 @@
     "wof:concordances":{
         "gn:id":1676511,
         "gp:id":28752828,
-        "qs:id":1151931,
+        "qs_pg:id":1151931,
         "wd:id":"Q249870",
         "wk:page":"Kinmen"
     },
@@ -224,7 +227,7 @@
         }
     ],
     "wof:id":890467577,
-    "wof:lastmodified":1563280844,
+    "wof:lastmodified":1566589771,
     "wof:name":"Kinmen",
     "wof:parent_id":1108497279,
     "wof:placetype":"county",

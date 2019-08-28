@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.20732,23.30831,120.24732,23.34831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sialiao",
         "Hsia-liao"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1276878957,
-    "wof:lastmodified":1537709954,
+    "wof:lastmodified":1566588975,
     "wof:name":"Xialiao",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

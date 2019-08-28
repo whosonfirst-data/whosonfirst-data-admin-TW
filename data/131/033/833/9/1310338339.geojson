@@ -26,15 +26,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.18056,23.11306,120.22056,23.15306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chung-chou-tzu",
         "Chung-chou",
         "Jhongjhouzih",
         "Zhongzhouzi",
-        "Chung-hsing",
-        "\u4e2d\u6d32\u4ed4"
+        "Chung-hsing"
     ],
     "name:zho_x_preferred":[
         "\u4e2d\u6d32\u4ed4"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1310338339,
-    "wof:lastmodified":1537709290,
+    "wof:lastmodified":1566589560,
     "wof:name":"Zhongzhouzi",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

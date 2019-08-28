@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.26335,23.16831,120.30335,23.20831",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Liao-pu-li",
         "Liao-Poo-Li",
@@ -65,7 +69,7 @@
         }
     ],
     "wof:id":1259684351,
-    "wof:lastmodified":1537708940,
+    "wof:lastmodified":1566590063,
     "wof:name":"Liaozipou",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

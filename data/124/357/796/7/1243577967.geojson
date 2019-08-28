@@ -26,13 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.50634,24.15979,120.54634,24.19979",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u8304\u6295\u5c3e",
         "Cietouwei",
-        "Qietouwei",
-        "Ch\u2019ieh-t\u2019ou-wei"
+        "Qietouwei"
     ],
     "name:zho_x_preferred":[
         "\u8304\u6295\u5c3e"
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1243577967,
-    "wof:lastmodified":1537709935,
+    "wof:lastmodified":1566589930,
     "wof:name":"Qietouwei",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

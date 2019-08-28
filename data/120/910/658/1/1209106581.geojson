@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.70833,24.04519,120.74833,24.08519",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u5317\u6e9d\u5751",
-        "Beigoukeng",
-        "Pei-kou-k\u2019eng"
+        "Beigoukeng"
     ],
     "name:zho_x_preferred":[
         "Pei-kou-k\u2019eng"
@@ -53,7 +56,7 @@
         }
     ],
     "wof:id":1209106581,
-    "wof:lastmodified":1537709487,
+    "wof:lastmodified":1566589234,
     "wof:name":"Beigoukeng",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

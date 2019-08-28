@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.3865,23.47133,120.4265,23.51133",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Niaosiou",
         "Niao-hsiu"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310205841,
-    "wof:lastmodified":1537708838,
+    "wof:lastmodified":1566589529,
     "wof:name":"Niaoxiu",
     "wof:parent_id":85679603,
     "wof:placetype":"locality",

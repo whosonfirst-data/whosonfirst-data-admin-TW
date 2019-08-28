@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.5056,22.8578,120.5456,22.8978",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dexing"
     ],
@@ -40,7 +44,6 @@
     "name:und_x_variant":[
         "Chin-kua-liao",
         "Te-hsing-li",
-        "Dexing",
         "Desing",
         "Te-hsing"
     ],
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1242586481,
-    "wof:lastmodified":1564181000,
+    "wof:lastmodified":1566589919,
     "wof:name":"Dexing",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

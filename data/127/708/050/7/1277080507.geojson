@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.75447,24.32428,120.79447,24.36428",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Liougueiping",
-        "\u516d\u6ac3\u576a",
         "Liuguiping"
     ],
     "name:zho_x_preferred":[
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1277080507,
-    "wof:lastmodified":1537709465,
+    "wof:lastmodified":1566588935,
     "wof:name":"Liuguiping",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

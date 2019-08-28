@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.44487,23.49719,120.48487,23.53719",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shihsihjia",
         "Shisijia",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1259885793,
-    "wof:lastmodified":1537708689,
+    "wof:lastmodified":1566590097,
     "wof:name":"Shisijia",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

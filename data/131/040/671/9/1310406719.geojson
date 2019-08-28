@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.07492,25.03171,121.11492,25.07171",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u767d\u6c99\u5c6f"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1310406719,
-    "wof:lastmodified":1537708822,
+    "wof:lastmodified":1566589489,
     "wof:name":"Baishatun",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

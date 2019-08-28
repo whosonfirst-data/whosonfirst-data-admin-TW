@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":24.473793,
     "lbl:longitude":118.420136,
+    "lbl:max_zoom":7.0,
+    "lbl:min_zoom":5.0,
     "meso:c_desc":"\u9023\u6c5f\u7e23",
     "meso:c_name":"\u9023\u6c5f\u7e23",
     "meso:county_id":"09007",
@@ -22,6 +24,7 @@
     "meso:objectid":1,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":3.0,
     "name:cdo_x_preferred":[
         "Li\u00e8ng-g\u014fng-g\u00e2ing"
     ],
@@ -61,9 +64,6 @@
     "name:nan_x_preferred":[
         "Li\u00e2n-kang-ko\u0101n"
     ],
-    "name:und_x_variant":[
-        "\u9023\u6c5f\u7e23"
-    ],
     "name:yue_x_preferred":[
         "\u9023\u6c5f\u7e23"
     ],
@@ -74,9 +74,9 @@
         "\u9023\u6c5f\u7e23"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:area_km":"181",
     "statoids:area_mi":"70",
     "statoids:as_of_date":"2010-12-31",
@@ -115,11 +115,10 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1565737790,
+    "wof:lastmodified":1566589387,
     "wof:name":"Fujian",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"province",
     "wof:population":71825,
     "wof:population_rank":8,

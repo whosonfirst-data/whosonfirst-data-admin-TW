@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.64625,24.21444,120.68625,24.25444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u4e0a\u6953\u6a39\u8173",
         "Shangfongshujiao",
         "Shangfengshujiao",
         "Shang-feng-shu-chiao"
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1327232095,
-    "wof:lastmodified":1537709932,
+    "wof:lastmodified":1566588294,
     "wof:name":"Shangfengshujiao",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

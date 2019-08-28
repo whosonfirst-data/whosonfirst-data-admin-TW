@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.60884,25.21809,121.64884,25.25809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kanjiaosia"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1343470569,
-    "wof:lastmodified":1537709917,
+    "wof:lastmodified":1566588515,
     "wof:name":"Kanjiaoxia",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

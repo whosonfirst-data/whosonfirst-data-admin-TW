@@ -15,6 +15,8 @@
     ],
     "lbl:latitude":25.068338,
     "lbl:longitude":121.562009,
+    "lbl:max_zoom":7.0,
+    "lbl:min_zoom":5.0,
     "meso:c_desc":"\u81fa\u5317\u5e02",
     "meso:c_name":"\u81fa\u5317\u5e02",
     "meso:county_id":"63",
@@ -22,6 +24,7 @@
     "meso:objectid":17,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":3.0,
     "name:ace_x_preferred":[
         "Taip\u00e9i"
     ],
@@ -427,9 +430,6 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0439\u0431\u0435\u0439"
     ],
-    "name:und_x_variant":[
-        "\u81fa\u5317\u5e02"
-    ],
     "name:urd_x_preferred":[
         "\u062a\u0627\u0626\u06cc \u067e\u06d2"
     ],
@@ -467,7 +467,7 @@
         "\u81fa\u5317\u5e02"
     ],
     "src:geom":"meso",
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632403
@@ -494,7 +494,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1565737779,
+    "wof:lastmodified":1566589363,
     "wof:name":"Taipei",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

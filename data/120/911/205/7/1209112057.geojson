@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.0,24.66917,121.04,24.70917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Emei"
     ],
@@ -43,7 +47,6 @@
     "name:und_x_variant":[
         "O-mei-hsiang",
         "O-mei-chuang",
-        "Emei",
         "O-mei"
     ],
     "name:vie_x_preferred":[
@@ -74,7 +77,7 @@
         }
     ],
     "wof:id":1209112057,
-    "wof:lastmodified":1564180001,
+    "wof:lastmodified":1566589218,
     "wof:name":"Emei",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

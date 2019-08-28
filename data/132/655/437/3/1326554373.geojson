@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.78881,23.9208,120.82881,23.9608",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jhanghu",
         "Chang-hu"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1326554373,
-    "wof:lastmodified":1537709765,
+    "wof:lastmodified":1566588359,
     "wof:name":"Zhanghu",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

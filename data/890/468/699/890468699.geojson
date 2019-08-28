@@ -11,14 +11,17 @@
     "geom:longitude":120.61444,
     "gn:country":"TW",
     "gn:fcode":"ADM2",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:kor_x_preferred":[
         "\ud551\ub465 \ud604"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Pin Tung Hsien"
     ],
     "name:zho_x_preferred":[
@@ -44,7 +47,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1670479,
-        "qs:id":1027053,
+        "qs_pg:id":1027053,
         "wk:page":"Pingtung"
     },
     "wof:country":"TW",
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890468699,
-    "wof:lastmodified":1527792969,
+    "wof:lastmodified":1566589837,
     "wof:name":"Pingtung",
     "wof:parent_id":1108499273,
     "wof:placetype":"county",

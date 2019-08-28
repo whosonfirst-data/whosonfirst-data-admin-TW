@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.03469,22.85794,121.07469,22.89794",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Qingshui"
     ],
@@ -35,8 +39,7 @@
         "Qingshui"
     ],
     "name:und_x_variant":[
-        "Cingshuei",
-        "Qingshui"
+        "Cingshuei"
     ],
     "name:zho_x_preferred":[
         "\u6e05\u6c34"
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1276800265,
-    "wof:lastmodified":1564179629,
+    "wof:lastmodified":1566588970,
     "wof:name":"Qingshui",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

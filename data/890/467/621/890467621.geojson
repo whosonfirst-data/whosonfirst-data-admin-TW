@@ -11,11 +11,15 @@
     "geom:longitude":120.86667,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"120.76667,24.6,120.96667,24.8",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Chu-nan Chen"
     ],
     "name:zho_x_preferred":[
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1677512,
-        "qs:id":1030941
+        "qs_pg:id":1030941
     },
     "wof:country":"TW",
     "wof:created":1469053656,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890467621,
-    "wof:lastmodified":1505343710,
+    "wof:lastmodified":1566589757,
     "wof:name":"Zhunan Zhen",
     "wof:parent_id":85679575,
     "wof:placetype":"localadmin",

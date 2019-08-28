@@ -12,8 +12,12 @@
     "gn:country":"TW",
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"121.488402,23.471272,121.528402,23.511272",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:name":"\u6e2f\u53e3\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u82b1\u84ee\u7e23",
@@ -36,7 +40,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28760282,
-        "qs:id":895550,
+        "qs_pg:id":895550,
         "wk:page":"Wuzui, Nan County"
     },
     "wof:country":"TW",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":890469931,
-    "wof:lastmodified":1527792918,
+    "wof:lastmodified":1566589772,
     "wof:name":"\u6e2f\u53e3\u6751",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

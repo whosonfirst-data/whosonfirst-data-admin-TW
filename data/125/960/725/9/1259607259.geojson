@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.51389,22.57393,120.55389,22.61393",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u982d\u5d19",
         "Nan-shih",
         "Toulun"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1259607259,
-    "wof:lastmodified":1537708535,
+    "wof:lastmodified":1566590077,
     "wof:name":"Toulun",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

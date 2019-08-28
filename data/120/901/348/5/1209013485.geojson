@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.28444,22.73083,120.32444,22.77083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shihhe",
         "Shihe",
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1209013485,
-    "wof:lastmodified":1537709653,
+    "wof:lastmodified":1566589127,
     "wof:name":"Shihe",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

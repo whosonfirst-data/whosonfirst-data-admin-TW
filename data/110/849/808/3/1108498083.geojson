@@ -13,6 +13,7 @@
     "iso:country":"TW",
     "lbl:latitude":23.79488,
     "lbl:longitude":121.405739,
+    "lbl:min_zoom":9.0,
     "meso:adm1_en":"Taiwan",
     "meso:adm1_loc":"\u5b9c\u862d\u7e23",
     "meso:gadm_admin":"Hualien",
@@ -28,6 +29,7 @@
     "mps:longitude":121.405739,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:ara_x_preferred":[
         "\u0645\u0642\u0627\u0637\u0639\u0629 \u0647\u0648\u0627\u0644\u064a\u0646"
     ],
@@ -155,7 +157,7 @@
         "Hualien"
     ],
     "name:tam_x_preferred":[
-        "\u0bb9\u0baa\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd  \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
+        "\u0bb9\u0baa\u0bcd\u0b95\u0bb3\u0bbf\u0ba9\u0bcd \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c39\u0c41\u0c35\u0c3e\u0c32\u0c3f\u0c2f\u0c46\u0c28\u0c4d \u0c15\u0c4c\u0c02\u0c1f\u0c40"
@@ -168,9 +170,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u043a\u0440\u0443\u0433 \u0413\u0443\u0430\u043b\u044f\u043d\u044c"
-    ],
-    "name:und_x_variant":[
-        "\u82b1\u84ee\u7e23"
     ],
     "name:urd_x_preferred":[
         "\u06c1\u0648\u0627\u0644\u06cc\u0626\u0646 \u06a9\u0627\u0624\u0646\u0679\u06cc"
@@ -186,7 +185,7 @@
     ],
     "src:geom":"meso",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -210,7 +209,7 @@
         }
     ],
     "wof:id":1108498083,
-    "wof:lastmodified":1563280301,
+    "wof:lastmodified":1566589453,
     "wof:name":"Hualien",
     "wof:parent_id":85679607,
     "wof:placetype":"macrocounty",

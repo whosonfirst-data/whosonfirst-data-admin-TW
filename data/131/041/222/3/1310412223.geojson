@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.10917,23.07333,120.14917,23.11333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Yongji"
     ],
@@ -45,9 +49,7 @@
     ],
     "name:und_x_variant":[
         "Yung-chi",
-        "Kung-ti-wei",
-        "Yongji",
-        "\u6c38\u5409"
+        "Kung-ti-wei"
     ],
     "name:zho_x_preferred":[
         "Yung-chi-ts\u2019un"
@@ -78,7 +80,7 @@
         }
     ],
     "wof:id":1310412223,
-    "wof:lastmodified":1564180272,
+    "wof:lastmodified":1566589470,
     "wof:name":"Yongji",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

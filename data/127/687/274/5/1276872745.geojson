@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.43158,23.29514,121.47158,23.33514",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u5d0e\u8173",
         "Qijiao",
         "Cijiao"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1276872745,
-    "wof:lastmodified":1537709880,
+    "wof:lastmodified":1566588973,
     "wof:name":"Qijiao",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

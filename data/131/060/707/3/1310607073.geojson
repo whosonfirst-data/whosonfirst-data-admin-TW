@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.55111,23.49528,120.59111,23.53528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0645\u0648\u0627\u0639\u062f\u0629"
     ],
@@ -153,7 +157,7 @@
         }
     ],
     "wof:id":1310607073,
-    "wof:lastmodified":1564180437,
+    "wof:lastmodified":1566589571,
     "wof:name":"Dating",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

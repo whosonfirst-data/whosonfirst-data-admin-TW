@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.37028,22.78417,120.41028,22.82417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jhaizihnei",
         "Chai-tzu-nei"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1243567415,
-    "wof:lastmodified":1537709644,
+    "wof:lastmodified":1566589935,
     "wof:name":"Zhaizinei",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

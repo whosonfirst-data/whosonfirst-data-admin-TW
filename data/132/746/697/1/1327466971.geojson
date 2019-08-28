@@ -26,11 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.12472,23.04056,120.16472,23.08056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:und_x_variant":[
-        "\u8fb2\u5834\u5bee"
-    ],
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "Nung-ch\u2019ang-liao"
     ],
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1327466971,
-    "wof:lastmodified":1537709495,
+    "wof:lastmodified":1566588299,
     "wof:name":"Nongchangliao",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

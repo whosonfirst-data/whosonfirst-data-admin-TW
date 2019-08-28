@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.16861,24.81278,121.20861,24.85278",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u96de\u7c60\u5751"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343964101,
-    "wof:lastmodified":1537709353,
+    "wof:lastmodified":1566588443,
     "wof:name":"Jilongkeng",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

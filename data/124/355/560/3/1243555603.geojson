@@ -26,11 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.565,23.96972,121.605,24.00972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:und_x_variant":[
-        "\u7530\u5bee"
-    ],
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "T\u2019ien-liao"
     ],
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1243555603,
-    "wof:lastmodified":1537709499,
+    "wof:lastmodified":1566589875,
     "wof:name":"Tianliao",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

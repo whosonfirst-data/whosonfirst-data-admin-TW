@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.52941,24.00889,120.56941,24.04889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "Chihtuci",
-        "Ch\u2019ih-t\u2019u-ch\u2019i"
+        "Chihtuci"
     ],
     "name:zho_x_preferred":[
         "\u8d64\u5857\u5d0e"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1209739665,
-    "wof:lastmodified":1537709359,
+    "wof:lastmodified":1566589223,
     "wof:name":"Chituqi",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

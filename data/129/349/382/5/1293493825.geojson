@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.05833,24.96444,121.09833,25.00444",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chihnioulan",
         "Chiniulan"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1293493825,
-    "wof:lastmodified":1537709361,
+    "wof:lastmodified":1566588816,
     "wof:name":"Chiniulan",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

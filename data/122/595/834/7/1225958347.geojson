@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"118.38194,24.46528,118.42194,24.50528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u9577\u8914\u91cc",
         "Changfuli"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1225958347,
-    "wof:lastmodified":1537709415,
+    "wof:lastmodified":1566590106,
     "wof:name":"Changfuli",
     "wof:parent_id":85679635,
     "wof:placetype":"locality",

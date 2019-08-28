@@ -11,8 +11,12 @@
     "geom:longitude":121.615562,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"121.595562,25.221435,121.635562,25.261435",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "qs:name":"\u897f\u6e56\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u65b0\u5317\u5e02",
@@ -34,7 +38,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28756369,
-        "qs:id":890781,
+        "qs_pg:id":890781,
         "wk:page":"Qianshanhong, Nan County"
     },
     "wof:country":"TW",
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890470841,
-    "wof:lastmodified":1527727214,
+    "wof:lastmodified":1566589736,
     "wof:name":"\u897f\u6e56\u6751",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

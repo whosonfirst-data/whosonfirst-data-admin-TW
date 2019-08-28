@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.82614,24.42104,120.86614,24.46104",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Longchuan"
     ],
@@ -44,10 +48,6 @@
         "Longchuan"
     ],
     "name:swe_x_preferred":[
-        "Longchuan"
-    ],
-    "name:und_x_variant":[
-        "\u9f8d\u8239",
         "Longchuan"
     ],
     "name:zho_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":1260081227,
-    "wof:lastmodified":1564180174,
+    "wof:lastmodified":1566589319,
     "wof:name":"Longchuan",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

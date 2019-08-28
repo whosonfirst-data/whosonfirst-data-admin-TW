@@ -14,6 +14,8 @@
     "iso:country":"TW",
     "lbl:latitude":24.956175,
     "lbl:longitude":121.231141,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.956175,
     "mps:longitude":121.231141,
     "mz:hierarchy_label":1,
@@ -82,7 +84,7 @@
     "name:swe_x_preferred":[
         "Zhongli"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chung-li-chuang"
     ],
     "name:vie_x_preferred":[
@@ -204,7 +206,7 @@
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -229,7 +231,7 @@
         }
     ],
     "wof:id":102026747,
-    "wof:lastmodified":1563278954,
+    "wof:lastmodified":1566588421,
     "wof:name":"Zhongli",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

@@ -14,6 +14,8 @@
     "iso:country":"TW",
     "lbl:latitude":24.997115,
     "lbl:longitude":121.312226,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.997115,
     "mps:longitude":121.312226,
     "mz:hierarchy_label":1,
@@ -79,7 +81,7 @@
     "name:ukr_x_preferred":[
         "\u0422\u0430\u043e\u044e\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hsin-chu-hsien"
     ],
     "name:urd_x_preferred":[
@@ -210,7 +212,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -220,7 +222,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1667905,
-        "qs:id":1030886,
         "qs_pg:id":1030886
     },
     "wof:country":"TW",
@@ -235,7 +236,7 @@
         }
     ],
     "wof:id":102026631,
-    "wof:lastmodified":1564178903,
+    "wof:lastmodified":1566588427,
     "wof:name":"Taoyuan",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

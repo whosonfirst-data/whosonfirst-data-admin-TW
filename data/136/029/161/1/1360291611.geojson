@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.53795,22.58952,120.57795,22.62952",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "Pitousiang",
-        "P\u2019i-t\u2019ou-hsia"
+        "Pitousiang"
     ],
     "name:zho_x_preferred":[
         "P\u2019i-t\u2019ou-hsiang"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1360291611,
-    "wof:lastmodified":1537708781,
+    "wof:lastmodified":1566589606,
     "wof:name":"Pitouxiang",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

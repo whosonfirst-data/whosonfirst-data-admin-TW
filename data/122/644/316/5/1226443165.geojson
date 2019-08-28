@@ -26,13 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.64167,22.23583,120.68167,22.27583",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u7cd6\u5ecd",
         "Tangpou",
-        "T\u2019ang-pu",
-        "T\u2019ang-p\u2019ou"
+        "T\u2019ang-pu"
     ],
     "name:zho_x_preferred":[
         "T\u2019ang-p\u2019ou"
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1226443165,
-    "wof:lastmodified":1537709608,
+    "wof:lastmodified":1566590127,
     "wof:name":"Tangpou",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

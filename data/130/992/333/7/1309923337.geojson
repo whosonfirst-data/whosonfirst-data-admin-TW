@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"118.20538,24.39372,118.24538,24.43372",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u9752\u5c90",
         "Ch\u2019ing-ch\u2019i",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1309923337,
-    "wof:lastmodified":1537709352,
+    "wof:lastmodified":1566589647,
     "wof:name":"Qingqi",
     "wof:parent_id":85679635,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.49639,22.415,120.53639,22.455",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Linbian"
     ],
@@ -42,7 +46,6 @@
     ],
     "name:und_x_variant":[
         "\u6797\u908a",
-        "Linbian",
         "Lin-pien"
     ],
     "name:vie_x_preferred":[
@@ -75,7 +78,7 @@
         }
     ],
     "wof:id":1309712441,
-    "wof:lastmodified":1564180557,
+    "wof:lastmodified":1566589640,
     "wof:name":"Linbian",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

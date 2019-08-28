@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.8046,24.3565,120.8446,24.3965",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Bai-shih-hsia",
         "Pai-shih-hsia",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1276253067,
-    "wof:lastmodified":1537709460,
+    "wof:lastmodified":1566589024,
     "wof:name":"Baishixia",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

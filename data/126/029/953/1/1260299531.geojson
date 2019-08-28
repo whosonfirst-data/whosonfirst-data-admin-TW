@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.46778,26.34907,120.50778,26.38907",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Zhongliucun",
         "Chung-liu-ts\u2019un",
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1260299531,
-    "wof:lastmodified":1537709281,
+    "wof:lastmodified":1566589334,
     "wof:name":"Lehuacun",
     "wof:parent_id":85679637,
     "wof:placetype":"locality",

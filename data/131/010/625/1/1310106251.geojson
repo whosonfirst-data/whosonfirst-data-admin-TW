@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.13028,23.10056,120.17028,23.14056",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ku-wei",
-        "Guwei",
-        "\u80a1\u5c3e"
+        "Guwei"
     ],
     "name:zho_x_preferred":[
         "\u80a1\u5c3e"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1310106251,
-    "wof:lastmodified":1537709495,
+    "wof:lastmodified":1566589539,
     "wof:name":"Guwei",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

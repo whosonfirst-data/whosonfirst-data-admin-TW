@@ -11,10 +11,14 @@
     "geom:longitude":121.51667,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"121.41667,25.05,121.61667,25.25",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Beitou"
     ],
@@ -54,9 +58,6 @@
     "name:ukr_x_preferred":[
         "\u0411\u0435\u0439\u0442\u043e\u0443"
     ],
-    "name:unk_x_variant":[
-        "\u5317\u6295\u5340"
-    ],
     "name:vie_x_preferred":[
         "B\u1eafc \u0110\u1ea7u"
     ],
@@ -85,7 +86,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1670691,
-        "qs:id":371283,
+        "qs_pg:id":371283,
         "wd:id":"Q252864",
         "wk:page":"Beitou"
     },
@@ -102,7 +103,7 @@
         }
     ],
     "wof:id":890468323,
-    "wof:lastmodified":1563280949,
+    "wof:lastmodified":1566589824,
     "wof:name":"Beitou Qu",
     "wof:parent_id":85679583,
     "wof:placetype":"localadmin",

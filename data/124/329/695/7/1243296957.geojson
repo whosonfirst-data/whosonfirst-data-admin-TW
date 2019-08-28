@@ -26,13 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.19889,22.98944,120.23889,23.02944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San-fen-tzu",
         "Sanfenzi",
-        "Sanfenzih",
-        "\u4e09\u5206\u5b50"
+        "Sanfenzih"
     ],
     "name:zho_x_preferred":[
         "\u4e09\u5206\u5b50"
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1243296957,
-    "wof:lastmodified":1537708761,
+    "wof:lastmodified":1566589970,
     "wof:name":"Sanfenzi",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

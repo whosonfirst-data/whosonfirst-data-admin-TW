@@ -26,11 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.7139,24.08697,120.7539,24.12697",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:und_x_variant":[
-        "T\u2019u-ti-kung-k\u2019eng"
-    ],
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u571f\u5730\u516c\u5751"
     ],
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1193021893,
-    "wof:lastmodified":1537709478,
+    "wof:lastmodified":1566589289,
     "wof:name":"Tudigongkeng",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

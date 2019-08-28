@@ -26,13 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.5898,23.97908,120.6298,24.01908",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gueitaoliao",
         "Kuai-t\u2019ao-liao",
-        "Guitaoliao",
-        "Kuei-t\u2019ao-liao"
+        "Guitaoliao"
     ],
     "name:zho_x_preferred":[
         "\u9f9c\u6843\u5bee"
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1310634017,
-    "wof:lastmodified":1537709489,
+    "wof:lastmodified":1566589505,
     "wof:name":"Guitaoliao",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

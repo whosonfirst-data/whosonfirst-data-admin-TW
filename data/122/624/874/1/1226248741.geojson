@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.67213,23.32742,120.71213,23.36742",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Hou-pa-ya-i"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226248741,
-    "wof:lastmodified":1537709875,
+    "wof:lastmodified":1566590182,
     "wof:name":"Houbayayi",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

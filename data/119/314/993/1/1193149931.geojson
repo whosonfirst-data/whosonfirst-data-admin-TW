@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.54968,22.97292,120.58968,23.01292",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u8336\u4ead"
     ],
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1193149931,
-    "wof:lastmodified":1564180111,
+    "wof:lastmodified":1566589281,
     "wof:name":"Chating",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

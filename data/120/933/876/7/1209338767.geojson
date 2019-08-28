@@ -26,13 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.53101,24.08778,120.57101,24.12778",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u83dc\u516c\u5bee",
         "Caigongliao",
-        "Ts\u2019ai-kung-lao",
-        "Ts\u2019ai-kung-liao"
+        "Ts\u2019ai-kung-lao"
     ],
     "name:zho_x_preferred":[
         "Ts\u2019ai-kung-liao"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1209338767,
-    "wof:lastmodified":1537708532,
+    "wof:lastmodified":1566589213,
     "wof:name":"Caigongliao",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

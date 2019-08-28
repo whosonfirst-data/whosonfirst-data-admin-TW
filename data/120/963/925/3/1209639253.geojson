@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"119.40333,23.17944,119.44333,23.21944",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nanhuciding",
         "Nan-hai"
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1209639253,
-    "wof:lastmodified":1537708865,
+    "wof:lastmodified":1566589133,
     "wof:name":"Nanhuqiding",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

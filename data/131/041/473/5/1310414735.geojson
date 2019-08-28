@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.30547,22.7085,120.34547,22.7485",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Nanzi"
     ],
@@ -56,7 +60,6 @@
         "Nan-tzu-chuang",
         "Nan-tzu",
         "\u6960\u6893",
-        "Nanzi",
         "Nanzih"
     ],
     "name:vie_x_preferred":[
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1310414735,
-    "wof:lastmodified":1564180272,
+    "wof:lastmodified":1566589470,
     "wof:name":"Nanzi",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

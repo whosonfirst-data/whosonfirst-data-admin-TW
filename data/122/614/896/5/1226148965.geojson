@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.4842,22.4918,120.5242,22.5318",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u8859\u9580\u53e3",
         "Yamenkou"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1226148965,
-    "wof:lastmodified":1537708448,
+    "wof:lastmodified":1566590172,
     "wof:name":"Yamenkou",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

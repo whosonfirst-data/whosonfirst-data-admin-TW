@@ -11,10 +11,14 @@
     "geom:longitude":121.01667,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"120.91667,24.46667,121.11667,24.66667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Nanzhuang"
     ],
@@ -33,7 +37,7 @@
     "name:nan_x_preferred":[
         "L\u00e2m-chng-hiong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Nanjhuang Siang"
     ],
     "name:vie_x_preferred":[
@@ -60,7 +64,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1671791,
-        "qs:id":1030895,
+        "qs_pg:id":1030895,
         "wd:id":"Q713592",
         "wk:page":"Nanzhuang, Miaoli"
     },
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890468733,
-    "wof:lastmodified":1563280959,
+    "wof:lastmodified":1566589828,
     "wof:name":"Nanzhuang Xiang",
     "wof:parent_id":85679575,
     "wof:placetype":"localadmin",

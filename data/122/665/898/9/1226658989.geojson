@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.16389,22.88028,120.20389,22.92028",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cieding",
         "Qieding"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1226658989,
-    "wof:lastmodified":1537709376,
+    "wof:lastmodified":1566590201,
     "wof:name":"Qieding",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

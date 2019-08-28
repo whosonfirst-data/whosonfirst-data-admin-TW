@@ -26,13 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.70105,24.19918,120.74105,24.23918",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u4e0a\u65b0\u7530",
         "Shansintian",
-        "Shanxintian",
-        "Shang-hsin-t\u2019ien"
+        "Shanxintian"
     ],
     "name:zho_x_preferred":[
         "Shang-hsin-t\u2019ien"
@@ -60,7 +63,7 @@
         }
     ],
     "wof:id":1326830735,
-    "wof:lastmodified":1537709474,
+    "wof:lastmodified":1566588352,
     "wof:name":"Shanxintian",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

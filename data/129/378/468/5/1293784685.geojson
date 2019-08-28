@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.83591,24.27725,120.87591,24.31725",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Shabu"
     ],
@@ -35,8 +39,7 @@
         "Shabu"
     ],
     "name:und_x_variant":[
-        "Sha-pu",
-        "Shabu"
+        "Sha-pu"
     ],
     "name:zho_x_preferred":[
         "\u7802\u57d4"
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1293784685,
-    "wof:lastmodified":1564179412,
+    "wof:lastmodified":1566588828,
     "wof:name":"Shabu",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

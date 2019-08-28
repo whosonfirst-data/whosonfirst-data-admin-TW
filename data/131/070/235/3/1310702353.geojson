@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.52289,22.66387,120.56289,22.70387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ita_x_preferred":[
         "Fenzi"
     ],
     "name:und_x_variant":[
         "Fenzih",
-        "Fenzi",
         "Fen-tzu"
     ],
     "name:zho_x_preferred":[
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1310702353,
-    "wof:lastmodified":1564180279,
+    "wof:lastmodified":1566589475,
     "wof:name":"Fenzi",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

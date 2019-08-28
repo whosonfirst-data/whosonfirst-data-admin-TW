@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.63444,22.63949,120.67444,22.67949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "La-yao-she"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1327030507,
-    "wof:lastmodified":1537708943,
+    "wof:lastmodified":1566588329,
     "wof:name":"Layaoshe",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.46222,22.87222,120.50222,22.91222",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hak_x_preferred":[
         "Kh\u00ec-s\u00e2n-kh\u00ee"
     ],
@@ -45,8 +49,7 @@
     ],
     "name:und_x_variant":[
         "Cishan",
-        "Fan-shu-liao",
-        "Qishan"
+        "Fan-shu-liao"
     ],
     "name:vie_x_preferred":[
         "K\u1ef3 S\u01a1n"
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":1293296141,
-    "wof:lastmodified":1564179528,
+    "wof:lastmodified":1566588897,
     "wof:name":"Qishan",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

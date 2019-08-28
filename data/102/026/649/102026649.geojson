@@ -15,6 +15,8 @@
     "iso:country":"TW",
     "lbl:latitude":24.141945,
     "lbl:longitude":120.668406,
+    "lbl:max_zoom":13.0,
+    "lbl:min_zoom":6.0,
     "mps:latitude":24.141945,
     "mps:longitude":120.668406,
     "mz:hierarchy_label":1,
@@ -336,7 +338,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wof:belongsto":[
         102191569,
@@ -347,7 +349,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1668399,
-        "qs:id":133904,
         "qs_pg:id":133904,
         "wd:id":"Q245023"
     },
@@ -363,7 +364,7 @@
         }
     ],
     "wof:id":102026649,
-    "wof:lastmodified":1563278964,
+    "wof:lastmodified":1566588424,
     "wof:megacity":1,
     "wof:name":"Taichung",
     "wof:parent_id":85679617,

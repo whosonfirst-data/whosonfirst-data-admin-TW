@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.53684,22.50545,120.57684,22.54545",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Xinzhuang"
     ],
@@ -36,7 +40,6 @@
     ],
     "name:und_x_variant":[
         "Sinjhuang",
-        "Xinzhuang",
         "Hsin-sheng",
         "Hsin-chuang"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":1276448821,
-    "wof:lastmodified":1564179613,
+    "wof:lastmodified":1566588959,
     "wof:name":"Xinzhuang",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

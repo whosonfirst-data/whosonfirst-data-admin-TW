@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.48583,23.30417,120.52583,23.34417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pin-lang-shan"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1293316675,
-    "wof:lastmodified":1537708783,
+    "wof:lastmodified":1566588777,
     "wof:name":"Binlangshan",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

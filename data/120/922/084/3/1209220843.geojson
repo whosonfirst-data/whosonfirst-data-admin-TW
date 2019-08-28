@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.5287,24.17923,120.5687,24.21923",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lung-ching",
         "Lung-ch\u2019\u00fcan-ts\u2019un",
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1209220843,
-    "wof:lastmodified":1537708908,
+    "wof:lastmodified":1566589173,
     "wof:name":"Longmujing",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

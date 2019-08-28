@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.56469,22.60077,120.60469,22.64077",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ping-lang-lin",
         "Yiting"
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1276553605,
-    "wof:lastmodified":1537709970,
+    "wof:lastmodified":1566589074,
     "wof:name":"Yiting",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

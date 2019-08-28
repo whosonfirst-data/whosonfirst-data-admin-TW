@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.59891,22.81167,120.63891,22.85167",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Cingbuwei",
         "Qingbuwei",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1210017017,
-    "wof:lastmodified":1537709372,
+    "wof:lastmodified":1566589254,
     "wof:name":"Qingbuwei",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.49407,24.06168,120.53407,24.10168",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jhengpinjhuang",
-        "Zhengpingzhuang",
-        "Cheng-p\u2019ing-chuang"
+        "Zhengpingzhuang"
     ],
     "name:zho_x_preferred":[
         "\u93ae\u5e73\u838a"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1242880343,
-    "wof:lastmodified":1537709928,
+    "wof:lastmodified":1566589896,
     "wof:name":"Zhengpingzhuang",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

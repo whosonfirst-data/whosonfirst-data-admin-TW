@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.91861,22.86611,120.95861,22.90611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u6843\u6797"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326730575,
-    "wof:lastmodified":1537708599,
+    "wof:lastmodified":1566588246,
     "wof:name":"Taolin",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

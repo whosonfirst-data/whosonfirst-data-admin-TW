@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.576,22.59251,120.616,22.63251",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u4e0a\u6210\u5fb7"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1326635953,
-    "wof:lastmodified":1537709970,
+    "wof:lastmodified":1566588363,
     "wof:name":"Shangchengde",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

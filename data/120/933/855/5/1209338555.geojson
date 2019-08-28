@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.13,24.86333,121.17,24.90333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lao-k\u2019eng-wei"
     ],
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":1209338555,
-    "wof:lastmodified":1537708945,
+    "wof:lastmodified":1566589214,
     "wof:name":"Laokengwei",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

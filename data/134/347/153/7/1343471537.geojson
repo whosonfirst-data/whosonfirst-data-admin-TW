@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.55123,22.87967,120.59123,22.91967",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Lioushutang"
     ],
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1343471537,
-    "wof:lastmodified":1537708922,
+    "wof:lastmodified":1566588514,
     "wof:name":"Liushutang",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

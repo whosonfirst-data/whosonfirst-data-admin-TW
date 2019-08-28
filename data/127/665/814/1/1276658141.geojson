@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.81743,24.23675,120.85743,24.27675",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siaojhongke",
-        "Xiaozhongke",
-        "\u5c0f\u4e2d\u5d59"
+        "Xiaozhongke"
     ],
     "name:zho_x_preferred":[
         "Hsiao-chung-k\u2019o"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1276658141,
-    "wof:lastmodified":1537709470,
+    "wof:lastmodified":1566589084,
     "wof:name":"Xiaozhongke",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

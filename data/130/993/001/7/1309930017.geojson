@@ -26,13 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.56139,24.20083,120.60139,24.24083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chin-chiang-li",
         "Chin-chiang",
         "Chin-chiang-liao",
-        "\u6649\u6c5f\u5bee",
         "Jinjiangliao"
     ],
     "name:zho_x_preferred":[
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1309930017,
-    "wof:lastmodified":1537709353,
+    "wof:lastmodified":1566589650,
     "wof:name":"Jinjiangliao",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

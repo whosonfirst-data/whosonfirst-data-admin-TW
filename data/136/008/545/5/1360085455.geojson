@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.53194,23.72889,121.57194,23.76889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Fangliao"
     ],
@@ -42,9 +46,7 @@
     ],
     "name:und_x_variant":[
         "Fang-liao",
-        "Fangliao",
-        "Fan-shu-liao",
-        "\u82b3\u5bee"
+        "Fan-shu-liao"
     ],
     "name:vie_x_preferred":[
         "Ph\u01b0\u01a1ng Li\u00eau"
@@ -80,7 +82,7 @@
         }
     ],
     "wof:id":1360085455,
-    "wof:lastmodified":1564180476,
+    "wof:lastmodified":1566589592,
     "wof:name":"Fangliao",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

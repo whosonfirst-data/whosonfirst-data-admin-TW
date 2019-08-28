@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.37426,23.37739,121.41426,23.41739",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chihkeping",
         "Chikeping"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1310708005,
-    "wof:lastmodified":1537709922,
+    "wof:lastmodified":1566589480,
     "wof:name":"Chikeping",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

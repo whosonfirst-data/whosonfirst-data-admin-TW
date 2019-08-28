@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.85205,24.44267,120.89205,24.48267",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Nan-liao",
-        "\u5357\u5bee",
         "Nanliao"
     ],
     "name:zho_x_preferred":[
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1343858559,
-    "wof:lastmodified":1537708858,
+    "wof:lastmodified":1566588493,
     "wof:name":"Nanliao",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

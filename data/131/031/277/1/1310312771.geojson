@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.6258,25.1924,121.6658,25.2324",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siawanlijiatou",
         "Xiawanlijiatou"
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1310312771,
-    "wof:lastmodified":1537709130,
+    "wof:lastmodified":1566589499,
     "wof:name":"Xiawanlijiatou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

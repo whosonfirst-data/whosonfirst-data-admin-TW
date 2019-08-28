@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.67331,24.21606,120.71331,24.25606",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u68c9\u6a39\u811a",
         "Mianshujiao",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1344181333,
-    "wof:lastmodified":1537709474,
+    "wof:lastmodified":1566588578,
     "wof:name":"Mianshujiao",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

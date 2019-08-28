@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.55261,22.56297,120.59261,22.60297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Liu-kung-ts\u2019un",
         "Lin-huang-ts\u2019un",
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1293224475,
-    "wof:lastmodified":1537708921,
+    "wof:lastmodified":1566588833,
     "wof:name":"Liutangqi",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

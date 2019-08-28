@@ -13,6 +13,7 @@
     "iso:country":"TW",
     "lbl:latitude":24.784263,
     "lbl:longitude":120.924194,
+    "lbl:max_zoom":18.0,
     "mps:latitude":24.787658,
     "mps:longitude":120.925993,
     "mz:hierarchy_label":1,
@@ -24,9 +25,6 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":4,
-    "name:unk_x_variant":[
-        "\u9999\u5c71\u91cc"
-    ],
     "name:zho_x_preferred":[
         "\u9999\u5c71\u91cc"
     ],
@@ -55,7 +53,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -66,7 +64,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28757755,
-        "qs:id":899217,
         "qs_pg:id":899217
     },
     "wof:country":"TW",
@@ -85,7 +82,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1527268767,
+    "wof:lastmodified":1566588646,
     "wof:name":"\u9999\u5c71\u91cc",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

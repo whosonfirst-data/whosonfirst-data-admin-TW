@@ -11,11 +11,15 @@
     "geom:longitude":121.76667,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"121.66667,24.58333,121.86667,24.78333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":12.0,
+    "name:und_x_variant":[
         "Lo-tung Chen"
     ],
     "name:zho_x_preferred":[
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1672609,
-        "qs:id":371303
+        "qs_pg:id":371303
     },
     "wof:country":"TW",
     "wof:created":1469053700,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":890468329,
-    "wof:lastmodified":1505343711,
+    "wof:lastmodified":1566589842,
     "wof:name":"Luodong Zhen",
     "wof:parent_id":85679567,
     "wof:placetype":"localadmin",

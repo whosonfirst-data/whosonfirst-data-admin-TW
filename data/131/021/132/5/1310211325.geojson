@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.46502,22.67255,120.50502,22.71255",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u5d07\u862d",
         "Chonglan"
     ],
     "name:zho_x_preferred":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1310211325,
-    "wof:lastmodified":1537709283,
+    "wof:lastmodified":1566589543,
     "wof:name":"Chonglan",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

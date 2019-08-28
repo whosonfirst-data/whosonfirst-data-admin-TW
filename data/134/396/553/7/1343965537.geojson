@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.38301,25.12387,121.42301,25.16387",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Songzihjiao",
         "Songzijiao",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1343965537,
-    "wof:lastmodified":1537708946,
+    "wof:lastmodified":1566588442,
     "wof:name":"Songzijiao",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

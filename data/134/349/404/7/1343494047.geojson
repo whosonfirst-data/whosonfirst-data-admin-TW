@@ -27,8 +27,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.49667,22.69667,120.53667,22.73667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ho-shang-liao",
         "Te-ho-li"
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1343494047,
-    "wof:lastmodified":1537708578,
+    "wof:lastmodified":1566588513,
     "wof:name":"Te-ho-ts'un",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

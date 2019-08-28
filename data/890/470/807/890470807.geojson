@@ -11,10 +11,14 @@
     "geom:longitude":121.29043,
     "gn:country":"TW",
     "gn:fcode":"PPL",
-    "gn:pop":84549,
+    "gn:population":84549,
     "iso:country":"TW",
+    "lbl:bbox":"121.27043,24.86373,121.31043,24.90373",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":8.0,
     "name:deu_x_preferred":[
         "Daxi"
     ],
@@ -42,7 +46,7 @@
     "name:rus_x_preferred":[
         "\u0422\u0430-\u0421\u0438-\u0447\u0435\u043d"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ta-hsi"
     ],
     "name:vie_x_preferred":[
@@ -73,7 +77,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1668467,
-        "qs:id":86157,
+        "qs_pg:id":86157,
         "wd:id":"Q706455",
         "wk:page":"Daxi"
     },
@@ -90,7 +94,7 @@
         }
     ],
     "wof:id":890470807,
-    "wof:lastmodified":1563280773,
+    "wof:lastmodified":1566589741,
     "wof:name":"Daxi",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

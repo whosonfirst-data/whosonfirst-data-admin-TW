@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.82318,24.57603,120.86318,24.61603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Shitan"
     ],
@@ -41,8 +45,7 @@
         "\uc2a4\ud0c4\ud5a5"
     ],
     "name:und_x_variant":[
-        "Shihtan",
-        "Shitan"
+        "Shihtan"
     ],
     "name:vie_x_preferred":[
         "S\u01b0 \u0110\u00e0m"
@@ -79,7 +82,7 @@
         }
     ],
     "wof:id":1293595073,
-    "wof:lastmodified":1564179441,
+    "wof:lastmodified":1566588845,
     "wof:name":"Shitan",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

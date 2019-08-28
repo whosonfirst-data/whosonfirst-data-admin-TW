@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.0525,24.86611,121.0925,24.90611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sihjiaoting"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242977151,
-    "wof:lastmodified":1537708657,
+    "wof:lastmodified":1566589958,
     "wof:name":"Sijiaoting",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

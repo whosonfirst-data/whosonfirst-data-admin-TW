@@ -11,10 +11,14 @@
     "geom:longitude":121.5,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"121.4,24.45,121.6,24.65",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Datong"
     ],
@@ -42,7 +46,7 @@
     "name:nld_x_preferred":[
         "Datong"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Datong Siang"
     ],
     "name:vie_x_preferred":[
@@ -70,7 +74,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1667637,
-        "qs:id":371250,
+        "qs_pg:id":371250,
         "wd:id":"Q706556",
         "wk:page":"Datong, Yilan"
     },
@@ -87,7 +91,7 @@
         }
     ],
     "wof:id":890468309,
-    "wof:lastmodified":1563280919,
+    "wof:lastmodified":1566589810,
     "wof:name":"Datong Xiang",
     "wof:parent_id":85679567,
     "wof:placetype":"localadmin",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.81556,24.85111,121.85556,24.89111",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gangkou"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1310429463,
-    "wof:lastmodified":1564180357,
+    "wof:lastmodified":1566589520,
     "wof:name":"Gangkou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

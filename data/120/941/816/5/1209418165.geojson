@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.37944,22.82139,120.41944,22.86139",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wei-liao"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209418165,
-    "wof:lastmodified":1537708474,
+    "wof:lastmodified":1566589148,
     "wof:name":"Weiliao",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

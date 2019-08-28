@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.47695,22.56598,120.51695,22.60598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u9802\u982d\u524d\u539d",
         "Dingtouciancuo",
         "Dingtouqiancuo"
     ],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1260284717,
-    "wof:lastmodified":1537709983,
+    "wof:lastmodified":1566589340,
     "wof:name":"Dingtouqiancuo",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.9392,23.95243,120.9792,23.99243",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sihjiaojhuwei",
         "Ssu-chiao-chu-wei"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226540495,
-    "wof:lastmodified":1537709772,
+    "wof:lastmodified":1566590203,
     "wof:name":"Sijiaozhuwei",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

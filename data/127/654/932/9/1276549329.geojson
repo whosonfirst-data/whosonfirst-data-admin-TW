@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.59806,25.21123,121.63806,25.25123",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San-chieh",
         "Sanjietan"
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1276549329,
-    "wof:lastmodified":1537708763,
+    "wof:lastmodified":1566589099,
     "wof:name":"Sanjietan",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

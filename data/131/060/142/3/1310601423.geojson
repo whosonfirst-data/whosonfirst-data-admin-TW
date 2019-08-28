@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.71051,24.09051,120.75051,24.13051",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kuang-lung-ts\u2019un",
         "Kuang-lung",
         "\u8eca\u7c60\u57d4",
-        "Chelongbu",
-        "Ch\u2019e-lung-pu"
+        "Chelongbu"
     ],
     "name:zho_x_preferred":[
         "Ch\u2019e-lung-pu"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1310601423,
-    "wof:lastmodified":1537708978,
+    "wof:lastmodified":1566589572,
     "wof:name":"Chelongbu",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.21059,25.06995,121.25059,25.10995",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siapodu"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1293889731,
-    "wof:lastmodified":1537709744,
+    "wof:lastmodified":1566588928,
     "wof:name":"Xiapodu",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

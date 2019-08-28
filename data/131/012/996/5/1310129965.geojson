@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.42833,24.06917,120.46833,24.10917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jhuweizih",
         "Chu-wei-tzu"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1310129965,
-    "wof:lastmodified":1537709254,
+    "wof:lastmodified":1566589464,
     "wof:name":"Zhuweizi",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

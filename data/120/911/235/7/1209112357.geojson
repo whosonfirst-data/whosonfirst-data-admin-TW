@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.55398,22.63092,120.59398,22.67092",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dahe"
     ],
@@ -38,9 +42,7 @@
         "Dahe"
     ],
     "name:und_x_variant":[
-        "Ta-ho",
-        "\u5927\u548c",
-        "Dahe"
+        "Ta-ho"
     ],
     "name:zho_x_preferred":[
         "Ta-ho-ts\u2019un"
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":1209112357,
-    "wof:lastmodified":1564180000,
+    "wof:lastmodified":1566589217,
     "wof:name":"Dahe",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

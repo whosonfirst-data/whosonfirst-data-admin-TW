@@ -13,6 +13,7 @@
     "iso:country":"TW",
     "lbl:latitude":26.224487,
     "lbl:longitude":119.992099,
+    "lbl:min_zoom":9.0,
     "meso:adm1_en":"Fujian",
     "meso:adm1_loc":"\u9023\u6c5f\u7e23",
     "meso:gadm_admin":"Lienkiang (Matsu Islands)",
@@ -28,6 +29,7 @@
     "mps:longitude":119.992099,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":5.0,
     "name:cdo_x_preferred":[
         "Li\u00e8ng-g\u014fng-g\u00e2ing"
     ],
@@ -67,9 +69,6 @@
     "name:nan_x_preferred":[
         "Li\u00e2n-kang-ko\u0101n"
     ],
-    "name:und_x_variant":[
-        "\u9023\u6c5f\u7e23"
-    ],
     "name:yue_x_preferred":[
         "\u9023\u6c5f\u7e23"
     ],
@@ -81,7 +80,7 @@
     ],
     "src:geom":"meso",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -105,7 +104,7 @@
         }
     ],
     "wof:id":1108497811,
-    "wof:lastmodified":1563280303,
+    "wof:lastmodified":1566589457,
     "wof:name":"Lienchiang",
     "wof:parent_id":85679637,
     "wof:placetype":"macrocounty",

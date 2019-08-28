@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.05028,24.73556,121.09028,24.77556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sihchongbu"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1326854357,
-    "wof:lastmodified":1537709523,
+    "wof:lastmodified":1566588338,
     "wof:name":"Sichongbu",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

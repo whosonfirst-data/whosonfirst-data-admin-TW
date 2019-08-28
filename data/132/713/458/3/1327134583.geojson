@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.6618,24.2128,120.7018,24.2528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "San-chiao-ts\u2019un",
         "San-chiao",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1327134583,
-    "wof:lastmodified":1537708765,
+    "wof:lastmodified":1566588268,
     "wof:name":"Sanjiaozi",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

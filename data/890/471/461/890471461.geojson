@@ -11,8 +11,11 @@
     "geom:longitude":121.512605,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:cdo_x_preferred":[
         "D\u1e73\u0306ng-s\u0103ng-k\u1e73\u0306"
     ],
@@ -65,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2297222,
-        "qs:id":209414,
+        "qs_pg:id":209414,
         "wd:id":"Q707552",
         "wk:page":"Zhongshan District, Keelung"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890471461,
-    "wof:lastmodified":1563280702,
+    "wof:lastmodified":1566589703,
     "wof:name":"\u4e2d\u5c71\u5340",
     "wof:parent_id":1108756873,
     "wof:placetype":"county",

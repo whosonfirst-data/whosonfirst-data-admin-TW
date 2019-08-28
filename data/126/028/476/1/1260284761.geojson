@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.30078,23.21844,121.34078,23.25844",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u982d\u4eba\u57d4"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1260284761,
-    "wof:lastmodified":1537708536,
+    "wof:lastmodified":1566589341,
     "wof:name":"Tourenbu",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

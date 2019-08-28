@@ -26,15 +26,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.515,22.4575,120.555,22.4975",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "T\u2019ung-an-ts\u2019un",
         "\u4e09\u5343",
         "T\u2019ung-an",
         "Sancian",
-        "Sanqian",
-        "San-ch\u2019ien"
+        "Sanqian"
     ],
     "name:zho_x_preferred":[
         "San-ch\u2019ien"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1326554223,
-    "wof:lastmodified":1537708516,
+    "wof:lastmodified":1566588357,
     "wof:name":"Sanqian",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.42487,22.69483,120.46487,22.73483",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chou-tzu",
-        "\u6d32\u5b50",
         "Zhouzi",
         "Jhouzih"
     ],
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1242983671,
-    "wof:lastmodified":1537709316,
+    "wof:lastmodified":1566589953,
     "wof:name":"Zhouzi",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.5103,24.1937,120.5503,24.2337",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gaoyuanzih",
-        "Gaoyuanzi",
-        "Kao-y\u00fcan-tzu"
+        "Gaoyuanzi"
     ],
     "name:zho_x_preferred":[
         "\u9ad8\u5712\u5b50"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1243369839,
-    "wof:lastmodified":1537709471,
+    "wof:lastmodified":1566589860,
     "wof:name":"Gaoyuanzi",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

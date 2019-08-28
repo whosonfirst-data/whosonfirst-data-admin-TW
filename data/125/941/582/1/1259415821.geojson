@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.22861,23.14306,120.26861,23.18306",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Dongshi"
     ],
@@ -36,9 +40,7 @@
     ],
     "name:und_x_variant":[
         "Tung-shih",
-        "Dongshi",
-        "Dongshih",
-        "\u6771\u52e2"
+        "Dongshih"
     ],
     "name:zho_x_preferred":[
         "\u6771\u52e2"
@@ -66,7 +68,7 @@
         }
     ],
     "wof:id":1259415821,
-    "wof:lastmodified":1564181220,
+    "wof:lastmodified":1566590042,
     "wof:name":"Dongshi",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.67372,22.50754,120.71372,22.54754",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chen-ya",
         "Zhenyashe",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1343359797,
-    "wof:lastmodified":1537709397,
+    "wof:lastmodified":1566588542,
     "wof:name":"Zhenyashe",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

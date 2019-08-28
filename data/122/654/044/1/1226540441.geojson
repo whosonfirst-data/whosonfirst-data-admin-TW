@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.71837,25.07423,121.75837,25.11423",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jhongsinlun",
         "Chung-hsin-lun"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1226540441,
-    "wof:lastmodified":1537709288,
+    "wof:lastmodified":1566590207,
     "wof:name":"Zhongxinlun",
     "wof:parent_id":85679571,
     "wof:placetype":"locality",

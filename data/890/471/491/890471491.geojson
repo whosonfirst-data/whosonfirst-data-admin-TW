@@ -11,8 +11,11 @@
     "geom:longitude":120.651333,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.646333,24.142152,120.656333,24.152152",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
         "West District"
     ],
@@ -62,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28760412,
-        "qs:id":898784,
+        "qs_pg:id":898784,
         "wd:id":"Q309356",
         "wk:page":"West District, Taichung"
     },
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":890471491,
-    "wof:lastmodified":1563280666,
+    "wof:lastmodified":1566589684,
     "wof:name":"\u516c\u6b63\u91cc",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

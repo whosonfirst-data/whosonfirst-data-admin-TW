@@ -14,6 +14,8 @@
     "iso:country":"TW",
     "lbl:latitude":24.834633,
     "lbl:longitude":121.013838,
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mps:latitude":24.834633,
     "mps:longitude":121.013838,
     "mz:hierarchy_label":1,
@@ -70,7 +72,7 @@
     "name:ukr_x_preferred":[
         "\u0427\u0436\u0443\u0431\u0435\u0439"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Hung-mao"
     ],
     "name:vie_x_preferred":[
@@ -197,7 +199,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "wd:wordcount":585,
     "wof:belongsto":[
         102191569,
@@ -208,7 +210,6 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1677112,
-        "qs:id":1027062,
         "qs_pg:id":1027062,
         "wd:id":"Q29624",
         "wk:page":"Zhubei"
@@ -225,7 +226,7 @@
         }
     ],
     "wof:id":102026743,
-    "wof:lastmodified":1563278974,
+    "wof:lastmodified":1566588428,
     "wof:name":"Zhubei",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

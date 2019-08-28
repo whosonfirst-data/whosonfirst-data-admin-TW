@@ -11,8 +11,11 @@
     "geom:longitude":121.743192,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"121.738192,25.111533,121.748192,25.121533",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":15.0,
     "name:jpn_x_preferred":[
         "\u30bb\u30d3\u30e7\u30eb\u90e1"
     ],
@@ -53,7 +56,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28756052,
-        "qs:id":65955,
+        "qs_pg:id":65955,
         "wk:page":"Kyongwon County"
     },
     "wof:country":"TW",
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":890471105,
-    "wof:lastmodified":1564180608,
+    "wof:lastmodified":1566589672,
     "wof:name":"\u9f8d\u9580\u91cc",
     "wof:parent_id":102026749,
     "wof:placetype":"neighbourhood",

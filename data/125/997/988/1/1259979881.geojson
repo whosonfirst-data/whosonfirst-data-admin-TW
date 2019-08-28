@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.51807,24.00718,120.55807,24.04718",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hak_x_preferred":[
         "F\u00e2-th\u00e0n-hi\u00f4ng"
     ],
@@ -44,8 +48,7 @@
         "Huatan"
     ],
     "name:und_x_variant":[
-        "Ch\u2019ieh-tung-chiao",
-        "Hua-t\u2019an"
+        "Ch\u2019ieh-tung-chiao"
     ],
     "name:vie_x_preferred":[
         "Hoa \u0110\u00e0n"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1259979881,
-    "wof:lastmodified":1564181177,
+    "wof:lastmodified":1566590019,
     "wof:name":"Huatan",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

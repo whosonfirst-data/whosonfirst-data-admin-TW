@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.40021,25.13548,121.44021,25.17548",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Weizihnei",
         "Wa-tzu-nei",
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1193017883,
-    "wof:lastmodified":1537708477,
+    "wof:lastmodified":1566589272,
     "wof:name":"Weizinei",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

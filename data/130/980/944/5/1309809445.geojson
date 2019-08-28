@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.54466,25.06459,121.58466,25.10459",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Beishihhu",
         "Pai-shih-hu",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1309809445,
-    "wof:lastmodified":1537708822,
+    "wof:lastmodified":1566589665,
     "wof:name":"Beishihu",
     "wof:parent_id":85679583,
     "wof:placetype":"locality",

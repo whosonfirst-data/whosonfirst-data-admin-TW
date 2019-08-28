@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.82766,24.36083,120.86766,24.40083",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sihfen",
-        "Ssu-fen",
-        "\u56db\u5206"
+        "Ssu-fen"
     ],
     "name:zho_x_preferred":[
         "\u56db\u5206"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1276233943,
-    "wof:lastmodified":1537708655,
+    "wof:lastmodified":1566589054,
     "wof:name":"Sifen",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

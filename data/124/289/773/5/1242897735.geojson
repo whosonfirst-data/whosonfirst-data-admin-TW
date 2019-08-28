@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.49889,23.98556,120.53889,24.02556",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Shanxi"
     ],
@@ -251,9 +255,7 @@
         "Hsia-hsi-ts\u2019un",
         "Shen-hsi",
         "Shan-hsi-ts\u2019un",
-        "Shan-hsi",
-        "Shanxi",
-        "Shansi"
+        "Shan-hsi"
     ],
     "name:urd_x_preferred":[
         "\u0634\u0646\u0633\u06cc"
@@ -305,7 +307,7 @@
         }
     ],
     "wof:id":1242897735,
-    "wof:lastmodified":1564180949,
+    "wof:lastmodified":1566589892,
     "wof:name":"Shanxi",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

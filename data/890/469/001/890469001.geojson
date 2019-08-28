@@ -12,8 +12,12 @@
     "gn:country":"TW",
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"119.637714,23.640987,119.677714,23.680987",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "qs:name":"\u9ce5\u5dbc\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u6f8e\u6e56\u7e23",
@@ -35,7 +39,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28753500,
-        "qs:id":467630
+        "qs_pg:id":467630
     },
     "wof:country":"TW",
     "wof:created":1469053735,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":890469001,
-    "wof:lastmodified":1499923722,
+    "wof:lastmodified":1566589786,
     "wof:name":"\u9ce5\u5dbc\u6751",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.19583,24.8075,121.23583,24.8475",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Longyuan"
     ],
@@ -66,7 +70,7 @@
         }
     ],
     "wof:id":1327030541,
-    "wof:lastmodified":1564178776,
+    "wof:lastmodified":1566588323,
     "wof:name":"Longyuan",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

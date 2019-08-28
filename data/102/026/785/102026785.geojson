@@ -15,10 +15,13 @@
     "iso:country":"TW",
     "lbl:latitude":22.760977,
     "lbl:longitude":121.107991,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":22.760977,
     "mps:longitude":121.107991,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":7.0,
     "name:cdo_x_preferred":[
         "D\u00e0i-d\u1e73\u0306ng"
     ],
@@ -126,7 +129,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":770,
     "wof:belongsto":[
@@ -139,10 +142,12 @@
     "wof:concordances":{
         "gn:id":6949678,
         "gp:id":2306190,
-        "qs:id":161034,
-        "qs_pg:id":613425,
+        "qs_pg:id":161034,
         "wd:id":"Q713381",
         "wk:page":"Taitung City"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":613425
     },
     "wof:country":"TW",
     "wof:geomhash":"0744e0d757dfade6551391aafd0dcf00",
@@ -156,7 +161,7 @@
         }
     ],
     "wof:id":102026785,
-    "wof:lastmodified":1563278955,
+    "wof:lastmodified":1566588421,
     "wof:name":"Taitung City",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

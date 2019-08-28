@@ -26,16 +26,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.4601,22.6198,120.5001,22.6598",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Gongguan"
     ],
     "name:und_x_variant":[
         "Hsin-hsing-li",
-        "Kung-kuan",
-        "\u516c\u9928",
-        "Gongguan"
+        "Kung-kuan"
     ],
     "name:zho_x_preferred":[
         "\u516c\u9928"
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1309744931,
-    "wof:lastmodified":1564180582,
+    "wof:lastmodified":1566589653,
     "wof:name":"Gongguan",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

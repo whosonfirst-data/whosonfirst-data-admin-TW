@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.11889,23.19639,120.15889,23.23639",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Jiangjun"
     ],
@@ -37,8 +41,7 @@
     "name:und_x_variant":[
         "Chiang-fu",
         "Chiang-kun",
-        "Jiangjyun",
-        "Jiangjun"
+        "Jiangjyun"
     ],
     "name:zho_x_preferred":[
         "\u5c07\u8ecd"
@@ -70,7 +73,7 @@
         }
     ],
     "wof:id":1226366697,
-    "wof:lastmodified":1564181543,
+    "wof:lastmodified":1566590213,
     "wof:name":"Jiangjun",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

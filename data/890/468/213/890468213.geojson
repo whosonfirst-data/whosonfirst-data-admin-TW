@@ -11,8 +11,11 @@
     "geom:longitude":120.219225,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.214225,22.981517,120.224225,22.991517",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:deu_x_preferred":[
         "Jiaxian"
     ],
@@ -68,7 +71,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28755036,
-        "qs:id":485621,
+        "qs_pg:id":485621,
         "wd:id":"Q715951",
         "wk:page":"Jiasian District"
     },
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":890468213,
-    "wof:lastmodified":1563280976,
+    "wof:lastmodified":1566589836,
     "wof:name":"\u6771\u5b89\u91cc",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

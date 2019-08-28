@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.68674,24.19437,120.72674,24.23437",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Tanzi"
     ],
@@ -38,9 +42,7 @@
         "T\u2019an-tzu-hsiang",
         "T\u2019an-tzu-chuang",
         "\u6f6d\u5b50",
-        "Tanzih",
-        "Tanzi",
-        "T\u2019an-tzu"
+        "Tanzih"
     ],
     "name:zho_x_preferred":[
         "T\u2019an-tzu"
@@ -68,7 +70,7 @@
         }
     ],
     "wof:id":1226243019,
-    "wof:lastmodified":1564181479,
+    "wof:lastmodified":1566590181,
     "wof:name":"Tanzi",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

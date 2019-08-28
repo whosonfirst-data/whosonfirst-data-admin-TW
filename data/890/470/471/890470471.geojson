@@ -11,8 +11,12 @@
     "geom:longitude":121.527671,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"121.507671,24.025836,121.547671,24.065836",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Xinning Xian"
     ],
@@ -61,7 +65,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28759319,
-        "qs:id":1089090,
+        "qs_pg:id":1089090,
         "wk:page":"Xinning County"
     },
     "wof:country":"TW",
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":890470471,
-    "wof:lastmodified":1564180671,
+    "wof:lastmodified":1566589717,
     "wof:name":"\u6c34\u6e90\u6751",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

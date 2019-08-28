@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.31306,23.46694,120.35306,23.50694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hak_x_preferred":[
         "S\u00een-ph\u00ee-hi\u00f4ng"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1293595427,
-    "wof:lastmodified":1564179440,
+    "wof:lastmodified":1566588845,
     "wof:name":"Xinpi",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.75263,24.39477,120.79263,24.43477",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:fra_x_preferred":[
         "Sanyi"
     ],
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":1293784559,
-    "wof:lastmodified":1564179406,
+    "wof:lastmodified":1566588823,
     "wof:name":"Sanyi",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

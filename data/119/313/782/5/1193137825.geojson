@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.53408,23.98408,121.57408,24.02408",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "Shui-y\u00fcan",
         "Shuiyuancun",
         "Shueiyuancun"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":1193137825,
-    "wof:lastmodified":1537708524,
+    "wof:lastmodified":1566589274,
     "wof:name":"Shuiyuancun",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

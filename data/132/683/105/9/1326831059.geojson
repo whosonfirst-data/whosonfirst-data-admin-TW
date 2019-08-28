@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.6425,24.0685,120.6825,24.1085",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chan-ts\u2019o",
         "\u8a79\u539d\u5712",
         "Jhancuoyuan",
-        "Zhancuoyuan",
-        "Chan-ts\u2019o-y\u00fcan"
+        "Zhancuoyuan"
     ],
     "name:zho_x_preferred":[
         "Chan-ts\u2019o-y\u00fcan"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1326831059,
-    "wof:lastmodified":1537709408,
+    "wof:lastmodified":1566588345,
     "wof:name":"Zhancuoyuan",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

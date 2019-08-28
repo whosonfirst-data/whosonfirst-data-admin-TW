@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.50484,22.60299,120.54484,22.64299",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sishihjhuang",
         "Xishizhuang",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1310601629,
-    "wof:lastmodified":1537709970,
+    "wof:lastmodified":1566589574,
     "wof:name":"Xishizhuang",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

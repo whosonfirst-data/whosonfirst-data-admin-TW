@@ -11,8 +11,11 @@
     "geom:longitude":120.22418,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.21918,22.980407,120.22918,22.990407",
+    "lbl:max_zoom":18.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":15.0,
     "name:eng_x_preferred":[
         "Longjing District"
     ],
@@ -65,7 +68,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28755083,
-        "qs:id":982529,
+        "qs_pg:id":982529,
         "wd:id":"Q569700",
         "wk:page":"Longjing District"
     },
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":890469429,
-    "wof:lastmodified":1563280896,
+    "wof:lastmodified":1566589798,
     "wof:name":"\u65b0\u6771\u91cc",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.04778,24.82472,121.08778,24.86472",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u5927\u5e73\u7aa9"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1260003471,
-    "wof:lastmodified":1537708621,
+    "wof:lastmodified":1566589303,
     "wof:name":"Dapingwo",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

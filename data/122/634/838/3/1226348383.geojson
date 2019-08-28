@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.81595,24.57488,120.85595,24.61488",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u5927\u57d4\u5712"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226348383,
-    "wof:lastmodified":1537709724,
+    "wof:lastmodified":1566590147,
     "wof:name":"Dabuyuan",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

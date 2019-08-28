@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.48889,22.45,120.52889,22.49",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u8349\u539d\u5bee",
-        "Caocuoliao",
-        "Ts\u2019ao-ts\u2019o-liao"
+        "Caocuoliao"
     ],
     "name:zho_x_preferred":[
         "Ts\u2019ao-ts\u2019o-liao"
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1259880213,
-    "wof:lastmodified":1537709607,
+    "wof:lastmodified":1566590095,
     "wof:name":"Caocuoliao",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

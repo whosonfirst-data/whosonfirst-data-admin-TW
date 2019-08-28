@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.45858,23.875,120.49858,23.915",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hak_x_preferred":[
         "Ph\u00ee-th\u00e8u-hi\u00f4ng"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1259707831,
-    "wof:lastmodified":1564181207,
+    "wof:lastmodified":1566590035,
     "wof:name":"Pitou",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

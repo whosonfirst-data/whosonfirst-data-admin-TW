@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.61947,22.90064,120.65947,22.94064",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Erh-pei",
         "Erpo"
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1343670701,
-    "wof:lastmodified":1537709248,
+    "wof:lastmodified":1566588561,
     "wof:name":"Erpo",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

@@ -26,11 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.58635,24.01237,120.62635,24.05237",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:und_x_variant":[
-        "Lin-ts\u2019o-k\u2019eng"
-    ],
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u6797\u539d\u5751"
     ],
@@ -60,7 +61,7 @@
         }
     ],
     "wof:id":1276442627,
-    "wof:lastmodified":1537708932,
+    "wof:lastmodified":1566588961,
     "wof:name":"Lincuokeng",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.36106,23.13809,120.40106,23.17809",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pizihjiao",
         "Pizijiao"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1276800305,
-    "wof:lastmodified":1537709964,
+    "wof:lastmodified":1566588969,
     "wof:name":"Pizijiao",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.42361,24.00417,120.46361,24.04417",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pao-an",
         "Lucuo"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1326730691,
-    "wof:lastmodified":1537708895,
+    "wof:lastmodified":1566588247,
     "wof:name":"Lucuo",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

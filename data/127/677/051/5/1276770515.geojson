@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.44667,24.98,121.48667,25.02",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jeh-hsin-hsin-ts\u2019un",
         "Jih-hsin-hsin-ts\u2019un",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276770515,
-    "wof:lastmodified":1537709021,
+    "wof:lastmodified":1566589070,
     "wof:name":"Rixinxincun",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

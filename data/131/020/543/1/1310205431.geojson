@@ -26,13 +26,16 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.67329,23.92949,120.71329,23.96949",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Chung Hsing New Village"
     ],
     "name:und_x_variant":[
-        "Chung Hsing New Village",
         "Jhongsingsincun",
         "Zhongxingxincun"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":1310205431,
-    "wof:lastmodified":1537709289,
+    "wof:lastmodified":1566589525,
     "wof:name":"Zhongxingxincun",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

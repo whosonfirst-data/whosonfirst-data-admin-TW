@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.5701,23.8519,120.6101,23.8919",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:hak_x_preferred":[
         "Kham-t\u00e1ng-hi\u00f4ng"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1242897709,
-    "wof:lastmodified":1564180945,
+    "wof:lastmodified":1566589890,
     "wof:name":"Kanding",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

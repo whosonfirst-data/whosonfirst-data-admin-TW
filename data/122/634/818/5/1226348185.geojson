@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.4001,23.7724,120.4401,23.8124",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u5c16\u539d\u5d19"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1226348185,
-    "wof:lastmodified":1537709700,
+    "wof:lastmodified":1566590140,
     "wof:name":"Jiancuolun",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

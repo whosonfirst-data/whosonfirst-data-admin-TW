@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.43949,23.71654,121.47949,23.75654",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0436\u0443\u043d\u044e\u0435\u043d"
     ],
@@ -62,8 +66,7 @@
         "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0430 \u0440\u0456\u0432\u043d\u0438\u043d\u0430"
     ],
     "name:und_x_variant":[
-        "Jhongyuan",
-        "Zhongyuan"
+        "Jhongyuan"
     ],
     "name:vie_x_preferred":[
         "Trung Nguy\u00ean"
@@ -100,7 +103,7 @@
         }
     ],
     "wof:id":1226266633,
-    "wof:lastmodified":1564181374,
+    "wof:lastmodified":1566590130,
     "wof:name":"Zhongyuan",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.76322,23.94392,120.80322,23.98392",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u99ac\u9130\u5751"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1360309339,
-    "wof:lastmodified":1537709785,
+    "wof:lastmodified":1566589590,
     "wof:name":"Malinkeng",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

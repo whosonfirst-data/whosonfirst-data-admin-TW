@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.21167,23.04611,121.25167,23.08611",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shan-tsung-liao"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209129929,
-    "wof:lastmodified":1537709662,
+    "wof:lastmodified":1566589152,
     "wof:name":"Shanzongliao",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

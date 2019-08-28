@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.57773,24.20029,120.61773,24.24029",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ta-tu-shan-ting"
     ],
@@ -57,7 +61,7 @@
         }
     ],
     "wof:id":1260284521,
-    "wof:lastmodified":1537709473,
+    "wof:lastmodified":1566589342,
     "wof:name":"Dadushanding",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

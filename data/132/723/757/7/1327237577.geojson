@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.5005,24.1033,120.5405,24.1433",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "T\u2019an-she",
         "Tung-she",
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1327237577,
-    "wof:lastmodified":1537708602,
+    "wof:lastmodified":1566588292,
     "wof:name":"Dongshishe",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.11333,23.24667,120.15333,23.28667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Li-hu-ts\u2019un",
         "Li-hu",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1276124251,
-    "wof:lastmodified":1537708937,
+    "wof:lastmodified":1566589058,
     "wof:name":"Lihu",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

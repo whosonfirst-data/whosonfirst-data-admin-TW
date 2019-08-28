@@ -26,13 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.50097,24.08612,120.54097,24.12612",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u6771\u52e2\u982d",
         "Dongshitou",
-        "Dongshihtou",
-        "Tung-shih-t\u2019ou"
+        "Dongshihtou"
     ],
     "name:zho_x_preferred":[
         "\u6771\u52e2\u982d"
@@ -63,7 +65,7 @@
         }
     ],
     "wof:id":1276448833,
-    "wof:lastmodified":1537709929,
+    "wof:lastmodified":1566588958,
     "wof:name":"Dongshitou",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

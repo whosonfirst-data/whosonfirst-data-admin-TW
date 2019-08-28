@@ -26,17 +26,19 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.43075,25.11312,121.47075,25.15312",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Longxing"
     ],
     "name:und_x_variant":[
-        "Lung-y\u00fcan",
         "She-tzu-hsing",
         "Shih-wei",
         "Shui-wei",
-        "Longxing",
         "Longsing",
         "Lung-hsing"
     ],
@@ -71,7 +73,7 @@
         }
     ],
     "wof:id":1276880717,
-    "wof:lastmodified":1564179600,
+    "wof:lastmodified":1566588949,
     "wof:name":"Longxing",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

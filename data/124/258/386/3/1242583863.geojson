@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.6096,24.1484,121.6496,24.1884",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0430\u043b\u0438"
     ],
@@ -96,7 +100,6 @@
     ],
     "name:und_x_variant":[
         "Ta-li-she",
-        "Dali",
         "Ta-li"
     ],
     "name:zho_x_preferred":[
@@ -125,7 +128,7 @@
         }
     ],
     "wof:id":1242583863,
-    "wof:lastmodified":1564181003,
+    "wof:lastmodified":1566589920,
     "wof:name":"Dali",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.49514,23.34935,120.53514,23.38935",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Guanjhenshuan",
         "Guanzhenshuan",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1343662249,
-    "wof:lastmodified":1537709863,
+    "wof:lastmodified":1566588530,
     "wof:name":"Guanzhenshuan",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

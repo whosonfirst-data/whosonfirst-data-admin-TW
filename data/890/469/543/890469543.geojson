@@ -11,8 +11,12 @@
     "geom:longitude":120.74585,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.72585,24.3070835,120.76585,24.3470835",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Tai'an Village"
     ],
@@ -37,7 +41,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":28757387,
-        "qs:id":984417,
+        "qs_pg:id":984417,
         "wd:id":"Q25349524",
         "wk:page":"Tai'an Village"
     },
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":890469543,
-    "wof:lastmodified":1563280876,
+    "wof:lastmodified":1566589788,
     "wof:name":"\u6cf0\u5b89\u6751",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

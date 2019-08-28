@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"119.50988,23.61846,119.54988,23.65846",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ho-chieh"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1242897715,
-    "wof:lastmodified":1537709196,
+    "wof:lastmodified":1566589889,
     "wof:name":"Hejie",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":121.6,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":21851,
+    "gn:population":21851,
     "iso:country":"TW",
+    "lbl:bbox":"121.5,25.11667,121.7,25.31667",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":9.0,
     "name:cym_x_preferred":[
         "Sir Taipei"
     ],
@@ -27,7 +31,7 @@
     "name:rus_x_preferred":[
         "\u0426\u0437\u0438\u043d\u0448\u0430\u043d\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Chin-shan Hsiang"
     ],
     "name:zho_x_preferred":[
@@ -51,7 +55,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1677980,
-        "qs:id":558556,
+        "qs_pg:id":558556,
         "wd:id":"Q24287568",
         "wk:page":"Taipei County"
     },
@@ -68,7 +72,7 @@
         }
     ],
     "wof:id":890472063,
-    "wof:lastmodified":1563280793,
+    "wof:lastmodified":1566589752,
     "wof:name":"Jinshan Xiang",
     "wof:parent_id":85679585,
     "wof:placetype":"localadmin",

@@ -26,14 +26,17 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.55353,24.14403,120.59353,24.18403",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Jui-ching",
         "Jui-ching-ts\u2019un",
         "Jingzihtou",
-        "Jingzitou",
-        "Ching-tzu-t\u2019ou"
+        "Jingzitou"
     ],
     "name:zho_x_preferred":[
         "\u4e95\u5b50\u982d"
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1293595365,
-    "wof:lastmodified":1537709020,
+    "wof:lastmodified":1566588846,
     "wof:name":"Jingzitou",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

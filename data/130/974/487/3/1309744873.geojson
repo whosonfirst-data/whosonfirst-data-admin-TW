@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.44644,25.10297,121.48644,25.14297",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Guandu"
     ],
@@ -42,7 +46,6 @@
     ],
     "name:und_x_variant":[
         "Kuan-tu-li",
-        "Guandu",
         "Kuan-tu"
     ],
     "name:zho_x_preferred":[
@@ -71,7 +74,7 @@
         }
     ],
     "wof:id":1309744873,
-    "wof:lastmodified":1564180581,
+    "wof:lastmodified":1566589653,
     "wof:name":"Guandu",
     "wof:parent_id":85679583,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.41954,23.70484,120.45954,23.74484",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ansiliao",
         "An-hsi-liao"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1210017107,
-    "wof:lastmodified":1537709422,
+    "wof:lastmodified":1566589257,
     "wof:name":"Anxiliao",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

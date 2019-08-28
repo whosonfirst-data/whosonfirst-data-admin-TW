@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.62434,24.05469,120.66434,24.09469",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "Kezihjhuang",
-        "K\u2019o-tzu-chuang"
+        "Kezihjhuang"
     ],
     "name:zho_x_preferred":[
         "\u5ba2\u4ed4\u5e84"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1226048613,
-    "wof:lastmodified":1537709929,
+    "wof:lastmodified":1566590155,
     "wof:name":"Kezizhuang",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

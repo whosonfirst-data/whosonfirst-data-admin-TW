@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.0461,22.88053,121.0861,22.92053",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chiu-hung-yeh",
         "Jiouhongye"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1260290969,
-    "wof:lastmodified":1537709897,
+    "wof:lastmodified":1566589336,
     "wof:name":"Jiuhongye",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

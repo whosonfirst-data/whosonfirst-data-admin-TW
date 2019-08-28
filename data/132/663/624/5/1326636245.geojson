@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.82914,24.5871,120.86914,24.6271",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ganjhenwo",
         "Ganzhenwo",
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":1326636245,
-    "wof:lastmodified":1537709724,
+    "wof:lastmodified":1566588371,
     "wof:name":"Ganzhenwo",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

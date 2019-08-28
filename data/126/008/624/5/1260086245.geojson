@@ -26,15 +26,18 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.74967,24.15936,120.78967,24.19936",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Heng-k\u2019eng",
         "Heng-k\u2019eng-hsiang",
         "\u4e0b\u6a6b\u5751",
         "Xiahengkeng",
-        "Siahengkeng",
-        "Hsia-heng-k\u2019eng"
+        "Siahengkeng"
     ],
     "name:zho_x_preferred":[
         "Hsia-heng-k\u2019eng"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1260086245,
-    "wof:lastmodified":1537709168,
+    "wof:lastmodified":1566589317,
     "wof:name":"Xiahengkeng",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

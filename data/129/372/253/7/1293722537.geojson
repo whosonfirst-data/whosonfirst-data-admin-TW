@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.52724,23.33721,120.56724,23.37721",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Dongxing"
     ],
@@ -55,7 +59,6 @@
     "name:und_x_variant":[
         "Dongsing",
         "Chung-lun",
-        "Dongxing",
         "Tung-hsing"
     ],
     "name:vie_x_preferred":[
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1293722537,
-    "wof:lastmodified":1564179560,
+    "wof:lastmodified":1566588919,
     "wof:name":"Dongxing",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

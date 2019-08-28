@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.27335,22.66862,120.31335,22.70862",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:deu_x_preferred":[
         "Zuoying"
     ],
@@ -47,8 +51,7 @@
         "Tsao-Ying",
         "Tso-yin",
         "Tso-ying",
-        "\u5de6\u71df",
-        "Zuoying"
+        "\u5de6\u71df"
     ],
     "name:vie_x_preferred":[
         "T\u1ea3 Doanh"
@@ -80,7 +83,7 @@
         }
     ],
     "wof:id":1259792329,
-    "wof:lastmodified":1564181212,
+    "wof:lastmodified":1566590038,
     "wof:name":"Zuoying",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

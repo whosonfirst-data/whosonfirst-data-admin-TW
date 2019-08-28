@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.5489,23.35363,120.5889,23.39363",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Shihzihhu",
         "Shih-tzu-hu"
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1293807713,
-    "wof:lastmodified":1537709863,
+    "wof:lastmodified":1566588905,
     "wof:name":"Shizihu",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

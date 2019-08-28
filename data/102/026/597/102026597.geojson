@@ -15,6 +15,8 @@
     "iso:country":"TW",
     "lbl:latitude":23.699864,
     "lbl:longitude":120.536499,
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.0,
     "mps:latitude":23.699864,
     "mps:longitude":120.536499,
     "mz:hierarchy_label":1,
@@ -92,7 +94,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0443\u043b\u044e"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Tou-liu"
     ],
     "name:vie_x_preferred":[
@@ -220,7 +222,7 @@
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"geonames",
     "wd:wordcount":641,
     "wof:belongsto":[
@@ -234,7 +236,6 @@
         "fct:id":"07f2615c-8f76-11e1-848f-cfd5bf3ef515",
         "gn:id":1665196,
         "gp:id":2304915,
-        "qs:id":371183,
         "qs_pg:id":371183,
         "wd:id":"Q669566",
         "wk:page":"Douliu"
@@ -254,7 +255,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1563278960,
+    "wof:lastmodified":1566588423,
     "wof:name":"Douliu",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

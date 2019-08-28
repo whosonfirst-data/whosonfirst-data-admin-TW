@@ -11,17 +11,21 @@
     "geom:longitude":121.35,
     "gn:country":"TW",
     "gn:fcode":"ADMD",
-    "gn:pop":0,
+    "gn:population":0,
     "iso:country":"TW",
+    "lbl:bbox":"121.25,24.93333,121.45,25.13333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cym_x_preferred":[
         "Sir Taoyuan"
     ],
     "name:eng_x_preferred":[
         "Taoyuan County"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Kuei-shan Hsiang"
     ],
     "name:zho_x_preferred":[
@@ -45,7 +49,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1673423,
-        "qs:id":1027057,
+        "qs_pg:id":1027057,
         "wd:id":"Q25303104",
         "wk:page":"Taoyuan County, Taiwan"
     },
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":890468705,
-    "wof:lastmodified":1563280957,
+    "wof:lastmodified":1566589827,
     "wof:name":"Guishan Xiang",
     "wof:parent_id":85679589,
     "wof:placetype":"localadmin",

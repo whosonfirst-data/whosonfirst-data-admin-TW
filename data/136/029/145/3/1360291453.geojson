@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.12,24.76694,121.16,24.80694",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sikeng"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1360291453,
-    "wof:lastmodified":1537709114,
+    "wof:lastmodified":1566589607,
     "wof:name":"Xikeng",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

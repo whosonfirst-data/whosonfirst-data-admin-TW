@@ -26,10 +26,13 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.40015,22.53603,120.44015,22.57603",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
-        "\u70cf\u9f8d\u6d32",
         "Wu-lung-chou",
         "Wulongjhou"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1326839303,
-    "wof:lastmodified":1537709986,
+    "wof:lastmodified":1566588345,
     "wof:name":"Wulongzhou",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

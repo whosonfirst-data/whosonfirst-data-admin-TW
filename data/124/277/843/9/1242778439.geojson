@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.61985,24.02137,120.65985,24.06137",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Niouluokan",
-        "Niuluokan",
-        "Niu-lo-k\u2019an"
+        "Niuluokan"
     ],
     "name:zho_x_preferred":[
         "\u725b\u7f85\u5d01"
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":1242778439,
-    "wof:lastmodified":1537709929,
+    "wof:lastmodified":1566589942,
     "wof:name":"Niuluokan",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

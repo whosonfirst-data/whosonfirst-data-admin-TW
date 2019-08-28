@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.83853,23.78568,120.87853,23.82568",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Chien-tzu",
         "Shezi",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1242874517,
-    "wof:lastmodified":1537708712,
+    "wof:lastmodified":1566589887,
     "wof:name":"Shezi",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

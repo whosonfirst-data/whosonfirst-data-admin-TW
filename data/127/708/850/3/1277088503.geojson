@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"118.21632,24.40901,118.25632,24.44901",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "\u524d\u57d4",
         "Ch\u2019ien-pu",
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1277088503,
-    "wof:lastmodified":1537709369,
+    "wof:lastmodified":1566588932,
     "wof:name":"Qianbu",
     "wof:parent_id":85679635,
     "wof:placetype":"locality",

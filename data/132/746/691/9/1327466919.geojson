@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.16722,23.11194,121.20722,23.15194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:afr_x_preferred":[
         "Lu'an"
     ],
@@ -121,9 +125,6 @@
     "name:tur_x_preferred":[
         "Lu'an"
     ],
-    "name:und_x_variant":[
-        "Lu-an"
-    ],
     "name:urd_x_preferred":[
         "\u0644\u0648\u0622\u0646"
     ],
@@ -166,7 +167,7 @@
         }
     ],
     "wof:id":1327466919,
-    "wof:lastmodified":1564178742,
+    "wof:lastmodified":1566588299,
     "wof:name":"Lu'an",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

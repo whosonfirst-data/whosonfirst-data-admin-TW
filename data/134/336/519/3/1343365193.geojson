@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.22117,25.08945,121.26117,25.12945",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ace_x_preferred":[
         "Haikou"
     ],
@@ -242,7 +246,7 @@
         }
     ],
     "wof:id":1343365193,
-    "wof:lastmodified":1564178909,
+    "wof:lastmodified":1566588433,
     "wof:name":"Haikou",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

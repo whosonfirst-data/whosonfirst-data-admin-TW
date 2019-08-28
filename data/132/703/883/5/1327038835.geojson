@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.31408,22.51594,120.35408,22.55594",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Haicheng"
     ],
@@ -41,10 +45,6 @@
         "Haicheng"
     ],
     "name:swe_x_preferred":[
-        "Haicheng"
-    ],
-    "name:und_x_variant":[
-        "\u6d77\u6f84",
         "Haicheng"
     ],
     "name:zho_x_preferred":[
@@ -76,7 +76,7 @@
         }
     ],
     "wof:id":1327038835,
-    "wof:lastmodified":1564178781,
+    "wof:lastmodified":1566588327,
     "wof:name":"Haicheng",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.28485,23.11406,120.32485,23.15406",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ta-chu-wei",
         "Jhuwei",
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1226266849,
-    "wof:lastmodified":1537708632,
+    "wof:lastmodified":1566590129,
     "wof:name":"Zhuwei",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

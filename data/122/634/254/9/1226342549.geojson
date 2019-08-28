@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"119.46083,23.54528,119.50083,23.58528",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wai-an-she",
         "Wai-an"
@@ -64,7 +68,7 @@
         }
     ],
     "wof:id":1226342549,
-    "wof:lastmodified":1537708492,
+    "wof:lastmodified":1566590148,
     "wof:name":"Wai'an",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.58694,23.90667,121.62694,23.94667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Ling-ting",
-        "Lingding",
-        "\u5dba\u9802"
+        "Lingding"
     ],
     "name:zho_x_preferred":[
         "\u5dba\u9802"
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":1225950515,
-    "wof:lastmodified":1537709500,
+    "wof:lastmodified":1566590108,
     "wof:name":"Lingding",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.79821,24.63452,121.83821,24.67452",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Wu-shih-erh-chia"
     ],
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":1327054177,
-    "wof:lastmodified":1537709747,
+    "wof:lastmodified":1566588301,
     "wof:name":"Wushi'erjia",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

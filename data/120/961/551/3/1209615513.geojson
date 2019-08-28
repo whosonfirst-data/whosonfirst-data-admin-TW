@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.47049,23.14652,120.51049,23.18652",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "\u6cb9\u8eca"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209615513,
-    "wof:lastmodified":1537709962,
+    "wof:lastmodified":1566589181,
     "wof:name":"Youche",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

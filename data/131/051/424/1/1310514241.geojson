@@ -26,11 +26,14 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.40522,22.6558,120.44522,22.6958",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Kung-kuan",
-        "\u7af9\u5bee\u6751",
         "Chu-liao",
         "Zhuliaocun",
         "Jhuliaocun"
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":1310514241,
-    "wof:lastmodified":1537709304,
+    "wof:lastmodified":1566589567,
     "wof:name":"Zhuliaocun",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

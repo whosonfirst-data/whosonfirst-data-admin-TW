@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.27021,24.78185,121.31021,24.82185",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siagaorao",
         "Hsia-kao-jao"
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":1259489157,
-    "wof:lastmodified":1537708988,
+    "wof:lastmodified":1566590027,
     "wof:name":"Xiagaorao",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

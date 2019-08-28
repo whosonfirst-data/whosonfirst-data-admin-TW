@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.89151,24.37923,120.93151,24.41923",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:bul_x_preferred":[
         "\u0414\u0430\u043b\u0438"
     ],
@@ -123,7 +127,7 @@
         }
     ],
     "wof:id":1293099719,
-    "wof:lastmodified":1564179323,
+    "wof:lastmodified":1566588772,
     "wof:name":"Dali",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.4862,23.88088,120.5262,23.92088",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Sincuocun"
     ],
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":1276898405,
-    "wof:lastmodified":1537709703,
+    "wof:lastmodified":1566588966,
     "wof:name":"Xincuocun",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

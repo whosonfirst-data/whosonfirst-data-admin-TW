@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.3125,22.89194,120.3525,22.93194",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Pu-tai-wei"
     ],
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1209515633,
-    "wof:lastmodified":1537708771,
+    "wof:lastmodified":1566589208,
     "wof:name":"Budaiwei",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",

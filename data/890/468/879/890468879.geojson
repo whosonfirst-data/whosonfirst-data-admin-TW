@@ -11,8 +11,11 @@
     "geom:longitude":121.748861,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":6.0,
     "name:cym_x_preferred":[
         "Sir Taipei"
     ],
@@ -47,7 +50,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":2301745,
-        "qs:id":424901,
+        "qs_pg:id":424901,
         "wd:id":"Q24287568",
         "wk:page":"Taipei County"
     },
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890468879,
-    "wof:lastmodified":1563280969,
+    "wof:lastmodified":1566589832,
     "wof:name":"\u5e73\u6eaa\u9109",
     "wof:parent_id":1108756871,
     "wof:placetype":"county",

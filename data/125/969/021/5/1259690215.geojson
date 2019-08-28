@@ -26,8 +26,12 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"120.82924,24.21212,120.86924,24.25212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Siahengkeng",
         "Xiahengkeng"
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":1259690215,
-    "wof:lastmodified":1537709453,
+    "wof:lastmodified":1566590082,
     "wof:name":"Xiahengkeng",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

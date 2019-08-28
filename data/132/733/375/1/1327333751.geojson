@@ -26,12 +26,15 @@
     "gn:population":0,
     "gn:timezone":"Asia/Taipei",
     "iso:country":"TW",
+    "lbl:bbox":"121.30309,23.34397,121.34309,23.38397",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Suan-kan",
         "Suan-kan-li",
-        "\u7d14\u67d1",
         "Chungan"
     ],
     "name:zho_x_preferred":[
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":1327333751,
-    "wof:lastmodified":1537709269,
+    "wof:lastmodified":1566588314,
     "wof:name":"Chungan",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",
