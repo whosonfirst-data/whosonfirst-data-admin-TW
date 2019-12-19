@@ -113,7 +113,13 @@
         }
     ],
     "wof:id":1108497005,
-    "wof:lastmodified":1566589437,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1576795774,
     "wof:name":"Taichung",
     "wof:parent_id":85679617,
     "wof:placetype":"macrocounty",

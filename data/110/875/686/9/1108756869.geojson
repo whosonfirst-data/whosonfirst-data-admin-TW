@@ -121,7 +121,13 @@
         }
     ],
     "wof:id":1108756869,
-    "wof:lastmodified":1566589391,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1576795768,
     "wof:name":"Tainan",
     "wof:parent_id":85679553,
     "wof:placetype":"macrocounty",

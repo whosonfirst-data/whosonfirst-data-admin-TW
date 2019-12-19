@@ -206,7 +206,13 @@
         }
     ],
     "wof:id":1108499097,
-    "wof:lastmodified":1566589428,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1576795775,
     "wof:name":"Changhua",
     "wof:parent_id":85679593,
     "wof:placetype":"macrocounty",

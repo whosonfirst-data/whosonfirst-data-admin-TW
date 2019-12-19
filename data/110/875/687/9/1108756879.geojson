@@ -203,7 +203,13 @@
         }
     ],
     "wof:id":1108756879,
-    "wof:lastmodified":1566589400,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1576795773,
     "wof:name":"Miaoli",
     "wof:parent_id":85679575,
     "wof:placetype":"macrocounty",
