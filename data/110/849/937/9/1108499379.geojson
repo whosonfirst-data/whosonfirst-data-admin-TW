@@ -206,7 +206,13 @@
         }
     ],
     "wof:id":1108499379,
-    "wof:lastmodified":1566589432,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1576795760,
     "wof:name":"Yilan",
     "wof:parent_id":85679567,
     "wof:placetype":"macrocounty",

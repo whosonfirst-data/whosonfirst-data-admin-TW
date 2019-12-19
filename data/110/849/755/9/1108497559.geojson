@@ -207,7 +207,13 @@
         }
     ],
     "wof:id":1108497559,
-    "wof:lastmodified":1566589429,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1576795777,
     "wof:name":"Hsinchu",
     "wof:parent_id":85679557,
     "wof:placetype":"macrocounty",

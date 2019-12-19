@@ -170,7 +170,13 @@
         }
     ],
     "wof:id":1108500085,
-    "wof:lastmodified":1566589412,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1576795780,
     "wof:name":"Penghu",
     "wof:parent_id":85679627,
     "wof:placetype":"macrocounty",

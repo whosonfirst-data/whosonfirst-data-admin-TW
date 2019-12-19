@@ -225,7 +225,13 @@
         }
     ],
     "wof:id":1108756877,
-    "wof:lastmodified":1566589402,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1576795772,
     "wof:name":"Kaohsiung",
     "wof:parent_id":85679547,
     "wof:placetype":"macrocounty",

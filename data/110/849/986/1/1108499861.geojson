@@ -203,7 +203,13 @@
         }
     ],
     "wof:id":1108499861,
-    "wof:lastmodified":1566589463,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1576795777,
     "wof:name":"Chiayi",
     "wof:parent_id":85679603,
     "wof:placetype":"macrocounty",

@@ -209,7 +209,13 @@
         }
     ],
     "wof:id":1108498083,
-    "wof:lastmodified":1566589453,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1576795778,
     "wof:name":"Hualien",
     "wof:parent_id":85679607,
     "wof:placetype":"macrocounty",

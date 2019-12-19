@@ -203,7 +203,13 @@
         }
     ],
     "wof:id":1108499511,
-    "wof:lastmodified":1566589446,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1576795776,
     "wof:name":"Taitung",
     "wof:parent_id":85679623,
     "wof:placetype":"macrocounty",

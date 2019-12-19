@@ -224,7 +224,13 @@
         }
     ],
     "wof:id":1108497279,
-    "wof:lastmodified":1566589462,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1576795785,
     "wof:name":"Kinmen",
     "wof:parent_id":85679635,
     "wof:placetype":"macrocounty",

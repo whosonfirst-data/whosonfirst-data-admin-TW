@@ -203,7 +203,13 @@
         }
     ],
     "wof:id":1108498475,
-    "wof:lastmodified":1566589448,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1576795783,
     "wof:name":"Nantou",
     "wof:parent_id":85679611,
     "wof:placetype":"macrocounty",

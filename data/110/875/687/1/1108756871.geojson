@@ -60,7 +60,13 @@
         }
     ],
     "wof:id":1108756871,
-    "wof:lastmodified":1566589404,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1576795769,
     "wof:name":"New Taipei",
     "wof:parent_id":85679585,
     "wof:placetype":"macrocounty",

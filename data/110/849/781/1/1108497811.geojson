@@ -104,7 +104,13 @@
         }
     ],
     "wof:id":1108497811,
-    "wof:lastmodified":1566589457,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1576795763,
     "wof:name":"Lienchiang",
     "wof:parent_id":85679637,
     "wof:placetype":"macrocounty",

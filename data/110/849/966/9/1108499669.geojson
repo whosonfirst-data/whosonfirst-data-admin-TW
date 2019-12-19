@@ -90,7 +90,13 @@
         }
     ],
     "wof:id":1108499669,
-    "wof:lastmodified":1566589443,
+    "wof:lang_x_official":[
+        "zho"
+    ],
+    "wof:lang_x_spoken":[
+        "zho"
+    ],
+    "wof:lastmodified":1576795759,
     "wof:name":"Taoyuan",
     "wof:parent_id":85679589,
     "wof:placetype":"macrocounty",
