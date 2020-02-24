@@ -330,6 +330,9 @@
         "qs_pg:id":1134625
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"587ee954f2df38c33f5d7d33d2859d26",
     "wof:hierarchy":[
         {
@@ -344,7 +347,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1566588420,
+    "wof:lastmodified":1582346254,
     "wof:name":"Hsinchu",
     "wof:parent_id":85679557,
     "wof:placetype":"locality",

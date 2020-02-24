@@ -227,6 +227,9 @@
         "wk:page":"Pingtung City"
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3545f640b65b222ffd94f456350ac938",
     "wof:hierarchy":[
         {
@@ -238,7 +241,7 @@
         }
     ],
     "wof:id":102026677,
-    "wof:lastmodified":1566588426,
+    "wof:lastmodified":1582346255,
     "wof:name":"Pingtung",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

@@ -300,6 +300,9 @@
         "wd:id":"Q249995"
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"5a80b7e4004352c4587f44d1a520ca72",
     "wof:hierarchy":[
         {
@@ -314,7 +317,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1566588423,
+    "wof:lastmodified":1582346255,
     "wof:name":"Jiayi Shi",
     "wof:parent_id":85679603,
     "wof:placetype":"locality",

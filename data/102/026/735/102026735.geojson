@@ -103,6 +103,9 @@
         "wd:id":"Q710268"
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"142a46e69fc8229465e0fffcc867197c",
     "wof:hierarchy":[
         {
@@ -114,7 +117,7 @@
         }
     ],
     "wof:id":102026735,
-    "wof:lastmodified":1566588423,
+    "wof:lastmodified":1582346255,
     "wof:name":"Hengchun",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

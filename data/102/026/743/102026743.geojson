@@ -215,6 +215,9 @@
         "wk:page":"Zhubei"
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"676a15ef8ca7ce2a5c29098ff301e939",
     "wof:hierarchy":[
         {
@@ -226,7 +229,7 @@
         }
     ],
     "wof:id":102026743,
-    "wof:lastmodified":1566588428,
+    "wof:lastmodified":1582346255,
     "wof:name":"Zhubei",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

@@ -331,6 +331,9 @@
         "wk:page":"Keelung"
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"a6fa0ad9bc4911eb00df1b75ec34b53b",
     "wof:hierarchy":[
         {
@@ -345,7 +348,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1566588421,
+    "wof:lastmodified":1582346255,
     "wof:name":"Keelung",
     "wof:parent_id":85679571,
     "wof:placetype":"locality",

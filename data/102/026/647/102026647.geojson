@@ -98,6 +98,9 @@
         "wk:page":"Fengyuan District"
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"34573019704012fccd079883d47795ea",
     "wof:hierarchy":[
         {
@@ -109,7 +112,7 @@
         }
     ],
     "wof:id":102026647,
-    "wof:lastmodified":1566588425,
+    "wof:lastmodified":1582346255,
     "wof:name":"Fengyuan",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

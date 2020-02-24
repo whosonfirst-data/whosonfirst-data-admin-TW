@@ -234,6 +234,9 @@
         "wk:page":"Hualien City"
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b63356c2fd70bc7a081b83970f51bdac",
     "wof:hierarchy":[
         {
@@ -245,7 +248,7 @@
         }
     ],
     "wof:id":102026715,
-    "wof:lastmodified":1566588421,
+    "wof:lastmodified":1582346255,
     "wof:name":"Hualian",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",
