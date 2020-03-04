@@ -1135,6 +1135,11 @@
     },
     "wof:country":"TW",
     "wof:country_alpha3":"TWN",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6",
+        "meso"
+    ],
     "wof:geomhash":"81d15cd44357e2f286fb2111f694b620",
     "wof:hierarchy":[
         {
@@ -1149,7 +1154,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588752,
+    "wof:lastmodified":1582346285,
     "wof:name":"Taiwan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

@@ -225,6 +225,9 @@
         "qs_pg:id":1030886
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d9315ce88dbf95db5c734b3148926e50",
     "wof:hierarchy":[
         {
@@ -236,7 +239,7 @@
         }
     ],
     "wof:id":102026631,
-    "wof:lastmodified":1566588427,
+    "wof:lastmodified":1582346255,
     "wof:name":"Taoyuan",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

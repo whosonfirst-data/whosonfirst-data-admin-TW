@@ -150,6 +150,9 @@
         "qs_pg:id":613425
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0744e0d757dfade6551391aafd0dcf00",
     "wof:hierarchy":[
         {
@@ -161,7 +164,7 @@
         }
     ],
     "wof:id":102026785,
-    "wof:lastmodified":1566588421,
+    "wof:lastmodified":1582346254,
     "wof:name":"Taitung City",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

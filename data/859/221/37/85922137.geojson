@@ -66,6 +66,9 @@
         "qs_pg:id":376509
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"cb68b4c1ab86fbf09311e5767be6b3f4",
     "wof:hierarchy":[
         {
@@ -81,7 +84,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1566588653,
+    "wof:lastmodified":1582346264,
     "wof:name":"\u83ef\u5e73\u91cc",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

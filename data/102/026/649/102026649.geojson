@@ -353,6 +353,9 @@
         "wd:id":"Q245023"
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"388274042e85fb74d6b553870c15a375",
     "wof:hierarchy":[
         {
@@ -364,7 +367,7 @@
         }
     ],
     "wof:id":102026649,
-    "wof:lastmodified":1566588424,
+    "wof:lastmodified":1582346255,
     "wof:megacity":1,
     "wof:name":"Taichung",
     "wof:parent_id":85679617,

@@ -232,6 +232,9 @@
         "wk:page":"Changhua"
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"df6804e316c76b78e325dd39c23a8894",
     "wof:hierarchy":[
         {
@@ -243,7 +246,7 @@
         }
     ],
     "wof:id":102026761,
-    "wof:lastmodified":1566588423,
+    "wof:lastmodified":1582346255,
     "wof:name":"Chang-hua",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",

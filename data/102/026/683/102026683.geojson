@@ -226,6 +226,9 @@
         "wk:page":"Nantou City"
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"3695dd8dae485c35efbdda5664828db2",
     "wof:hierarchy":[
         {
@@ -237,7 +240,7 @@
         }
     ],
     "wof:id":102026683,
-    "wof:lastmodified":1566588426,
+    "wof:lastmodified":1582346255,
     "wof:name":"Nantou",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

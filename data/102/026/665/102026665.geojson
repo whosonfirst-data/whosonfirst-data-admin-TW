@@ -138,6 +138,9 @@
         "wk:page":"Banqiao District"
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"0a46a6e55ab792f0375b44725dc8d217",
     "wof:hierarchy":[
         {
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":102026665,
-    "wof:lastmodified":1566588427,
+    "wof:lastmodified":1582346255,
     "wof:name":"Banqiao",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

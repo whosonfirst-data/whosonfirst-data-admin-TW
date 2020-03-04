@@ -220,6 +220,9 @@
         "wk:page":"Miaoli"
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"83c7f00f255538fd1db4ee1cc48e1007",
     "wof:hierarchy":[
         {
@@ -231,7 +234,7 @@
         }
     ],
     "wof:id":102026689,
-    "wof:lastmodified":1566588417,
+    "wof:lastmodified":1582346254,
     "wof:name":"Miaoli",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

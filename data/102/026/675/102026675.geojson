@@ -107,6 +107,9 @@
         "wk:page":"Puli, Nantou"
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"b2a9aa886ef9169deac6b863b7a39950",
     "wof:hierarchy":[
         {
@@ -118,7 +121,7 @@
         }
     ],
     "wof:id":102026675,
-    "wof:lastmodified":1566588416,
+    "wof:lastmodified":1582346254,
     "wof:name":"Buli",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",

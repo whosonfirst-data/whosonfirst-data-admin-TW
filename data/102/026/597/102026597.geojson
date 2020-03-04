@@ -241,6 +241,9 @@
         "wk:page":"Douliu"
     },
     "wof:country":"TW",
+    "wof:geom_alt":[
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"f43495f1d8639f363f1fe6d557b8e513",
     "wof:hierarchy":[
         {
@@ -255,7 +258,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1566588423,
+    "wof:lastmodified":1582346255,
     "wof:name":"Douliu",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",
