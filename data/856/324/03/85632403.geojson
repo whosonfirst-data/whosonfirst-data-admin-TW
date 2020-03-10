@@ -1113,9 +1113,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Taiwan",
-        "digitalenvoy:country_code":[
-            158
-        ],
+        "digitalenvoy:country_code":158,
         "fb:id":"en.taiwan",
         "fifa:id":"TPE",
         "fips:code":"TW",
@@ -1157,7 +1155,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1583529235,
+    "wof:lastmodified":1583797444,
     "wof:name":"Taiwan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
