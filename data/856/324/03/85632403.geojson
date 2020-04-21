@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.213881,
-    "geom:area_square_m":36370077806.65966,
+    "geom:area_square_m":36370077329.214577,
     "geom:bbox":"116.702026,20.705389,122.102943,26.39625",
     "geom:latitude":23.754764,
     "geom:longitude":120.952016,
@@ -174,6 +174,9 @@
     "name:cor_x_preferred":[
         "Taywan"
     ],
+    "name:cos_x_preferred":[
+        "Taiwan"
+    ],
     "name:crh_x_preferred":[
         "\u00c7in Cumhuriyeti"
     ],
@@ -191,6 +194,12 @@
     ],
     "name:dan_x_variant":[
         "Republikken Kina"
+    ],
+    "name:deu_at_x_preferred":[
+        "Republik China"
+    ],
+    "name:deu_ch_x_preferred":[
+        "Republik China"
     ],
     "name:deu_x_preferred":[
         "Republik China (Taiwan)"
@@ -226,6 +235,12 @@
     ],
     "name:ell_x_variant":[
         "\u03a4\u03b1\u03ca\u03b2\u03ac\u03bd"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Taiwan"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Taiwan"
     ],
     "name:eng_x_preferred":[
         "Taiwan"
@@ -312,6 +327,9 @@
     "name:gan_x_preferred":[
         "\u4e2d\u83ef\u6c11\u570b"
     ],
+    "name:gcr_x_preferred":[
+        "Taywan"
+    ],
     "name:gla_x_preferred":[
         "Poblachd na S\u00ecne"
     ],
@@ -332,6 +350,9 @@
     ],
     "name:gom_x_preferred":[
         "\u0924\u0948\u0935\u093e\u0928"
+    ],
+    "name:got_x_preferred":[
+        "\ud800\udf44\ud800\udf30\ud800\udf39\u0308\ud800\udf45\ud800\udf30"
     ],
     "name:grn_x_preferred":[
         "Taiu\u00e3"
@@ -704,6 +725,9 @@
     "name:pcd_x_preferred":[
         "Ta\u00efwan"
     ],
+    "name:pfl_x_preferred":[
+        "Taiwon"
+    ],
     "name:pli_x_preferred":[
         "\u0924\u0948\u0935\u093e\u0928"
     ],
@@ -719,6 +743,9 @@
     ],
     "name:pol_x_variant":[
         "Formoza"
+    ],
+    "name:por_br_x_preferred":[
+        "Taiwan"
     ],
     "name:por_x_preferred":[
         "Ilha de Formosa",
@@ -775,6 +802,9 @@
     ],
     "name:sco_x_preferred":[
         "Republic o Cheenae"
+    ],
+    "name:sgs_x_preferred":[
+        "Taivans"
     ],
     "name:sin_x_preferred":[
         "\u0dad\u0dcf\u0dba\u0dd2\u0dc0\u0dcf\u0db1\u0dba"
@@ -991,8 +1021,26 @@
     "name:zha_x_preferred":[
         "Cunghvaz Minzgoz"
     ],
+    "name:zho_cn_x_preferred":[
+        "\u4e2d\u534e\u6c11\u56fd"
+    ],
+    "name:zho_hk_x_preferred":[
+        "\u4e2d\u83ef\u6c11\u570b"
+    ],
     "name:zho_min_nan_x_preferred":[
         "Tiong-ho\u00e2 B\u00een-kok"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u4e2d\u83ef\u6c11\u570b"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u4e2d\u534e\u6c11\u56fd"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u4e2d\u534e\u6c11\u56fd"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e2d\u83ef\u6c11\u570b"
     ],
     "name:zho_x_preferred":[
         "\u53f0\u6e7e"
@@ -1155,7 +1203,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1583797444,
+    "wof:lastmodified":1587428316,
     "wof:name":"Taiwan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
