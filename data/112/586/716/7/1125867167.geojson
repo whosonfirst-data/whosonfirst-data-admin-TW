@@ -94,6 +94,9 @@
     "name:dan_x_preferred":[
         "Taipei"
     ],
+    "name:deu_ch_x_preferred":[
+        "Taipeh"
+    ],
     "name:deu_x_preferred":[
         "Taipeh"
     ],
@@ -102,6 +105,12 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b1\u03ca\u03c0\u03ad\u03b9"
+    ],
+    "name:eng_ca_x_preferred":[
+        "Taipei"
+    ],
+    "name:eng_gb_x_preferred":[
+        "Taipei"
     ],
     "name:eng_x_preferred":[
         "Taipei"
@@ -348,6 +357,9 @@
     "name:pol_x_preferred":[
         "Tajpej"
     ],
+    "name:por_br_x_preferred":[
+        "Taip\u00e9"
+    ],
     "name:por_x_preferred":[
         "Taip\u00e9"
     ],
@@ -407,6 +419,9 @@
     ],
     "name:szl_x_preferred":[
         "Tajpej"
+    ],
+    "name:szy_x_preferred":[
+        "Taypak"
     ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbe\u0baf\u0bcd\u0baa\u0bc6\u0baf\u0bcd"
@@ -471,6 +486,9 @@
     "name:wuu_x_preferred":[
         "\u81fa\u5317\u5e02"
     ],
+    "name:xmf_x_preferred":[
+        "\u10e2\u10d0\u10d8\u10d1\u10d4\u10d8"
+    ],
     "name:yor_x_preferred":[
         "Taipei"
     ],
@@ -482,6 +500,21 @@
     ],
     "name:zha_x_preferred":[
         "Daizbaek"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u53f0\u5317\u5e02"
+    ],
+    "name:zho_mo_x_preferred":[
+        "\u53f0\u5317\u5e02"
+    ],
+    "name:zho_my_x_preferred":[
+        "\u53f0\u5317\u5e02"
+    ],
+    "name:zho_sg_x_preferred":[
+        "\u53f0\u5317\u5e02"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u81fa\u5317\u5e02"
     ],
     "name:zho_x_preferred":[
         "T\u2019ai-pei"
@@ -525,8 +558,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679583,
-        1108808545
+        1108808545,
+        85679583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -548,7 +581,7 @@
         }
     ],
     "wof:id":1125867167,
-    "wof:lastmodified":1566589845,
+    "wof:lastmodified":1587428341,
     "wof:name":"\u53f0\u5317",
     "wof:parent_id":85679583,
     "wof:placetype":"locality",
