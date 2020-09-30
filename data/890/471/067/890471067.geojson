@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.1960835,23.024113,120.1960835,23.024113",
+    "geom:bbox":"120.196084,23.024113,120.196084,23.024113",
     "geom:latitude":23.024113,
     "geom:longitude":120.196084,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Anfu"
+    ],
+    "name:eng_x_variant":[
+        "Anfu Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5b89\u5bcc\u91cc"
+    ],
     "qs:name":"\u5b89\u5bcc\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5357\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808553,
         102026643,
+        1108808553,
         85679553
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053842,
-    "wof:geomhash":"93e14b019f66ca79dbb9e73af9989fb8",
+    "wof:geomhash":"883337c05d7ffabceeae94db049e44f1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890471067,
-    "wof:lastmodified":1566589704,
-    "wof:name":"\u5b89\u5bcc\u91cc",
+    "wof:lastmodified":1601422976,
+    "wof:name":"Anfu",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.1960835,
+    120.196084,
     23.024113,
-    120.1960835,
+    120.196084,
     23.024113
 ],
-  "geometry": {"coordinates":[120.1960835,23.024113],"type":"Point"}
+  "geometry": {"coordinates":[120.196084,23.024113],"type":"Point"}
 }

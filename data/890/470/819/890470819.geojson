@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.172834,23.0375055,120.172834,23.0375055",
+    "geom:bbox":"120.172834,23.037506,120.172834,23.037506",
     "geom:latitude":23.037506,
     "geom:longitude":120.172834,
     "gn:country":"TW",
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Haixi"
+    ],
+    "name:eng_x_variant":[
+        "Haixi Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6d77\u897f\u91cc"
+    ],
     "qs:name":"\u6d77\u897f\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5357\u5e02",
@@ -42,7 +51,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053832,
-    "wof:geomhash":"88060c2b2ece4d2dd2a935a3bc6a07e7",
+    "wof:geomhash":"4d343aacd573ec376593bbd063b12deb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,8 +63,8 @@
         }
     ],
     "wof:id":890470819,
-    "wof:lastmodified":1566589720,
-    "wof:name":"\u6d77\u897f\u91cc",
+    "wof:lastmodified":1601423001,
+    "wof:name":"Haixi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -65,9 +74,9 @@
 },
   "bbox": [
     120.172834,
-    23.0375055,
+    23.037506,
     120.172834,
-    23.0375055
+    23.037506
 ],
-  "geometry": {"coordinates":[120.17283399999999,23.0375055],"type":"Point"}
+  "geometry": {"coordinates":[120.17283399999999,23.037506],"type":"Point"}
 }

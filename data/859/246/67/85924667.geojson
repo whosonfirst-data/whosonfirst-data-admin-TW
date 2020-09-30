@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Fuquan"
+    ],
+    "name:eng_x_variant":[
+        "Fuquan Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u798f\u5168\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u798f\u5168\u91cc"
     ],
@@ -58,8 +67,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026757,
+        1108808557,
         85679603
     ],
     "wof:breaches":[],
@@ -87,8 +96,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346273,
-    "wof:name":"\u798f\u5168\u91cc",
+    "wof:lastmodified":1601422995,
+    "wof:name":"Fuquan",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

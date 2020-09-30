@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Lixing"
+    ],
+    "name:eng_x_variant":[
+        "Lixing Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u529b\u884c\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u529b\u884c\u91cc"
     ],
@@ -58,8 +67,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026757,
+        1108808557,
         85679603
     ],
     "wof:breaches":[],
@@ -87,8 +96,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346273,
-    "wof:name":"\u529b\u884c\u91cc",
+    "wof:lastmodified":1601423023,
+    "wof:name":"Lixing",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

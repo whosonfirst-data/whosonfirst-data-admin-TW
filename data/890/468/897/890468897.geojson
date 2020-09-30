@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.7104165,25.12334,121.7104165,25.12334",
+    "geom:bbox":"121.710416,25.12334,121.710416,25.12334",
     "geom:latitude":25.12334,
     "geom:longitude":121.710416,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Wufu"
+    ],
+    "name:eng_x_variant":[
+        "Wufu Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e94\u798f\u91cc"
+    ],
     "qs:name":"\u4e94\u798f\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u57fa\u9686\u5e02",
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053730,
-    "wof:geomhash":"65fbe6d245b07455fc5adabdb30fc4f5",
+    "wof:geomhash":"c00e3ef532369427603f89c0d7d137f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890468897,
-    "wof:lastmodified":1566589840,
-    "wof:name":"\u4e94\u798f\u91cc",
+    "wof:lastmodified":1601423064,
+    "wof:name":"Wufu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.7104165,
+    121.710416,
     25.12334,
-    121.7104165,
+    121.710416,
     25.12334
 ],
-  "geometry": {"coordinates":[121.71041649999999,25.12334],"type":"Point"}
+  "geometry": {"coordinates":[121.710416,25.12334],"type":"Point"}
 }

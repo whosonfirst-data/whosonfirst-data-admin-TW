@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
-    "geom:area_square_m":19762.376972,
-    "geom:bbox":"120.202789307,22.9900023799,120.204162598,22.9912665903",
+    "geom:area_square_m":19784.929012,
+    "geom:bbox":"120.202789,22.990002,120.204163,22.991267",
     "geom:latitude":22.990634,
     "geom:longitude":120.203476,
     "gn:id":"",
@@ -25,6 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Yonghua"
+    ],
+    "name:eng_x_variant":[
+        "Yonghua Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6c38\u83ef\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u6c38\u83ef\u91cc"
     ],
@@ -56,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808553,
         102026643,
+        1108808553,
         85679553
     ],
     "wof:breaches":[],
@@ -69,7 +78,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"1a1ed64573eafcd20d6c368e2c5e16bf",
+    "wof:geomhash":"3595ed36678fb90712020b602dd1bbc9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,8 +93,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346275,
-    "wof:name":"\u6c38\u83ef\u91cc",
+    "wof:lastmodified":1601423074,
+    "wof:name":"Yonghua",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -94,10 +103,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.20278930699999,
-    22.99000237987518,
-    120.2041625980001,
-    22.99126659030006
+    120.202789,
+    22.990002,
+    120.204163,
+    22.991267
 ],
-  "geometry": {"coordinates":[[[120.2041625980001,22.99000237987518],[120.20278930700016,22.99000237987518],[120.20278930700016,22.99092208937317],[120.20278930699999,22.99126659030006],[120.2041625980001,22.99126659030006],[120.2041625980001,22.990922089554],[120.2041625980001,22.99000237987518]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[120.20416299999999,22.990002],[120.202789,22.990002],[120.202789,22.990922],[120.202789,22.991267],[120.20416299999999,22.991267],[120.20416299999999,22.990922],[120.20416299999999,22.990002]]],"type":"Polygon"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
-    "geom:area_square_m":76548.063661,
-    "geom:bbox":"121.580200195,25.05574511,121.582946777,25.0582332029",
+    "geom:area_square_m":76556.854966,
+    "geom:bbox":"121.5802,25.055745,121.582947,25.058233",
     "geom:latitude":25.056989,
     "geom:longitude":121.581573,
     "gn:id":"",
@@ -25,6 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":6,
+    "name:eng_x_preferred":[
+        "Zhoumei"
+    ],
+    "name:eng_x_variant":[
+        "Zhoumei Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9031\u7f8e\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u9031\u7f8e\u91cc"
     ],
@@ -57,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808545,
         102026641,
+        1108808545,
         85679583
     ],
     "wof:breaches":[],
@@ -70,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"bd11ffa6e1659b66dffc072958d9f054",
+    "wof:geomhash":"564b16686317d3da38c77b402e91cd95",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,8 +94,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346271,
-    "wof:name":"\u9031\u7f8e\u91cc",
+    "wof:lastmodified":1601423081,
+    "wof:name":"Zhoumei",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -95,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.58020019500015,
-    25.05574510998618,
-    121.58294677700007,
-    25.05823320288634
+    121.5802,
+    25.055745,
+    121.582947,
+    25.058233
 ],
-  "geometry": {"coordinates":[[[121.58294677700007,25.05574510998618],[121.58020019500015,25.05574510998618],[121.58020019500015,25.05823320288634],[121.58294677700007,25.05823320288634],[121.58294677700007,25.05574510998618]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[121.582947,25.055745],[121.5802,25.055745],[121.5802,25.058233],[121.582947,25.058233],[121.582947,25.055745]]],"type":"Polygon"}
 }

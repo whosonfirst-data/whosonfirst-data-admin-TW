@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Liucuo"
+    ],
+    "name:eng_x_variant":[
+        "Liucuo Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5289\u539d\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u5289\u539d\u91cc"
     ],
@@ -88,8 +97,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346273,
-    "wof:name":"\u5289\u539d\u91cc",
+    "wof:lastmodified":1601423022,
+    "wof:name":"Liucuo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

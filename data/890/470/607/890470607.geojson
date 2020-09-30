@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Laizhong"
+    ],
+    "name:eng_x_variant":[
+        "Laizhong Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8cf4\u4ef2\u6751"
+    ],
     "qs:name":"\u8cf4\u4ef2\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u65b0\u5317\u5e02",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679583,
-        1108808545
+        1108808545,
+        85679583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890470607,
-    "wof:lastmodified":1566589745,
-    "wof:name":"\u8cf4\u4ef2\u6751",
+    "wof:lastmodified":1601423020,
+    "wof:name":"Laizhong",
     "wof:parent_id":85679583,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",

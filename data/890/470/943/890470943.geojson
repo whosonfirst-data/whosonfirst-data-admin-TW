@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Gongxue"
+    ],
+    "name:eng_x_variant":[
+        "Gongxue Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5de5\u5b78\u91cc"
+    ],
     "qs:name":"\u5de5\u5b78\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u4e2d\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808551,
         102026649,
+        1108808551,
         85679617
     ],
     "wof:breaches":[],
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890470943,
-    "wof:lastmodified":1566589750,
-    "wof:name":"\u5de5\u5b78\u91cc",
+    "wof:lastmodified":1601422998,
+    "wof:name":"Gongxue",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

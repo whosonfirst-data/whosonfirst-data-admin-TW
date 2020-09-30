@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.184666,23.0264425,120.184666,23.0264425",
+    "geom:bbox":"120.184666,23.026443,120.184666,23.026443",
     "geom:latitude":23.026443,
     "geom:longitude":120.184666,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Haidian"
+    ],
+    "name:eng_x_variant":[
+        "Haidian Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6d77\u4f43\u91cc"
+    ],
     "qs:name":"\u6d77\u4f43\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5357\u5e02",
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053754,
-    "wof:geomhash":"2aff59f379b72e4fd62711a7900ff5d2",
+    "wof:geomhash":"5277228fb5d0ff1a6d384145545a22ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890469217,
-    "wof:lastmodified":1566589780,
-    "wof:name":"\u6d77\u4f43\u91cc",
+    "wof:lastmodified":1601423001,
+    "wof:name":"Haidian",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -64,9 +73,9 @@
 },
   "bbox": [
     120.184666,
-    23.0264425,
+    23.026443,
     120.184666,
-    23.0264425
+    23.026443
 ],
-  "geometry": {"coordinates":[120.18466600000001,23.0264425],"type":"Point"}
+  "geometry": {"coordinates":[120.18466600000001,23.026443],"type":"Point"}
 }

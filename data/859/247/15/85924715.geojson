@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Luliao"
+    ],
+    "name:eng_x_variant":[
+        "Luliao Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9e7f\u5bee\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u9e7f\u5bee\u91cc"
     ],
@@ -88,8 +97,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346276,
-    "wof:name":"\u9e7f\u5bee\u91cc",
+    "wof:lastmodified":1601423025,
+    "wof:name":"Luliao",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

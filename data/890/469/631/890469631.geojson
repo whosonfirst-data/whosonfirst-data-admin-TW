@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.6294665,23.540268,120.6294665,23.540268",
+    "geom:bbox":"120.629467,23.540268,120.629467,23.540268",
     "geom:latitude":23.540268,
     "geom:longitude":120.629467,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Taixing"
+    ],
+    "name:eng_x_variant":[
+        "Taixing Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u592a\u8208\u6751"
+    ],
     "qs:name":"\u592a\u8208\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5609\u7fa9\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679599,
-        1108808557
+        1108808557,
+        85679599
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053781,
-    "wof:geomhash":"b9ad4ee5289dde77233ac06900f7a344",
+    "wof:geomhash":"89f4ef363bd7f58943242b37d465e865",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890469631,
-    "wof:lastmodified":1566589804,
-    "wof:name":"\u592a\u8208\u6751",
+    "wof:lastmodified":1601423055,
+    "wof:name":"Taixing",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.6294665,
+    120.629467,
     23.540268,
-    120.6294665,
+    120.629467,
     23.540268
 ],
-  "geometry": {"coordinates":[120.62946650000001,23.540268],"type":"Point"}
+  "geometry": {"coordinates":[120.62946700000001,23.540268],"type":"Point"}
 }

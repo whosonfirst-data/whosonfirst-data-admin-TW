@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
-    "geom:area_square_m":79459.615501,
-    "geom:bbox":"120.314025879,22.6368277043,120.316772461,22.6393626811",
+    "geom:area_square_m":79443.764702,
+    "geom:bbox":"120.314026,22.636828,120.316772,22.639363",
     "geom:latitude":22.638095,
     "geom:longitude":120.315399,
     "gn:id":"",
@@ -25,6 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Anning"
+    ],
+    "name:eng_x_variant":[
+        "Anning Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5b89\u5be7\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u5b89\u5be7\u91cc"
     ],
@@ -57,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808547,
         102026701,
+        1108808547,
         85679547
     ],
     "wof:breaches":[],
@@ -70,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"857595bfa7af206c1420d936584250b3",
+    "wof:geomhash":"efd110a93ed5a6ca121d04adeba36e96",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,8 +94,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346260,
-    "wof:name":"\u5b89\u5be7\u91cc",
+    "wof:lastmodified":1601422976,
+    "wof:name":"Anning",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -95,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.31402587899998,
-    22.63682770431402,
-    120.31677246100014,
-    22.63936268110001
+    120.314026,
+    22.636828,
+    120.316772,
+    22.639363
 ],
-  "geometry": {"coordinates":[[[120.31402587899998,22.63936268110001],[120.31466165683338,22.63936267328342],[120.31677246100014,22.6393626745862],[120.31677246100014,22.63682770431402],[120.31466166320445,22.63682770654182],[120.31402587899998,22.63682771080002],[120.31402587899998,22.63936268110001]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[120.314026,22.639363],[120.314662,22.639363],[120.316772,22.639363],[120.316772,22.636828],[120.314662,22.636828],[120.314026,22.636828],[120.314026,22.639363]]],"type":"Polygon"}
 }

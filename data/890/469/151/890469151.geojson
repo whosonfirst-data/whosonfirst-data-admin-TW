@@ -15,6 +15,15 @@
     "iso:country":"TW",
     "mz:hierarchy_label":1,
     "mz:is_current":0,
+    "name:eng_x_preferred":[
+        "Dacheng"
+    ],
+    "name:eng_x_variant":[
+        "Dacheng Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5927\u8aa0\u91cc"
+    ],
     "qs:name":"\u5927\u8aa0\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u4e2d\u5e02",
@@ -29,8 +38,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808551,
         102026649,
+        1108808551,
         85679617
     ],
     "wof:breaches":[],
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890469151,
-    "wof:lastmodified":1534379469,
-    "wof:name":"\u5927\u8aa0\u91cc",
+    "wof:lastmodified":1601422985,
+    "wof:name":"Dacheng",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

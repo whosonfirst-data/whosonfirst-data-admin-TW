@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Cuku"
+    ],
+    "name:eng_x_variant":[
+        "Cuku Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7c97\u7a9f\u6751"
+    ],
     "qs:name":"\u7c97\u7a9f\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u65b0\u5317\u5e02",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679585,
-        1108808549
+        1108808549,
+        85679585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890470851,
-    "wof:lastmodified":1566589724,
-    "wof:name":"\u7c97\u7a9f\u6751",
+    "wof:lastmodified":1601422985,
+    "wof:name":"Cuku",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",

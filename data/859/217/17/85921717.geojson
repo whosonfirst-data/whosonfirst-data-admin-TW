@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000001,
-    "geom:area_square_m":8914.436595,
-    "geom:bbox":"120.302721628,22.6222507237,120.303726196,22.623228961",
+    "geom:area_square_m":8906.605047,
+    "geom:bbox":"120.302722,22.622251,120.303726,22.623229",
     "geom:latitude":22.622691,
-    "geom:longitude":120.303256,
+    "geom:longitude":120.303257,
     "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.622568,
@@ -25,6 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Zhencheng"
+    ],
+    "name:eng_x_variant":[
+        "Zhencheng Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u632f\u6210\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u632f\u6210\u91cc"
     ],
@@ -57,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808547,
         102026701,
+        1108808547,
         85679547
     ],
     "wof:breaches":[],
@@ -70,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"312836015bb87a69c86fb4076b4e51f3",
+    "wof:geomhash":"070455bcf23819a14ea84ee329a79607",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,8 +94,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346266,
-    "wof:name":"\u632f\u6210\u91cc",
+    "wof:lastmodified":1601423077,
+    "wof:name":"Zhencheng",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -95,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.30272162797559,
-    22.62225072365023,
-    120.30372619625018,
-    22.6232289609684
+    120.302722,
+    22.622251,
+    120.303726,
+    22.623229
 ],
-  "geometry": {"coordinates":[[[120.30372619612928,22.62288453850007],[120.30372619615639,22.62225072393143],[120.30303955100021,22.62225072398294],[120.30291664371089,22.62225072365023],[120.30272162797559,22.62288453680854],[120.30303955100021,22.6232289609684],[120.30372619625018,22.62298099954091],[120.30372619612928,22.62288453850007]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[120.303726,22.622885],[120.303726,22.622251],[120.30304,22.622251],[120.30291699999999,22.622251],[120.302722,22.622885],[120.30304,22.623229],[120.303726,22.622981],[120.303726,22.622885]]],"type":"Polygon"}
 }

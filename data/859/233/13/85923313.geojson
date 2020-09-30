@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Bisha"
+    ],
+    "name:eng_x_variant":[
+        "Bisha Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u78a7\u7802\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u78a7\u7802\u91cc"
     ],
@@ -83,8 +92,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346270,
-    "wof:name":"\u78a7\u7802\u91cc",
+    "wof:lastmodified":1601422980,
+    "wof:name":"Bisha",
     "wof:parent_id":102026771,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

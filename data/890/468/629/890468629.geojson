@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.8677385,24.642784,120.8677385,24.642784",
+    "geom:bbox":"120.867739,24.642784,120.867739,24.642784",
     "geom:latitude":24.642784,
     "geom:longitude":120.867739,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Zaoqiao"
+    ],
+    "name:eng_x_variant":[
+        "Zaoqiao Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9020\u6a4b\u6751"
+    ],
     "qs:name":"\u9020\u6a4b\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u82d7\u6817\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679575,
-        1108808557
+        1108808557,
+        85679575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053717,
-    "wof:geomhash":"a73b724f68c09400a29c792df944c4ca",
+    "wof:geomhash":"c809b7d25d6b85172391431fea6efecb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890468629,
-    "wof:lastmodified":1566589818,
-    "wof:name":"\u9020\u6a4b\u6751",
+    "wof:lastmodified":1601423077,
+    "wof:name":"Zaoqiao",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.86773850000002,
+    120.867739,
     24.642784,
-    120.86773850000002,
+    120.867739,
     24.642784
 ],
-  "geometry": {"coordinates":[120.86773850000002,24.642784],"type":"Point"}
+  "geometry": {"coordinates":[120.867739,24.642784],"type":"Point"}
 }

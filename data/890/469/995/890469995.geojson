@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.6766545,22.911369,120.6766545,22.911369",
+    "geom:bbox":"120.676654,22.911369,120.676654,22.911369",
     "geom:latitude":22.911369,
     "geom:longitude":120.676654,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Wanshan"
+    ],
+    "name:eng_x_variant":[
+        "Wanshan Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u842c\u5c71\u6751"
+    ],
     "qs:name":"\u842c\u5c71\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u9ad8\u96c4\u5e02",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679547,
-        1108808547
+        1108808547,
+        85679547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053796,
-    "wof:geomhash":"a73c65e00eaf293b7a2cb79e06d7ae35",
+    "wof:geomhash":"fd5745609476b43f89159197be6431eb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890469995,
-    "wof:lastmodified":1566589791,
-    "wof:name":"\u842c\u5c71\u6751",
+    "wof:lastmodified":1601423062,
+    "wof:name":"Wanshan",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.67665449999998,
+    120.676654,
     22.911369,
-    120.67665449999998,
+    120.676654,
     22.911369
 ],
-  "geometry": {"coordinates":[120.67665449999998,22.911369],"type":"Point"}
+  "geometry": {"coordinates":[120.676654,22.911369],"type":"Point"}
 }

@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Yuandong"
+    ],
+    "name:eng_x_variant":[
+        "Yuandong Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6df5\u6771\u91cc"
+    ],
     "qs:name":"\u6df5\u6771\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5357\u5e02",
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890468445,
-    "wof:lastmodified":1566589836,
-    "wof:name":"\u6df5\u6771\u91cc",
+    "wof:lastmodified":1601423075,
+    "wof:name":"Yuandong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

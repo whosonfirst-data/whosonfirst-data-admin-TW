@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
-    "geom:area_square_m":19141.068984,
-    "geom:bbox":"121.554107666,25.0433038949,121.555480957,25.0445480739",
+    "geom:area_square_m":19134.285252,
+    "geom:bbox":"121.554108,25.043304,121.555481,25.044548",
     "geom:latitude":25.043926,
-    "geom:longitude":121.554794,
+    "geom:longitude":121.554795,
     "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.043926,
@@ -25,6 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":6,
+    "name:eng_x_preferred":[
+        "Fuyuan"
+    ],
+    "name:eng_x_variant":[
+        "Fuyuan Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5fa9\u6e90\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u5fa9\u6e90\u91cc"
     ],
@@ -57,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808545,
         102026641,
+        1108808545,
         85679583
     ],
     "wof:breaches":[],
@@ -70,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"c032b8b090e46e390ec13880c1bb52c1",
+    "wof:geomhash":"81322b74d4ab05253ac117b442725781",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,8 +94,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346283,
-    "wof:name":"\u5fa9\u6e90\u91cc",
+    "wof:lastmodified":1601422996,
+    "wof:name":"Fuyuan",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -95,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.55410766600005,
-    25.04330389490003,
-    121.55548095700021,
-    25.04454807390005
+    121.554108,
+    25.043304,
+    121.555481,
+    25.044548
 ],
-  "geometry": {"coordinates":[[[121.55410766600005,25.04454807390005],[121.55442022753164,25.04454807180012],[121.55548095700016,25.04454807232513],[121.55548095700021,25.04364889084501],[121.55548095699999,25.04330389490003],[121.55426394832824,25.04330389490003],[121.55410766600005,25.04330389490003],[121.55410766600005,25.04454807390005]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[121.554108,25.044548],[121.55441999999999,25.044548],[121.555481,25.044548],[121.555481,25.043649],[121.555481,25.043304],[121.554264,25.043304],[121.554108,25.043304],[121.554108,25.044548]]],"type":"Polygon"}
 }

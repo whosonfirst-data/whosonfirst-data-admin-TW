@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.1429685,23.2861085,120.1429685,23.2861085",
+    "geom:bbox":"120.142968,23.286109,120.142968,23.286109",
     "geom:latitude":23.286109,
     "geom:longitude":120.142968,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Kunjiang"
+    ],
+    "name:eng_x_variant":[
+        "Kunjiang Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9be4\u6c5f\u6751"
+    ],
     "qs:name":"\u9be4\u6c5f\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5357\u5e02",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679553,
-        1108808553
+        1108808553,
+        85679553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053866,
-    "wof:geomhash":"a706edac8c0c8af7e22894991909127f",
+    "wof:geomhash":"8e2e0742ee0d57762d072f93f50c0133",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890471703,
-    "wof:lastmodified":1566589693,
-    "wof:name":"\u9be4\u6c5f\u6751",
+    "wof:lastmodified":1601423019,
+    "wof:name":"Kunjiang",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.1429685,
-    23.2861085,
-    120.1429685,
-    23.2861085
+    120.142968,
+    23.286109,
+    120.142968,
+    23.286109
 ],
-  "geometry": {"coordinates":[120.14296849999999,23.2861085],"type":"Point"}
+  "geometry": {"coordinates":[120.142968,23.286109],"type":"Point"}
 }

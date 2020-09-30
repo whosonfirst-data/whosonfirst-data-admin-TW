@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Maxi"
+    ],
+    "name:eng_x_variant":[
+        "Maxi Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u746a\u897f\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u746a\u897f\u91cc"
     ],
@@ -89,8 +98,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346278,
-    "wof:name":"\u746a\u897f\u91cc",
+    "wof:lastmodified":1601423026,
+    "wof:name":"Maxi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

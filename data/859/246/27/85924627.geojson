@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Zhucun"
+    ],
+    "name:eng_x_variant":[
+        "Zhucun Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7af9\u6751\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u7af9\u6751\u91cc"
     ],
@@ -88,8 +97,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346273,
-    "wof:name":"\u7af9\u6751\u91cc",
+    "wof:lastmodified":1601423081,
+    "wof:name":"Zhucun",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

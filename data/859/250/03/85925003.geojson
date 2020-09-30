@@ -5,9 +5,9 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000003,
-    "geom:area_square_m":34856.581125,
-    "geom:bbox":"120.67869216,24.1605372669,120.68069458,24.1624797853",
-    "geom:latitude":24.16141,
+    "geom:area_square_m":34875.385833,
+    "geom:bbox":"120.678692,24.160537,120.680695,24.16248",
+    "geom:latitude":24.161409,
     "geom:longitude":120.679756,
     "gn:id":"",
     "iso:country":"TW",
@@ -25,6 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
+    "name:eng_x_preferred":[
+        "Laicun"
+    ],
+    "name:eng_x_variant":[
+        "Laicun Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8cf4\u6751\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u8cf4\u6751\u91cc"
     ],
@@ -57,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808551,
         102026649,
+        1108808551,
         85679617
     ],
     "wof:breaches":[],
@@ -70,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5723110fbe644607779d84bc08c762cf",
+    "wof:geomhash":"c9ee00c3c5f50b881fc4ccdcf4bac2ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,8 +94,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346268,
-    "wof:name":"\u8cf4\u6751\u91cc",
+    "wof:lastmodified":1601423020,
+    "wof:name":"Laicun",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -95,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.67869216047245,
-    24.16053726692515,
-    120.68069458000025,
-    24.16247978527879
+    120.678692,
+    24.160537,
+    120.680695,
+    24.16248
 ],
-  "geometry": {"coordinates":[[[120.68069458000014,24.1617902576001],[120.68069458000008,24.16053726829179],[120.67932128900003,24.16053726830192],[120.67907323577293,24.16053726692515],[120.67869216047245,24.16179024535008],[120.67932128900014,24.16247978527879],[120.68069458000025,24.16197806534066],[120.68069458000014,24.1617902576001]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[120.680695,24.16179],[120.680695,24.160537],[120.679321,24.160537],[120.679073,24.160537],[120.678692,24.16179],[120.679321,24.16248],[120.680695,24.161978],[120.680695,24.16179]]],"type":"Polygon"}
 }

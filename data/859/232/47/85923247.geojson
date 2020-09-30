@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Sheliao"
+    ],
+    "name:eng_x_variant":[
+        "Sheliao Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u793e\u5bee\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u793e\u5bee\u91cc"
     ],
@@ -83,8 +92,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346269,
-    "wof:name":"\u793e\u5bee\u91cc",
+    "wof:lastmodified":1601423048,
+    "wof:name":"Sheliao",
     "wof:parent_id":102026771,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

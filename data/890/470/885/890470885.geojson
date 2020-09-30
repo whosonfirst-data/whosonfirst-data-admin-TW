@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"119.4968715,23.5951235,119.4968715,23.5951235",
+    "geom:bbox":"119.496871,23.595123,119.496871,23.595123",
     "geom:latitude":23.595123,
     "geom:longitude":119.496871,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Chixi"
+    ],
+    "name:eng_x_variant":[
+        "Chixi Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6c60\u897f\u6751"
+    ],
     "qs:name":"\u6c60\u897f\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u6f8e\u6e56\u7e23",
@@ -29,11 +38,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85679627,
         102191569,
         85632403,
         1108500085,
-        1108808557
+        1108808557,
+        85679627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +51,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053835,
-    "wof:geomhash":"ab12657f7a04ca1c4fbba29947fa5118",
+    "wof:geomhash":"74b01bc85cc4de655527e0466922d107",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,8 +63,8 @@
         }
     ],
     "wof:id":890470885,
-    "wof:lastmodified":1566589740,
-    "wof:name":"\u6c60\u897f\u6751",
+    "wof:lastmodified":1601422983,
+    "wof:name":"Chixi",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -64,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    119.4968715,
-    23.5951235,
-    119.4968715,
-    23.5951235
+    119.496871,
+    23.595123,
+    119.496871,
+    23.595123
 ],
-  "geometry": {"coordinates":[119.4968715,23.5951235],"type":"Point"}
+  "geometry": {"coordinates":[119.496871,23.595123],"type":"Point"}
 }

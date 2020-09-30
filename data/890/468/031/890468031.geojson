@@ -18,6 +18,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yancheng"
+    ],
+    "name:eng_x_variant":[
+        "Yancheng Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9e7d\u57d5\u6751"
+    ],
     "qs:name":"\u9e7d\u57d5\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5357\u5e02",
@@ -32,8 +41,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679553,
-        1108808553
+        1108808553,
+        85679553
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890468031,
-    "wof:lastmodified":1566589820,
-    "wof:name":"\u9e7d\u57d5\u6751",
+    "wof:lastmodified":1601423072,
+    "wof:name":"Yancheng",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",

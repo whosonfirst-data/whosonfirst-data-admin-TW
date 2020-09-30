@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.569107,22.5736935,120.569107,22.5736935",
+    "geom:bbox":"120.569107,22.573694,120.569107,22.573694",
     "geom:latitude":22.573694,
     "geom:longitude":120.569107,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Wanhe"
+    ],
+    "name:eng_x_variant":[
+        "Wanhe Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u842c\u548c\u6751"
+    ],
     "qs:name":"\u842c\u548c\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5c4f\u6771\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679549,
-        1108808557
+        1108808557,
+        85679549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053684,
-    "wof:geomhash":"cdf51aaf89eebc867f8a0928584957fc",
+    "wof:geomhash":"18d72ce8ccf24b4c3670796dff1c273b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890468067,
-    "wof:lastmodified":1566589840,
-    "wof:name":"\u842c\u548c\u6751",
+    "wof:lastmodified":1601423062,
+    "wof:name":"Wanhe",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     120.569107,
-    22.5736935,
+    22.573694,
     120.569107,
-    22.5736935
+    22.573694
 ],
-  "geometry": {"coordinates":[120.569107,22.5736935],"type":"Point"}
+  "geometry": {"coordinates":[120.569107,22.573694],"type":"Point"}
 }

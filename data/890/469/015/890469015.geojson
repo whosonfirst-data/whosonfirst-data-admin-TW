@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.3277095,22.629375,120.3277095,22.629375",
+    "geom:bbox":"120.32771,22.629375,120.32771,22.629375",
     "geom:latitude":22.629375,
     "geom:longitude":120.32771,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zhengyan"
+    ],
+    "name:eng_x_variant":[
+        "Zhengyan Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6b63\u8a00\u91cc"
+    ],
     "qs:name":"\u6b63\u8a00\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u9ad8\u96c4\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808547,
         102026701,
+        1108808547,
         85679547
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053735,
-    "wof:geomhash":"775ce6457fe87d5bb8cc5ee8e12df4bc",
+    "wof:geomhash":"569e9c751081cfd1ddd33fe45372ce42",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890469015,
-    "wof:lastmodified":1566589777,
-    "wof:name":"\u6b63\u8a00\u91cc",
+    "wof:lastmodified":1601423078,
+    "wof:name":"Zhengyan",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.32770950000001,
+    120.32771,
     22.629375,
-    120.32770950000001,
+    120.32771,
     22.629375
 ],
-  "geometry": {"coordinates":[120.32770950000001,22.629375],"type":"Point"}
+  "geometry": {"coordinates":[120.32771,22.629375],"type":"Point"}
 }

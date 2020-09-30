@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.6337445,23.80647,120.6337445,23.80647",
+    "geom:bbox":"120.633745,23.80647,120.633745,23.80647",
     "geom:latitude":23.80647,
     "geom:longitude":120.633745,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Ershui"
+    ],
+    "name:eng_x_variant":[
+        "Ershui Township"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e8c\u6c34\u9109"
+    ],
     "qs:name":"\u4e8c\u6c34\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5f70\u5316\u7e23",
@@ -28,11 +37,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85679593,
         102191569,
         85632403,
         1108499097,
-        1108808557
+        1108808557,
+        85679593
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053821,
-    "wof:geomhash":"700e16b346a99afd849722c29ccb325a",
+    "wof:geomhash":"af9f8f23780b952bc4695dcd372030b4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890470507,
-    "wof:lastmodified":1566589734,
-    "wof:name":"\u4e8c\u6c34\u9109",
+    "wof:lastmodified":1601422992,
+    "wof:name":"Ershui",
     "wof:parent_id":1108499097,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.6337445,
+    120.633745,
     23.80647,
-    120.6337445,
+    120.633745,
     23.80647
 ],
-  "geometry": {"coordinates":[120.63374450000001,23.80647],"type":"Point"}
+  "geometry": {"coordinates":[120.633745,23.80647],"type":"Point"}
 }

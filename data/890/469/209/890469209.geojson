@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.2154765,22.973217,120.2154765,22.973217",
+    "geom:bbox":"120.215476,22.973217,120.215476,22.973217",
     "geom:latitude":22.973217,
     "geom:longitude":120.215476,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dafu"
+    ],
+    "name:eng_x_variant":[
+        "Dafu Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5927\u798f\u91cc"
+    ],
     "qs:name":"\u5927\u798f\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5357\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808553,
         102026643,
+        1108808553,
         85679553
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053754,
-    "wof:geomhash":"82223d230b79a2f343c7cd705ae109ee",
+    "wof:geomhash":"06b57499cbacf15888d2bf3f460f7a94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890469209,
-    "wof:lastmodified":1566589800,
-    "wof:name":"\u5927\u798f\u91cc",
+    "wof:lastmodified":1601422985,
+    "wof:name":"Dafu",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.2154765,
+    120.215476,
     22.973217,
-    120.2154765,
+    120.215476,
     22.973217
 ],
-  "geometry": {"coordinates":[120.21547649999999,22.973217],"type":"Point"}
+  "geometry": {"coordinates":[120.215476,22.973217],"type":"Point"}
 }

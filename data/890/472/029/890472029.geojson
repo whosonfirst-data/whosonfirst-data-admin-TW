@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.770057,25.1520755,121.770057,25.1520755",
+    "geom:bbox":"121.770057,25.152075,121.770057,25.152075",
     "geom:latitude":25.152075,
     "geom:longitude":121.770057,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zhengbin"
+    ],
+    "name:eng_x_variant":[
+        "Zhengbin Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6b63\u6ff1\u91cc"
+    ],
     "qs:name":"\u6b63\u6ff1\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u57fa\u9686\u5e02",
@@ -37,7 +46,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053879,
-    "wof:geomhash":"3ca09a14be413d19dc2acd07d6dfd2d6",
+    "wof:geomhash":"1e0429926fe591b34b01aa6c5b9d5a71",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -48,8 +57,8 @@
         }
     ],
     "wof:id":890472029,
-    "wof:lastmodified":1566589752,
-    "wof:name":"\u6b63\u6ff1\u91cc",
+    "wof:lastmodified":1601423077,
+    "wof:name":"Zhengbin",
     "wof:parent_id":102026771,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -59,9 +68,9 @@
 },
   "bbox": [
     121.770057,
-    25.1520755,
+    25.152075,
     121.770057,
-    25.1520755
+    25.152075
 ],
-  "geometry": {"coordinates":[121.77005699999999,25.1520755],"type":"Point"}
+  "geometry": {"coordinates":[121.77005699999999,25.152075],"type":"Point"}
 }

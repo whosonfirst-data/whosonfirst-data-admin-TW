@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000002,
-    "geom:area_square_m":25873.913463,
-    "geom:bbox":"121.504669189,25.0321057136,121.50604248,25.0340399915",
+    "geom:area_square_m":25865.896948,
+    "geom:bbox":"121.504669,25.032106,121.506042,25.03404",
     "geom:latitude":25.032953,
     "geom:longitude":121.50539,
     "gn:id":"",
@@ -25,6 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":6,
+    "name:eng_x_preferred":[
+        "Sha'an"
+    ],
+    "name:eng_x_variant":[
+        "Sha'an Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5ec8\u5b89\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u5ec8\u5b89\u91cc"
     ],
@@ -57,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808545,
         102026641,
+        1108808545,
         85679583
     ],
     "wof:breaches":[],
@@ -70,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"b52d257c01c84ae81b1ef9880e10ef3f",
+    "wof:geomhash":"abc96357cadc5d3296d664f95001356b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,8 +94,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346270,
-    "wof:name":"\u5ec8\u5b89\u91cc",
+    "wof:lastmodified":1601423047,
+    "wof:name":"Sha'an",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -95,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.50466918900008,
-    25.03210571364708,
-    121.50604248000019,
-    25.03403999152043
+    121.504669,
+    25.032106,
+    121.506042,
+    25.03404
 ],
-  "geometry": {"coordinates":[[[121.50604248000019,25.03210571386407],[121.50466918900008,25.03210571364708],[121.50466918900008,25.03335000830009],[121.50466918900008,25.03353476542711],[121.50604248000019,25.03403999152043],[121.50604248000002,25.03335000830009],[121.50604248000019,25.03210571386407]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[121.50604199999999,25.032106],[121.50466900000001,25.032106],[121.50466900000001,25.03335],[121.50466900000001,25.033535],[121.50604199999999,25.03404],[121.50604199999999,25.03335],[121.50604199999999,25.032106]]],"type":"Polygon"}
 }

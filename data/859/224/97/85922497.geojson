@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Dubei"
+    ],
+    "name:eng_x_variant":[
+        "Dubei Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5835\u5317\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u5835\u5317\u91cc"
     ],
@@ -89,8 +98,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346275,
-    "wof:name":"\u5835\u5317\u91cc",
+    "wof:lastmodified":1601422991,
+    "wof:name":"Dubei",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

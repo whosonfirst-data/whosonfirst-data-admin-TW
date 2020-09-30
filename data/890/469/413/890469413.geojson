@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Anshun"
+    ],
+    "name:eng_x_variant":[
+        "Anshun Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5b89\u9806\u91cc"
+    ],
     "qs:name":"\u5b89\u9806\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u9ad8\u96c4\u5e02",
@@ -45,8 +54,8 @@
         }
     ],
     "wof:id":890469413,
-    "wof:lastmodified":1566589778,
-    "wof:name":"\u5b89\u9806\u91cc",
+    "wof:lastmodified":1601422976,
+    "wof:name":"Anshun",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

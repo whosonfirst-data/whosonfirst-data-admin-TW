@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ximen"
+    ],
+    "name:eng_x_variant":[
+        "Ximen Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u897f\u9580\u91cc"
+    ],
     "qs:name":"\u897f\u9580\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u65b0\u7af9\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026725,
+        1108808557,
         85679557
     ],
     "wof:breaches":[],
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890469227,
-    "wof:lastmodified":1566589777,
-    "wof:name":"\u897f\u9580\u91cc",
+    "wof:lastmodified":1601423067,
+    "wof:name":"Ximen",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

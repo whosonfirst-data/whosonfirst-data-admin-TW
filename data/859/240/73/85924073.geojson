@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
-    "geom:area_square_m":76585.276454,
-    "geom:bbox":"121.486816406,25.0258840562,121.489562988,25.0283727551",
+    "geom:area_square_m":76606.275898,
+    "geom:bbox":"121.486816,25.025884,121.489563,25.028373",
     "geom:latitude":25.027128,
     "geom:longitude":121.48819,
     "gn:id":"",
@@ -25,6 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":6,
+    "name:eng_x_preferred":[
+        "Hede"
+    ],
+    "name:eng_x_variant":[
+        "Hede Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u548c\u5fb7\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u548c\u5fb7\u91cc"
     ],
@@ -57,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808545,
         102026641,
+        1108808545,
         85679583
     ],
     "wof:breaches":[],
@@ -70,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"beafef07ace4df1902c012875ec8564b",
+    "wof:geomhash":"1970b8c14ca49cb57d11022b95a15fdd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,8 +94,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346276,
-    "wof:name":"\u548c\u5fb7\u91cc",
+    "wof:lastmodified":1601423002,
+    "wof:name":"Hede",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -95,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.48681640600006,
-    25.02588405621393,
-    121.48956298800005,
-    25.0283727550724
+    121.486816,
+    25.025884,
+    121.489563,
+    25.028373
 ],
-  "geometry": {"coordinates":[[[121.48893778376782,25.02588405953243],[121.48681640600006,25.02588405621393],[121.48681640600006,25.0283727550724],[121.48956298800005,25.0283727550724],[121.48956298800005,25.02657404235877],[121.48956298800005,25.02588406320008],[121.48893778376782,25.02588405953243]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[121.488938,25.025884],[121.486816,25.025884],[121.486816,25.028373],[121.489563,25.028373],[121.489563,25.026574],[121.489563,25.025884],[121.488938,25.025884]]],"type":"Polygon"}
 }

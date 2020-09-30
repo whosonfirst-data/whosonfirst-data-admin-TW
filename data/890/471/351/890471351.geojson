@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.013333,24.4318365,121.013333,24.4318365",
+    "geom:bbox":"121.013333,24.431836,121.013333,24.431836",
     "geom:latitude":24.431836,
     "geom:longitude":121.013333,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Zhongxing"
+    ],
+    "name:eng_x_variant":[
+        "Zhongxing Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e2d\u8208\u6751"
+    ],
     "qs:name":"\u4e2d\u8208\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u82d7\u6817\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679575,
-        1108808557
+        1108808557,
+        85679575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053852,
-    "wof:geomhash":"38372d87fd3f78ddf91cb378af47ba1d",
+    "wof:geomhash":"7a7ff25b95b061b941c43a282dfc0a41",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890471351,
-    "wof:lastmodified":1566589693,
-    "wof:name":"\u4e2d\u8208\u6751",
+    "wof:lastmodified":1601423080,
+    "wof:name":"Zhongxing",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     121.013333,
-    24.4318365,
+    24.431836,
     121.013333,
-    24.4318365
+    24.431836
 ],
-  "geometry": {"coordinates":[121.013333,24.4318365],"type":"Point"}
+  "geometry": {"coordinates":[121.013333,24.431836],"type":"Point"}
 }

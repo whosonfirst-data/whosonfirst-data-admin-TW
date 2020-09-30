@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"119.426825,23.1923705,119.426825,23.1923705",
+    "geom:bbox":"119.426825,23.19237,119.426825,23.19237",
     "geom:latitude":23.19237,
     "geom:longitude":119.426825,
     "gn:country":"TW",
@@ -18,6 +18,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Nangang"
+    ],
+    "name:eng_x_variant":[
+        "Nangang Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5357\u6e2f\u6751"
+    ],
     "qs:name":"\u5357\u6e2f\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u6f8e\u6e56\u7e23",
@@ -30,11 +39,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85679627,
         102191569,
         85632403,
         1108500085,
-        1108808557
+        1108808557,
+        85679627
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +52,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053836,
-    "wof:geomhash":"be046a8d1aa451df5136840ddab2befb",
+    "wof:geomhash":"7b5ba027f274b0a3bf027600c50825f8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +64,8 @@
         }
     ],
     "wof:id":890470927,
-    "wof:lastmodified":1566589747,
-    "wof:name":"\u5357\u6e2f\u6751",
+    "wof:lastmodified":1601423033,
+    "wof:name":"Nangang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -66,9 +75,9 @@
 },
   "bbox": [
     119.426825,
-    23.1923705,
+    23.19237,
     119.426825,
-    23.1923705
+    23.19237
 ],
-  "geometry": {"coordinates":[119.42682499999999,23.1923705],"type":"Point"}
+  "geometry": {"coordinates":[119.42682499999999,23.19237],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.206501,23.0004245,120.206501,23.0004245",
+    "geom:bbox":"120.206501,23.000425,120.206501,23.000425",
     "geom:latitude":23.000425,
     "geom:longitude":120.206501,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Yuhuang"
+    ],
+    "name:eng_x_variant":[
+        "Yuhuang Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7389\u7687\u91cc"
+    ],
     "qs:name":"\u7389\u7687\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5357\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808553,
         102026643,
+        1108808553,
         85679553
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053836,
-    "wof:geomhash":"7cfbc92fc16b2ed88024f86bc4eb11a4",
+    "wof:geomhash":"a47d0820d9086d96752b7b38eec14278",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890470907,
-    "wof:lastmodified":1566589711,
-    "wof:name":"\u7389\u7687\u91cc",
+    "wof:lastmodified":1601423076,
+    "wof:name":"Yuhuang",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -64,9 +73,9 @@
 },
   "bbox": [
     120.206501,
-    23.0004245,
+    23.000425,
     120.206501,
-    23.0004245
+    23.000425
 ],
-  "geometry": {"coordinates":[120.206501,23.0004245],"type":"Point"}
+  "geometry": {"coordinates":[120.206501,23.000425],"type":"Point"}
 }

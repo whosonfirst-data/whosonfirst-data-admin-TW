@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.46064,23.4748425,120.46064,23.4748425",
+    "geom:bbox":"120.46064,23.474843,120.46064,23.474843",
     "geom:latitude":23.474843,
     "geom:longitude":120.46064,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Shennong"
+    ],
+    "name:eng_x_variant":[
+        "Shennong Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u795e\u8fb2\u91cc"
+    ],
     "qs:name":"\u795e\u8fb2\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5609\u7fa9\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026757,
+        1108808557,
         85679603
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053660,
-    "wof:geomhash":"8f5abe2e7da9205d6433fad011affc4b",
+    "wof:geomhash":"05c7eb46dfe152e489da8eabebb14e15",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890467689,
-    "wof:lastmodified":1566589757,
-    "wof:name":"\u795e\u8fb2\u91cc",
+    "wof:lastmodified":1601423049,
+    "wof:name":"Shennong",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -64,9 +73,9 @@
 },
   "bbox": [
     120.46064,
-    23.4748425,
+    23.474843,
     120.46064,
-    23.4748425
+    23.474843
 ],
-  "geometry": {"coordinates":[120.46064,23.4748425],"type":"Point"}
+  "geometry": {"coordinates":[120.46064,23.474843],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.330852,25.1213295,121.330852,25.1213295",
+    "geom:bbox":"121.330852,25.12133,121.330852,25.12133",
     "geom:latitude":25.12133,
     "geom:longitude":121.330852,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Jiabao"
+    ],
+    "name:eng_x_variant":[
+        "Jiabao Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5609\u5bf6\u6751"
+    ],
     "qs:name":"\u5609\u5bf6\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u65b0\u5317\u5e02",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679585,
-        1108808549
+        1108808549,
+        85679585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053775,
-    "wof:geomhash":"994f5186e721f142217ea0fd8d62a55f",
+    "wof:geomhash":"c1f8b564a68316035e1ac031d7f317b3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890469481,
-    "wof:lastmodified":1566589797,
-    "wof:name":"\u5609\u5bf6\u6751",
+    "wof:lastmodified":1601423009,
+    "wof:name":"Jiabao",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     121.330852,
-    25.1213295,
+    25.12133,
     121.330852,
-    25.1213295
+    25.12133
 ],
-  "geometry": {"coordinates":[121.33085199999999,25.1213295],"type":"Point"}
+  "geometry": {"coordinates":[121.33085199999999,25.12133],"type":"Point"}
 }

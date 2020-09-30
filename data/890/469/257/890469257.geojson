@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ziyang"
+    ],
+    "name:eng_x_variant":[
+        "Ziyang Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7d2b\u967d\u91cc"
+    ],
     "qs:name":"\u7d2b\u967d\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5317\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808545,
         102026641,
+        1108808545,
         85679583
     ],
     "wof:breaches":[],
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890469257,
-    "wof:lastmodified":1566589781,
-    "wof:name":"\u7d2b\u967d\u91cc",
+    "wof:lastmodified":1601423082,
+    "wof:name":"Ziyang",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

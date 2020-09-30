@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.9448125,24.37264,120.9448125,24.37264",
+    "geom:bbox":"120.944812,24.37264,120.944812,24.37264",
     "geom:latitude":24.37264,
     "geom:longitude":120.944812,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Xiangbi"
+    ],
+    "name:eng_x_variant":[
+        "Xiangbi Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8c61\u9f3b\u6751"
+    ],
     "qs:name":"\u8c61\u9f3b\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u82d7\u6817\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679575,
-        1108808557
+        1108808557,
+        85679575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053842,
-    "wof:geomhash":"c0c916e35f77330fd6f465706c9ae4f7",
+    "wof:geomhash":"fa6e548021f4eef3855813f7fbe53278",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890471071,
-    "wof:lastmodified":1566589678,
-    "wof:name":"\u8c61\u9f3b\u6751",
+    "wof:lastmodified":1601423065,
+    "wof:name":"Xiangbi",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.94481249999998,
+    120.944812,
     24.37264,
-    120.94481249999998,
+    120.944812,
     24.37264
 ],
-  "geometry": {"coordinates":[120.94481249999998,24.37264],"type":"Point"}
+  "geometry": {"coordinates":[120.944812,24.37264],"type":"Point"}
 }

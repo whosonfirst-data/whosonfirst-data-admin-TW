@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.925582,24.9786445,121.925582,24.9786445",
+    "geom:bbox":"121.925582,24.978645,121.925582,24.978645",
     "geom:latitude":24.978645,
     "geom:longitude":121.925582,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Longgang"
+    ],
+    "name:eng_x_variant":[
+        "Longgang Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9f8d\u5d17\u6751"
+    ],
     "qs:name":"\u9f8d\u5d17\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u65b0\u5317\u5e02",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679567,
-        1108808557
+        1108808557,
+        85679567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053838,
-    "wof:geomhash":"5b9cfe586ad5844f743a43c8c8b923ec",
+    "wof:geomhash":"da041c5bb1b844d64f9d621040b6ea77",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890470967,
-    "wof:lastmodified":1566589734,
-    "wof:name":"\u9f8d\u5d17\u6751",
+    "wof:lastmodified":1601423023,
+    "wof:name":"Longgang",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     121.925582,
-    24.9786445,
+    24.978645,
     121.925582,
-    24.9786445
+    24.978645
 ],
-  "geometry": {"coordinates":[121.92558200000001,24.9786445],"type":"Point"}
+  "geometry": {"coordinates":[121.92558200000001,24.978645],"type":"Point"}
 }

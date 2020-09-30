@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.4532005,23.4799255,120.4532005,23.4799255",
+    "geom:bbox":"120.4532,23.479926,120.4532,23.479926",
     "geom:latitude":23.479926,
     "geom:longitude":120.4532,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dajie"
+    ],
+    "name:eng_x_variant":[
+        "Dajie Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5927\u8857\u91cc"
+    ],
     "qs:name":"\u5927\u8857\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5609\u7fa9\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026757,
+        1108808557,
         85679603
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053754,
-    "wof:geomhash":"8d7d6ba659e91a9807459678dcb54e54",
+    "wof:geomhash":"719551b91290806a5b338a139d976ad9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890469211,
-    "wof:lastmodified":1566589776,
-    "wof:name":"\u5927\u8857\u91cc",
+    "wof:lastmodified":1601422986,
+    "wof:name":"Dajie",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.4532005,
-    23.4799255,
-    120.4532005,
-    23.4799255
+    120.4532,
+    23.479926,
+    120.4532,
+    23.479926
 ],
-  "geometry": {"coordinates":[120.45320049999999,23.4799255],"type":"Point"}
+  "geometry": {"coordinates":[120.4532,23.479926],"type":"Point"}
 }

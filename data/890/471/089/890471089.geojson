@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.521494,22.4377495,120.521494,22.4377495",
+    "geom:bbox":"120.521494,22.437749,120.521494,22.437749",
     "geom:latitude":22.437749,
     "geom:longitude":120.521494,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Linbian"
+    ],
+    "name:eng_x_variant":[
+        "Linbian Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6797\u908a\u6751"
+    ],
     "qs:name":"\u6797\u908a\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5c4f\u6771\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679549,
-        1108808557
+        1108808557,
+        85679549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053842,
-    "wof:geomhash":"c5ce60dbc2b4c611f96ecfd5afe8abd7",
+    "wof:geomhash":"25936ba42dcaa3ddab14e1e09ba2785b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890471089,
-    "wof:lastmodified":1566589695,
-    "wof:name":"\u6797\u908a\u6751",
+    "wof:lastmodified":1601423021,
+    "wof:name":"Linbian",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     120.521494,
-    22.4377495,
+    22.437749,
     120.521494,
-    22.4377495
+    22.437749
 ],
-  "geometry": {"coordinates":[120.521494,22.4377495],"type":"Point"}
+  "geometry": {"coordinates":[120.521494,22.437749],"type":"Point"}
 }

@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Laiyi"
+    ],
+    "name:eng_x_variant":[
+        "Laiyi Township"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4f86\u7fa9\u9109"
+    ],
     "qs:name":"\u4f86\u7fa9\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5c4f\u6771\u7e23",
@@ -28,11 +37,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85679549,
         102191569,
         85632403,
         1108499273,
-        1108808557
+        1108808557,
+        85679549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890469881,
-    "wof:lastmodified":1566589780,
-    "wof:name":"\u4f86\u7fa9\u9109",
+    "wof:lastmodified":1601423020,
+    "wof:name":"Laiyi",
     "wof:parent_id":1108499273,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-tw",

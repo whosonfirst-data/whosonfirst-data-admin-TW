@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.442012,23.4745105,120.442012,23.4745105",
+    "geom:bbox":"120.442012,23.474511,120.442012,23.474511",
     "geom:latitude":23.474511,
     "geom:longitude":120.442012,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Caiyuan"
+    ],
+    "name:eng_x_variant":[
+        "Caiyuan Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u83dc\u5712\u91cc"
+    ],
     "qs:name":"\u83dc\u5712\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5609\u7fa9\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026757,
+        1108808557,
         85679603
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053846,
-    "wof:geomhash":"7f476d976c8c5426534ba1ef088fa654",
+    "wof:geomhash":"a1c35395dace36d2cae545cdabc35ce3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890471181,
-    "wof:lastmodified":1566589688,
-    "wof:name":"\u83dc\u5712\u91cc",
+    "wof:lastmodified":1601422981,
+    "wof:name":"Caiyuan",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -64,9 +73,9 @@
 },
   "bbox": [
     120.442012,
-    23.4745105,
+    23.474511,
     120.442012,
-    23.4745105
+    23.474511
 ],
-  "geometry": {"coordinates":[120.44201200000001,23.4745105],"type":"Point"}
+  "geometry": {"coordinates":[120.44201200000001,23.474511],"type":"Point"}
 }

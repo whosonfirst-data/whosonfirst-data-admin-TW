@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.1642695,23.048059,121.1642695,23.048059",
+    "geom:bbox":"121.164269,23.048059,121.164269,23.048059",
     "geom:latitude":23.048059,
     "geom:longitude":121.164269,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Guanshan"
+    ],
+    "name:eng_x_variant":[
+        "Guanshan Township"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u95dc\u5c71\u93ae"
+    ],
     "qs:name":"\u95dc\u5c71\u93ae",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u6771\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679623,
-        1108808557
+        1108808557,
+        85679623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053828,
-    "wof:geomhash":"04135b192b5db9cfd12ddc5c7786ffb5",
+    "wof:geomhash":"a03613ababd584754361d210413be4f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890470695,
-    "wof:lastmodified":1566589726,
-    "wof:name":"\u95dc\u5c71\u93ae",
+    "wof:lastmodified":1601422999,
+    "wof:name":"Guanshan",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.16426949999999,
+    121.164269,
     23.048059,
-    121.16426949999999,
+    121.164269,
     23.048059
 ],
-  "geometry": {"coordinates":[121.16426949999999,23.048059],"type":"Point"}
+  "geometry": {"coordinates":[121.164269,23.048059],"type":"Point"}
 }

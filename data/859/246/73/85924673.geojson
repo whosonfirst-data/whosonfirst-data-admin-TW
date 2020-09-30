@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Tougang"
+    ],
+    "name:eng_x_variant":[
+        "Tougang Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u982d\u6e2f\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u982d\u6e2f\u91cc"
     ],
@@ -88,8 +97,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346273,
-    "wof:name":"\u982d\u6e2f\u91cc",
+    "wof:lastmodified":1601423059,
+    "wof:name":"Tougang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

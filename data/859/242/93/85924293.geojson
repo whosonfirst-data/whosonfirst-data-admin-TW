@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Hexian"
+    ],
+    "name:eng_x_variant":[
+        "Hexian Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u548c\u61b2\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u548c\u61b2\u91cc"
     ],
@@ -83,8 +92,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346263,
-    "wof:name":"\u548c\u61b2\u91cc",
+    "wof:lastmodified":1601423003,
+    "wof:name":"Hexian",
     "wof:parent_id":102026771,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

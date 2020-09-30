@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Xinlun"
+    ],
+    "name:eng_x_variant":[
+        "Xinlun Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u65b0\u5d19\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u65b0\u5d19\u91cc"
     ],
@@ -89,8 +98,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346283,
-    "wof:name":"\u65b0\u5d19\u91cc",
+    "wof:lastmodified":1601423069,
+    "wof:name":"Xinlun",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

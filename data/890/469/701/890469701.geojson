@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Kainan"
+    ],
+    "name:eng_x_variant":[
+        "Kainan Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u958b\u5357\u91cc"
+    ],
     "qs:name":"\u958b\u5357\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5357\u5e02",
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890469701,
-    "wof:lastmodified":1566589773,
-    "wof:name":"\u958b\u5357\u91cc",
+    "wof:lastmodified":1601423014,
+    "wof:name":"Kainan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
-    "geom:area_square_m":102814.914402,
-    "geom:bbox":"120.316772461,22.6049168229,120.319519043,22.6089399456",
+    "geom:area_square_m":102835.994891,
+    "geom:bbox":"120.316772,22.604917,120.319519,22.60894",
     "geom:latitude":22.607272,
     "geom:longitude":120.318146,
     "gn:id":"",
@@ -25,6 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Xingdong"
+    ],
+    "name:eng_x_variant":[
+        "Xingdong Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8208\u6771\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u8208\u6771\u91cc"
     ],
@@ -57,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808547,
         102026701,
+        1108808547,
         85679547
     ],
     "wof:breaches":[],
@@ -70,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"5d188c5f615d001f5d9c3c4f36ba5197",
+    "wof:geomhash":"8d326908871d6722c9ea0ee1883b245d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,8 +94,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346274,
-    "wof:name":"\u8208\u6771\u91cc",
+    "wof:lastmodified":1601423068,
+    "wof:name":"Xingdong",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -95,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.31677246100014,
-    22.60491682287842,
-    120.31951904300024,
-    22.608939945614
+    120.316772,
+    22.604917,
+    120.319519,
+    22.60894
 ],
-  "geometry": {"coordinates":[[[120.31814575200025,22.60491682287842],[120.31677246100014,22.60640441407513],[120.31677246100014,22.608939945614],[120.31951904300024,22.60893994480327],[120.31951904300018,22.60640441407513],[120.31814575200025,22.60491682287842]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[120.318146,22.604917],[120.316772,22.606404],[120.316772,22.60894],[120.319519,22.60894],[120.319519,22.606404],[120.318146,22.604917]]],"type":"Polygon"}
 }

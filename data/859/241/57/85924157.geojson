@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Changtan"
+    ],
+    "name:eng_x_variant":[
+        "Changtan Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9577\u6f6d\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u9577\u6f6d\u91cc"
     ],
@@ -81,8 +90,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346272,
-    "wof:name":"\u9577\u6f6d\u91cc",
+    "wof:lastmodified":1601422982,
+    "wof:name":"Changtan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

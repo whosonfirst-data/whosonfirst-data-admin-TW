@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Houzhuang"
+    ],
+    "name:eng_x_variant":[
+        "Houzhuang Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5f8c\u5e84\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u5f8c\u5e84\u91cc"
     ],
@@ -58,8 +67,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026757,
+        1108808557,
         85679603
     ],
     "wof:breaches":[],
@@ -87,8 +96,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346276,
-    "wof:name":"\u5f8c\u5e84\u91cc",
+    "wof:lastmodified":1601423005,
+    "wof:name":"Houzhuang",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

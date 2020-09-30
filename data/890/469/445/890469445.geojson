@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.2337985,22.993557,120.2337985,22.993557",
+    "geom:bbox":"120.233799,22.993557,120.233799,22.993557",
     "geom:latitude":22.993557,
     "geom:longitude":120.233799,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Fuguo"
+    ],
+    "name:eng_x_variant":[
+        "Fuguo Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5fa9\u570b\u91cc"
+    ],
     "qs:name":"\u5fa9\u570b\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5357\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808553,
         102026643,
+        1108808553,
         85679553
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053774,
-    "wof:geomhash":"4eb70819461ccfc1685eea22324bda1a",
+    "wof:geomhash":"1fb3c6c25f56f714cf5050e3e51582b5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890469445,
-    "wof:lastmodified":1566589799,
-    "wof:name":"\u5fa9\u570b\u91cc",
+    "wof:lastmodified":1601422994,
+    "wof:name":"Fuguo",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.2337985,
+    120.233799,
     22.993557,
-    120.2337985,
+    120.233799,
     22.993557
 ],
-  "geometry": {"coordinates":[120.23379850000001,22.993557],"type":"Point"}
+  "geometry": {"coordinates":[120.233799,22.993557],"type":"Point"}
 }

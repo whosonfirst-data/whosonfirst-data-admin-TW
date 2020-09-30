@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.8021875,22.747451,120.8021875,22.747451",
+    "geom:bbox":"120.802188,22.747451,120.802188,22.747451",
     "geom:latitude":22.747451,
     "geom:longitude":120.802188,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Wutai"
+    ],
+    "name:eng_x_variant":[
+        "Wutai Township"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9727\u53f0\u9109"
+    ],
     "qs:name":"\u9727\u53f0\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5c4f\u6771\u7e23",
@@ -28,11 +37,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85679549,
         102191569,
         85632403,
         1108499273,
-        1108808557
+        1108808557,
+        85679549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053796,
-    "wof:geomhash":"4637e886e7f2ba33c27fdf0f3d37d453",
+    "wof:geomhash":"80ffa540522ebe966759a977d165549b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890469983,
-    "wof:lastmodified":1566589786,
-    "wof:name":"\u9727\u53f0\u9109",
+    "wof:lastmodified":1601423064,
+    "wof:name":"Wutai",
     "wof:parent_id":1108499273,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.8021875,
+    120.802188,
     22.747451,
-    120.8021875,
+    120.802188,
     22.747451
 ],
-  "geometry": {"coordinates":[120.8021875,22.747451],"type":"Point"}
+  "geometry": {"coordinates":[120.802188,22.747451],"type":"Point"}
 }

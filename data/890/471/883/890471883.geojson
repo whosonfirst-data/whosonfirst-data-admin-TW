@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.9600345,24.798053,120.9600345,24.798053",
+    "geom:bbox":"120.960035,24.798053,120.960035,24.798053",
     "geom:latitude":24.798053,
     "geom:longitude":120.960035,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Yuying"
+    ],
+    "name:eng_x_variant":[
+        "Yuying Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u80b2\u82f1\u91cc"
+    ],
     "qs:name":"\u80b2\u82f1\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u65b0\u7af9\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026725,
+        1108808557,
         85679557
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053874,
-    "wof:geomhash":"9eb872930d62228a5d0a513056b49bcf",
+    "wof:geomhash":"4139c6cc4b18e77c465ea092a0edc046",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890471883,
-    "wof:lastmodified":1566589696,
-    "wof:name":"\u80b2\u82f1\u91cc",
+    "wof:lastmodified":1601423077,
+    "wof:name":"Yuying",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.9600345,
+    120.960035,
     24.798053,
-    120.9600345,
+    120.960035,
     24.798053
 ],
-  "geometry": {"coordinates":[120.96003450000001,24.798053],"type":"Point"}
+  "geometry": {"coordinates":[120.960035,24.798053],"type":"Point"}
 }

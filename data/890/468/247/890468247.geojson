@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Shijia"
+    ],
+    "name:eng_x_variant":[
+        "Shijia Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5341\u7532\u91cc"
+    ],
     "qs:name":"\u5341\u7532\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u4e2d\u5e02",
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890468247,
-    "wof:lastmodified":1566589835,
-    "wof:name":"\u5341\u7532\u91cc",
+    "wof:lastmodified":1601423049,
+    "wof:name":"Shijia",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

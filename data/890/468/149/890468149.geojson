@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.4791635,23.788702,120.4791635,23.788702",
+    "geom:bbox":"120.479163,23.788702,120.479163,23.788702",
     "geom:latitude":23.788702,
     "geom:longitude":120.479163,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Yihe"
+    ],
+    "name:eng_x_variant":[
+        "Yihe Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7fa9\u548c\u6751"
+    ],
     "qs:name":"\u7fa9\u548c\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u96f2\u6797\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679619,
-        1108808557
+        1108808557,
+        85679619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053692,
-    "wof:geomhash":"8dda23b55a6fa435544a22ccbbdb477f",
+    "wof:geomhash":"db56f034d01d5064130ab67af007d7b2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890468149,
-    "wof:lastmodified":1566589845,
-    "wof:name":"\u7fa9\u548c\u6751",
+    "wof:lastmodified":1601423073,
+    "wof:name":"Yihe",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.4791635,
+    120.479163,
     23.788702,
-    120.4791635,
+    120.479163,
     23.788702
 ],
-  "geometry": {"coordinates":[120.4791635,23.788702],"type":"Point"}
+  "geometry": {"coordinates":[120.479163,23.788702],"type":"Point"}
 }

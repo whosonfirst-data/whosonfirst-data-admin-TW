@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000007,
-    "geom:area_square_m":79468.335572,
-    "geom:bbox":"120.292053223,22.6292225184,120.294799805,22.63175763",
+    "geom:area_square_m":79477.09391,
+    "geom:bbox":"120.292053,22.629223,120.2948,22.631758",
     "geom:latitude":22.63049,
-    "geom:longitude":120.293427,
+    "geom:longitude":120.293426,
     "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.630489,
@@ -25,6 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Minsheng"
+    ],
+    "name:eng_x_variant":[
+        "Minsheng Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6c11\u751f\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u6c11\u751f\u91cc"
     ],
@@ -57,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808547,
         102026701,
+        1108808547,
         85679547
     ],
     "wof:breaches":[],
@@ -70,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"4af6b6158c85c45821ce1104c1ade03b",
+    "wof:geomhash":"598fa3bab1b87cc8d1177205cc75e992",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,8 +94,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346279,
-    "wof:name":"\u6c11\u751f\u91cc",
+    "wof:lastmodified":1601423029,
+    "wof:name":"Minsheng",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -95,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.29205322299998,
-    22.62922251836261,
-    120.29479980500008,
-    22.63175763000002
+    120.292053,
+    22.629223,
+    120.2948,
+    22.631758
 ],
-  "geometry": {"coordinates":[[[120.29479980500003,22.63175763000002],[120.29479980500008,22.62922251836261],[120.29205322299998,22.62922251950002],[120.29205322300015,22.62991136393777],[120.29205322300015,22.63175762416256],[120.29416399749562,22.63175762513548],[120.29479980500003,22.63175763000002]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[120.2948,22.631758],[120.2948,22.629223],[120.292053,22.629223],[120.292053,22.629911],[120.292053,22.631758],[120.29416399999999,22.631758],[120.2948,22.631758]]],"type":"Polygon"}
 }

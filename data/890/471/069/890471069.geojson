@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Shazhuang"
+    ],
+    "name:eng_x_variant":[
+        "Shazhuang Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5ec8\u838a\u91cc"
+    ],
     "qs:name":"\u5ec8\u838a\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u9ad8\u96c4\u5e02",
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890471069,
-    "wof:lastmodified":1566589703,
-    "wof:name":"\u5ec8\u838a\u91cc",
+    "wof:lastmodified":1601423048,
+    "wof:name":"Shazhuang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

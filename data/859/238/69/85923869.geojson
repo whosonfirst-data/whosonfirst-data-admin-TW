@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Xiaogang"
+    ],
+    "name:eng_x_variant":[
+        "Xiaogang Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5b5d\u5ca1\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u5b5d\u5ca1\u91cc"
     ],
@@ -89,8 +98,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346281,
-    "wof:name":"\u5b5d\u5ca1\u91cc",
+    "wof:lastmodified":1601423065,
+    "wof:name":"Xiaogang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

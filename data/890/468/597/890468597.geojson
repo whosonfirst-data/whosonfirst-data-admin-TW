@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.794023,24.6436155,121.794023,24.6436155",
+    "geom:bbox":"121.794023,24.643615,121.794023,24.643615",
     "geom:latitude":24.643615,
     "geom:longitude":121.794023,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Zhenzhu"
+    ],
+    "name:eng_x_variant":[
+        "Zhenzhu Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u73cd\u73e0\u6751"
+    ],
     "qs:name":"\u73cd\u73e0\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5b9c\u862d\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679567,
-        1108808557
+        1108808557,
+        85679567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053716,
-    "wof:geomhash":"2e515993700e6dc9516998d2a627dfba",
+    "wof:geomhash":"366fbe67e566cb2b7aa1d3d21ebcc9b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890468597,
-    "wof:lastmodified":1566589829,
-    "wof:name":"\u73cd\u73e0\u6751",
+    "wof:lastmodified":1601423078,
+    "wof:name":"Zhenzhu",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     121.794023,
-    24.6436155,
+    24.643615,
     121.794023,
-    24.6436155
+    24.643615
 ],
-  "geometry": {"coordinates":[121.794023,24.6436155],"type":"Point"}
+  "geometry": {"coordinates":[121.794023,24.643615],"type":"Point"}
 }

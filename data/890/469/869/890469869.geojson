@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.885465,23.8208775,120.885465,23.8208775",
+    "geom:bbox":"120.885465,23.820878,120.885465,23.820878",
     "geom:latitude":23.820878,
     "geom:longitude":120.885465,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Wudeng"
+    ],
+    "name:eng_x_variant":[
+        "Wudeng Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6b66\u767b\u6751"
+    ],
     "qs:name":"\u6b66\u767b\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5357\u6295\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679611,
-        1108808557
+        1108808557,
+        85679611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053791,
-    "wof:geomhash":"9fe3bd6147821b960fb5fb998b8b29a4",
+    "wof:geomhash":"848d765458eeb7b6881bc107ab8643b8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890469869,
-    "wof:lastmodified":1566589784,
-    "wof:name":"\u6b66\u767b\u6751",
+    "wof:lastmodified":1601423064,
+    "wof:name":"Wudeng",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     120.885465,
-    23.8208775,
+    23.820878,
     120.885465,
-    23.8208775
+    23.820878
 ],
-  "geometry": {"coordinates":[120.885465,23.8208775],"type":"Point"}
+  "geometry": {"coordinates":[120.885465,23.820878],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.999097,24.5996995,120.999097,24.5996995",
+    "geom:bbox":"120.999097,24.599699,120.999097,24.599699",
     "geom:latitude":24.599699,
     "geom:longitude":120.999097,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "West"
+    ],
+    "name:eng_x_variant":[
+        "West Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u897f\u6751"
+    ],
     "qs:name":"\u897f\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u82d7\u6817\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679575,
-        1108808557
+        1108808557,
+        85679575
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053716,
-    "wof:geomhash":"1261ee23a3f00a1e3ef8914036105aa6",
+    "wof:geomhash":"ecd85e945af360a6bbb7605232a60678",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890468609,
-    "wof:lastmodified":1566589840,
-    "wof:name":"\u897f\u6751",
+    "wof:lastmodified":1601423063,
+    "wof:name":"West",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     120.999097,
-    24.5996995,
+    24.599699,
     120.999097,
-    24.5996995
+    24.599699
 ],
-  "geometry": {"coordinates":[120.99909700000001,24.5996995],"type":"Point"}
+  "geometry": {"coordinates":[120.99909700000001,24.599699],"type":"Point"}
 }

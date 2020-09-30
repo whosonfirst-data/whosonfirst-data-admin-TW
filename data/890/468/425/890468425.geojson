@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Housheng"
+    ],
+    "name:eng_x_variant":[
+        "Housheng Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u539a\u751f\u91cc"
+    ],
     "qs:name":"\u539a\u751f\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u9ad8\u96c4\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808547,
         102026701,
+        1108808547,
         85679547
     ],
     "wof:breaches":[],
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890468425,
-    "wof:lastmodified":1566589815,
-    "wof:name":"\u539a\u751f\u91cc",
+    "wof:lastmodified":1601423005,
+    "wof:name":"Housheng",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

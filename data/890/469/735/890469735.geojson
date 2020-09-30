@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.3538585,25.040404,121.3538585,25.040404",
+    "geom:bbox":"121.353859,25.040404,121.353859,25.040404",
     "geom:latitude":25.040404,
     "geom:longitude":121.353859,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Dagang"
+    ],
+    "name:eng_x_variant":[
+        "Dagang Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5927\u5d17\u6751"
+    ],
     "qs:name":"\u5927\u5d17\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u6843\u5712\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679589,
-        1108808543
+        1108808543,
+        85679589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053785,
-    "wof:geomhash":"2a37e804080ae59c8c9e5d3b306474c5",
+    "wof:geomhash":"ba7d1e6ce2969764ebc6bf38acc778bd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890469735,
-    "wof:lastmodified":1566589793,
-    "wof:name":"\u5927\u5d17\u6751",
+    "wof:lastmodified":1601422985,
+    "wof:name":"Dagang",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.3538585,
+    121.353859,
     25.040404,
-    121.3538585,
+    121.353859,
     25.040404
 ],
-  "geometry": {"coordinates":[121.3538585,25.040404],"type":"Point"}
+  "geometry": {"coordinates":[121.353859,25.040404],"type":"Point"}
 }

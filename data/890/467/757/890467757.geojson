@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.829334,25.0287385,121.829334,25.0287385",
+    "geom:bbox":"121.829334,25.028738,121.829334,25.028738",
     "geom:latitude":25.028738,
     "geom:longitude":121.829334,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Shanglin"
+    ],
+    "name:eng_x_variant":[
+        "Shanglin Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e0a\u6797\u6751"
+    ],
     "qs:name":"\u4e0a\u6797\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u65b0\u5317\u5e02",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679585,
-        1108808549
+        1108808549,
+        85679585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053664,
-    "wof:geomhash":"11fceb8d2b6508c97835133c6e2e64d9",
+    "wof:geomhash":"5e05063e6e321e9c0c83e767dffb97bb",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890467757,
-    "wof:lastmodified":1566589765,
-    "wof:name":"\u4e0a\u6797\u6751",
+    "wof:lastmodified":1601423048,
+    "wof:name":"Shanglin",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     121.829334,
-    25.0287385,
+    25.028738,
     121.829334,
-    25.0287385
+    25.028738
 ],
-  "geometry": {"coordinates":[121.829334,25.0287385],"type":"Point"}
+  "geometry": {"coordinates":[121.829334,25.028738],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.2241675,22.97306,120.2241675,22.97306",
+    "geom:bbox":"120.224167,22.97306,120.224167,22.97306",
     "geom:latitude":22.97306,
     "geom:longitude":120.224167,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Chongde"
+    ],
+    "name:eng_x_variant":[
+        "Chongde Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5d07\u5fb7\u91cc"
+    ],
     "qs:name":"\u5d07\u5fb7\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5357\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808553,
         102026643,
+        1108808553,
         85679553
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053696,
-    "wof:geomhash":"bf5f3f54b0e04f5abe53ec3307d9a484",
+    "wof:geomhash":"ebbab956bca3ed6b82e61dc8a4b7566f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890468265,
-    "wof:lastmodified":1566589838,
-    "wof:name":"\u5d07\u5fb7\u91cc",
+    "wof:lastmodified":1601422984,
+    "wof:name":"Chongde",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.2241675,
+    120.224167,
     22.97306,
-    120.2241675,
+    120.224167,
     22.97306
 ],
-  "geometry": {"coordinates":[120.22416749999999,22.97306],"type":"Point"}
+  "geometry": {"coordinates":[120.22416699999999,22.97306],"type":"Point"}
 }

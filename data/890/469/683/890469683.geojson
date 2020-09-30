@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.3096835,22.6168035,120.3096835,22.6168035",
+    "geom:bbox":"120.309684,22.616803,120.309684,22.616803",
     "geom:latitude":22.616803,
     "geom:longitude":120.309684,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Rizhong"
+    ],
+    "name:eng_x_variant":[
+        "Rizhong Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u65e5\u4e2d\u91cc"
+    ],
     "qs:name":"\u65e5\u4e2d\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u9ad8\u96c4\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808547,
         102026701,
+        1108808547,
         85679547
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053782,
-    "wof:geomhash":"144d86916f8ddb24e9e684ac19c50bfb",
+    "wof:geomhash":"a4727cb9899a4754aa0a9b2b6e1811b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890469683,
-    "wof:lastmodified":1566589799,
-    "wof:name":"\u65e5\u4e2d\u91cc",
+    "wof:lastmodified":1601423044,
+    "wof:name":"Rizhong",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.3096835,
-    22.6168035,
-    120.3096835,
-    22.6168035
+    120.309684,
+    22.616803,
+    120.309684,
+    22.616803
 ],
-  "geometry": {"coordinates":[120.30968350000001,22.6168035],"type":"Point"}
+  "geometry": {"coordinates":[120.309684,22.616803],"type":"Point"}
 }

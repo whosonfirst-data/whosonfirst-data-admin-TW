@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Yizhan"
+    ],
+    "name:eng_x_variant":[
+        "Yizhan Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u9a5b\u7ad9\u91cc"
+    ],
     "qs:name":"\u9a5b\u7ad9\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5609\u7fa9\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026757,
+        1108808557,
         85679603
     ],
     "wof:breaches":[],
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890470469,
-    "wof:lastmodified":1566589742,
-    "wof:name":"\u9a5b\u7ad9\u91cc",
+    "wof:lastmodified":1601423073,
+    "wof:name":"Yizhan",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

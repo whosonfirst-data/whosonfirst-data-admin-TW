@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ruchuan"
+    ],
+    "name:eng_x_variant":[
+        "Ruchuan Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5165\u8239\u91cc"
+    ],
     "qs:name":"\u5165\u8239\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u57fa\u9686\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026749,
+        1108808557,
         85679571
     ],
     "wof:breaches":[],
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890468569,
-    "wof:lastmodified":1566589810,
-    "wof:name":"\u5165\u8239\u91cc",
+    "wof:lastmodified":1601423044,
+    "wof:name":"Ruchuan",
     "wof:parent_id":102026749,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

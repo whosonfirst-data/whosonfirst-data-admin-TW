@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Laoteng"
+    ],
+    "name:eng_x_variant":[
+        "Laoteng Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8356\u85e4\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u8356\u85e4\u91cc"
     ],
@@ -88,8 +97,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346276,
-    "wof:name":"\u8356\u85e4\u91cc",
+    "wof:lastmodified":1601423020,
+    "wof:name":"Laoteng",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

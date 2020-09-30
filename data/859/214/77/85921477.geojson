@@ -5,10 +5,10 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000019,
-    "geom:area_square_m":212004.132847,
-    "geom:bbox":"120.331980025,22.5923483699,120.338021697,22.5975296644",
+    "geom:area_square_m":212034.317395,
+    "geom:bbox":"120.33198,22.592348,120.338022,22.59753",
     "geom:latitude":22.594899,
-    "geom:longitude":120.33454,
+    "geom:longitude":120.334541,
     "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.594994,
@@ -25,6 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Mingli"
+    ],
+    "name:eng_x_variant":[
+        "Mingli Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u660e\u79ae\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u660e\u79ae\u91cc"
     ],
@@ -57,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808547,
         102026701,
+        1108808547,
         85679547
     ],
     "wof:breaches":[],
@@ -70,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"574bfba0bd77648d5e99cab6cc9ce9af",
+    "wof:geomhash":"b0ba062ebee1f3fbe7f01c685d7697ac",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,8 +94,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346279,
-    "wof:name":"\u660e\u79ae\u91cc",
+    "wof:lastmodified":1601423029,
+    "wof:name":"Mingli",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -95,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.33198002521846,
-    22.59234836986693,
-    120.33802169685396,
-    22.59752966440016
+    120.33198,
+    22.592348,
+    120.338022,
+    22.59753
 ],
-  "geometry": {"coordinates":[[[120.33706786569394,22.59372606390018],[120.33325195300017,22.59234836986693],[120.33198002521846,22.59372601720028],[120.33315056822443,22.59752966440016],[120.33325195300012,22.59752966440016],[120.33482801355177,22.59752966440016],[120.33599853246807,22.59626182344385],[120.33802169685396,22.59407043433083],[120.33706786569394,22.59372606390018]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[120.337068,22.593726],[120.333252,22.592348],[120.33198,22.593726],[120.333151,22.59753],[120.333252,22.59753],[120.334828,22.59753],[120.335999,22.596262],[120.338022,22.59407],[120.337068,22.593726]]],"type":"Polygon"}
 }

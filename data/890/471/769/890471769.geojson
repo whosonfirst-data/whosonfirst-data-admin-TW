@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Wanli"
+    ],
+    "name:eng_x_variant":[
+        "Wanli Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u842c\u91cc\u6751"
+    ],
     "qs:name":"\u842c\u91cc\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u65b0\u5317\u5e02",
@@ -29,11 +38,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85679585,
         102191569,
         85632403,
         1108756871,
-        1108808549
+        1108808549,
+        85679585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,8 +63,8 @@
         }
     ],
     "wof:id":890471769,
-    "wof:lastmodified":1566589692,
-    "wof:name":"\u842c\u91cc\u6751",
+    "wof:lastmodified":1601423062,
+    "wof:name":"Wanli",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",

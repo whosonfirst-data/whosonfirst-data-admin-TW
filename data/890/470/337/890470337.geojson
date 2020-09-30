@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.5572715,25.045432,121.5572715,25.045432",
+    "geom:bbox":"121.557271,25.045432,121.557271,25.045432",
     "geom:latitude":25.045432,
     "geom:longitude":121.557271,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Fujian"
+    ],
+    "name:eng_x_variant":[
+        "Fujian Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5fa9\u5efa\u91cc"
+    ],
     "qs:name":"\u5fa9\u5efa\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5317\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808545,
         102026641,
+        1108808545,
         85679583
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053814,
-    "wof:geomhash":"6d626e84716c5b326156f60204b91eb7",
+    "wof:geomhash":"0b2059f766678c7c108431261f66a5d0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890470337,
-    "wof:lastmodified":1566589713,
-    "wof:name":"\u5fa9\u5efa\u91cc",
+    "wof:lastmodified":1601422994,
+    "wof:name":"Fujian",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.5572715,
+    121.557271,
     25.045432,
-    121.5572715,
+    121.557271,
     25.045432
 ],
-  "geometry": {"coordinates":[121.5572715,25.045432],"type":"Point"}
+  "geometry": {"coordinates":[121.557271,25.045432],"type":"Point"}
 }

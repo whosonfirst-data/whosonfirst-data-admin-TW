@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.699144,24.1272575,120.699144,24.1272575",
+    "geom:bbox":"120.699144,24.127257,120.699144,24.127257",
     "geom:latitude":24.127257,
     "geom:longitude":120.699144,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dongmen"
+    ],
+    "name:eng_x_variant":[
+        "Dongmen Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6771\u9580\u91cc"
+    ],
     "qs:name":"\u6771\u9580\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u4e2d\u5e02",
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053653,
-    "wof:geomhash":"cf353a8ce68bf190d4d5811c53f9b4bf",
+    "wof:geomhash":"6adb3cec63798a4a7788874297c7c01c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890467535,
-    "wof:lastmodified":1566589756,
-    "wof:name":"\u6771\u9580\u91cc",
+    "wof:lastmodified":1601422990,
+    "wof:name":"Dongmen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -64,9 +73,9 @@
 },
   "bbox": [
     120.699144,
-    24.1272575,
+    24.127257,
     120.699144,
-    24.1272575
+    24.127257
 ],
-  "geometry": {"coordinates":[120.699144,24.1272575],"type":"Point"}
+  "geometry": {"coordinates":[120.699144,24.127257],"type":"Point"}
 }

@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Gancheng"
+    ],
+    "name:eng_x_variant":[
+        "Gancheng Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5e72\u57ce\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u5e72\u57ce\u91cc"
     ],
@@ -59,8 +68,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026749,
+        1108808557,
         85679571
     ],
     "wof:breaches":[],
@@ -88,8 +97,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346281,
-    "wof:name":"\u5e72\u57ce\u91cc",
+    "wof:lastmodified":1601422996,
+    "wof:name":"Gancheng",
     "wof:parent_id":102026749,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

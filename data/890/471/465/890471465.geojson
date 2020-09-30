@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Xinfeng"
+    ],
+    "name:eng_x_variant":[
+        "Xinfeng Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u65b0\u8c50\u91cc"
+    ],
     "qs:name":"\u65b0\u8c50\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u57fa\u9686\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026749,
+        1108808557,
         85679571
     ],
     "wof:breaches":[],
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890471465,
-    "wof:lastmodified":1566589684,
-    "wof:name":"\u65b0\u8c50\u91cc",
+    "wof:lastmodified":1601423067,
+    "wof:name":"Xinfeng",
     "wof:parent_id":102026749,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

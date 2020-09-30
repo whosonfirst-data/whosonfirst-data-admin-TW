@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Wang'an"
+    ],
+    "name:eng_x_variant":[
+        "Wang'an Township"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u671b\u5b89\u9109"
+    ],
     "qs:name":"\u671b\u5b89\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u6f8e\u6e56\u7e23",
@@ -46,8 +55,8 @@
         }
     ],
     "wof:id":890470155,
-    "wof:lastmodified":1566589735,
-    "wof:name":"\u671b\u5b89\u9109",
+    "wof:lastmodified":1601423061,
+    "wof:name":"Wang'an",
     "wof:parent_id":-1,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-tw",

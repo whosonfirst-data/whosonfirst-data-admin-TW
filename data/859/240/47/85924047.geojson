@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Dinghe"
+    ],
+    "name:eng_x_variant":[
+        "Dinghe Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7887\u548c\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u7887\u548c\u91cc"
     ],
@@ -59,8 +68,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026749,
+        1108808557,
         85679571
     ],
     "wof:breaches":[],
@@ -88,8 +97,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346277,
-    "wof:name":"\u7887\u548c\u91cc",
+    "wof:lastmodified":1601422989,
+    "wof:name":"Dinghe",
     "wof:parent_id":102026749,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

@@ -5,9 +5,9 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000016,
-    "geom:area_square_m":181002.582809,
-    "geom:bbox":"120.297792081,22.7128564424,120.303039551,22.7169963079",
-    "geom:latitude":22.71454,
+    "geom:area_square_m":181032.684489,
+    "geom:bbox":"120.297792,22.712856,120.30304,22.716996",
+    "geom:latitude":22.714539,
     "geom:longitude":120.3007,
     "gn:id":"",
     "iso:country":"TW",
@@ -25,6 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Hongrong"
+    ],
+    "name:eng_x_variant":[
+        "Hongrong Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5b8f\u69ae\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u5b8f\u69ae\u91cc"
     ],
@@ -57,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808547,
         102026701,
+        1108808547,
         85679547
     ],
     "wof:breaches":[],
@@ -70,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"6fb3da0498961d30fc5d8f44c31e99d5",
+    "wof:geomhash":"9a5a19f7f9f2f0989dc3706c3beac821",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,8 +94,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346266,
-    "wof:name":"\u5b8f\u69ae\u91cc",
+    "wof:lastmodified":1601423005,
+    "wof:name":"Hongrong",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -95,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.2977920807275,
-    22.71285644240047,
-    120.30303955100021,
-    22.71699630786557
+    120.297792,
+    22.712856,
+    120.30304,
+    22.716996
 ],
-  "geometry": {"coordinates":[[[120.30029296900005,22.71285644678788],[120.29795579157991,22.71285644240047],[120.2977920807275,22.71294517841677],[120.29966053133177,22.71699630786557],[120.30029296900005,22.71676776640533],[120.30303955100021,22.71577524509848],[120.30303955100021,22.71539001930003],[120.30303955100021,22.7128564476003],[120.30029296900005,22.71285644678788]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[120.300293,22.712856],[120.297956,22.712856],[120.297792,22.712945],[120.299661,22.716996],[120.300293,22.716768],[120.30304,22.715775],[120.30304,22.71539],[120.30304,22.712856],[120.300293,22.712856]]],"type":"Polygon"}
 }

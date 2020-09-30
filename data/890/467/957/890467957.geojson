@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.515001,25.0681025,121.515001,25.0681025",
+    "geom:bbox":"121.515001,25.068102,121.515001,25.068102",
     "geom:latitude":25.068102,
     "geom:longitude":121.515001,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Yangya"
+    ],
+    "name:eng_x_variant":[
+        "Yangya Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u63da\u96c5\u91cc"
+    ],
     "qs:name":"\u63da\u96c5\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5317\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808545,
         102026641,
+        1108808545,
         85679583
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053678,
-    "wof:geomhash":"ba7257971b5922f665fbb6c64c49991d",
+    "wof:geomhash":"7bf13a36fa5b58d777b154e24b153068",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890467957,
-    "wof:lastmodified":1566589763,
-    "wof:name":"\u63da\u96c5\u91cc",
+    "wof:lastmodified":1601423072,
+    "wof:name":"Yangya",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -64,9 +73,9 @@
 },
   "bbox": [
     121.515001,
-    25.0681025,
+    25.068102,
     121.515001,
-    25.0681025
+    25.068102
 ],
-  "geometry": {"coordinates":[121.515001,25.0681025],"type":"Point"}
+  "geometry": {"coordinates":[121.515001,25.068102],"type":"Point"}
 }

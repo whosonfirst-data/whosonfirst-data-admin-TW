@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zhihang"
+    ],
+    "name:eng_x_variant":[
+        "Zhihang Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5fd7\u822a\u91cc"
+    ],
     "qs:name":"\u5fd7\u822a\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5609\u7fa9\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026757,
+        1108808557,
         85679603
     ],
     "wof:breaches":[],
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890470903,
-    "wof:lastmodified":1566589733,
-    "wof:name":"\u5fd7\u822a\u91cc",
+    "wof:lastmodified":1601423078,
+    "wof:name":"Zhihang",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

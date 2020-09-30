@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.7934405,24.741355,121.7934405,24.741355",
+    "geom:bbox":"121.793441,24.741355,121.793441,24.741355",
     "geom:latitude":24.741355,
     "geom:longitude":121.793441,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Jixiang"
+    ],
+    "name:eng_x_variant":[
+        "Jixiang Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5409\u7965\u6751"
+    ],
     "qs:name":"\u5409\u7965\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5b9c\u862d\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679567,
-        1108808557
+        1108808557,
+        85679567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053836,
-    "wof:geomhash":"b3b8e687a3dd536828d34b1c8ba84edb",
+    "wof:geomhash":"0218057c12210d68a07ed5f575d17562",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890470915,
-    "wof:lastmodified":1566589728,
-    "wof:name":"\u5409\u7965\u6751",
+    "wof:lastmodified":1601423013,
+    "wof:name":"Jixiang",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.7934405,
+    121.793441,
     24.741355,
-    121.7934405,
+    121.793441,
     24.741355
 ],
-  "geometry": {"coordinates":[121.7934405,24.741355],"type":"Point"}
+  "geometry": {"coordinates":[121.793441,24.741355],"type":"Point"}
 }

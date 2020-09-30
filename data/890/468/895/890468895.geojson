@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Guanggou"
+    ],
+    "name:eng_x_variant":[
+        "Guanggou Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5ee3\u6e9d\u6751"
+    ],
     "qs:name":"\u5ee3\u6e9d\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u96f2\u6797\u7e23",
@@ -29,11 +38,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85679619,
         102191569,
         85632403,
         1108498757,
-        1108808557
+        1108808557,
+        85679619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,8 +63,8 @@
         }
     ],
     "wof:id":890468895,
-    "wof:lastmodified":1566589819,
-    "wof:name":"\u5ee3\u6e9d\u6751",
+    "wof:lastmodified":1601422999,
+    "wof:name":"Guanggou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",

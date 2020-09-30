@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.22037,23.1257605,121.22037,23.1257605",
+    "geom:bbox":"121.22037,23.12576,121.22037,23.12576",
     "geom:latitude":23.12576,
     "geom:longitude":121.22037,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Xuetian"
+    ],
+    "name:eng_x_variant":[
+        "Xuetian Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5b78\u7530\u6751"
+    ],
     "qs:name":"\u5b78\u7530\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u82b1\u84ee\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679623,
-        1108808557
+        1108808557,
+        85679623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053821,
-    "wof:geomhash":"7e90e1c2611d6eeaf3f688d14bd39f8e",
+    "wof:geomhash":"c0ea163355210ddfb0abfd77231a9446",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890470495,
-    "wof:lastmodified":1566589744,
-    "wof:name":"\u5b78\u7530\u6751",
+    "wof:lastmodified":1601423071,
+    "wof:name":"Xuetian",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     121.22037,
-    23.1257605,
+    23.12576,
     121.22037,
-    23.1257605
+    23.12576
 ],
-  "geometry": {"coordinates":[121.22037,23.1257605],"type":"Point"}
+  "geometry": {"coordinates":[121.22037,23.12576],"type":"Point"}
 }

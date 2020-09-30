@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.475891,23.3953825,121.475891,23.3953825",
+    "geom:bbox":"121.475891,23.395383,121.475891,23.395383",
     "geom:latitude":23.395383,
     "geom:longitude":121.475891,
     "gn:country":"TW",
@@ -18,6 +18,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Sanjian"
+    ],
+    "name:eng_x_variant":[
+        "Sanjian Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e09\u9593\u6751"
+    ],
     "qs:name":"\u4e09\u9593\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u6771\u7e23",
@@ -30,11 +39,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85679623,
         102191569,
         85632403,
         1108499511,
-        1108808557
+        1108808557,
+        85679623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -43,7 +52,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053807,
-    "wof:geomhash":"605ac6ade03a079fca0aab915038eb72",
+    "wof:geomhash":"440e5c44322aadd85877dc34511a7fef",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -55,8 +64,8 @@
         }
     ],
     "wof:id":890470185,
-    "wof:lastmodified":1566589751,
-    "wof:name":"\u4e09\u9593\u6751",
+    "wof:lastmodified":1601423046,
+    "wof:name":"Sanjian",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -66,9 +75,9 @@
 },
   "bbox": [
     121.475891,
-    23.3953825,
+    23.395383,
     121.475891,
-    23.3953825
+    23.395383
 ],
-  "geometry": {"coordinates":[121.475891,23.3953825],"type":"Point"}
+  "geometry": {"coordinates":[121.475891,23.395383],"type":"Point"}
 }

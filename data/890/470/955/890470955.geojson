@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.642911,25.2159265,121.642911,25.2159265",
+    "geom:bbox":"121.642911,25.215926,121.642911,25.215926",
     "geom:latitude":25.215926,
     "geom:longitude":121.642911,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Heping"
+    ],
+    "name:eng_x_variant":[
+        "Heping Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u548c\u5e73\u6751"
+    ],
     "qs:name":"\u548c\u5e73\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u65b0\u5317\u5e02",
@@ -29,11 +38,11 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85679585,
         102191569,
         85632403,
         1108756871,
-        1108808549
+        1108808549,
+        85679585
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -42,7 +51,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053837,
-    "wof:geomhash":"ed20d19ce722c279d82c9ec536e37469",
+    "wof:geomhash":"37bd3eed4b95ee47dc5d53ad4b8a2848",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -54,8 +63,8 @@
         }
     ],
     "wof:id":890470955,
-    "wof:lastmodified":1566589715,
-    "wof:name":"\u548c\u5e73\u6751",
+    "wof:lastmodified":1601423003,
+    "wof:name":"Heping",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -65,9 +74,9 @@
 },
   "bbox": [
     121.642911,
-    25.2159265,
+    25.215926,
     121.642911,
-    25.2159265
+    25.215926
 ],
-  "geometry": {"coordinates":[121.642911,25.2159265],"type":"Point"}
+  "geometry": {"coordinates":[121.642911,25.215926],"type":"Point"}
 }

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.2521395,23.69902,120.2521395,23.69902",
+    "geom:bbox":"120.252139,23.69902,120.252139,23.69902",
     "geom:latitude":23.69902,
     "geom:longitude":120.252139,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Dongshi"
+    ],
+    "name:eng_x_variant":[
+        "Dongshi Township"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6771\u52e2\u9109"
+    ],
     "qs:name":"\u6771\u52e2\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u96f2\u6797\u7e23",
@@ -28,11 +37,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
-        85679619,
         102191569,
         85632403,
         1108498757,
-        1108808557
+        1108808557,
+        85679619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053734,
-    "wof:geomhash":"7fb7aafac4c966f19c8018ce0d466870",
+    "wof:geomhash":"34e368db45432507ebae480cf9e066ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890468993,
-    "wof:lastmodified":1566589829,
-    "wof:name":"\u6771\u52e2\u9109",
+    "wof:lastmodified":1601422991,
+    "wof:name":"Dongshi",
     "wof:parent_id":1108498757,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.2521395,
+    120.252139,
     23.69902,
-    120.2521395,
+    120.252139,
     23.69902
 ],
-  "geometry": {"coordinates":[120.2521395,23.69902],"type":"Point"}
+  "geometry": {"coordinates":[120.252139,23.69902],"type":"Point"}
 }

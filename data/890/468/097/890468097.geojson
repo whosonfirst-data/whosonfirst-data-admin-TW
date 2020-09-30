@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.8528435,23.817154,120.8528435,23.817154",
+    "geom:bbox":"120.852844,23.817154,120.852844,23.817154",
     "geom:latitude":23.817154,
     "geom:longitude":120.852844,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Zhongyang"
+    ],
+    "name:eng_x_variant":[
+        "Zhongyang Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e2d\u592e\u6751"
+    ],
     "qs:name":"\u4e2d\u592e\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5357\u6295\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679611,
-        1108808557
+        1108808557,
+        85679611
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053690,
-    "wof:geomhash":"212c1ba7c72fb6a7af9332f0e8b2147b",
+    "wof:geomhash":"2debffd8e3798fe181ad863ef6820d46",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890468097,
-    "wof:lastmodified":1566589821,
-    "wof:name":"\u4e2d\u592e\u6751",
+    "wof:lastmodified":1601423080,
+    "wof:name":"Zhongyang",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.8528435,
+    120.852844,
     23.817154,
-    120.8528435,
+    120.852844,
     23.817154
 ],
-  "geometry": {"coordinates":[120.85284350000001,23.817154],"type":"Point"}
+  "geometry": {"coordinates":[120.852844,23.817154],"type":"Point"}
 }

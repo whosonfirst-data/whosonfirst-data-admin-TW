@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.730544,25.1347515,121.730544,25.1347515",
+    "geom:bbox":"121.730544,25.134752,121.730544,25.134752",
     "geom:latitude":25.134752,
     "geom:longitude":121.730544,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Ciren"
+    ],
+    "name:eng_x_variant":[
+        "Ciren Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6148\u4ec1\u91cc"
+    ],
     "qs:name":"\u6148\u4ec1\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u57fa\u9686\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026749,
+        1108808557,
         85679571
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053876,
-    "wof:geomhash":"56e035333de7146a957d16b61ea80be7",
+    "wof:geomhash":"a9c0dbccd3a7c87cf34d007e18da7f1f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890471957,
-    "wof:lastmodified":1566589690,
-    "wof:name":"\u6148\u4ec1\u91cc",
+    "wof:lastmodified":1601422985,
+    "wof:name":"Ciren",
     "wof:parent_id":102026749,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -64,9 +73,9 @@
 },
   "bbox": [
     121.730544,
-    25.1347515,
+    25.134752,
     121.730544,
-    25.1347515
+    25.134752
 ],
-  "geometry": {"coordinates":[121.73054399999999,25.1347515],"type":"Point"}
+  "geometry": {"coordinates":[121.73054399999999,25.134752],"type":"Point"}
 }

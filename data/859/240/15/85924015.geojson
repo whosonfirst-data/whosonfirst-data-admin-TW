@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Bazhong"
+    ],
+    "name:eng_x_variant":[
+        "Bazhong Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u516b\u4e2d\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u516b\u4e2d\u91cc"
     ],
@@ -89,8 +98,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346277,
-    "wof:name":"\u516b\u4e2d\u91cc",
+    "wof:lastmodified":1601422979,
+    "wof:name":"Bazhong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

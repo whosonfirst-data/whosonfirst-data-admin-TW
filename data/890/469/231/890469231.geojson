@@ -20,8 +20,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Taoyuan"
+    ],
+    "name:eng_x_variant":[
+        "Taoyuan City"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u043e\u044e\u0430\u043d\u044c"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6843\u5712\u5e02"
     ],
     "qs:name":"\u6843\u5712\u5e02",
     "qs:name_adm0":"\u81fa\u7063",
@@ -38,8 +47,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679589,
-        1108808543
+        1108808543,
+        85679589
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +69,8 @@
         }
     ],
     "wof:id":890469231,
-    "wof:lastmodified":1566589800,
-    "wof:name":"\u6843\u5712\u5e02",
+    "wof:lastmodified":1601423056,
+    "wof:name":"Taoyuan",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",
     "wof:population":402014,

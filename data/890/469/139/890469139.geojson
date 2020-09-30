@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.5198125,25.075697,121.5198125,25.075697",
+    "geom:bbox":"121.519813,25.075697,121.519813,25.075697",
     "geom:latitude":25.075697,
     "geom:longitude":121.519813,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Chongqing"
+    ],
+    "name:eng_x_variant":[
+        "Chongqing Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u91cd\u6176\u91cc"
+    ],
     "qs:name":"\u91cd\u6176\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5317\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808545,
         102026641,
+        1108808545,
         85679583
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053750,
-    "wof:geomhash":"97c2df8f630219997b99aaad69f6b9eb",
+    "wof:geomhash":"1157c7be4e53a669456ef2579ccfe17f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890469139,
-    "wof:lastmodified":1566589794,
-    "wof:name":"\u91cd\u6176\u91cc",
+    "wof:lastmodified":1601422984,
+    "wof:name":"Chongqing",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.5198125,
+    121.519813,
     25.075697,
-    121.5198125,
+    121.519813,
     25.075697
 ],
-  "geometry": {"coordinates":[121.5198125,25.075697],"type":"Point"}
+  "geometry": {"coordinates":[121.519813,25.075697],"type":"Point"}
 }

@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
-    "geom:area_square_m":99842.794621,
-    "geom:bbox":"121.610412598,25.0756484386,121.61315918,25.0796523462",
+    "geom:area_square_m":99827.886299,
+    "geom:bbox":"121.610413,25.075648,121.613159,25.079652",
     "geom:latitude":25.077301,
     "geom:longitude":121.611786,
     "gn:id":"",
@@ -25,6 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":6,
+    "name:eng_x_preferred":[
+        "Kangning"
+    ],
+    "name:eng_x_variant":[
+        "Kangning Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5eb7\u5be7\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u5eb7\u5be7\u91cc"
     ],
@@ -57,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808545,
         102026641,
+        1108808545,
         85679583
     ],
     "wof:breaches":[],
@@ -70,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"d39d11dc82bd267e3c25f9db4630f001",
+    "wof:geomhash":"9edb338a2a37bbd662de3ade245756e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,8 +94,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346263,
-    "wof:name":"\u5eb7\u5be7\u91cc",
+    "wof:lastmodified":1601423015,
+    "wof:name":"Kangning",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -95,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.61041259800004,
-    25.07564843858636,
-    121.6131591800002,
-    25.07965234620897
+    121.610413,
+    25.075648,
+    121.613159,
+    25.079652
 ],
-  "geometry": {"coordinates":[[[121.6131591800002,25.07564844086588],[121.61041259800004,25.07564843858636],[121.61041259800004,25.0781361269209],[121.61178588900026,25.07965234620897],[121.6131591800002,25.0781361269209],[121.6131591800002,25.07564844086588]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[121.613159,25.075648],[121.61041299999999,25.075648],[121.61041299999999,25.078136],[121.611786,25.079652],[121.613159,25.078136],[121.613159,25.075648]]],"type":"Polygon"}
 }

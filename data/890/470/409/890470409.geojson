@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.9740045,24.80401,120.9740045,24.80401",
+    "geom:bbox":"120.974005,24.80401,120.974005,24.80401",
     "geom:latitude":24.80401,
     "geom:longitude":120.974005,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Yuxian"
+    ],
+    "name:eng_x_variant":[
+        "Yuxian Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u80b2\u8ce2\u91cc"
+    ],
     "qs:name":"\u80b2\u8ce2\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u65b0\u7af9\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026725,
+        1108808557,
         85679557
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053817,
-    "wof:geomhash":"69da9ef26b566db30dd31170361b2d0c",
+    "wof:geomhash":"3e12456c4bf97e9a3c7f01a817ca8217",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890470409,
-    "wof:lastmodified":1566589724,
-    "wof:name":"\u80b2\u8ce2\u91cc",
+    "wof:lastmodified":1601423077,
+    "wof:name":"Yuxian",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,10 +72,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.9740045,
+    120.974005,
     24.80401,
-    120.9740045,
+    120.974005,
     24.80401
 ],
-  "geometry": {"coordinates":[120.97400450000001,24.80401],"type":"Point"}
+  "geometry": {"coordinates":[120.97400500000001,24.80401],"type":"Point"}
 }

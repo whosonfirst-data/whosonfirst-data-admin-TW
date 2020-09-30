@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.1217795,24.636684,121.1217795,24.636684",
+    "geom:bbox":"121.121779,24.636684,121.121779,24.636684",
     "geom:latitude":24.636684,
     "geom:longitude":121.121779,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Nanchang"
+    ],
+    "name:eng_x_variant":[
+        "Nanchang Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5357\u660c\u6751"
+    ],
     "qs:name":"\u5357\u660c\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u65b0\u7af9\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679563,
-        1108808557
+        1108808557,
+        85679563
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053787,
-    "wof:geomhash":"3017773b7aab95dcf1acc2752ecefe43",
+    "wof:geomhash":"377daf1545e10fb824dcef18225f7927",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890469785,
-    "wof:lastmodified":1566589788,
-    "wof:name":"\u5357\u660c\u6751",
+    "wof:lastmodified":1601423033,
+    "wof:name":"Nanchang",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.12177949999999,
+    121.121779,
     24.636684,
-    121.12177949999999,
+    121.121779,
     24.636684
 ],
-  "geometry": {"coordinates":[121.12177949999999,24.636684],"type":"Point"}
+  "geometry": {"coordinates":[121.121779,24.636684],"type":"Point"}
 }

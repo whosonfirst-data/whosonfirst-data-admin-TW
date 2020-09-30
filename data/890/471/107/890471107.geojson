@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.785421,24.7212905,121.785421,24.7212905",
+    "geom:bbox":"121.785421,24.72129,121.785421,24.72129",
     "geom:latitude":24.72129,
     "geom:longitude":121.785421,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Meifu"
+    ],
+    "name:eng_x_variant":[
+        "Meifu Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7f8e\u798f\u6751"
+    ],
     "qs:name":"\u7f8e\u798f\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5b9c\u862d\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679567,
-        1108808557
+        1108808557,
+        85679567
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053844,
-    "wof:geomhash":"18cebe5fda4b3af5bc823c8ca1146ced",
+    "wof:geomhash":"e60b01f950b398ea1573429ff2fd80a6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890471107,
-    "wof:lastmodified":1566589692,
-    "wof:name":"\u7f8e\u798f\u6751",
+    "wof:lastmodified":1601423026,
+    "wof:name":"Meifu",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -63,9 +72,9 @@
 },
   "bbox": [
     121.785421,
-    24.7212905,
+    24.72129,
     121.785421,
-    24.7212905
+    24.72129
 ],
-  "geometry": {"coordinates":[121.785421,24.7212905],"type":"Point"}
+  "geometry": {"coordinates":[121.785421,24.72129],"type":"Point"}
 }

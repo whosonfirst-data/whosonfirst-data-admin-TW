@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Taibai"
+    ],
+    "name:eng_x_variant":[
+        "Taibai Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u592a\u767d\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u592a\u767d\u91cc"
     ],
@@ -89,8 +98,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346263,
-    "wof:name":"\u592a\u767d\u91cc",
+    "wof:lastmodified":1601423055,
+    "wof:name":"Taibai",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

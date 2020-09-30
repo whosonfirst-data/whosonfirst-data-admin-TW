@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Jianguo"
+    ],
+    "name:eng_x_variant":[
+        "Jianguo Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5efa\u570b\u91cc"
+    ],
     "qs:name":"\u5efa\u570b\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u5609\u7fa9\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
         102026757,
+        1108808557,
         85679603
     ],
     "wof:breaches":[],
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890469113,
-    "wof:lastmodified":1566589808,
-    "wof:name":"\u5efa\u570b\u91cc",
+    "wof:lastmodified":1601423010,
+    "wof:name":"Jianguo",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Xinhe"
+    ],
+    "name:eng_x_variant":[
+        "Xinhe Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u65b0\u548c\u91cc"
+    ],
     "qs:name":"\u65b0\u548c\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5317\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808545,
         102026641,
+        1108808545,
         85679583
     ],
     "wof:breaches":[],
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890471545,
-    "wof:lastmodified":1566589688,
-    "wof:name":"\u65b0\u548c\u91cc",
+    "wof:lastmodified":1601423068,
+    "wof:name":"Xinhe",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

@@ -5,8 +5,8 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.000009,
-    "geom:area_square_m":99679.704197,
-    "geom:bbox":"120.292053223,22.5774772278,120.294799805,22.581046533",
+    "geom:area_square_m":99719.560933,
+    "geom:bbox":"120.292053,22.577477,120.2948,22.581047",
     "geom:latitude":22.579447,
     "geom:longitude":120.293418,
     "gn:id":"",
@@ -25,6 +25,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":5,
+    "name:eng_x_preferred":[
+        "Shangzhu"
+    ],
+    "name:eng_x_variant":[
+        "Shangzhu Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e0a\u7af9\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u4e0a\u7af9\u91cc"
     ],
@@ -70,7 +79,7 @@
     "wof:geom_alt":[
         "quattroshapes_pg"
     ],
-    "wof:geomhash":"7afb999818611e751256cc158a80b36f",
+    "wof:geomhash":"0119d496905d65867a4fa8de71bb52a2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -85,8 +94,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346265,
-    "wof:name":"\u4e0a\u7af9\u91cc",
+    "wof:lastmodified":1601423048,
+    "wof:name":"Shangzhu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -95,10 +104,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.29205322300015,
-    22.57747722779892,
-    120.2947998050002,
-    22.58104653300019
+    120.292053,
+    22.577477,
+    120.2948,
+    22.581047
 ],
-  "geometry": {"coordinates":[[[120.2947998050002,22.57851048770448],[120.29384574450552,22.57747722779892],[120.29205322300015,22.57812432682795],[120.29205322300015,22.57851049255855],[120.29205322300015,22.58104653218768],[120.2947998050002,22.58104653300019],[120.2947998050002,22.57851048770448]]],"type":"Polygon"}
+  "geometry": {"coordinates":[[[120.2948,22.57851],[120.293846,22.577477],[120.292053,22.578124],[120.292053,22.57851],[120.292053,22.581047],[120.2948,22.581047],[120.2948,22.57851]]],"type":"Polygon"}
 }

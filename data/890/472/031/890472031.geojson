@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Zhonglun"
+    ],
+    "name:eng_x_variant":[
+        "Zhonglun Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e2d\u5d19\u91cc"
+    ],
     "qs:name":"\u4e2d\u5d19\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u57fa\u9686\u5e02",
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890472031,
-    "wof:lastmodified":1566589752,
-    "wof:name":"\u4e2d\u5d19\u91cc",
+    "wof:lastmodified":1601423080,
+    "wof:name":"Zhonglun",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Bentang"
+    ],
+    "name:eng_x_variant":[
+        "Bentang Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u672c\u5802\u6751"
+    ],
     "qs:name":"\u672c\u5802\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u4e2d\u5e02",
@@ -32,8 +41,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679617,
-        1108808551
+        1108808551,
+        85679617
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -54,8 +63,8 @@
         }
     ],
     "wof:id":890467895,
-    "wof:lastmodified":1566589759,
-    "wof:name":"\u672c\u5802\u6751",
+    "wof:lastmodified":1601422980,
+    "wof:name":"Bentang",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",

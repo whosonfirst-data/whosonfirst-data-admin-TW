@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.601747,24.1685635,120.601747,24.1685635",
+    "geom:bbox":"120.601747,24.168564,120.601747,24.168564",
     "geom:latitude":24.168564,
     "geom:longitude":120.601747,
     "gp:adm0":23424971,
@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Baoshan"
+    ],
+    "name:eng_x_variant":[
+        "Baoshan Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5bf6\u5c71\u91cc"
+    ],
     "qs:name":"\u5bf6\u5c71\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u4e2d\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808551,
         102026719,
+        1108808551,
         85679617
     ],
     "wof:breaches":[],
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053656,
-    "wof:geomhash":"1ca6b88e445255b2bc36b575ab344d7c",
+    "wof:geomhash":"b4be1c314b09cce67c566dcaab2331df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890467619,
-    "wof:lastmodified":1566589757,
-    "wof:name":"\u5bf6\u5c71\u91cc",
+    "wof:lastmodified":1601422979,
+    "wof:name":"Baoshan",
     "wof:parent_id":102026719,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -64,9 +73,9 @@
 },
   "bbox": [
     120.601747,
-    24.1685635,
+    24.168564,
     120.601747,
-    24.1685635
+    24.168564
 ],
-  "geometry": {"coordinates":[120.601747,24.1685635],"type":"Point"}
+  "geometry": {"coordinates":[120.601747,24.168564],"type":"Point"}
 }

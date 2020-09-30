@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Dongjin"
+    ],
+    "name:eng_x_variant":[
+        "Dongjin Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6771\u91d1\u91cc"
+    ],
     "qs:name":"\u6771\u91d1\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u9ad8\u96c4\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808547,
         102026701,
+        1108808547,
         85679547
     ],
     "wof:breaches":[],
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890468843,
-    "wof:lastmodified":1566589818,
-    "wof:name":"\u6771\u91d1\u91cc",
+    "wof:lastmodified":1601422990,
+    "wof:name":"Dongjin",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.6272195,23.7688745,120.6272195,23.7688745",
+    "geom:bbox":"120.627219,23.768874,120.627219,23.768874",
     "geom:latitude":23.768874,
     "geom:longitude":120.627219,
     "gp:adm0":23424971,
@@ -17,6 +17,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Linbei"
+    ],
+    "name:eng_x_variant":[
+        "Linbei Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6797\u5317\u6751"
+    ],
     "qs:name":"\u6797\u5317\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u96f2\u6797\u7e23",
@@ -31,8 +40,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679619,
-        1108808557
+        1108808557,
+        85679619
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -41,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053880,
-    "wof:geomhash":"5d0e2e5e6e76a1acc33f3f8b9cf4bce8",
+    "wof:geomhash":"513a88b9c3311e36fa1bc335817467b7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -52,8 +61,8 @@
         }
     ],
     "wof:id":890472061,
-    "wof:lastmodified":1566589753,
-    "wof:name":"\u6797\u5317\u6751",
+    "wof:lastmodified":1601423021,
+    "wof:name":"Linbei",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
@@ -62,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.62721949999998,
-    23.7688745,
-    120.62721949999998,
-    23.7688745
+    120.627219,
+    23.768874,
+    120.627219,
+    23.768874
 ],
-  "geometry": {"coordinates":[120.62721949999998,23.7688745],"type":"Point"}
+  "geometry": {"coordinates":[120.627219,23.768874],"type":"Point"}
 }

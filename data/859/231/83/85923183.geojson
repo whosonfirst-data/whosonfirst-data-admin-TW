@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":15.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Zhongbin"
+    ],
+    "name:eng_x_variant":[
+        "Zhongbin Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u4e2d\u6ff1\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u4e2d\u6ff1\u91cc"
     ],
@@ -89,8 +98,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346280,
-    "wof:name":"\u4e2d\u6ff1\u91cc",
+    "wof:lastmodified":1601423079,
+    "wof:name":"Zhongbin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

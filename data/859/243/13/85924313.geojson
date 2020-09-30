@@ -26,6 +26,15 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":14.0,
     "mz:tier_locality":3,
+    "name:eng_x_preferred":[
+        "Dunan"
+    ],
+    "name:eng_x_variant":[
+        "Dunan Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u5835\u5357\u91cc"
+    ],
     "name:zho_x_preferred":[
         "\u5835\u5357\u91cc"
     ],
@@ -59,8 +68,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808549,
         102026731,
+        1108808549,
         85679585
     ],
     "wof:breaches":[],
@@ -88,8 +97,8 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1582346267,
-    "wof:name":"\u5835\u5357\u91cc",
+    "wof:lastmodified":1601422991,
+    "wof:name":"Dunan",
     "wof:parent_id":102026731,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",

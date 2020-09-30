@@ -16,6 +16,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:eng_x_preferred":[
+        "Yude"
+    ],
+    "name:eng_x_variant":[
+        "Yude Village"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u80b2\u5fb7\u91cc"
+    ],
     "qs:name":"\u80b2\u5fb7\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u4e2d\u5e02",
@@ -30,8 +39,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808551,
         102026649,
+        1108808551,
         85679617
     ],
     "wof:breaches":[],
@@ -53,8 +62,8 @@
         }
     ],
     "wof:id":890469937,
-    "wof:lastmodified":1566589775,
-    "wof:name":"\u80b2\u5fb7\u91cc",
+    "wof:lastmodified":1601423076,
+    "wof:name":"Yude",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-tw",
