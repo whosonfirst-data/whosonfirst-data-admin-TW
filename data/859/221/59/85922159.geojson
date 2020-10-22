@@ -9,7 +9,6 @@
     "geom:bbox":"120.209021,22.972189,120.220642,22.98621",
     "geom:latitude":22.979318,
     "geom:longitude":120.214298,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.980695,
     "lbl:longitude":120.21369,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922159,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423024,
+    "wof:lastmodified":1603256899,
     "wof:name":"Ludong",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"121.745563,25.129651,121.745563,25.129651",
     "geom:latitude":25.129651,
     "geom:longitude":121.745563,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.740563,25.124651,121.750563,25.134651",
     "lbl:latitude":25.129651,
@@ -68,8 +67,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026749,
         1108808557,
+        102026749,
         85679571
     ],
     "wof:breaches":[],
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85923347,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423077,
+    "wof:lastmodified":1603256907,
     "wof:name":"Yutian",
     "wof:parent_id":102026749,
     "wof:placetype":"neighbourhood",

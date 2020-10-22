@@ -9,7 +9,6 @@
     "geom:bbox":"121.805574,25.111273,121.805574,25.111273",
     "geom:latitude":25.111273,
     "geom:longitude":121.805574,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.800574,25.106273,121.810574,25.116273",
     "lbl:latitude":25.111273,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85923869,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423065,
+    "wof:lastmodified":1603256920,
     "wof:name":"Xiaogang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

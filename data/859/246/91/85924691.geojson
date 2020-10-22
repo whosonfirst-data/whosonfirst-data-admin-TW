@@ -9,7 +9,6 @@
     "geom:bbox":"120.466315,23.481293,120.466315,23.481293",
     "geom:latitude":23.481293,
     "geom:longitude":120.466315,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.461315,23.476293,120.471315,23.486293",
     "lbl:latitude":23.481293,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924691,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422990,
+    "wof:lastmodified":1603256910,
     "wof:name":"Dongchuan",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

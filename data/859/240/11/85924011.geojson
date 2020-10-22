@@ -9,7 +9,6 @@
     "geom:bbox":"121.614163,24.994873,121.686331,25.060721",
     "geom:latitude":25.026443,
     "geom:longitude":121.64893,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.029845,
     "lbl:longitude":121.645911,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924011,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423013,
+    "wof:lastmodified":1603256914,
     "wof:name":"Jiuzhuang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

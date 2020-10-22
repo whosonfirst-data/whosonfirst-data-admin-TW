@@ -9,7 +9,6 @@
     "geom:bbox":"120.683871,24.173067,120.687173,24.175354",
     "geom:latitude":24.174031,
     "geom:longitude":120.685363,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.173693,
     "lbl:longitude":120.685501,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924813,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423040,
+    "wof:lastmodified":1603256909,
     "wof:name":"Pingde",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

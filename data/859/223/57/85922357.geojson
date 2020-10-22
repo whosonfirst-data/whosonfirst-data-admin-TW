@@ -9,7 +9,6 @@
     "geom:bbox":"120.209656,23.003564,120.226135,23.019076",
     "geom:latitude":23.01145,
     "geom:longitude":120.218798,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.010359,
     "lbl:longitude":120.21767,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922357,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423067,
+    "wof:lastmodified":1603256911,
     "wof:name":"Xingbei",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

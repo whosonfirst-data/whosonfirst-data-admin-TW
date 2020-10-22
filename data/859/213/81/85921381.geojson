@@ -9,7 +9,6 @@
     "geom:bbox":"120.285271,22.710323,120.299661,22.717924",
     "geom:latitude":22.714076,
     "geom:longitude":120.292894,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.715898,
     "lbl:longitude":120.295349,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921381,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423013,
+    "wof:lastmodified":1603256918,
     "wof:name":"Juguang",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

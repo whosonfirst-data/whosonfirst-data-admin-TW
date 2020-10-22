@@ -9,7 +9,6 @@
     "geom:bbox":"120.398982,23.46373,120.398982,23.46373",
     "geom:latitude":23.46373,
     "geom:longitude":120.398982,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.393982,23.45873,120.403982,23.46873",
     "lbl:latitude":23.46373,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85924673,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423059,
+    "wof:lastmodified":1603256910,
     "wof:name":"Tougang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

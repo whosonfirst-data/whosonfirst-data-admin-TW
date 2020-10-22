@@ -9,7 +9,6 @@
     "geom:bbox":"120.007656285,23.2251976588,120.962157017,23.6400560572",
     "geom:latitude":23.453702,
     "geom:longitude":120.518534,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "Chiayi County"
@@ -250,7 +249,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588755,
+    "wof:lastmodified":1603256924,
     "wof:name":"Chiayi",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

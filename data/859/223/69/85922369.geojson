@@ -9,7 +9,6 @@
     "geom:bbox":"120.10177,23.041308,120.131062,23.070658",
     "geom:latitude":23.053908,
     "geom:longitude":120.117126,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.059511,
     "lbl:longitude":120.121941,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922369,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422983,
+    "wof:lastmodified":1603256912,
     "wof:name":"Chengnan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

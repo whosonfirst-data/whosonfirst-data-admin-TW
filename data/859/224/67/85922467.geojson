@@ -9,7 +9,6 @@
     "geom:bbox":"121.72136,25.107078,121.72136,25.107078",
     "geom:latitude":25.107078,
     "geom:longitude":121.72136,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.71636,25.102078,121.72636,25.112078",
     "lbl:latitude":25.107078,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85922467,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422978,
+    "wof:lastmodified":1603256912,
     "wof:name":"Bade",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

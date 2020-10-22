@@ -9,7 +9,6 @@
     "geom:bbox":"120.266698,22.606404,120.272827,22.611475",
     "geom:latitude":22.608826,
     "geom:longitude":120.270128,
-    "gn:id":"",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:latitude":22.608488,
@@ -70,8 +69,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -98,10 +97,7 @@
         }
     ],
     "wof:id":85921957,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422985,
+    "wof:lastmodified":1603256901,
     "wof:name":"Ci'ai",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

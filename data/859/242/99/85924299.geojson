@@ -9,7 +9,6 @@
     "geom:bbox":"121.446604,25.136582,121.49231,25.177659",
     "geom:latitude":25.16019,
     "geom:longitude":121.470524,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.148151,
     "lbl:longitude":121.482214,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924299,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422987,
+    "wof:lastmodified":1603256899,
     "wof:name":"Daoxiang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

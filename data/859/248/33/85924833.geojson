@@ -9,7 +9,6 @@
     "geom:bbox":"120.602417,24.185854,120.613403,24.197214",
     "geom:latitude":24.191416,
     "geom:longitude":120.608342,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.190731,
     "lbl:longitude":120.611664,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026719,
         1108808551,
+        102026719,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924833,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423074,
+    "wof:lastmodified":1603256908,
     "wof:name":"Yong'an",
     "wof:parent_id":102026719,
     "wof:placetype":"neighbourhood",

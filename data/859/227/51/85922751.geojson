@@ -9,7 +9,6 @@
     "geom:bbox":"121.510911,25.070155,121.514282,25.073161",
     "geom:latitude":25.071608,
     "geom:longitude":121.512528,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.071474,
     "lbl:longitude":121.51326,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922751,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423000,
+    "wof:lastmodified":1603256895,
     "wof:name":"Guoqing",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

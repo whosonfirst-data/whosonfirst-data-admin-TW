@@ -9,7 +9,6 @@
     "geom:bbox":"121.505574,25.025194,121.512005,25.030861",
     "geom:latitude":25.028163,
     "geom:longitude":121.509143,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.028416,
     "lbl:longitude":121.508969,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923339,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423024,
+    "wof:lastmodified":1603256907,
     "wof:name":"Longxing",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.573191,24.156778,120.61615,24.188176",
     "geom:latitude":24.170803,
     "geom:longitude":120.597318,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.180477,
     "lbl:longitude":120.604426,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026719,
         1108808551,
+        102026719,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925099,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422994,
+    "wof:lastmodified":1603256904,
     "wof:name":"Fuen",
     "wof:parent_id":102026719,
     "wof:placetype":"neighbourhood",

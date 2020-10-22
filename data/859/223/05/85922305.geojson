@@ -9,7 +9,6 @@
     "geom:bbox":"120.205536,22.972189,120.212402,22.978624",
     "geom:latitude":22.975066,
     "geom:longitude":120.20895,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.975044,
     "lbl:longitude":120.208704,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922305,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423069,
+    "wof:lastmodified":1603256912,
     "wof:name":"Xinsheng",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

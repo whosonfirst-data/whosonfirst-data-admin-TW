@@ -9,7 +9,6 @@
     "geom:bbox":"120.316772,22.634293,120.322266,22.639363",
     "geom:latitude":22.636828,
     "geom:longitude":120.319519,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.63714,
     "lbl:longitude":120.319859,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921181,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422981,
+    "wof:lastmodified":1603256895,
     "wof:name":"Bohui",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

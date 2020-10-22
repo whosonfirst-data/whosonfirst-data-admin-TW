@@ -9,7 +9,6 @@
     "geom:bbox":"120.688248,24.110251,120.725027,24.137073",
     "geom:latitude":24.124965,
     "geom:longitude":120.707545,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.13058,
     "lbl:longitude":120.703021,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85924993,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422991,
+    "wof:lastmodified":1603256914,
     "wof:name":"Dongxin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.66208,24.204522,120.685806,24.230667",
     "geom:latitude":24.218619,
     "geom:longitude":120.672981,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.218062,
     "lbl:longitude":120.677675,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924789,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423059,
+    "wof:lastmodified":1603256913,
     "wof:name":"Tongrong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

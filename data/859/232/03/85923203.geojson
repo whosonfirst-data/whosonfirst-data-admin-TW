@@ -9,7 +9,6 @@
     "geom:bbox":"121.511536,25.02464,121.515656,25.028373",
     "geom:latitude":25.026714,
     "geom:longitude":121.513596,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.026888,
     "lbl:longitude":121.513285,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923203,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423074,
+    "wof:lastmodified":1603256905,
     "wof:name":"Yonggong",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

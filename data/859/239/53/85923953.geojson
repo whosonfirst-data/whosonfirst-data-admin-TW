@@ -9,7 +9,6 @@
     "geom:bbox":"121.758358,25.122702,121.758358,25.122702",
     "geom:latitude":25.122702,
     "geom:longitude":121.758358,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.753358,25.117702,121.763358,25.127702",
     "lbl:latitude":25.122702,
@@ -68,8 +67,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026749,
         1108808557,
+        102026749,
         85679571
     ],
     "wof:breaches":[],
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85923953,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423023,
+    "wof:lastmodified":1603256921,
     "wof:name":"Liyi",
     "wof:parent_id":102026749,
     "wof:placetype":"neighbourhood",

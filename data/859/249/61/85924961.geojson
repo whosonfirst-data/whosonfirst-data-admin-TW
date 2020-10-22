@@ -9,7 +9,6 @@
     "geom:bbox":"120.663528,24.135475,120.668964,24.142258",
     "geom:latitude":24.138816,
     "geom:longitude":120.666381,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.138802,
     "lbl:longitude":120.665976,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924961,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422998,
+    "wof:lastmodified":1603256914,
     "wof:name":"Gongmin",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

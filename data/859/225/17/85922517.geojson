@@ -9,7 +9,6 @@
     "geom:bbox":"121.523895,25.088086,121.530762,25.093061",
     "geom:latitude":25.090218,
     "geom:longitude":121.527427,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.090363,
     "lbl:longitude":121.526314,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922517,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423043,
+    "wof:lastmodified":1603256915,
     "wof:name":"Renyong",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

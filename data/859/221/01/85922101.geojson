@@ -9,7 +9,6 @@
     "geom:bbox":"120.128525,23.051935,120.140149,23.059516",
     "geom:latitude":23.056448,
     "geom:longitude":120.133452,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.05699,
     "lbl:longitude":120.132751,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922101,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422983,
+    "wof:lastmodified":1603256899,
     "wof:name":"Chengzhong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

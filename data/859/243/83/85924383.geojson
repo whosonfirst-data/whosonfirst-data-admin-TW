@@ -9,7 +9,6 @@
     "geom:bbox":"120.934753,24.827871,120.948486,24.841714",
     "geom:latitude":24.8343,
     "geom:longitude":120.942524,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.83761,
     "lbl:longitude":120.939731,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924383,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423015,
+    "wof:lastmodified":1603256903,
     "wof:name":"Kangle",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

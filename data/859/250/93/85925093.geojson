@@ -9,7 +9,6 @@
     "geom:bbox":"120.562205,24.164319,120.603721,24.219395",
     "geom:latitude":24.190523,
     "geom:longitude":120.580452,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.185702,
     "lbl:longitude":120.592052,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026719,
         1108808551,
+        102026719,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925093,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422995,
+    "wof:lastmodified":1603256904,
     "wof:name":"Fulian",
     "wof:parent_id":102026719,
     "wof:placetype":"neighbourhood",

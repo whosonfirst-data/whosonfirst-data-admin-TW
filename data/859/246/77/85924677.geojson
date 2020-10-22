@@ -9,7 +9,6 @@
     "geom:bbox":"120.449254,23.481066,120.449254,23.481066",
     "geom:latitude":23.481066,
     "geom:longitude":120.449254,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.444254,23.476066,120.454254,23.486066",
     "lbl:latitude":23.481066,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924677,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423043,
+    "wof:lastmodified":1603256910,
     "wof:name":"Renhe",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

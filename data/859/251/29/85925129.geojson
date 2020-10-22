@@ -9,7 +9,6 @@
     "geom:bbox":"120.640555,24.16475,120.650252,24.172848",
     "geom:latitude":24.168859,
     "geom:longitude":120.644861,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.167437,
     "lbl:longitude":120.643043,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026719,
         1108808551,
+        102026719,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925129,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423048,
+    "wof:lastmodified":1603256906,
     "wof:name":"Shangde",
     "wof:parent_id":102026719,
     "wof:placetype":"neighbourhood",

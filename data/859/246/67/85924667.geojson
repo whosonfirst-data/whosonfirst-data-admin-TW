@@ -9,7 +9,6 @@
     "geom:bbox":"120.429933,23.480268,120.429933,23.480268",
     "geom:latitude":23.480268,
     "geom:longitude":120.429933,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.424933,23.475268,120.434933,23.485268",
     "lbl:latitude":23.480268,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924667,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422995,
+    "wof:lastmodified":1603256910,
     "wof:name":"Fuquan",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

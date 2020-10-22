@@ -9,7 +9,6 @@
     "geom:bbox":"121.566467,25.019527,121.57196,25.027092",
     "geom:latitude":25.022855,
     "geom:longitude":121.569416,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.023645,
     "lbl:longitude":121.569158,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923899,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423006,
+    "wof:lastmodified":1603256920,
     "wof:name":"Hui'an",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

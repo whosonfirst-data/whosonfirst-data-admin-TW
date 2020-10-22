@@ -9,7 +9,6 @@
     "geom:bbox":"121.568589,25.025884,121.575176,25.032106",
     "geom:latitude":25.029071,
     "geom:longitude":121.57184,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.028794,
     "lbl:longitude":121.570648,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923811,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423046,
+    "wof:lastmodified":1603256920,
     "wof:name":"Sanli",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

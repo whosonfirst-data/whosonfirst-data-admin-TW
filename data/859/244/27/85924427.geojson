@@ -9,7 +9,6 @@
     "geom:bbox":"120.992432,24.811668,121.049124,24.854073",
     "geom:latitude":24.832083,
     "geom:longitude":121.023016,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.826699,
     "lbl:longitude":121.014813,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026743,
         1108808557,
+        102026743,
         85679563
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924427,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423052,
+    "wof:lastmodified":1603256903,
     "wof:name":"Shuiyuan",
     "wof:parent_id":102026743,
     "wof:placetype":"neighbourhood",

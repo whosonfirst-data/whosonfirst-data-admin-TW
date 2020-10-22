@@ -9,7 +9,6 @@
     "geom:bbox":"120.449981,23.484767,120.449981,23.484767",
     "geom:latitude":23.484767,
     "geom:longitude":120.449981,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.444981,23.479767,120.454981,23.489767",
     "lbl:latitude":23.484767,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924707,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423054,
+    "wof:lastmodified":1603256913,
     "wof:name":"Tai'an",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

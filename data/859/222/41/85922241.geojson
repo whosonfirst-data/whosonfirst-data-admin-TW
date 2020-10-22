@@ -9,7 +9,6 @@
     "geom:bbox":"120.204849,22.977935,120.209656,22.983681",
     "geom:latitude":22.980795,
     "geom:longitude":120.207684,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.980467,
     "lbl:longitude":120.206563,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922241,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423082,
+    "wof:lastmodified":1603256916,
     "wof:name":"Zhuxi",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

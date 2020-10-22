@@ -9,7 +9,6 @@
     "geom:bbox":"121.512909,25.047036,121.519775,25.052013",
     "geom:latitude":25.049867,
     "geom:longitude":121.516549,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.049306,
     "lbl:longitude":121.517438,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922733,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423010,
+    "wof:lastmodified":1603256895,
     "wof:name":"Jianming",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

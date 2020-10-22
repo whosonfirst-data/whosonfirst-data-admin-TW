@@ -9,7 +9,6 @@
     "geom:bbox":"121.699745,25.14634,121.699745,25.14634",
     "geom:latitude":25.14634,
     "geom:longitude":121.699745,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.694745,25.14134,121.704745,25.15134",
     "lbl:latitude":25.14634,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85923703,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423069,
+    "wof:lastmodified":1603256921,
     "wof:name":"Xinlun",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

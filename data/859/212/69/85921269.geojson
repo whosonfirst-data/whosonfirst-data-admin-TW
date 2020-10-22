@@ -9,7 +9,6 @@
     "geom:bbox":"120.316772,22.653304,120.328712,22.663443",
     "geom:latitude":22.658337,
     "geom:longitude":120.322757,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.659851,
     "lbl:longitude":120.321474,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921269,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423061,
+    "wof:lastmodified":1603256910,
     "wof:name":"Wan'ai",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

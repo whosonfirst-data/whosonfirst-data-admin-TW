@@ -9,7 +9,6 @@
     "geom:bbox":"120.656797,24.084111,120.683,24.116675",
     "geom:latitude":24.098404,
     "geom:longitude":120.669913,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.104492,
     "lbl:longitude":120.674567,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925149,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423074,
+    "wof:lastmodified":1603256906,
     "wof:name":"Yonghe",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

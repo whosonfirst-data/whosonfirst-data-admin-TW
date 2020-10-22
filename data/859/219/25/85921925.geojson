@@ -9,7 +9,6 @@
     "geom:bbox":"120.280864,22.557175,120.311279,22.58496",
     "geom:latitude":22.57197,
     "geom:longitude":120.295728,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.573413,
     "lbl:longitude":120.296292,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921925,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423081,
+    "wof:lastmodified":1603256901,
     "wof:name":"Zhongzhou",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

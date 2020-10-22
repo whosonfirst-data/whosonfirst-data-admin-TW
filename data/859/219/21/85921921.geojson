@@ -9,7 +9,6 @@
     "geom:bbox":"120.292053,22.577477,120.2948,22.581047",
     "geom:latitude":22.579447,
     "geom:longitude":120.293418,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.579779,
     "lbl:longitude":120.293427,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921921,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423048,
+    "wof:lastmodified":1603256901,
     "wof:name":"Shangzhu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

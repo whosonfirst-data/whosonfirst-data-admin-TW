@@ -9,7 +9,6 @@
     "geom:bbox":"120.687561,24.151766,120.706787,24.165549",
     "geom:latitude":24.158489,
     "geom:longitude":120.698765,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.158247,
     "lbl:longitude":120.693328,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925219,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423012,
+    "wof:lastmodified":1603256923,
     "wof:name":"Jinzhou",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

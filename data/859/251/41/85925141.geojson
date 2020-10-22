@@ -9,7 +9,6 @@
     "geom:bbox":"120.679321,24.125449,120.688656,24.134222",
     "geom:latitude":24.129539,
     "geom:longitude":120.683301,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.132522,
     "lbl:longitude":120.680957,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925141,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422981,
+    "wof:lastmodified":1603256906,
     "wof:name":"Changchun",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

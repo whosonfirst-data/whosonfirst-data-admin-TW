@@ -9,7 +9,6 @@
     "geom:bbox":"121.599426,25.060721,121.616531,25.075648",
     "geom:latitude":25.067866,
     "geom:longitude":121.608015,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.069896,
     "lbl:longitude":121.610478,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923439,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423007,
+    "wof:lastmodified":1603256908,
     "wof:name":"Huzhou",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

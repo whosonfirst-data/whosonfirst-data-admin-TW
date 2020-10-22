@@ -9,7 +9,6 @@
     "geom:bbox":"120.996238,24.791722,121.003418,24.797332",
     "geom:latitude":24.794767,
     "geom:longitude":120.999524,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.795783,
     "lbl:longitude":120.997886,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026725,
         1108808557,
+        102026725,
         85679557
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924441,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423021,
+    "wof:lastmodified":1603256904,
     "wof:name":"Ligong",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"121.73625,25.121386,121.73625,25.121386",
     "geom:latitude":25.121386,
     "geom:longitude":121.73625,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.73125,25.116386,121.74125,25.126386",
     "lbl:latitude":25.121386,
@@ -68,8 +67,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026749,
         1108808557,
+        102026749,
         85679571
     ],
     "wof:breaches":[],
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85923359,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423051,
+    "wof:lastmodified":1603256907,
     "wof:name":"Shiqiu",
     "wof:parent_id":102026749,
     "wof:placetype":"neighbourhood",

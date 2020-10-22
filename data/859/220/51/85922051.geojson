@@ -9,7 +9,6 @@
     "geom:bbox":"120.223389,22.997818,120.258108,23.025484",
     "geom:latitude":23.011718,
     "geom:longitude":120.240152,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.009927,
     "lbl:longitude":120.232687,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922051,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423023,
+    "wof:lastmodified":1603256897,
     "wof:name":"Lixing",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

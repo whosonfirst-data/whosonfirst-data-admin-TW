@@ -9,7 +9,6 @@
     "geom:bbox":"120.933824,24.810499,120.953979,24.831399",
     "geom:latitude":24.820764,
     "geom:longitude":120.942994,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.822087,
     "lbl:longitude":120.946089,
@@ -88,10 +87,7 @@
         }
     ],
     "wof:id":85925285,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423052,
+    "wof:lastmodified":1603256923,
     "wof:name":"Shuiyu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

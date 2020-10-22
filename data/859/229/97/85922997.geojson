@@ -9,7 +9,6 @@
     "geom:bbox":"121.536255,25.068185,121.54512,25.076892",
     "geom:latitude":25.072409,
     "geom:longitude":121.540661,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.074319,
     "lbl:longitude":121.539675,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922997,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422986,
+    "wof:lastmodified":1603256894,
     "wof:name":"Dajia",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

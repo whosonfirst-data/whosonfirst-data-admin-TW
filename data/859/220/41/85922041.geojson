@@ -9,7 +9,6 @@
     "geom:bbox":"120.254587,22.676767,120.283813,22.69512",
     "geom:latitude":22.685633,
     "geom:longitude":120.268191,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.683643,
     "lbl:longitude":120.277984,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922041,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423082,
+    "wof:lastmodified":1603256897,
     "wof:name":"Zimian",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.902781,24.832189,120.944366,24.865197",
     "geom:latitude":24.850873,
     "geom:longitude":120.922071,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.84778,
     "lbl:longitude":120.92803,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925271,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423034,
+    "wof:lastmodified":1603256923,
     "wof:name":"Nanliao",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

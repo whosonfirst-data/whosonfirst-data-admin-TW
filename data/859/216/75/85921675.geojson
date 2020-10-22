@@ -9,7 +9,6 @@
     "geom:bbox":"120.300293,22.613205,120.308533,22.619082",
     "geom:latitude":22.617175,
     "geom:longitude":120.304453,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.615951,
     "lbl:longitude":120.304625,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921675,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422999,
+    "wof:lastmodified":1603256893,
     "wof:name":"Guangze",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

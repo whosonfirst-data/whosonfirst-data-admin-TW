@@ -9,7 +9,6 @@
     "geom:bbox":"120.65609,24.120435,120.662842,24.128081",
     "geom:latitude":24.124234,
     "geom:longitude":120.659751,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.123895,
     "lbl:longitude":120.66085,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925145,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422995,
+    "wof:lastmodified":1603256906,
     "wof:name":"Fushun",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

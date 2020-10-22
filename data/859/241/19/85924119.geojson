@@ -9,7 +9,6 @@
     "geom:bbox":"121.501623,25.037982,121.509476,25.042405",
     "geom:latitude":25.040321,
     "geom:longitude":121.505523,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.040272,
     "lbl:longitude":121.506298,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924119,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423069,
+    "wof:lastmodified":1603256909,
     "wof:name":"Xinqi",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

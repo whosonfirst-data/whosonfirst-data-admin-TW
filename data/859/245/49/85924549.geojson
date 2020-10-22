@@ -9,7 +9,6 @@
     "geom:bbox":"120.997925,24.781747,121.017568,24.799202",
     "geom:latitude":24.790701,
     "geom:longitude":121.008669,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.790186,
     "lbl:longitude":121.00532,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026725,
         1108808557,
+        102026725,
         85679557
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924549,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423024,
+    "wof:lastmodified":1603256898,
     "wof:name":"Longshan",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",

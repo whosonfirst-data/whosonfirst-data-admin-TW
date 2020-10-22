@@ -9,7 +9,6 @@
     "geom:bbox":"120.202789,22.990002,120.204163,22.991267",
     "geom:latitude":22.990634,
     "geom:longitude":120.203476,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.990635,
     "lbl:longitude":120.203476,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922435,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423074,
+    "wof:lastmodified":1603256912,
     "wof:name":"Yonghua",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.181555,23.031715,120.215149,23.05688",
     "geom:latitude":23.042915,
     "geom:longitude":120.199413,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.041291,
     "lbl:longitude":120.195723,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922185,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423026,
+    "wof:lastmodified":1603256900,
     "wof:name":"Meihua",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

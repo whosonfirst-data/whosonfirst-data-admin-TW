@@ -9,7 +9,6 @@
     "geom:bbox":"118.208994988,24.3905443498,119.476898634,24.9957542993",
     "geom:latitude":24.464202,
     "geom:longitude":118.380608,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "Kinmen County"
@@ -329,7 +328,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588751,
+    "wof:lastmodified":1603256923,
     "wof:name":"Kinmen",
     "wof:parent_id":1108808555,
     "wof:placetype":"region",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.456006,23.485705,120.456006,23.485705",
     "geom:latitude":23.485705,
     "geom:longitude":120.456006,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.451006,23.480705,120.461006,23.490705",
     "lbl:latitude":23.485705,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924747,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423000,
+    "wof:lastmodified":1603256914,
     "wof:name":"Guili",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

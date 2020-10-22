@@ -9,7 +9,6 @@
     "geom:bbox":"120.179443,22.95159,120.196496,22.973567",
     "geom:latitude":22.962833,
     "geom:longitude":120.188392,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.964016,
     "lbl:longitude":120.185768,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922171,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423033,
+    "wof:lastmodified":1603256900,
     "wof:name":"Nandou",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

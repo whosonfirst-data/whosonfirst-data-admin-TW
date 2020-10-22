@@ -9,7 +9,6 @@
     "geom:bbox":"121.287414382,24.6810777859,122.079844597,25.6354841176",
     "geom:latitude":24.986258,
     "geom:longitude":121.59013,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "New Taipei City Special Municipality"
@@ -392,7 +391,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588755,
+    "wof:lastmodified":1603256924,
     "wof:name":"New Taipei City",
     "wof:parent_id":1108808549,
     "wof:placetype":"region",

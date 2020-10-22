@@ -9,7 +9,6 @@
     "geom:bbox":"121.59668,25.060721,121.603423,25.065697",
     "geom:latitude":25.063209,
     "geom:longitude":121.599867,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.063666,
     "lbl:longitude":121.598969,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924213,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423025,
+    "wof:lastmodified":1603256899,
     "wof:name":"Luzhou",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.693054,24.134222,120.706013,24.146754",
     "geom:latitude":24.140209,
     "geom:longitude":120.698347,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.140329,
     "lbl:longitude":120.697201,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924997,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423001,
+    "wof:lastmodified":1603256915,
     "wof:name":"Hanxi",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

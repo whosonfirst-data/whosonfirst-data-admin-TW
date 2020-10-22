@@ -9,7 +9,6 @@
     "geom:bbox":"121.495056,25.030861,121.503296,25.04116",
     "geom:latitude":25.036768,
     "geom:longitude":121.499424,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.036804,
     "lbl:longitude":121.500514,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924097,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422995,
+    "wof:lastmodified":1603256914,
     "wof:name":"Fumin",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

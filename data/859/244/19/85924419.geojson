@@ -9,7 +9,6 @@
     "geom:bbox":"120.975326,24.796708,120.984192,24.804188",
     "geom:latitude":24.800654,
     "geom:longitude":120.980009,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.800932,
     "lbl:longitude":120.979332,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026725,
         1108808557,
+        102026725,
         85679557
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924419,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422998,
+    "wof:lastmodified":1603256904,
     "wof:name":"Gongyuan",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",

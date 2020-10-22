@@ -9,7 +9,6 @@
     "geom:bbox":"121.57608,25.040125,121.586318,25.046482",
     "geom:latitude":25.04347,
     "geom:longitude":121.581337,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.044153,
     "lbl:longitude":121.580906,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923857,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423074,
+    "wof:lastmodified":1603256920,
     "wof:name":"Yongchun",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

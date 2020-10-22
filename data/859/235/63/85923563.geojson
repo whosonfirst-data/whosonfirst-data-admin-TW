@@ -9,7 +9,6 @@
     "geom:bbox":"121.538376,24.991037,121.552734,25.003483",
     "geom:latitude":24.997244,
     "geom:longitude":121.545872,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.996488,
     "lbl:longitude":121.545465,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923563,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423068,
+    "wof:lastmodified":1603256905,
     "wof:name":"Xingfu",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

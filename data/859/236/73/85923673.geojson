@@ -9,7 +9,6 @@
     "geom:bbox":"121.510162,25.107984,121.5204,25.117932",
     "geom:latitude":25.112369,
     "geom:longitude":121.515629,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.113564,
     "lbl:longitude":121.515236,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923673,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423044,
+    "wof:lastmodified":1603256919,
     "wof:name":"Rongguang",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

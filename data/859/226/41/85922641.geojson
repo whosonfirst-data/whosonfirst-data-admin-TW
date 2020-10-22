@@ -9,7 +9,6 @@
     "geom:bbox":"121.52739,25.106741,121.532135,25.110471",
     "geom:latitude":25.108491,
     "geom:longitude":121.52967,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.108445,
     "lbl:longitude":121.529562,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922641,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423049,
+    "wof:lastmodified":1603256900,
     "wof:name":"Shengshan",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

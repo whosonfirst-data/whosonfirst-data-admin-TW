@@ -9,7 +9,6 @@
     "geom:bbox":"121.525269,24.998505,121.530762,25.003483",
     "geom:latitude":25.001329,
     "geom:longitude":121.528385,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.001792,
     "lbl:longitude":121.52769,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923515,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423062,
+    "wof:lastmodified":1603256905,
     "wof:name":"Wanhe",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

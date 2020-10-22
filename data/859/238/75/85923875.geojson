@@ -9,7 +9,6 @@
     "geom:bbox":"121.775208,25.115445,121.775208,25.115445",
     "geom:latitude":25.115445,
     "geom:longitude":121.775208,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.770208,25.110445,121.780208,25.120445",
     "lbl:latitude":25.115445,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85923875,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422990,
+    "wof:lastmodified":1603256920,
     "wof:name":"Dong'an",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

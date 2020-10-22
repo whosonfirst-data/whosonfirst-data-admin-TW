@@ -9,7 +9,6 @@
     "geom:bbox":"120.967712,24.795674,120.973832,24.801072",
     "geom:latitude":24.798446,
     "geom:longitude":120.97064,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.798596,
     "lbl:longitude":120.970439,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026725,
         1108808557,
+        102026725,
         85679557
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924451,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423053,
+    "wof:lastmodified":1603256903,
     "wof:name":"Siqian",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",

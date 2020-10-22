@@ -9,7 +9,6 @@
     "geom:bbox":"120.621330956,24.2920059273,121.262552118,24.7477572258",
     "geom:latitude":24.488708,
     "geom:longitude":120.916765,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "Miaoli County"
@@ -226,7 +225,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588754,
+    "wof:lastmodified":1603256924,
     "wof:name":"Miaoli",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

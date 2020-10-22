@@ -9,7 +9,6 @@
     "geom:bbox":"121.518015,24.938709,121.564659,24.986058",
     "geom:latitude":24.961421,
     "geom:longitude":121.540991,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.965952,
     "lbl:longitude":121.542139,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026783,
         1108808549,
+        102026783,
         85679585
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923541,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423077,
+    "wof:lastmodified":1603256905,
     "wof:name":"Zhangxin",
     "wof:parent_id":102026783,
     "wof:placetype":"neighbourhood",

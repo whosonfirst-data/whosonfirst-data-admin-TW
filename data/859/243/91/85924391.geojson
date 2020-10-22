@@ -9,7 +9,6 @@
     "geom:bbox":"120.958846,24.799202,120.966339,24.807199",
     "geom:latitude":24.803189,
     "geom:longitude":120.962688,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.804182,
     "lbl:longitude":120.964136,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026725,
         1108808557,
+        102026725,
         85679557
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924391,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423041,
+    "wof:lastmodified":1603256903,
     "wof:name":"Qianyuan",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",

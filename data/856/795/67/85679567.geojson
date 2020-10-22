@@ -9,7 +9,6 @@
     "geom:bbox":"121.316450637,24.3258036738,121.97233613,24.9974409041",
     "geom:latitude":24.57755,
     "geom:longitude":121.635748,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "Yilan County"
@@ -241,7 +240,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588754,
+    "wof:lastmodified":1603256924,
     "wof:name":"Yilan",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

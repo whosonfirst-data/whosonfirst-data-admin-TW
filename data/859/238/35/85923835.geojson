@@ -9,7 +9,6 @@
     "geom:bbox":"121.572919,25.046691,121.575176,25.049316",
     "geom:latitude":25.047948,
     "geom:longitude":121.574059,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.04787,
     "lbl:longitude":121.574256,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923835,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423064,
+    "wof:lastmodified":1603256920,
     "wof:name":"Wuchang",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"119.913747592,25.9474144549,120.507660352,26.3887393256",
     "geom:latitude":26.177036,
     "geom:longitude":120.04161,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "Lienchiang County"
@@ -156,7 +155,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588752,
+    "wof:lastmodified":1603256924,
     "wof:name":"Lienchiang",
     "wof:parent_id":1108808555,
     "wof:placetype":"region",

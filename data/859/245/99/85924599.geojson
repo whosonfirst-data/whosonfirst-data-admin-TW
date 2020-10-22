@@ -9,7 +9,6 @@
     "geom:bbox":"120.903417,24.790342,120.936714,24.81416",
     "geom:latitude":24.802237,
     "geom:longitude":120.920217,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.800617,
     "lbl:longitude":120.91877,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924599,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423012,
+    "wof:lastmodified":1603256898,
     "wof:name":"Jinshui",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

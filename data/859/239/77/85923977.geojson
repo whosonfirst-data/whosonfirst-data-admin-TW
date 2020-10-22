@@ -9,7 +9,6 @@
     "geom:bbox":"121.585693,25.034459,121.59793,25.045792",
     "geom:latitude":25.039957,
     "geom:longitude":121.591841,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.040401,
     "lbl:longitude":121.591226,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923977,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422982,
+    "wof:lastmodified":1603256921,
     "wof:name":"Chengfu",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

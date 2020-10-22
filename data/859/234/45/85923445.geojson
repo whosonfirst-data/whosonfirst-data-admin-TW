@@ -9,7 +9,6 @@
     "geom:bbox":"121.574707,25.091817,121.617155,25.122906",
     "geom:latitude":25.108972,
     "geom:longitude":121.594477,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.103718,
     "lbl:longitude":121.591086,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923445,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422980,
+    "wof:lastmodified":1603256907,
     "wof:name":"Bishan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.198035,23.006436,120.206909,23.019076",
     "geom:latitude":23.012582,
     "geom:longitude":120.202823,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.011314,
     "lbl:longitude":120.201034,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922439,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422982,
+    "wof:lastmodified":1603256913,
     "wof:name":"Chengde",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

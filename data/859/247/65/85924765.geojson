@@ -9,7 +9,6 @@
     "geom:bbox":"120.744753,24.144272,120.823904,24.186847",
     "geom:latitude":24.166579,
     "geom:longitude":120.780876,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.164317,
     "lbl:longitude":120.762742,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924765,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423029,
+    "wof:lastmodified":1603256913,
     "wof:name":"Minzheng",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

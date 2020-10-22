@@ -9,7 +9,6 @@
     "geom:bbox":"121.530293,25.021806,121.536255,25.027128",
     "geom:latitude":25.024241,
     "geom:longitude":121.533376,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.024491,
     "lbl:longitude":121.53417,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922953,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423024,
+    "wof:lastmodified":1603256894,
     "wof:name":"Longpo",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

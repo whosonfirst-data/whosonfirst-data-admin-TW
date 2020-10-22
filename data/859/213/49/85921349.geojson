@@ -9,7 +9,6 @@
     "geom:bbox":"120.290884,22.688785,120.305786,22.702722",
     "geom:latitude":22.695846,
     "geom:longitude":120.298042,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.697966,
     "lbl:longitude":120.298479,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921349,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423075,
+    "wof:lastmodified":1603256918,
     "wof:name":"Yongqing",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

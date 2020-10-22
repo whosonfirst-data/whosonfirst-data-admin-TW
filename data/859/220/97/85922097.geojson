@@ -9,7 +9,6 @@
     "geom:bbox":"120.095286,23.05271,120.120779,23.102365",
     "geom:latitude":23.078233,
     "geom:longitude":120.108462,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.070888,
     "lbl:longitude":120.111465,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922097,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423041,
+    "wof:lastmodified":1603256897,
     "wof:name":"Qingcao",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"121.435618,24.978589,121.506042,25.018418",
     "geom:latitude":24.998838,
     "geom:longitude":121.474332,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.003196,
     "lbl:longitude":121.482799,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026737,
         1108808549,
+        102026737,
         85679585
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924101,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423006,
+    "wof:lastmodified":1603256909,
     "wof:name":"Huazhong",
     "wof:parent_id":102026737,
     "wof:placetype":"neighbourhood",

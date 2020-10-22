@@ -9,7 +9,6 @@
     "geom:bbox":"120.272827,22.59742,120.285187,22.611475",
     "geom:latitude":22.605596,
     "geom:longitude":120.279869,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.606874,
     "lbl:longitude":120.278752,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921961,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423050,
+    "wof:lastmodified":1603256901,
     "wof:name":"Shijian",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

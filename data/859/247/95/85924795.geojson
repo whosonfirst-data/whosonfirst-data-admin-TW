@@ -9,7 +9,6 @@
     "geom:bbox":"120.668335,24.189353,120.695801,24.229414",
     "geom:latitude":24.207339,
     "geom:longitude":120.683074,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.1988,
     "lbl:longitude":120.685535,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924795,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423053,
+    "wof:lastmodified":1603256913,
     "wof:name":"Simin",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

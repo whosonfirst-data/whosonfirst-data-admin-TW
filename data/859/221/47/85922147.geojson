@@ -9,7 +9,6 @@
     "geom:bbox":"120.108252,23.021778,120.148597,23.051935",
     "geom:latitude":23.035081,
     "geom:longitude":120.129474,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.032189,
     "lbl:longitude":120.129894,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922147,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423024,
+    "wof:lastmodified":1603256900,
     "wof:name":"Luer",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

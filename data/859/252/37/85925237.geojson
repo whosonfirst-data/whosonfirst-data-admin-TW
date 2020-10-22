@@ -9,7 +9,6 @@
     "geom:bbox":"120.675201,24.144247,120.680695,24.14926",
     "geom:latitude":24.146575,
     "geom:longitude":120.678245,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.146742,
     "lbl:longitude":120.677417,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925237,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423022,
+    "wof:lastmodified":1603256923,
     "wof:name":"Liuhe",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

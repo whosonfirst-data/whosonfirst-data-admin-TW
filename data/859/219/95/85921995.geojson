@@ -9,7 +9,6 @@
     "geom:bbox":"120.27832,22.624152,120.283813,22.629223",
     "geom:latitude":22.627038,
     "geom:longitude":120.280686,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.626548,
     "lbl:longitude":120.280887,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921995,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423010,
+    "wof:lastmodified":1603256901,
     "wof:name":"Jiaoren",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

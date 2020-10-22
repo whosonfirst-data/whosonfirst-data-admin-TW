@@ -9,7 +9,6 @@
     "geom:bbox":"120.664215,24.140488,120.669708,24.1455",
     "geom:latitude":24.143018,
     "geom:longitude":120.667546,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.14302,
     "lbl:longitude":120.667803,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924957,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422976,
+    "wof:lastmodified":1603256914,
     "wof:name":"Anlong",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

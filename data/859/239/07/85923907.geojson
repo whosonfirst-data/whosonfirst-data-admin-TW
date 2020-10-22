@@ -9,7 +9,6 @@
     "geom:bbox":"121.560349,25.027042,121.56419,25.029617",
     "geom:latitude":25.0284,
     "geom:longitude":121.562205,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.02787,
     "lbl:longitude":121.562805,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923907,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423011,
+    "wof:lastmodified":1603256921,
     "wof:name":"Jingqin",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

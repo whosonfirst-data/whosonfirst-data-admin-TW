@@ -9,7 +9,6 @@
     "geom:bbox":"120.48286,23.464836,120.48286,23.464836",
     "geom:latitude":23.464836,
     "geom:longitude":120.48286,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.47786,23.459836,120.48786,23.469836",
     "lbl:latitude":23.464836,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85924715,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423025,
+    "wof:lastmodified":1603256913,
     "wof:name":"Luliao",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

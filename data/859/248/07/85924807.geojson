@@ -9,7 +9,6 @@
     "geom:bbox":"120.678063,24.174147,120.693706,24.187537",
     "geom:latitude":24.180747,
     "geom:longitude":120.685721,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.178442,
     "lbl:longitude":120.686104,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924807,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423053,
+    "wof:lastmodified":1603256908,
     "wof:name":"Songzhu",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

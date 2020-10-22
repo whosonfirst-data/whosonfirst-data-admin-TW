@@ -9,7 +9,6 @@
     "geom:bbox":"120.994552,24.796708,121.006165,24.80647",
     "geom:latitude":24.800753,
     "geom:longitude":121.00099,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.799075,
     "lbl:longitude":121.001896,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026725,
         1108808557,
+        102026725,
         85679557
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924497,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423013,
+    "wof:lastmodified":1603256904,
     "wof:name":"Jungong",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",

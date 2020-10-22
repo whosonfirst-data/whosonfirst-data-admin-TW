@@ -9,7 +9,6 @@
     "geom:bbox":"121.766926,25.162772,121.766926,25.162772",
     "geom:latitude":25.162772,
     "geom:longitude":121.766926,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.761926,25.157772,121.771926,25.167772",
     "lbl:latitude":25.162772,
@@ -89,10 +88,7 @@
         }
     ],
     "wof:id":85923247,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423048,
+    "wof:lastmodified":1603256906,
     "wof:name":"Sheliao",
     "wof:parent_id":102026771,
     "wof:placetype":"neighbourhood",

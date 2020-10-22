@@ -9,7 +9,6 @@
     "geom:bbox":"121.500549,25.027855,121.506355,25.03404",
     "geom:latitude":25.030877,
     "geom:longitude":121.503112,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.03115,
     "lbl:longitude":121.504601,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924093,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422989,
+    "wof:lastmodified":1603256914,
     "wof:name":"Dingshuo",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

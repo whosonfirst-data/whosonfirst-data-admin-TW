@@ -9,7 +9,6 @@
     "geom:bbox":"120.67214,24.141741,120.677948,24.1455",
     "geom:latitude":24.143611,
     "geom:longitude":120.675374,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.143251,
     "lbl:longitude":120.674414,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925165,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423079,
+    "wof:lastmodified":1603256906,
     "wof:name":"Zhonghua",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

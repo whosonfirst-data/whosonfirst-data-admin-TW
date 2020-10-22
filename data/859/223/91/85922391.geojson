@@ -9,7 +9,6 @@
     "geom:bbox":"120.208942,22.988049,120.215149,22.994312",
     "geom:latitude":22.990966,
     "geom:longitude":120.211796,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.991192,
     "lbl:longitude":120.211198,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922391,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423061,
+    "wof:lastmodified":1603256912,
     "wof:name":"Wanchang",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

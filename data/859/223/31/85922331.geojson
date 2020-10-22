@@ -9,7 +9,6 @@
     "geom:bbox":"120.176697,22.979661,120.184937,22.991267",
     "geom:latitude":22.985723,
     "geom:longitude":120.181159,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.987319,
     "lbl:longitude":120.180889,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922331,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423063,
+    "wof:lastmodified":1603256912,
     "wof:name":"Wenping",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

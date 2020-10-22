@@ -9,7 +9,6 @@
     "geom:bbox":"120.323843,22.641897,120.339549,22.655905",
     "geom:latitude":22.648057,
     "geom:longitude":120.331316,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.649643,
     "lbl:longitude":120.329814,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921253,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422979,
+    "wof:lastmodified":1603256911,
     "wof:name":"Baozhu",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

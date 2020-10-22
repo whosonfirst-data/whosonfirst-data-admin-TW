@@ -9,7 +9,6 @@
     "geom:bbox":"120.220642,22.981153,120.231419,22.986899",
     "geom:latitude":22.98346,
     "geom:longitude":120.225971,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.983422,
     "lbl:longitude":120.224588,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922085,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422996,
+    "wof:lastmodified":1603256897,
     "wof:name":"Fuyu",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

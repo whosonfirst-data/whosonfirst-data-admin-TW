@@ -9,7 +9,6 @@
     "geom:bbox":"121.503296,25.105497,121.511536,25.115963",
     "geom:latitude":25.109832,
     "geom:longitude":121.507518,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.113147,
     "lbl:longitude":121.508709,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923681,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422996,
+    "wof:lastmodified":1603256919,
     "wof:name":"Fuxing",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

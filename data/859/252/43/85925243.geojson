@@ -9,7 +9,6 @@
     "geom:bbox":"120.645733,24.146754,120.654602,24.154272",
     "geom:latitude":24.150447,
     "geom:longitude":120.649927,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.150143,
     "lbl:longitude":120.649888,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925243,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422988,
+    "wof:lastmodified":1603256923,
     "wof:name":"Daye",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

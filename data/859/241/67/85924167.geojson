@@ -9,7 +9,6 @@
     "geom:bbox":"121.569214,24.99747,121.59831,25.020907",
     "geom:latitude":25.008954,
     "geom:longitude":121.583787,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.999816,
     "lbl:longitude":121.582003,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924167,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422981,
+    "wof:lastmodified":1603256909,
     "wof:name":"Bojia",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

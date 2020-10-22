@@ -9,7 +9,6 @@
     "geom:bbox":"121.508555,25.041438,121.514985,25.04987",
     "geom:latitude":25.045734,
     "geom:longitude":121.511644,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.045247,
     "lbl:longitude":121.511379,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923209,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422998,
+    "wof:lastmodified":1603256906,
     "wof:name":"Guangfu",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

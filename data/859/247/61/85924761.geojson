@@ -9,7 +9,6 @@
     "geom:bbox":"120.737986,24.18877,120.780945,24.259469",
     "geom:latitude":24.223827,
     "geom:longitude":120.757278,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.219737,
     "lbl:longitude":120.757766,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924761,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422986,
+    "wof:lastmodified":1603256913,
     "wof:name":"Dakeng",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

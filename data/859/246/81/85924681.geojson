@@ -9,7 +9,6 @@
     "geom:bbox":"120.462093,23.491314,120.462093,23.491314",
     "geom:latitude":23.491314,
     "geom:longitude":120.462093,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.457093,23.486314,120.467093,23.496314",
     "lbl:latitude":23.491314,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924681,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423055,
+    "wof:lastmodified":1603256910,
     "wof:name":"Taiping",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

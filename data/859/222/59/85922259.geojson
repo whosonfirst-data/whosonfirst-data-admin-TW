@@ -9,7 +9,6 @@
     "geom:bbox":"120.212402,22.985521,120.21853,22.98937",
     "geom:latitude":22.987459,
     "geom:longitude":120.215381,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.987903,
     "lbl:longitude":120.215006,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922259,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422990,
+    "wof:lastmodified":1603256916,
     "wof:name":"Dongmen",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

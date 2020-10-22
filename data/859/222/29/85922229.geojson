@@ -9,7 +9,6 @@
     "geom:bbox":"120.239868,22.983681,120.274587,23.016436",
     "geom:latitude":23.000412,
     "geom:longitude":120.258997,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.998488,
     "lbl:longitude":120.25337,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922229,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423005,
+    "wof:lastmodified":1603256916,
     "wof:name":"Houjia",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

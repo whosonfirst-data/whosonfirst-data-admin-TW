@@ -9,7 +9,6 @@
     "geom:bbox":"121.75844,25.077613,121.75844,25.077613",
     "geom:latitude":25.077613,
     "geom:longitude":121.75844,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.75344,25.072613,121.76344,25.082613",
     "lbl:latitude":25.077613,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85924043,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422989,
+    "wof:lastmodified":1603256914,
     "wof:name":"Ding'an",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

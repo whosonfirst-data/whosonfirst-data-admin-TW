@@ -9,7 +9,6 @@
     "geom:bbox":"121.49231,25.050769,121.512473,25.060721",
     "geom:latitude":25.055071,
     "geom:longitude":121.502133,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.055615,
     "lbl:longitude":121.506869,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922705,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423074,
+    "wof:lastmodified":1603256895,
     "wof:name":"Yongle",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

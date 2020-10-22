@@ -9,7 +9,6 @@
     "geom:bbox":"121.511067,25.027855,121.514282,25.032451",
     "geom:latitude":25.029932,
     "geom:longitude":121.512774,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.029896,
     "lbl:longitude":121.513012,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923329,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423023,
+    "wof:lastmodified":1603256907,
     "wof:name":"Longguang",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

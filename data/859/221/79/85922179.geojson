@@ -9,7 +9,6 @@
     "geom:bbox":"120.220255,23.030912,120.285574,23.092258",
     "geom:latitude":23.058922,
     "geom:longitude":120.251484,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.054632,
     "lbl:longitude":120.237917,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922179,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422990,
+    "wof:lastmodified":1603256900,
     "wof:name":"Donghe",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

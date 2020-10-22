@@ -9,7 +9,6 @@
     "geom:bbox":"121.506042,25.030085,121.514751,25.036356",
     "geom:latitude":25.033181,
     "geom:longitude":121.510027,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.032599,
     "lbl:longitude":121.510163,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923251,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423034,
+    "wof:lastmodified":1603256906,
     "wof:name":"Nanmen",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

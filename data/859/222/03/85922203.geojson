@@ -9,7 +9,6 @@
     "geom:bbox":"120.16571,22.982648,120.171204,22.993795",
     "geom:latitude":22.988739,
     "geom:longitude":120.168025,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.991156,
     "lbl:longitude":120.168723,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922203,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423076,
+    "wof:lastmodified":1603256916,
     "wof:name":"Yuping",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.686188,24.144247,120.701294,24.156778",
     "geom:latitude":24.149941,
     "geom:longitude":120.693206,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.151822,
     "lbl:longitude":120.689778,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925011,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423021,
+    "wof:lastmodified":1603256904,
     "wof:name":"Leying",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

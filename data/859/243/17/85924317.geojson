@@ -9,7 +9,6 @@
     "geom:bbox":"121.783985,25.191399,121.783985,25.191399",
     "geom:latitude":25.191399,
     "geom:longitude":121.783985,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.778985,25.186399,121.788985,25.196399",
     "lbl:latitude":25.191399,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85924317,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423081,
+    "wof:lastmodified":1603256903,
     "wof:name":"Zhongzheng",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

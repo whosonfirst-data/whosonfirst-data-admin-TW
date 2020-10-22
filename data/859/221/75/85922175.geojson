@@ -9,7 +9,6 @@
     "geom:bbox":"120.161204,22.932594,120.19219,22.951495",
     "geom:latitude":22.943115,
     "geom:longitude":120.175943,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.942081,
     "lbl:longitude":120.177463,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922175,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423067,
+    "wof:lastmodified":1603256899,
     "wof:name":"Xinan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

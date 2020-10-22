@@ -9,7 +9,6 @@
     "geom:bbox":"121.521149,25.065697,121.52864,25.073161",
     "geom:latitude":25.069858,
     "geom:longitude":121.525258,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.070368,
     "lbl:longitude":121.524259,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923113,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423076,
+    "wof:lastmodified":1603256919,
     "wof:name":"Yuanshan",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

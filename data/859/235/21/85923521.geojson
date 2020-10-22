@@ -9,7 +9,6 @@
     "geom:bbox":"121.538376,25.000994,121.549988,25.010951",
     "geom:latitude":25.006667,
     "geom:longitude":121.544012,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.005577,
     "lbl:longitude":121.541986,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923521,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423062,
+    "wof:lastmodified":1603256905,
     "wof:name":"Wansheng",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

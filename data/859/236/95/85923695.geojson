@@ -9,7 +9,6 @@
     "geom:bbox":"121.730621,25.131709,121.730621,25.131709",
     "geom:latitude":25.131709,
     "geom:longitude":121.730621,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.725621,25.126709,121.735621,25.136709",
     "lbl:latitude":25.131709,
@@ -68,8 +67,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026749,
         1108808557,
+        102026749,
         85679571
     ],
     "wof:breaches":[],
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85923695,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422996,
+    "wof:lastmodified":1603256919,
     "wof:name":"Gancheng",
     "wof:parent_id":102026749,
     "wof:placetype":"neighbourhood",

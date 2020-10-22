@@ -9,7 +9,6 @@
     "geom:bbox":"121.557412,24.993526,121.574272,25.007008",
     "geom:latitude":24.999916,
     "geom:longitude":121.565803,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.999936,
     "lbl:longitude":121.564312,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924193,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423062,
+    "wof:lastmodified":1603256909,
     "wof:name":"Wanmei",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

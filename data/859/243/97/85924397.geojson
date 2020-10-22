@@ -9,7 +9,6 @@
     "geom:bbox":"120.969449,24.816654,121.016165,24.875149",
     "geom:latitude":24.845168,
     "geom:longitude":120.993104,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.826795,
     "lbl:longitude":120.983872,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026725,
         1108808557,
+        102026725,
         85679557
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924397,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423013,
+    "wof:lastmodified":1603256903,
     "wof:name":"Jiushe",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",

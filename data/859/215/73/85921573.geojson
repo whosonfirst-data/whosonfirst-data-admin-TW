@@ -9,7 +9,6 @@
     "geom:bbox":"120.325012,22.618078,120.335999,22.631758",
     "geom:latitude":22.625304,
     "geom:longitude":120.330948,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.627688,
     "lbl:longitude":120.332063,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921573,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423077,
+    "wof:lastmodified":1603256911,
     "wof:name":"Zhengda",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

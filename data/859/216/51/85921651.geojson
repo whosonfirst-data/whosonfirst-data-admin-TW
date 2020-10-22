@@ -9,7 +9,6 @@
     "geom:bbox":"120.308533,22.614011,120.314026,22.619082",
     "geom:latitude":22.616969,
     "geom:longitude":120.311737,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.617796,
     "lbl:longitude":120.310825,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921651,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423041,
+    "wof:lastmodified":1603256893,
     "wof:name":"Puzhao",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"121.508789,25.061965,121.517029,25.068185",
     "geom:latitude":25.064738,
     "geom:longitude":121.512904,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.064545,
     "lbl:longitude":121.512753,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922769,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423024,
+    "wof:lastmodified":1603256895,
     "wof:name":"Longhe",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.948168,24.783573,120.970459,24.800448",
     "geom:latitude":24.792137,
     "geom:longitude":120.95984,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.796313,
     "lbl:longitude":120.963532,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026725,
         1108808557,
+        102026725,
         85679557
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924501,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423078,
+    "wof:lastmodified":1603256898,
     "wof:name":"Zhenxing",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",

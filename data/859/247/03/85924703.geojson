@@ -9,7 +9,6 @@
     "geom:bbox":"120.487425,23.494623,120.487425,23.494623",
     "geom:latitude":23.494623,
     "geom:longitude":120.487425,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.482425,23.489623,120.492425,23.499623",
     "lbl:latitude":23.494623,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924703,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423005,
+    "wof:lastmodified":1603256913,
     "wof:name":"Houzhuang",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.159107,22.998163,120.168457,23.008964",
     "geom:latitude":23.003556,
     "geom:longitude":120.164086,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.001676,
     "lbl:longitude":120.161747,
@@ -65,9 +64,9 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026773,
         1108756869,
         1108808553,
+        102026773,
         85679553
     ],
     "wof:breaches":[],
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85922395,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423001,
+    "wof:lastmodified":1603256911,
     "wof:name":"Haitou",
     "wof:parent_id":102026773,
     "wof:placetype":"neighbourhood",

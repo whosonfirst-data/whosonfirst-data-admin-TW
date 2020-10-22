@@ -9,7 +9,6 @@
     "geom:bbox":"121.557101,25.090574,121.566467,25.096929",
     "geom:latitude":25.09368,
     "geom:longitude":121.561796,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.091999,
     "lbl:longitude":121.559761,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923377,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423065,
+    "wof:lastmodified":1603256907,
     "wof:name":"Xi'an",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

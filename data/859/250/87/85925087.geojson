@@ -9,7 +9,6 @@
     "geom:bbox":"120.556711,24.134131,120.596464,24.164272",
     "geom:latitude":24.150178,
     "geom:longitude":120.57609,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.146331,
     "lbl:longitude":120.579592,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85925087,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423063,
+    "wof:lastmodified":1603256904,
     "wof:name":"Wenshan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

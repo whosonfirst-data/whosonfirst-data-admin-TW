@@ -9,7 +9,6 @@
     "geom:bbox":"120.419547,23.480028,120.419547,23.480028",
     "geom:latitude":23.480028,
     "geom:longitude":120.419547,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.414547,23.475028,120.424547,23.485028",
     "lbl:latitude":23.480028,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924657,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422997,
+    "wof:lastmodified":1603256910,
     "wof:name":"Gangping",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

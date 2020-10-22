@@ -9,7 +9,6 @@
     "geom:bbox":"121.743624,25.154912,121.743624,25.154912",
     "geom:latitude":25.154912,
     "geom:longitude":121.743624,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.738624,25.149912,121.748624,25.159912",
     "lbl:latitude":25.154912,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85924253,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423055,
+    "wof:lastmodified":1603256899,
     "wof:name":"Taibai",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"121.480074,25.094168,121.495056,25.110471",
     "geom:latitude":25.102021,
     "geom:longitude":121.486822,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.100611,
     "lbl:longitude":121.488745,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922655,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422993,
+    "wof:lastmodified":1603256900,
     "wof:name":"Fu'an",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

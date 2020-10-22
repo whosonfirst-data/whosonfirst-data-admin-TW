@@ -9,7 +9,6 @@
     "geom:bbox":"120.313708,22.622885,120.319996,22.627955",
     "geom:latitude":22.625119,
     "geom:longitude":120.317025,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.625619,
     "lbl:longitude":120.316904,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921563,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423081,
+    "wof:lastmodified":1603256911,
     "wof:name":"Zhongzheng",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

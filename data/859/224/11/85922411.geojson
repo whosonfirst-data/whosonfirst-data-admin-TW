@@ -9,7 +9,6 @@
     "geom:bbox":"120.168457,22.962073,120.184937,22.975692",
     "geom:latitude":22.968814,
     "geom:longitude":120.175941,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.966541,
     "lbl:longitude":120.177548,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922411,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423077,
+    "wof:lastmodified":1603256912,
     "wof:name":"Zhangnan",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.165323,22.880093,120.197683,22.928042",
     "geom:latitude":22.905552,
     "geom:longitude":120.182347,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.920342,
     "lbl:longitude":120.177667,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922211,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422993,
+    "wof:lastmodified":1603256916,
     "wof:name":"Fotan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

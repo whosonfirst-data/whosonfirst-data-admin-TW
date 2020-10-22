@@ -9,7 +9,6 @@
     "geom:bbox":"121.419138,25.096843,121.481323,25.130711",
     "geom:latitude":25.114632,
     "geom:longitude":121.44822,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.11902,
     "lbl:longitude":121.46359,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923689,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422998,
+    "wof:lastmodified":1603256919,
     "wof:name":"Guandu",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

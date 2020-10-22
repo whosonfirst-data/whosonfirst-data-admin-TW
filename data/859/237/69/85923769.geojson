@@ -9,7 +9,6 @@
     "geom:bbox":"121.562035,25.046414,121.563721,25.048281",
     "geom:latitude":25.0474,
     "geom:longitude":121.562919,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.047291,
     "lbl:longitude":121.562948,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923769,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422995,
+    "wof:lastmodified":1603256921,
     "wof:name":"Fusheng",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

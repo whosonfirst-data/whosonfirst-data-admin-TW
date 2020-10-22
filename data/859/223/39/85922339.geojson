@@ -9,7 +9,6 @@
     "geom:bbox":"120.209656,22.993795,120.215149,22.998852",
     "geom:latitude":22.996361,
     "geom:longitude":120.212364,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.996895,
     "lbl:longitude":120.212929,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922339,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422982,
+    "wof:lastmodified":1603256912,
     "wof:name":"Chengda",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

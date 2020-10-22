@@ -9,7 +9,6 @@
     "geom:bbox":"120.431141,23.485284,120.431141,23.485284",
     "geom:latitude":23.485284,
     "geom:longitude":120.431141,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.426141,23.480284,120.436141,23.490284",
     "lbl:latitude":23.485284,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924635,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423082,
+    "wof:lastmodified":1603256910,
     "wof:name":"Zhuwei",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

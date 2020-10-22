@@ -9,7 +9,6 @@
     "geom:bbox":"120.283813,22.606404,120.295436,22.617814",
     "geom:latitude":22.612022,
     "geom:longitude":120.288759,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.614793,
     "lbl:longitude":120.290802,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921637,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423022,
+    "wof:lastmodified":1603256894,
     "wof:name":"Lingzhou",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

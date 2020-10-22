@@ -9,7 +9,6 @@
     "geom:bbox":"120.167886,23.062043,120.18807,23.083415",
     "geom:latitude":23.071903,
     "geom:longitude":120.178838,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.071892,
     "lbl:longitude":120.177776,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922245,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422989,
+    "wof:lastmodified":1603256916,
     "wof:name":"Diandong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.990671,24.729348,121.076589,24.799228",
     "geom:latitude":24.760608,
     "geom:longitude":121.036483,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.771668,
     "lbl:longitude":121.027445,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026725,
         1108808557,
+        102026725,
         85679557
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924479,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423012,
+    "wof:lastmodified":1603256904,
     "wof:name":"Jinshan",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",

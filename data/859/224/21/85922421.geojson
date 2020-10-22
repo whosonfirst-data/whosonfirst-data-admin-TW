@@ -9,7 +9,6 @@
     "geom:bbox":"120.133173,23.025514,120.162753,23.059974",
     "geom:latitude":23.044497,
     "geom:longitude":120.147775,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.043847,
     "lbl:longitude":120.148902,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026765,
         1108808553,
+        102026765,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922421,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423065,
+    "wof:lastmodified":1603256912,
     "wof:name":"Xiangong",
     "wof:parent_id":102026765,
     "wof:placetype":"neighbourhood",

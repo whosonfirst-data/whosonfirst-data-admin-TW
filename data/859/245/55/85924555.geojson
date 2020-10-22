@@ -9,7 +9,6 @@
     "geom:bbox":"120.903813,24.782994,120.91678,24.794376",
     "geom:latitude":24.788604,
     "geom:longitude":120.911201,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.787715,
     "lbl:longitude":120.91314,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924555,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422988,
+    "wof:lastmodified":1603256898,
     "wof:name":"Dazhuang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

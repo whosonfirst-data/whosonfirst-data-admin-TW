@@ -9,7 +9,6 @@
     "geom:bbox":"120.296593,22.60894,120.30304,22.6147",
     "geom:latitude":22.612039,
     "geom:longitude":120.299671,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.611732,
     "lbl:longitude":120.300222,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921613,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422982,
+    "wof:lastmodified":1603256894,
     "wof:name":"Chengbei",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

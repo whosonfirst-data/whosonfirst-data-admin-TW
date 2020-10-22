@@ -9,7 +9,6 @@
     "geom:bbox":"120.383571,23.495553,120.383571,23.495553",
     "geom:latitude":23.495553,
     "geom:longitude":120.383571,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.378571,23.490553,120.388571,23.500553",
     "lbl:latitude":23.495553,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85924627,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423081,
+    "wof:lastmodified":1603256910,
     "wof:name":"Zhucun",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

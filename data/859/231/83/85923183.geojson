@@ -9,7 +9,6 @@
     "geom:bbox":"121.764663,25.149463,121.764663,25.149463",
     "geom:latitude":25.149463,
     "geom:longitude":121.764663,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.759663,25.144463,121.769663,25.154463",
     "lbl:latitude":25.149463,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85923183,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423079,
+    "wof:lastmodified":1603256919,
     "wof:name":"Zhongbin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

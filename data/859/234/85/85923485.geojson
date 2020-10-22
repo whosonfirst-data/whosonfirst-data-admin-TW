@@ -9,7 +9,6 @@
     "geom:bbox":"121.530762,25.003483,121.539627,25.011641",
     "geom:latitude":25.007019,
     "geom:longitude":121.535641,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.007442,
     "lbl:longitude":121.535611,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923485,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423062,
+    "wof:lastmodified":1603256908,
     "wof:name":"Wannian",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

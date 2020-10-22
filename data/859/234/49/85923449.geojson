@@ -9,7 +9,6 @@
     "geom:bbox":"121.613159,25.059477,121.657104,25.081868",
     "geom:latitude":25.069774,
     "geom:longitude":121.634378,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.071425,
     "lbl:longitude":121.630306,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923449,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423020,
+    "wof:lastmodified":1603256908,
     "wof:name":"Lekang",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

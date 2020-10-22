@@ -9,7 +9,6 @@
     "geom:bbox":"121.553795,25.030861,121.558462,25.035839",
     "geom:latitude":25.033216,
     "geom:longitude":121.556129,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.033297,
     "lbl:longitude":121.556097,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922879,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423058,
+    "wof:lastmodified":1603256902,
     "wof:name":"Tonghua",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

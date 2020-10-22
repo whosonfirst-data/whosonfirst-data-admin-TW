@@ -9,7 +9,6 @@
     "geom:bbox":"121.537628,25.038327,121.541748,25.04206",
     "geom:latitude":25.039957,
     "geom:longitude":121.539647,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.039867,
     "lbl:longitude":121.539872,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922911,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423073,
+    "wof:lastmodified":1603256894,
     "wof:name":"Yicun",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

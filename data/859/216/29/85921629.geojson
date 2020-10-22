@@ -9,7 +9,6 @@
     "geom:bbox":"120.29274,22.614011,120.297546,22.618448",
     "geom:latitude":22.61618,
     "geom:longitude":120.295195,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.616889,
     "lbl:longitude":120.294507,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921629,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423021,
+    "wof:lastmodified":1603256893,
     "wof:name":"Lingsheng",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

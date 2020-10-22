@@ -9,7 +9,6 @@
     "geom:bbox":"121.567841,25.045102,121.569839,25.047036",
     "geom:latitude":25.046169,
     "geom:longitude":121.568779,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.046413,
     "lbl:longitude":121.568527,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923921,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423072,
+    "wof:lastmodified":1603256921,
     "wof:name":"Yaxiang",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

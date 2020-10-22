@@ -9,7 +9,6 @@
     "geom:bbox":"121.551127,25.029272,121.55528,25.03335",
     "geom:latitude":25.031221,
     "geom:longitude":121.553045,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.03109,
     "lbl:longitude":121.552558,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922885,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423058,
+    "wof:lastmodified":1603256902,
     "wof:name":"Tong'an",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

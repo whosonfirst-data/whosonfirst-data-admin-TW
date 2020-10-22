@@ -9,7 +9,6 @@
     "geom:bbox":"120.16571,22.996323,120.171204,23.00138",
     "geom:latitude":22.999273,
     "geom:longitude":120.167999,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.998441,
     "lbl:longitude":120.167812,
@@ -65,9 +64,9 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026773,
         1108756869,
         1108808553,
+        102026773,
         85679553
     ],
     "wof:breaches":[],
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85922455,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422997,
+    "wof:lastmodified":1603256913,
     "wof:name":"Gangzai",
     "wof:parent_id":102026773,
     "wof:placetype":"neighbourhood",

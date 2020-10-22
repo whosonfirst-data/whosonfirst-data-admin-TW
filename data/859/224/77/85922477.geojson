@@ -9,7 +9,6 @@
     "geom:bbox":"121.636829,25.122916,121.636829,25.122916",
     "geom:latitude":25.122916,
     "geom:longitude":121.636829,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.631829,25.117916,121.641829,25.127916",
     "lbl:latitude":25.122916,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85922477,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423075,
+    "wof:lastmodified":1603256913,
     "wof:name":"You'er",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.452884,23.444573,120.452884,23.444573",
     "geom:latitude":23.444573,
     "geom:longitude":120.452884,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.447884,23.439573,120.457884,23.449573",
     "lbl:latitude":23.444573,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924743,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423068,
+    "wof:lastmodified":1603256913,
     "wof:name":"Xingcun",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"121.504255,25.085019,121.50616,25.088077",
     "geom:latitude":25.086613,
     "geom:longitude":121.505177,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.086206,
     "lbl:longitude":121.505013,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922645,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423007,
+    "wof:lastmodified":1603256900,
     "wof:name":"Hulu",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

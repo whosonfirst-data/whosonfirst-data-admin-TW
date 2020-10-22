@@ -9,7 +9,6 @@
     "geom:bbox":"121.50832,25.114202,121.51216,25.11845",
     "geom:latitude":25.116221,
     "geom:longitude":121.510249,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.116062,
     "lbl:longitude":121.510288,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923655,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423082,
+    "wof:lastmodified":1603256919,
     "wof:name":"Zunxian",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

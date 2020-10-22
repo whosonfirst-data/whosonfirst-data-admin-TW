@@ -9,7 +9,6 @@
     "geom:bbox":"121.524331,25.122906,121.547241,25.141347",
     "geom:latitude":25.132762,
     "geom:longitude":121.536031,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.134668,
     "lbl:longitude":121.536543,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922531,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423057,
+    "wof:lastmodified":1603256915,
     "wof:name":"Tianmu",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

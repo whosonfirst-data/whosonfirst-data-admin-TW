@@ -9,7 +9,6 @@
     "geom:bbox":"120.645626,24.089126,120.662842,24.111787",
     "geom:latitude":24.099891,
     "geom:longitude":120.654583,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.107482,
     "lbl:longitude":120.655212,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85924925,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423053,
+    "wof:lastmodified":1603256915,
     "wof:name":"Shuyi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

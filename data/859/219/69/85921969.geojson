@@ -9,7 +9,6 @@
     "geom:bbox":"120.284869,22.623636,120.289625,22.627204",
     "geom:latitude":22.625424,
     "geom:longitude":120.287212,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.625566,
     "lbl:longitude":120.287092,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921969,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422999,
+    "wof:lastmodified":1603256901,
     "wof:name":"Guangming",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"121.513657,25.091818,121.522522,25.100523",
     "geom:latitude":25.096647,
     "geom:longitude":121.517921,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.096487,
     "lbl:longitude":121.516944,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922661,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422994,
+    "wof:lastmodified":1603256900,
     "wof:name":"Fujia",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

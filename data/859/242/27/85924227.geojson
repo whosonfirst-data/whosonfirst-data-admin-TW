@@ -9,7 +9,6 @@
     "geom:bbox":"121.4753,25.149222,121.520744,25.217426",
     "geom:latitude":25.186292,
     "geom:longitude":121.501249,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.172875,
     "lbl:longitude":121.507727,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924227,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422987,
+    "wof:lastmodified":1603256899,
     "wof:name":"Datun",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

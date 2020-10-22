@@ -9,7 +9,6 @@
     "geom:bbox":"121.492215,25.020907,121.500549,25.028373",
     "geom:latitude":25.024688,
     "geom:longitude":121.497149,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.025203,
     "lbl:longitude":121.496783,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924059,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423044,
+    "wof:lastmodified":1603256914,
     "wof:name":"Rishan",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

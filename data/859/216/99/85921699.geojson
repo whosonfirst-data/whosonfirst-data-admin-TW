@@ -9,7 +9,6 @@
     "geom:bbox":"120.300293,22.622885,120.306422,22.627032",
     "geom:latitude":22.624911,
     "geom:longitude":120.303369,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.624302,
     "lbl:longitude":120.302295,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921699,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423076,
+    "wof:lastmodified":1603256894,
     "wof:name":"Yuheng",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

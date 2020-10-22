@@ -9,7 +9,6 @@
     "geom:bbox":"120.678692,24.160537,120.680695,24.16248",
     "geom:latitude":24.161409,
     "geom:longitude":120.679756,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.161163,
     "lbl:longitude":120.680008,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925003,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423020,
+    "wof:lastmodified":1603256904,
     "wof:name":"Laicun",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

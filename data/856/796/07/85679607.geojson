@@ -9,7 +9,6 @@
     "geom:bbox":"120.988718703,23.1063418651,121.772715691,24.3727503521",
     "geom:latitude":23.754535,
     "geom:longitude":121.376852,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "Hualien County"
@@ -246,7 +245,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588752,
+    "wof:lastmodified":1603256924,
     "wof:name":"Hualien",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

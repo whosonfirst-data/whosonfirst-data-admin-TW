@@ -9,7 +9,6 @@
     "geom:bbox":"121.507029,24.94867,121.541748,24.996016",
     "geom:latitude":24.969226,
     "geom:longitude":121.522524,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.982263,
     "lbl:longitude":121.533052,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026783,
         1108808549,
+        102026783,
         85679585
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923475,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423011,
+    "wof:lastmodified":1603256908,
     "wof:name":"Jingmei",
     "wof:parent_id":102026783,
     "wof:placetype":"neighbourhood",

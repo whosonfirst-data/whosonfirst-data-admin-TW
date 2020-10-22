@@ -9,7 +9,6 @@
     "geom:bbox":"120.165323,22.925512,120.19219,22.940689",
     "geom:latitude":22.932085,
     "geom:longitude":120.17948,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.931061,
     "lbl:longitude":120.175625,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922261,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423075,
+    "wof:lastmodified":1603256916,
     "wof:name":"Yongning",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

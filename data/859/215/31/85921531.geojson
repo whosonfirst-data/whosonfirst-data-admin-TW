@@ -9,7 +9,6 @@
     "geom:bbox":"120.344238,22.596669,120.362478,22.614793",
     "geom:latitude":22.606873,
     "geom:longitude":120.352466,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.609737,
     "lbl:longitude":120.347924,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921531,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423044,
+    "wof:lastmodified":1603256911,
     "wof:name":"Ruihua",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

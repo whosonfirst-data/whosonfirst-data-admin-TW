@@ -9,7 +9,6 @@
     "geom:bbox":"120.215149,22.993795,120.223389,23.00046",
     "geom:latitude":22.996844,
     "geom:longitude":120.219633,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.99689,
     "lbl:longitude":120.218914,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922225,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422988,
+    "wof:lastmodified":1603256917,
     "wof:name":"Daxue",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

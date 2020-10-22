@@ -9,7 +9,6 @@
     "geom:bbox":"120.203211,22.9794,120.206909,22.983681",
     "geom:latitude":22.981881,
     "geom:longitude":120.205161,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.98155,
     "lbl:longitude":120.205435,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922129,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423064,
+    "wof:lastmodified":1603256899,
     "wof:name":"Wufei",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

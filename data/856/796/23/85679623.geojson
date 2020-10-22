@@ -9,7 +9,6 @@
     "geom:bbox":"120.749146763,21.9487979197,121.605723504,23.438724677",
     "geom:latitude":22.865845,
     "geom:longitude":121.039757,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "Taitung County"
@@ -238,7 +237,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588752,
+    "wof:lastmodified":1603256924,
     "wof:name":"Taitung",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

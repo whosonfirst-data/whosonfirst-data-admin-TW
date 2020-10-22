@@ -9,7 +9,6 @@
     "geom:bbox":"120.642672,24.143213,120.644989,24.146018",
     "geom:latitude":24.144661,
     "geom:longitude":120.643953,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.145222,
     "lbl:longitude":120.644686,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925047,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423057,
+    "wof:lastmodified":1603256905,
     "wof:name":"Tianxin",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.204163,22.985521,120.210131,22.993795",
     "geom:latitude":22.989755,
     "geom:longitude":120.207172,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.989209,
     "lbl:longitude":120.206542,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922049,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423073,
+    "wof:lastmodified":1603256897,
     "wof:name":"Yintong",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

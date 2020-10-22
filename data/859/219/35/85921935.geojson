@@ -9,7 +9,6 @@
     "geom:bbox":"120.269682,22.593726,120.27832,22.598798",
     "geom:latitude":22.596027,
     "geom:longitude":120.274872,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.596262,
     "lbl:longitude":120.275574,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921935,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422980,
+    "wof:lastmodified":1603256901,
     "wof:name":"Beishan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

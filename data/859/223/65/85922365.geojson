@@ -9,7 +9,6 @@
     "geom:bbox":"120.184937,22.999628,120.190905,23.004597",
     "geom:latitude":23.002259,
     "geom:longitude":120.187616,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.0018,
     "lbl:longitude":120.188309,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922365,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423072,
+    "wof:lastmodified":1603256912,
     "wof:name":"Yaowang",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

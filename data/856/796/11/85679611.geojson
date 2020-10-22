@@ -9,7 +9,6 @@
     "geom:bbox":"120.626570266,23.4366834579,121.349626906,24.2434817572",
     "geom:latitude":23.848504,
     "geom:longitude":120.986466,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "Nantou County"
@@ -236,7 +235,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588751,
+    "wof:lastmodified":1603256923,
     "wof:name":"Nantou",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

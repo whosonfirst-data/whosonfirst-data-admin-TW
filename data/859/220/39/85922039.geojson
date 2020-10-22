@@ -9,7 +9,6 @@
     "geom:bbox":"120.238108,22.627955,120.264587,22.682313",
     "geom:latitude":22.655116,
     "geom:longitude":120.251925,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.637739,
     "lbl:longitude":120.258209,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922039,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423056,
+    "wof:lastmodified":1603256897,
     "wof:name":"Taoyuan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

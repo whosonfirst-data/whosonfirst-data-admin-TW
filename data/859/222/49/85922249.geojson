@@ -9,7 +9,6 @@
     "geom:bbox":"120.154908,22.982349,120.16571,22.993795",
     "geom:latitude":22.987536,
     "geom:longitude":120.161153,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.987808,
     "lbl:longitude":120.159414,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922249,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423073,
+    "wof:lastmodified":1603256916,
     "wof:name":"Yizai",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

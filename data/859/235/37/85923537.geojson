@@ -9,7 +9,6 @@
     "geom:bbox":"121.529367,24.964895,121.555481,24.993526",
     "geom:latitude":24.980631,
     "geom:longitude":121.543794,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.983352,
     "lbl:longitude":121.54396,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026783,
         1108808549,
+        102026783,
         85679585
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923537,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423051,
+    "wof:lastmodified":1603256905,
     "wof:name":"Shiyuan",
     "wof:parent_id":102026783,
     "wof:placetype":"neighbourhood",

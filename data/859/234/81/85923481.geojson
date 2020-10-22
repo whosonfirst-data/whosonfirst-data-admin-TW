@@ -9,7 +9,6 @@
     "geom:bbox":"121.490549,24.96361,121.539627,25.001684",
     "geom:latitude":24.984092,
     "geom:longitude":121.514048,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.990775,
     "lbl:longitude":121.519606,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026737,
         1108808549,
+        102026737,
         85679585
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923481,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423011,
+    "wof:lastmodified":1603256908,
     "wof:name":"Jingqing",
     "wof:parent_id":102026737,
     "wof:placetype":"neighbourhood",

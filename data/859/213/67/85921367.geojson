@@ -9,7 +9,6 @@
     "geom:bbox":"120.278729,22.677382,120.292371,22.687518",
     "geom:latitude":22.681369,
     "geom:longitude":120.286734,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.680595,
     "lbl:longitude":120.289102,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921367,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423040,
+    "wof:lastmodified":1603256917,
     "wof:name":"Pixi",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

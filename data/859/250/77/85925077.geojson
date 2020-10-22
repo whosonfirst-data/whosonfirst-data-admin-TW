@@ -9,7 +9,6 @@
     "geom:bbox":"120.593525,24.113018,120.621184,24.139235",
     "geom:latitude":24.126923,
     "geom:longitude":120.607163,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.133635,
     "lbl:longitude":120.609204,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85925077,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422984,
+    "wof:lastmodified":1603256905,
     "wof:name":"Chun'an",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

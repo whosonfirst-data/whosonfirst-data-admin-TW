@@ -9,7 +9,6 @@
     "geom:bbox":"120.441816,23.480037,120.441816,23.480037",
     "geom:latitude":23.480037,
     "geom:longitude":120.441816,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.436816,23.475037,120.446816,23.485037",
     "lbl:latitude":23.480037,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924653,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423059,
+    "wof:lastmodified":1603256910,
     "wof:name":"Tongyun",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

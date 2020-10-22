@@ -9,7 +9,6 @@
     "geom:bbox":"121.729335,25.110623,121.729335,25.110623",
     "geom:latitude":25.110623,
     "geom:longitude":121.729335,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.724335,25.105623,121.734335,25.115623",
     "lbl:latitude":25.110623,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85924015,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422979,
+    "wof:lastmodified":1603256914,
     "wof:name":"Bazhong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

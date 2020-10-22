@@ -9,7 +9,6 @@
     "geom:bbox":"121.546616,25.008462,121.558228,25.019108",
     "geom:latitude":25.013648,
     "geom:longitude":121.552152,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.014723,
     "lbl:longitude":121.552321,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922933,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423023,
+    "wof:lastmodified":1603256894,
     "wof:name":"Liyuan",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

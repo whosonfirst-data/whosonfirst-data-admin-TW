@@ -9,7 +9,6 @@
     "geom:bbox":"121.506042,25.037083,121.509258,25.039571",
     "geom:latitude":25.038086,
     "geom:longitude":121.507736,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.038104,
     "lbl:longitude":121.507776,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924051,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423043,
+    "wof:lastmodified":1603256914,
     "wof:name":"Rende",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

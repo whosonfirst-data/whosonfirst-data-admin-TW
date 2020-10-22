@@ -9,7 +9,6 @@
     "geom:bbox":"120.463669,23.471178,120.463669,23.471178",
     "geom:latitude":23.471178,
     "geom:longitude":120.463669,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.458669,23.466178,120.468669,23.476178",
     "lbl:latitude":23.471178,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924729,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423069,
+    "wof:lastmodified":1603256913,
     "wof:name":"Xinkai",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

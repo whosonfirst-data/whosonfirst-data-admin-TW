@@ -9,7 +9,6 @@
     "geom:bbox":"121.595552,25.03949,121.607666,25.046827",
     "geom:latitude":25.043194,
     "geom:longitude":121.601758,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.042674,
     "lbl:longitude":121.600832,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923997,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423068,
+    "wof:lastmodified":1603256921,
     "wof:name":"Xinguang",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

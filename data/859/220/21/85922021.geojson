@@ -9,7 +9,6 @@
     "geom:bbox":"120.274507,22.68464,120.28656,22.697654",
     "geom:latitude":22.691793,
     "geom:longitude":120.281317,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.688785,
     "lbl:longitude":120.28184,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922021,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423029,
+    "wof:lastmodified":1603256897,
     "wof:name":"Mingjian",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

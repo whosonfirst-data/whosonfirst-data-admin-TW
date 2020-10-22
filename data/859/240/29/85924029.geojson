@@ -9,7 +9,6 @@
     "geom:bbox":"121.762712,25.050948,121.762712,25.050948",
     "geom:latitude":25.050948,
     "geom:longitude":121.762712,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.757712,25.045948,121.767712,25.055948",
     "lbl:latitude":25.050948,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85924029,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423036,
+    "wof:lastmodified":1603256914,
     "wof:name":"Nuandong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

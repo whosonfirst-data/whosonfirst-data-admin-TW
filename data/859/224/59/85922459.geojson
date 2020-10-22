@@ -9,7 +9,6 @@
     "geom:bbox":"120.363175,22.55822,120.428396,22.600127",
     "geom:latitude":22.575322,
     "geom:longitude":120.393356,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.572119,
     "lbl:longitude":120.374055,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922459,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422987,
+    "wof:lastmodified":1603256912,
     "wof:name":"Daping",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

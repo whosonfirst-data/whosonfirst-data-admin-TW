@@ -9,7 +9,6 @@
     "geom:bbox":"121.673744,25.132757,121.673744,25.132757",
     "geom:latitude":25.132757,
     "geom:longitude":121.673744,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.668744,25.127757,121.678744,25.137757",
     "lbl:latitude":25.132757,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85922507,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423026,
+    "wof:lastmodified":1603256915,
     "wof:name":"Maxi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

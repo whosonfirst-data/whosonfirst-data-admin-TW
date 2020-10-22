@@ -9,7 +9,6 @@
     "geom:bbox":"120.305786,22.633604,120.314662,22.640052",
     "geom:latitude":22.637158,
     "geom:longitude":120.310746,
-    "gn:id":"",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:latitude":22.636955,
@@ -70,8 +69,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -98,10 +97,7 @@
         }
     ],
     "wof:id":85921185,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422981,
+    "wof:lastmodified":1603256895,
     "wof:name":"Bo'ai",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

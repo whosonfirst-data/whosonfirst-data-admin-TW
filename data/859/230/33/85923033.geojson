@@ -9,7 +9,6 @@
     "geom:bbox":"121.527546,25.042959,121.532369,25.049525",
     "geom:latitude":25.046302,
     "geom:longitude":121.52975,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.04491,
     "lbl:longitude":121.53015,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923033,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423078,
+    "wof:lastmodified":1603256922,
     "wof:name":"Zhengshou",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

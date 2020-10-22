@@ -9,7 +9,6 @@
     "geom:bbox":"120.302404,22.60318,120.306422,22.607093",
     "geom:latitude":22.605071,
     "geom:longitude":120.304343,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.605607,
     "lbl:longitude":120.304866,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921483,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423010,
+    "wof:lastmodified":1603256917,
     "wof:name":"Jianlong",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

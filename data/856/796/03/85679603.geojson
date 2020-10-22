@@ -9,7 +9,6 @@
     "geom:bbox":"120.373562453,23.4453392599,120.508954706,23.517272854",
     "geom:latitude":23.482917,
     "geom:longitude":120.441861,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "Chiayi City Municipality"
@@ -152,7 +151,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588750,
+    "wof:lastmodified":1603256923,
     "wof:name":"Chiayi City",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

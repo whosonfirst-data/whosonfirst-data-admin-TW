@@ -9,7 +9,6 @@
     "geom:bbox":"120.327759,22.649502,120.347621,22.667859",
     "geom:latitude":22.658013,
     "geom:longitude":120.337711,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.660303,
     "lbl:longitude":120.341747,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921139,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422980,
+    "wof:lastmodified":1603256895,
     "wof:name":"Benyuan",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

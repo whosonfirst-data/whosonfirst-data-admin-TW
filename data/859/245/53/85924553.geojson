@@ -9,7 +9,6 @@
     "geom:bbox":"121.014404,24.77676,121.038641,24.796708",
     "geom:latitude":24.787745,
     "geom:longitude":121.024619,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.783888,
     "lbl:longitude":121.020671,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026725,
         1108808557,
+        102026725,
         85679557
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924553,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422998,
+    "wof:lastmodified":1603256898,
     "wof:name":"Guandong",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",

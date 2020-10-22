@@ -9,7 +9,6 @@
     "geom:bbox":"120.222815,22.930689,120.263601,22.963451",
     "geom:latitude":22.946721,
     "geom:longitude":120.242978,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.949541,
     "lbl:longitude":120.237554,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922207,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422988,
+    "wof:lastmodified":1603256916,
     "wof:name":"Dazhi",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

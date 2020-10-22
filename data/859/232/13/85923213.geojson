@@ -9,7 +9,6 @@
     "geom:bbox":"121.528015,25.038327,121.533508,25.043926",
     "geom:latitude":25.040848,
     "geom:longitude":121.530944,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.04189,
     "lbl:longitude":121.530775,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923213,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423068,
+    "wof:lastmodified":1603256906,
     "wof:name":"Xingshi",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.201288,23.01402,120.218178,23.032667",
     "geom:latitude":23.023282,
     "geom:longitude":120.208799,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.025869,
     "lbl:longitude":120.206242,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922283,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423066,
+    "wof:lastmodified":1603256916,
     "wof:name":"Xibei",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.367402,22.575974,120.386608,22.586118",
     "geom:latitude":22.581349,
     "geom:longitude":120.378398,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.581047,
     "lbl:longitude":120.375366,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921309,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422997,
+    "wof:lastmodified":1603256918,
     "wof:name":"Gaosong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.19224,22.95598,120.206909,22.983681",
     "geom:latitude":22.969794,
     "geom:longitude":120.199761,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.979384,
     "lbl:longitude":120.201432,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922417,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423068,
+    "wof:lastmodified":1603256912,
     "wof:name":"Xingzhong",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

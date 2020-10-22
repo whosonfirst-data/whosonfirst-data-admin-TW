@@ -9,7 +9,6 @@
     "geom:bbox":"120.914772,24.729348,120.949944,24.759302",
     "geom:latitude":24.743996,
     "geom:longitude":120.933878,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.750233,
     "lbl:longitude":120.934254,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924561,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422986,
+    "wof:lastmodified":1603256898,
     "wof:name":"Dahu",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

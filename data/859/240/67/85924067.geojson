@@ -9,7 +9,6 @@
     "geom:bbox":"121.49231,25.028373,121.500549,25.03399",
     "geom:latitude":25.030446,
     "geom:longitude":121.496455,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.029784,
     "lbl:longitude":121.498938,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924067,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423003,
+    "wof:lastmodified":1603256914,
     "wof:name":"Heping",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

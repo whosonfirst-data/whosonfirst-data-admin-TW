@@ -9,7 +9,6 @@
     "geom:bbox":"121.523895,25.025884,121.526642,25.02958",
     "geom:latitude":25.02749,
     "geom:longitude":121.525264,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.026751,
     "lbl:longitude":121.525668,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922797,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423000,
+    "wof:lastmodified":1603256896,
     "wof:name":"Guzhuang",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

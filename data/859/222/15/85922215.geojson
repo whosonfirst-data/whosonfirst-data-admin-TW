@@ -9,7 +9,6 @@
     "geom:bbox":"120.182156,23.011492,120.202219,23.031715",
     "geom:latitude":23.022024,
     "geom:longitude":120.19303,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.019304,
     "lbl:longitude":120.193382,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922215,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423070,
+    "wof:lastmodified":1603256916,
     "wof:name":"Xiqian",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

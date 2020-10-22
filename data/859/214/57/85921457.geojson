@@ -9,7 +9,6 @@
     "geom:bbox":"120.293427,22.615857,120.298182,22.623518",
     "geom:latitude":22.620024,
     "geom:longitude":120.296112,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.619982,
     "lbl:longitude":120.296121,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921457,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423044,
+    "wof:lastmodified":1603256917,
     "wof:name":"Rongfu",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

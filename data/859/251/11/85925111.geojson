@@ -9,7 +9,6 @@
     "geom:bbox":"120.613403,24.173067,120.620039,24.179331",
     "geom:latitude":24.17669,
     "geom:longitude":120.616205,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.177962,
     "lbl:longitude":120.616994,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026719,
         1108808551,
+        102026719,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925111,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422996,
+    "wof:lastmodified":1603256906,
     "wof:name":"Fuzhong",
     "wof:parent_id":102026719,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.230255,22.980811,120.241137,22.995173",
     "geom:latitude":22.989035,
     "geom:longitude":120.235535,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.988109,
     "lbl:longitude":120.235742,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922443,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423076,
+    "wof:lastmodified":1603256912,
     "wof:name":"Yunong",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

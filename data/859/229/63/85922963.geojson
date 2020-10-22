@@ -9,7 +9,6 @@
     "geom:bbox":"121.525269,25.022878,121.531231,25.028373",
     "geom:latitude":25.025486,
     "geom:longitude":121.528526,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.025214,
     "lbl:longitude":121.528636,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922963,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423024,
+    "wof:lastmodified":1603256894,
     "wof:name":"Longquan",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

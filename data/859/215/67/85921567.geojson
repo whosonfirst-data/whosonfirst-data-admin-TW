@@ -9,7 +9,6 @@
     "geom:bbox":"120.318146,22.626687,120.330505,22.636828",
     "geom:latitude":22.632232,
     "geom:longitude":120.325363,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.631829,
     "lbl:longitude":120.323605,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921567,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423064,
+    "wof:lastmodified":1603256911,
     "wof:name":"Wuquan",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

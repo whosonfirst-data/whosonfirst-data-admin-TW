@@ -9,7 +9,6 @@
     "geom:bbox":"120.211927,22.988394,120.220642,22.997012",
     "geom:latitude":22.992411,
     "geom:longitude":120.216546,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.992157,
     "lbl:longitude":120.216295,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922161,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423063,
+    "wof:lastmodified":1603256899,
     "wof:name":"Weixia",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

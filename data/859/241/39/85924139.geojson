@@ -9,7 +9,6 @@
     "geom:bbox":"121.495056,25.03335,121.498489,25.035839",
     "geom:latitude":25.034613,
     "geom:longitude":121.49653,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.034657,
     "lbl:longitude":121.496782,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924139,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423056,
+    "wof:lastmodified":1603256909,
     "wof:name":"Tangbu",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

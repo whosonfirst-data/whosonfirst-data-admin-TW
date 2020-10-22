@@ -9,7 +9,6 @@
     "geom:bbox":"121.563721,24.925012,121.669851,24.998505",
     "geom:latitude":24.966209,
     "geom:longitude":121.609863,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.970165,
     "lbl:longitude":121.593108,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923469,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423078,
+    "wof:lastmodified":1603256907,
     "wof:name":"Zhinan",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

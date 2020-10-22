@@ -9,7 +9,6 @@
     "geom:bbox":"120.184937,23.049407,120.196495,23.061935",
     "geom:latitude":23.055773,
     "geom:longitude":120.189604,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.051935,
     "lbl:longitude":120.187683,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922373,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423071,
+    "wof:lastmodified":1603256912,
     "wof:name":"Xixin",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

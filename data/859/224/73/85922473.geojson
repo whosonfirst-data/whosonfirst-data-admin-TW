@@ -9,7 +9,6 @@
     "geom:bbox":"121.654478,25.085624,121.654478,25.085624",
     "geom:latitude":25.085624,
     "geom:longitude":121.654478,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.649478,25.080624,121.659478,25.090624",
     "lbl:latitude":25.085624,
@@ -68,8 +67,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026731,
         1108808549,
+        102026731,
         85679585
     ],
     "wof:breaches":[],
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85922473,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423075,
+    "wof:lastmodified":1603256912,
     "wof:name":"Youyi",
     "wof:parent_id":102026731,
     "wof:placetype":"neighbourhood",

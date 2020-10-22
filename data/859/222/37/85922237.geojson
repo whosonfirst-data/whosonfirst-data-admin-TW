@@ -9,7 +9,6 @@
     "geom:bbox":"120.198282,22.935748,120.227404,22.960922",
     "geom:latitude":22.947583,
     "geom:longitude":120.212214,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.952236,
     "lbl:longitude":120.210554,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922237,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422985,
+    "wof:lastmodified":1603256916,
     "wof:name":"Da'en",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

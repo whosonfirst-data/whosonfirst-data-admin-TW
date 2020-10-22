@@ -9,7 +9,6 @@
     "geom:bbox":"120.188819,22.998163,120.191803,23.001897",
     "geom:latitude":23.000295,
     "geom:longitude":120.190226,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.000554,
     "lbl:longitude":120.18988,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922071,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423063,
+    "wof:lastmodified":1603256897,
     "wof:name":"Wenxian",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

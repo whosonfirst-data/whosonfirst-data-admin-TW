@@ -9,7 +9,6 @@
     "geom:bbox":"121.435618,25.009254,121.486816,25.042277",
     "geom:latitude":25.026916,
     "geom:longitude":121.457551,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.024267,
     "lbl:longitude":121.459362,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026665,
         1108808549,
+        102026665,
         85679585
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924105,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423006,
+    "wof:lastmodified":1603256909,
     "wof:name":"Huajiang",
     "wof:parent_id":102026665,
     "wof:placetype":"neighbourhood",

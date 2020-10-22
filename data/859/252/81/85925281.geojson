@@ -9,7 +9,6 @@
     "geom:bbox":"120.847849,24.690501,120.899988,24.749348",
     "geom:latitude":24.72055,
     "geom:longitude":120.874794,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.733264,
     "lbl:longitude":120.880248,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925281,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423033,
+    "wof:lastmodified":1603256923,
     "wof:name":"Nangang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

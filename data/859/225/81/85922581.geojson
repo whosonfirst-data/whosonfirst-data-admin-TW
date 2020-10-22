@@ -9,7 +9,6 @@
     "geom:bbox":"121.523661,25.102493,121.529388,25.107984",
     "geom:latitude":25.105543,
     "geom:longitude":121.527264,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.106103,
     "lbl:longitude":121.525855,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922581,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423079,
+    "wof:lastmodified":1603256915,
     "wof:name":"Zhongcheng",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

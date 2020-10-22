@@ -9,7 +9,6 @@
     "geom:bbox":"121.633123814,25.0576439482,121.774820591,25.1694649787",
     "geom:latitude":25.112685,
     "geom:longitude":121.707872,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "Keelung City Municipality"
@@ -161,7 +160,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588755,
+    "wof:lastmodified":1603256924,
     "wof:name":"Keelung City",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

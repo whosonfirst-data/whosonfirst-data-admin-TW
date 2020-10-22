@@ -9,7 +9,6 @@
     "geom:bbox":"120.198035,22.982417,120.206909,22.990002",
     "geom:latitude":22.985856,
     "geom:longitude":120.202241,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.987367,
     "lbl:longitude":120.202581,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922353,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423012,
+    "wof:lastmodified":1603256912,
     "wof:name":"Jinxue",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.890421,24.746036,120.921021,24.778206",
     "geom:latitude":24.763766,
     "geom:longitude":120.907403,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.764358,
     "lbl:longitude":120.906868,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924605,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422982,
+    "wof:lastmodified":1603256910,
     "wof:name":"Chaoshan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

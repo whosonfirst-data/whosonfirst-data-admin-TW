@@ -9,7 +9,6 @@
     "geom:bbox":"120.971695306,24.5954499372,121.483313837,25.1236788872",
     "geom:latitude":24.897857,
     "geom:longitude":121.263098,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "Taoyuan Special Municipality"
@@ -206,7 +205,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588754,
+    "wof:lastmodified":1603256924,
     "wof:name":"Taoyuan",
     "wof:parent_id":1108808543,
     "wof:placetype":"region",

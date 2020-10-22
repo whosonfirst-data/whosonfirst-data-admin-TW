@@ -9,7 +9,6 @@
     "geom:bbox":"121.607666,25.074613,121.621399,25.093751",
     "geom:latitude":25.084757,
     "geom:longitude":121.615211,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.082059,
     "lbl:longitude":121.61594,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924203,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422976,
+    "wof:lastmodified":1603256898,
     "wof:name":"Antai",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

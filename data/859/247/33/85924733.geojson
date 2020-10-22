@@ -9,7 +9,6 @@
     "geom:bbox":"120.509386,23.489402,120.509386,23.489402",
     "geom:latitude":23.489402,
     "geom:longitude":120.509386,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.504386,23.484402,120.514386,23.494402",
     "lbl:latitude":23.489402,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85924733,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423024,
+    "wof:lastmodified":1603256913,
     "wof:name":"Lucuo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

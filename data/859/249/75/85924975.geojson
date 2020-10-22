@@ -9,7 +9,6 @@
     "geom:bbox":"120.676575,24.133532,120.680695,24.139235",
     "geom:latitude":24.13645,
     "geom:longitude":120.678558,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.137285,
     "lbl:longitude":120.678267,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924975,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423029,
+    "wof:lastmodified":1603256915,
     "wof:name":"Minsheng",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

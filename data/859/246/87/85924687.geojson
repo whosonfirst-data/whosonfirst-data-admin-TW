@@ -9,7 +9,6 @@
     "geom:bbox":"120.449225,23.476057,120.449225,23.476057",
     "geom:latitude":23.476057,
     "geom:longitude":120.449225,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.444225,23.471057,120.454225,23.481057",
     "lbl:latitude":23.476057,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924687,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422995,
+    "wof:lastmodified":1603256910,
     "wof:name":"Fulu",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

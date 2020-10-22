@@ -9,7 +9,6 @@
     "geom:bbox":"120.181556,22.988049,120.19043,22.999541",
     "geom:latitude":22.99433,
     "geom:longitude":120.185282,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.993347,
     "lbl:longitude":120.185993,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922133,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423010,
+    "wof:lastmodified":1603256899,
     "wof:name":"Jianping",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

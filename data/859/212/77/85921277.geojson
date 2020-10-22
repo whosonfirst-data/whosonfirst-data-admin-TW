@@ -9,7 +9,6 @@
     "geom:bbox":"120.358958,22.515243,120.406423,22.55822",
     "geom:latitude":22.534328,
     "geom:longitude":120.380712,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.54126,
     "lbl:longitude":120.374773,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921277,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423048,
+    "wof:lastmodified":1603256911,
     "wof:name":"Shanming",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

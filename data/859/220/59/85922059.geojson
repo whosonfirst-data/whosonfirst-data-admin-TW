@@ -9,7 +9,6 @@
     "geom:bbox":"120.195923,22.997587,120.206909,23.006436",
     "geom:latitude":23.00233,
     "geom:longitude":120.201509,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.000663,
     "lbl:longitude":120.202312,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922059,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422976,
+    "wof:lastmodified":1603256897,
     "wof:name":"Anmin",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

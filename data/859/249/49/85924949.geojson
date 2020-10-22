@@ -9,7 +9,6 @@
     "geom:bbox":"120.651855,24.138608,120.66606,24.14926",
     "geom:latitude":24.143831,
     "geom:longitude":120.658277,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.141433,
     "lbl:longitude":120.662001,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924949,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423049,
+    "wof:lastmodified":1603256915,
     "wof:name":"Shengping",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

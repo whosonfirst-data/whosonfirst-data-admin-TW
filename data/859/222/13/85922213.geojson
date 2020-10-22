@@ -9,7 +9,6 @@
     "geom:bbox":"120.146484,23.003908,120.174753,23.031715",
     "geom:latitude":23.016353,
     "geom:longitude":120.158624,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.006593,
     "lbl:longitude":120.158305,
@@ -65,9 +64,9 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026773,
         1108756869,
         1108808553,
+        102026773,
         85679553
     ],
     "wof:breaches":[],
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85922213,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423001,
+    "wof:lastmodified":1603256917,
     "wof:name":"Hainan",
     "wof:parent_id":102026773,
     "wof:placetype":"neighbourhood",

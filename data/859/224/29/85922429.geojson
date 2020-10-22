@@ -9,7 +9,6 @@
     "geom:bbox":"120.211927,22.998163,120.219269,23.006436",
     "geom:latitude":23.002069,
     "geom:longitude":120.215527,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.00102,
     "lbl:longitude":120.215997,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922429,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423079,
+    "wof:lastmodified":1603256912,
     "wof:name":"Zhonglou",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"121.543121,25.052013,121.551361,25.060721",
     "geom:latitude":25.056222,
     "geom:longitude":121.547744,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.056134,
     "lbl:longitude":121.54783,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923749,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423053,
+    "wof:lastmodified":1603256922,
     "wof:name":"Songji",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.200043,22.988738,120.204854,22.995059",
     "geom:latitude":22.992033,
     "geom:longitude":120.202258,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.992847,
     "lbl:longitude":120.202919,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922387,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423074,
+    "wof:lastmodified":1603256912,
     "wof:name":"Yongfu",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

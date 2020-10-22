@@ -9,7 +9,6 @@
     "geom:bbox":"121.519775,25.105497,121.528015,25.111162",
     "geom:latitude":25.108421,
     "geom:longitude":121.523354,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.107243,
     "lbl:longitude":121.52395,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922691,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423020,
+    "wof:lastmodified":1603256900,
     "wof:name":"Lanxing",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

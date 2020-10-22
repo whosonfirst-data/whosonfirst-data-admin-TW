@@ -9,7 +9,6 @@
     "geom:bbox":"120.545725,24.084111,120.613403,24.15698",
     "geom:latitude":24.118223,
     "geom:longitude":120.578228,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.130816,
     "lbl:longitude":120.595776,
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85925083,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422985,
+    "wof:lastmodified":1603256905,
     "wof:name":"Chunshe",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

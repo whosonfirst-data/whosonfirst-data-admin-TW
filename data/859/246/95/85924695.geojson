@@ -9,7 +9,6 @@
     "geom:bbox":"120.455475,23.479622,120.455475,23.479622",
     "geom:latitude":23.479622,
     "geom:longitude":120.455475,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.450475,23.474622,120.460475,23.484622",
     "lbl:latitude":23.479622,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924695,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422990,
+    "wof:lastmodified":1603256910,
     "wof:name":"Dongren",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

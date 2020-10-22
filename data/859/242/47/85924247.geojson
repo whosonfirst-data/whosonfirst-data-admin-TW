@@ -9,7 +9,6 @@
     "geom:bbox":"121.762774,25.158313,121.762774,25.158313",
     "geom:latitude":25.158313,
     "geom:longitude":121.762774,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.757774,25.153313,121.767774,25.163313",
     "lbl:latitude":25.158313,
@@ -89,10 +88,7 @@
         }
     ],
     "wof:id":85924247,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423040,
+    "wof:lastmodified":1603256899,
     "wof:name":"Pingliao",
     "wof:parent_id":102026771,
     "wof:placetype":"neighbourhood",

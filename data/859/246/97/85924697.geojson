@@ -9,7 +9,6 @@
     "geom:bbox":"120.475374,23.476127,120.475374,23.476127",
     "geom:latitude":23.476127,
     "geom:longitude":120.475374,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.470374,23.471127,120.480374,23.481127",
     "lbl:latitude":23.476127,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924697,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422982,
+    "wof:lastmodified":1603256910,
     "wof:name":"Changzhu",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.971832,24.814266,120.977325,24.820393",
     "geom:latitude":24.817674,
     "geom:longitude":120.974439,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.817391,
     "lbl:longitude":120.97402,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026725,
         1108808557,
+        102026725,
         85679557
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924363,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423012,
+    "wof:lastmodified":1603256903,
     "wof:name":"Jinhua",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",

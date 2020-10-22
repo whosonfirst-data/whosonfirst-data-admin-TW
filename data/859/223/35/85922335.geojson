@@ -9,7 +9,6 @@
     "geom:bbox":"120.204163,22.958393,120.232263,22.973825",
     "geom:latitude":22.967359,
     "geom:longitude":120.216161,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.970009,
     "lbl:longitude":120.223408,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922335,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422984,
+    "wof:lastmodified":1603256912,
     "wof:name":"Chongming",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

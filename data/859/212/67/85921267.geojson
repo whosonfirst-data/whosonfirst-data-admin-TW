@@ -9,7 +9,6 @@
     "geom:bbox":"120.308533,22.639363,120.325648,22.657106",
     "geom:latitude":22.648099,
     "geom:longitude":120.318281,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.644703,
     "lbl:longitude":120.319879,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921267,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423061,
+    "wof:lastmodified":1603256910,
     "wof:name":"Wanfu",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.986938,24.765405,121.006165,24.789918",
     "geom:latitude":24.777473,
     "geom:longitude":120.997266,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.783671,
     "lbl:longitude":120.999411,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026725,
         1108808557,
+        102026725,
         85679557
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924493,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423016,
+    "wof:lastmodified":1603256903,
     "wof:name":"Keyuan",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",

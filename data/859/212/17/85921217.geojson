@@ -9,7 +9,6 @@
     "geom:bbox":"120.321312,22.664021,120.336812,22.682909",
     "geom:latitude":22.673472,
     "geom:longitude":120.328174,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.669033,
     "lbl:longitude":120.327535,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921217,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422989,
+    "wof:lastmodified":1603256910,
     "wof:name":"Dingqiang",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"121.5802,25.055745,121.582947,25.058233",
     "geom:latitude":25.056989,
     "geom:longitude":121.581573,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.05699,
     "lbl:longitude":121.581573,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923431,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423081,
+    "wof:lastmodified":1603256908,
     "wof:name":"Zhoumei",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

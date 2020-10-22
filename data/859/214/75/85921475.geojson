@@ -9,7 +9,6 @@
     "geom:bbox":"120.32056,22.573438,120.339549,22.588654",
     "geom:latitude":22.580233,
     "geom:longitude":120.331092,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.580973,
     "lbl:longitude":120.330787,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921475,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423029,
+    "wof:lastmodified":1603256917,
     "wof:name":"Mingzheng",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

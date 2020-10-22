@@ -9,7 +9,6 @@
     "geom:bbox":"120.416761,23.458354,120.416761,23.458354",
     "geom:latitude":23.458354,
     "geom:longitude":120.416761,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.411761,23.453354,120.421761,23.463354",
     "lbl:latitude":23.458354,
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85924671,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423022,
+    "wof:lastmodified":1603256910,
     "wof:name":"Liucuo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

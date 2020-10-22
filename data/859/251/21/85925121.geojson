@@ -9,7 +9,6 @@
     "geom:bbox":"120.615206,24.179331,120.640869,24.204384",
     "geom:latitude":24.193132,
     "geom:longitude":120.628274,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.186101,
     "lbl:longitude":120.620364,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026719,
         1108808551,
+        102026719,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925121,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422996,
+    "wof:lastmodified":1603256906,
     "wof:name":"Fuya",
     "wof:parent_id":102026719,
     "wof:placetype":"neighbourhood",

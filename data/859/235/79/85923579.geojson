@@ -9,7 +9,6 @@
     "geom:bbox":"121.495056,25.140312,121.500549,25.145285",
     "geom:latitude":25.142384,
     "geom:longitude":121.497345,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.142203,
     "lbl:longitude":121.49819,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923579,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423079,
+    "wof:lastmodified":1603256905,
     "wof:name":"Zhonghe",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

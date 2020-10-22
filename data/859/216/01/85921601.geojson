@@ -9,7 +9,6 @@
     "geom:bbox":"120.315081,22.622885,120.322901,22.624841",
     "geom:latitude":22.623761,
     "geom:longitude":120.320452,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.623563,
     "lbl:longitude":120.32045,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921601,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423022,
+    "wof:lastmodified":1603256894,
     "wof:name":"Linnan",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.156897,22.946929,120.191201,22.968509",
     "geom:latitude":22.956559,
     "geom:longitude":120.170773,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.959307,
     "lbl:longitude":120.168739,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922345,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423019,
+    "wof:lastmodified":1603256912,
     "wof:name":"Kunshen",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"121.59668,25.044757,121.608604,25.058233",
     "geom:latitude":25.051678,
     "geom:longitude":121.603034,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.053053,
     "lbl:longitude":121.603195,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923987,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422990,
+    "wof:lastmodified":1603256921,
     "wof:name":"Dongming",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

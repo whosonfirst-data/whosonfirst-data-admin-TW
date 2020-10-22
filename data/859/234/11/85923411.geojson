@@ -9,7 +9,6 @@
     "geom:bbox":"121.569214,25.070673,121.5802,25.081314",
     "geom:latitude":25.075761,
     "geom:longitude":121.573839,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.076525,
     "lbl:longitude":121.574617,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923411,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422997,
+    "wof:lastmodified":1603256907,
     "wof:name":"Gangqian",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

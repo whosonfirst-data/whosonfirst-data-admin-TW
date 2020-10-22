@@ -9,7 +9,6 @@
     "geom:bbox":"121.516342,25.029272,121.523147,25.035216",
     "geom:latitude":25.032004,
     "geom:longitude":121.519638,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.032662,
     "lbl:longitude":121.519226,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923309,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423070,
+    "wof:lastmodified":1603256907,
     "wof:name":"Xinying",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

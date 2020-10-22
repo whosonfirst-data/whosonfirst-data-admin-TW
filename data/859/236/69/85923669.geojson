@@ -9,7 +9,6 @@
     "geom:bbox":"121.503296,25.125393,121.514282,25.138405",
     "geom:latitude":25.13151,
     "geom:longitude":121.508824,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.135842,
     "lbl:longitude":121.506819,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026681,
         1108808545,
+        102026681,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923669,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423063,
+    "wof:lastmodified":1603256919,
     "wof:name":"Wenquan",
     "wof:parent_id":102026681,
     "wof:placetype":"neighbourhood",

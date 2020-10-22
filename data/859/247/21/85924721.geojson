@@ -9,7 +9,6 @@
     "geom:bbox":"120.477201,23.469546,120.477201,23.469546",
     "geom:latitude":23.469546,
     "geom:longitude":120.477201,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.472201,23.464546,120.482201,23.474546",
     "lbl:latitude":23.469546,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924721,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422991,
+    "wof:lastmodified":1603256913,
     "wof:name":"Duanzhu",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

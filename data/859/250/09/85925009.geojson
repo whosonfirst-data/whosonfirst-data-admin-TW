@@ -9,7 +9,6 @@
     "geom:bbox":"120.684814,24.154272,120.687561,24.159284",
     "geom:latitude":24.156778,
     "geom:longitude":120.686188,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.156011,
     "lbl:longitude":120.686186,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925009,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423010,
+    "wof:lastmodified":1603256904,
     "wof:name":"Jianxing",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

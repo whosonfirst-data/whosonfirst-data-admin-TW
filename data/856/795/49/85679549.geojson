@@ -9,7 +9,6 @@
     "geom:bbox":"120.345062696,21.9046084665,120.910583938,22.8876472031",
     "geom:latitude":22.487904,
     "geom:longitude":120.673317,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "Pingtung County"
@@ -229,7 +228,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588755,
+    "wof:lastmodified":1603256924,
     "wof:name":"Pingtung",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

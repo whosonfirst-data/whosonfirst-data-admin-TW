@@ -9,7 +9,6 @@
     "geom:bbox":"121.504669,25.032106,121.506042,25.03404",
     "geom:latitude":25.032953,
     "geom:longitude":121.50539,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.032728,
     "lbl:longitude":121.505356,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923301,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423047,
+    "wof:lastmodified":1603256907,
     "wof:name":"Sha'an",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

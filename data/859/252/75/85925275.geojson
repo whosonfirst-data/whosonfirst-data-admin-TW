@@ -9,7 +9,6 @@
     "geom:bbox":"120.875315,24.674457,120.93926,24.738498",
     "geom:latitude":24.704022,
     "geom:longitude":120.909246,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.708783,
     "lbl:longitude":120.914349,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026627,
         1108808557,
+        102026627,
         85679575
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925275,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423079,
+    "wof:lastmodified":1603256923,
     "wof:name":"Zhongai",
     "wof:parent_id":102026627,
     "wof:placetype":"neighbourhood",

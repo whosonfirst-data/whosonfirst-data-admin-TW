@@ -9,7 +9,6 @@
     "geom:bbox":"120.336406,22.634375,120.378958,22.668384",
     "geom:latitude":22.649839,
     "geom:longitude":120.359184,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.649881,
     "lbl:longitude":120.350383,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921143,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422980,
+    "wof:lastmodified":1603256895,
     "wof:name":"Benyang",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

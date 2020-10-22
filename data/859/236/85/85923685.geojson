@@ -9,7 +9,6 @@
     "geom:bbox":"121.488437,25.128986,121.500549,25.142798",
     "geom:latitude":25.13633,
     "geom:longitude":121.493709,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.136755,
     "lbl:longitude":121.493987,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923685,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422993,
+    "wof:lastmodified":1603256919,
     "wof:name":"Fengnian",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"121.801733,25.146768,121.801733,25.146768",
     "geom:latitude":25.146768,
     "geom:longitude":121.801733,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.796733,25.141768,121.806733,25.151768",
     "lbl:latitude":25.146768,
@@ -95,10 +94,7 @@
         }
     ],
     "wof:id":85924153,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422978,
+    "wof:lastmodified":1603256909,
     "wof:name":"Badou",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

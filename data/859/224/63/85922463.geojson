@@ -9,7 +9,6 @@
     "geom:bbox":"120.375925,22.532853,120.41741,22.569694",
     "geom:latitude":22.553485,
     "geom:longitude":120.394373,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.55726,
     "lbl:longitude":120.386377,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922463,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423040,
+    "wof:lastmodified":1603256913,
     "wof:name":"Pingding",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

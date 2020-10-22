@@ -9,7 +9,6 @@
     "geom:bbox":"121.665487,25.070024,121.665487,25.070024",
     "geom:latitude":25.070024,
     "geom:longitude":121.665487,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.660487,25.065024,121.670487,25.075024",
     "lbl:latitude":25.070024,
@@ -68,8 +67,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026731,
         1108808549,
+        102026731,
         85679585
     ],
     "wof:breaches":[],
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85924313,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422991,
+    "wof:lastmodified":1603256903,
     "wof:name":"Dunan",
     "wof:parent_id":102026731,
     "wof:placetype":"neighbourhood",

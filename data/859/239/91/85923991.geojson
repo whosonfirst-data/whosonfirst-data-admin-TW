@@ -9,7 +9,6 @@
     "geom:bbox":"121.593933,25.055745,121.603423,25.060721",
     "geom:latitude":25.058914,
     "geom:longitude":121.598391,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.057432,
     "lbl:longitude":121.59777,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923991,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422991,
+    "wof:lastmodified":1603256921,
     "wof:name":"Dongxin",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.216627,22.952247,120.239032,22.963451",
     "geom:latitude":22.95855,
     "geom:longitude":120.226688,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.956772,
     "lbl:longitude":120.224082,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922081,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422991,
+    "wof:lastmodified":1603256897,
     "wof:name":"Dongzhi",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

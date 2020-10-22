@@ -9,7 +9,6 @@
     "geom:bbox":"121.555481,25.040815,121.559913,25.044548",
     "geom:latitude":25.042771,
     "geom:longitude":121.557558,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.042971,
     "lbl:longitude":121.55787,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922897,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423006,
+    "wof:lastmodified":1603256902,
     "wof:name":"Huasheng",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

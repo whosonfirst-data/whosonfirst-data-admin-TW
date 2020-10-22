@@ -9,7 +9,6 @@
     "geom:bbox":"120.891794,24.800772,120.92265,24.822249",
     "geom:latitude":24.811426,
     "geom:longitude":120.904917,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.810654,
     "lbl:longitude":120.912187,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924577,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423007,
+    "wof:lastmodified":1603256898,
     "wof:name":"Hushan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

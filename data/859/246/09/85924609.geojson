@@ -9,7 +9,6 @@
     "geom:bbox":"120.895914,24.811667,120.934753,24.83161",
     "geom:latitude":24.821719,
     "geom:longitude":120.915661,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.822304,
     "lbl:longitude":120.913306,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924609,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422997,
+    "wof:lastmodified":1603256910,
     "wof:name":"Gangnan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

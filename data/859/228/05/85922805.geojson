@@ -9,7 +9,6 @@
     "geom:bbox":"121.533508,25.035839,121.539939,25.041315",
     "geom:latitude":25.038528,
     "geom:longitude":121.535983,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.038494,
     "lbl:longitude":121.536785,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922805,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423029,
+    "wof:lastmodified":1603256902,
     "wof:name":"Minzhao",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

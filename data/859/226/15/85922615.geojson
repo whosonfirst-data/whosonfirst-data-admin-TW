@@ -9,7 +9,6 @@
     "geom:bbox":"121.430125,25.058185,121.481323,25.111852",
     "geom:latitude":25.08532,
     "geom:longitude":121.454274,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.093173,
     "lbl:longitude":121.462397,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026669,
         1108808549,
+        102026669,
         85679585
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922615,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422996,
+    "wof:lastmodified":1603256901,
     "wof:name":"Fuzhou",
     "wof:parent_id":102026669,
     "wof:placetype":"neighbourhood",

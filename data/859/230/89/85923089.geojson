@@ -9,7 +9,6 @@
     "geom:bbox":"121.531822,25.058233,121.537628,25.063727",
     "geom:latitude":25.060926,
     "geom:longitude":121.5351,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.061488,
     "lbl:longitude":121.534268,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923089,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423053,
+    "wof:lastmodified":1603256922,
     "wof:name":"Songjiang",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

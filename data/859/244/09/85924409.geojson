@@ -9,7 +9,6 @@
     "geom:bbox":"120.997925,24.796363,121.021534,24.816654",
     "geom:latitude":24.80633,
     "geom:longitude":121.010141,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.807407,
     "lbl:longitude":121.008383,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026725,
         1108808557,
+        102026725,
         85679557
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924409,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423041,
+    "wof:lastmodified":1603256904,
     "wof:name":"Qianjia",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",

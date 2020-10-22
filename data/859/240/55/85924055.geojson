@@ -9,7 +9,6 @@
     "geom:bbox":"121.500549,25.002239,121.514908,25.022642",
     "geom:latitude":25.012036,
     "geom:longitude":121.508258,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.01318,
     "lbl:longitude":121.50783,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924055,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423044,
+    "wof:lastmodified":1603256914,
     "wof:name":"Rixiang",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

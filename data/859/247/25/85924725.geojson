@@ -9,7 +9,6 @@
     "geom:bbox":"120.467943,23.491971,120.467943,23.491971",
     "geom:latitude":23.491971,
     "geom:longitude":120.467943,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.462943,23.486971,120.472943,23.496971",
     "lbl:latitude":23.491971,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924725,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423067,
+    "wof:lastmodified":1603256914,
     "wof:name":"Xindian",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

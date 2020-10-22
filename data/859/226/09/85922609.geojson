@@ -9,7 +9,6 @@
     "geom:bbox":"121.459942,25.059069,121.511536,25.087108",
     "geom:latitude":25.074065,
     "geom:longitude":121.484345,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.075595,
     "lbl:longitude":121.492797,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026669,
         1108808549,
+        102026669,
         85679585
     ],
     "wof:breaches":[
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85922609,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422994,
+    "wof:lastmodified":1603256900,
     "wof:name":"Fuguang",
     "wof:parent_id":102026669,
     "wof:placetype":"neighbourhood",

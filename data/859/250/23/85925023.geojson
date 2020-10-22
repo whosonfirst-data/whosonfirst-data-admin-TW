@@ -9,7 +9,6 @@
     "geom:bbox":"120.674887,24.148007,120.68254,24.154272",
     "geom:latitude":24.151105,
     "geom:longitude":120.678528,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.151309,
     "lbl:longitude":120.678214,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925023,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422998,
+    "wof:lastmodified":1603256905,
     "wof:name":"Guangda",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

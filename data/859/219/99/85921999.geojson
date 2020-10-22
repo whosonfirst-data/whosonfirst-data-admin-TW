@@ -9,7 +9,6 @@
     "geom:bbox":"120.280709,22.619082,120.283813,22.621961",
     "geom:latitude":22.62066,
     "geom:longitude":120.282111,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.619856,
     "lbl:longitude":120.281759,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921999,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423069,
+    "wof:lastmodified":1603256901,
     "wof:name":"Xinhua",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.926943,24.840201,120.970605,24.883978",
     "geom:latitude":24.863428,
     "geom:longitude":120.949073,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.862615,
     "lbl:longitude":120.944995,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924401,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423013,
+    "wof:lastmodified":1603256904,
     "wof:name":"Jiugang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

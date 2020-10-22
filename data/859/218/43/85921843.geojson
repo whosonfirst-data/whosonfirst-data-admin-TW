@@ -9,7 +9,6 @@
     "geom:bbox":"120.263944,22.66471,120.280985,22.680093",
     "geom:latitude":22.671569,
     "geom:longitude":120.271711,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.668836,
     "lbl:longitude":120.274094,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921843,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423082,
+    "wof:lastmodified":1603256896,
     "wof:name":"Ziqiang",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

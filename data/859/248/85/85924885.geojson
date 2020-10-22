@@ -9,7 +9,6 @@
     "geom:bbox":"120.649109,24.16179,120.657349,24.170813",
     "geom:latitude":24.16552,
     "geom:longitude":120.653461,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.165302,
     "lbl:longitude":120.652997,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026719,
         1108808551,
+        102026719,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924885,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423002,
+    "wof:lastmodified":1603256909,
     "wof:name":"He'an",
     "wof:parent_id":102026719,
     "wof:placetype":"neighbourhood",

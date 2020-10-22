@@ -9,7 +9,6 @@
     "geom:bbox":"120.647049,24.176825,120.653627,24.185847",
     "geom:latitude":24.180793,
     "geom:longitude":120.650422,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.180078,
     "lbl:longitude":120.649166,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026719,
         1108808551,
+        102026719,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924867,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423040,
+    "wof:lastmodified":1603256908,
     "wof:name":"Pengcheng",
     "wof:parent_id":102026719,
     "wof:placetype":"neighbourhood",

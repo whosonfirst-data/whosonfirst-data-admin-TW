@@ -9,7 +9,6 @@
     "geom:bbox":"120.124261534,23.5081778024,120.740671828,23.838454411",
     "geom:latitude":23.687971,
     "geom:longitude":120.388214,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "Yunlin County"
@@ -159,7 +158,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588751,
+    "wof:lastmodified":1603256924,
     "wof:name":"Yunlin",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

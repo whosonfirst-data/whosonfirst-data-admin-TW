@@ -9,7 +9,6 @@
     "geom:bbox":"120.669708252,24.1399706534,120.67399666,24.1455004596",
     "geom:latitude":24.142816,
     "geom:longitude":120.671462,
-    "gn:id":"",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:latitude":24.142196,
@@ -116,10 +115,7 @@
         }
     ],
     "wof:id":85924987,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1582346277,
+    "wof:lastmodified":1603256915,
     "wof:name":"\u5e73\u548c\u91cc",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

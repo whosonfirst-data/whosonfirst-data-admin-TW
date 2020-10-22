@@ -9,7 +9,6 @@
     "geom:bbox":"121.703508,25.168191,121.703508,25.168191",
     "geom:latitude":25.168191,
     "geom:longitude":121.703508,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"121.698508,25.163191,121.708508,25.173191",
     "lbl:latitude":25.168191,
@@ -68,8 +67,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026749,
         1108808557,
+        102026749,
         85679571
     ],
     "wof:breaches":[],
@@ -94,10 +93,7 @@
         }
     ],
     "wof:id":85924309,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423035,
+    "wof:lastmodified":1603256903,
     "wof:name":"Neiliao",
     "wof:parent_id":102026749,
     "wof:placetype":"neighbourhood",

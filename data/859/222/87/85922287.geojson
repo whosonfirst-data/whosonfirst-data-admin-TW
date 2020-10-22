@@ -9,7 +9,6 @@
     "geom:bbox":"120.19043,22.996323,120.196609,23.003908",
     "geom:latitude":23.000083,
     "geom:longitude":120.193421,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.998732,
     "lbl:longitude":120.192506,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922287,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423066,
+    "wof:lastmodified":1603256916,
     "wof:name":"Xiehe",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

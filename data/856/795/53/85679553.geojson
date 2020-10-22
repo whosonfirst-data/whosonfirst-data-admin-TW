@@ -9,7 +9,6 @@
     "geom:bbox":"120.028249545,22.8961221379,120.653442011,23.41391999",
     "geom:latitude":23.154085,
     "geom:longitude":120.33278,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "Tainan City Special Municipality"
@@ -357,7 +356,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588754,
+    "wof:lastmodified":1603256924,
     "wof:name":"Tainan City",
     "wof:parent_id":1108808553,
     "wof:placetype":"region",

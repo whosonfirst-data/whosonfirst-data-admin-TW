@@ -9,7 +9,6 @@
     "geom:bbox":"121.452558,25.0116,121.495056,25.026574",
     "geom:latitude":25.018595,
     "geom:longitude":121.476415,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.019536,
     "lbl:longitude":121.477067,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026665,
         1108808549,
+        102026665,
         85679585
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924135,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423028,
+    "wof:lastmodified":1603256909,
     "wof:name":"Mingde",
     "wof:parent_id":102026665,
     "wof:placetype":"neighbourhood",

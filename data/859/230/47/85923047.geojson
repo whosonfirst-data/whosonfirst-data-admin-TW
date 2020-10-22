@@ -9,7 +9,6 @@
     "geom:bbox":"121.518936,25.050769,121.522522,25.054501",
     "geom:latitude":25.052832,
     "geom:longitude":121.520751,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.052964,
     "lbl:longitude":121.52082,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923047,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423027,
+    "wof:lastmodified":1603256923,
     "wof:name":"Min'an",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"119.306488477,23.1917992213,119.67066491,23.7583275417",
     "geom:latitude":23.531716,
     "geom:longitude":119.550937,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "Penghu County"
@@ -315,7 +314,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588751,
+    "wof:lastmodified":1603256923,
     "wof:name":"Penghu",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

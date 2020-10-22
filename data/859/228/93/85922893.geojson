@@ -9,7 +9,6 @@
     "geom:bbox":"121.550947,25.03335,121.555794,25.039099",
     "geom:latitude":25.036456,
     "geom:longitude":121.553582,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.036509,
     "lbl:longitude":121.553319,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922893,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422991,
+    "wof:lastmodified":1603256902,
     "wof:name":"Dunhuang",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

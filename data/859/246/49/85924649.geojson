@@ -9,7 +9,6 @@
     "geom:bbox":"120.445862,23.506071,120.445862,23.506071",
     "geom:latitude":23.506071,
     "geom:longitude":120.445862,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.440862,23.501071,120.450862,23.511071",
     "lbl:latitude":23.506071,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924649,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423065,
+    "wof:lastmodified":1603256910,
     "wof:name":"Xianghu",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.223389,22.960922,120.239032,22.970803",
     "geom:latitude":22.965439,
     "geom:longitude":120.229976,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.964643,
     "lbl:longitude":120.225893,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922255,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422984,
+    "wof:lastmodified":1603256916,
     "wof:name":"Chongcheng",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

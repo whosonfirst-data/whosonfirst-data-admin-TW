@@ -9,7 +9,6 @@
     "geom:bbox":"120.690308,24.164296,120.706787,24.181836",
     "geom:latitude":24.172156,
     "geom:longitude":120.69863,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.171974,
     "lbl:longitude":120.695135,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924815,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422990,
+    "wof:lastmodified":1603256909,
     "wof:name":"Dongguang",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

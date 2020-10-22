@@ -9,7 +9,6 @@
     "geom:bbox":"120.949206,24.771772,120.972217,24.788713",
     "geom:latitude":24.780571,
     "geom:longitude":120.96202,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.77842,
     "lbl:longitude":120.966795,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026725,
         1108808557,
+        102026725,
         85679557
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924529,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423006,
+    "wof:lastmodified":1603256898,
     "wof:name":"Hubin",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",

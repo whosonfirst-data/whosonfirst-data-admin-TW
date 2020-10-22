@@ -9,7 +9,6 @@
     "geom:bbox":"120.643616,24.139235,120.652799,24.147443",
     "geom:latitude":24.142996,
     "geom:longitude":120.648167,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.145043,
     "lbl:longitude":120.646763,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925261,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423063,
+    "wof:lastmodified":1603256923,
     "wof:name":"Wenxin",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

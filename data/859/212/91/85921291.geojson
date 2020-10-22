@@ -9,7 +9,6 @@
     "geom:bbox":"120.350093,22.578814,120.38269,22.605199",
     "geom:latitude":22.592673,
     "geom:longitude":120.367559,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.591119,
     "lbl:longitude":120.359866,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921291,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423003,
+    "wof:lastmodified":1603256911,
     "wof:name":"Hezuo",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

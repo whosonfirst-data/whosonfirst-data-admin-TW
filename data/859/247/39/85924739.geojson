@@ -9,7 +9,6 @@
     "geom:bbox":"120.462799,23.454568,120.462799,23.454568",
     "geom:latitude":23.454568,
     "geom:longitude":120.462799,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.457799,23.449568,120.467799,23.459568",
     "lbl:latitude":23.454568,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924739,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423068,
+    "wof:lastmodified":1603256913,
     "wof:name":"Xingren",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.118068,23.05653,120.142462,23.087205",
     "geom:latitude":23.072541,
     "geom:longitude":120.130302,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.068191,
     "lbl:longitude":120.127257,
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922311,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422982,
+    "wof:lastmodified":1603256912,
     "wof:name":"Chengdong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

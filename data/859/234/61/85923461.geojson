@@ -9,7 +9,6 @@
     "geom:bbox":"121.529001,24.918785,121.581138,24.978589",
     "geom:latitude":24.943164,
     "geom:longitude":121.555395,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.958889,
     "lbl:longitude":121.562,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923461,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423020,
+    "wof:lastmodified":1603256907,
     "wof:name":"Laoquan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

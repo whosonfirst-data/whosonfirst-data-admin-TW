@@ -9,7 +9,6 @@
     "geom:bbox":"121.551361,25.055745,121.558228,25.061411",
     "geom:latitude":25.05806,
     "geom:longitude":121.554687,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.058275,
     "lbl:longitude":121.554517,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923737,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422990,
+    "wof:lastmodified":1603256922,
     "wof:name":"Dongchang",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"121.551361,25.022773,121.558696,25.029617",
     "geom:latitude":25.025862,
     "geom:longitude":121.555082,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.026158,
     "lbl:longitude":121.554547,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922853,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422992,
+    "wof:lastmodified":1603256902,
     "wof:name":"Fazhi",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

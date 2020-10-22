@@ -9,7 +9,6 @@
     "geom:bbox":"120.629883,24.176825,120.641068,24.191858",
     "geom:latitude":24.184366,
     "geom:longitude":120.635451,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.185212,
     "lbl:longitude":120.632004,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026719,
         1108808551,
+        102026719,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924847,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423066,
+    "wof:lastmodified":1603256909,
     "wof:name":"Xidun",
     "wof:parent_id":102026719,
     "wof:placetype":"neighbourhood",

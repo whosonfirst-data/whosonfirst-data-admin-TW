@@ -9,7 +9,6 @@
     "geom:bbox":"120.940728,24.734337,120.970459,24.764954",
     "geom:latitude":24.750244,
     "geom:longitude":120.955897,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.757908,
     "lbl:longitude":120.952397,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924585,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423009,
+    "wof:lastmodified":1603256898,
     "wof:name":"Jiadong",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

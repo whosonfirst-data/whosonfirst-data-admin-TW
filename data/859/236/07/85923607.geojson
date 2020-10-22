@@ -9,7 +9,6 @@
     "geom:bbox":"121.490058,25.105497,121.504595,25.116689",
     "geom:latitude":25.109949,
     "geom:longitude":121.497289,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.111082,
     "lbl:longitude":121.497624,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923607,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423023,
+    "wof:lastmodified":1603256919,
     "wof:name":"Lixian",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

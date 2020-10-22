@@ -9,7 +9,6 @@
     "geom:bbox":"120.195923,23.008964,120.198669,23.011492",
     "geom:latitude":23.010228,
     "geom:longitude":120.197296,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":23.010229,
     "lbl:longitude":120.197296,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922401,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423063,
+    "wof:lastmodified":1603256913,
     "wof:name":"Wencheng",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.475420879,24.0107569446,121.456700474,24.455982335",
     "geom:latitude":24.24481,
     "geom:longitude":120.892885,
-    "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
         "Taichung City Special Municipality"
@@ -356,7 +355,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1566588751,
+    "wof:lastmodified":1603256923,
     "wof:name":"Taichung City",
     "wof:parent_id":1108808551,
     "wof:placetype":"region",

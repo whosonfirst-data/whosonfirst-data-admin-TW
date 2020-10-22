@@ -9,7 +9,6 @@
     "geom:bbox":"120.761719,24.176572,120.840383,24.244442",
     "geom:latitude":24.209016,
     "geom:longitude":120.803636,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.205406,
     "lbl:longitude":120.804013,
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924751,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423027,
+    "wof:lastmodified":1603256913,
     "wof:name":"Min de",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

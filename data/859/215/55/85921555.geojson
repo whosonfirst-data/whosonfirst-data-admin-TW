@@ -9,7 +9,6 @@
     "geom:bbox":"120.283813,22.59119,120.30304,22.60894",
     "geom:latitude":22.601016,
     "geom:longitude":120.294792,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.602352,
     "lbl:longitude":120.29644,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85921555,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423077,
+    "wof:lastmodified":1603256911,
     "wof:name":"Zhenbei",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

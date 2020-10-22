@@ -9,7 +9,6 @@
     "geom:bbox":"120.992432,24.75129,121.019897,24.784241",
     "geom:latitude":24.769248,
     "geom:longitude":121.006869,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.778528,
     "lbl:longitude":121.012912,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026725,
         1108808557,
+        102026725,
         85679557
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924433,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423065,
+    "wof:lastmodified":1603256903,
     "wof:name":"Xianshui",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",

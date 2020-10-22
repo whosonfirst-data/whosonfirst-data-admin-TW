@@ -9,7 +9,6 @@
     "geom:bbox":"120.193176,22.974263,120.198669,22.983681",
     "geom:latitude":22.9796,
     "geom:longitude":120.195908,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.981813,
     "lbl:longitude":120.196941,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922087,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422985,
+    "wof:lastmodified":1603256897,
     "wof:name":"Dacheng",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

@@ -9,7 +9,6 @@
     "geom:bbox":"120.615007,24.166977,120.625648,24.178078",
     "geom:latitude":24.172319,
     "geom:longitude":120.620581,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":24.170841,
     "lbl:longitude":120.619778,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026719,
         1108808551,
+        102026719,
         85679617
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85925117,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422994,
+    "wof:lastmodified":1603256906,
     "wof:name":"Fuhe",
     "wof:parent_id":102026719,
     "wof:placetype":"neighbourhood",

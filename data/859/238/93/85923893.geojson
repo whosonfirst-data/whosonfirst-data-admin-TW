@@ -9,7 +9,6 @@
     "geom:bbox":"121.574238,25.030861,121.580825,25.038327",
     "geom:latitude":25.034827,
     "geom:longitude":121.577838,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.034936,
     "lbl:longitude":121.577725,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923893,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423000,
+    "wof:lastmodified":1603256920,
     "wof:name":"Guoye",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

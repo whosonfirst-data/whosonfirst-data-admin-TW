@@ -9,7 +9,6 @@
     "geom:bbox":"120.194232,22.987474,120.200043,22.993795",
     "geom:latitude":22.990725,
     "geom:longitude":120.197636,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.990596,
     "lbl:longitude":120.197063,
@@ -65,8 +64,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -90,10 +89,7 @@
         }
     ],
     "wof:id":85922383,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601422978,
+    "wof:lastmodified":1603256912,
     "wof:name":"Bao'an",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

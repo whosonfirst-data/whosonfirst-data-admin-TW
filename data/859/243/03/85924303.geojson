@@ -9,7 +9,6 @@
     "geom:bbox":"121.430125,25.122216,121.481512,25.165173",
     "geom:latitude":25.142262,
     "geom:longitude":121.456328,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.134079,
     "lbl:longitude":121.468855,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85924303,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423073,
+    "wof:lastmodified":1603256903,
     "wof:name":"Yide",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

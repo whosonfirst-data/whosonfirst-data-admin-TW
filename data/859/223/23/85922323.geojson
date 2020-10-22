@@ -9,7 +9,6 @@
     "geom:bbox":"120.117258,22.961038,120.160217,23.005286",
     "geom:latitude":22.983115,
     "geom:longitude":120.138056,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.993595,
     "lbl:longitude":120.149854,
@@ -65,9 +64,9 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026773,
         1108756869,
         1108808553,
+        102026773,
         85679553
     ],
     "wof:breaches":[],
@@ -92,10 +91,7 @@
         }
     ],
     "wof:id":85922323,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423011,
+    "wof:lastmodified":1603256912,
     "wof:name":"Jincheng",
     "wof:parent_id":102026773,
     "wof:placetype":"neighbourhood",

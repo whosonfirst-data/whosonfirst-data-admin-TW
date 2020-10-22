@@ -9,7 +9,6 @@
     "geom:bbox":"120.428714,23.467796,120.428714,23.467796",
     "geom:latitude":23.467796,
     "geom:longitude":120.428714,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:bbox":"120.423714,23.462796,120.433714,23.472796",
     "lbl:latitude":23.467796,
@@ -67,8 +66,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -93,10 +92,7 @@
         }
     ],
     "wof:id":85924639,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423070,
+    "wof:lastmodified":1603256910,
     "wof:name":"Xiping",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

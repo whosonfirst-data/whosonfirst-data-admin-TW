@@ -9,7 +9,6 @@
     "geom:bbox":"120.280984,22.696387,120.297546,22.711159",
     "geom:latitude":22.703913,
     "geom:longitude":120.2891,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":22.702018,
     "lbl:longitude":120.294382,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922025,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423003,
+    "wof:lastmodified":1603256898,
     "wof:name":"Hequn",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

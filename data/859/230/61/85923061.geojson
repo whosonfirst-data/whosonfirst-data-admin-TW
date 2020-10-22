@@ -9,7 +9,6 @@
     "geom:bbox":"121.540375,25.046414,121.542778,25.048712",
     "geom:latitude":25.047432,
     "geom:longitude":121.54144,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.047176,
     "lbl:longitude":121.542431,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85923061,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423081,
+    "wof:lastmodified":1603256922,
     "wof:name":"Zhulun",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

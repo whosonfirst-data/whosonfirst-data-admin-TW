@@ -9,7 +9,6 @@
     "geom:bbox":"121.522522,25.084355,121.52864,25.089822",
     "geom:latitude":25.086925,
     "geom:longitude":121.525646,
-    "gn:id":"",
     "iso:country":"TW",
     "lbl:latitude":25.087028,
     "lbl:longitude":121.525165,
@@ -66,8 +65,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -91,10 +90,7 @@
         }
     ],
     "wof:id":85922637,
-    "wof:lang":[
-        "chi"
-    ],
-    "wof:lastmodified":1601423073,
+    "wof:lastmodified":1603256900,
     "wof:name":"Yixin",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",
