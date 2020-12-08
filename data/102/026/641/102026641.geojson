@@ -648,7 +648,9 @@
         85679583
     ],
     "wof:breaches":[],
-    "wof:capital_of":85632403,
+    "wof:capital_of":[
+        85632403
+    ],
     "wof:concordances":{
         "dbp:id":"Taipei",
         "fb:id":"en.taipei",
@@ -675,7 +677,7 @@
         }
     ],
     "wof:id":102026641,
-    "wof:lastmodified":1587428314,
+    "wof:lastmodified":1607390892,
     "wof:megacity":1,
     "wof:name":"Taipei",
     "wof:parent_id":85679583,
