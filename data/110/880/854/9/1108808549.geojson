@@ -278,6 +278,9 @@
         "hasc:id":"TW.NT",
         "wd:id":"Q244898"
     },
+    "wof:coterminous":[
+        1108756871
+    ],
     "wof:country":"TW",
     "wof:created":1486417868,
     "wof:geomhash":"1c8deb7cabd4f56b46c4c9b2bae1c630",
@@ -295,7 +298,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1587428317,
+    "wof:lastmodified":1607981113,
     "wof:name":"New Taipei",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",
