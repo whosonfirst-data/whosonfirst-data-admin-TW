@@ -316,6 +316,9 @@
         "iso:id":"TW-KHH",
         "wd:id":"Q181557"
     },
+    "wof:coterminous":[
+        1108756877
+    ],
     "wof:country":"TW",
     "wof:created":1486417866,
     "wof:geomhash":"8afceec4eb37df94d6978b108f4646b0",
@@ -333,7 +336,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1587428318,
+    "wof:lastmodified":1607981112,
     "wof:name":"Kaohsiung",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",
