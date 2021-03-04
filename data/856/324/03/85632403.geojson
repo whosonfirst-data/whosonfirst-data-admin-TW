@@ -841,7 +841,6 @@
         "Rep\u00fablica de China"
     ],
     "name:spa_x_variant":[
-        "Rep\u00fablica de China",
         "Rep\u00fablica de China en Taiw\u00e1n",
         "Taiw\u00e1n"
     ],
@@ -1203,7 +1202,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1587428316,
+    "wof:lastmodified":1614896106,
     "wof:name":"Taiwan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
