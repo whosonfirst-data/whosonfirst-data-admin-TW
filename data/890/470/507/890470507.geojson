@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Ershui Township"
     ],
+    "name:fra_x_preferred":[
+        "Ershui"
+    ],
     "name:zho_tw_x_preferred":[
         "\u4e8c\u6c34\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679593,
         102191569,
         85632403,
         1108499097,
-        1108808557,
-        85679593
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890470507,
-    "wof:lastmodified":1601422992,
+    "wof:lastmodified":1627522848,
     "wof:name":"Ershui",
     "wof:parent_id":1108499097,
     "wof:placetype":"county",

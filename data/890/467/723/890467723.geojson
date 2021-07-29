@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Yanping Township"
     ],
+    "name:fra_x_preferred":[
+        "Yanping"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5ef6\u5e73\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679623,
         102191569,
         85632403,
         1108499511,
-        1108808557,
-        85679623
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890467723,
-    "wof:lastmodified":1601423072,
+    "wof:lastmodified":1627522856,
     "wof:name":"Yanping",
     "wof:parent_id":1108499511,
     "wof:placetype":"county",

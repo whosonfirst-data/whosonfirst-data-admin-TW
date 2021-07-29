@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Xianxi Township"
     ],
+    "name:fra_x_preferred":[
+        "Xianxi Township"
+    ],
     "name:zho_tw_x_preferred":[
         "\u7dda\u897f\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679593,
         102191569,
         85632403,
         1108499097,
-        1108808557,
-        85679593
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890469875,
-    "wof:lastmodified":1601423065,
+    "wof:lastmodified":1627522855,
     "wof:name":"Xianxi",
     "wof:parent_id":1108499097,
     "wof:placetype":"county",

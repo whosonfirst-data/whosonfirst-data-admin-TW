@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Taixi Township"
     ],
+    "name:fra_x_preferred":[
+        "Taixi"
+    ],
     "name:zho_tw_x_preferred":[
         "\u53f0\u897f\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679619,
         102191569,
         85632403,
         1108498757,
-        1108808557,
-        85679619
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890470541,
-    "wof:lastmodified":1601423055,
+    "wof:lastmodified":1627522854,
     "wof:name":"Taixi",
     "wof:parent_id":1108498757,
     "wof:placetype":"county",

@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Yuanshan Township"
     ],
+    "name:fra_x_preferred":[
+        "Yuanshan"
+    ],
     "name:zho_tw_x_preferred":[
         "\u54e1\u5c71\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679567,
         102191569,
         85632403,
         1108499379,
-        1108808557,
-        85679567
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890469941,
-    "wof:lastmodified":1601423075,
+    "wof:lastmodified":1627522856,
     "wof:name":"Yuanshan",
     "wof:parent_id":1108499379,
     "wof:placetype":"county",

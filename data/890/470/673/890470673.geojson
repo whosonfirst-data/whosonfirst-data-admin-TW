@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Qimei Township"
     ],
+    "name:fra_x_preferred":[
+        "Qimei"
+    ],
     "name:zho_tw_x_preferred":[
         "\u4e03\u7f8e\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679627,
         102191569,
         85632403,
         1108500085,
-        1108808557,
-        85679627
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890470673,
-    "wof:lastmodified":1601423041,
+    "wof:lastmodified":1627522853,
     "wof:name":"Qimei",
     "wof:parent_id":1108500085,
     "wof:placetype":"county",

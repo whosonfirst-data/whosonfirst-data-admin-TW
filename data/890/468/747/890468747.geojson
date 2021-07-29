@@ -24,6 +24,9 @@
     "name:deu_x_preferred":[
         "Nantou"
     ],
+    "name:fra_x_preferred":[
+        "Nantou"
+    ],
     "name:kor_x_preferred":[
         "\ub09c\ud130\uc6b0 \ud604"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890468747,
-    "wof:lastmodified":1566589824,
+    "wof:lastmodified":1627522851,
     "wof:name":"Nantou",
     "wof:parent_id":1108498475,
     "wof:placetype":"county",

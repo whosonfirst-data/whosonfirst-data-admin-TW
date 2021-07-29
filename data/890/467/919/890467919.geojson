@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Gongguan Township"
     ],
+    "name:fra_x_preferred":[
+        "Gongguan"
+    ],
     "name:zho_tw_x_preferred":[
         "\u516c\u9928\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679575,
         102191569,
         85632403,
         1108756879,
-        1108808557,
-        85679575
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890467919,
-    "wof:lastmodified":1601422998,
+    "wof:lastmodified":1627522848,
     "wof:name":"Gongguan",
     "wof:parent_id":1108756879,
     "wof:placetype":"county",

@@ -37,6 +37,9 @@
         "Yunlin",
         "Yunlin Hsien"
     ],
+    "name:fra_x_preferred":[
+        "Yunlin"
+    ],
     "name:zho_x_preferred":[
         "\u96f2\u6797\u7e23"
     ],
@@ -162,7 +165,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1607981121,
+    "wof:lastmodified":1627522856,
     "wof:name":"Yunlin",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

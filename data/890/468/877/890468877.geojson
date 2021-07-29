@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Emei Township"
     ],
+    "name:fra_x_preferred":[
+        "Emei"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5ce8\u7709\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679563,
         102191569,
         85632403,
         1108756867,
-        1108808557,
-        85679563
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890468877,
-    "wof:lastmodified":1601422992,
+    "wof:lastmodified":1627522848,
     "wof:name":"Emei",
     "wof:parent_id":1108756867,
     "wof:placetype":"county",

@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Beinan Township"
     ],
+    "name:fra_x_preferred":[
+        "Beinan"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5351\u5357\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679623,
         102191569,
         85632403,
         1108499511,
-        1108808557,
-        85679623
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890467935,
-    "wof:lastmodified":1601422980,
+    "wof:lastmodified":1627522847,
     "wof:name":"Beinan",
     "wof:parent_id":1108499511,
     "wof:placetype":"county",

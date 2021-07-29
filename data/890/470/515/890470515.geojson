@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Xizhou Township"
     ],
+    "name:fra_x_preferred":[
+        "Xizhou Township"
+    ],
     "name:zho_tw_x_preferred":[
         "\u6eaa\u5dde\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679619,
         102191569,
         85632403,
         1108498757,
-        1108808557,
-        85679619
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890470515,
-    "wof:lastmodified":1601423071,
+    "wof:lastmodified":1627522855,
     "wof:name":"Xizhou",
     "wof:parent_id":1108498757,
     "wof:placetype":"county",

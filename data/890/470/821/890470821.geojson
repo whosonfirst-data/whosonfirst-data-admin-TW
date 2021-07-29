@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Haiduan Township"
     ],
+    "name:fra_x_preferred":[
+        "Haiduan"
+    ],
     "name:zho_tw_x_preferred":[
         "\u6d77\u7aef\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679623,
         102191569,
         85632403,
         1108499511,
-        1108808557,
-        85679623
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890470821,
-    "wof:lastmodified":1601423001,
+    "wof:lastmodified":1627522849,
     "wof:name":"Haiduan",
     "wof:parent_id":1108499511,
     "wof:placetype":"county",

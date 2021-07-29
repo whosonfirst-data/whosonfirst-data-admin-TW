@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Kanding Township"
     ],
+    "name:fra_x_preferred":[
+        "Kanding"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5d01\u9802\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679549,
         102191569,
         85632403,
         1108499273,
-        1108808557,
-        85679549
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890469677,
-    "wof:lastmodified":1601423015,
+    "wof:lastmodified":1627522849,
     "wof:name":"Kanding",
     "wof:parent_id":1108499273,
     "wof:placetype":"county",

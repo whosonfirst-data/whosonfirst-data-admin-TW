@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Wanhua District"
     ],
+    "name:fra_x_preferred":[
+        "Wanhua"
+    ],
     "name:zho_tw_x_preferred":[
         "\u842c\u83ef\u5340"
     ],
@@ -38,11 +41,11 @@
     "qs:pop_sr":"0",
     "wd:wordcount":119,
     "wof:belongsto":[
+        85679585,
         102191569,
         85632403,
         1108756871,
-        1108808549,
-        85679585
+        1108808549
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890471625,
-    "wof:lastmodified":1601423062,
+    "wof:lastmodified":1627522855,
     "wof:name":"Wanhua",
     "wof:parent_id":1108756871,
     "wof:placetype":"county",

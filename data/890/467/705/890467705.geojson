@@ -21,6 +21,9 @@
     "name:ceb_x_preferred":[
         "Hualien"
     ],
+    "name:fra_x_preferred":[
+        "Hualien"
+    ],
     "name:kor_x_preferred":[
         "\ud654\ub844 \ud604"
     ],
@@ -69,7 +72,7 @@
         }
     ],
     "wof:id":890467705,
-    "wof:lastmodified":1566589762,
+    "wof:lastmodified":1627522849,
     "wof:name":"Hualien",
     "wof:parent_id":1108498083,
     "wof:placetype":"county",

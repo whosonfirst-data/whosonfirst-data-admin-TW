@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Nan'ao Township"
     ],
+    "name:fra_x_preferred":[
+        "Nan'ao"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5357\u6fb3\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679567,
         102191569,
         85632403,
         1108499379,
-        1108808557,
-        85679567
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890470627,
-    "wof:lastmodified":1601423033,
+    "wof:lastmodified":1627522851,
     "wof:name":"Nan'ao",
     "wof:parent_id":1108499379,
     "wof:placetype":"county",

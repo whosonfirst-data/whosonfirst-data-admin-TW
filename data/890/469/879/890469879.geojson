@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Ligang Township"
     ],
+    "name:fra_x_preferred":[
+        "Ligang"
+    ],
     "name:zho_tw_x_preferred":[
         "\u91cc\u6e2f\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679549,
         102191569,
         85632403,
         1108499273,
-        1108808557,
-        85679549
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890469879,
-    "wof:lastmodified":1601423021,
+    "wof:lastmodified":1627522850,
     "wof:name":"Ligang",
     "wof:parent_id":1108499273,
     "wof:placetype":"county",

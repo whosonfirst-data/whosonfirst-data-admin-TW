@@ -23,6 +23,9 @@
     "name:eng_x_variant":[
         "Donghe Township"
     ],
+    "name:fra_x_preferred":[
+        "Donghe"
+    ],
     "name:zho_tw_x_preferred":[
         "\u6771\u6cb3\u9109"
     ],
@@ -38,11 +41,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679623,
         102191569,
         85632403,
         1108499511,
-        1108808557,
-        85679623
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -63,7 +66,7 @@
         }
     ],
     "wof:id":890469123,
-    "wof:lastmodified":1601422990,
+    "wof:lastmodified":1627522848,
     "wof:name":"Donghe",
     "wof:parent_id":1108499511,
     "wof:placetype":"county",

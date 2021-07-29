@@ -23,6 +23,9 @@
     "name:eng_x_variant":[
         "Wang'an Township"
     ],
+    "name:fra_x_preferred":[
+        "Wang-an"
+    ],
     "name:zho_tw_x_preferred":[
         "\u671b\u5b89\u9109"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890470155,
-    "wof:lastmodified":1601423061,
+    "wof:lastmodified":1627522854,
     "wof:name":"Wang'an",
     "wof:parent_id":-1,
     "wof:placetype":"county",

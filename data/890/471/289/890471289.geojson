@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Gaoshu Township"
     ],
+    "name:fra_x_preferred":[
+        "Gaoshu"
+    ],
     "name:zho_tw_x_preferred":[
         "\u9ad8\u6a39\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679547,
         102191569,
         85632403,
         1108756877,
-        1108808547,
-        85679547
+        1108808547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890471289,
-    "wof:lastmodified":1601422997,
+    "wof:lastmodified":1627522848,
     "wof:name":"Gaoshu",
     "wof:parent_id":1108756877,
     "wof:placetype":"county",

@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Wujie xiang"
     ],
+    "name:fra_x_preferred":[
+        "Wujie Township"
+    ],
     "name:zho_tw_x_preferred":[
         "\u4e94\u7d50\u9109"
     ],
@@ -34,11 +37,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679567,
         102191569,
         85632403,
         1108499379,
-        1108808557,
-        85679567
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":890471631,
-    "wof:lastmodified":1601423064,
+    "wof:lastmodified":1627522855,
     "wof:name":"Wujie xiang",
     "wof:parent_id":1108499379,
     "wof:placetype":"county",

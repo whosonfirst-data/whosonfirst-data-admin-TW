@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Datong Township"
     ],
+    "name:fra_x_preferred":[
+        "Datong"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5927\u540c\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679567,
         102191569,
         85632403,
         1108499379,
-        1108808557,
-        85679567
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890467739,
-    "wof:lastmodified":1601422987,
+    "wof:lastmodified":1627522847,
     "wof:name":"Datong",
     "wof:parent_id":1108499379,
     "wof:placetype":"county",

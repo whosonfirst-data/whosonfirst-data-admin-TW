@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Gukeng Township"
     ],
+    "name:fra_x_preferred":[
+        "Gukeng"
+    ],
     "name:zho_tw_x_preferred":[
         "\u53e4\u5751\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679619,
         102191569,
         85632403,
         1108498757,
-        1108808557,
-        85679619
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890471589,
-    "wof:lastmodified":1601423000,
+    "wof:lastmodified":1627522849,
     "wof:name":"Gukeng",
     "wof:parent_id":1108498757,
     "wof:placetype":"county",

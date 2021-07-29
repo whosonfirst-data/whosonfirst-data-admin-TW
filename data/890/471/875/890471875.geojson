@@ -19,6 +19,9 @@
     "name:eng_x_preferred":[
         "Linbian xiang"
     ],
+    "name:fra_x_preferred":[
+        "Linbian"
+    ],
     "name:zho_tw_x_preferred":[
         "\u6797\u908a\u9109"
     ],
@@ -34,11 +37,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679549,
         102191569,
         85632403,
         1108499273,
-        1108808557,
-        85679549
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":890471875,
-    "wof:lastmodified":1601423021,
+    "wof:lastmodified":1627522850,
     "wof:name":"Linbian xiang",
     "wof:parent_id":1108499273,
     "wof:placetype":"county",

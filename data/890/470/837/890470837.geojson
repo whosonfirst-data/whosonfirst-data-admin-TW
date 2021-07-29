@@ -23,6 +23,9 @@
     "name:eng_x_variant":[
         "Baisha Township"
     ],
+    "name:fra_x_preferred":[
+        "Baisha"
+    ],
     "name:zho_tw_x_preferred":[
         "\u767d\u6c99\u9109"
     ],
@@ -55,7 +58,7 @@
         }
     ],
     "wof:id":890470837,
-    "wof:lastmodified":1601422978,
+    "wof:lastmodified":1627522846,
     "wof:name":"Baisha",
     "wof:parent_id":-1,
     "wof:placetype":"county",

@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Jinfeng Township"
     ],
+    "name:fra_x_preferred":[
+        "Jinfeng"
+    ],
     "name:zho_tw_x_preferred":[
         "\u91d1\u5cf0\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679623,
         102191569,
         85632403,
         1108499511,
-        1108808557,
-        85679623
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890467883,
-    "wof:lastmodified":1601423011,
+    "wof:lastmodified":1627522849,
     "wof:name":"Jinfeng",
     "wof:parent_id":1108499511,
     "wof:placetype":"county",

@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Shoufeng Township"
     ],
+    "name:fra_x_preferred":[
+        "Shoufeng"
+    ],
     "name:zho_tw_x_preferred":[
         "\u58fd\u8c50\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679607,
         102191569,
         85632403,
         1108498083,
-        1108808557,
-        85679607
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890468177,
-    "wof:lastmodified":1601423051,
+    "wof:lastmodified":1627522853,
     "wof:name":"Shoufeng",
     "wof:parent_id":1108498083,
     "wof:placetype":"county",

@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Longtan Township"
     ],
+    "name:fra_x_preferred":[
+        "Longtan"
+    ],
     "name:zho_tw_x_preferred":[
         "\u9f8d\u6f6d\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679589,
         102191569,
         85632403,
         1108499669,
-        1108808543,
-        85679589
+        1108808543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890471921,
-    "wof:lastmodified":1601423024,
+    "wof:lastmodified":1627522850,
     "wof:name":"Longtan",
     "wof:parent_id":1108499669,
     "wof:placetype":"county",

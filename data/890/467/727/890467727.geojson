@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Guangfu Township"
     ],
+    "name:fra_x_preferred":[
+        "Guangfu"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5149\u5fa9\u9109"
     ],
@@ -37,11 +40,11 @@
     "qs:placetype":"County",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679607,
         102191569,
         85632403,
         1108498083,
-        1108808557,
-        85679607
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890467727,
-    "wof:lastmodified":1601422998,
+    "wof:lastmodified":1627522849,
     "wof:name":"Guangfu",
     "wof:parent_id":1108498083,
     "wof:placetype":"county",

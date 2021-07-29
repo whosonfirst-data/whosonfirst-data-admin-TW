@@ -36,6 +36,9 @@
         "Lienchiang",
         "Lienkiang"
     ],
+    "name:fra_x_preferred":[
+        "Lienchiang"
+    ],
     "name:zho_x_preferred":[
         "\u9023\u6c5f\u7e23"
     ],
@@ -159,7 +162,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1607981125,
+    "wof:lastmodified":1627522850,
     "wof:name":"Lienchiang",
     "wof:parent_id":1108808555,
     "wof:placetype":"region",

@@ -23,6 +23,9 @@
     "name:eng_x_variant":[
         "Dongshi Township"
     ],
+    "name:fra_x_preferred":[
+        "Dongshi"
+    ],
     "name:zho_tw_x_preferred":[
         "\u6771\u77f3\u9109"
     ],
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":890471291,
-    "wof:lastmodified":1601422991,
+    "wof:lastmodified":1627522848,
     "wof:name":"Dongshi",
     "wof:parent_id":85679599,
     "wof:placetype":"county",
