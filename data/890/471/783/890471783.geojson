@@ -24,6 +24,9 @@
         "Wuyuan Village"
     ],
     "name:zho_tw_x_preferred":[
+        "\u5a7a\u6e90"
+    ],
+    "name:zho_tw_x_variant":[
         "\u6b66\u6df5\u6751"
     ],
     "qs:name":"\u6b66\u6df5\u6751",
@@ -40,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679567
+        85679567,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890471783,
-    "wof:lastmodified":1601423064,
+    "wof:lastmodified":1636500749,
     "wof:name":"Wuyuan",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

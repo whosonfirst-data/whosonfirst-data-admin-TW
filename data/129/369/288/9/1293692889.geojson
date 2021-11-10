@@ -96,6 +96,9 @@
         "Anshan"
     ],
     "name:jpn_x_preferred":[
+        "\u978d\u5c71"
+    ],
+    "name:jpn_x_variant":[
         "\u978d\u5c71\u5e02"
     ],
     "name:kaz_x_preferred":[
@@ -213,7 +216,7 @@
         }
     ],
     "wof:id":1293692889,
-    "wof:lastmodified":1566588855,
+    "wof:lastmodified":1636500726,
     "wof:name":"Anshan",
     "wof:parent_id":85679627,
     "wof:placetype":"locality",

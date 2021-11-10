@@ -23,6 +23,9 @@
     "name:eng_x_variant":[
         "Yichang Village"
     ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d9\u05e6'\u05d0\u05e0\u05d2"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5b9c\u660c\u6751"
     ],
@@ -40,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679607
+        85679607,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890469595,
-    "wof:lastmodified":1601423073,
+    "wof:lastmodified":1636500753,
     "wof:name":"Yichang",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

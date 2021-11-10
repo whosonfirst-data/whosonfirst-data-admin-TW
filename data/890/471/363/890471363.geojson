@@ -22,6 +22,15 @@
     "name:eng_x_variant":[
         "Linjiang Village"
     ],
+    "name:fas_x_preferred":[
+        "\u0644\u06cc\u0646\u062c\u06cc\u0627\u0646\u06af"
+    ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d9\u05e0\u05d2'\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Linjiang"
+    ],
     "name:zho_tw_x_preferred":[
         "\u9130\u6c5f\u91cc"
     ],
@@ -39,8 +48,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":890471363,
-    "wof:lastmodified":1601423022,
+    "wof:lastmodified":1636500749,
     "wof:name":"Linjiang",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

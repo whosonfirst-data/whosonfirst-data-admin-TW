@@ -25,11 +25,23 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":16.0,
     "mz:tier_locality":4,
+    "name:deu_x_preferred":[
+        "Fulin"
+    ],
     "name:eng_x_preferred":[
         "Fulin"
     ],
     "name:eng_x_variant":[
         "Fulin Village"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u0644\u06cc\u0646"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d5\u05dc\u05d9\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Fulin"
     ],
     "name:zho_tw_x_preferred":[
         "\u798f\u6797\u91cc"
@@ -94,7 +106,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1617129885,
+    "wof:lastmodified":1636500719,
     "wof:name":"Fulin",
     "wof:parent_id":102026725,
     "wof:placetype":"neighbourhood",

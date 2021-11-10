@@ -77,6 +77,12 @@
     "name:fra_x_preferred":[
         "Yancheng"
     ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d0\u05e0\u05e6'\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Yancheng"
+    ],
     "name:ina_x_preferred":[
         "Yancheng"
     ],
@@ -159,7 +165,7 @@
         "gn:id":1665565
     },
     "wof:country":"TW",
-    "wof:geomhash":"2a799c32d25ec2730497d90fc6f458da",
+    "wof:geomhash":"f581eff60607240aec1588e96b42d3b0",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -170,7 +176,7 @@
         }
     ],
     "wof:id":1242577927,
-    "wof:lastmodified":1566589900,
+    "wof:lastmodified":1636500761,
     "wof:name":"Yancheng",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",
@@ -181,9 +187,9 @@
 },
   "bbox": [
     120.10806,
-    23.15167000000001,
+    23.15167,
     120.10806,
-    23.15167000000001
+    23.15167
 ],
-  "geometry": {"coordinates":[120.10805999999999,23.15167000000001],"type":"Point"}
+  "geometry": {"coordinates":[120.10805999999999,23.15167],"type":"Point"}
 }

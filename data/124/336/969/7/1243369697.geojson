@@ -65,6 +65,9 @@
     "name:hin_x_preferred":[
         "\u0938\u0941\u0932\u0941 \u092a\u094d\u0930\u093e\u0928\u094d\u0924"
     ],
+    "name:hun_x_preferred":[
+        "Sulu"
+    ],
     "name:ilo_x_preferred":[
         "Sulu"
     ],
@@ -165,7 +168,7 @@
         }
     ],
     "wof:id":1243369697,
-    "wof:lastmodified":1566589861,
+    "wof:lastmodified":1636500760,
     "wof:name":"Sulu",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

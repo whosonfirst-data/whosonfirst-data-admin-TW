@@ -29,6 +29,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0627\u0644\u064a\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09c1\u09df\u09be\u09b2\u09bf\u09df\u09c7\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Hualian"
     ],
@@ -40,6 +46,9 @@
     ],
     "name:deu_x_preferred":[
         "Hualien"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03b1\u03bb\u03b9\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
         "Hualien County"
@@ -61,6 +70,15 @@
     ],
     "name:hak_x_preferred":[
         "F\u00e2-li\u00e8n-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05d0\u05dc\u05d9\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0941\u0906\u0932\u093f\u092f\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Hualien"
     ],
     "name:ind_x_preferred":[
         "Kota Hualien"
@@ -96,6 +114,9 @@
     "name:pol_x_preferred":[
         "Hualian"
     ],
+    "name:por_x_preferred":[
+        "Hualien"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0443\u0430\u043b\u044f\u043d\u044c"
     ],
@@ -108,8 +129,14 @@
     "name:sqi_x_preferred":[
         "Hualien"
     ],
+    "name:swe_x_preferred":[
+        "Hualien"
+    ],
     "name:tur_x_preferred":[
         "Hualien"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0425\u0443\u0430\u043b\u044f\u043d\u044c"
     ],
     "name:vie_x_preferred":[
         "Hoa Li\u00ean"
@@ -249,7 +276,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1607981124,
+    "wof:lastmodified":1636500724,
     "wof:name":"Hualien",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

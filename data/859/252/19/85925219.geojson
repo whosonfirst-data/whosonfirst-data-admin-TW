@@ -31,6 +31,12 @@
     "name:eng_x_variant":[
         "Jinzhou Village"
     ],
+    "name:heb_x_preferred":[
+        "\u05d2'\u05d9\u05e0\u05d6'\u05d5"
+    ],
+    "name:hun_x_preferred":[
+        "Jinzhou"
+    ],
     "name:zho_tw_x_preferred":[
         "\u9326\u6d32\u91cc"
     ],
@@ -94,7 +100,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1617130640,
+    "wof:lastmodified":1636500723,
     "wof:name":"Jinzhou",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

@@ -47,6 +47,12 @@
     "name:fra_x_preferred":[
         "Chaoyang"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d0\u05d5\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Chaoyang"
+    ],
     "name:mlg_x_preferred":[
         "Chaoyang"
     ],
@@ -101,7 +107,7 @@
         }
     ],
     "wof:id":1310338357,
-    "wof:lastmodified":1566589559,
+    "wof:lastmodified":1636500747,
     "wof:name":"Chaoyang",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

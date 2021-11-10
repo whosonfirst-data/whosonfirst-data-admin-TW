@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Anqing Village"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05e7\u05d9\u05e0\u05d2"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5b89\u6176\u91cc"
     ],
@@ -39,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890469449,
-    "wof:lastmodified":1601422976,
+    "wof:lastmodified":1636500754,
     "wof:name":"Anqing",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

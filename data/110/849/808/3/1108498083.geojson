@@ -169,6 +169,9 @@
         "Hualien"
     ],
     "name:ukr_x_preferred":[
+        "\u0425\u0443\u0430\u043b\u044f\u043d\u044c"
+    ],
+    "name:ukr_x_variant":[
         "\u041e\u043a\u0440\u0443\u0433 \u0413\u0443\u0430\u043b\u044f\u043d\u044c"
     ],
     "name:urd_x_preferred":[
@@ -218,7 +221,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1617131193,
+    "wof:lastmodified":1636500744,
     "wof:name":"Hualien",
     "wof:parent_id":85679607,
     "wof:placetype":"macrocounty",

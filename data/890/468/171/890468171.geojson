@@ -17,11 +17,44 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ara_x_preferred":[
+        "\u0632\u0648 \u0628\u0627\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u099d\u09c1\u09ac\u09c7\u0987"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03bf\u03c5\u03bc\u03c0\u03ad\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Zhubei"
     ],
     "name:eng_x_variant":[
         "Zhubei City"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6'\u05d5\u05d1\u05d0\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u0942\u092c\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Zhubei"
+    ],
+    "name:ind_x_preferred":[
+        "Zhubei"
+    ],
+    "name:por_x_preferred":[
+        "Zhubei"
+    ],
+    "name:spa_x_preferred":[
+        "Zhubei"
+    ],
+    "name:swe_x_preferred":[
+        "Zhubei"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u06c1\u0648\u0628\u06d2"
     ],
     "name:zho_tw_x_preferred":[
         "\u7af9\u5317\u5e02"
@@ -40,8 +73,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679563
+        85679563,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +94,7 @@
         }
     ],
     "wof:id":890468171,
-    "wof:lastmodified":1601423081,
+    "wof:lastmodified":1636500760,
     "wof:name":"Zhubei",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

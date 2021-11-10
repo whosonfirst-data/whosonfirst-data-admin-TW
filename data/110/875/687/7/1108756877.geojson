@@ -108,6 +108,9 @@
         "Kaohsiung"
     ],
     "name:jpn_x_preferred":[
+        "\u9ad8\u96c4"
+    ],
+    "name:jpn_x_variant":[
         "\u9ad8\u96c4\u5e02"
     ],
     "name:kir_x_preferred":[
@@ -234,7 +237,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1617131479,
+    "wof:lastmodified":1636500736,
     "wof:name":"Kaohsiung",
     "wof:parent_id":85679547,
     "wof:placetype":"macrocounty",

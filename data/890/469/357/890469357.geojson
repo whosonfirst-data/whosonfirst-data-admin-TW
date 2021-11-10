@@ -23,6 +23,15 @@
     "name:eng_x_variant":[
         "Baoshan Village"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d5\u05e9\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Paosan"
+    ],
+    "name:por_x_preferred":[
+        "Baoshan"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5bf6\u5c71\u6751"
     ],
@@ -40,8 +49,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808547,
-        85679547
+        85679547,
+        1108808547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +70,7 @@
         }
     ],
     "wof:id":890469357,
-    "wof:lastmodified":1601422979,
+    "wof:lastmodified":1636500755,
     "wof:name":"Baoshan",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

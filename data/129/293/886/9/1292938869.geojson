@@ -74,6 +74,9 @@
     "name:hak_x_preferred":[
         "N\u00e0m-ph\u00ecn-s\u1e73"
     ],
+    "name:hun_x_preferred":[
+        "Nanping"
+    ],
     "name:ita_x_preferred":[
         "Nanping"
     ],
@@ -171,7 +174,7 @@
         }
     ],
     "wof:id":1292938869,
-    "wof:lastmodified":1566588801,
+    "wof:lastmodified":1636500726,
     "wof:name":"Nanping",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

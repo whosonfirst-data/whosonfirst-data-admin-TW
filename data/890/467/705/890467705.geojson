@@ -18,10 +18,28 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:ara_x_preferred":[
+        "\u0647\u0648\u0627\u0644\u064a\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b9\u09c1\u09df\u09be\u09b2\u09bf\u09df\u09c7\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Hualien"
     ],
+    "name:ell_x_preferred":[
+        "\u03a7\u03bf\u03c5\u03b1\u03bb\u03b9\u03ad\u03bd"
+    ],
     "name:fra_x_preferred":[
+        "Hualien"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05d5\u05d0\u05dc\u05d9\u05d9\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u0939\u0941\u0906\u0932\u093f\u092f\u0928"
+    ],
+    "name:hun_x_preferred":[
         "Hualien"
     ],
     "name:kor_x_preferred":[
@@ -30,7 +48,16 @@
     "name:nld_x_preferred":[
         "Hualien"
     ],
+    "name:por_x_preferred":[
+        "Hualien"
+    ],
     "name:rus_x_preferred":[
+        "\u0425\u0443\u0430\u043b\u044f\u043d\u044c"
+    ],
+    "name:swe_x_preferred":[
+        "Hualien"
+    ],
+    "name:ukr_x_preferred":[
         "\u0425\u0443\u0430\u043b\u044f\u043d\u044c"
     ],
     "name:und_x_variant":[
@@ -72,7 +99,7 @@
         }
     ],
     "wof:id":890467705,
-    "wof:lastmodified":1627522849,
+    "wof:lastmodified":1636500752,
     "wof:name":"Hualien",
     "wof:parent_id":1108498083,
     "wof:placetype":"county",

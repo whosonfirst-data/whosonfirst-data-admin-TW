@@ -25,11 +25,50 @@
     "mz:max_zoom":18.0,
     "mz:min_zoom":13.0,
     "mz:tier_locality":6,
+    "name:ara_x_preferred":[
+        "\u0632\u064a\u0643\u0633\u064a\u0646\u062c"
+    ],
+    "name:ben_x_preferred":[
+        "\u099c\u09bf\u09b6\u09bf\u0982"
+    ],
+    "name:ell_x_preferred":[
+        "\u0396\u03b9\u03be\u03af\u03bd\u03b3\u03ba"
+    ],
     "name:eng_x_preferred":[
         "Zixing"
     ],
     "name:eng_x_variant":[
         "Zixing Village"
+    ],
+    "name:fas_x_preferred":[
+        "\u0632\u06cc\u06a9\u0633\u06cc\u0646\u06af"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d6\u05d9\u05e7\u05e1\u05d9\u05e0\u05d2"
+    ],
+    "name:hin_x_preferred":[
+        "\u091c\u093c\u093f\u0915\u094d\u0938\u093f\u0902\u0917"
+    ],
+    "name:hun_x_preferred":[
+        "Zixing"
+    ],
+    "name:ind_x_preferred":[
+        "Zixing"
+    ],
+    "name:por_x_preferred":[
+        "Zixing"
+    ],
+    "name:spa_x_preferred":[
+        "Zixing"
+    ],
+    "name:tur_x_preferred":[
+        "Zixing"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0426\u0437\u0438\u0441\u0456\u043d\u044c"
+    ],
+    "name:urd_x_preferred":[
+        "\u0632\u0632\u0646\u06af"
     ],
     "name:zho_tw_x_preferred":[
         "\u7d2b\u661f\u91cc"
@@ -66,8 +105,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -94,7 +133,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1601423082,
+    "wof:lastmodified":1636500720,
     "wof:name":"Zixing",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

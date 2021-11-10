@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Putian Village"
     ],
+    "name:hun_x_preferred":[
+        "Putian"
+    ],
     "name:zho_tw_x_preferred":[
         "\u666e\u5929\u91cc"
     ],
@@ -39,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890467879,
-    "wof:lastmodified":1601423041,
+    "wof:lastmodified":1636500752,
     "wof:name":"Putian",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

@@ -68,6 +68,9 @@
     "name:fra_x_preferred":[
         "Chengde"
     ],
+    "name:hin_x_preferred":[
+        "\u091a\u0947\u0902\u0917\u0926\u0947"
+    ],
     "name:hrv_x_preferred":[
         "Chengde"
     ],
@@ -176,7 +179,7 @@
         }
     ],
     "wof:id":1310507525,
-    "wof:lastmodified":1566589550,
+    "wof:lastmodified":1636500747,
     "wof:name":"Chengde",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

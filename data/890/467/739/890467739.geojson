@@ -25,6 +25,9 @@
     "name:fra_x_preferred":[
         "Datong"
     ],
+    "name:hun_x_preferred":[
+        "Datong"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5927\u540c\u9109"
     ],
@@ -65,7 +68,7 @@
         }
     ],
     "wof:id":890467739,
-    "wof:lastmodified":1627522847,
+    "wof:lastmodified":1636500752,
     "wof:name":"Datong",
     "wof:parent_id":1108499379,
     "wof:placetype":"county",

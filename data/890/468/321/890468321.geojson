@@ -47,6 +47,9 @@
         "Th\u00f2i-t\u00fbng-s\u1e73"
     ],
     "name:hun_x_preferred":[
+        "Taitung"
+    ],
+    "name:hun_x_variant":[
         "Tajtung"
     ],
     "name:ita_x_preferred":[
@@ -73,10 +76,16 @@
     "name:pol_x_preferred":[
         "Taidong"
     ],
+    "name:por_x_preferred":[
+        "Taitung"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0439\u0434\u0443\u043d"
     ],
     "name:spa_x_preferred":[
+        "Taitung"
+    ],
+    "name:swe_x_preferred":[
         "Taitung"
     ],
     "name:tur_x_preferred":[
@@ -84,6 +93,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u0422\u0430\u0439\u0434\u0443\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0679\u0627\u0626\u0679\u0646\u06af"
     ],
     "name:vie_x_preferred":[
         "Th\u00e0nh ph\u1ed1 \u0110\u00e0i \u0110\u00f4ng"
@@ -228,7 +240,7 @@
         }
     ],
     "wof:id":890468321,
-    "wof:lastmodified":1566589844,
+    "wof:lastmodified":1636500760,
     "wof:name":"Taitung",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",

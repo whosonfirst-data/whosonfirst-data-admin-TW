@@ -62,7 +62,13 @@
         "K\u00e2-ngi-s\u1e73"
     ],
     "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05d9\u05d0\u05d9"
+    ],
+    "name:heb_x_variant":[
         "\u05d2'\u05d9\u05d0\u05d9\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Chiayi"
     ],
     "name:ind_x_preferred":[
         "Kota Chiayi"
@@ -253,7 +259,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1607981111,
+    "wof:lastmodified":1636500725,
     "wof:name":"Chiayi",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

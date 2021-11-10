@@ -62,6 +62,9 @@
     "name:eus_x_preferred":[
         "Chiayi konderria"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u06cc\u0627\u06cc\u06cc"
+    ],
     "name:fin_x_preferred":[
         "Chiayin kunta"
     ],
@@ -77,8 +80,14 @@
     "name:hak_x_preferred":[
         "K\u00e2-ngi-yen"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d9\u05d9\u05d0\u05d9"
+    ],
     "name:hin_x_preferred":[
         "\u091a\u093e\u092f\u0947\u0908 \u0915\u093e\u0909\u0902\u091f\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Chiayi"
     ],
     "name:ind_x_preferred":[
         "Kabupaten Chiayi"
@@ -205,7 +214,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1617130088,
+    "wof:lastmodified":1636500735,
     "wof:name":"Chiayi",
     "wof:parent_id":85679599,
     "wof:placetype":"macrocounty",

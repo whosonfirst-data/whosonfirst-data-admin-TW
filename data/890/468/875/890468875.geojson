@@ -24,6 +24,9 @@
         "Mili Village"
     ],
     "name:zho_tw_x_preferred":[
+        "\u5bc6\u91cc"
+    ],
+    "name:zho_tw_x_variant":[
         "\u7030\u529b\u6751"
     ],
     "qs:name":"\u7030\u529b\u6751",
@@ -40,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808547,
-        85679547
+        85679547,
+        1108808547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890468875,
-    "wof:lastmodified":1601423027,
+    "wof:lastmodified":1636500757,
     "wof:name":"Mili",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

@@ -38,6 +38,9 @@
     "name:hak_x_preferred":[
         "Thai-th\u00f9ng-hi\u00f4ng"
     ],
+    "name:hun_x_preferred":[
+        "Datong"
+    ],
     "name:ita_x_preferred":[
         "Datong"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":1293595077,
-    "wof:lastmodified":1566588845,
+    "wof:lastmodified":1636500726,
     "wof:name":"Datong",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

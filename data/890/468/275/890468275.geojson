@@ -22,6 +22,9 @@
     "name:eng_x_variant":[
         "Heyuan Village"
     ],
+    "name:hun_x_preferred":[
+        "Heyuan"
+    ],
     "name:zho_tw_x_preferred":[
         "\u4f55\u6e90\u91cc"
     ],
@@ -39,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -62,7 +65,7 @@
         }
     ],
     "wof:id":890468275,
-    "wof:lastmodified":1601423003,
+    "wof:lastmodified":1636500757,
     "wof:name":"Heyuan",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

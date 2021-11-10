@@ -127,10 +127,11 @@
         "Kaohsiung"
     ],
     "name:jpn_x_preferred":[
-        "\u9ad8\u96c4\u5e02"
+        "\u9ad8\u96c4"
     ],
     "name:jpn_x_variant":[
-        "\u305f\u304b\u304a"
+        "\u305f\u304b\u304a",
+        "\u9ad8\u96c4\u5e02"
     ],
     "name:kan_x_preferred":[
         "\u0c95\u0cbe\u0c92\u0cb9\u0ccd\u0cb8\u0ccd\u0caf\u0cc1\u0c82\u0c97\u0ccd"
@@ -389,8 +390,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808547,
-        85679547
+        85679547,
+        1108808547
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -420,7 +421,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1608688179,
+    "wof:lastmodified":1636500713,
     "wof:megacity":1,
     "wof:name":"Kaohsiung",
     "wof:parent_id":85679547,

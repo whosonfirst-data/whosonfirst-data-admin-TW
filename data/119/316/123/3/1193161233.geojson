@@ -75,6 +75,9 @@
         "Hegang"
     ],
     "name:jpn_x_preferred":[
+        "\u9db4\u5d17"
+    ],
+    "name:jpn_x_variant":[
         "\u9db4\u5d17\u5e02"
     ],
     "name:kik_x_preferred":[
@@ -173,7 +176,7 @@
         }
     ],
     "wof:id":1193161233,
-    "wof:lastmodified":1566589300,
+    "wof:lastmodified":1636500732,
     "wof:name":"Hegang",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

@@ -80,6 +80,9 @@
     "name:heb_x_preferred":[
         "\u05d3\u05d0\u05d8\u05d5\u05e0\u05d2"
     ],
+    "name:hun_x_preferred":[
+        "Datong"
+    ],
     "name:ina_x_preferred":[
         "Datong"
     ],
@@ -192,7 +195,7 @@
         }
     ],
     "wof:id":1360208625,
-    "wof:lastmodified":1566589600,
+    "wof:lastmodified":1636500748,
     "wof:name":"Datong",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

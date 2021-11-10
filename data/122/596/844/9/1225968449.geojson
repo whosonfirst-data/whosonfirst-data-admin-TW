@@ -77,6 +77,9 @@
     "name:hak_x_preferred":[
         "Siong-th\u00e2m-s\u1e73"
     ],
+    "name:hun_x_preferred":[
+        "Xiangtan"
+    ],
     "name:ind_x_preferred":[
         "Xiangtan"
     ],
@@ -177,7 +180,7 @@
         }
     ],
     "wof:id":1225968449,
-    "wof:lastmodified":1566590166,
+    "wof:lastmodified":1636500766,
     "wof:name":"Xiangtan",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",

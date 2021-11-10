@@ -22,6 +22,12 @@
     "name:eng_x_variant":[
         "Weinan Village"
     ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05d9\u05d9\u05e0\u05d0\u05df"
+    ],
+    "name:por_x_preferred":[
+        "Weinan"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5c3e\u5357\u91cc"
     ],
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -62,7 +68,7 @@
         }
     ],
     "wof:id":890470209,
-    "wof:lastmodified":1601423062,
+    "wof:lastmodified":1636500751,
     "wof:name":"Weinan",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

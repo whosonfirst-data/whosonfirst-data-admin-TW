@@ -148,6 +148,9 @@
         "Condado de Changhua"
     ],
     "name:swe_x_preferred":[
+        "Changhua"
+    ],
+    "name:swe_x_variant":[
         "Changhus"
     ],
     "name:tam_x_preferred":[
@@ -215,7 +218,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1617129933,
+    "wof:lastmodified":1636500739,
     "wof:name":"Changhua",
     "wof:parent_id":85679593,
     "wof:placetype":"macrocounty",

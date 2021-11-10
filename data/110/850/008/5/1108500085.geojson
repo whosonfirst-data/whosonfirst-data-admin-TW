@@ -36,6 +36,9 @@
     "name:ast_x_preferred":[
         "Islles Pescadores"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c7\u0999\u09cd\u0998\u09c1"
+    ],
     "name:cdo_x_preferred":[
         "P\u00e0ng-h\u00f9-g\u00e2ing"
     ],
@@ -50,6 +53,9 @@
     ],
     "name:deu_x_preferred":[
         "Landkreis Penghu"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03ad\u03bd\u03b3\u03ba\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
         "Penghu County"
@@ -74,6 +80,12 @@
     ],
     "name:hak_x_preferred":[
         "Ph\u00e0ng-f\u00f9-yen"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u0947\u0902\u0918\u0941"
+    ],
+    "name:hun_x_preferred":[
+        "Penghu"
     ],
     "name:ind_x_preferred":[
         "Kabupaten Penghu"
@@ -108,6 +120,9 @@
     "name:nld_x_preferred":[
         "Pescadores"
     ],
+    "name:pol_x_preferred":[
+        "Penghu"
+    ],
     "name:por_x_preferred":[
         "Penghu"
     ],
@@ -120,8 +135,14 @@
     "name:spa_x_preferred":[
         "Islas Pescadores"
     ],
+    "name:swe_x_preferred":[
+        "Penghu"
+    ],
     "name:tha_x_preferred":[
         "\u0e40\u0e1c\u0e34\u0e07\u0e2b\u0e39"
+    ],
+    "name:tur_x_preferred":[
+        "Penghu"
     ],
     "name:ukr_x_preferred":[
         "\u041f\u0435\u043d\u0445\u0443"
@@ -179,7 +200,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1617131343,
+    "wof:lastmodified":1636500737,
     "wof:name":"Penghu",
     "wof:parent_id":85679627,
     "wof:placetype":"macrocounty",

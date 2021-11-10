@@ -31,6 +31,18 @@
     "name:eng_x_variant":[
         "Helong Village"
     ],
+    "name:fas_x_preferred":[
+        "\u0647\u0644\u0648\u0646\u06af"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05dc\u05d5\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Helong"
+    ],
+    "name:por_x_preferred":[
+        "Helong"
+    ],
     "name:zho_tw_x_preferred":[
         "\u548c\u9f8d\u91cc"
     ],
@@ -66,8 +78,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026649,
         1108808551,
+        102026649,
         85679617
     ],
     "wof:breaches":[],
@@ -94,7 +106,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1601423002,
+    "wof:lastmodified":1636500721,
     "wof:name":"Helong",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

@@ -31,6 +31,15 @@
     "name:eng_x_variant":[
         "Xinyi Village"
     ],
+    "name:fas_x_preferred":[
+        "\u0634\u06cc\u0646\u06cc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e1\u05d9\u05e0\u05d9\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Xinyi"
+    ],
     "name:zho_tw_x_preferred":[
         "\u65b0\u76ca\u91cc"
     ],
@@ -66,8 +75,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -94,7 +103,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1601423070,
+    "wof:lastmodified":1636500722,
     "wof:name":"Xinyi",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

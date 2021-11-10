@@ -70,6 +70,9 @@
         "S\u00een-tsuk-s\u1e73"
     ],
     "name:heb_x_preferred":[
+        "\u05d4\u05e1\u05d9\u05e0\u05e6'\u05d5"
+    ],
+    "name:heb_x_variant":[
         "\u05e9\u05d9\u05e0\u05d2'\u05d5"
     ],
     "name:hin_x_preferred":[
@@ -223,7 +226,7 @@
         }
     ],
     "wof:id":890467655,
-    "wof:lastmodified":1566589767,
+    "wof:lastmodified":1636500753,
     "wof:name":"Hsinchu",
     "wof:parent_id":1108756867,
     "wof:placetype":"county",

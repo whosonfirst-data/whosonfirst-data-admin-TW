@@ -31,6 +31,9 @@
     "name:eng_x_variant":[
         "Chengde Village"
     ],
+    "name:hin_x_preferred":[
+        "\u091a\u0947\u0902\u0917\u0926\u0947"
+    ],
     "name:zho_tw_x_preferred":[
         "\u6210\u5fb7\u91cc"
     ],
@@ -93,7 +96,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1617131464,
+    "wof:lastmodified":1636500721,
     "wof:name":"Chengde",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

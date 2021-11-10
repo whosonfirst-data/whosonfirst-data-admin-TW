@@ -31,6 +31,12 @@
     "name:eng_x_variant":[
         "Chaoyang Village"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d0\u05d5\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Chaoyang"
+    ],
     "name:zho_tw_x_preferred":[
         "\u671d\u967d\u91cc"
     ],
@@ -66,8 +72,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -94,7 +100,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1601422982,
+    "wof:lastmodified":1636500718,
     "wof:name":"Chaoyang",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

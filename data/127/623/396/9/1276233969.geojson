@@ -52,6 +52,9 @@
         "Chiu-lung"
     ],
     "name:vie_x_preferred":[
+        "S\u00f4ng C\u1eedu Long"
+    ],
+    "name:vie_x_variant":[
         "C\u1eedu Long"
     ],
     "name:zho_x_preferred":[
@@ -85,7 +88,7 @@
         }
     ],
     "wof:id":1276233969,
-    "wof:lastmodified":1566589050,
+    "wof:lastmodified":1636500729,
     "wof:name":"Jiulong",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",

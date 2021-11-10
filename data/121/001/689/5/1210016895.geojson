@@ -62,6 +62,12 @@
     "name:fra_x_preferred":[
         "Leshan"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05e9\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Leshan"
+    ],
     "name:ind_x_preferred":[
         "Leshan"
     ],
@@ -148,7 +154,7 @@
         }
     ],
     "wof:id":1210016895,
-    "wof:lastmodified":1566589255,
+    "wof:lastmodified":1636500731,
     "wof:name":"Leshan",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

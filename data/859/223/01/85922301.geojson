@@ -31,6 +31,9 @@
     "name:eng_x_variant":[
         "Jinhua Village"
     ],
+    "name:hun_x_preferred":[
+        "Jinhua"
+    ],
     "name:zho_tw_x_preferred":[
         "\u91d1\u83ef\u91cc"
     ],
@@ -65,8 +68,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -93,7 +96,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1601423012,
+    "wof:lastmodified":1636500721,
     "wof:name":"Jinhua",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

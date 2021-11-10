@@ -44,7 +44,16 @@
     "name:deu_x_preferred":[
         "Dingzhou"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u06cc\u0646\u06af\u0698\u0648"
+    ],
     "name:fra_x_preferred":[
+        "Dingzhou"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05e0\u05d2\u05d6'\u05d5\u05d0\u05d5"
+    ],
+    "name:hun_x_preferred":[
         "Dingzhou"
     ],
     "name:ita_x_preferred":[
@@ -117,7 +126,7 @@
         "gn:id":1667278
     },
     "wof:country":"TW",
-    "wof:geomhash":"581c7e94109fa5b9c8df32e64e1c4595",
+    "wof:geomhash":"d156bb8331719ba6c67b299024332fe9",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -128,7 +137,7 @@
         }
     ],
     "wof:id":1326730673,
-    "wof:lastmodified":1566588247,
+    "wof:lastmodified":1636500712,
     "wof:name":"Dingzhou",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",
@@ -139,9 +148,9 @@
 },
   "bbox": [
     120.20334,
-    23.28812000000001,
+    23.28812,
     120.20334,
-    23.28812000000001
+    23.28812
 ],
-  "geometry": {"coordinates":[120.20334,23.28812000000001],"type":"Point"}
+  "geometry": {"coordinates":[120.20334,23.28812],"type":"Point"}
 }

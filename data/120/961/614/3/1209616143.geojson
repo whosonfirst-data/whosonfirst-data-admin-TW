@@ -35,6 +35,9 @@
     "name:bar_x_preferred":[
         "Nandi"
     ],
+    "name:ben_x_preferred":[
+        "\u09a8\u09be\u09a8\u09cd\u09a6\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "Nandi"
     ],
@@ -45,6 +48,12 @@
         "Nandi"
     ],
     "name:hrv_x_preferred":[
+        "Nandi"
+    ],
+    "name:hun_x_preferred":[
+        "Nandi"
+    ],
+    "name:ind_x_preferred":[
         "Nandi"
     ],
     "name:nld_x_preferred":[
@@ -59,11 +68,20 @@
     "name:swe_x_preferred":[
         "Nandi"
     ],
+    "name:tur_x_preferred":[
+        "Nandi"
+    ],
     "name:ukr_x_preferred":[
         "\u041d\u0430\u043d\u0434\u0456"
     ],
     "name:und_x_variant":[
         "Nan-ti"
+    ],
+    "name:urd_x_preferred":[
+        "\u0646\u0646\u062f\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Nandi"
     ],
     "name:zho_x_preferred":[
         "\u6e73\u5e95"
@@ -77,7 +95,7 @@
         "gn:id":1993163
     },
     "wof:country":"TW",
-    "wof:geomhash":"a858b8af5b44312e86105529f89c7964",
+    "wof:geomhash":"36cbf891e96b98fa12c04b6a98c5cea8",
     "wof:hierarchy":[
         {
             "country_id":85632403,
@@ -85,7 +103,7 @@
         }
     ],
     "wof:id":1209616143,
-    "wof:lastmodified":1566589184,
+    "wof:lastmodified":1636500730,
     "wof:name":"Nandi",
     "wof:parent_id":85632403,
     "wof:placetype":"locality",
@@ -95,10 +113,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.74703999999998,
+    120.74704,
     24.20771,
-    120.74703999999998,
+    120.74704,
     24.20771
 ],
-  "geometry": {"coordinates":[120.74703999999998,24.20771],"type":"Point"}
+  "geometry": {"coordinates":[120.74704,24.20771],"type":"Point"}
 }

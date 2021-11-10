@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Taiping"
     ],
+    "name:hun_x_preferred":[
+        "Taiping"
+    ],
     "name:ind_x_preferred":[
         "Taiping"
     ],
@@ -89,7 +92,7 @@
         }
     ],
     "wof:id":1310429657,
-    "wof:lastmodified":1566589520,
+    "wof:lastmodified":1636500746,
     "wof:name":"Taiping",
     "wof:parent_id":85679617,
     "wof:placetype":"locality",

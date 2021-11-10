@@ -22,6 +22,15 @@
     "name:eng_x_variant":[
         "Ankang Village"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05e7\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Ankang"
+    ],
+    "name:por_x_preferred":[
+        "Ankang"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5b89\u5eb7\u91cc"
     ],
@@ -39,8 +48,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026701,
         1108808547,
+        102026701,
         85679547
     ],
     "wof:breaches":[],
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":890469371,
-    "wof:lastmodified":1601422976,
+    "wof:lastmodified":1636500755,
     "wof:name":"Ankang",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

@@ -31,6 +31,12 @@
     "name:eng_x_variant":[
         "Tonghua Village"
     ],
+    "name:heb_x_preferred":[
+        "\u05d8\u05d5\u05e0\u05d2\u05d5\u05d0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Tonghua"
+    ],
     "name:zho_tw_x_preferred":[
         "\u901a\u5316\u91cc"
     ],
@@ -66,8 +72,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -94,7 +100,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1601423058,
+    "wof:lastmodified":1636500719,
     "wof:name":"Tonghua",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

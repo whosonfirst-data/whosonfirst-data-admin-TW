@@ -151,6 +151,9 @@
         "\u0e40\u0e1c\u0e34\u0e07\u0e2b\u0e39"
     ],
     "name:tur_x_preferred":[
+        "Penghu"
+    ],
+    "name:tur_x_variant":[
         "Pescadores Adalar\u0131"
     ],
     "name:ukr_x_preferred":[
@@ -212,7 +215,7 @@
         }
     ],
     "wof:id":890468319,
-    "wof:lastmodified":1566589844,
+    "wof:lastmodified":1636500759,
     "wof:name":"Penghu",
     "wof:parent_id":1108500085,
     "wof:placetype":"county",

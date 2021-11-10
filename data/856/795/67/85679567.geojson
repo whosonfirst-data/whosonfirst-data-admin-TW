@@ -29,6 +29,12 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ara_x_preferred":[
+        "\u0625\u064a\u0644\u064a\u0646"
+    ],
+    "name:ben_x_preferred":[
+        "\u0993\u09df\u09be\u0987\u09b2\u09cd\u09af\u09be\u09a8"
+    ],
     "name:ceb_x_preferred":[
         "Yilan"
     ],
@@ -37,6 +43,9 @@
     ],
     "name:deu_x_preferred":[
         "Yilan"
+    ],
+    "name:ell_x_preferred":[
+        "\u0393\u03b9\u03bb\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Yilan County"
@@ -58,6 +67,15 @@
     ],
     "name:hak_x_preferred":[
         "Ng\u00ec-l\u00e0n-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d9\u05d9\u05dc\u05d0\u05df"
+    ],
+    "name:hin_x_preferred":[
+        "\u092f\u093f\u0932\u093e\u0928"
+    ],
+    "name:hun_x_preferred":[
+        "Yilan"
     ],
     "name:ind_x_preferred":[
         "Kota Yilan"
@@ -92,10 +110,16 @@
     "name:pol_x_preferred":[
         "Yilan"
     ],
+    "name:por_x_preferred":[
+        "Yilan"
+    ],
     "name:rus_x_preferred":[
         "\u0418\u043b\u0430\u043d\u044c"
     ],
     "name:spa_x_preferred":[
+        "Yilan"
+    ],
+    "name:swe_x_preferred":[
         "Yilan"
     ],
     "name:tur_x_preferred":[
@@ -244,7 +268,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1607981120,
+    "wof:lastmodified":1636500724,
     "wof:name":"Yilan",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

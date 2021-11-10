@@ -104,6 +104,9 @@
         "Taoj\u00fcan megye"
     ],
     "name:ind_x_preferred":[
+        "Taoyuan"
+    ],
+    "name:ind_x_variant":[
         "Kabupaten Taoyuan"
     ],
     "name:ita_x_preferred":[
@@ -241,7 +244,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1617131328,
+    "wof:lastmodified":1636500733,
     "wof:name":"Taoyuan",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

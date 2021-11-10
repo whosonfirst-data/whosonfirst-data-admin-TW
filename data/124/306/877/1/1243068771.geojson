@@ -65,6 +65,12 @@
     "name:fra_x_preferred":[
         "Anshun"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05e9\u05d5\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Anshun"
+    ],
     "name:ita_x_preferred":[
         "Anshun"
     ],
@@ -165,7 +171,7 @@
         }
     ],
     "wof:id":1243068771,
-    "wof:lastmodified":1566589873,
+    "wof:lastmodified":1636500761,
     "wof:name":"Anshun",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

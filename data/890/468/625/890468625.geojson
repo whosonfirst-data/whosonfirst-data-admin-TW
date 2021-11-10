@@ -23,6 +23,12 @@
     "name:eng_x_variant":[
         "Chaoyang Village"
     ],
+    "name:heb_x_preferred":[
+        "\u05e6'\u05d0\u05d5\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Chaoyang"
+    ],
     "name:zho_tw_x_preferred":[
         "\u671d\u967d\u6751"
     ],
@@ -40,8 +46,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679575
+        85679575,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":890468625,
-    "wof:lastmodified":1601422982,
+    "wof:lastmodified":1636500758,
     "wof:name":"Chaoyang",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

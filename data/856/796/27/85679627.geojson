@@ -172,6 +172,9 @@
         "\u0e40\u0e1c\u0e34\u0e07\u0e2b\u0e39"
     ],
     "name:tur_x_preferred":[
+        "Penghu"
+    ],
+    "name:tur_x_variant":[
         "Pescadores Adalar\u0131"
     ],
     "name:ukr_x_preferred":[
@@ -318,7 +321,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1607981116,
+    "wof:lastmodified":1636500723,
     "wof:name":"Penghu",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

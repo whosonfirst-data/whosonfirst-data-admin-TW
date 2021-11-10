@@ -32,6 +32,9 @@
     "name:eng_x_variant":[
         "Taiping Village"
     ],
+    "name:hun_x_preferred":[
+        "Taiping"
+    ],
     "name:zho_tw_x_preferred":[
         "\u592a\u5e73\u91cc"
     ],
@@ -67,8 +70,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026757,
         1108808557,
+        102026757,
         85679603
     ],
     "wof:breaches":[],
@@ -96,7 +99,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1601423055,
+    "wof:lastmodified":1636500720,
     "wof:name":"Taiping",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

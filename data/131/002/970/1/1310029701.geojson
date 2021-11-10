@@ -35,11 +35,20 @@
     "name:hak_x_preferred":[
         "P\u00f3-s\u00e2n-hi\u00f4ng"
     ],
+    "name:heb_x_preferred":[
+        "\u05d1\u05d0\u05d5\u05e9\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Paosan"
+    ],
     "name:jpn_x_preferred":[
         "\u5b9d\u5c71\u90f7"
     ],
     "name:kor_x_preferred":[
         "\ubc14\uc624\uc0b0\ud5a5"
+    ],
+    "name:por_x_preferred":[
+        "Baoshan"
     ],
     "name:und_x_variant":[
         "Pao-shan-li",
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":1310029701,
-    "wof:lastmodified":1566589564,
+    "wof:lastmodified":1636500747,
     "wof:name":"Baoshan",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

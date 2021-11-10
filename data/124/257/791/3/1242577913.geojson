@@ -71,6 +71,12 @@
     "name:fra_x_preferred":[
         "Pingdingshan"
     ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05d9\u05e0\u05d2\u05d3\u05d9\u05e0\u05d2\u05e9\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Pingdingshan"
+    ],
     "name:ind_x_preferred":[
         "Pingdingshan"
     ],
@@ -167,7 +173,7 @@
         }
     ],
     "wof:id":1242577913,
-    "wof:lastmodified":1566589898,
+    "wof:lastmodified":1636500761,
     "wof:name":"Pingdingshan",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",

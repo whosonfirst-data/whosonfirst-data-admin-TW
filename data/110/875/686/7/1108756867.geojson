@@ -74,8 +74,14 @@
     "name:hak_x_preferred":[
         "S\u00een-tsuk-yen"
     ],
+    "name:heb_x_preferred":[
+        "\u05d4\u05e1\u05d9\u05e0\u05e6'\u05d5"
+    ],
     "name:hin_x_preferred":[
         "\u0938\u093f\u0902\u091a\u0942 \u0915\u093e\u0909\u0902\u091f\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Hszincsu"
     ],
     "name:ind_x_preferred":[
         "Kabupaten Hsinchu"
@@ -205,7 +211,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1617130089,
+    "wof:lastmodified":1636500734,
     "wof:name":"Hsinchu",
     "wof:parent_id":85679563,
     "wof:placetype":"macrocounty",

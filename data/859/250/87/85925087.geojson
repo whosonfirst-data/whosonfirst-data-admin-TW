@@ -31,6 +31,18 @@
     "name:eng_x_variant":[
         "Wenshan Village"
     ],
+    "name:fas_x_preferred":[
+        "\u0648\u0646\u0634\u0627\u0646"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d5\u05d5\u05e0\u05e9\u05d0\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Wenshan"
+    ],
+    "name:spa_x_preferred":[
+        "Wenshan"
+    ],
     "name:zho_tw_x_preferred":[
         "\u6587\u5c71\u91cc"
     ],
@@ -95,7 +107,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1617130926,
+    "wof:lastmodified":1636500720,
     "wof:name":"Wenshan",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

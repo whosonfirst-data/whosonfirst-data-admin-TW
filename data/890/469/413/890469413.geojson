@@ -22,6 +22,12 @@
     "name:eng_x_variant":[
         "Anshun Village"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05e0\u05e9\u05d5\u05df"
+    ],
+    "name:hun_x_preferred":[
+        "Anshun"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5b89\u9806\u91cc"
     ],
@@ -54,7 +60,7 @@
         }
     ],
     "wof:id":890469413,
-    "wof:lastmodified":1601422976,
+    "wof:lastmodified":1636500754,
     "wof:name":"Anshun",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

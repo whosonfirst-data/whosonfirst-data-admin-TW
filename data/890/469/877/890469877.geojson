@@ -23,6 +23,12 @@
     "name:eng_x_variant":[
         "Deyang Village"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d9\u05d9\u05d0\u05e0\u05d2"
+    ],
+    "name:hun_x_preferred":[
+        "Deyang"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5fb7\u967d\u6751"
     ],
@@ -40,8 +46,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679567
+        85679567,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,7 +67,7 @@
         }
     ],
     "wof:id":890469877,
-    "wof:lastmodified":1601422989,
+    "wof:lastmodified":1636500756,
     "wof:name":"Deyang",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

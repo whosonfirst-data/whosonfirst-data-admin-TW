@@ -41,6 +41,9 @@
     "name:fra_x_preferred":[
         "Taiping"
     ],
+    "name:hun_x_preferred":[
+        "Taiping"
+    ],
     "name:ind_x_preferred":[
         "Taiping"
     ],
@@ -76,7 +79,7 @@
         "gn:id":1668334
     },
     "wof:country":"TW",
-    "wof:geomhash":"fee2a9815010e948c9c749c5919c28fa",
+    "wof:geomhash":"fa4f59c06a927fc956296944fefbc5e2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1276340971,
-    "wof:lastmodified":1566588998,
+    "wof:lastmodified":1636500728,
     "wof:name":"Taiping",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",
@@ -97,10 +100,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.31761000000002,
+    121.31761,
     23.4078,
-    121.31761000000002,
+    121.31761,
     23.4078
 ],
-  "geometry": {"coordinates":[121.31761000000002,23.4078],"type":"Point"}
+  "geometry": {"coordinates":[121.31761,23.4078],"type":"Point"}
 }

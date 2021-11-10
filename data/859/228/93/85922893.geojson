@@ -31,6 +31,9 @@
     "name:eng_x_variant":[
         "Dunhuang Village"
     ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e0\u05d2\u05d7\u05d5\u05d0\u05e0\u05d2"
+    ],
     "name:zho_tw_x_preferred":[
         "\u6566\u714c\u91cc"
     ],
@@ -66,8 +69,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -94,7 +97,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1601422991,
+    "wof:lastmodified":1636500719,
     "wof:name":"Dunhuang",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

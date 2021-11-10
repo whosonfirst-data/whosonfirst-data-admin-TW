@@ -31,6 +31,15 @@
     "name:eng_x_variant":[
         "Dunhua Village"
     ],
+    "name:fas_x_preferred":[
+        "\u062f\u0627\u0646\u0647\u0648\u0627"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d3\u05d5\u05e0\u05d7\u05d5\u05d0\u05d4"
+    ],
+    "name:hun_x_preferred":[
+        "Dunhua"
+    ],
     "name:zho_tw_x_preferred":[
         "\u6566\u5316\u91cc"
     ],
@@ -66,8 +75,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026641,
         1108808545,
+        102026641,
         85679583
     ],
     "wof:breaches":[],
@@ -94,7 +103,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1601422991,
+    "wof:lastmodified":1636500723,
     "wof:name":"Dunhua",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

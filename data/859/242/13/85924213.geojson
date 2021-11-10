@@ -31,6 +31,9 @@
     "name:eng_x_variant":[
         "Luzhou Village"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d5\u05d6'\u05d5"
+    ],
     "name:zho_tw_x_preferred":[
         "\u8606\u6d32\u91cc"
     ],
@@ -94,7 +97,7 @@
     "wof:lang":[
         "chi"
     ],
-    "wof:lastmodified":1617129948,
+    "wof:lastmodified":1636500718,
     "wof:name":"Luzhou",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",
