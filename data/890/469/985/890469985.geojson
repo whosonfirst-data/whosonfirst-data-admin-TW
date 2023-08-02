@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.220832,22.8296815,120.220832,22.8296815",
+    "geom:bbox":"120.220832,22.829681,120.220832,22.829681",
     "geom:latitude":22.829681,
     "geom:longitude":120.220832,
     "gp:adm0":23424971,
@@ -55,6 +55,12 @@
     "name:rus_x_preferred":[
         "\u0413\u0430\u043e\u0441\u044e\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0443\u0435\u0437\u0434 \u0413\u0430\u043e\u0441\u044e\u043d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e40\u0e01\u0e32\u0e2a\u0e3a\u0e22\u0e07"
+    ],
     "name:vie_x_preferred":[
         "Cao H\u00f9ng"
     ],
@@ -92,7 +98,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053796,
-    "wof:geomhash":"55df3874c8fbee60b510db9d83b85807",
+    "wof:geomhash":"983f27aeaeca7e1fb1e6b95e0833b36f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":890469985,
-    "wof:lastmodified":1566589789,
+    "wof:lastmodified":1690876003,
     "wof:name":"\u6c38\u5b89\u9109",
     "wof:parent_id":1108756877,
     "wof:placetype":"county",
@@ -115,9 +121,9 @@
 },
   "bbox": [
     120.220832,
-    22.8296815,
+    22.829681,
     120.220832,
-    22.8296815
+    22.829681
 ],
-  "geometry": {"coordinates":[120.220832,22.8296815],"type":"Point"}
+  "geometry": {"coordinates":[120.220832,22.829681],"type":"Point"}
 }

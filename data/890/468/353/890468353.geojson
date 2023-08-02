@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:cat_x_preferred":[
+        "Checheng"
+    ],
     "name:deu_x_preferred":[
         "Checheng"
     ],
     "name:eng_x_preferred":[
         "Checheng"
+    ],
+    "name:eng_x_variant":[
+        "Checheng Township"
     ],
     "name:hak_x_preferred":[
         "Tsh\u00e2-s\u00e0ng-hi\u00f4ng"
@@ -37,8 +43,14 @@
     "name:kor_x_preferred":[
         "\ucc98\uccad\ud5a5"
     ],
+    "name:lld_x_preferred":[
+        "Checheng"
+    ],
     "name:nan_x_preferred":[
         "Chhia-si\u00e2\u207f-hiong"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u044d\u0447\u044d\u043d"
     ],
     "name:und_x_variant":[
         "Checheng Siang"
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":890468353,
-    "wof:lastmodified":1566589811,
+    "wof:lastmodified":1690876009,
     "wof:name":"Checheng Xiang",
     "wof:parent_id":85679549,
     "wof:placetype":"localadmin",

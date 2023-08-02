@@ -55,6 +55,9 @@
     "name:ces_x_preferred":[
         "Nov\u00fd Tchaj-pej"
     ],
+    "name:ces_x_variant":[
+        "Nov\u00e1 Tchaj-pej"
+    ],
     "name:che_x_preferred":[
         "\u0421\u0438\u043d\u044c\u0431\u044d\u0439"
     ],
@@ -118,6 +121,9 @@
     "name:ind_x_preferred":[
         "Kabupaten Taipei"
     ],
+    "name:ind_x_variant":[
+        "Taipei Baru"
+    ],
     "name:ita_x_preferred":[
         "Nuova Taipei"
     ],
@@ -157,14 +163,23 @@
     "name:msa_x_preferred":[
         "New Taipei City"
     ],
+    "name:mya_x_preferred":[
+        "\u1011\u102d\u102f\u1004\u103a\u1015\u1031\u1019\u103c\u102d\u102f\u1037\u101e\u1005\u103a"
+    ],
     "name:nan_x_preferred":[
         "Sin-pak-chh\u012b"
+    ],
+    "name:nan_x_variant":[
+        "Sin-pak-tsh\u012b"
     ],
     "name:nld_x_preferred":[
         "Nieuw Taipei"
     ],
     "name:nob_x_preferred":[
         "Ny Taipei"
+    ],
+    "name:nob_x_variant":[
+        "Ny-Taipei"
     ],
     "name:oci_x_preferred":[
         "Nau Taipeh"
@@ -187,6 +202,9 @@
     "name:rus_x_preferred":[
         "\u0421\u0438\u043d\u044c\u0431\u044d\u0439"
     ],
+    "name:rus_x_variant":[
+        "\u041d\u043e\u0432\u044b\u0439 \u0422\u0430\u0439\u0431\u044d\u0439"
+    ],
     "name:sco_x_preferred":[
         "New Taipei"
     ],
@@ -196,8 +214,20 @@
     "name:spa_x_preferred":[
         "Nuevo Taip\u00e9i"
     ],
+    "name:srp_x_preferred":[
+        "\u0421\u0438\u043d\u0431\u0435\u0458"
+    ],
     "name:swe_x_preferred":[
         "Ny Taipei City"
+    ],
+    "name:swe_x_variant":[
+        "New Taipei City"
+    ],
+    "name:szl_x_preferred":[
+        "Nowe Tajpej"
+    ],
+    "name:szy_x_preferred":[
+        "Sin-pak"
     ],
     "name:tam_x_preferred":[
         "\u0ba8\u0bbf\u0baf\u0bc2 \u0b9f\u0bc8\u0baa\u0bcd\u0baa\u0bbe\u0baf\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
@@ -298,7 +328,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1617131209,
+    "wof:lastmodified":1690875940,
     "wof:name":"New Taipei",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

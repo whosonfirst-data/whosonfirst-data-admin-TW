@@ -19,14 +19,32 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u0643\u0627\u064a\u0628\u0646\u063a"
     ],
+    "name:ceb_x_preferred":[
+        "Kaep'ung-gun"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Kaepung"
+    ],
+    "name:deu_x_preferred":[
+        "Kaep'ung-gun"
+    ],
     "name:eng_x_preferred":[
         "Kaepung County"
+    ],
+    "name:eng_x_variant":[
+        "Kaepung-guyok"
     ],
     "name:jpn_x_preferred":[
         "\u958b\u8c4a\u90e1"
     ],
+    "name:jpn_x_variant":[
+        "\u958b\u8c4a\u533a\u57df"
+    ],
     "name:kor_x_preferred":[
         "\uac1c\ud48d\uad70"
+    ],
+    "name:kor_x_variant":[
+        "\uac1c\ud48d\uad6c\uc5ed"
     ],
     "name:nan_x_preferred":[
         "Kaep'ung K\u016bn"
@@ -37,11 +55,17 @@
     "name:pol_x_preferred":[
         "Kaep'ung"
     ],
+    "name:swe_x_preferred":[
+        "Kaep'ung-gun"
+    ],
     "name:vie_x_preferred":[
         "Kaepung"
     ],
     "name:zho_x_preferred":[
         "\u958b\u8c50\u90e1"
+    ],
+    "name:zho_x_variant":[
+        "\u958b\u8c50\u5340\u57df"
     ],
     "qs:name":"\u65b0\u897f\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
@@ -83,7 +107,7 @@
         }
     ],
     "wof:id":890469865,
-    "wof:lastmodified":1566589802,
+    "wof:lastmodified":1690876007,
     "wof:name":"\u65b0\u897f\u91cc",
     "wof:parent_id":102026757,
     "wof:placetype":"neighbourhood",

@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Ch'\u014fnma-gun"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Chonma"
+    ],
     "name:eng_x_preferred":[
         "Chonma County"
     ],
@@ -40,8 +46,14 @@
     "name:rus_x_preferred":[
         "\u0427\u0445\u043e\u043d\u043c\u0430"
     ],
+    "name:swe_x_preferred":[
+        "Ch'\u014fnma-gun"
+    ],
     "name:vie_x_preferred":[
         "Chonma"
+    ],
+    "name:yue_x_preferred":[
+        "\u5929\u6469\u90e1"
     ],
     "name:zho_x_preferred":[
         "\u5929\u6469\u90e1"
@@ -86,7 +98,7 @@
         }
     ],
     "wof:id":890468929,
-    "wof:lastmodified":1566589841,
+    "wof:lastmodified":1690876022,
     "wof:name":"\u65b0\u660c\u91cc",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

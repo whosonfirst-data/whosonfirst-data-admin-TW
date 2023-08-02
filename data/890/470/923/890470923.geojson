@@ -59,6 +59,9 @@
     "name:war_x_preferred":[
         "Bade"
     ],
+    "name:yue_x_preferred":[
+        "\u516b\u5fb7\u5340"
+    ],
     "name:zho_x_preferred":[
         "\u516b\u5fb7\u5340"
     ],
@@ -102,7 +105,7 @@
         }
     ],
     "wof:id":890470923,
-    "wof:lastmodified":1566589729,
+    "wof:lastmodified":1690875978,
     "wof:name":"\u516b\u5fb7\u5e02",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

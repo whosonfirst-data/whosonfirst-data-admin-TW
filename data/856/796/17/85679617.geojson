@@ -35,8 +35,14 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u064a \u0634\u0627\u0646\u063a"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u0649 \u0634\u0627\u0646\u062c"
+    ],
     "name:ast_x_preferred":[
         "Taichung"
+    ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0439\u0447\u0436\u0443\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0987\u099a\u09cb\u0982"
@@ -71,6 +77,9 @@
     "name:epo_x_preferred":[
         "Taj\u0109ung"
     ],
+    "name:est_x_preferred":[
+        "Taichung"
+    ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u06cc\u0686\u0648\u0646\u06af"
     ],
@@ -92,11 +101,17 @@
     "name:hak_x_preferred":[
         "Th\u00f2i-ch\u00fbng-s\u1e73"
     ],
+    "name:hau_x_preferred":[
+        "Taichung"
+    ],
     "name:heb_x_preferred":[
         "\u05d8\u05d0\u05d9\u05d2'\u05d5\u05e0\u05d2"
     ],
     "name:hin_x_preferred":[
         "\u0924\u093e\u0907\u091a\u0941\u0902\u0917"
+    ],
+    "name:hrv_x_preferred":[
+        "Taichung"
     ],
     "name:hun_x_preferred":[
         "Tajcshung"
@@ -165,6 +180,9 @@
     "name:oci_x_preferred":[
         "Taichung"
     ],
+    "name:oss_x_preferred":[
+        "\u0422\u0430\u0439\u0447\u0436\u0443\u043d"
+    ],
     "name:pol_x_preferred":[
         "Taizhong"
     ],
@@ -195,6 +213,9 @@
     "name:szl_x_preferred":[
         "Taizhong"
     ],
+    "name:szy_x_preferred":[
+        "Tay-cung"
+    ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbe\u0baf\u0bcd\u0b9a\u0b99\u0bcd"
     ],
@@ -203,6 +224,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e44\u0e17\u0e08\u0e07"
+    ],
+    "name:tha_x_variant":[
+        "\u0e44\u0e16\u0e08\u0e07"
     ],
     "name:tur_x_preferred":[
         "Taichung"
@@ -219,6 +243,9 @@
     "name:urd_x_variant":[
         "\u0679\u0627\u0626\u0686\u0648\u0646\u06af"
     ],
+    "name:vec_x_preferred":[
+        "Taichung"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u00e0i Trung"
     ],
@@ -227,6 +254,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u53f0\u4e2d\u5e02"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e2\u10d0\u10d8\u10e9\u10e3\u10dc\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u81fa\u4e2d\u5e02"
@@ -365,7 +395,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1636500723,
+    "wof:lastmodified":1690875931,
     "wof:name":"Taichung City",
     "wof:parent_id":1108808551,
     "wof:placetype":"region",

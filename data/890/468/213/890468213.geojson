@@ -22,8 +22,14 @@
     "name:eng_x_preferred":[
         "Jiaxian District"
     ],
+    "name:eng_x_variant":[
+        "Jiasian District"
+    ],
     "name:hak_x_preferred":[
         "Kap-si\u00ean-hi\u00f4ng"
+    ],
+    "name:hye_x_preferred":[
+        "\u054b\u056b\u0561\u057d\u056b\u0561\u0576\u056b \u0547\u0580\u057b\u0561\u0576"
     ],
     "name:jpn_x_preferred":[
         "\u7532\u4ed9\u533a"
@@ -45,6 +51,9 @@
     ],
     "name:vie_x_preferred":[
         "Gi\u00e1p Ti\u00ean"
+    ],
+    "name:yue_x_preferred":[
+        "\u7532\u4ed9\u5340"
     ],
     "name:zho_x_preferred":[
         "\u7532\u4ed9\u5340"
@@ -89,7 +98,7 @@
         }
     ],
     "wof:id":890468213,
-    "wof:lastmodified":1566589836,
+    "wof:lastmodified":1690876020,
     "wof:name":"\u6771\u5b89\u91cc",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

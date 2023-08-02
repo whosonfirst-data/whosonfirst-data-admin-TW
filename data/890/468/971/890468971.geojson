@@ -16,6 +16,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":6.0,
+    "name:ami_x_preferred":[
+        "Fuxing"
+    ],
     "name:deu_x_preferred":[
         "Fuxing"
     ],
@@ -37,8 +40,26 @@
     "name:nan_x_preferred":[
         "Ho\u030dk-heng-khu"
     ],
+    "name:pwn_x_preferred":[
+        "Fuxing"
+    ],
+    "name:szy_x_preferred":[
+        "Fuxing"
+    ],
+    "name:tay_x_preferred":[
+        "Hosing Ku"
+    ],
+    "name:trv_x_preferred":[
+        "Fuxing"
+    ],
     "name:vie_x_preferred":[
         "Ph\u00fac H\u01b0ng"
+    ],
+    "name:xsy_x_preferred":[
+        "Fuxing"
+    ],
+    "name:yue_x_preferred":[
+        "\u5fa9\u8208\u5340"
     ],
     "name:zho_x_preferred":[
         "\u5fa9\u8208\u5340"
@@ -83,7 +104,7 @@
         }
     ],
     "wof:id":890468971,
-    "wof:lastmodified":1566589826,
+    "wof:lastmodified":1690876014,
     "wof:name":"\u5fa9\u8208\u9109",
     "wof:parent_id":1108499669,
     "wof:placetype":"county",

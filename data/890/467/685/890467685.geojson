@@ -64,6 +64,9 @@
     "name:war_x_preferred":[
         "Bade"
     ],
+    "name:yue_x_preferred":[
+        "\u516b\u5fb7\u5340"
+    ],
     "name:zho_x_preferred":[
         "\u516b\u5fb7\u5e02"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":890467685,
-    "wof:lastmodified":1566589766,
+    "wof:lastmodified":1690875994,
     "wof:name":"Bade Shi",
     "wof:parent_id":85679589,
     "wof:placetype":"localadmin",

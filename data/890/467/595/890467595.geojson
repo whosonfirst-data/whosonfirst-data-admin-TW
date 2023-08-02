@@ -37,6 +37,9 @@
     "name:nan_x_preferred":[
         "Gio\u030dk-ch\u00e9\u207f-khu"
     ],
+    "name:rus_x_preferred":[
+        "\u042e\u0439\u0446\u0437\u0438\u043d"
+    ],
     "name:vie_x_preferred":[
         "Ng\u1ecdc T\u0129nh"
     ],
@@ -84,7 +87,7 @@
         }
     ],
     "wof:id":890467595,
-    "wof:lastmodified":1566589755,
+    "wof:lastmodified":1690875986,
     "wof:name":"Yujing",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

@@ -24,8 +24,14 @@
     "name:ara_x_preferred":[
         "\u0645\u064a\u0627\u0648\u0644\u064a"
     ],
+    "name:ast_x_preferred":[
+        "Miaoli City"
+    ],
     "name:ben_x_preferred":[
         "\u09ae\u09bf\u0993\u09b2\u09bf"
+    ],
+    "name:cat_x_preferred":[
+        "Miao Li"
     ],
     "name:ces_x_preferred":[
         "Miao-li"
@@ -261,7 +267,7 @@
         }
     ],
     "wof:id":102026689,
-    "wof:lastmodified":1636500713,
+    "wof:lastmodified":1690875916,
     "wof:name":"Miaoli",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",

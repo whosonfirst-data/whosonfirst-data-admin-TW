@@ -54,6 +54,9 @@
     "name:eng_x_variant":[
         "Kinmen County"
     ],
+    "name:epo_x_preferred":[
+        "\u011cinmenoj"
+    ],
     "name:est_x_preferred":[
         "Jinmen"
     ],
@@ -68,6 +71,9 @@
     ],
     "name:fra_x_preferred":[
         "Jinmen"
+    ],
+    "name:frr_x_preferred":[
+        "Kinmen"
     ],
     "name:gan_x_preferred":[
         "\u91d1\u9580\u7e23"
@@ -183,6 +189,9 @@
     "name:vie_x_preferred":[
         "Kim M\u00f4n"
     ],
+    "name:wuu_x_preferred":[
+        "\u91d1\u9580\u7e23"
+    ],
     "name:yor_x_preferred":[
         "Kinmen"
     ],
@@ -227,7 +236,7 @@
         }
     ],
     "wof:id":890467577,
-    "wof:lastmodified":1566589771,
+    "wof:lastmodified":1690875998,
     "wof:name":"Kinmen",
     "wof:parent_id":1108497279,
     "wof:placetype":"county",

@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ami_x_preferred":[
+        "Fenglin"
+    ],
     "name:deu_x_preferred":[
         "Fenglin"
     ],
@@ -37,10 +40,25 @@
     "name:kor_x_preferred":[
         "\ud391\ub9b0\uc9c4"
     ],
+    "name:lld_x_preferred":[
+        "Fenglin"
+    ],
     "name:nan_x_preferred":[
         "H\u014dng-l\u00eem-t\u00ecn"
     ],
     "name:pol_x_preferred":[
+        "Fenglin"
+    ],
+    "name:pwn_x_preferred":[
+        "Fenglin"
+    ],
+    "name:rus_x_preferred":[
+        "\u0424\u044d\u043d\u043b\u0438\u043d\u044c"
+    ],
+    "name:szy_x_preferred":[
+        "Cingaluan a kenis"
+    ],
+    "name:tay_x_preferred":[
         "Fenglin"
     ],
     "name:und_x_variant":[
@@ -48,6 +66,9 @@
     ],
     "name:vie_x_preferred":[
         "Ph\u01b0\u1ee3ng L\u00e2m"
+    ],
+    "name:xsy_x_preferred":[
+        "Fenglin"
     ],
     "name:yue_x_preferred":[
         "\u9cf3\u6797\u93ae"
@@ -87,7 +108,7 @@
         }
     ],
     "wof:id":890467553,
-    "wof:lastmodified":1566589765,
+    "wof:lastmodified":1690875993,
     "wof:name":"Fenglin Zhen",
     "wof:parent_id":85679607,
     "wof:placetype":"localadmin",

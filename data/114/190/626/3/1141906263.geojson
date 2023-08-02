@@ -111,6 +111,9 @@
     "name:war_x_preferred":[
         "Yangmei"
     ],
+    "name:yue_x_preferred":[
+        "\u694a\u6885\u5340"
+    ],
     "name:zho_x_preferred":[
         "\u694a\u6885\u5340"
     ],
@@ -233,7 +236,7 @@
         }
     ],
     "wof:id":1141906263,
-    "wof:lastmodified":1636500767,
+    "wof:lastmodified":1690876028,
     "wof:name":"Yangmei",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",

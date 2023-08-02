@@ -16,6 +16,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:ceb_x_preferred":[
+        "Anak-kun"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Anak"
+    ],
     "name:eng_x_preferred":[
         "Anak County"
     ],
@@ -36,6 +42,9 @@
     ],
     "name:pol_x_preferred":[
         "An'ak"
+    ],
+    "name:swe_x_preferred":[
+        "Anak-kun"
     ],
     "name:vie_x_preferred":[
         "Anak"
@@ -83,7 +92,7 @@
         }
     ],
     "wof:id":890468495,
-    "wof:lastmodified":1566589839,
+    "wof:lastmodified":1690876021,
     "wof:name":"\u6c5f\u5c71\u91cc",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

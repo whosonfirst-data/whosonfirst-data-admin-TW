@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "County-administered city"
     ],
+    "name:eng_x_variant":[
+        "county-administered city"
+    ],
     "name:hak_x_preferred":[
         "Yen-hot-s\u1e73"
     ],
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":890467581,
-    "wof:lastmodified":1566589760,
+    "wof:lastmodified":1690875989,
     "wof:name":"Yuanlin Zhen",
     "wof:parent_id":85679593,
     "wof:placetype":"localadmin",

@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Tamatsukuri District"
     ],
+    "name:eng_x_variant":[
+        "Tamatsukuri district"
+    ],
     "name:jpn_x_preferred":[
         "\u7389\u9020\u90e1"
     ],
@@ -61,7 +64,7 @@
         }
     ],
     "wof:id":890470745,
-    "wof:lastmodified":1566589749,
+    "wof:lastmodified":1690875983,
     "wof:name":"\u5927\u5d0e\u6751",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

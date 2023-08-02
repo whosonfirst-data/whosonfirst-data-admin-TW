@@ -37,6 +37,9 @@
     "name:ast_x_preferred":[
         "Taoyuan"
     ],
+    "name:bel_x_preferred":[
+        "\u0422\u0430\u0430\u044e\u0430\u043d\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0993\u0989\u09af\u09bc\u09be\u09a8 \u09b6\u09b9\u09b0"
     ],
@@ -70,6 +73,9 @@
     "name:eng_x_preferred":[
         "Taoyuan City"
     ],
+    "name:eng_x_variant":[
+        "Taoyuan"
+    ],
     "name:epo_x_preferred":[
         "Taoyuan"
     ],
@@ -86,6 +92,9 @@
         "comt\u00e9 de Taoyuan"
     ],
     "name:fra_x_variant":[
+        "Taoyuan"
+    ],
+    "name:gle_x_preferred":[
         "Taoyuan"
     ],
     "name:guj_x_preferred":[
@@ -133,6 +142,9 @@
     "name:lzh_x_preferred":[
         "\u6843\u5712\u7e23"
     ],
+    "name:lzh_x_variant":[
+        "\u6843\u5712\u5e02"
+    ],
     "name:mar_x_preferred":[
         "\u0924\u093e\u0913\u092f\u0941\u0906\u0928 \u0936\u0939\u0930"
     ],
@@ -147,6 +159,9 @@
     ],
     "name:nan_x_preferred":[
         "Th\u00f4-hn\u0302g-ko\u0101n"
+    ],
+    "name:nan_x_variant":[
+        "Th\u00f4-hn\u0302g-tsh\u012b"
     ],
     "name:nld_x_preferred":[
         "Taoyuan"
@@ -172,6 +187,12 @@
     "name:swe_x_preferred":[
         "Taoyuan"
     ],
+    "name:szl_x_preferred":[
+        "Taoyuan"
+    ],
+    "name:szy_x_preferred":[
+        "Taw-yen"
+    ],
     "name:tam_x_preferred":[
         "\u0ba4\u0bbe\u0bb5\u0bcb\u0baf\u0bc2\u0baf\u0bbe\u0ba9\u0bcd \u0ba8\u0b95\u0bb0\u0bae\u0bcd"
     ],
@@ -190,14 +211,23 @@
     "name:urd_x_preferred":[
         "\u062a\u0627\u0648\u06cc\u0648\u0627\u0646"
     ],
+    "name:vec_x_preferred":[
+        "Taoyuan"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u00e0o Vi\u00ean"
+    ],
+    "name:war_x_preferred":[
+        "Taoyuan"
     ],
     "name:wuu_x_preferred":[
         "\u6843\u5712\u5e02"
     ],
     "name:yue_x_preferred":[
         "\u6843\u5712\u7e23"
+    ],
+    "name:yue_x_variant":[
+        "\u6843\u5712\u5e02"
     ],
     "name:zha_x_preferred":[
         "Dauzyenz"
@@ -244,7 +274,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1636500733,
+    "wof:lastmodified":1690875942,
     "wof:name":"Taoyuan",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

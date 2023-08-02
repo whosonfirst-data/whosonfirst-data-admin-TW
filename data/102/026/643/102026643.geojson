@@ -28,6 +28,12 @@
     "name:ara_x_preferred":[
         "\u062a\u0627\u064a\u0646\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u062a\u0627\u064a\u0646\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Tainan"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0422\u0430\u0439\u043d\u0430\u043d\u044c"
     ],
@@ -37,11 +43,17 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0987\u09a8\u09be\u09a8"
     ],
+    "name:bul_x_preferred":[
+        "\u0422\u0430\u0439\u043d\u0430\u043d"
+    ],
     "name:cat_x_preferred":[
         "Tainan"
     ],
     "name:cdo_x_preferred":[
         "D\u00e0i-n\u00e0ng"
+    ],
+    "name:ceb_x_preferred":[
+        "Tainan"
     ],
     "name:ces_x_preferred":[
         "Tchaj-nan"
@@ -88,6 +100,9 @@
     "name:hak_x_preferred":[
         "Th\u00f2i-n\u00e0m-s\u1e73"
     ],
+    "name:hau_x_preferred":[
+        "Tainan"
+    ],
     "name:heb_x_preferred":[
         "\u05d8\u05d0\u05d9\u05e0\u05d0\u05df"
     ],
@@ -102,6 +117,9 @@
     ],
     "name:ind_x_preferred":[
         "Kota Tainan"
+    ],
+    "name:isl_x_preferred":[
+        "Ta\u00ednan"
     ],
     "name:ita_x_preferred":[
         "Tainan"
@@ -169,6 +187,9 @@
     "name:que_x_variant":[
         "T'aynam"
     ],
+    "name:ron_x_preferred":[
+        "Tainan"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0439\u043d\u0430\u043d\u044c"
     ],
@@ -177,6 +198,12 @@
     ],
     "name:sin_x_preferred":[
         "\u0da7\u0dba\u0dd2\u0db1\u0db1\u0dca"
+    ],
+    "name:slk_x_preferred":[
+        "Tainan"
+    ],
+    "name:slv_x_preferred":[
+        "Tajnan"
     ],
     "name:spa_x_preferred":[
         "Tainan"
@@ -187,6 +214,9 @@
     "name:szl_x_preferred":[
         "Tainan"
     ],
+    "name:szy_x_preferred":[
+        "Tay-nan"
+    ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bc8\u0ba9\u0bbe\u0ba9\u0bcd"
     ],
@@ -195,6 +225,9 @@
     ],
     "name:tha_x_preferred":[
         "\u0e44\u0e16\u0e2b\u0e19\u0e31\u0e19"
+    ],
+    "name:tha_x_variant":[
+        "\u0e44\u0e16\u0e2b\u0e19\u0e32\u0e19"
     ],
     "name:tur_x_preferred":[
         "Tainan"
@@ -211,6 +244,9 @@
     "name:urd_x_preferred":[
         "\u062a\u0627\u06cc\u0646\u0627\u0646"
     ],
+    "name:vec_x_preferred":[
+        "Tainan"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u00e0i Nam"
     ],
@@ -219,6 +255,9 @@
     ],
     "name:wuu_x_preferred":[
         "\u53f0\u5357\u5e02"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e2\u10d0\u10d8\u10dc\u10d0\u10dc\u10d8"
     ],
     "name:yue_x_preferred":[
         "\u81fa\u5357"
@@ -372,7 +411,7 @@
         }
     ],
     "wof:id":102026643,
-    "wof:lastmodified":1617130924,
+    "wof:lastmodified":1690875915,
     "wof:megacity":1,
     "wof:name":"Tainan",
     "wof:parent_id":85679553,

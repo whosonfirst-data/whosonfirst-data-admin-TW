@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Xiaolin"
     ],
+    "name:eng_x_variant":[
+        "Xiaolin Village"
+    ],
     "name:fra_x_preferred":[
         "Xiaolin"
     ],
@@ -76,7 +79,7 @@
         }
     ],
     "wof:id":890470865,
-    "wof:lastmodified":1566589743,
+    "wof:lastmodified":1690875982,
     "wof:name":"\u5c0f\u6797\u6751",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

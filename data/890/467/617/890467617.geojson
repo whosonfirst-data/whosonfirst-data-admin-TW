@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "East District"
     ],
+    "name:fra_x_preferred":[
+        "district Est"
+    ],
     "name:jpn_x_preferred":[
         "\u6771\u533a"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn \u0110\u00f4ng"
+    ],
+    "name:yue_x_preferred":[
+        "\u6771\u5340"
     ],
     "name:zho_x_preferred":[
         "\u6771\u5340"
@@ -75,7 +81,7 @@
         }
     ],
     "wof:id":890467617,
-    "wof:lastmodified":1566589757,
+    "wof:lastmodified":1690875987,
     "wof:name":"Dong Qu",
     "wof:parent_id":85679603,
     "wof:placetype":"localadmin",

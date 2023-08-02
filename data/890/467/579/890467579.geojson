@@ -25,6 +25,9 @@
     "name:eng_x_preferred":[
         "County-administered city"
     ],
+    "name:eng_x_variant":[
+        "county-administered city"
+    ],
     "name:hak_x_preferred":[
         "Yen-hot-s\u1e73"
     ],
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":890467579,
-    "wof:lastmodified":1566589771,
+    "wof:lastmodified":1690875998,
     "wof:name":"Fengyuan Shi",
     "wof:parent_id":85679617,
     "wof:placetype":"localadmin",

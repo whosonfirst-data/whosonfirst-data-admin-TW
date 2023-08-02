@@ -22,6 +22,9 @@
     "name:ara_x_preferred":[
         "\u0645\u0627\u063a\u0648\u0646\u063a"
     ],
+    "name:cat_x_preferred":[
+        "Magong"
+    ],
     "name:ces_x_preferred":[
         "Ma-kung"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:hak_x_preferred":[
         "M\u00e2-k\u00fbng-s\u1e73"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d0\u05d2\u05d5\u05e0\u05d2"
     ],
     "name:ita_x_preferred":[
         "Magong"
@@ -68,6 +74,9 @@
         "\u041c\u0430\u0433\u0443\u043d"
     ],
     "name:slv_x_preferred":[
+        "Magong"
+    ],
+    "name:spa_x_preferred":[
         "Magong"
     ],
     "name:tur_x_preferred":[
@@ -209,7 +218,7 @@
         }
     ],
     "wof:id":890472077,
-    "wof:lastmodified":1566589751,
+    "wof:lastmodified":1690875983,
     "wof:name":"Ma-kung",
     "wof:parent_id":85679627,
     "wof:placetype":"locality",

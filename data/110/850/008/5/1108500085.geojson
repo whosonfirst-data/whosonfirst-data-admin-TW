@@ -42,6 +42,9 @@
     "name:cdo_x_preferred":[
         "P\u00e0ng-h\u00f9-g\u00e2ing"
     ],
+    "name:ceb_x_preferred":[
+        "Penghu"
+    ],
     "name:ces_x_preferred":[
         "Okres Pcheng-chu"
     ],
@@ -66,6 +69,9 @@
     "name:epo_x_preferred":[
         "Penghuoj"
     ],
+    "name:eus_x_preferred":[
+        "Penghu konderria"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0646\u06af\u0647\u0648"
     ],
@@ -80,6 +86,9 @@
     ],
     "name:hak_x_preferred":[
         "Ph\u00e0ng-f\u00f9-yen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05e0\u05d2\u05d7\u05d5"
     ],
     "name:hin_x_preferred":[
         "\u092a\u0947\u0902\u0918\u0941"
@@ -105,6 +114,9 @@
     "name:kor_x_variant":[
         "\ud391\ud6c4\ud604"
     ],
+    "name:lzh_x_preferred":[
+        "\u6f8e\u6e56\u7e23"
+    ],
     "name:mal_x_preferred":[
         "\u0d2a\u0d46\u0d7b\u0d18\u0d41"
     ],
@@ -128,6 +140,9 @@
     ],
     "name:rus_x_preferred":[
         "\u041f\u044d\u043d\u0445\u0443"
+    ],
+    "name:rus_x_variant":[
+        "\u0443\u0435\u0437\u0434 \u041f\u044d\u043d\u0445\u0443"
     ],
     "name:sco_x_preferred":[
         "Penghu"
@@ -200,7 +215,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1636500737,
+    "wof:lastmodified":1690875948,
     "wof:name":"Penghu",
     "wof:parent_id":85679627,
     "wof:placetype":"macrocounty",

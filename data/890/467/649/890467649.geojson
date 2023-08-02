@@ -19,8 +19,14 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Shetou Xiang"
+    ],
     "name:eng_x_preferred":[
         "Shetou"
+    ],
+    "name:eng_x_variant":[
+        "Shetou Township"
     ],
     "name:hak_x_preferred":[
         "Sa-th\u00e8u-hi\u00f4ng"
@@ -34,11 +40,17 @@
     "name:kor_x_preferred":[
         "\uc11c\ud130\uc6b0\ud5a5"
     ],
+    "name:lld_x_preferred":[
+        "Shetou"
+    ],
     "name:nan_x_preferred":[
         "Si\u0101-th\u00e2u-hiong"
     ],
     "name:pol_x_preferred":[
         "Shetou"
+    ],
+    "name:rus_x_preferred":[
+        "\u0428\u044d\u0442\u043e\u0443"
     ],
     "name:vie_x_preferred":[
         "X\u00e3 \u0110\u1ea7u"
@@ -82,7 +94,7 @@
         }
     ],
     "wof:id":890467649,
-    "wof:lastmodified":1566589766,
+    "wof:lastmodified":1690875994,
     "wof:name":"Shetou Xiang",
     "wof:parent_id":85679593,
     "wof:placetype":"localadmin",

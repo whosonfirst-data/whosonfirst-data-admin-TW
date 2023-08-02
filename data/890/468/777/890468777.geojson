@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Wenshan Qu"
+    ],
     "name:deu_x_preferred":[
         "Wenshan"
     ],
@@ -55,6 +58,9 @@
     "name:pol_x_preferred":[
         "Wenshan"
     ],
+    "name:rus_x_preferred":[
+        "\u0412\u044d\u043d\u044c\u0448\u0430\u043d\u044c"
+    ],
     "name:spa_x_preferred":[
         "Wenshan"
     ],
@@ -63,6 +69,9 @@
     ],
     "name:vie_x_preferred":[
         "V\u0103n S\u01a1n"
+    ],
+    "name:yue_x_preferred":[
+        "\u6587\u5c71\u5340"
     ],
     "name:zho_x_preferred":[
         "Chin-mei-ch\u2019\u00fc"
@@ -104,7 +113,7 @@
         }
     ],
     "wof:id":890468777,
-    "wof:lastmodified":1566589826,
+    "wof:lastmodified":1690876015,
     "wof:name":"Wenshan Qu",
     "wof:parent_id":85679583,
     "wof:placetype":"localadmin",

@@ -19,8 +19,17 @@
     "name:ara_x_preferred":[
         "\u0645\u062d\u0627\u0641\u0638\u0629 \u062a\u0627\u064a\u0647\u0648\u0646\u063a"
     ],
+    "name:ceb_x_preferred":[
+        "Taeh\u016dng-gun"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Taehung"
+    ],
     "name:eng_x_preferred":[
         "Taehung County"
+    ],
+    "name:hun_x_preferred":[
+        "Tehung"
     ],
     "name:jpn_x_preferred":[
         "\u5927\u8208\u90e1"
@@ -40,8 +49,14 @@
     "name:sco_x_preferred":[
         "Taehung"
     ],
+    "name:swe_x_preferred":[
+        "Taeh\u016dng-gun"
+    ],
     "name:vie_x_preferred":[
         "Taehung"
+    ],
+    "name:yue_x_preferred":[
+        "\u5927\u8208\u90e1"
     ],
     "name:zho_x_preferred":[
         "\u5927\u8208\u90e1"
@@ -86,7 +101,7 @@
         }
     ],
     "wof:id":890471737,
-    "wof:lastmodified":1566589672,
+    "wof:lastmodified":1690875961,
     "wof:name":"\u5927\u540c\u91cc",
     "wof:parent_id":102026641,
     "wof:placetype":"neighbourhood",

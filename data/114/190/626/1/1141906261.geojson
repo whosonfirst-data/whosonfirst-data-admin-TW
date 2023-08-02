@@ -24,6 +24,9 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u0987\u09ac\u09cb"
     ],
+    "name:ceb_x_preferred":[
+        "Taibao Shi"
+    ],
     "name:ces_x_preferred":[
         "Tchaj-pao"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:eng_x_preferred":[
         "Taibao"
+    ],
+    "name:eng_x_variant":[
+        "Taibao City"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0627\u06cc\u0628\u0627\u0626\u0648"
@@ -72,6 +78,9 @@
     "name:lit_x_preferred":[
         "Taibao"
     ],
+    "name:lzh_x_preferred":[
+        "\u592a\u4fdd\u5e02"
+    ],
     "name:nan_x_preferred":[
         "Th\u00e0i-p\u00f3-chh\u012b"
     ],
@@ -91,6 +100,12 @@
         "Taibao"
     ],
     "name:swe_x_preferred":[
+        "Taibao"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e44\u0e17\u0e48\u0e40\u0e1b\u0e48\u0e32"
+    ],
+    "name:tur_x_preferred":[
         "Taibao"
     ],
     "name:ukr_x_preferred":[
@@ -227,7 +242,7 @@
         }
     ],
     "wof:id":1141906261,
-    "wof:lastmodified":1636500767,
+    "wof:lastmodified":1690876028,
     "wof:name":"Taibao",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

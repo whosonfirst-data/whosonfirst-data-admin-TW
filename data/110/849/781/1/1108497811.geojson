@@ -42,6 +42,9 @@
     "name:cym_x_preferred":[
         "Sir Lienchiang"
     ],
+    "name:ell_x_preferred":[
+        "\u039b\u03b9\u03ad\u03bd\u03c4\u03b6\u03b9\u03b1\u03bd\u03b3\u03ba \u039a\u03ac\u03bf\u03c5\u03bd\u03c4\u03b9"
+    ],
     "name:eng_x_preferred":[
         "Lienchiang County"
     ],
@@ -51,11 +54,17 @@
     "name:fra_x_preferred":[
         "comt\u00e9 de Lienchiang"
     ],
+    "name:frr_x_preferred":[
+        "Lienchiang"
+    ],
     "name:hak_x_preferred":[
         "Li\u00e8n-k\u00f4ng-yen"
     ],
     "name:ind_x_preferred":[
         "Kepulauan Lienchiang"
+    ],
+    "name:ind_x_variant":[
+        "Kabupaten Lienchiang"
     ],
     "name:jpn_x_preferred":[
         "\u9023\u6c5f\u770c"
@@ -66,8 +75,20 @@
     "name:kor_x_variant":[
         "\ub844\uc7a5\ud604"
     ],
+    "name:lzh_x_preferred":[
+        "\u4e2d\u83ef\u6c11\u570b\u9023\u6c5f\u7e23"
+    ],
     "name:nan_x_preferred":[
         "Li\u00e2n-kang-ko\u0101n"
+    ],
+    "name:nob_x_preferred":[
+        "Lienchiang"
+    ],
+    "name:rus_x_preferred":[
+        "\u041b\u044f\u043d\u044c\u0446\u0437\u044f\u043d"
+    ],
+    "name:szy_x_preferred":[
+        "Liyen-cyang-sin"
     ],
     "name:yue_x_preferred":[
         "\u9023\u6c5f\u7e23"
@@ -113,7 +134,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1617131465,
+    "wof:lastmodified":1690875956,
     "wof:name":"Lienchiang",
     "wof:parent_id":85679637,
     "wof:placetype":"macrocounty",

@@ -40,11 +40,17 @@
     "name:kor_x_preferred":[
         "\ud130\uc6b0\uccad\uc9c4"
     ],
+    "name:lld_x_preferred":[
+        "Toucheng"
+    ],
     "name:nan_x_preferred":[
         "Th\u00e2u-si\u00e2\u207f-t\u00ecn"
     ],
     "name:nld_x_preferred":[
         "Toucheng"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u043e\u0443\u0447\u044d\u043d"
     ],
     "name:und_x_variant":[
         "Toucheng Jhen"
@@ -94,7 +100,7 @@
         }
     ],
     "wof:id":890468305,
-    "wof:lastmodified":1566589831,
+    "wof:lastmodified":1690876018,
     "wof:name":"Toucheng Zhen",
     "wof:parent_id":85679567,
     "wof:placetype":"localadmin",
