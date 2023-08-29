@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.397879,23.2867325,120.397879,23.2867325",
+    "geom:bbox":"120.397879,23.286732,120.397879,23.286732",
     "geom:latitude":23.286732,
     "geom:longitude":120.397879,
     "gp:adm0":23424971,
@@ -18,6 +18,9 @@
     "mz:min_zoom":6.0,
     "name:ces_x_preferred":[
         "Okres Tchaj-nan"
+    ],
+    "name:cym_x_preferred":[
+        "Sir Tainan"
     ],
     "name:deu_x_preferred":[
         "Landkreis Tainan"
@@ -51,6 +54,9 @@
     ],
     "name:por_x_preferred":[
         "Tainan"
+    ],
+    "name:rus_x_preferred":[
+        "\u0443\u0435\u0437\u0434 \u0422\u0430\u0439\u043d\u0430\u043d\u044c"
     ],
     "name:tha_x_preferred":[
         "\u0e44\u0e16\u0e2b\u0e19\u0e32\u0e19"
@@ -92,7 +98,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053668,
-    "wof:geomhash":"700fa5d776dc72df8d4efbdab0c44c39",
+    "wof:geomhash":"8304315d7a2c85fb18a63291cd306509",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,7 +110,7 @@
         }
     ],
     "wof:id":890467863,
-    "wof:lastmodified":1566589769,
+    "wof:lastmodified":1690875996,
     "wof:name":"\u67f3\u71df\u9109",
     "wof:parent_id":1108756869,
     "wof:placetype":"county",
@@ -115,9 +121,9 @@
 },
   "bbox": [
     120.397879,
-    23.2867325,
+    23.286732,
     120.397879,
-    23.2867325
+    23.286732
 ],
-  "geometry": {"coordinates":[120.397879,23.2867325],"type":"Point"}
+  "geometry": {"coordinates":[120.397879,23.286732],"type":"Point"}
 }

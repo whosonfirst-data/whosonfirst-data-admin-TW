@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Wujie Xiang"
     ],
+    "name:deu_x_preferred":[
+        "Wujie"
+    ],
     "name:eng_x_preferred":[
         "Wujie"
     ],
@@ -37,14 +40,23 @@
     "name:kor_x_preferred":[
         "\uc6b0\uc81c\ud5a5"
     ],
+    "name:lld_x_preferred":[
+        "Wujie"
+    ],
     "name:nan_x_preferred":[
         "G\u014d\u0358-kiat-hiong"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u0446\u0437\u0435"
     ],
     "name:und_x_variant":[
         "Wu-chieh Hsiang"
     ],
     "name:vie_x_preferred":[
         "Ng\u0169 K\u1ebft"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e94\u7d50\u9109"
     ],
     "name:zho_x_preferred":[
         "\u4e94\u7d50\u9109"
@@ -81,7 +93,7 @@
         }
     ],
     "wof:id":890467703,
-    "wof:lastmodified":1566589764,
+    "wof:lastmodified":1690875992,
     "wof:name":"Wujie Xiang",
     "wof:parent_id":85679567,
     "wof:placetype":"localadmin",

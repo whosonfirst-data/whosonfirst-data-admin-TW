@@ -33,6 +33,9 @@
     "name:eng_x_preferred":[
         "Puzi"
     ],
+    "name:eng_x_variant":[
+        "Puzi City"
+    ],
     "name:fas_x_preferred":[
         "\u067e\u0648\u0632\u06cc"
     ],
@@ -90,8 +93,14 @@
     "name:swe_x_preferred":[
         "Puzi"
     ],
+    "name:tur_x_preferred":[
+        "Puzi"
+    ],
     "name:ukr_x_preferred":[
         "\u041f\u0443\u0437\u0456"
+    ],
+    "name:ukr_x_variant":[
+        "\u041f\u0443\u0446\u0437\u0438"
     ],
     "name:urd_x_preferred":[
         "\u067e\u0648\u0632\u06cc"
@@ -224,7 +233,7 @@
         }
     ],
     "wof:id":1141906821,
-    "wof:lastmodified":1636500767,
+    "wof:lastmodified":1690876028,
     "wof:name":"Puzi",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"120.3719355,22.5657195,120.3719355,22.5657195",
+    "geom:bbox":"120.371936,22.56572,120.371936,22.56572",
     "geom:latitude":22.56572,
     "geom:longitude":120.371936,
     "gp:adm0":23424971,
@@ -19,11 +19,17 @@
     "name:ceb_x_preferred":[
         "\u016cnd\u014fk-kun"
     ],
+    "name:cym_x_preferred":[
+        "Sir Kyonghung"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039a\u03b9\u03bf\u03bd\u03b3\u03ba\u03c7\u03bf\u03cd\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Kyonghung County"
+    ],
+    "name:hun_x_preferred":[
+        "Kjonghung"
     ],
     "name:jpn_x_preferred":[
         "\u6069\u5fb3\u90e1"
@@ -50,7 +56,8 @@
         "\u4f38\u6e2f\u9109"
     ],
     "name:zho_x_variant":[
-        "\u6069\u5fb7\u90e1"
+        "\u6069\u5fb7\u90e1",
+        "\u6176\u8208\u90e1"
     ],
     "qs:name":"\u677e\u5c71\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
@@ -80,7 +87,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053829,
-    "wof:geomhash":"6be02290988e2f10903957938c6c20ce",
+    "wof:geomhash":"28c42be92bdb22a4342c6aaf609cdc20",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -92,7 +99,7 @@
         }
     ],
     "wof:id":890470707,
-    "wof:lastmodified":1566589715,
+    "wof:lastmodified":1690875973,
     "wof:name":"\u677e\u5c71\u91cc",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
@@ -102,10 +109,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    120.3719355,
-    22.5657195,
-    120.3719355,
-    22.5657195
+    120.371936,
+    22.56572,
+    120.371936,
+    22.56572
 ],
-  "geometry": {"coordinates":[120.37193550000001,22.5657195],"type":"Point"}
+  "geometry": {"coordinates":[120.37193600000001,22.56572],"type":"Point"}
 }

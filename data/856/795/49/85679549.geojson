@@ -32,6 +32,12 @@
     "name:ara_x_preferred":[
         "\u0628\u064a\u0646\u063a\u062a\u0648\u0646\u063a"
     ],
+    "name:arz_x_preferred":[
+        "\u0628\u064a\u0646\u062c\u062a\u0648\u0646\u062c"
+    ],
+    "name:ast_x_preferred":[
+        "Pingtung City"
+    ],
     "name:ben_x_preferred":[
         "\u09aa\u09bf\u0982\u099f\u09c1\u0982"
     ],
@@ -101,6 +107,9 @@
     "name:nld_x_preferred":[
         "Pingtung"
     ],
+    "name:nob_x_preferred":[
+        "Pingtung"
+    ],
     "name:pol_x_preferred":[
         "Pingdong"
     ],
@@ -114,6 +123,9 @@
         "Pingtung"
     ],
     "name:swe_x_preferred":[
+        "Pingtung"
+    ],
+    "name:tgl_x_preferred":[
         "Pingtung"
     ],
     "name:tur_x_preferred":[
@@ -262,7 +274,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1636500725,
+    "wof:lastmodified":1690875936,
     "wof:name":"Pingtung",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

@@ -22,6 +22,9 @@
     "name:epo_x_preferred":[
         "\u8cf4\u798f\u91cc"
     ],
+    "name:fra_x_preferred":[
+        "district Ouest"
+    ],
     "name:ita_x_preferred":[
         "Distretto Occidentale"
     ],
@@ -39,6 +42,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn T\u00e2y"
+    ],
+    "name:yue_x_preferred":[
+        "\u897f\u5340"
     ],
     "name:zho_x_preferred":[
         "\u897f\u5340"
@@ -83,7 +89,7 @@
         }
     ],
     "wof:id":890470219,
-    "wof:lastmodified":1566589719,
+    "wof:lastmodified":1690875975,
     "wof:name":"\u5fe0\u8aa0\u91cc",
     "wof:parent_id":102026701,
     "wof:placetype":"neighbourhood",

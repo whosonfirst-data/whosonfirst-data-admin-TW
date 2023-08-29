@@ -19,10 +19,16 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Daxi Zhen"
+    ],
     "name:deu_x_preferred":[
         "Daxi"
     ],
     "name:eng_x_preferred":[
+        "Daxi"
+    ],
+    "name:fra_x_preferred":[
         "Daxi"
     ],
     "name:hak_x_preferred":[
@@ -40,11 +46,17 @@
     "name:nan_x_preferred":[
         "T\u0101i-khe-t\u00ecn"
     ],
+    "name:rus_x_preferred":[
+        "\u0414\u0430\u0446\u0438"
+    ],
     "name:und_x_variant":[
         "Ta-hsi Chen"
     ],
     "name:vie_x_preferred":[
         "\u0110\u1ea1i Kh\u00ea"
+    ],
+    "name:yue_x_preferred":[
+        "\u5927\u6eaa\u5340"
     ],
     "name:zho_x_preferred":[
         "\u5927\u6eaa\u93ae"
@@ -84,7 +96,7 @@
         }
     ],
     "wof:id":890467575,
-    "wof:lastmodified":1566589761,
+    "wof:lastmodified":1690875989,
     "wof:name":"Daxi Zhen",
     "wof:parent_id":85679589,
     "wof:placetype":"localadmin",

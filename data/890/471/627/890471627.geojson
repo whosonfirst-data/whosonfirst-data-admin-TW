@@ -56,6 +56,12 @@
     "name:rus_x_preferred":[
         "\u0413\u0430\u043e\u0441\u044e\u043d"
     ],
+    "name:rus_x_variant":[
+        "\u0443\u0435\u0437\u0434 \u0413\u0430\u043e\u0441\u044e\u043d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e40\u0e01\u0e32\u0e2a\u0e3a\u0e22\u0e07"
+    ],
     "name:vie_x_preferred":[
         "Cao H\u00f9ng"
     ],
@@ -103,7 +109,7 @@
         }
     ],
     "wof:id":890471627,
-    "wof:lastmodified":1566589678,
+    "wof:lastmodified":1690875962,
     "wof:name":"\u5ca1\u5c71\u93ae",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",

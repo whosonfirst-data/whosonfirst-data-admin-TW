@@ -27,8 +27,14 @@
     "name:ben_x_preferred":[
         "\u099d\u09c1\u09ac\u09c7\u0987"
     ],
+    "name:ceb_x_preferred":[
+        "Zhubei Shi"
+    ],
     "name:ces_x_preferred":[
         "\u010cu-pej"
+    ],
+    "name:cym_x_preferred":[
+        "Zhubei"
     ],
     "name:deu_x_preferred":[
         "Zhubei"
@@ -38,6 +44,9 @@
     ],
     "name:eng_x_preferred":[
         "Zhubei"
+    ],
+    "name:epo_x_preferred":[
+        "\u0134ubej"
     ],
     "name:fas_x_preferred":[
         "\u0698\u0648\u0628\u06cc"
@@ -75,10 +84,16 @@
     "name:lit_x_preferred":[
         "D\u017eub\u0117jus"
     ],
+    "name:lzh_x_preferred":[
+        "\u7af9\u5317\u5e02"
+    ],
     "name:nan_x_preferred":[
         "Tek-pak-chh\u012b"
     ],
     "name:nld_x_preferred":[
+        "Zhubei"
+    ],
+    "name:nob_x_preferred":[
         "Zhubei"
     ],
     "name:pol_x_preferred":[
@@ -97,6 +112,12 @@
         "Zhubei"
     ],
     "name:swe_x_preferred":[
+        "Zhubei"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e08\u0e39\u0e4b\u0e40\u0e1b\u0e48\u0e22\u0e4c"
+    ],
+    "name:tur_x_preferred":[
         "Zhubei"
     ],
     "name:ukr_x_preferred":[
@@ -262,7 +283,7 @@
         }
     ],
     "wof:id":102026743,
-    "wof:lastmodified":1636500715,
+    "wof:lastmodified":1690875927,
     "wof:name":"Zhubei",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",

@@ -37,14 +37,23 @@
     "name:kor_x_preferred":[
         "\uc8a1\uc6e8\uc774\ud5a5"
     ],
+    "name:lld_x_preferred":[
+        "Zhuangwei"
+    ],
     "name:nan_x_preferred":[
         "Ch\u00f2ng-\u00fbi-hiong"
+    ],
+    "name:rus_x_preferred":[
+        "\u0427\u0436\u0443\u0430\u043d\u0432\u044d\u0439"
     ],
     "name:und_x_variant":[
         "Chuang-wei"
     ],
     "name:vie_x_preferred":[
         "Tr\u00e1ng Vi"
+    ],
+    "name:yue_x_preferred":[
+        "\u58ef\u570d\u9109"
     ],
     "name:zho_x_preferred":[
         "\u58ef\u570d\u9109"
@@ -81,7 +90,7 @@
         }
     ],
     "wof:id":890468765,
-    "wof:lastmodified":1566589812,
+    "wof:lastmodified":1690876010,
     "wof:name":"Zhuangwei Xiang",
     "wof:parent_id":85679567,
     "wof:placetype":"localadmin",

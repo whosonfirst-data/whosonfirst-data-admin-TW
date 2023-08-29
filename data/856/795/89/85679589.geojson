@@ -32,8 +32,14 @@
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09df\u09cb\u0987\u0989\u09df\u09be\u09a8"
     ],
+    "name:cdo_x_preferred":[
+        "T\u00f2\u0324-hu\u00f2ng"
+    ],
     "name:ceb_x_preferred":[
         "Taoyuan"
+    ],
+    "name:ces_x_preferred":[
+        "Tchao-j\u00fcan"
     ],
     "name:deu_x_preferred":[
         "Taoyuan"
@@ -94,6 +100,9 @@
         "Taoyuan"
     ],
     "name:por_x_preferred":[
+        "Taoyuan"
+    ],
+    "name:swe_x_preferred":[
         "Taoyuan"
     ],
     "name:tur_x_preferred":[
@@ -230,7 +239,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1636500724,
+    "wof:lastmodified":1690875934,
     "wof:name":"Taoyuan",
     "wof:parent_id":1108808543,
     "wof:placetype":"region",

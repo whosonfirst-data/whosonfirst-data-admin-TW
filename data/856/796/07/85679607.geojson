@@ -29,11 +29,20 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:ami_x_preferred":[
+        "Kalingko"
+    ],
     "name:ara_x_preferred":[
         "\u0647\u0648\u0627\u0644\u064a\u0646"
     ],
+    "name:bel_x_preferred":[
+        "\u0425\u0443\u0430\u043b\u044f\u043d\u044c"
+    ],
     "name:ben_x_preferred":[
         "\u09b9\u09c1\u09df\u09be\u09b2\u09bf\u09df\u09c7\u09a8"
+    ],
+    "name:cat_x_preferred":[
+        "Hu\u0101li\u00e1n"
     ],
     "name:ceb_x_preferred":[
         "Hualian"
@@ -59,6 +68,9 @@
         "Hualien Hsien",
         "Hualien City"
     ],
+    "name:epo_x_preferred":[
+        "Hualjan"
+    ],
     "name:fas_x_preferred":[
         "\u0647\u0648\u0627\u0644\u06cc\u0646"
     ],
@@ -68,17 +80,26 @@
     "name:fra_x_preferred":[
         "Hualien"
     ],
+    "name:gle_x_preferred":[
+        "Cathair Hualien"
+    ],
     "name:hak_x_preferred":[
         "F\u00e2-li\u00e8n-s\u1e73"
     ],
     "name:heb_x_preferred":[
         "\u05d4\u05d5\u05d0\u05dc\u05d9\u05d9\u05df"
     ],
+    "name:heb_x_variant":[
+        "\u05d7\u05d5\u05d5\u05d0\u05dc\u05d9\u05d9\u05df"
+    ],
     "name:hin_x_preferred":[
         "\u0939\u0941\u0906\u0932\u093f\u092f\u0928"
     ],
     "name:hun_x_preferred":[
         "Hualien"
+    ],
+    "name:hye_x_preferred":[
+        "\u0540\u0578\u0582\u0561\u056c\u0575\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Kota Hualien"
@@ -102,6 +123,15 @@
     "name:lit_x_preferred":[
         "Hualianas"
     ],
+    "name:mal_x_preferred":[
+        "\u0d39\u0d41\u0d35\u0d3e\u0d32\u0d3f\u0d2f\u0d46\u0d7b \u0d38\u0d3f\u0d31\u0d4d\u0d31\u0d3f"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0425\u0443\u0430\u0459\u0435\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Hualien"
+    ],
     "name:nan_x_preferred":[
         "Hoa-li\u00e2n-chh\u012b"
     ],
@@ -117,11 +147,17 @@
     "name:por_x_preferred":[
         "Hualien"
     ],
+    "name:pwn_x_preferred":[
+        "Hualien"
+    ],
     "name:rus_x_preferred":[
         "\u0425\u0443\u0430\u043b\u044f\u043d\u044c"
     ],
     "name:sco_x_preferred":[
         "Hualien Ceety"
+    ],
+    "name:slv_x_preferred":[
+        "Hualjen"
     ],
     "name:spa_x_preferred":[
         "Hualien"
@@ -132,17 +168,38 @@
     "name:swe_x_preferred":[
         "Hualien"
     ],
+    "name:szy_x_preferred":[
+        "Hualien"
+    ],
+    "name:tay_x_preferred":[
+        "Hualien"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e19\u0e04\u0e23\u0e2e\u0e27\u0e32\u0e40\u0e2b\u0e25\u0e35\u0e22\u0e19"
+    ],
+    "name:trv_x_preferred":[
+        "Skangki"
+    ],
     "name:tur_x_preferred":[
         "Hualien"
     ],
     "name:ukr_x_preferred":[
         "\u0425\u0443\u0430\u043b\u044f\u043d\u044c"
     ],
+    "name:urd_x_preferred":[
+        "\u06c1\u0648\u0627\u0644\u06cc\u0626\u0646 \u0634\u06c1\u0631"
+    ],
+    "name:vec_x_preferred":[
+        "Hualien"
+    ],
     "name:vie_x_preferred":[
         "Hoa Li\u00ean"
     ],
     "name:war_x_preferred":[
         "Hualien"
+    ],
+    "name:xsy_x_preferred":[
+        "Karinkokin"
     ],
     "name:yue_x_preferred":[
         "\u82b1\u84ee\u5e02"
@@ -276,7 +333,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1636500724,
+    "wof:lastmodified":1690875932,
     "wof:name":"Hualien",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

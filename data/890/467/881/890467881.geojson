@@ -16,11 +16,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":15.0,
+    "name:cat_x_preferred":[
+        "Beitun"
+    ],
     "name:eng_x_preferred":[
         "Beitun District"
     ],
     "name:epo_x_preferred":[
         "\u6b63\u82d3\u91cc"
+    ],
+    "name:fra_x_preferred":[
+        "Beitun"
     ],
     "name:jpn_x_preferred":[
         "\u5317\u5c6f\u533a"
@@ -34,8 +40,17 @@
     "name:pol_x_preferred":[
         "Beitun"
     ],
+    "name:rus_x_preferred":[
+        "\u0411\u044d\u0439\u0442\u0443\u043d\u044c"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e02\u0e15\u0e40\u0e1b\u0e48\u0e22\u0e4c\u0e16\u0e38\u0e19"
+    ],
     "name:vie_x_preferred":[
         "B\u1eafc \u0110\u1ed3n"
+    ],
+    "name:yue_x_preferred":[
+        "\u5317\u5c6f\u5340"
     ],
     "name:zho_x_preferred":[
         "\u5317\u5c6f\u5340"
@@ -80,7 +95,7 @@
         }
     ],
     "wof:id":890467881,
-    "wof:lastmodified":1566589758,
+    "wof:lastmodified":1690875987,
     "wof:name":"\u5e73\u798f\u91cc",
     "wof:parent_id":102026649,
     "wof:placetype":"neighbourhood",

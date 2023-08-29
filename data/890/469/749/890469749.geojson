@@ -20,7 +20,11 @@
         "Dazhong"
     ],
     "name:eng_x_variant":[
-        "Dazhong Village"
+        "Dazhong Village",
+        "West District"
+    ],
+    "name:fra_x_preferred":[
+        "district Ouest"
     ],
     "name:ita_x_preferred":[
         "Distretto Occidentale"
@@ -39,6 +43,9 @@
     ],
     "name:vie_x_preferred":[
         "Qu\u1eadn T\u00e2y"
+    ],
+    "name:yue_x_preferred":[
+        "\u897f\u5340"
     ],
     "name:zho_tw_x_preferred":[
         "\u5927\u5fe0\u91cc"
@@ -61,8 +68,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        102026643,
         1108808553,
+        102026643,
         85679553
     ],
     "wof:breaches":[],
@@ -86,7 +93,7 @@
         }
     ],
     "wof:id":890469749,
-    "wof:lastmodified":1601422988,
+    "wof:lastmodified":1690876003,
     "wof:name":"Dazhong",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

@@ -58,6 +58,9 @@
     "name:por_x_preferred":[
         "Linkou"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0438\u043d\u044c\u043a\u043e\u0443"
+    ],
     "name:swe_x_preferred":[
         "Linkou"
     ],
@@ -75,6 +78,9 @@
     ],
     "name:vie_x_preferred":[
         "L\u00e2m Kh\u1ea9u"
+    ],
+    "name:yue_x_preferred":[
+        "\u6797\u53e3\u5340"
     ],
     "name:zho_tw_x_preferred":[
         "\u6797\u53e3"
@@ -121,7 +127,7 @@
         }
     ],
     "wof:id":102026697,
-    "wof:lastmodified":1636500714,
+    "wof:lastmodified":1690875926,
     "wof:name":"Linkou",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

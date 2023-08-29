@@ -43,11 +43,17 @@
     "name:pol_x_preferred":[
         "Wugu"
     ],
+    "name:rus_x_preferred":[
+        "\u0423\u0433\u0443"
+    ],
     "name:ukr_x_preferred":[
         "\u0423\u0433\u0443"
     ],
     "name:vie_x_preferred":[
         "Ng\u0169 C\u1ed5"
+    ],
+    "name:yue_x_preferred":[
+        "\u4e94\u80a1\u5340"
     ],
     "name:zho_x_preferred":[
         "\u5927\u57e4\u9109"
@@ -95,7 +101,7 @@
         }
     ],
     "wof:id":890471635,
-    "wof:lastmodified":1566589683,
+    "wof:lastmodified":1690875963,
     "wof:name":"\u4e94\u80a1\u9109",
     "wof:parent_id":1108756871,
     "wof:placetype":"county",

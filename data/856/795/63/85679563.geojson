@@ -29,8 +29,17 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
+    "name:afr_x_preferred":[
+        "Hsinchu"
+    ],
     "name:ara_x_preferred":[
         "\u0633\u064a\u0646 \u0634\u0648"
+    ],
+    "name:arz_x_preferred":[
+        "\u0633\u064a\u0646 \u0634\u0648"
+    ],
+    "name:ast_x_preferred":[
+        "Hsinchu"
     ],
     "name:bel_x_preferred":[
         "\u0421\u0456\u043d\u044c\u0447\u0436\u0443"
@@ -53,6 +62,9 @@
     "name:ces_x_preferred":[
         "Sin-\u010du"
     ],
+    "name:cym_x_preferred":[
+        "Hsinchu"
+    ],
     "name:dan_x_preferred":[
         "Hsinchu"
     ],
@@ -68,7 +80,11 @@
     "name:eng_x_variant":[
         "Hsin-chu",
         "Hsinchu",
-        "Hsinchu Hsien"
+        "Hsinchu Hsien",
+        "Hsinchu City"
+    ],
+    "name:epo_x_preferred":[
+        "Hsin\u0109u"
     ],
     "name:fas_x_preferred":[
         "\u0633\u06cc\u0646\u0686\u0648"
@@ -77,6 +93,9 @@
         "Hsinchu"
     ],
     "name:fra_x_preferred":[
+        "Hsinchu"
+    ],
+    "name:gle_x_preferred":[
         "Hsinchu"
     ],
     "name:guj_x_preferred":[
@@ -183,6 +202,9 @@
     ],
     "name:urd_x_preferred":[
         "\u06c1\u0633\u06cc\u0646\u0686\u0648"
+    ],
+    "name:vec_x_preferred":[
+        "Hsinchu"
     ],
     "name:vie_x_preferred":[
         "T\u00e2n Tr\u00fac"
@@ -326,7 +348,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1636500725,
+    "wof:lastmodified":1690875934,
     "wof:name":"Hsinchu",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

@@ -20,6 +20,9 @@
     "name:eng_x_preferred":[
         "Ashina District"
     ],
+    "name:eng_x_variant":[
+        "Ashina district"
+    ],
     "name:jpn_x_preferred":[
         "\u82a6\u54c1\u90e1"
     ],
@@ -64,7 +67,7 @@
         }
     ],
     "wof:id":890468083,
-    "wof:lastmodified":1566589815,
+    "wof:lastmodified":1690876011,
     "wof:name":"\u5354\u548c\u6751",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",

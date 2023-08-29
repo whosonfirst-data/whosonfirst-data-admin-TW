@@ -21,8 +21,17 @@
     "name:ara_x_preferred":[
         "\u0628\u0633\u0643\u0627\u062f\u0648\u0631\u0632"
     ],
+    "name:ast_x_preferred":[
+        "Islles Pescadores"
+    ],
     "name:aze_x_preferred":[
         "Penhuledao"
+    ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09c7\u0982\u0998\u09c1 \u0986\u0987\u09b2\u09af\u09bc\u09be\u09a8\u09cd\u09a1"
+    ],
+    "name:bul_x_preferred":[
+        "\u041f\u0435\u043d\u0445\u0443"
     ],
     "name:cdo_x_preferred":[
         "P\u00e0ng-h\u00f9 G\u00f9ng-d\u014d\u0324"
@@ -215,7 +224,7 @@
         }
     ],
     "wof:id":890468319,
-    "wof:lastmodified":1636500759,
+    "wof:lastmodified":1690876024,
     "wof:name":"Penghu",
     "wof:parent_id":1108500085,
     "wof:placetype":"county",

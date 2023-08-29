@@ -50,14 +50,23 @@
     "name:pol_x_preferred":[
         "Yingge"
     ],
+    "name:rus_x_preferred":[
+        "\u0418\u043d\u0433\u044d"
+    ],
     "name:spa_x_preferred":[
         "Yingge Districto"
     ],
     "name:ukr_x_preferred":[
         "\u0406\u043d\u0433\u0435"
     ],
+    "name:urd_x_preferred":[
+        "\u06cc\u0646\u06af\u06af\u06d2 \u0636\u0644\u0639"
+    ],
     "name:vie_x_preferred":[
         "Oanh Ca"
+    ],
+    "name:yue_x_preferred":[
+        "\u9daf\u6b4c\u5340"
     ],
     "name:zho_x_preferred":[
         "\u5bcc\u8208\u6751"
@@ -103,7 +112,7 @@
         }
     ],
     "wof:id":890467977,
-    "wof:lastmodified":1566589760,
+    "wof:lastmodified":1690875989,
     "wof:name":"\u9daf\u6b4c\u93ae",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",

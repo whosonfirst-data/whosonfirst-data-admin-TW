@@ -25,6 +25,18 @@
     "name:eng_x_preferred":[
         "Taoyuan County"
     ],
+    "name:jpn_x_preferred":[
+        "\u6843\u5712\u770c"
+    ],
+    "name:nan_x_preferred":[
+        "Th\u00f4-hn\u0302g-ko\u0101n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0443\u0435\u0437\u0434 \u0422\u0430\u043e\u044e\u0430\u043d\u044c"
+    ],
+    "name:slv_x_preferred":[
+        "Taojuan"
+    ],
     "name:und_x_variant":[
         "Kuan-yin Hsiang"
     ],
@@ -66,7 +78,7 @@
         }
     ],
     "wof:id":890472047,
-    "wof:lastmodified":1566589751,
+    "wof:lastmodified":1690875983,
     "wof:name":"Guanyin Xiang",
     "wof:parent_id":85679589,
     "wof:placetype":"localadmin",

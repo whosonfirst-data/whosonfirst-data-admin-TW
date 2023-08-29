@@ -22,6 +22,15 @@
     "name:eng_x_preferred":[
         "Xiaogang District"
     ],
+    "name:eng_x_variant":[
+        "Siaogang District"
+    ],
+    "name:fra_x_preferred":[
+        "Siaogang"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u056b\u0561\u0563\u0578\u0576\u056b \u0577\u0580\u057b\u0561\u0576"
+    ],
     "name:jpn_x_preferred":[
         "\u5c0f\u6e2f\u533a"
     ],
@@ -37,8 +46,14 @@
     "name:pol_x_preferred":[
         "Xiaogang"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u044f\u043e\u0433\u0430\u043d"
+    ],
     "name:vie_x_preferred":[
         "Ti\u1ec3u C\u1ea3ng"
+    ],
+    "name:yue_x_preferred":[
+        "\u5c0f\u6e2f\u5340"
     ],
     "name:zho_x_preferred":[
         "Hsiao-kang Ch\u2019\u00fc"
@@ -78,7 +93,7 @@
         }
     ],
     "wof:id":890468709,
-    "wof:lastmodified":1566589812,
+    "wof:lastmodified":1690876010,
     "wof:name":"Xiaogang Qu",
     "wof:parent_id":85679547,
     "wof:placetype":"localadmin",

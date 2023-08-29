@@ -22,6 +22,9 @@
     "name:eng_x_preferred":[
         "Sinwu"
     ],
+    "name:eng_x_variant":[
+        "Xinwu District"
+    ],
     "name:hak_x_preferred":[
         "S\u00een-vuk-hi\u00f4ng"
     ],
@@ -40,8 +43,14 @@
     "name:pol_x_preferred":[
         "Xinwu"
     ],
+    "name:rus_x_preferred":[
+        "\u0421\u0438\u043d\u044c\u0443"
+    ],
     "name:vie_x_preferred":[
         "T\u00e2n \u1ed0c"
+    ],
+    "name:yue_x_preferred":[
+        "\u65b0\u5c4b\u5340"
     ],
     "name:zho_x_preferred":[
         "\u65b0\u5c4b\u5340"
@@ -86,7 +95,7 @@
         }
     ],
     "wof:id":890469959,
-    "wof:lastmodified":1566589791,
+    "wof:lastmodified":1690876004,
     "wof:name":"\u65b0\u5c4b\u9109",
     "wof:parent_id":1108499669,
     "wof:placetype":"county",

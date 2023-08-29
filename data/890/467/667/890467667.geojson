@@ -22,8 +22,14 @@
     "name:ceb_x_preferred":[
         "Xingang"
     ],
+    "name:deu_x_preferred":[
+        "Xingang"
+    ],
     "name:eng_x_preferred":[
         "Xingang"
+    ],
+    "name:eng_x_variant":[
+        "Xingang Township"
     ],
     "name:hak_x_preferred":[
         "S\u00een-k\u00f3ng-hi\u00f4ng"
@@ -33,6 +39,9 @@
     ],
     "name:kor_x_preferred":[
         "\uc2e0\uac15\ud5a5"
+    ],
+    "name:lld_x_preferred":[
+        "Xingang"
     ],
     "name:nan_x_preferred":[
         "Sin-k\u00e1ng-hiong"
@@ -87,7 +96,7 @@
         }
     ],
     "wof:id":890467667,
-    "wof:lastmodified":1566589759,
+    "wof:lastmodified":1690875988,
     "wof:name":"Xingang Xiang",
     "wof:parent_id":85679599,
     "wof:placetype":"localadmin",

@@ -35,6 +35,9 @@
     "name:nan_x_preferred":[
         "Si\u0101n-ho\u00e0-khu"
     ],
+    "name:rus_x_preferred":[
+        "\u0428\u0430\u043d\u044c\u0445\u0443\u0430"
+    ],
     "name:vie_x_preferred":[
         "Thi\u1ec7n H\u00f3a"
     ],
@@ -82,7 +85,7 @@
         }
     ],
     "wof:id":890471019,
-    "wof:lastmodified":1566589699,
+    "wof:lastmodified":1690875968,
     "wof:name":"\u5584\u5316\u93ae",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",

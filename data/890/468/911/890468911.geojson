@@ -19,11 +19,17 @@
     "name:ceb_x_preferred":[
         "\u016cnd\u014fk-kun"
     ],
+    "name:cym_x_preferred":[
+        "Sir Kyonghung"
+    ],
     "name:ell_x_preferred":[
         "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u039a\u03b9\u03bf\u03bd\u03b3\u03ba\u03c7\u03bf\u03cd\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
         "Kyonghung County"
+    ],
+    "name:hun_x_preferred":[
+        "Kjonghung"
     ],
     "name:jpn_x_preferred":[
         "\u6069\u5fb3\u90e1"
@@ -50,7 +56,8 @@
         "\u6eaa\u5e95\u6751"
     ],
     "name:zho_x_variant":[
-        "\u6069\u5fb7\u90e1"
+        "\u6069\u5fb7\u90e1",
+        "\u6176\u8208\u90e1"
     ],
     "qs:name":"\u660e\u5fb7\u91cc",
     "qs:name_adm0":"\u81fa\u7063",
@@ -92,7 +99,7 @@
         }
     ],
     "wof:id":890468911,
-    "wof:lastmodified":1566589841,
+    "wof:lastmodified":1690876022,
     "wof:name":"\u660e\u5fb7\u91cc",
     "wof:parent_id":102026643,
     "wof:placetype":"neighbourhood",

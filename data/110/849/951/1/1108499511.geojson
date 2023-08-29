@@ -66,6 +66,9 @@
     "name:eng_x_variant":[
         "Taitung"
     ],
+    "name:epo_x_preferred":[
+        "distrikto Taitung"
+    ],
     "name:eus_x_preferred":[
         "Taitung konderria"
     ],
@@ -83,6 +86,9 @@
     ],
     "name:hak_x_preferred":[
         "Th\u00f2i-t\u00fbng-yen"
+    ],
+    "name:heb_x_preferred":[
+        "\u05de\u05d7\u05d5\u05d6 \u05d8\u05d9\u05d9\u05d8\u05d5\u05e0\u05d2"
     ],
     "name:hin_x_preferred":[
         "\u0924\u093e\u0907\u0924\u0941\u0902\u0917 \u0915\u093e\u0909\u0902\u091f\u0940"
@@ -138,8 +144,14 @@
     "name:por_x_preferred":[
         "Condado de Taitung"
     ],
+    "name:pwn_x_preferred":[
+        "taitu king"
+    ],
     "name:rus_x_preferred":[
         "\u0422\u0430\u0439\u0434\u0443\u043d"
+    ],
+    "name:rus_x_variant":[
+        "\u0443\u0435\u0437\u0434 \u0422\u0430\u0439\u0434\u0443\u043d"
     ],
     "name:sin_x_preferred":[
         "\u0da7\u0dba\u0dd2\u0da7\u0dd4\u0db1\u0dca\u0d9c\u0dca \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba"
@@ -149,6 +161,9 @@
     ],
     "name:swe_x_preferred":[
         "Taitung"
+    ],
+    "name:szy_x_preferred":[
+        "pusung"
     ],
     "name:tam_x_preferred":[
         "\u0b9f\u0bc8\u0b9f\u0bcd\u0b9f\u0bc1\u0b99\u0bcd \u0b95\u0bb5\u0bc1\u0ba3\u0bcd\u0b9f\u0bbf"
@@ -164,6 +179,9 @@
     ],
     "name:ukr_x_preferred":[
         "\u041e\u043a\u0440\u0443\u0433 \u0422\u0430\u0439\u0434\u0443\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u043f\u043e\u0432\u0456\u0442 \u0422\u0430\u0439\u0434\u0443\u043d"
     ],
     "name:urd_x_preferred":[
         "\u0679\u0627\u0626\u0679\u0646\u06af"
@@ -215,7 +233,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1636500743,
+    "wof:lastmodified":1690875953,
     "wof:name":"Taitung",
     "wof:parent_id":85679623,
     "wof:placetype":"macrocounty",

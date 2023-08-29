@@ -37,6 +37,9 @@
     "name:jpn_x_preferred":[
         "\u8606\u6d32\u533a"
     ],
+    "name:jpn_x_variant":[
+        "\u82a6\u6d32\u533a"
+    ],
     "name:kor_x_preferred":[
         "\ub8e8\uc800\uc6b0\uad6c"
     ],
@@ -49,6 +52,9 @@
     "name:pol_x_preferred":[
         "Luzhou"
     ],
+    "name:rus_x_preferred":[
+        "\u041b\u0443\u0447\u0436\u043e\u0443"
+    ],
     "name:ukr_x_preferred":[
         "\u041b\u0443\u0447\u0436\u043e\u0443"
     ],
@@ -60,6 +66,9 @@
     ],
     "name:war_x_preferred":[
         "Luzhou"
+    ],
+    "name:yue_x_preferred":[
+        "\u8606\u6d32\u5340"
     ],
     "name:zho_x_preferred":[
         "\u8606\u6d32\u5e02"
@@ -100,7 +109,7 @@
         }
     ],
     "wof:id":890467735,
-    "wof:lastmodified":1566589764,
+    "wof:lastmodified":1690875992,
     "wof:name":"Luzhou Shi",
     "wof:parent_id":85679585,
     "wof:placetype":"localadmin",

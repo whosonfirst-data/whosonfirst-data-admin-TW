@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.407981,24.8839305,121.407981,24.8839305",
+    "geom:bbox":"121.407981,24.883931,121.407981,24.883931",
     "geom:latitude":24.883931,
     "geom:longitude":121.407981,
     "gp:adm0":23424971,
@@ -17,6 +17,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ces_x_preferred":[
+        "Okres Tchaj-pej"
+    ],
     "name:cym_x_preferred":[
         "Sir Taipei"
     ],
@@ -25,6 +28,24 @@
     ],
     "name:epo_x_preferred":[
         "Kantono Tajpeo"
+    ],
+    "name:jpn_x_preferred":[
+        "\u53f0\u5317\u770c"
+    ],
+    "name:lzh_x_preferred":[
+        "\u81fa\u5317\u7e23"
+    ],
+    "name:rus_x_preferred":[
+        "\u0422\u0430\u0439\u0431\u044d\u0439"
+    ],
+    "name:swe_x_preferred":[
+        "Taipeis l\u00e4n"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e17\u0e28\u0e21\u0e13\u0e11\u0e25\u0e44\u0e17\u0e40\u0e1b"
+    ],
+    "name:yue_x_preferred":[
+        "\u81fa\u5317\u7e23"
     ],
     "name:zho_x_preferred":[
         "\u81fa\u5317\u7e23"
@@ -56,7 +77,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053734,
-    "wof:geomhash":"ed7825e29945541cf77da290f400ef18",
+    "wof:geomhash":"72e3c64f6cd5319c0069e4f84286f351",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -67,7 +88,7 @@
         }
     ],
     "wof:id":890468995,
-    "wof:lastmodified":1566589828,
+    "wof:lastmodified":1690876016,
     "wof:name":"\u4e09\u5cfd\u93ae",
     "wof:parent_id":85679585,
     "wof:placetype":"locality",
@@ -78,9 +99,9 @@
 },
   "bbox": [
     121.407981,
-    24.8839305,
+    24.883931,
     121.407981,
-    24.8839305
+    24.883931
 ],
-  "geometry": {"coordinates":[121.40798100000001,24.8839305],"type":"Point"}
+  "geometry": {"coordinates":[121.40798100000001,24.883931],"type":"Point"}
 }

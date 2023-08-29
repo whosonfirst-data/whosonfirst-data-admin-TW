@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"121.3843345,25.025311,121.3843345,25.025311",
+    "geom:bbox":"121.384334,25.025311,121.384334,25.025311",
     "geom:latitude":25.025311,
     "geom:longitude":121.384334,
     "gp:adm0":23424971,
@@ -21,6 +21,18 @@
     ],
     "name:eng_x_preferred":[
         "Taoyuan County"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6843\u5712\u770c"
+    ],
+    "name:nan_x_preferred":[
+        "Th\u00f4-hn\u0302g-ko\u0101n"
+    ],
+    "name:rus_x_preferred":[
+        "\u0443\u0435\u0437\u0434 \u0422\u0430\u043e\u044e\u0430\u043d\u044c"
+    ],
+    "name:slv_x_preferred":[
+        "Taojuan"
     ],
     "name:zho_x_preferred":[
         "\u6843\u5712\u7e23"
@@ -53,7 +65,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053782,
-    "wof:geomhash":"d423da5101d10a55bb8fbdd77c578503",
+    "wof:geomhash":"c22c74fa7066b762afae4e9e603af997",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +77,7 @@
         }
     ],
     "wof:id":890469679,
-    "wof:lastmodified":1566589799,
+    "wof:lastmodified":1690876006,
     "wof:name":"\u9f9c\u5c71\u9109",
     "wof:parent_id":1108499669,
     "wof:placetype":"county",
@@ -75,10 +87,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    121.3843345,
+    121.384334,
     25.025311,
-    121.3843345,
+    121.384334,
     25.025311
 ],
-  "geometry": {"coordinates":[121.38433449999999,25.025311],"type":"Point"}
+  "geometry": {"coordinates":[121.384334,25.025311],"type":"Point"}
 }

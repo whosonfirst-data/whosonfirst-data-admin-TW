@@ -52,6 +52,9 @@
     "name:rus_x_preferred":[
         "\u0414\u0430\u0442\u0443\u043d"
     ],
+    "name:trv_x_preferred":[
+        "Datong"
+    ],
     "name:ukr_x_preferred":[
         "\u0414\u0430\u0442\u0443\u043d"
     ],
@@ -104,7 +107,7 @@
         }
     ],
     "wof:id":890471463,
-    "wof:lastmodified":1566589681,
+    "wof:lastmodified":1690875963,
     "wof:name":"\u5927\u540c\u5340",
     "wof:parent_id":1108756871,
     "wof:placetype":"county",

@@ -19,11 +19,17 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Minxiong Xiang"
+    ],
     "name:deu_x_preferred":[
         "Minxiong"
     ],
     "name:eng_x_preferred":[
         "Minxiong"
+    ],
+    "name:eng_x_variant":[
+        "Minxiong Township"
     ],
     "name:hak_x_preferred":[
         "M\u00ecn-hi\u00f9ng-hi\u00f4ng"
@@ -34,6 +40,9 @@
     "name:kor_x_preferred":[
         "\ubbfc\uc29d\ud5a5"
     ],
+    "name:lld_x_preferred":[
+        "Minxiong"
+    ],
     "name:nan_x_preferred":[
         "B\u00een-hi\u00f4ng-hiong"
     ],
@@ -43,11 +52,17 @@
     "name:rus_x_preferred":[
         "\u041c\u0438\u043d\u044c\u0441\u044e\u043d"
     ],
+    "name:szy_x_preferred":[
+        "Minsiong(mudadiway)"
+    ],
     "name:und_x_variant":[
         "Min-hsiung Hsiang"
     ],
     "name:vie_x_preferred":[
         "D\u00e2n H\u00f9ng"
+    ],
+    "name:yue_x_preferred":[
+        "\u6c11\u96c4\u9109"
     ],
     "name:zho_x_preferred":[
         "\u6c11\u96c4\u9109"
@@ -84,7 +99,7 @@
         }
     ],
     "wof:id":890468737,
-    "wof:lastmodified":1566589811,
+    "wof:lastmodified":1690876009,
     "wof:name":"Minxiong Xiang",
     "wof:parent_id":85679599,
     "wof:placetype":"localadmin",
