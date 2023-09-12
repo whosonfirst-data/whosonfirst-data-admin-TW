@@ -11,6 +11,12 @@
     "geom:longitude":121.376609,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Fuxing Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -23,7 +29,7 @@
         "Fuxing"
     ],
     "name:eng_x_preferred":[
-        "Fuxing District"
+        "Fuxing"
     ],
     "name:hak_x_preferred":[
         "Fu\u030dk-h\u00een-hi\u00f4ng"
@@ -92,7 +98,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053734,
-    "wof:geomhash":"dab598a3644e1fc95883eea95794727f",
+    "wof:geomhash":"0f34196db0a19964fcc800ccf6004716",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -104,8 +110,8 @@
         }
     ],
     "wof:id":890468971,
-    "wof:lastmodified":1690876014,
-    "wof:name":"\u5fa9\u8208\u9109",
+    "wof:lastmodified":1694493366,
+    "wof:name":"Fuxing",
     "wof:parent_id":1108499669,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-tw",

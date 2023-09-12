@@ -11,6 +11,12 @@
     "geom:longitude":120.436783,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Puyan Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053741,
-    "wof:geomhash":"d5ce53109a0579fda611cbb4ec31d145",
+    "wof:geomhash":"fa28b34899256d5e59179cca6b89a146",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890469049,
-    "wof:lastmodified":1627522852,
+    "wof:lastmodified":1694493368,
     "wof:name":"Puyan",
     "wof:parent_id":1108499097,
     "wof:placetype":"county",

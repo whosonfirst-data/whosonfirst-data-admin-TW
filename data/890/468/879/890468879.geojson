@@ -11,6 +11,12 @@
     "geom:longitude":121.748861,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Taipei Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -23,7 +29,7 @@
         "Sir Taipei"
     ],
     "name:eng_x_preferred":[
-        "Taipei County"
+        "Taipei"
     ],
     "name:epo_x_preferred":[
         "Kantono Tajpeo"
@@ -77,7 +83,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053729,
-    "wof:geomhash":"d7b297a7448a38bc6a96e64d783d0653",
+    "wof:geomhash":"7f64e94998fa052471e0906732ded336",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -89,8 +95,8 @@
         }
     ],
     "wof:id":890468879,
-    "wof:lastmodified":1690876019,
-    "wof:name":"\u5e73\u6eaa\u9109",
+    "wof:lastmodified":1694493366,
+    "wof:name":"Taipei",
     "wof:parent_id":1108756871,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-tw",

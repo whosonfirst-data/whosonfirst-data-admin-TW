@@ -11,6 +11,12 @@
     "geom:longitude":120.647392,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Fangshan Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053734,
-    "wof:geomhash":"be8e33926500ee62e18a277201d22df7",
+    "wof:geomhash":"003259a86359b9ad44c0ce2625f99e4e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890468977,
-    "wof:lastmodified":1627522848,
+    "wof:lastmodified":1694493367,
     "wof:name":"Fangshan",
     "wof:parent_id":1108499273,
     "wof:placetype":"county",

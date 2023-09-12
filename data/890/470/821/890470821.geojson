@@ -11,6 +11,12 @@
     "geom:longitude":121.001529,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Haiduan Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053832,
-    "wof:geomhash":"b9315c87bb9e7a1838a2dfe64d4cb6e8",
+    "wof:geomhash":"aabd8590a494fa73b00c5de036d23d7a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890470821,
-    "wof:lastmodified":1627522849,
+    "wof:lastmodified":1694493367,
     "wof:name":"Haiduan",
     "wof:parent_id":1108499511,
     "wof:placetype":"county",

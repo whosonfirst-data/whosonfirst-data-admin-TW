@@ -11,6 +11,12 @@
     "geom:longitude":120.247153,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Shuilin Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053742,
-    "wof:geomhash":"c64466fdc6748c0f62909e28c86e9fe3",
+    "wof:geomhash":"0f4056e0a727a0295b60d5bfaa98452b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890469053,
-    "wof:lastmodified":1627522853,
+    "wof:lastmodified":1694493368,
     "wof:name":"Shuilin",
     "wof:parent_id":1108498757,
     "wof:placetype":"county",

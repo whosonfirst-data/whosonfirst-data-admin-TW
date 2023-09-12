@@ -11,6 +11,12 @@
     "geom:longitude":120.784034,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Mudan Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053822,
-    "wof:geomhash":"1d84787cdbc9f9a7fe703d0433169505",
+    "wof:geomhash":"a003a5b957060c6ec6c384a556405365",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890470531,
-    "wof:lastmodified":1627522851,
+    "wof:lastmodified":1694493368,
     "wof:name":"Mudan",
     "wof:parent_id":1108499273,
     "wof:placetype":"county",

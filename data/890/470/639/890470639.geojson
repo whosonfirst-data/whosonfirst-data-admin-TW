@@ -11,6 +11,12 @@
     "geom:longitude":120.462813,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Minxiong Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053826,
-    "wof:geomhash":"36adef6bbbbc9a1f1b4d90a72ee7e22d",
+    "wof:geomhash":"990a09f024bcab92922f30efe5fa85f2",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890470639,
-    "wof:lastmodified":1627522851,
+    "wof:lastmodified":1694493368,
     "wof:name":"Minxiong",
     "wof:parent_id":1108756865,
     "wof:placetype":"county",

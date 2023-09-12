@@ -11,6 +11,12 @@
     "geom:longitude":120.99183,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Nanzhuang Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053826,
-    "wof:geomhash":"e34238dc911f46a8279ef012d7cf6c12",
+    "wof:geomhash":"00880f52e4feecde71955b4d7d13ef59",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890470633,
-    "wof:lastmodified":1627522851,
+    "wof:lastmodified":1694493368,
     "wof:name":"Nanzhuang",
     "wof:parent_id":1108756879,
     "wof:placetype":"county",

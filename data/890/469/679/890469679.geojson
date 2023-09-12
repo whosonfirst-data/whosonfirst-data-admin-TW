@@ -11,6 +11,12 @@
     "geom:longitude":121.384334,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Taoyuan Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -20,7 +26,7 @@
         "Sir Taoyuan"
     ],
     "name:eng_x_preferred":[
-        "Taoyuan County"
+        "Taoyuan"
     ],
     "name:jpn_x_preferred":[
         "\u6843\u5712\u770c"
@@ -65,7 +71,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053782,
-    "wof:geomhash":"c22c74fa7066b762afae4e9e603af997",
+    "wof:geomhash":"87c2b1e65ada4643023ad4bb0c62403d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -77,8 +83,8 @@
         }
     ],
     "wof:id":890469679,
-    "wof:lastmodified":1690876006,
-    "wof:name":"\u9f9c\u5c71\u9109",
+    "wof:lastmodified":1694493366,
+    "wof:name":"Taoyuan",
     "wof:parent_id":1108499669,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-tw",

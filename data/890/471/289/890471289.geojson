@@ -11,6 +11,12 @@
     "geom:longitude":120.571346,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Gaoshu Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053850,
-    "wof:geomhash":"20fc2d50496a5dcecfbd88b80a9ad60d",
+    "wof:geomhash":"ed1d4a3305052111e4bb6cb69639584c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890471289,
-    "wof:lastmodified":1627522848,
+    "wof:lastmodified":1694493367,
     "wof:name":"Gaoshu",
     "wof:parent_id":1108756877,
     "wof:placetype":"county",

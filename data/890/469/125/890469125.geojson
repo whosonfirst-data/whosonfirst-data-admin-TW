@@ -11,6 +11,12 @@
     "geom:longitude":121.743833,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Dongshan Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053750,
-    "wof:geomhash":"a2f4f422d291286dec89707778f022ea",
+    "wof:geomhash":"80c9ca1baf523e9228f11b0ac498b05d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890469125,
-    "wof:lastmodified":1627522848,
+    "wof:lastmodified":1694493367,
     "wof:name":"Dongshan",
     "wof:parent_id":1108499379,
     "wof:placetype":"county",

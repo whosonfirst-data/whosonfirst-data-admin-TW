@@ -11,6 +11,12 @@
     "geom:longitude":120.607223,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Linnei Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053676,
-    "wof:geomhash":"85190cc60047dc2c0f238f88da8ba12c",
+    "wof:geomhash":"4e93fe4209a77a001b4827eb3ef8024d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890467925,
-    "wof:lastmodified":1627522850,
+    "wof:lastmodified":1694493367,
     "wof:name":"Linnei",
     "wof:parent_id":1108498757,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.112682,
-    "geom:area_square_m":1275937408.786098,
+    "geom:area_square_m":1275937408.786215,
     "geom:bbox":"120.124262,23.508178,120.740672,23.838454",
     "geom:latitude":23.687971,
     "geom:longitude":120.388214,
@@ -30,7 +30,7 @@
     "mz:max_zoom":11.0,
     "mz:min_zoom":8.7,
     "name:eng_x_preferred":[
-        "Yunlin County"
+        "Yunlin"
     ],
     "name:eng_x_variant":[
         "Yun-li",
@@ -158,7 +158,7 @@
         1108498757
     ],
     "wof:country":"TW",
-    "wof:geomhash":"4352a2ac65198279d9f97393937c7c52",
+    "wof:geomhash":"700f4ef96b17dadf0f1cf1793bff2726",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -174,7 +174,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1636500724,
+    "wof:lastmodified":1694493425,
     "wof:name":"Yunlin",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

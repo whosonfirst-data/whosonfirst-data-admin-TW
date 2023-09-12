@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.197699,
-    "geom:area_square_m":2228967044.10293,
+    "geom:area_square_m":2228965730.69874,
     "geom:bbox":"120.475421,24.010757,121.4567,24.455982",
     "geom:latitude":24.24481,
     "geom:longitude":120.892885,
@@ -379,7 +379,7 @@
         "wd:id":"Q245023"
     },
     "wof:country":"TW",
-    "wof:geomhash":"4f2ab8adf7f0159b37a3c1b347d299d7",
+    "wof:geomhash":"cf068b430a7b183892f8a158f1696942",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -395,7 +395,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875931,
+    "wof:lastmodified":1694493425,
     "wof:name":"Taichung City",
     "wof:parent_id":1108808551,
     "wof:placetype":"region",

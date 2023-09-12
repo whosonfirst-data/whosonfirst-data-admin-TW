@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.363243,
-    "geom:area_square_m":4108228310.846633,
+    "geom:area_square_m":4108228310.84676,
     "geom:bbox":"120.61549,23.43541,121.349696,24.245873",
     "geom:latitude":23.842738,
     "geom:longitude":120.982077,
     "gn:country":"TW",
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Nantou County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":23.817387,
     "lbl:longitude":120.952514,
     "lbl:min_zoom":9.0,
@@ -61,7 +67,7 @@
         "\u039d\u03b1\u03bd\u03c4\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
-        "Nantou County"
+        "Nantou"
     ],
     "name:eng_x_variant":[
         "Nantou"
@@ -204,6 +210,18 @@
     "src:geom":"meso",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2010-12-31",
+    "statoids:areakm":4106,
+    "statoids:capital":"Nantou",
+    "statoids:country":"TW",
+    "statoids:date":"2010-12-31",
+    "statoids:hasc":"TW.TA.NT",
+    "statoids:name":"Nantou",
+    "statoids:population":460869,
+    "statoids:statoid":"TW.TA",
+    "statoids:timezone":"+8",
+    "statoids:type":"county",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -212,6 +230,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"TW.TA.NT",
         "wd:id":"Q82357"
     },
     "wof:coterminous":[
@@ -219,7 +238,7 @@
     ],
     "wof:country":"TW",
     "wof:created":1469053724,
-    "wof:geomhash":"4a26145855cc5365ccab24ebc7ef6aa2",
+    "wof:geomhash":"150a4553370bbff63787614da2a42497",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -236,10 +255,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875954,
+    "wof:lastmodified":1694493045,
     "wof:name":"Nantou",
     "wof:parent_id":85679611,
     "wof:placetype":"macrocounty",
+    "wof:population":460869,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
     "wof:supersedes":[],

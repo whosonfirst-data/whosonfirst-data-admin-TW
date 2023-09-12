@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.315228,
-    "geom:area_square_m":3591582038.977749,
+    "geom:area_square_m":3591582038.977599,
     "geom:bbox":"120.739052,21.942512,121.616401,23.443814",
     "geom:latitude":22.863038,
     "geom:longitude":121.041579,
     "gn:country":"TW",
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Taitung County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":22.949337,
     "lbl:longitude":121.038663,
     "lbl:min_zoom":9.0,
@@ -61,7 +67,7 @@
         "\u03a4\u03b1\u03ca\u03c4\u03bf\u03cd\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
-        "Taitung County"
+        "Taitung"
     ],
     "name:eng_x_variant":[
         "Taitung"
@@ -201,6 +207,18 @@
     "src:geom":"meso",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2010-12-31",
+    "statoids:areakm":3515,
+    "statoids:capital":"Taitung",
+    "statoids:country":"TW",
+    "statoids:date":"2010-12-31",
+    "statoids:hasc":"TW.TA.TT",
+    "statoids:name":"Taitung",
+    "statoids:population":201039,
+    "statoids:statoid":"TW.TA",
+    "statoids:timezone":"+8",
+    "statoids:type":"county",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -209,6 +227,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"TW.TA.TT",
         "wd:id":"Q249904"
     },
     "wof:coterminous":[
@@ -216,7 +235,7 @@
     ],
     "wof:country":"TW",
     "wof:created":1469053722,
-    "wof:geomhash":"da1d0126a3a744b5d018e785f5df3162",
+    "wof:geomhash":"ac4645607c1272cfaee80668150cb805",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -233,10 +252,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875953,
+    "wof:lastmodified":1694493044,
     "wof:name":"Taitung",
     "wof:parent_id":85679623,
     "wof:placetype":"macrocounty",
+    "wof:population":201039,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
     "wof:supersedes":[],

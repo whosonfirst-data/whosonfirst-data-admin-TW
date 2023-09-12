@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":2.26508,
-    "geom:area_square_m":25648980147.646198,
+    "geom:area_square_m":25648980147.612915,
     "geom:bbox":"119.314294,21.8956,124.56115,25.929138",
     "geom:latitude":23.675005,
     "geom:longitude":120.99357,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Taiwan Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "label:eng_x_preferred_shortcode":[
         "TA"
     ],
@@ -1226,7 +1232,7 @@
     },
     "wof:country":"TW",
     "wof:created":1486417877,
-    "wof:geomhash":"a68dbd2f3cfd0919ca0f1cbd4e0fc65d",
+    "wof:geomhash":"9048130adc6467dc496a7ff89c33b5f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1241,7 +1247,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1666981002,
+    "wof:lastmodified":1694493062,
     "wof:name":"Taiwan",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

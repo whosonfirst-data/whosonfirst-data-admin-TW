@@ -11,6 +11,12 @@
     "geom:longitude":120.863513,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Daren Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053751,
-    "wof:geomhash":"7ccc63e65075f78d5686f64215ef0ef2",
+    "wof:geomhash":"773f793f3b2190d1b0b06981d2247a03",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890469165,
-    "wof:lastmodified":1627522847,
+    "wof:lastmodified":1694493366,
     "wof:name":"Daren",
     "wof:parent_id":1108499511,
     "wof:placetype":"county",

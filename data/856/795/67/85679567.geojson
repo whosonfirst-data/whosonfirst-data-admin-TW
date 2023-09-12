@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.185303,
-    "geom:area_square_m":2083703821.297628,
+    "geom:area_square_m":2083703821.297391,
     "geom:bbox":"121.316451,24.325804,121.972336,24.997441",
     "geom:latitude":24.57755,
     "geom:longitude":121.635748,
@@ -48,7 +48,7 @@
         "\u0393\u03b9\u03bb\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
-        "Yilan County"
+        "Yilan"
     ],
     "name:eng_x_variant":[
         "I-lan",
@@ -252,7 +252,7 @@
         1108499379
     ],
     "wof:country":"TW",
-    "wof:geomhash":"10ee76acfb786a56bbe996503f400647",
+    "wof:geomhash":"f5633e5b4ccd7a8b5f0a7f85af99b594",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -268,7 +268,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1636500724,
+    "wof:lastmodified":1694493425,
     "wof:name":"Yilan",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

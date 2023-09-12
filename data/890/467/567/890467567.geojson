@@ -11,6 +11,12 @@
     "geom:longitude":121.592731,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Ji'an Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -44,7 +50,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053654,
-    "wof:geomhash":"ffc6a010804da05fea0829981c83f041",
+    "wof:geomhash":"61efedd2a1efa81ddd1b965aa087f0f7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,8 +62,8 @@
         }
     ],
     "wof:id":890467567,
-    "wof:lastmodified":1566589754,
-    "wof:name":"\u5409\u5b89\u9109",
+    "wof:lastmodified":1694493366,
+    "wof:name":"Ji'an",
     "wof:parent_id":1108498083,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-tw",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.174959,
-    "geom:area_square_m":1984666476.825758,
+    "geom:area_square_m":1984666476.825937,
     "geom:bbox":"120.007656,23.225198,120.962157,23.640056",
     "geom:latitude":23.453702,
     "geom:longitude":120.518534,
@@ -42,7 +42,7 @@
         "Chiayi"
     ],
     "name:eng_x_preferred":[
-        "Chiayi County"
+        "Chiayi"
     ],
     "name:eng_x_variant":[
         "Chia-i",
@@ -243,7 +243,7 @@
         1108756865
     ],
     "wof:country":"TW",
-    "wof:geomhash":"f4ac6b3d55decdd4c8488de1400a5092",
+    "wof:geomhash":"eb68589c287acd325ac42d8e508c0a8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -259,7 +259,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1636500725,
+    "wof:lastmodified":1694493425,
     "wof:name":"Chiayi",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

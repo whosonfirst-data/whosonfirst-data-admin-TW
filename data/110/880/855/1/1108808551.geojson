@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.19914,
-    "geom:area_square_m":2245328401.988436,
+    "geom:area_square_m":2245328401.990596,
     "geom:bbox":"120.456553,23.998557,121.452005,24.441489",
     "geom:latitude":24.238211,
     "geom:longitude":120.892398,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Taichung Special Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "special municipality"
+    ],
     "label:eng_x_preferred_shortcode":[
         "TG"
     ],
@@ -195,7 +201,7 @@
     },
     "wof:country":"TW",
     "wof:created":1486417871,
-    "wof:geomhash":"616dbffdd201162b5487f20671e00601",
+    "wof:geomhash":"07d282655dfcbbb8006b4e580540b45c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -210,7 +216,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1617131092,
+    "wof:lastmodified":1694493052,
     "wof:name":"Taichung",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

@@ -11,6 +11,12 @@
     "geom:longitude":120.943679,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Yanping Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053662,
-    "wof:geomhash":"d6e46917709c983449612564645d2254",
+    "wof:geomhash":"9ea6cbe417da3185f0cc9df0421c6c92",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890467723,
-    "wof:lastmodified":1627522856,
+    "wof:lastmodified":1694493368,
     "wof:name":"Yanping",
     "wof:parent_id":1108499511,
     "wof:placetype":"county",

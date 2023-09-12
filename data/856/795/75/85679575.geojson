@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.166117,
-    "geom:area_square_m":1869294814.025912,
+    "geom:area_square_m":1869294814.025788,
     "geom:bbox":"120.621331,24.292006,121.262552,24.747757",
     "geom:latitude":24.488708,
     "geom:longitude":120.916765,
@@ -51,7 +51,7 @@
         "\u039c\u03b9\u03b1\u03cc\u03bb\u03b9"
     ],
     "name:eng_x_preferred":[
-        "Miaoli County"
+        "Miaoli"
     ],
     "name:eng_x_variant":[
         "Miao-li",
@@ -246,7 +246,7 @@
         1108756879
     ],
     "wof:country":"TW",
-    "wof:geomhash":"3037d2d6b6ff1c98f6ddb8db7a86b243",
+    "wof:geomhash":"577904364e5c2200b36c9453c660de73",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -262,7 +262,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875934,
+    "wof:lastmodified":1694493425,
     "wof:name":"Miaoli",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

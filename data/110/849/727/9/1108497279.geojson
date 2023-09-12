@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01644,
-    "geom:area_square_m":185036527.693205,
+    "geom:area_square_m":185036582.00342,
     "geom:bbox":"118.143675,24.160258,119.479206,24.999617",
     "geom:latitude":24.461458,
     "geom:longitude":118.377977,
     "gn:country":"TW",
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Kinmen County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":24.473775,
     "lbl:longitude":118.420179,
     "lbl:min_zoom":9.0,
@@ -213,6 +219,17 @@
     "src:geom":"meso",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2010-12-31",
+    "statoids:areakm":152,
+    "statoids:country":"TW",
+    "statoids:date":"2010-12-31",
+    "statoids:hasc":"TW.FK.KM",
+    "statoids:name":"Kinmen",
+    "statoids:population":57221,
+    "statoids:statoid":"TW.FK",
+    "statoids:timezone":"+8",
+    "statoids:type":"county",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -221,11 +238,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"TW.FK.KM",
         "wd:id":"Q249870"
     },
     "wof:country":"TW",
     "wof:created":1469053655,
-    "wof:geomhash":"83385767ae10b1a6c88c9bb40e283d2d",
+    "wof:geomhash":"28ff1cecd714a8cbb727cad42309ca94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -242,10 +260,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875958,
+    "wof:lastmodified":1694493035,
     "wof:name":"Kinmen",
     "wof:parent_id":85679635,
     "wof:placetype":"macrocounty",
+    "wof:population":57221,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
     "wof:supersedes":[],

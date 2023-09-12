@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.199183,
-    "geom:area_square_m":2264595960.106722,
+    "geom:area_square_m":2264595960.105106,
     "geom:bbox":"120.026906,22.887506,120.656268,23.413742",
     "geom:latitude":23.150778,
     "geom:longitude":120.324758,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Tainan Special Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "special municipality"
+    ],
     "label:eng_x_preferred_shortcode":[
         "TN"
     ],
@@ -195,7 +201,7 @@
     },
     "wof:country":"TW",
     "wof:created":1486417872,
-    "wof:geomhash":"ea26db5e4307dd464ecebbfc55ab73ab",
+    "wof:geomhash":"4681878dd6a505b919130386febf5d0e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -210,7 +216,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1617131091,
+    "wof:lastmodified":1694493051,
     "wof:name":"Tainan",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

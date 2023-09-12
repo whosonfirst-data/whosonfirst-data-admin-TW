@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019125,
-    "geom:area_square_m":214828345.903145,
+    "geom:area_square_m":214828345.902922,
     "geom:bbox":"118.143675,24.160258,120.511743,26.385278",
     "geom:latitude":24.703205,
     "geom:longitude":118.611951,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Fukien Province"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "province"
+    ],
     "label:eng_x_preferred_shortcode":[
         "FK"
     ],
@@ -124,7 +130,7 @@
     },
     "wof:country":"TW",
     "wof:created":1486417874,
-    "wof:geomhash":"21cecda6dad472ff7ac051c41a9dfc06",
+    "wof:geomhash":"49808cb07b321d31024d61510a24e71f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -139,7 +145,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875944,
+    "wof:lastmodified":1694493052,
     "wof:name":"Fujian",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

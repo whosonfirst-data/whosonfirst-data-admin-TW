@@ -11,6 +11,12 @@
     "geom:longitude":120.867805,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Guoxing Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053676,
-    "wof:geomhash":"cf408e77d2fe65c50a0ee135a375f1d9",
+    "wof:geomhash":"54a501c151e9110b6c4e6990c83ea8de",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890467923,
-    "wof:lastmodified":1627522849,
+    "wof:lastmodified":1694493367,
     "wof:name":"Guoxing",
     "wof:parent_id":1108498475,
     "wof:placetype":"county",

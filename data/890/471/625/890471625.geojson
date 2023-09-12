@@ -11,6 +11,12 @@
     "geom:longitude":121.449737,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Wanhua Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -56,7 +62,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053862,
-    "wof:geomhash":"c025d33cb7013c294ad7f9f6c7285e18",
+    "wof:geomhash":"df39b4671260ef864472013f9c64416a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -68,7 +74,7 @@
         }
     ],
     "wof:id":890471625,
-    "wof:lastmodified":1627522855,
+    "wof:lastmodified":1694493368,
     "wof:name":"Wanhua",
     "wof:parent_id":1108756871,
     "wof:placetype":"county",

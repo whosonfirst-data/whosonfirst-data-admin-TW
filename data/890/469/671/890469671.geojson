@@ -11,6 +11,12 @@
     "geom:longitude":120.402131,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Zhutang Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053782,
-    "wof:geomhash":"135f4cf939eb368f303f2aad29b07f2c",
+    "wof:geomhash":"ebd08c396b1c19c4ee7bc9213d0992e3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890469671,
-    "wof:lastmodified":1627522856,
+    "wof:lastmodified":1694493369,
     "wof:name":"Zhutang",
     "wof:parent_id":1108499097,
     "wof:placetype":"county",

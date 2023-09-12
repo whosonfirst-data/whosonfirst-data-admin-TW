@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.110416,
-    "geom:area_square_m":1247619351.417512,
+    "geom:area_square_m":1247619351.417049,
     "geom:bbox":"120.220355,23.785613,120.683948,24.207186",
     "geom:latitude":23.964589,
     "geom:longitude":120.468785,
     "gn:country":"TW",
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Changhua County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":23.965255,
     "lbl:longitude":120.468796,
     "lbl:min_zoom":9.0,
@@ -64,7 +70,7 @@
         "\u03a4\u03c3\u03ac\u03bd\u03b3\u03ba\u03bf\u03c5\u03b1"
     ],
     "name:eng_x_preferred":[
-        "Changhua County"
+        "Changhua"
     ],
     "name:eng_x_variant":[
         "Changhua"
@@ -198,6 +204,18 @@
     "src:geom":"meso",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2010-12-31",
+    "statoids:areakm":1074,
+    "statoids:capital":"Changhwa",
+    "statoids:country":"TW",
+    "statoids:date":"2010-12-31",
+    "statoids:hasc":"TW.TA.CG",
+    "statoids:name":"Changhwa",
+    "statoids:population":1226420,
+    "statoids:statoid":"TW.TA",
+    "statoids:timezone":"+8",
+    "statoids:type":"county",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -206,6 +224,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"TW.TA.CG",
         "wd:id":"Q133865"
     },
     "wof:coterminous":[
@@ -213,7 +232,7 @@
     ],
     "wof:country":"TW",
     "wof:created":1469053722,
-    "wof:geomhash":"9b90c24bd9c307c64fc6c26a2250669f",
+    "wof:geomhash":"a1e7ffca959e68cc27960c90d4d6681a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -230,10 +249,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875950,
+    "wof:lastmodified":1694493041,
     "wof:name":"Changhua",
     "wof:parent_id":85679593,
     "wof:placetype":"macrocounty",
+    "wof:population":1226420,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
     "wof:supersedes":[],

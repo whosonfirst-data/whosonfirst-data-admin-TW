@@ -5,14 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.01374,
-    "geom:area_square_m":154255728.088205,
+    "geom:area_square_m":154255967.070272,
     "geom:bbox":"120.872709,24.710378,121.045925,24.85343",
     "geom:latitude":24.782584,
     "geom:longitude":120.952694,
     "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
-        "Hsinchu City Municipality"
+        "Hsinchu Municipality"
     ],
     "label:eng_x_preferred_placetype":[
         "municipality"
@@ -145,7 +145,7 @@
         "qs_pg:id":1285950
     },
     "wof:country":"TW",
-    "wof:geomhash":"f5315e5163099d58d8383e7c6f7dac1d",
+    "wof:geomhash":"d68faeb4f4ed74063e862f90ede05f36",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -161,7 +161,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1627522849,
+    "wof:lastmodified":1694493425,
     "wof:name":"Hsinchu City",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

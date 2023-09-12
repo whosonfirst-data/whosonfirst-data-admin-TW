@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012134,
-    "geom:area_square_m":137563549.033188,
+    "geom:area_square_m":137563549.033207,
     "geom:bbox":"119.306488,23.191799,119.670665,23.758328",
     "geom:latitude":23.531717,
     "geom:longitude":119.550936,
@@ -63,7 +63,7 @@
         "\u039d\u03b7\u03c3\u03b9\u03ac \u03a0\u03ad\u03bd\u03b3\u03ba\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
-        "Penghu County"
+        "Penghu"
     ],
     "name:eng_x_variant":[
         "P'eng-hu",
@@ -314,7 +314,7 @@
         1108500085
     ],
     "wof:country":"TW",
-    "wof:geomhash":"a7bc008d4fab74ab7a73cd43c83ba8fb",
+    "wof:geomhash":"36cef35a25e73014ea6acaa9c17c93d3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -330,7 +330,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875931,
+    "wof:lastmodified":1694493425,
     "wof:name":"Penghu",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

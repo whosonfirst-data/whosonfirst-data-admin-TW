@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":0,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Chiayi City Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -199,7 +205,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053701,
-    "wof:geomhash":"ae7ea6d40c2c0549e7257f0609c810d3",
+    "wof:geomhash":"dbed45a2785da085becfbd88877fb640",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -211,7 +217,7 @@
         }
     ],
     "wof:id":890468357,
-    "wof:lastmodified":1690876017,
+    "wof:lastmodified":1694493369,
     "wof:name":"Chiayi",
     "wof:parent_id":1108756865,
     "wof:placetype":"county",

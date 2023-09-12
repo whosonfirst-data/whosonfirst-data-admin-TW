@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.012315,
-    "geom:area_square_m":137873646.989226,
+    "geom:area_square_m":137873646.98877,
     "geom:bbox":"121.626786211,25.052472697,122.109150757,25.633381785",
     "geom:latitude":25.121696,
     "geom:longitude":121.721947,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Keelung Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":25.12054,
     "lbl:longitude":121.709604,
     "lbl:min_zoom":9.0,
@@ -48,6 +54,9 @@
         "\u0164i-lung"
     ],
     "name:deu_x_preferred":[
+        "Keelung"
+    ],
+    "name:eng_x_preferred":[
         "Keelung"
     ],
     "name:eng_x_variant":[
@@ -148,7 +157,7 @@
     },
     "wof:country":"TW",
     "wof:created":1473974315,
-    "wof:geomhash":"f6761654bbebf1d139179180240b7b46",
+    "wof:geomhash":"c0d4bec6299d44d71e34e089a22f3f07",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -165,7 +174,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1576795771,
+    "wof:lastmodified":1694493035,
     "wof:name":"Keelung",
     "wof:parent_id":85679571,
     "wof:placetype":"macrocounty",

@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.196221,
-    "geom:area_square_m":2206539313.945764,
+    "geom:area_square_m":2206539313.914118,
     "geom:bbox":"121.317659,24.309426,124.56115,25.929138",
     "geom:latitude":24.573779,
     "geom:longitude":121.645858,
     "gn:country":"TW",
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Yilan County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":24.552479,
     "lbl:longitude":121.662399,
     "lbl:min_zoom":9.0,
@@ -61,7 +67,7 @@
         "\u0393\u03b9\u03bb\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
-        "Yilan County"
+        "Yilan"
     ],
     "name:eng_x_variant":[
         "Yilan"
@@ -198,6 +204,18 @@
     "src:geom":"meso",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2010-12-31",
+    "statoids:areakm":2144,
+    "statoids:capital":"Ilan",
+    "statoids:country":"TW",
+    "statoids:date":"2010-12-31",
+    "statoids:hasc":"TW.TA.IL",
+    "statoids:name":"Ilan",
+    "statoids:population":426975,
+    "statoids:statoid":"TW.TA",
+    "statoids:timezone":"+8",
+    "statoids:type":"county",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -206,6 +224,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"TW.TA.IL",
         "wd:id":"Q237258"
     },
     "wof:coterminous":[
@@ -213,7 +232,7 @@
     ],
     "wof:country":"TW",
     "wof:created":1469053721,
-    "wof:geomhash":"073fdb908ee9789c544c0d19b1460f97",
+    "wof:geomhash":"8b4449d44fb955cbf3d07a65c11bc3ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -230,10 +249,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875951,
+    "wof:lastmodified":1694493041,
     "wof:name":"Yilan",
     "wof:parent_id":85679567,
     "wof:placetype":"macrocounty",
+    "wof:population":426975,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
     "wof:supersedes":[],

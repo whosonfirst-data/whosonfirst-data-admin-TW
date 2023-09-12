@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002685,
-    "geom:area_square_m":29791763.899944,
+    "geom:area_square_m":29791763.900056,
     "geom:bbox":"119.908897,25.940998,120.511743,26.385278",
     "geom:latitude":26.183488,
     "geom:longitude":120.044637,
     "gn:country":"TW",
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Lienchiang County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":26.224487,
     "lbl:longitude":119.992099,
     "lbl:min_zoom":9.0,
@@ -46,7 +52,7 @@
         "\u039b\u03b9\u03ad\u03bd\u03c4\u03b6\u03b9\u03b1\u03bd\u03b3\u03ba \u039a\u03ac\u03bf\u03c5\u03bd\u03c4\u03b9"
     ],
     "name:eng_x_preferred":[
-        "Lienchiang County"
+        "Lienchiang"
     ],
     "name:eng_x_variant":[
         "Lienkiang (Matsu Islands)"
@@ -102,6 +108,17 @@
     "src:geom":"meso",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2010-12-31",
+    "statoids:areakm":29,
+    "statoids:country":"TW",
+    "statoids:date":"2010-12-31",
+    "statoids:hasc":"TW.FK.LK",
+    "statoids:name":"Lienkiang",
+    "statoids:population":14604,
+    "statoids:statoid":"TW.FK",
+    "statoids:timezone":"+8",
+    "statoids:type":"county",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -110,6 +127,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"TW.FK.LK",
         "wd:id":"Q249872"
     },
     "wof:coterminous":[
@@ -117,7 +135,7 @@
     ],
     "wof:country":"TW",
     "wof:created":1469053659,
-    "wof:geomhash":"a7043b62ca65e28b414ceaa9d256a8a3",
+    "wof:geomhash":"943f5875afbbdc1bc489487a08ab848e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -134,10 +152,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875956,
+    "wof:lastmodified":1694493035,
     "wof:name":"Lienchiang",
     "wof:parent_id":85679637,
     "wof:placetype":"macrocounty",
+    "wof:population":14604,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
     "wof:supersedes":[],

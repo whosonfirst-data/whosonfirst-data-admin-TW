@@ -12,6 +12,12 @@
     "gn:country":"TW",
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Wang'an Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -50,7 +56,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053805,
-    "wof:geomhash":"6fcd6beedf2d7f3e1e0224ae70fce4b8",
+    "wof:geomhash":"08dcd0a7c26e5ba0d3df046848ff3e1a",
     "wof:hierarchy":[
         {
             "country_id":85632403,
@@ -58,7 +64,7 @@
         }
     ],
     "wof:id":890470155,
-    "wof:lastmodified":1627522854,
+    "wof:lastmodified":1694493368,
     "wof:name":"Wang'an",
     "wof:parent_id":-1,
     "wof:placetype":"county",

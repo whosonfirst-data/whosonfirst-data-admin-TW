@@ -11,6 +11,12 @@
     "geom:longitude":120.448436,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Xizhou Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053821,
-    "wof:geomhash":"754e1c46df6369d2b7974ac90c2d4124",
+    "wof:geomhash":"fd8c3a4cced94ffa272508eef4819c8e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890470515,
-    "wof:lastmodified":1627522855,
+    "wof:lastmodified":1694493368,
     "wof:name":"Xizhou",
     "wof:parent_id":1108498757,
     "wof:placetype":"county",

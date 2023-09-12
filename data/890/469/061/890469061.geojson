@@ -11,6 +11,12 @@
     "geom:longitude":120.398515,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Shuishang Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053742,
-    "wof:geomhash":"5737b06d0c395c747ffa4fbf0fa1377a",
+    "wof:geomhash":"0634651b23bdcda3233859d716b7b0be",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890469061,
-    "wof:lastmodified":1627522853,
+    "wof:lastmodified":1694493368,
     "wof:name":"Shuishang",
     "wof:parent_id":1108756865,
     "wof:placetype":"county",

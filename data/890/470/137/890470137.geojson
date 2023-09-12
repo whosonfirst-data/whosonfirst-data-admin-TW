@@ -11,6 +11,12 @@
     "geom:longitude":120.266819,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Tainan Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -26,7 +32,7 @@
         "Landkreis Tainan"
     ],
     "name:eng_x_preferred":[
-        "Tainan County"
+        "Tainan"
     ],
     "name:eus_x_preferred":[
         "Tainan konderria"
@@ -98,7 +104,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053803,
-    "wof:geomhash":"6de3ac1819904a467fdc6e37a6bed805",
+    "wof:geomhash":"34e24889554dbe4320bd8ec5104a1ec4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,8 +116,8 @@
         }
     ],
     "wof:id":890470137,
-    "wof:lastmodified":1690875980,
-    "wof:name":"\u4e0b\u71df\u9109",
+    "wof:lastmodified":1694493365,
+    "wof:name":"Tainan",
     "wof:parent_id":1108756869,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-tw",

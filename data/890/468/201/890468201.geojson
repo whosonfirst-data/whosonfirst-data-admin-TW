@@ -11,6 +11,12 @@
     "geom:longitude":120.653228,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Sandimen Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053694,
-    "wof:geomhash":"f5494404ce11b30178834c6df0a597cf",
+    "wof:geomhash":"b6e79c23b59a315ca05e22a9e9b29d5e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890468201,
-    "wof:lastmodified":1627522853,
+    "wof:lastmodified":1694493368,
     "wof:name":"Sandimen",
     "wof:parent_id":1108499273,
     "wof:placetype":"county",

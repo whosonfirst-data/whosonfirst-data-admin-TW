@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108787,
-    "geom:area_square_m":1220091996.440472,
+    "geom:area_square_m":1220091918.566356,
     "geom:bbox":"120.982025,24.586457,121.479988,25.123616",
     "geom:latitude":24.903294,
     "geom:longitude":121.257645,
     "gn:country":"TW",
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Taoyuan Special Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "special municipality"
+    ],
     "lbl:latitude":24.982686,
     "lbl:longitude":121.212607,
     "lbl:min_zoom":9.0,
@@ -41,6 +47,9 @@
     ],
     "name:ell_x_preferred":[
         "\u03a4\u03b1\u03bf\u03b3\u03bf\u03c5\u03ac\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Taoyuan"
     ],
     "name:eng_x_variant":[
         "Taoyuan"
@@ -93,6 +102,18 @@
     "src:geom":"meso",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2010-12-31",
+    "statoids:areakm":1221,
+    "statoids:capital":"Taoyuan",
+    "statoids:country":"TW",
+    "statoids:date":"2010-12-31",
+    "statoids:hasc":"TW.TA.TY",
+    "statoids:name":"Taoyuan",
+    "statoids:population":2190342,
+    "statoids:statoid":"TW.TA",
+    "statoids:timezone":"+8",
+    "statoids:type":"special municipality",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -100,10 +121,12 @@
         1108808543
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "hasc:id":"TW.TA.TY"
+    },
     "wof:country":"TW",
     "wof:created":1469053722,
-    "wof:geomhash":"6c8397574006307710e78b041fd772bb",
+    "wof:geomhash":"5178e5b5c0bb7072708fa2daab5b07a4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -120,10 +143,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1636500742,
+    "wof:lastmodified":1694493043,
     "wof:name":"Taoyuan",
     "wof:parent_id":85679589,
     "wof:placetype":"macrocounty",
+    "wof:population":2190342,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -11,6 +11,12 @@
     "geom:longitude":121.286378,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Luzhu Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053734,
-    "wof:geomhash":"6329090ae693be5b240570c60cee37ac",
+    "wof:geomhash":"1909f6ae6a34f8bcd1507bb0b314cf0f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890468967,
-    "wof:lastmodified":1627522850,
+    "wof:lastmodified":1694493367,
     "wof:name":"Luzhu",
     "wof:parent_id":1108499669,
     "wof:placetype":"county",

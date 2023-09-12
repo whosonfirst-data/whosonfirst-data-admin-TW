@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123906,
-    "geom:area_square_m":1403050002.588499,
+    "geom:area_square_m":1403050002.589336,
     "geom:bbox":"119.996897,23.435707,120.736157,23.866222",
     "geom:latitude":23.686498,
     "geom:longitude":120.373193,
     "gn:country":"TW",
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Yunlin County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":23.705973,
     "lbl:longitude":120.306366,
     "lbl:min_zoom":9.0,
@@ -61,7 +67,7 @@
         "\u0393\u03b9\u03bf\u03cd\u03bd\u03bb\u03b9\u03bd"
     ],
     "name:eng_x_preferred":[
-        "Yunlin County"
+        "Yunlin"
     ],
     "name:eng_x_variant":[
         "Yulin"
@@ -204,6 +210,18 @@
     "src:geom":"meso",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_year":"2010-12-31",
+    "statoids:areakm":1291,
+    "statoids:capital":"Touliu",
+    "statoids:country":"TW",
+    "statoids:date":"2010-12-31",
+    "statoids:hasc":"TW.TA.YL",
+    "statoids:name":"Yunlin",
+    "statoids:population":618581,
+    "statoids:statoid":"TW.TA",
+    "statoids:timezone":"+8",
+    "statoids:type":"county",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -212,6 +230,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"TW.TA.YL",
         "wd:id":"Q153221"
     },
     "wof:coterminous":[
@@ -219,7 +238,7 @@
     ],
     "wof:country":"TW",
     "wof:created":1469053722,
-    "wof:geomhash":"51841448fa3294f797160fc004ac42a7",
+    "wof:geomhash":"80da4e0bec7bfcacaaa64012ad7d1772",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -236,10 +255,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875953,
+    "wof:lastmodified":1694493043,
     "wof:name":"Yunlin",
     "wof:parent_id":85679619,
     "wof:placetype":"macrocounty",
+    "wof:population":618581,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
     "wof:supersedes":[],

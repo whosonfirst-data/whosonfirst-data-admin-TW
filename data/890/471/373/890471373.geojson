@@ -11,6 +11,12 @@
     "geom:longitude":120.3246,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Fangyuan Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053853,
-    "wof:geomhash":"76148abbd4168e232f82f895cf874650",
+    "wof:geomhash":"afb4e3b8a503e3ce84ad17e617503920",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890471373,
-    "wof:lastmodified":1627522848,
+    "wof:lastmodified":1694493367,
     "wof:name":"Fangyuan",
     "wof:parent_id":1108499097,
     "wof:placetype":"county",

@@ -11,6 +11,12 @@
     "geom:longitude":121.072519,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Beipu Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053880,
-    "wof:geomhash":"af64cc9515e1b6871208a12e9325d0c9",
+    "wof:geomhash":"c2d7395b3672bea84c899d34c99bc64f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890472065,
-    "wof:lastmodified":1627522847,
+    "wof:lastmodified":1694493367,
     "wof:name":"Beipu",
     "wof:parent_id":1108756867,
     "wof:placetype":"county",

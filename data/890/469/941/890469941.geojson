@@ -11,6 +11,12 @@
     "geom:longitude":121.652984,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Yuanshan Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053795,
-    "wof:geomhash":"b5731e4244377454e6d5fedabf10bd38",
+    "wof:geomhash":"a8a8a3582521d58eef5507fd3b5185d1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890469941,
-    "wof:lastmodified":1627522856,
+    "wof:lastmodified":1694493369,
     "wof:name":"Yuanshan",
     "wof:parent_id":1108499379,
     "wof:placetype":"county",
