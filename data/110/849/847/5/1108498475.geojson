@@ -69,9 +69,6 @@
     "name:eng_x_preferred":[
         "Nantou"
     ],
-    "name:eng_x_variant":[
-        "Nantou"
-    ],
     "name:eus_x_preferred":[
         "Nantou konderria"
     ],
@@ -211,7 +208,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:areakm":4106,
     "statoids:capital":"Nantou",
     "statoids:country":"TW",
@@ -255,7 +252,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493045,
+    "wof:lastmodified":1694639822,
     "wof:name":"Nantou",
     "wof:parent_id":85679611,
     "wof:placetype":"macrocounty",

@@ -60,7 +60,6 @@
         "Nan-t'ou",
         "Nantou Hsien",
         "Nantour",
-        "Nantou",
         "Nantou City"
     ],
     "name:epo_x_preferred":[
@@ -284,7 +283,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493425,
+    "wof:lastmodified":1694639832,
     "wof:name":"Nantou",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

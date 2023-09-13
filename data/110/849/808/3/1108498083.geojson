@@ -72,9 +72,6 @@
     "name:eng_x_preferred":[
         "Hualien"
     ],
-    "name:eng_x_variant":[
-        "Hualien"
-    ],
     "name:eus_x_preferred":[
         "Hualien konderria"
     ],
@@ -209,7 +206,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:areakm":4629,
     "statoids:capital":"Hualien",
     "statoids:country":"TW",
@@ -253,7 +250,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493044,
+    "wof:lastmodified":1694639822,
     "wof:name":"Hualien",
     "wof:parent_id":85679607,
     "wof:placetype":"macrocounty",

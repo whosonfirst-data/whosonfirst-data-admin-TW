@@ -55,6 +55,9 @@
     "name:zho_x_preferred":[
         "\u81fa\u5317\u7e23"
     ],
+    "name:zho_x_variant":[
+        "\u91d1\u5c71\u9109"
+    ],
     "qs:name":"\u91d1\u5c71\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u65b0\u5317\u5e02",
@@ -95,7 +98,7 @@
         }
     ],
     "wof:id":890468975,
-    "wof:lastmodified":1694493366,
+    "wof:lastmodified":1694639681,
     "wof:name":"Taipei",
     "wof:parent_id":1108756873,
     "wof:placetype":"county",

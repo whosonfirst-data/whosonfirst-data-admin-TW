@@ -76,6 +76,9 @@
     "name:zho_x_preferred":[
         "\u81fa\u5357\u7e23"
     ],
+    "name:zho_x_variant":[
+        "\u5927\u5167\u9109"
+    ],
     "qs:name":"\u5927\u5167\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5357\u5e02",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890469065,
-    "wof:lastmodified":1694493366,
+    "wof:lastmodified":1694639680,
     "wof:name":"Tainan",
     "wof:parent_id":1108756869,
     "wof:placetype":"county",

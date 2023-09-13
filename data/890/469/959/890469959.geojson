@@ -61,6 +61,9 @@
     "name:zho_x_preferred":[
         "\u65b0\u5c4b\u5340"
     ],
+    "name:zho_x_variant":[
+        "\u65b0\u5c4b\u9109"
+    ],
     "qs:name":"\u65b0\u5c4b\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u6843\u5712\u7e23",
@@ -101,7 +104,7 @@
         }
     ],
     "wof:id":890469959,
-    "wof:lastmodified":1694493366,
+    "wof:lastmodified":1694639680,
     "wof:name":"Sinwu",
     "wof:parent_id":1108499669,
     "wof:placetype":"county",

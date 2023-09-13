@@ -65,7 +65,8 @@
         "\u5927\u57e4\u9109"
     ],
     "name:zho_x_variant":[
-        "\u4e94\u80a1\u5340"
+        "\u4e94\u80a1\u5340",
+        "\u4e94\u80a1\u9109"
     ],
     "qs:name":"\u4e94\u80a1\u9109",
     "qs:name_adm0":"\u81fa\u7063",
@@ -107,7 +108,7 @@
         }
     ],
     "wof:id":890471635,
-    "wof:lastmodified":1694493365,
+    "wof:lastmodified":1694639679,
     "wof:name":"Wugu",
     "wof:parent_id":1108756871,
     "wof:placetype":"county",

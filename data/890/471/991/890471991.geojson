@@ -76,6 +76,9 @@
     "name:zho_x_preferred":[
         "\u9ad8\u96c4\u7e23"
     ],
+    "name:zho_x_variant":[
+        "\u9ce5\u677e\u9109"
+    ],
     "qs:name":"\u9ce5\u677e\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u9ad8\u96c4\u5e02",
@@ -116,7 +119,7 @@
         }
     ],
     "wof:id":890471991,
-    "wof:lastmodified":1694493365,
+    "wof:lastmodified":1694639679,
     "wof:name":"Kaohsiung",
     "wof:parent_id":1108756877,
     "wof:placetype":"county",

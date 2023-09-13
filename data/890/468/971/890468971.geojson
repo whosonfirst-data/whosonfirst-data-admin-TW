@@ -70,6 +70,9 @@
     "name:zho_x_preferred":[
         "\u5fa9\u8208\u5340"
     ],
+    "name:zho_x_variant":[
+        "\u5fa9\u8208\u9109"
+    ],
     "qs:name":"\u5fa9\u8208\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u6843\u5712\u7e23",
@@ -110,7 +113,7 @@
         }
     ],
     "wof:id":890468971,
-    "wof:lastmodified":1694493366,
+    "wof:lastmodified":1694639680,
     "wof:name":"Fuxing",
     "wof:parent_id":1108499669,
     "wof:placetype":"county",

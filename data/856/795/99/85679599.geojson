@@ -46,7 +46,6 @@
     ],
     "name:eng_x_variant":[
         "Chia-i",
-        "Chiayi",
         "Chiayi Hsien"
     ],
     "name:eus_x_preferred":[
@@ -259,7 +258,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493425,
+    "wof:lastmodified":1694639832,
     "wof:name":"Chiayi",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

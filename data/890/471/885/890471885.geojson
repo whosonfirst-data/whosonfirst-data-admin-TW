@@ -79,6 +79,9 @@
     "name:zho_x_preferred":[
         "\u90a3\u746a\u590f\u5340"
     ],
+    "name:zho_x_variant":[
+        "\u4e09\u6c11\u9109"
+    ],
     "qs:name":"\u4e09\u6c11\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u9ad8\u96c4\u5e02",
@@ -119,7 +122,7 @@
         }
     ],
     "wof:id":890471885,
-    "wof:lastmodified":1694493365,
+    "wof:lastmodified":1694639679,
     "wof:name":"Namaxia",
     "wof:parent_id":1108756877,
     "wof:placetype":"county",

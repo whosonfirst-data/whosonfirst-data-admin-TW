@@ -34,9 +34,6 @@
     "name:eng_x_preferred":[
         "Zhongshan"
     ],
-    "name:eng_x_variant":[
-        "Zhongshan"
-    ],
     "name:hak_x_preferred":[
         "Ts\u00fbng-s\u00e2n-kh\u00ee"
     ],
@@ -101,7 +98,7 @@
         }
     ],
     "wof:id":890471461,
-    "wof:lastmodified":1694493365,
+    "wof:lastmodified":1694639679,
     "wof:name":"Zhongshan",
     "wof:parent_id":1108756873,
     "wof:placetype":"county",

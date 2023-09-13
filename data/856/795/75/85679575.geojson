@@ -55,7 +55,6 @@
     ],
     "name:eng_x_variant":[
         "Miao-li",
-        "Miaoli",
         "Miaoli Hsien",
         "Miaoli City"
     ],
@@ -262,7 +261,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493425,
+    "wof:lastmodified":1694639832,
     "wof:name":"Miaoli",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

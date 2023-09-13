@@ -58,7 +58,6 @@
     ],
     "name:eng_x_variant":[
         "T'ai-tung",
-        "Taitung",
         "Taitung Hsien",
         "Taitung City"
     ],
@@ -298,7 +297,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493425,
+    "wof:lastmodified":1694639832,
     "wof:name":"Taitung",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

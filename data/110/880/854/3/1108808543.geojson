@@ -256,7 +256,7 @@
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wd",
-    "src:population_year":"2020",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191569,
         85632403
@@ -282,7 +282,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493060,
+    "wof:lastmodified":1694639828,
     "wof:name":"Taoyuan",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

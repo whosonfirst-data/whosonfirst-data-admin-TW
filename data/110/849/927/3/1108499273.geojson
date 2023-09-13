@@ -72,9 +72,6 @@
     "name:eng_x_preferred":[
         "Pingtung"
     ],
-    "name:eng_x_variant":[
-        "Pingtung"
-    ],
     "name:epo_x_preferred":[
         "distrikto Pingtung"
     ],
@@ -223,7 +220,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:areakm":2776,
     "statoids:capital":"Pingtung",
     "statoids:country":"TW",
@@ -267,7 +264,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493046,
+    "wof:lastmodified":1694639823,
     "wof:name":"Pingtung",
     "wof:parent_id":85679549,
     "wof:placetype":"macrocounty",

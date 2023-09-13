@@ -166,6 +166,9 @@
     "name:zho_x_preferred":[
         "\u82d7\u6817\u7e23"
     ],
+    "name:zho_x_variant":[
+        "\u982d\u5c4b\u9109"
+    ],
     "qs:name":"\u982d\u5c4b\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u82d7\u6817\u7e23",
@@ -206,7 +209,7 @@
         }
     ],
     "wof:id":890471445,
-    "wof:lastmodified":1694493365,
+    "wof:lastmodified":1694639679,
     "wof:name":"Miaoli",
     "wof:parent_id":1108756879,
     "wof:placetype":"county",

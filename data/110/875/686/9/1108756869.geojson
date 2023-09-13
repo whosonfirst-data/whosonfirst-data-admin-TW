@@ -47,9 +47,6 @@
     "name:eng_x_preferred":[
         "Tainan"
     ],
-    "name:eng_x_variant":[
-        "Tainan"
-    ],
     "name:eus_x_preferred":[
         "Tainan konderria"
     ],
@@ -139,7 +136,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493034,
+    "wof:lastmodified":1694639814,
     "wof:name":"Tainan",
     "wof:parent_id":85679553,
     "wof:placetype":"macrocounty",

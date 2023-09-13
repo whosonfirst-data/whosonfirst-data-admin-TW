@@ -69,9 +69,6 @@
     "name:eng_x_preferred":[
         "Yilan"
     ],
-    "name:eng_x_variant":[
-        "Yilan"
-    ],
     "name:epo_x_preferred":[
         "distrikto Ilan"
     ],
@@ -205,7 +202,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:areakm":2144,
     "statoids:capital":"Ilan",
     "statoids:country":"TW",
@@ -249,7 +246,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493041,
+    "wof:lastmodified":1694639819,
     "wof:name":"Yilan",
     "wof:parent_id":85679567,
     "wof:placetype":"macrocounty",

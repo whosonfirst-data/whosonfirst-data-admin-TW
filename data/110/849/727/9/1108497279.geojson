@@ -220,7 +220,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:areakm":152,
     "statoids:country":"TW",
     "statoids:date":"2010-12-31",
@@ -260,7 +260,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493035,
+    "wof:lastmodified":1694639814,
     "wof:name":"Kinmen",
     "wof:parent_id":85679635,
     "wof:placetype":"macrocounty",

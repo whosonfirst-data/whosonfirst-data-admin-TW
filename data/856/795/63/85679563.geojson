@@ -79,7 +79,6 @@
     ],
     "name:eng_x_variant":[
         "Hsin-chu",
-        "Hsinchu",
         "Hsinchu Hsien",
         "Hsinchu City"
     ],
@@ -348,7 +347,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493425,
+    "wof:lastmodified":1694639832,
     "wof:name":"Hsinchu",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

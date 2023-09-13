@@ -51,9 +51,6 @@
     "name:eng_x_preferred":[
         "Taichung"
     ],
-    "name:eng_x_variant":[
-        "Taichung"
-    ],
     "name:eus_x_preferred":[
         "Taichung konderria"
     ],
@@ -113,7 +110,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:areakm":2215,
     "statoids:capital":"Taichung",
     "statoids:country":"TW",
@@ -154,7 +151,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493047,
+    "wof:lastmodified":1694639824,
     "wof:name":"Taichung",
     "wof:parent_id":85679617,
     "wof:placetype":"macrocounty",

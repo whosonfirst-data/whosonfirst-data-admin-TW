@@ -1475,7 +1475,7 @@
     ],
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"",
+    "src:population_date":"",
     "statoids:dial":"886",
     "statoids:ds":"RC",
     "statoids:fifa":"TPE",
@@ -1545,7 +1545,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493364,
+    "wof:lastmodified":1694639673,
     "wof:name":"Taiwan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

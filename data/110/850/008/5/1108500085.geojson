@@ -69,9 +69,6 @@
     "name:eng_x_preferred":[
         "Penghu"
     ],
-    "name:eng_x_variant":[
-        "Penghu"
-    ],
     "name:epo_x_preferred":[
         "Penghuoj"
     ],
@@ -190,7 +187,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:areakm":127,
     "statoids:capital":"Makung",
     "statoids:country":"TW",
@@ -234,7 +231,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493040,
+    "wof:lastmodified":1694639817,
     "wof:name":"Penghu",
     "wof:parent_id":85679627,
     "wof:placetype":"macrocounty",

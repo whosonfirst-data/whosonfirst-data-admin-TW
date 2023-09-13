@@ -69,9 +69,6 @@
     "name:eng_x_preferred":[
         "Yunlin"
     ],
-    "name:eng_x_variant":[
-        "Yulin"
-    ],
     "name:epo_x_preferred":[
         "distrikto Junlin"
     ],
@@ -211,7 +208,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:areakm":1291,
     "statoids:capital":"Touliu",
     "statoids:country":"TW",
@@ -255,7 +252,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493043,
+    "wof:lastmodified":1694639820,
     "wof:name":"Yunlin",
     "wof:parent_id":85679619,
     "wof:placetype":"macrocounty",

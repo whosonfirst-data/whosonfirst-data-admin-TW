@@ -51,9 +51,6 @@
     "name:eng_x_preferred":[
         "Taoyuan"
     ],
-    "name:eng_x_variant":[
-        "Taoyuan"
-    ],
     "name:fas_x_preferred":[
         "\u062a\u0648\u0626\u0627\u06cc\u0648\u0622\u0646"
     ],
@@ -103,7 +100,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population_year":"2010-12-31",
+    "src:population_date":"2010-12-31",
     "statoids:areakm":1221,
     "statoids:capital":"Taoyuan",
     "statoids:country":"TW",
@@ -143,7 +140,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493043,
+    "wof:lastmodified":1694639820,
     "wof:name":"Taoyuan",
     "wof:parent_id":85679589,
     "wof:placetype":"macrocounty",
