@@ -11,6 +11,12 @@
     "geom:longitude":120.513172,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Nanzhou Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053661,
-    "wof:geomhash":"c48ac6bfc210e209a3cd02ba47369a02",
+    "wof:geomhash":"d93c870c2d11016563fa2a669645120b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890467717,
-    "wof:lastmodified":1627522851,
+    "wof:lastmodified":1694493368,
     "wof:name":"Nanzhou",
     "wof:parent_id":1108499273,
     "wof:placetype":"county",

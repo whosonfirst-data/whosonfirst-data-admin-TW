@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.368155,
-    "geom:area_square_m":4163599410.711621,
+    "geom:area_square_m":4163599410.712065,
     "geom:bbox":"120.62657,23.436683,121.349627,24.243482",
     "geom:latitude":23.848504,
     "geom:longitude":120.986466,
@@ -54,13 +54,12 @@
         "\u039d\u03ac\u03bd\u03c4\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
-        "Nantou County"
+        "Nantou"
     ],
     "name:eng_x_variant":[
         "Nan-t'ou",
         "Nantou Hsien",
         "Nantour",
-        "Nantou",
         "Nantou City"
     ],
     "name:epo_x_preferred":[
@@ -268,7 +267,7 @@
         1108498475
     ],
     "wof:country":"TW",
-    "wof:geomhash":"df5ff2b007069d4fe023689e91b18ccb",
+    "wof:geomhash":"5db674ded8ae44c860ceb0420b20823d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -284,7 +283,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875931,
+    "wof:lastmodified":1694639832,
     "wof:name":"Nantou",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

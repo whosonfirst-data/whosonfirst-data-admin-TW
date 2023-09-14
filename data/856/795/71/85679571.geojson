@@ -5,14 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009645,
-    "geom:area_square_m":107988602.653378,
+    "geom:area_square_m":107988091.395352,
     "geom:bbox":"121.633124,25.057644,121.774821,25.169465",
     "geom:latitude":25.112685,
     "geom:longitude":121.707872,
     "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
-        "Keelung City Municipality"
+        "Keelung Municipality"
     ],
     "label:eng_x_preferred_placetype":[
         "municipality"
@@ -148,7 +148,7 @@
         "unlc:id":"TW-KEE"
     },
     "wof:country":"TW",
-    "wof:geomhash":"6e84dc5ebc4694c86714feb10c4290c8",
+    "wof:geomhash":"c4b994838623416ab7fc5d2af086edbd",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -164,7 +164,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1627522849,
+    "wof:lastmodified":1694493425,
     "wof:name":"Keelung City",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

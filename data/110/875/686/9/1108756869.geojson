@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.199183,
-    "geom:area_square_m":2264596008.516375,
+    "geom:area_square_m":2264595960.104124,
     "geom:bbox":"120.026906,22.887506,120.656268,23.413742",
     "geom:latitude":23.150778,
     "geom:longitude":120.324758,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Tainan Special Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "special municipality"
+    ],
     "lbl:latitude":23.138881,
     "lbl:longitude":120.330708,
     "lbl:min_zoom":9.0,
@@ -39,9 +45,6 @@
         "Landkreis Tainan"
     ],
     "name:eng_x_preferred":[
-        "Tainan County"
-    ],
-    "name:eng_x_variant":[
         "Tainan"
     ],
     "name:eus_x_preferred":[
@@ -116,7 +119,7 @@
     },
     "wof:country":"TW",
     "wof:created":1473974326,
-    "wof:geomhash":"499f3451a40a400ad4bfcb65db033192",
+    "wof:geomhash":"42f8e60d29c795f6d4ab25a072493a5d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -133,7 +136,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875945,
+    "wof:lastmodified":1694639814,
     "wof:name":"Tainan",
     "wof:parent_id":85679553,
     "wof:placetype":"macrocounty",

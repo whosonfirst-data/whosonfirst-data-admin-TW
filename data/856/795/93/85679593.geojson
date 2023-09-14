@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.105537,
-    "geom:area_square_m":1192533415.552911,
+    "geom:area_square_m":1192533415.552973,
     "geom:bbox":"120.243934,23.772477,120.684138,24.207085",
     "geom:latitude":23.959365,
     "geom:longitude":120.481938,
@@ -51,14 +51,13 @@
         "\u03a4\u03c3\u03ac\u03bd\u03b3\u03ba\u03bf\u03c5\u03b1"
     ],
     "name:eng_x_preferred":[
-        "Changhua County"
+        "Changhua"
     ],
     "name:eng_x_variant":[
         "Changhwa Hsien",
         "Chung-hua",
         "Chunghua",
         "Changhwa",
-        "Changhua",
         "Changhua City"
     ],
     "name:epo_x_preferred":[
@@ -266,7 +265,7 @@
         1108499097
     ],
     "wof:country":"TW",
-    "wof:geomhash":"59c3d2e61735f9d70c1584181fb769dc",
+    "wof:geomhash":"eefed0184d19cf268c57056fb050a2a3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -282,7 +281,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875933,
+    "wof:lastmodified":1694639832,
     "wof:name":"Changhua",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

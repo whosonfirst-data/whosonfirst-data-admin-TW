@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.263984,
-    "geom:area_square_m":3004785567.473144,
+    "geom:area_square_m":3004785567.472907,
     "geom:bbox":"120.174665,22.468477,121.04903,23.471714",
     "geom:latitude":22.996104,
     "geom:longitude":120.61766,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Kaohsiung Special Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "special municipality"
+    ],
     "label:eng_x_preferred_shortcode":[
         "KH"
     ],
@@ -354,7 +360,7 @@
     ],
     "wof:country":"TW",
     "wof:created":1486417866,
-    "wof:geomhash":"8e7a813338a26bdfaf07797394f7ae61",
+    "wof:geomhash":"e5114fe381c7ff1f0162f1a094ae912b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -369,7 +375,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875941,
+    "wof:lastmodified":1694493061,
     "wof:name":"Kaohsiung",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

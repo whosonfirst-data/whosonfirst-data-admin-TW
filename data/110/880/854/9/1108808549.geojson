@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.184777,
-    "geom:area_square_m":2070942871.581794,
+    "geom:area_square_m":2070942871.578335,
     "geom:bbox":"121.28268,24.673194,122.007494,25.300305",
     "geom:latitude":24.987105,
     "geom:longitude":121.595366,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "New Taipei Special Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "special municipality"
+    ],
     "label:eng_x_preferred_shortcode":[
         "NT"
     ],
@@ -313,7 +319,7 @@
     ],
     "wof:country":"TW",
     "wof:created":1486417868,
-    "wof:geomhash":"ceeb40bdcc2e1615d3ee30fd5d08f351",
+    "wof:geomhash":"db0685016c9a06eb6e29b34b9c444344",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -328,7 +334,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875940,
+    "wof:lastmodified":1694493055,
     "wof:name":"New Taipei",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.298153,
-    "geom:area_square_m":3396975073.693384,
+    "geom:area_square_m":3396975073.693092,
     "geom:bbox":"120.749147,21.948798,121.605724,23.438725",
     "geom:latitude":22.865845,
     "geom:longitude":121.039757,
@@ -54,11 +54,10 @@
         "\u03a4\u03b1\u03ca\u03c4\u03bf\u03cd\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
-        "Taitung County"
+        "Taitung"
     ],
     "name:eng_x_variant":[
         "T'ai-tung",
-        "Taitung",
         "Taitung Hsien",
         "Taitung City"
     ],
@@ -282,7 +281,7 @@
         1108499511
     ],
     "wof:country":"TW",
-    "wof:geomhash":"c6e7d4c44fa49268488eb53034b86ab5",
+    "wof:geomhash":"7c71c30389ef97997bc050a2280661d7",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -298,7 +297,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875932,
+    "wof:lastmodified":1694639832,
     "wof:name":"Taitung",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

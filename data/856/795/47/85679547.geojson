@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.26617,
-    "geom:area_square_m":3029611455.501552,
+    "geom:area_square_m":3029611745.080619,
     "geom:bbox":"120.167492,22.482887,121.049594,23.475389",
     "geom:latitude":22.998764,
     "geom:longitude":120.617319,
@@ -410,7 +410,7 @@
         "wd:id":"Q181557"
     },
     "wof:country":"TW",
-    "wof:geomhash":"cc523f1ff7f6829606ff710de13c6700",
+    "wof:geomhash":"6b85660a9b8972de2f20d6aca8237d65",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -426,7 +426,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875936,
+    "wof:lastmodified":1694493409,
     "wof:name":"Kaohsiung City",
     "wof:parent_id":1108808547,
     "wof:placetype":"region",

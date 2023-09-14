@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":3.213881,
-    "geom:area_square_m":36370077329.214577,
+    "geom:area_square_m":36370077329.218033,
     "geom:bbox":"116.702026,20.705389,122.102943,26.39625",
     "geom:latitude":23.754764,
     "geom:longitude":120.952016,
@@ -13,6 +13,12 @@
     "iso:country":"TW",
     "itu:country_code":[
         "886"
+    ],
+    "label:eng_x_preferred_longname":[
+        "Taiwan"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "disputed territory"
     ],
     "label:eng_x_preferred_shortcode":[
         "TW"
@@ -1468,7 +1474,8 @@
         "meso"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"geonames",
+    "src:population":"naturalearth",
+    "src:population_date":"",
     "statoids:dial":"886",
     "statoids:ds":"RC",
     "statoids:fifa":"TPE",
@@ -1524,7 +1531,7 @@
         "naturalearth-display-terrestrial-zoom6",
         "meso"
     ],
-    "wof:geomhash":"8d008d1b3f457b3a66f0e969e947fa09",
+    "wof:geomhash":"3666554970d3d0b172b1858c7f851767",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1538,12 +1545,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875933,
+    "wof:lastmodified":1694639673,
     "wof:name":"Taiwan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":22894384,
-    "wof:population_rank":15,
+    "wof:population":23568378,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:shortcode":"TW",
     "wof:superseded_by":[],

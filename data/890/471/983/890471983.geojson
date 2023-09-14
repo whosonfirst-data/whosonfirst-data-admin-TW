@@ -11,6 +11,12 @@
     "geom:longitude":120.574732,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Dapu Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053877,
-    "wof:geomhash":"7de1e5a50aa29ca29ac36fabae4c2d0b",
+    "wof:geomhash":"3f8ad7b9d5721290adcaa968255489ed",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890471983,
-    "wof:lastmodified":1627522847,
+    "wof:lastmodified":1694493367,
     "wof:name":"Dapu",
     "wof:parent_id":1108756865,
     "wof:placetype":"county",

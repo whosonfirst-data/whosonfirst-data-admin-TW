@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.172582,
-    "geom:area_square_m":1957770363.375954,
+    "geom:area_square_m":1957770363.376413,
     "geom:bbox":"120.118053,23.214784,120.957515,23.635913",
     "geom:latitude":23.448734,
     "geom:longitude":120.51995,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Chiayi County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":23.433459,
     "lbl:longitude":120.65083,
     "lbl:min_zoom":9.0,
@@ -57,7 +63,7 @@
         "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u03a4\u03c3\u03b9\u03b1\u03b3\u03af"
     ],
     "name:eng_x_preferred":[
-        "Chiayi County"
+        "Chiayi"
     ],
     "name:eus_x_preferred":[
         "Chiayi konderria"
@@ -203,7 +209,7 @@
     ],
     "wof:country":"TW",
     "wof:created":1473974331,
-    "wof:geomhash":"48ae227e8b397ed5b18a460aa11997e5",
+    "wof:geomhash":"fa497500b01b185e2d656fbbbf82627d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -220,7 +226,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875946,
+    "wof:lastmodified":1694639816,
     "wof:name":"Chiayi",
     "wof:parent_id":85679599,
     "wof:placetype":"macrocounty",

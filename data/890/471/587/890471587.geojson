@@ -11,6 +11,12 @@
     "geom:longitude":120.59761,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Kaohsiung Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -26,7 +32,7 @@
         "Landkreis Kaohsiung"
     ],
     "name:eng_x_preferred":[
-        "Kaohsiung County"
+        "Kaohsiung"
     ],
     "name:eus_x_preferred":[
         "Kaohsiung konderria"
@@ -70,6 +76,9 @@
     "name:zho_x_preferred":[
         "\u9ad8\u96c4\u7e23"
     ],
+    "name:zho_x_variant":[
+        "\u6749\u6797\u9109"
+    ],
     "qs:name":"\u6749\u6797\u9109",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u9ad8\u96c4\u5e02",
@@ -98,7 +107,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053861,
-    "wof:geomhash":"f47a020a986b841f46e1854bc08b6dfd",
+    "wof:geomhash":"cfd37a848143788aa23521e053c9fe5d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,8 +119,8 @@
         }
     ],
     "wof:id":890471587,
-    "wof:lastmodified":1690875965,
-    "wof:name":"\u6749\u6797\u9109",
+    "wof:lastmodified":1694639679,
+    "wof:name":"Kaohsiung",
     "wof:parent_id":1108756877,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-tw",

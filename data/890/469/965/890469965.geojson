@@ -11,6 +11,12 @@
     "geom:longitude":121.570686,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Xiulin Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053795,
-    "wof:geomhash":"ad21f4df6c2ec597b3b44ba1e78b75f5",
+    "wof:geomhash":"1d6aff5ebfbbe45f61cabb8a26d115dc",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890469965,
-    "wof:lastmodified":1627522855,
+    "wof:lastmodified":1694493368,
     "wof:name":"Xiulin",
     "wof:parent_id":1108498083,
     "wof:placetype":"county",

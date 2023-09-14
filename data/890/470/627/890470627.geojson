@@ -11,6 +11,12 @@
     "geom:longitude":121.597709,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Nan'ao Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053826,
-    "wof:geomhash":"b576c61c05e6531e053b91513058134f",
+    "wof:geomhash":"05ba4ca35bacf4e1f38f40cf796c9256",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890470627,
-    "wof:lastmodified":1627522851,
+    "wof:lastmodified":1694493368,
     "wof:name":"Nan'ao",
     "wof:parent_id":1108499379,
     "wof:placetype":"county",

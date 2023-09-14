@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.250338,
-    "geom:area_square_m":2860086066.370229,
+    "geom:area_square_m":2860086066.370397,
     "geom:bbox":"120.345063,21.904608,120.910584,22.887647",
     "geom:latitude":22.487904,
     "geom:longitude":120.673317,
@@ -51,11 +51,10 @@
         "\u03a0\u03b9\u03bd\u03b3\u03ba\u03c4\u03bf\u03cd\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
-        "Pingtung County"
+        "Pingtung"
     ],
     "name:eng_x_variant":[
         "P'ing-tung",
-        "Pingtung",
         "Pingtung Hsien",
         "Pingtung City"
     ],
@@ -258,7 +257,7 @@
         1108499273
     ],
     "wof:country":"TW",
-    "wof:geomhash":"0a82396fec6ba811e976ecc75ce96982",
+    "wof:geomhash":"9bd02e4a8099d4bc368f12dc36d32596",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -274,7 +273,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875936,
+    "wof:lastmodified":1694639832,
     "wof:name":"Pingtung",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

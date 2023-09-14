@@ -11,6 +11,12 @@
     "geom:longitude":120.244503,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Yizhu Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053733,
-    "wof:geomhash":"62d777f48ec4b5fa3a4cfc1258736a77",
+    "wof:geomhash":"6a873a22f2e249a4a367efd500462bc8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890468963,
-    "wof:lastmodified":1627522856,
+    "wof:lastmodified":1694493369,
     "wof:name":"Yizhu",
     "wof:parent_id":1108756865,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.194567,
-    "geom:area_square_m":2212064978.595932,
+    "geom:area_square_m":2212064574.00417,
     "geom:bbox":"120.02825,22.896122,120.653442,23.41392",
     "geom:latitude":23.154085,
     "geom:longitude":120.33278,
@@ -380,7 +380,7 @@
         "wd:id":"Q140631"
     },
     "wof:country":"TW",
-    "wof:geomhash":"e2a0253abb499cfb29e729ffda78dd55",
+    "wof:geomhash":"7e69dba0a0c82975ee217c405b7caaee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -396,7 +396,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875934,
+    "wof:lastmodified":1694493409,
     "wof:name":"Tainan City",
     "wof:parent_id":1108808553,
     "wof:placetype":"region",

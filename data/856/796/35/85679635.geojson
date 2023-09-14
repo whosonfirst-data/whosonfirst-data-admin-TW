@@ -5,14 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.015458,
-    "geom:area_square_m":173984688.619153,
+    "geom:area_square_m":173985319.960022,
     "geom:bbox":"118.208995,24.390544,119.476899,24.995754",
     "geom:latitude":24.464202,
     "geom:longitude":118.380607,
     "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
-        "Kinmen County"
+        "Kinmen County County"
     ],
     "label:eng_x_preferred_placetype":[
         "county"
@@ -322,7 +322,7 @@
         "wd:id":"Q249870"
     },
     "wof:country":"TW",
-    "wof:geomhash":"6093aa922bd9be46113fa0c4a55c8b91",
+    "wof:geomhash":"e22242e3aa70b4ae4ed9a12c9d36d832",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -338,7 +338,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875930,
+    "wof:lastmodified":1694493409,
     "wof:name":"Kinmen",
     "wof:parent_id":1108808555,
     "wof:placetype":"region",

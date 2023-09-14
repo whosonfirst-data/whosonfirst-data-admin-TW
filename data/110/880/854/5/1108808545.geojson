@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.02415,
-    "geom:area_square_m":270459090.553003,
+    "geom:area_square_m":270459090.553631,
     "geom:bbox":"121.457141,24.960503,121.665934,25.210175",
     "geom:latitude":25.082945,
     "geom:longitude":121.553296,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Taipei Special Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "special municipality"
+    ],
     "label:eng_x_preferred_shortcode":[
         "TP"
     ],
@@ -591,6 +597,8 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"wd",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191569,
         85632403
@@ -602,7 +610,7 @@
     },
     "wof:country":"TW",
     "wof:created":1486417865,
-    "wof:geomhash":"e9b72444e7bef2f75ade88b09277c631",
+    "wof:geomhash":"78bc0ac52baacf1bf7293996c225cd48",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -617,10 +625,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875943,
+    "wof:lastmodified":1694639828,
     "wof:name":"Taipei",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",
+    "wof:population":2635286,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:shortcode":"TP",
     "wof:superseded_by":[],

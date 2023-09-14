@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005279,
-    "geom:area_square_m":59874285.378923,
+    "geom:area_square_m":59874325.244747,
     "geom:bbox":"120.389152,23.439558,120.509372,23.51843",
     "geom:latitude":23.480547,
     "geom:longitude":120.447932,
     "gn:country":"TW",
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Chiayi Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "lbl:latitude":23.480819,
     "lbl:longitude":120.447027,
     "lbl:min_zoom":9.0,
@@ -58,7 +64,7 @@
         "\u039a\u03bf\u03bc\u03b7\u03c4\u03b5\u03af\u03b1 \u03a4\u03c3\u03b9\u03b1\u03b3\u03af"
     ],
     "name:eng_x_preferred":[
-        "Chiayi County"
+        "Chiayi"
     ],
     "name:eng_x_variant":[
         "Chiayi City"
@@ -195,6 +201,18 @@
     "src:geom":"meso",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2010-12-31",
+    "statoids:areakm":60,
+    "statoids:capital":"Chiayi",
+    "statoids:country":"TW",
+    "statoids:date":"2010-12-31",
+    "statoids:hasc":"TW.TA.CS",
+    "statoids:name":"Chiayi City",
+    "statoids:population":267651,
+    "statoids:statoid":"TW.TA",
+    "statoids:timezone":"+8",
+    "statoids:type":"municipality",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -203,11 +221,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"TW.TA.CS",
         "wd:id":"Q166977"
     },
     "wof:country":"TW",
     "wof:created":1469053701,
-    "wof:geomhash":"db00497609ff15987bd6ab04d0e81982",
+    "wof:geomhash":"eb1152cea93f5f3207fc025142413587",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -224,10 +243,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875958,
+    "wof:lastmodified":1694639823,
     "wof:name":"Chiayi",
     "wof:parent_id":85679603,
     "wof:placetype":"macrocounty",
+    "wof:population":267651,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
     "wof:supersedes":[],

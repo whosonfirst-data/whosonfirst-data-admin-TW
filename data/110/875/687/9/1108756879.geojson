@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.162721,
-    "geom:area_square_m":1831141949.471865,
+    "geom:area_square_m":1831141949.473536,
     "geom:bbox":"120.621854,24.288516,121.262633,24.741091",
     "geom:latitude":24.483912,
     "geom:longitude":120.922006,
     "gn:country":"TW",
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Miaoli County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":24.51334,
     "lbl:longitude":120.890412,
     "lbl:min_zoom":9.0,
@@ -61,9 +67,6 @@
         "\u039c\u03b9\u03b1\u03bf\u03bb\u03af"
     ],
     "name:eng_x_preferred":[
-        "Miaoli County"
-    ],
-    "name:eng_x_variant":[
         "Miaoli"
     ],
     "name:epo_x_preferred":[
@@ -201,6 +204,18 @@
     "src:geom":"meso",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2010-12-31",
+    "statoids:areakm":1820,
+    "statoids:capital":"Miaoli",
+    "statoids:country":"TW",
+    "statoids:date":"2010-12-31",
+    "statoids:hasc":"TW.TA.ML",
+    "statoids:name":"Miaoli",
+    "statoids:population":530339,
+    "statoids:statoid":"TW.TA",
+    "statoids:timezone":"+8",
+    "statoids:type":"county",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -209,6 +224,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"TW.TA.ML",
         "wd:id":"Q63706"
     },
     "wof:coterminous":[
@@ -216,7 +232,7 @@
     ],
     "wof:country":"TW",
     "wof:created":1469053724,
-    "wof:geomhash":"ee430c0d33c216955976a9f091bc3391",
+    "wof:geomhash":"8531eb2e492a46693a201c3ccd193766",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -233,10 +249,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875947,
+    "wof:lastmodified":1694639816,
     "wof:name":"Miaoli",
     "wof:parent_id":85679575,
     "wof:placetype":"macrocounty",
+    "wof:population":530339,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
     "wof:supersedes":[

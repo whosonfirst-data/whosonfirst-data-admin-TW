@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025772,
-    "geom:area_square_m":288627699.830534,
+    "geom:area_square_m":288627044.009942,
     "geom:bbox":"121.462178,24.970621,121.655241,25.205852",
     "geom:latitude":25.082205,
     "geom:longitude":121.559465,
@@ -682,7 +682,7 @@
         102026641
     ],
     "wof:country":"TW",
-    "wof:geomhash":"eb93ad02e1096a223e7e41d64ce5d7af",
+    "wof:geomhash":"3efc78eb642261876aa53c388aecd195",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -698,7 +698,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875935,
+    "wof:lastmodified":1694493409,
     "wof:name":"Taipei City",
     "wof:parent_id":1108808545,
     "wof:placetype":"region",

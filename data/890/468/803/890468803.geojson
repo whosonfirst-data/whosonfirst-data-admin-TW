@@ -11,6 +11,12 @@
     "geom:longitude":120.49118,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Taichung Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -29,7 +35,7 @@
         "Landkreis Taichung"
     ],
     "name:eng_x_preferred":[
-        "Taichung County"
+        "Taichung"
     ],
     "name:eus_x_preferred":[
         "Taichung konderria"
@@ -68,7 +74,8 @@
         "\u81fa\u4e2d\u7e23"
     ],
     "name:zho_x_variant":[
-        "\u53f0\u4e2d\u7e23"
+        "\u53f0\u4e2d\u7e23",
+        "\u9f8d\u4e95\u9109"
     ],
     "qs:name":"\u9f8d\u4e95\u9109",
     "qs:name_adm0":"\u81fa\u7063",
@@ -98,7 +105,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053726,
-    "wof:geomhash":"a485d57750c0b439d151d7c5b8577359",
+    "wof:geomhash":"680444b2423e869737c62a89e9ff7010",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -110,8 +117,8 @@
         }
     ],
     "wof:id":890468803,
-    "wof:lastmodified":1690876012,
-    "wof:name":"\u9f8d\u4e95\u9109",
+    "wof:lastmodified":1694639680,
+    "wof:name":"Taichung",
     "wof:parent_id":1108497005,
     "wof:placetype":"county",
     "wof:repo":"whosonfirst-data-admin-tw",

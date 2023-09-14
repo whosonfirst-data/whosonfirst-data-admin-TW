@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0024,
-    "geom:area_square_m":26637725.482415,
+    "geom:area_square_m":26637725.482419,
     "geom:bbox":"119.913748,25.947414,120.50766,26.388739",
     "geom:latitude":26.177036,
     "geom:longitude":120.041609,
@@ -30,11 +30,7 @@
     "mz:max_zoom":11.0,
     "mz:min_zoom":10.0,
     "name:eng_x_preferred":[
-        "Lienchiang County"
-    ],
-    "name:eng_x_variant":[
-        "Lienchiang",
-        "Lienkiang"
+        "Lienchiang"
     ],
     "name:fra_x_preferred":[
         "Lienchiang"
@@ -146,7 +142,7 @@
         1108497811
     ],
     "wof:country":"TW",
-    "wof:geomhash":"191740d3ce7178485fa0a5f505414efd",
+    "wof:geomhash":"3551b93071c6c5597fdde130ae7865ca",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -162,7 +158,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1627522850,
+    "wof:lastmodified":1694639832,
     "wof:name":"Lienchiang",
     "wof:parent_id":1108808555,
     "wof:placetype":"region",

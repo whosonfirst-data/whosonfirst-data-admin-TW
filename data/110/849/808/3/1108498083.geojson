@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.407985,
-    "geom:area_square_m":4617376696.249568,
+    "geom:area_square_m":4617376696.257794,
     "geom:bbox":"120.986565,23.097781,121.774057,24.370553",
     "geom:latitude":23.753338,
     "geom:longitude":121.378975,
     "gn:country":"TW",
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Hualien County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":23.79488,
     "lbl:longitude":121.405739,
     "lbl:min_zoom":9.0,
@@ -64,9 +70,6 @@
         "\u03a7\u03bf\u03c5\u03ac\u03bb\u03b9\u03b5\u03bd"
     ],
     "name:eng_x_preferred":[
-        "Hualien County"
-    ],
-    "name:eng_x_variant":[
         "Hualien"
     ],
     "name:eus_x_preferred":[
@@ -202,6 +205,18 @@
     "src:geom":"meso",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2010-12-31",
+    "statoids:areakm":4629,
+    "statoids:capital":"Hualien",
+    "statoids:country":"TW",
+    "statoids:date":"2010-12-31",
+    "statoids:hasc":"TW.TA.HL",
+    "statoids:name":"Hualien",
+    "statoids:population":309941,
+    "statoids:statoid":"TW.TA",
+    "statoids:timezone":"+8",
+    "statoids:type":"county",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -210,6 +225,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"TW.TA.HL",
         "wd:id":"Q249868"
     },
     "wof:coterminous":[
@@ -217,7 +233,7 @@
     ],
     "wof:country":"TW",
     "wof:created":1469053661,
-    "wof:geomhash":"ce89b0289c3b52505eb8f3f5bafd5b60",
+    "wof:geomhash":"01017495f340c224db3bacb9a1122de8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -234,10 +250,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875955,
+    "wof:lastmodified":1694639822,
     "wof:name":"Hualien",
     "wof:parent_id":85679607,
     "wof:placetype":"macrocounty",
+    "wof:population":309941,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
     "wof:supersedes":[],

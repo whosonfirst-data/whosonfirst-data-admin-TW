@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.246188,
-    "geom:area_square_m":2812767322.574748,
+    "geom:area_square_m":2812767322.574988,
     "geom:bbox":"120.353145,21.8956,120.904185,22.885178",
     "geom:latitude":22.482711,
     "geom:longitude":120.676714,
     "gn:country":"TW",
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Pingtung County"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "county"
+    ],
     "lbl:latitude":22.535153,
     "lbl:longitude":120.593713,
     "lbl:min_zoom":9.0,
@@ -64,9 +70,6 @@
         "\u03a0\u03af\u03bd\u03b3\u03ba\u03c4\u03bf\u03c5\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
-        "Pingtung County"
-    ],
-    "name:eng_x_variant":[
         "Pingtung"
     ],
     "name:epo_x_preferred":[
@@ -216,6 +219,18 @@
     "src:geom":"meso",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2010-12-31",
+    "statoids:areakm":2776,
+    "statoids:capital":"Pingtung",
+    "statoids:country":"TW",
+    "statoids:date":"2010-12-31",
+    "statoids:hasc":"TW.TA.PT",
+    "statoids:name":"Pingtung",
+    "statoids:population":801012,
+    "statoids:statoid":"TW.TA",
+    "statoids:timezone":"+8",
+    "statoids:type":"county",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -224,6 +239,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"TW.TA.PT",
         "wd:id":"Q194989"
     },
     "wof:coterminous":[
@@ -231,7 +247,7 @@
     ],
     "wof:country":"TW",
     "wof:created":1469053721,
-    "wof:geomhash":"ff200686eb09989b318c605873f0743f",
+    "wof:geomhash":"829a0c14d46b3baa8eed1925df788a5c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -248,10 +264,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875957,
+    "wof:lastmodified":1694639823,
     "wof:name":"Pingtung",
     "wof:parent_id":85679549,
     "wof:placetype":"macrocounty",
+    "wof:population":801012,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
     "wof:supersedes":[],

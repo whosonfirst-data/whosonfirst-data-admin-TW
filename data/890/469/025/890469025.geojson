@@ -11,6 +11,12 @@
     "geom:longitude":120.488777,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Pitou Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053736,
-    "wof:geomhash":"0730d67c72d5cafbf6ec5065c1461326",
+    "wof:geomhash":"3b888ecc4d0f0c5834faf200a1095cf8",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890469025,
-    "wof:lastmodified":1627522852,
+    "wof:lastmodified":1694493368,
     "wof:name":"Pitou",
     "wof:parent_id":1108499097,
     "wof:placetype":"county",

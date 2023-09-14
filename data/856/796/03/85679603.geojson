@@ -5,14 +5,14 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006793,
-    "geom:area_square_m":77041450.024103,
+    "geom:area_square_m":77041131.33091,
     "geom:bbox":"120.373562,23.445339,120.508955,23.517273",
     "geom:latitude":23.482917,
     "geom:longitude":120.441862,
     "gn:id":"",
     "iso:country":"TW",
     "label:eng_x_preferred_longname":[
-        "Chiayi City Municipality"
+        "Chiayi Municipality"
     ],
     "label:eng_x_preferred_placetype":[
         "municipality"
@@ -139,7 +139,7 @@
         "qs_pg:id":1110821
     },
     "wof:country":"TW",
-    "wof:geomhash":"e60455cfaec1fdaf065d2411e932b11a",
+    "wof:geomhash":"09e56fa5bbac44d9a3448f16fa92e248",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -155,7 +155,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1627522847,
+    "wof:lastmodified":1694493425,
     "wof:name":"Chiayi City",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

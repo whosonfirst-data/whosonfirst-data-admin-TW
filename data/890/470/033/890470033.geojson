@@ -11,6 +11,12 @@
     "geom:longitude":121.024017,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Hukou Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053798,
-    "wof:geomhash":"328100d652325ed2b283299d146e737d",
+    "wof:geomhash":"803d067d92405027ab4596e9c357d64f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890470033,
-    "wof:lastmodified":1627522849,
+    "wof:lastmodified":1694493367,
     "wof:name":"Hukou",
     "wof:parent_id":1108756867,
     "wof:placetype":"county",

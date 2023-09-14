@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":0,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Kinmen Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -224,7 +230,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053655,
-    "wof:geomhash":"1910d1211330406358b0d8285929afbf",
+    "wof:geomhash":"c5b818a276b0f9b427b127ec1f5805df",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -236,7 +242,7 @@
         }
     ],
     "wof:id":890467577,
-    "wof:lastmodified":1690875998,
+    "wof:lastmodified":1694493366,
     "wof:name":"Kinmen",
     "wof:parent_id":1108497279,
     "wof:placetype":"county",

@@ -11,6 +11,12 @@
     "geom:longitude":121.487588,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Ruisui Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053798,
-    "wof:geomhash":"e1bb497cb768c119aae63f035100de4a",
+    "wof:geomhash":"a25843ab027c48cfa759a168b8337e8a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890470037,
-    "wof:lastmodified":1627522853,
+    "wof:lastmodified":1694493368,
     "wof:name":"Ruisui",
     "wof:parent_id":1108498083,
     "wof:placetype":"county",

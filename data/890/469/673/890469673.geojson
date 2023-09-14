@@ -11,6 +11,12 @@
     "geom:longitude":120.311965,
     "gp:adm0":23424971,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Yuanchang Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -53,7 +59,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053782,
-    "wof:geomhash":"db0e25913eca09bf9d3d9ba052d76c24",
+    "wof:geomhash":"3b2ea476f78931762e1006ca2ae06e83",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -65,7 +71,7 @@
         }
     ],
     "wof:id":890469673,
-    "wof:lastmodified":1627522856,
+    "wof:lastmodified":1694493369,
     "wof:name":"Yuanchang",
     "wof:parent_id":1108498757,
     "wof:placetype":"county",

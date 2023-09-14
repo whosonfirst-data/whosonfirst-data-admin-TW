@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.398704,
-    "geom:area_square_m":4512313587.498856,
+    "geom:area_square_m":4512313587.498913,
     "geom:bbox":"120.988719,23.106342,121.772716,24.37275",
     "geom:latitude":23.754535,
     "geom:longitude":121.376852,
@@ -60,11 +60,10 @@
         "\u03a7\u03bf\u03c5\u03b1\u03bb\u03b9\u03ad\u03bd"
     ],
     "name:eng_x_preferred":[
-        "Hualien County"
+        "Hualien"
     ],
     "name:eng_x_variant":[
         "Hua-lien",
-        "Hualien",
         "Hualien Hsien",
         "Hualien City"
     ],
@@ -317,7 +316,7 @@
         1108498083
     ],
     "wof:country":"TW",
-    "wof:geomhash":"2488aa2ae174ade41bc9c868cc833364",
+    "wof:geomhash":"9395e37582e138496c5a0cb9cfaffd59",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -333,7 +332,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875932,
+    "wof:lastmodified":1694639832,
     "wof:name":"Hualien",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

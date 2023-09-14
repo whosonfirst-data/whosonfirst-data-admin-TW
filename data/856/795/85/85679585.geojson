@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.173254,
-    "geom:area_square_m":1941809386.294913,
+    "geom:area_square_m":1941809973.861382,
     "geom:bbox":"121.287414,24.681078,122.079845,25.635484",
     "geom:latitude":24.986258,
     "geom:longitude":121.59013,
@@ -401,7 +401,7 @@
         "wd:id":"Q244898"
     },
     "wof:country":"TW",
-    "wof:geomhash":"8fee4d2ebfc4c240441dc4b86ad3734c",
+    "wof:geomhash":"42d6ef8d92ef850e67aef0cfe7e7a689",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -417,7 +417,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875935,
+    "wof:lastmodified":1694493409,
     "wof:name":"New Taipei City",
     "wof:parent_id":1108808549,
     "wof:placetype":"region",

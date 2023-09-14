@@ -5,12 +5,18 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.19914,
-    "geom:area_square_m":2245328318.197413,
+    "geom:area_square_m":2245328401.989276,
     "geom:bbox":"120.456553,23.998557,121.452005,24.441489",
     "geom:latitude":24.238211,
     "geom:longitude":120.892398,
     "gn:country":"TW",
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Taichung Special Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "special municipality"
+    ],
     "lbl:latitude":24.18258,
     "lbl:longitude":120.719195,
     "lbl:min_zoom":9.0,
@@ -43,9 +49,6 @@
         "Landkreis Taichung"
     ],
     "name:eng_x_preferred":[
-        "Taichung County"
-    ],
-    "name:eng_x_variant":[
         "Taichung"
     ],
     "name:eus_x_preferred":[
@@ -106,6 +109,18 @@
     "src:geom":"meso",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population_date":"2010-12-31",
+    "statoids:areakm":2215,
+    "statoids:capital":"Taichung",
+    "statoids:country":"TW",
+    "statoids:date":"2010-12-31",
+    "statoids:hasc":"TW.TG.TU",
+    "statoids:name":"Taichung City",
+    "statoids:population":2731056,
+    "statoids:statoid":"TW.TG",
+    "statoids:timezone":"+8",
+    "statoids:type":"special municipality",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -114,11 +129,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "hasc:id":"TW.TG.TU",
         "wd:id":"Q701682"
     },
     "wof:country":"TW",
     "wof:created":1469053654,
-    "wof:geomhash":"28f4b9064ccd558bace08227091206a5",
+    "wof:geomhash":"564155a50819419a25ea0db7093a50e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -135,10 +151,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875952,
+    "wof:lastmodified":1694639824,
     "wof:name":"Taichung",
     "wof:parent_id":85679617,
     "wof:placetype":"macrocounty",
+    "wof:population":2731056,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
     "wof:supersedes":[],

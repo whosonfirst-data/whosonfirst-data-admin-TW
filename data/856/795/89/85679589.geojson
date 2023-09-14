@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.114394,
-    "geom:area_square_m":1283037844.027459,
+    "geom:area_square_m":1283036944.007233,
     "geom:bbox":"120.971695,24.59545,121.483314,25.123679",
     "geom:latitude":24.897857,
     "geom:longitude":121.263098,
@@ -48,13 +48,12 @@
         "\u03a4\u03b1\u03bf\u03b3\u03bf\u03c5\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
-        "Taoyuan County"
+        "Taoyuan"
     ],
     "name:eng_x_variant":[
         "T'ao-yuan",
         "Taoyuan Hsien",
-        "Tauryuan",
-        "Taoyuan"
+        "Tauryuan"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0648\u0626\u0627\u06cc\u0648\u0622\u0646"
@@ -223,7 +222,7 @@
         "wd:id":"Q401325"
     },
     "wof:country":"TW",
-    "wof:geomhash":"eeb23a72047f94f1f858308b6354f643",
+    "wof:geomhash":"f7c232c0c5b349315a9cf403e4c2bcad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -239,7 +238,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875934,
+    "wof:lastmodified":1694639832,
     "wof:name":"Taoyuan",
     "wof:parent_id":1108808543,
     "wof:placetype":"region",

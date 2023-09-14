@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.123148,
-    "geom:area_square_m":1383569426.537239,
+    "geom:area_square_m":1383569426.537174,
     "geom:bbox":"120.914651,24.433315,121.412259,24.951776",
     "geom:latitude":24.687338,
     "geom:longitude":121.160846,
@@ -75,11 +75,10 @@
         "\u03a7\u03c3\u03b9\u03bd\u03c4\u03c3\u03bf\u03cd"
     ],
     "name:eng_x_preferred":[
-        "Hsinchu County"
+        "Hsinchu"
     ],
     "name:eng_x_variant":[
         "Hsin-chu",
-        "Hsinchu",
         "Hsinchu Hsien",
         "Hsinchu City"
     ],
@@ -332,7 +331,7 @@
         1108756867
     ],
     "wof:country":"TW",
-    "wof:geomhash":"e427d47c2c71786802a7190747b0984f",
+    "wof:geomhash":"4ceb7a9e694d76b8eee0989bd921ccad",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -348,7 +347,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875934,
+    "wof:lastmodified":1694639832,
     "wof:name":"Hsinchu",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

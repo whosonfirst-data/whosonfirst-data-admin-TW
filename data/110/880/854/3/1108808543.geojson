@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.108787,
-    "geom:area_square_m":1220091918.562621,
+    "geom:area_square_m":1220091918.566387,
     "geom:bbox":"120.982025,24.586457,121.479988,25.123616",
     "geom:latitude":24.903294,
     "geom:longitude":121.257645,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Taoyuan Special Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "special municipality"
+    ],
     "label:eng_x_preferred_shortcode":[
         "TA"
     ],
@@ -249,6 +255,8 @@
     ],
     "src:geom":"meso",
     "src:lbl_centroid":"mapshaper",
+    "src:population":"wd",
+    "src:population_date":"2020",
     "wof:belongsto":[
         102191569,
         85632403
@@ -259,7 +267,7 @@
     },
     "wof:country":"TW",
     "wof:created":1486417863,
-    "wof:geomhash":"a31315b7592d5fb344ad4f7b7b9f558b",
+    "wof:geomhash":"649f7f4dce66e459ff32740a8fbac969",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -274,10 +282,12 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1690875942,
+    "wof:lastmodified":1694639828,
     "wof:name":"Taoyuan",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",
+    "wof:population":2254363,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:shortcode":"TA",
     "wof:superseded_by":[],

@@ -13,6 +13,12 @@
     "gn:fcode":"ADM2",
     "gn:population":0,
     "iso:country":"TW",
+    "label:eng_x_preferred_longname":[
+        "Yilan Township"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "township"
+    ],
     "lbl:max_zoom":10.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
@@ -32,6 +38,9 @@
     ],
     "name:ell_x_preferred":[
         "\u0393\u03b9\u03bb\u03ac\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Yilan"
     ],
     "name:eus_x_preferred":[
         "Yilan"
@@ -105,7 +114,7 @@
     },
     "wof:country":"TW",
     "wof:created":1469053721,
-    "wof:geomhash":"78ec372571ca73144157d50cc85779c3",
+    "wof:geomhash":"b59c42ac00c116dff7a76ad6a560644f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -117,7 +126,7 @@
         }
     ],
     "wof:id":890468707,
-    "wof:lastmodified":1636500757,
+    "wof:lastmodified":1694493394,
     "wof:name":"Yilan",
     "wof:parent_id":1108499379,
     "wof:placetype":"county",
