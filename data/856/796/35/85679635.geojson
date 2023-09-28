@@ -318,9 +318,11 @@
         "gn:id":1676511,
         "gp:id":28760735,
         "hasc:id":"TW.FK.KM",
+        "iso:code":"TW-KIN",
         "qs_pg:id":1119886,
         "wd:id":"Q249870"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TW",
     "wof:geomhash":"e22242e3aa70b4ae4ed9a12c9d36d832",
     "wof:hierarchy":[
@@ -338,7 +340,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493409,
+    "wof:lastmodified":1695884324,
     "wof:name":"Kinmen",
     "wof:parent_id":1108808555,
     "wof:placetype":"region",

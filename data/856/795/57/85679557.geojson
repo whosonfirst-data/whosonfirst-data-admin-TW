@@ -142,8 +142,10 @@
         "gn:id":1675103,
         "gp:id":28751582,
         "hasc:id":"TW.TA.HS",
+        "iso:code":"TW-HSZ",
         "qs_pg:id":1285950
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TW",
     "wof:geomhash":"d68faeb4f4ed74063e862f90ede05f36",
     "wof:hierarchy":[
@@ -161,7 +163,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493425,
+    "wof:lastmodified":1695884756,
     "wof:name":"Hsinchu City",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

@@ -136,8 +136,10 @@
         "gn:id":1678834,
         "gp:id":28751583,
         "hasc:id":"TW.TA.CS",
+        "iso:code":"TW-CYI",
         "qs_pg:id":1110821
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TW",
     "wof:geomhash":"09e56fa5bbac44d9a3448f16fa92e248",
     "wof:hierarchy":[
@@ -155,7 +157,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493425,
+    "wof:lastmodified":1695884756,
     "wof:name":"Chiayi City",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

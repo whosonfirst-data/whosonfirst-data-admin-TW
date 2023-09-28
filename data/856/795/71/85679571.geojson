@@ -144,9 +144,11 @@
         "gn:id":6724654,
         "gp:id":22695855,
         "hasc:id":"TW.TA.CL",
+        "iso:code":"TW-KEE",
         "qs_pg:id":465874,
         "unlc:id":"TW-KEE"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TW",
     "wof:geomhash":"c4b994838623416ab7fc5d2af086edbd",
     "wof:hierarchy":[
@@ -164,7 +166,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493425,
+    "wof:lastmodified":1695884756,
     "wof:name":"Keelung City",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

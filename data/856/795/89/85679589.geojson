@@ -217,10 +217,12 @@
         "gn:id":1667900,
         "gp:id":2347345,
         "hasc:id":"TW.TA.TY",
+        "iso:code":"TW-TAO",
         "qs_pg:id":1135410,
         "unlc:id":"TW-TAO",
         "wd:id":"Q401325"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TW",
     "wof:geomhash":"f7c232c0c5b349315a9cf403e4c2bcad",
     "wof:hierarchy":[
@@ -238,7 +240,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639832,
+    "wof:lastmodified":1695884875,
     "wof:name":"Taoyuan",
     "wof:parent_id":1108808543,
     "wof:placetype":"region",

@@ -406,9 +406,11 @@
         "gn:id":6724652,
         "gp:id":20070571,
         "hasc:id":"TW.KH.KS",
+        "iso:code":"TW-KHH",
         "unlc:id":"TW-KHQ",
         "wd:id":"Q181557"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TW",
     "wof:geomhash":"6b85660a9b8972de2f20d6aca8237d65",
     "wof:hierarchy":[
@@ -426,7 +428,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493409,
+    "wof:lastmodified":1695884324,
     "wof:name":"Kaohsiung City",
     "wof:parent_id":1108808547,
     "wof:placetype":"region",
