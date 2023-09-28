@@ -119,8 +119,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"TW.TA.TY"
+        "hasc:id":"TW.TA.TY",
+        "meso:local_id":"68"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"TW",
     "wof:created":1469053722,
     "wof:geomhash":"5178e5b5c0bb7072708fa2daab5b07a4",
@@ -140,7 +142,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639820,
+    "wof:lastmodified":1695885852,
     "wof:name":"Taoyuan",
     "wof:parent_id":85679589,
     "wof:placetype":"macrocounty",

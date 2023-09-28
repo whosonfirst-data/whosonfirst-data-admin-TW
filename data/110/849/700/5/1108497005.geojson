@@ -130,8 +130,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"TW.TG.TU",
+        "meso:local_id":"66",
         "wd:id":"Q701682"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"TW",
     "wof:created":1469053654,
     "wof:geomhash":"564155a50819419a25ea0db7093a50e6",
@@ -151,7 +153,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639824,
+    "wof:lastmodified":1695885856,
     "wof:name":"Taichung",
     "wof:parent_id":85679617,
     "wof:placetype":"macrocounty",

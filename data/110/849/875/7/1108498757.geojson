@@ -228,8 +228,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"TW.TA.YL",
+        "meso:local_id":"10009",
         "wd:id":"Q153221"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:coterminous":[
         85679619
     ],
@@ -252,7 +254,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639820,
+    "wof:lastmodified":1695885852,
     "wof:name":"Yunlin",
     "wof:parent_id":85679619,
     "wof:placetype":"macrocounty",

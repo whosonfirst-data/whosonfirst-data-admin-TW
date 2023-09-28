@@ -222,8 +222,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"TW.TA.IL",
+        "meso:local_id":"10002",
         "wd:id":"Q237258"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:coterminous":[
         85679567
     ],
@@ -246,7 +248,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639819,
+    "wof:lastmodified":1695885850,
     "wof:name":"Yilan",
     "wof:parent_id":85679567,
     "wof:placetype":"macrocounty",

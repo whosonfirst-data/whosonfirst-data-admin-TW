@@ -225,8 +225,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"TW.TA.TT",
+        "meso:local_id":"10014",
         "wd:id":"Q249904"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:coterminous":[
         85679623
     ],
@@ -249,7 +251,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639821,
+    "wof:lastmodified":1695885853,
     "wof:name":"Taitung",
     "wof:parent_id":85679623,
     "wof:placetype":"macrocounty",

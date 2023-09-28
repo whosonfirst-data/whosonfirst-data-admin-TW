@@ -128,8 +128,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"TW.FK.LK",
+        "meso:local_id":"09007",
         "wd:id":"Q249872"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:coterminous":[
         85679637
     ],
@@ -152,7 +154,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639814,
+    "wof:lastmodified":1695885831,
     "wof:name":"Lienchiang",
     "wof:parent_id":85679637,
     "wof:placetype":"macrocounty",

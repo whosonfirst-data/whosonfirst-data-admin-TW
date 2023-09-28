@@ -217,10 +217,12 @@
     "wof:concordances":{
         "gn:id":1675107,
         "hasc:id":"TW.TA.HS",
+        "meso:local_id":"10018",
         "qs_pg:id":1151920,
         "wd:id":"Q74054",
         "wk:page":"Hsinchu"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"TW",
     "wof:created":1469053659,
     "wof:geomhash":"8301b7a07dc50dabb3632d14948bcef3",
@@ -240,7 +242,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639823,
+    "wof:lastmodified":1695885856,
     "wof:name":"Hsinchu",
     "wof:parent_id":85679557,
     "wof:placetype":"macrocounty",

@@ -202,8 +202,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"TW.TA.CH",
+        "meso:local_id":"10010",
         "wd:id":"Q166977"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:coterminous":[
         85679599
     ],
@@ -226,7 +228,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639816,
+    "wof:lastmodified":1695885847,
     "wof:name":"Chiayi",
     "wof:parent_id":85679599,
     "wof:placetype":"macrocounty",
