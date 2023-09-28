@@ -1512,6 +1512,7 @@
         "hasc:id":"TW",
         "icao:code":"B",
         "ioc:id":"TPE",
+        "iso:code":"TW",
         "iso:id":"TW",
         "loc:id":"n80022631",
         "marc:id":"ch",
@@ -1524,6 +1525,7 @@
         "wd:id":"Q865",
         "wk:page":"Taiwan"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TW",
     "wof:country_alpha3":"TWN",
     "wof:geom_alt":[
@@ -1545,7 +1547,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639673,
+    "wof:lastmodified":1695881332,
     "wof:name":"Taiwan",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
