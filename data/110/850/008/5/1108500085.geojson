@@ -207,8 +207,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"TW.TA.PH",
+        "meso:local_id":"10016",
         "wd:id":"Q198525"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:coterminous":[
         85679627
     ],
@@ -231,7 +233,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639817,
+    "wof:lastmodified":1695885848,
     "wof:name":"Penghu",
     "wof:parent_id":85679627,
     "wof:placetype":"macrocounty",

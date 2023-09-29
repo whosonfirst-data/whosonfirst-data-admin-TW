@@ -222,8 +222,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"TW.KH.KS"
+        "hasc:id":"TW.KH.KS",
+        "meso:local_id":"64"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:coterminous":[
         1108808547
     ],
@@ -246,7 +248,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493039,
+    "wof:lastmodified":1695885848,
     "wof:name":"Kaohsiung",
     "wof:parent_id":85679547,
     "wof:placetype":"macrocounty",

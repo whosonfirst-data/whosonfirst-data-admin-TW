@@ -228,8 +228,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"TW.TA.NT",
+        "meso:local_id":"10008",
         "wd:id":"Q82357"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:coterminous":[
         85679611
     ],
@@ -252,7 +254,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639822,
+    "wof:lastmodified":1695885854,
     "wof:name":"Nantou",
     "wof:parent_id":85679611,
     "wof:placetype":"macrocounty",

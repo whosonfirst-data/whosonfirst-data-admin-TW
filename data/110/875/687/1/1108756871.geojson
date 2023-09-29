@@ -57,8 +57,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"TW.NT.TP"
+        "hasc:id":"TW.NT.TP",
+        "meso:local_id":"65"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:coterminous":[
         1108808549
     ],
@@ -81,7 +83,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493036,
+    "wof:lastmodified":1695885836,
     "wof:name":"New Taipei",
     "wof:parent_id":85679585,
     "wof:placetype":"macrocounty",

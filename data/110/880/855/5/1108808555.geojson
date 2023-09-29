@@ -128,6 +128,7 @@
         "hasc:id":"TW.FK",
         "wd:id":"Q249872"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TW",
     "wof:created":1486417874,
     "wof:geomhash":"49808cb07b321d31024d61510a24e71f",
@@ -145,7 +146,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493052,
+    "wof:lastmodified":1696023155,
     "wof:name":"Fujian",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

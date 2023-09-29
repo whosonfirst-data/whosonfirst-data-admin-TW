@@ -222,8 +222,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"TW.TA.CG",
+        "meso:local_id":"10007",
         "wd:id":"Q133865"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:coterminous":[
         85679593
     ],
@@ -246,7 +248,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639818,
+    "wof:lastmodified":1695885850,
     "wof:name":"Changhua",
     "wof:parent_id":85679593,
     "wof:placetype":"macrocounty",

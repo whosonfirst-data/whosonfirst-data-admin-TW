@@ -225,8 +225,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"TW.TA.ML",
+        "meso:local_id":"10005",
         "wd:id":"Q63706"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:coterminous":[
         85679575
     ],
@@ -249,7 +251,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639816,
+    "wof:lastmodified":1695885847,
     "wof:name":"Miaoli",
     "wof:parent_id":85679575,
     "wof:placetype":"macrocounty",

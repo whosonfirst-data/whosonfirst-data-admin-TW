@@ -226,8 +226,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"TW.TA.HL",
+        "meso:local_id":"10015",
         "wd:id":"Q249868"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:coterminous":[
         85679607
     ],
@@ -250,7 +252,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639822,
+    "wof:lastmodified":1695885853,
     "wof:name":"Hualien",
     "wof:parent_id":85679607,
     "wof:placetype":"macrocounty",

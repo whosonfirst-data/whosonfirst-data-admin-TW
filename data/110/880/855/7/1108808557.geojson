@@ -1230,6 +1230,7 @@
     "wof:concordances":{
         "hasc:id":"TW.TA"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TW",
     "wof:created":1486417877,
     "wof:geomhash":"9048130adc6467dc496a7ff89c33b5f7",
@@ -1247,7 +1248,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493062,
+    "wof:lastmodified":1696023158,
     "wof:name":"Taiwan",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

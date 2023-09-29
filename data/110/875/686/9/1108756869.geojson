@@ -115,8 +115,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"TW.TN.TI",
+        "meso:local_id":"67",
         "wd:id":"Q477601"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"TW",
     "wof:created":1473974326,
     "wof:geomhash":"42f8e60d29c795f6d4ab25a072493a5d",
@@ -136,7 +138,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639814,
+    "wof:lastmodified":1695885816,
     "wof:name":"Tainan",
     "wof:parent_id":85679553,
     "wof:placetype":"macrocounty",

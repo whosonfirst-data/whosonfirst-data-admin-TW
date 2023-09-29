@@ -396,10 +396,12 @@
         "gn:id":1665148,
         "gp:id":20070569,
         "hasc:id":"TW.NT.TP",
+        "iso:code":"TW-NWT",
         "iso:id":"TW-TPE",
         "qs_pg:id":902125,
         "wd:id":"Q244898"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"TW",
     "wof:geomhash":"42d6ef8d92ef850e67aef0cfe7e7a689",
     "wof:hierarchy":[
@@ -417,7 +419,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493409,
+    "wof:lastmodified":1695884324,
     "wof:name":"New Taipei City",
     "wof:parent_id":1108808549,
     "wof:placetype":"region",

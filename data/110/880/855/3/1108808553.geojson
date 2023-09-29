@@ -199,6 +199,7 @@
     "wof:concordances":{
         "hasc:id":"TW.TN"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TW",
     "wof:created":1486417872,
     "wof:geomhash":"4681878dd6a505b919130386febf5d0e",
@@ -216,7 +217,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493051,
+    "wof:lastmodified":1696023155,
     "wof:name":"Tainan",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

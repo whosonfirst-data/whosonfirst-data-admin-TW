@@ -208,8 +208,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"TW.TA.HS",
+        "meso:local_id":"10004",
         "wd:id":"Q74054"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:coterminous":[
         85679563
     ],
@@ -232,7 +234,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639815,
+    "wof:lastmodified":1695885846,
     "wof:name":"Hsinchu",
     "wof:parent_id":85679563,
     "wof:placetype":"macrocounty",

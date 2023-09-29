@@ -675,9 +675,11 @@
         "gn:id":7280290,
         "gp:id":20070568,
         "hasc:id":"TW.TP.TC",
+        "iso:code":"TW-TPE",
         "qs_pg:id":191513,
         "wd:id":"Q1867"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         102026641
     ],
@@ -698,7 +700,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493409,
+    "wof:lastmodified":1695884324,
     "wof:name":"Taipei City",
     "wof:parent_id":1108808545,
     "wof:placetype":"region",

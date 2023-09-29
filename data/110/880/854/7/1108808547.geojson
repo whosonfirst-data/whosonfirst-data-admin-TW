@@ -355,6 +355,7 @@
         "iso:id":"TW-KHH",
         "wd:id":"Q181557"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         1108756877
     ],
@@ -375,7 +376,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493061,
+    "wof:lastmodified":1696023158,
     "wof:name":"Kaohsiung",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

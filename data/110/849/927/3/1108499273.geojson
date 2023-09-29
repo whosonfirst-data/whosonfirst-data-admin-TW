@@ -240,8 +240,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "hasc:id":"TW.TA.PT",
+        "meso:local_id":"10013",
         "wd:id":"Q194989"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:coterminous":[
         85679549
     ],
@@ -264,7 +266,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639823,
+    "wof:lastmodified":1695885855,
     "wof:name":"Pingtung",
     "wof:parent_id":85679549,
     "wof:placetype":"macrocounty",

@@ -236,8 +236,10 @@
         "gn:id":1678835,
         "gp:id":7153409,
         "hasc:id":"TW.TA.CH",
+        "iso:code":"TW-CYQ",
         "qs_pg:id":221898
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         1108756865
     ],
@@ -258,7 +260,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694639832,
+    "wof:lastmodified":1695884875,
     "wof:name":"Chiayi",
     "wof:parent_id":1108808557,
     "wof:placetype":"region",

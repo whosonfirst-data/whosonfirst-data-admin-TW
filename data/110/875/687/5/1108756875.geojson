@@ -150,8 +150,10 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "hasc:id":"TW.TA.CL"
+        "hasc:id":"TW.TA.CL",
+        "meso:local_id":"10017"
     },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"TW",
     "wof:created":1473974315,
     "wof:geomhash":"c0d4bec6299d44d71e34e089a22f3f07",
@@ -171,7 +173,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1694493035,
+    "wof:lastmodified":1695885817,
     "wof:name":"Keelung",
     "wof:parent_id":85679571,
     "wof:placetype":"macrocounty",
