@@ -199,6 +199,7 @@
     "wof:concordances":{
         "hasc:id":"TW.TG"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:country":"TW",
     "wof:created":1486417871,
     "wof:geomhash":"07d282655dfcbbb8006b4e580540b45c",
@@ -216,7 +217,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1695884146,
+    "wof:lastmodified":1696023155,
     "wof:name":"Taichung",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",

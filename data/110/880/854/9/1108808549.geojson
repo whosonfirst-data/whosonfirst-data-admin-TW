@@ -314,6 +314,7 @@
         "hasc:id":"TW.NT",
         "wd:id":"Q244898"
     },
+    "wof:concordances_official":"hasc:id",
     "wof:coterminous":[
         1108756871
     ],
@@ -334,7 +335,7 @@
     "wof:lang_x_spoken":[
         "zho"
     ],
-    "wof:lastmodified":1695884149,
+    "wof:lastmodified":1696023156,
     "wof:name":"New Taipei",
     "wof:parent_id":85632403,
     "wof:placetype":"macroregion",
