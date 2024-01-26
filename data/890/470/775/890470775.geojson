@@ -9,6 +9,22 @@
     "geom:bbox":"120.761909,23.936595,120.761909,23.936595",
     "geom:latitude":23.936595,
     "geom:longitude":120.761909,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"NAN",
+    "gn:admin3_code":"M08",
+    "gn:admin4_code":"10008080018.0",
+    "gn:asciiname":"Shuangwen",
+    "gn:country_code":"TW",
+    "gn:dem":199,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6648842,
+    "gn:latitude":23.9353,
+    "gn:longitude":120.7608,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Shuangwen",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"120.741909,23.916595,120.781909,23.956595",
@@ -23,8 +39,16 @@
     "name:eng_x_variant":[
         "Shuangwen Village"
     ],
+    "name:und_x_variant":[
+        "Shuangwun",
+        "Shuangwen",
+        "Shuang-wen"
+    ],
     "name:zho_tw_x_preferred":[
         "\u723d\u6587\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "\u723d\u6587"
     ],
     "qs:name":"\u723d\u6587\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -40,11 +64,12 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679611
+        85679611,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":6648842,
         "gp:id":28758627,
         "qs_pg:id":1137455
     },
@@ -61,13 +86,15 @@
         }
     ],
     "wof:id":890470775,
-    "wof:lastmodified":1601423052,
+    "wof:lastmodified":1706240708,
     "wof:name":"Shuangwen",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1309745161
+    ],
     "wof:tags":[]
 },
   "bbox": [

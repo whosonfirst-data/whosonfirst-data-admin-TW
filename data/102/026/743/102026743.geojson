@@ -11,7 +11,9 @@
     "geom:longitude":121.015972,
     "gn:latitude":24.83833,
     "gn:longitude":121.00778,
+    "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.986507,24.832484,121.026507,24.872484",
     "lbl:latitude":24.834633,
     "lbl:longitude":121.013838,
     "lbl:max_zoom":18.0,
@@ -44,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "Zhubei"
+    ],
+    "name:eng_x_variant":[
+        "Zhubei City"
     ],
     "name:epo_x_preferred":[
         "\u0134ubej"
@@ -140,6 +145,9 @@
     ],
     "name:zho_min_nan_x_preferred":[
         "Tek-pak-chh\u012b"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u7af9\u5317\u5e02"
     ],
     "name:zho_x_preferred":[
         "\u7af9\u5317\u5e02"
@@ -247,7 +255,18 @@
     "qs:level":"locality",
     "qs:loc":"Zhubei",
     "qs:loc_lc":"1677112",
+    "qs:name":"\u7af9\u5317\u5e02",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u65b0\u7af9\u7e23",
+    "qs:photos":4997,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4997,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -264,9 +283,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1677112,
+        "gp:id":2296844,
         "qs_pg:id":1027062,
         "wd:id":"Q29624",
         "wk:page":"Zhubei"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            1288849
+        ]
     },
     "wof:country":"TW",
     "wof:geom_alt":[
@@ -283,13 +308,15 @@
         }
     ],
     "wof:id":102026743,
-    "wof:lastmodified":1690875927,
+    "wof:lastmodified":1706240703,
     "wof:name":"Zhubei",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890468171
+    ],
     "wof:tags":[]
 },
   "bbox": [

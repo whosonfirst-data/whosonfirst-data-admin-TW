@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"121.07917,24.77528,121.07917,24.77528",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:hak_x_preferred":[
         "Khi\u00fbng-l\u00ecm-hi\u00f4ng"
@@ -81,12 +83,14 @@
         }
     ],
     "wof:id":1326530863,
-    "wof:lastmodified":1566588393,
+    "wof:lastmodified":1706240707,
     "wof:name":"Xionglin",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890470009
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

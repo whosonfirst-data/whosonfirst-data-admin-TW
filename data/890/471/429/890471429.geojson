@@ -9,6 +9,22 @@
     "geom:bbox":"121.567837,23.96564,121.567837,23.96564",
     "geom:latitude":23.96564,
     "geom:longitude":121.567837,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U05",
+    "gn:admin4_code":"10015050011.0",
+    "gn:asciiname":"Daoxiang",
+    "gn:country_code":"TW",
+    "gn:dem":46,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254483,
+    "gn:latitude":23.96417,
+    "gn:longitude":121.57,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Daoxiang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"121.547837,23.94564,121.587837,23.98564",
@@ -23,8 +39,16 @@
     "name:eng_x_variant":[
         "Daoxiang Village"
     ],
+    "name:und_x_variant":[
+        "Tao-hsiang",
+        "Daoxiang",
+        "Daosiang"
+    ],
     "name:zho_tw_x_preferred":[
         "\u7a3b\u9999\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "\u7a3b\u9999"
     ],
     "qs:name":"\u7a3b\u9999\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -40,11 +64,12 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679607
+        85679607,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":6254483,
         "gp:id":28759095,
         "qs_pg:id":512663
     },
@@ -61,13 +86,15 @@
         }
     ],
     "wof:id":890471429,
-    "wof:lastmodified":1601422987,
+    "wof:lastmodified":1706240709,
     "wof:name":"Daoxiang",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1259607229
+    ],
     "wof:tags":[]
 },
   "bbox": [

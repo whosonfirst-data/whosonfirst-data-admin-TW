@@ -9,6 +9,22 @@
     "geom:bbox":"121.563796,23.99337,121.563796,23.99337",
     "geom:latitude":23.99337,
     "geom:longitude":121.563796,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U05",
+    "gn:admin4_code":"10015050003.0",
+    "gn:asciiname":"Taichang",
+    "gn:country_code":"TW",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6254449,
+    "gn:latitude":23.99333,
+    "gn:longitude":121.56611,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Taichang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"121.543796,23.97337,121.583796,24.01337",
@@ -26,6 +42,12 @@
     "name:zho_tw_x_preferred":[
         "\u592a\u660c\u6751"
     ],
+    "name:zho_x_preferred":[
+        "\u592a\u660c"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019ai-ch\u2019ang"
+    ],
     "qs:name":"\u592a\u660c\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u82b1\u84ee\u7e23",
@@ -40,13 +62,19 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679607
+        85679607,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":6254449,
         "gp:id":28759082,
         "qs_pg:id":378221
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1668401
+        ]
     },
     "wof:country":"TW",
     "wof:created":1469053719,
@@ -61,13 +89,16 @@
         }
     ],
     "wof:id":890468661,
-    "wof:lastmodified":1601423055,
+    "wof:lastmodified":1706240705,
     "wof:name":"Taichang",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310633853,
+        1226248853
+    ],
     "wof:tags":[]
 },
   "bbox": [

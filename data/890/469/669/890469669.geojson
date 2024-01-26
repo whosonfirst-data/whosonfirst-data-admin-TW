@@ -9,7 +9,23 @@
     "geom:bbox":"121.817833,24.802785,121.817833,24.802785",
     "geom:latitude":24.802785,
     "geom:longitude":121.817833,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G04",
+    "gn:admin4_code":"10002060013.0",
+    "gn:asciiname":"Dafu",
     "gn:country":"TW",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668489,
+    "gn:latitude":24.80278,
+    "gn:longitude":121.81722,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dafu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"121.797833,24.7827855,121.837833,24.8227855",
@@ -24,8 +40,17 @@
     "name:eng_x_variant":[
         "Dafu Village"
     ],
+    "name:und_x_variant":[
+        "Ta-fu"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5927\u798f\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "Ta-fu-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u5927\u798f"
     ],
     "qs:name":"\u5927\u798f\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -39,14 +64,15 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679567,
         102191569,
         85632403,
         1108499379,
-        1108808557,
-        85679567
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1668489,
         "gp:id":28757480,
         "qs_pg:id":985572
     },
@@ -64,13 +90,15 @@
         }
     ],
     "wof:id":890469669,
-    "wof:lastmodified":1601422985,
+    "wof:lastmodified":1706240706,
     "wof:name":"Dafu",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1293884229
+    ],
     "wof:tags":[]
 },
   "bbox": [

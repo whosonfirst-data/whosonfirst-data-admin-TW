@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"121.09083,24.73167,121.09083,24.73167",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:hak_x_preferred":[
         "Chuk-t\u00fbng-ch\u1e73\u0301n"
@@ -81,12 +83,14 @@
         }
     ],
     "wof:id":1310411927,
-    "wof:lastmodified":1566589467,
+    "wof:lastmodified":1706240705,
     "wof:name":"Zhudong",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890468279
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

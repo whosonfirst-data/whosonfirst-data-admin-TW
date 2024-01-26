@@ -9,7 +9,23 @@
     "geom:bbox":"121.825675,24.719503,121.825675,24.719503",
     "geom:latitude":24.719503,
     "geom:longitude":121.825675,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"ILA",
+    "gn:admin3_code":"G04",
+    "gn:admin4_code":"10002060004.0",
+    "gn:asciiname":"Donggang",
     "gn:country":"TW",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666592,
+    "gn:latitude":24.71917,
+    "gn:longitude":121.82708,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Donggang",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"121.805675,24.699503,121.845675,24.739503",
@@ -18,14 +34,36 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Donggang"
+    ],
+    "name:deu_x_preferred":[
+        "Donggang"
+    ],
     "name:eng_x_preferred":[
         "Donggang"
     ],
     "name:eng_x_variant":[
         "Donggang Village"
     ],
+    "name:fra_x_preferred":[
+        "Donggang"
+    ],
+    "name:nor_x_preferred":[
+        "Donggang"
+    ],
+    "name:swe_x_preferred":[
+        "Donggang"
+    ],
+    "name:und_x_variant":[
+        "Tung-chiang",
+        "Tung-kang"
+    ],
     "name:zho_tw_x_preferred":[
         "\u6771\u6e2f\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "\u6771\u6e2f"
     ],
     "qs:name":"\u6771\u6e2f\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -39,14 +77,15 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679567,
         102191569,
         85632403,
         1108499379,
-        1108808557,
-        85679567
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1666592,
         "gp:id":28757487,
         "qs_pg:id":1089011
     },
@@ -64,13 +103,15 @@
         }
     ],
     "wof:id":890470405,
-    "wof:lastmodified":1601422990,
+    "wof:lastmodified":1706240708,
     "wof:name":"Donggang",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310305451
+    ],
     "wof:tags":[]
 },
   "bbox": [

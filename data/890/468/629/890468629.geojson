@@ -9,6 +9,22 @@
     "geom:bbox":"120.867739,24.642784,120.867739,24.642784",
     "geom:latitude":24.642784,
     "geom:longitude":120.867739,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K11",
+    "gn:admin4_code":"10005150001.0",
+    "gn:asciiname":"Zaoqiao",
+    "gn:country_code":"TW",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666922,
+    "gn:latitude":24.64257,
+    "gn:longitude":120.8671,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Zaoqiao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"120.8477385,24.622784,120.8877385,24.662784",
@@ -23,8 +39,19 @@
     "name:eng_x_variant":[
         "Zaoqiao Village"
     ],
+    "name:und_x_variant":[
+        "Zaociao"
+    ],
     "name:zho_tw_x_preferred":[
         "\u9020\u6a4b\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "Tsao-ch\u2019iao-erh-pao"
+    ],
+    "name:zho_x_variant":[
+        "Y\u00fcan-feng-ts\u2019un",
+        "\u9020\u6a4b",
+        "Tsao-ch\u2019iao"
     ],
     "qs:name":"\u9020\u6a4b\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -40,13 +67,15 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679575
+        85679575,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1666922,
         "gp:id":28757952,
-        "qs_pg:id":378144
+        "qs_pg:id":378144,
+        "wk:page":"Zaoqiao,_Miaoli"
     },
     "wof:country":"TW",
     "wof:created":1469053717,
@@ -61,13 +90,15 @@
         }
     ],
     "wof:id":890468629,
-    "wof:lastmodified":1601423077,
+    "wof:lastmodified":1706240705,
     "wof:name":"Zaoqiao",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1327054109
+    ],
     "wof:tags":[]
 },
   "bbox": [

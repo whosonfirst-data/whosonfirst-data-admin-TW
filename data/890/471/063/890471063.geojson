@@ -9,6 +9,22 @@
     "geom:bbox":"120.159358,23.379561,120.159358,23.379561",
     "geom:latitude":23.379561,
     "geom:longitude":120.159358,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q03",
+    "gn:admin4_code":"10010030005.0",
+    "gn:asciiname":"Budai",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1670295,
+    "gn:latitude":23.37795,
+    "gn:longitude":120.16154,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Budai",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"120.139358,23.359561,120.179358,23.399561",
@@ -23,7 +39,36 @@
     "name:eng_x_variant":[
         "Budai Township"
     ],
+    "name:hak_x_preferred":[
+        "Pu-thoi-ch\u1e73\u0301n"
+    ],
+    "name:ita_x_preferred":[
+        "Budai"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5e03\u888b\u93ae"
+    ],
+    "name:kor_x_preferred":[
+        "\ubd80\ub2e4\uc774\uc9c4"
+    ],
+    "name:pol_x_preferred":[
+        "Budai"
+    ],
+    "name:und_x_variant":[
+        "Pu-tai-chiang",
+        "Pu-tai-chen",
+        "Pu-tai"
+    ],
+    "name:vie_x_preferred":[
+        "B\u1ed1 \u0110\u1ea1i"
+    ],
     "name:zho_tw_x_preferred":[
+        "\u5e03\u888b\u93ae"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u888b"
+    ],
+    "name:zho_x_variant":[
         "\u5e03\u888b\u93ae"
     ],
     "qs:name":"\u5e03\u888b\u93ae",
@@ -40,13 +85,15 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679599
+        85679599,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1670295,
         "gp:id":2306206,
-        "qs_pg:id":902746
+        "qs_pg:id":902746,
+        "wk:page":"Budai,_Chiayi"
     },
     "wof:country":"TW",
     "wof:created":1469053841,
@@ -61,13 +108,15 @@
         }
     ],
     "wof:id":890471063,
-    "wof:lastmodified":1601422981,
+    "wof:lastmodified":1706240709,
     "wof:name":"Budai",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276156489
+    ],
     "wof:tags":[]
 },
   "bbox": [

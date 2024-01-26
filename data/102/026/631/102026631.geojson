@@ -9,9 +9,14 @@
     "geom:bbox":"121.218731,24.952133,121.359392,25.059796",
     "geom:latitude":25.003885,
     "geom:longitude":121.292048,
+    "gn:country":"TW",
+    "gn:fcode":"PPL",
     "gn:latitude":24.9896,
     "gn:longitude":121.3187,
+    "gn:population":402014,
+    "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"121.27696,24.97368,121.31696,25.01368",
     "lbl:latitude":24.997115,
     "lbl:longitude":121.312226,
     "lbl:max_zoom":18.0,
@@ -41,6 +46,9 @@
     ],
     "name:eng_x_preferred":[
         "Taoyuan District"
+    ],
+    "name:eng_x_variant":[
+        "Taoyuan City"
     ],
     "name:fas_x_preferred":[
         "\u062a\u0648\u0626\u0627\u06cc\u0648\u0622\u0646"
@@ -119,6 +127,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6843\u5712\u5340"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u6843\u5712\u5e02"
     ],
     "name:zho_x_preferred":[
         "T\u2019ao-y\u00fcan-chieh"
@@ -230,13 +241,25 @@
     "qs:level":"locality",
     "qs:loc":"Taoyuan",
     "qs:loc_lc":"1667905",
+    "qs:name":"\u6843\u5712\u5e02",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u6843\u5712\u7e23",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"10",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
         "quattroshapes_pg"
     ],
     "src:lbl_centroid":"mapshaper",
+    "src:population":"geonames",
     "wof:belongsto":[
         102191569,
         85632403,
@@ -246,7 +269,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1667905,
+        "gp:id":2298866,
         "qs_pg:id":1030886
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6696918
+        ],
+        "qs_pg:id":[
+            923004
+        ]
     },
     "wof:country":"TW",
     "wof:geom_alt":[
@@ -263,13 +295,17 @@
         }
     ],
     "wof:id":102026631,
-    "wof:lastmodified":1636500715,
+    "wof:lastmodified":1706240702,
     "wof:name":"Taoyuan",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",
+    "wof:population":402014,
+    "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890469231
+    ],
     "wof:tags":[]
 },
   "bbox": [

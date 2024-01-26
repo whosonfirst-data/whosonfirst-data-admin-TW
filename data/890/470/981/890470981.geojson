@@ -9,6 +9,22 @@
     "geom:bbox":"121.2485,23.176463,121.2485,23.176463",
     "geom:latitude":23.176463,
     "geom:longitude":121.2485,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U10",
+    "gn:admin4_code":"10015100009.0",
+    "gn:asciiname":"Fuli",
+    "gn:country_code":"TW",
+    "gn:dem":236,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676433,
+    "gn:latitude":23.17639,
+    "gn:longitude":121.24806,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Fuli",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"121.2285,23.156463,121.2685,23.196463",
@@ -17,14 +33,47 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Fuli"
+    ],
     "name:eng_x_preferred":[
         "Fuli"
     ],
     "name:eng_x_variant":[
         "Fuli Village"
     ],
+    "name:hak_x_preferred":[
+        "Fu-l\u00ee-hi\u00f4ng"
+    ],
+    "name:ita_x_preferred":[
+        "Fuli"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5bcc\u91cc\u90f7"
+    ],
+    "name:kor_x_preferred":[
+        "\ud478\ub9ac\ud5a5"
+    ],
+    "name:pol_x_preferred":[
+        "Fuli"
+    ],
+    "name:und_x_variant":[
+        "Kung-pu",
+        "Fu-li-hsiang",
+        "Fu-li"
+    ],
+    "name:vie_x_preferred":[
+        "Ph\u00fa L\u00fd"
+    ],
     "name:zho_tw_x_preferred":[
         "\u5bcc\u91cc\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "Fu-li-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Fu-lin-ts\u2019un",
+        "\u5bcc\u91cc\u9109"
     ],
     "qs:name":"\u5bcc\u91cc\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -40,13 +89,15 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679607
+        85679607,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1676433,
         "gp:id":28759962,
-        "qs_pg:id":378392
+        "qs_pg:id":378392,
+        "wk:page":"Fuli,_Hualien"
     },
     "wof:country":"TW",
     "wof:created":1469053839,
@@ -61,13 +112,15 @@
         }
     ],
     "wof:id":890470981,
-    "wof:lastmodified":1601422995,
+    "wof:lastmodified":1706240708,
     "wof:name":"Fuli",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209415971
+    ],
     "wof:tags":[]
 },
   "bbox": [

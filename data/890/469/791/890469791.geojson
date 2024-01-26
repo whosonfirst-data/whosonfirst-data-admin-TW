@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"121.215271,24.865552,121.215271,24.865552",
@@ -15,7 +17,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Longtan"
@@ -40,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808543,
-        85679589
+        85679589,
+        1108808543
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":890469791,
-    "wof:lastmodified":1601423024,
+    "wof:lastmodified":1706240703,
     "wof:name":"Longtan",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102026693
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,6 +9,22 @@
     "geom:bbox":"120.683941,23.337688,120.683941,23.337688",
     "geom:latitude":23.337688,
     "geom:longitude":120.683941,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q20",
+    "gn:admin4_code":"10010180011.0",
+    "gn:asciiname":"Xinmei",
+    "gn:country_code":"TW",
+    "gn:dem":571,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674915,
+    "gn:latitude":23.33787,
+    "gn:longitude":120.68374,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xinmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"120.6639415,23.3176885,120.7039415,23.3576885",
@@ -23,8 +39,19 @@
     "name:eng_x_variant":[
         "Xinmei Village"
     ],
+    "name:und_x_variant":[
+        "Sinmei",
+        "Hsin-mei"
+    ],
     "name:zho_tw_x_preferred":[
         "\u65b0\u7f8e\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "Hsin-mei-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u65b0\u7f8e",
+        "T\u2019a-k\u2019u-pu-yang"
     ],
     "qs:name":"\u65b0\u7f8e\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -40,11 +67,12 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679599
+        85679599,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1674915,
         "gp:id":28759613,
         "qs_pg:id":1070119
     },
@@ -61,13 +89,15 @@
         }
     ],
     "wof:id":890470063,
-    "wof:lastmodified":1601423069,
+    "wof:lastmodified":1706240707,
     "wof:name":"Xinmei",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209515801
+    ],
     "wof:tags":[]
 },
   "bbox": [

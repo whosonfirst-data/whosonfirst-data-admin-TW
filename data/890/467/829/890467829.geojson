@@ -9,6 +9,22 @@
     "geom:bbox":"120.250866,23.129596,120.250866,23.129596",
     "geom:latitude":23.129596,
     "geom:longitude":120.250866,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R21",
+    "gn:admin4_code":"67000210001.0",
+    "gn:asciiname":"Sucuo",
+    "gn:country_code":"TW",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668658,
+    "gn:latitude":23.12861,
+    "gn:longitude":120.25083,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Sucuo",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"120.2308655,23.109596,120.2708655,23.149596",
@@ -26,6 +42,12 @@
     "name:zho_tw_x_preferred":[
         "\u8607\u539d\u6751"
     ],
+    "name:zho_x_preferred":[
+        "\u8607\u539d"
+    ],
+    "name:zho_x_variant":[
+        "Su-ts\u2019o"
+    ],
     "qs:name":"\u8607\u539d\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u53f0\u5357\u5e02",
@@ -40,11 +62,12 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808553,
-        85679553
+        85679553,
+        1108808553
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1668658,
         "gp:id":28754635,
         "qs_pg:id":228477
     },
@@ -61,13 +84,15 @@
         }
     ],
     "wof:id":890467829,
-    "wof:lastmodified":1601423054,
+    "wof:lastmodified":1706240704,
     "wof:name":"Sucuo",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344062991
+    ],
     "wof:tags":[]
 },
   "bbox": [

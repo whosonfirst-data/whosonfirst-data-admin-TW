@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"121.29696,24.99368,121.29696,24.99368",
@@ -18,7 +20,7 @@
     "lbl:max_zoom":13.0,
     "lbl:min_zoom":8.0,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":6.0,
     "name:ben_x_preferred":[
         "\u09a4\u09be\u09df\u09cb\u0987\u0989\u09df\u09be\u09a8"
@@ -93,14 +95,16 @@
         }
     ],
     "wof:id":890469231,
-    "wof:lastmodified":1636500756,
+    "wof:lastmodified":1706240702,
     "wof:name":"Taoyuan",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",
     "wof:population":402014,
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102026631
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

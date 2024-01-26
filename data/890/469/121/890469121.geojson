@@ -9,6 +9,22 @@
     "geom:bbox":"120.457191,23.601823,120.457191,23.601823",
     "geom:latitude":23.601823,
     "geom:longitude":120.457191,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q04",
+    "gn:admin4_code":"10010040004.0",
+    "gn:asciiname":"Dalin",
+    "gn:country_code":"TW",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1668151,
+    "gn:latitude":23.60395,
+    "gn:longitude":120.45782,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Dalin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"120.437191,23.581823,120.477191,23.621823",
@@ -23,7 +39,33 @@
     "name:eng_x_variant":[
         "Dalin Township"
     ],
+    "name:hak_x_preferred":[
+        "Thai-l\u00ecm-ch\u1e73\u0301n"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5927\u6797\u93ae"
+    ],
+    "name:kor_x_preferred":[
+        "\ub2e4\ub9b0\uc9c4"
+    ],
+    "name:pol_x_preferred":[
+        "Dalin"
+    ],
+    "name:und_x_variant":[
+        "Ta-lin-chuang",
+        "Ta-lin"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u1ea1i L\u00e2m"
+    ],
     "name:zho_tw_x_preferred":[
+        "\u5927\u6797\u93ae"
+    ],
+    "name:zho_x_preferred":[
+        "\u5927\u6797"
+    ],
+    "name:zho_x_variant":[
+        "Ta-p\u2019u-lin",
         "\u5927\u6797\u93ae"
     ],
     "qs:name":"\u5927\u6797\u93ae",
@@ -40,13 +82,15 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679599
+        85679599,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1668151,
         "gp:id":2304328,
-        "qs_pg:id":890519
+        "qs_pg:id":890519,
+        "wk:page":"Dalin,_Chiayi"
     },
     "wof:country":"TW",
     "wof:created":1469053750,
@@ -61,13 +105,15 @@
         }
     ],
     "wof:id":890469121,
-    "wof:lastmodified":1601422986,
+    "wof:lastmodified":1706240705,
     "wof:name":"Dalin",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360085891
+    ],
     "wof:tags":[]
 },
   "bbox": [

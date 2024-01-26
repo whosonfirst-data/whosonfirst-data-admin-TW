@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"121.56608,23.99273,121.56608,23.99273",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:zho_x_preferred":[
         "T\u2019ai-ch\u2019ang-ts\u2019un"
@@ -50,6 +52,11 @@
     "wof:concordances":{
         "gn:id":1668401
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            6254449
+        ]
+    },
     "wof:country":"TW",
     "wof:geomhash":"366fb7b155d92e2a0cad6fc6b83408f1",
     "wof:hierarchy":[
@@ -62,13 +69,17 @@
         }
     ],
     "wof:id":1226248853,
-    "wof:lastmodified":1566590185,
+    "wof:lastmodified":1706240710,
     "wof:name":"Taichang",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        890468661
+    ],
+    "wof:supersedes":[
+        1310633853
+    ],
     "wof:tags":[]
 },
   "bbox": [

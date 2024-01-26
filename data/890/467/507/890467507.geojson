@@ -9,6 +9,22 @@
     "geom:bbox":"119.511165,23.600987,119.511165,23.600987",
     "geom:latitude":23.600987,
     "geom:longitude":119.511165,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PEN",
+    "gn:admin3_code":"X04",
+    "gn:admin4_code":"10016040007.0",
+    "gn:asciiname":"Chidong",
+    "gn:country_code":"TW",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678293,
+    "gn:latitude":23.60111,
+    "gn:longitude":119.50889,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chidong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"119.491165,23.5809875,119.531165,23.6209875",
@@ -23,8 +39,22 @@
     "name:eng_x_variant":[
         "Chidong Village"
     ],
+    "name:und_x_variant":[
+        "Chidong",
+        "Chihdong"
+    ],
     "name:zho_tw_x_preferred":[
         "\u6c60\u6771\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019ih-tung-ch\u2019ih"
+    ],
+    "name:zho_x_variant":[
+        "\u6c60\u6771",
+        "Ch\u2019ih-tung-ts\u2019un",
+        "Ch\u2019ih-tung",
+        "Hsi-y\u00fc",
+        "Hsihs\u00fc"
     ],
     "qs:name":"\u6c60\u6771\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -38,14 +68,15 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679627,
         102191569,
         85632403,
         1108500085,
-        1108808557,
-        85679627
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1678293,
         "gp:id":28753419,
         "qs_pg:id":266130
     },
@@ -63,13 +94,15 @@
         }
     ],
     "wof:id":890467507,
-    "wof:lastmodified":1601422983,
+    "wof:lastmodified":1706240703,
     "wof:name":"Chidong",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310311113
+    ],
     "wof:tags":[]
 },
   "bbox": [

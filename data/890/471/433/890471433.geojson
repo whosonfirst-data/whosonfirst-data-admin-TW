@@ -9,6 +9,22 @@
     "geom:bbox":"121.522628,23.796539,121.522628,23.796539",
     "geom:latitude":23.796539,
     "geom:longitude":121.522628,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U06",
+    "gn:admin4_code":"10015060012.0",
+    "gn:asciiname":"Mizhan",
+    "gn:country_code":"TW",
+    "gn:dem":64,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1671960,
+    "gn:latitude":23.79917,
+    "gn:longitude":121.5225,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Mizhan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"121.502628,23.776539,121.542628,23.816539",
@@ -23,8 +39,19 @@
     "name:eng_x_variant":[
         "Mizhan Village"
     ],
+    "name:und_x_variant":[
+        "Mi-chan",
+        "Mizhan",
+        "Mijhan"
+    ],
     "name:zho_tw_x_preferred":[
         "\u7c73\u68e7\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "Mi-chan-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u7c73\u68e7"
     ],
     "qs:name":"\u7c73\u68e7\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -40,11 +67,12 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679607
+        85679607,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1671960,
         "gp:id":28760141,
         "qs_pg:id":887991
     },
@@ -61,13 +89,15 @@
         }
     ],
     "wof:id":890471433,
-    "wof:lastmodified":1601423030,
+    "wof:lastmodified":1706240709,
     "wof:name":"Mizhan",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343561743
+    ],
     "wof:tags":[]
 },
   "bbox": [
