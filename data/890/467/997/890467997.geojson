@@ -9,6 +9,22 @@
     "geom:bbox":"119.605064,23.596868,119.605064,23.596868",
     "geom:latitude":23.596868,
     "geom:longitude":119.605064,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"PEN",
+    "gn:admin3_code":"X02",
+    "gn:admin4_code":"10016020012.0",
+    "gn:asciiname":"Tanbian",
+    "gn:country_code":"TW",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667987,
+    "gn:latitude":23.59526,
+    "gn:longitude":119.6074,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Tanbian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"119.585064,23.576868,119.625064,23.616868",
@@ -26,6 +42,18 @@
     "name:zho_tw_x_preferred":[
         "\u6f6d\u908a\u6751"
     ],
+    "name:zho_x_preferred":[
+        "T\u2019an-pien-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "T\u2019an-kang-ts\u2019un",
+        "T\u2019an-pien-she",
+        "T\u2019an-chiang-ts\u2019un",
+        "T\u2019an-chiang",
+        "T\u2019an-kang",
+        "\u6f6d\u908a",
+        "T\u2019an-pien"
+    ],
     "qs:name":"\u6f6d\u908a\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u6f8e\u6e56\u7e23",
@@ -40,11 +68,12 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679627
+        85679627,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1667987,
         "gp:id":28753526,
         "qs_pg:id":1285980
     },
@@ -61,13 +90,15 @@
         }
     ],
     "wof:id":890467997,
-    "wof:lastmodified":1601423056,
+    "wof:lastmodified":1706240704,
     "wof:name":"Tanbian",
     "wof:parent_id":85679627,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1310429617
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,7 +9,23 @@
     "geom:bbox":"119.518997,23.604999,119.518997,23.604999",
     "geom:latitude":23.604999,
     "geom:longitude":119.518997,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PEN",
+    "gn:admin3_code":"X04",
+    "gn:admin4_code":"10016040006.0",
+    "gn:asciiname":"Erkan",
     "gn:country":"TW",
+    "gn:country_code":"TW",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1676925,
+    "gn:latitude":23.60495,
+    "gn:longitude":119.51872,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Erkan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"119.498997,23.584999,119.538997,23.624999",
@@ -27,6 +43,14 @@
     "name:zho_tw_x_preferred":[
         "\u4e8c\u5d01\u6751"
     ],
+    "name:zho_x_preferred":[
+        "Erh-k\u2019an-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "Erh-k\u2019an-she",
+        "\u4e8c\u5d01",
+        "Erh-k\u2019an"
+    ],
     "qs:name":"\u4e8c\u5d01\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u6f8e\u6e56\u7e23",
@@ -39,14 +63,15 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679627,
         102191569,
         85632403,
         1108500085,
-        1108808557,
-        85679627
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1676925,
         "gp:id":28753413,
         "qs_pg:id":903187
     },
@@ -64,13 +89,15 @@
         }
     ],
     "wof:id":890469973,
-    "wof:lastmodified":1601422992,
+    "wof:lastmodified":1706240706,
     "wof:name":"Erkan",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343864611
+    ],
     "wof:tags":[]
 },
   "bbox": [

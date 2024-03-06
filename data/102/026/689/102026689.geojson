@@ -11,7 +11,9 @@
     "geom:longitude":120.865847,
     "gn:latitude":24.56427,
     "gn:longitude":120.82367,
+    "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.796221,24.546893,120.836221,24.586893",
     "lbl:latitude":24.552122,
     "lbl:longitude":120.819427,
     "lbl:max_zoom":18.0,
@@ -129,6 +131,9 @@
     "name:zho_min_nan_x_preferred":[
         "Bi\u00e2u-le\u030dk-chh\u012b"
     ],
+    "name:zho_tw_x_preferred":[
+        "\u82d7\u6817\u5e02"
+    ],
     "name:zho_x_preferred":[
         "\u82d7\u6817\u5e02"
     ],
@@ -232,7 +237,18 @@
     "qs:level":"locality",
     "qs:loc":"Miaoli",
     "qs:loc_lc":"1671971",
+    "qs:name":"\u82d7\u6817\u5e02",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u82d7\u6817\u7e23",
+    "qs:photos":4999,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4999,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -248,9 +264,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1671971,
+        "gp:id":2301128,
         "qs_pg:id":1030900,
         "wd:id":"Q701651",
         "wk:page":"Miaoli"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            964642
+        ]
     },
     "wof:country":"TW",
     "wof:geom_alt":[
@@ -267,13 +289,15 @@
         }
     ],
     "wof:id":102026689,
-    "wof:lastmodified":1690875916,
+    "wof:lastmodified":1706240703,
     "wof:name":"Miaoli",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890469301
+    ],
     "wof:tags":[]
 },
   "bbox": [

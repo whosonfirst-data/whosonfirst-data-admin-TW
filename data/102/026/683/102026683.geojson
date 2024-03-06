@@ -12,7 +12,9 @@
     "gn:latitude":23.91566,
     "gn:longitude":120.66387,
     "gn:population":105682,
+    "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.666187,23.927386,120.706187,23.967386",
     "lbl:latitude":23.961163,
     "lbl:longitude":120.679216,
     "lbl:max_zoom":14.0,
@@ -47,6 +49,9 @@
         "\u039d\u03ac\u03bd\u03c4\u03bf\u03c5"
     ],
     "name:eng_x_preferred":[
+        "Nantou City"
+    ],
+    "name:eng_x_variant":[
         "Nantou City"
     ],
     "name:epo_x_preferred":[
@@ -137,6 +142,9 @@
         "Nantou"
     ],
     "name:yue_x_preferred":[
+        "\u5357\u6295\u5e02"
+    ],
+    "name:zho_tw_x_preferred":[
         "\u5357\u6295\u5e02"
     ],
     "name:zho_x_preferred":[
@@ -249,7 +257,18 @@
     "qs:level":"locality",
     "qs:loc":"Nantou",
     "qs:loc_lc":"1671566",
+    "qs:name":"\u5357\u6295\u5e02",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u5357\u6295\u7e23",
+    "qs:photos":4999,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4999,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -266,9 +285,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1671566,
+        "gp:id":2306204,
         "qs_pg:id":1030889,
         "wd:id":"Q715171",
         "wk:page":"Nantou City"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            964717
+        ]
     },
     "wof:country":"TW",
     "wof:geom_alt":[
@@ -285,7 +310,7 @@
         }
     ],
     "wof:id":102026683,
-    "wof:lastmodified":1690875925,
+    "wof:lastmodified":1706240703,
     "wof:name":"Nantou",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",
@@ -293,7 +318,9 @@
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890469309
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -54,6 +54,11 @@
     "wof:concordances":{
         "gn:id":1679222
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1679221
+        ]
+    },
     "wof:country":"TW",
     "wof:geomhash":"7e33d65a041cc71ebf8c7cab87119a5e",
     "wof:hierarchy":[
@@ -66,13 +71,15 @@
         }
     ],
     "wof:id":1243196305,
-    "wof:lastmodified":1566589991,
+    "wof:lastmodified":1706240710,
     "wof:name":"Aohua",
     "wof:parent_id":85679567,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1243555633
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -11,7 +11,9 @@
     "geom:longitude":120.911559,
     "gn:latitude":24.68753,
     "gn:longitude":120.90942,
+    "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.891579,24.671085,120.931579,24.711085",
     "lbl:latitude":24.693138,
     "lbl:longitude":120.911164,
     "lbl:max_zoom":18.0,
@@ -87,6 +89,9 @@
     "name:zho_min_nan_x_preferred":[
         "Th\u00e2u-h\u016bn-chh\u012b"
     ],
+    "name:zho_tw_x_preferred":[
+        "\u982d\u4efd\u93ae"
+    ],
     "name:zho_x_preferred":[
         "\u982d\u4efd\u5e02"
     ],
@@ -105,7 +110,18 @@
     "qs:level":"locality",
     "qs:loc":"Toufen",
     "qs:loc_lc":"1667027",
+    "qs:name":"\u982d\u4efd\u93ae",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u82d7\u6817\u7e23",
+    "qs:photos":2284,
+    "qs:photos_1k":463,
+    "qs:photos_9k":10,
+    "qs:photos_9r":9,
+    "qs:photos_all":2284,
+    "qs:photos_sr":17,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
@@ -120,6 +136,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1667027,
+        "gp:id":2303919,
+        "qs_pg:id":896778,
         "wd:id":"Q713758"
     },
     "wof:country":"TW",
@@ -134,13 +152,15 @@
         }
     ],
     "wof:id":102026627,
-    "wof:lastmodified":1690875916,
+    "wof:lastmodified":1706240702,
     "wof:name":"Toufen",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890469161
+    ],
     "wof:tags":[]
 },
   "bbox": [

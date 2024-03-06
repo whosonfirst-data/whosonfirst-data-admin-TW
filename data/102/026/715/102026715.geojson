@@ -12,7 +12,9 @@
     "gn:latitude":23.97694,
     "gn:longitude":121.60444,
     "gn:population":350468,
+    "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"121.593073,23.962576,121.633073,24.002576",
     "lbl:latitude":23.978881,
     "lbl:longitude":121.607614,
     "lbl:max_zoom":13.0,
@@ -45,6 +47,9 @@
     ],
     "name:eng_x_preferred":[
         "Hualien City"
+    ],
+    "name:eng_x_variant":[
+        "Hualian City"
     ],
     "name:epo_x_preferred":[
         "Hualjan"
@@ -169,6 +174,9 @@
     "name:yue_x_preferred":[
         "\u82b1\u84ee\u5e02"
     ],
+    "name:zho_tw_x_preferred":[
+        "\u82b1\u84ee\u5e02"
+    ],
     "name:zho_x_preferred":[
         "\u82b1\u84ee\u5e02"
     ],
@@ -272,7 +280,18 @@
     "qs:level":"locality",
     "qs:loc":"Hualian",
     "qs:loc_lc":"1674504",
+    "qs:name":"\u82b1\u84ee\u5e02",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u82b1\u84ee\u7e23",
+    "qs:photos":4999,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4999,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -289,9 +308,15 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1674504,
+        "gp:id":2306187,
         "qs_pg:id":133916,
         "wd:id":"Q713310",
         "wk:page":"Hualien City"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            212161
+        ]
     },
     "wof:country":"TW",
     "wof:geom_alt":[
@@ -308,7 +333,7 @@
         }
     ],
     "wof:id":102026715,
-    "wof:lastmodified":1690875920,
+    "wof:lastmodified":1706240703,
     "wof:name":"Hualian",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",
@@ -316,7 +341,9 @@
     "wof:population_rank":10,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890471541
+    ],
     "wof:tags":[]
 },
   "bbox": [

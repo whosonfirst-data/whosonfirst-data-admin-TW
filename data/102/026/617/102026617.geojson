@@ -11,7 +11,9 @@
     "geom:longitude":120.448608,
     "gn:latitude":22.46515,
     "gn:longitude":120.44927,
+    "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.434887,22.442948,120.474887,22.482948",
     "lbl:latitude":22.466878,
     "lbl:longitude":120.448608,
     "lbl:max_zoom":18.0,
@@ -69,6 +71,9 @@
     "name:yue_x_preferred":[
         "\u6771\u6e2f\u93ae"
     ],
+    "name:zho_tw_x_preferred":[
+        "\u6771\u6e2f\u93ae"
+    ],
     "name:zho_x_preferred":[
         "\u6771\u6e2f"
     ],
@@ -85,7 +90,18 @@
     "qs:loc":"Donggang",
     "qs:loc_alt":"\u6771\u6e2f\u93ae",
     "qs:loc_lc":"1666596",
+    "qs:name":"\u6771\u6e2f\u93ae",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u5c4f\u6771\u7e23",
+    "qs:photos":4984,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":4984,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
     "src:geom":"quattroshapes",
@@ -101,6 +117,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1666596,
+        "gp:id":2306213,
+        "qs_pg:id":1240185,
         "wd:id":"Q707728"
     },
     "wof:country":"TW",
@@ -115,13 +133,15 @@
         }
     ],
     "wof:id":102026617,
-    "wof:lastmodified":1690875915,
+    "wof:lastmodified":1706240702,
     "wof:name":"Donggang",
     "wof:parent_id":85679549,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890467975
+    ],
     "wof:tags":[]
 },
   "bbox": [

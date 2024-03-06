@@ -9,7 +9,23 @@
     "geom:bbox":"119.598541,23.633209,119.598541,23.633209",
     "geom:latitude":23.633209,
     "geom:longitude":119.598541,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"PEN",
+    "gn:admin3_code":"X03",
+    "gn:admin4_code":"10016030002.0",
+    "gn:asciiname":"Jiangmei",
     "gn:country":"TW",
+    "gn:country_code":"TW",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678740,
+    "gn:latitude":23.63297,
+    "gn:longitude":119.59865,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Jiangmei",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"119.578541,23.613209,119.618541,23.653209",
@@ -24,8 +40,21 @@
     "name:eng_x_variant":[
         "Jiangmei Village"
     ],
+    "name:und_x_variant":[
+        "Chiang-wei",
+        "Chiang-wei-she",
+        "Jiangmei",
+        "Kang-wei",
+        "Chiang-mei"
+    ],
     "name:zho_tw_x_preferred":[
         "\u8b1b\u7f8e\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "Chiang-mei-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u8b1b\u7f8e"
     ],
     "qs:name":"\u8b1b\u7f8e\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -39,14 +68,15 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679627,
         102191569,
         85632403,
         1108500085,
-        1108808557,
-        85679627
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1678740,
         "gp:id":28753512,
         "qs_pg:id":980953
     },
@@ -64,13 +94,15 @@
         }
     ],
     "wof:id":890467687,
-    "wof:lastmodified":1601423009,
+    "wof:lastmodified":1706240704,
     "wof:name":"Jiangmei",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1360085159
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,6 +9,22 @@
     "geom:bbox":"120.667002,23.297619,120.667002,23.297619",
     "geom:latitude":23.297619,
     "geom:longitude":120.667002,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"CYQ",
+    "gn:admin3_code":"Q20",
+    "gn:admin4_code":"10010180012.0",
+    "gn:asciiname":"Chashan",
+    "gn:country_code":"TW",
+    "gn:dem":421,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6656139,
+    "gn:latitude":23.29969,
+    "gn:longitude":120.66645,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Chashan",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"120.647002,23.277619,120.687002,23.317619",
@@ -23,8 +39,22 @@
     "name:eng_x_variant":[
         "Chashan Village"
     ],
+    "name:fas_x_preferred":[
+        "\u0686\u0627\u0634\u0627\u0646"
+    ],
+    "name:mlg_x_preferred":[
+        "Chashan"
+    ],
     "name:zho_tw_x_preferred":[
         "\u8336\u5c71\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "\u8336\u5c71"
+    ],
+    "name:zho_x_variant":[
+        "Ch\u2019ieh-ma",
+        "Ch\u2019a-shan",
+        "\u8336\u5c71\u9547"
     ],
     "qs:name":"\u8336\u5c71\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -40,11 +70,12 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679599
+        85679599,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":6656139,
         "gp:id":28759612,
         "qs_pg:id":984582
     },
@@ -61,13 +92,15 @@
         }
     ],
     "wof:id":890469615,
-    "wof:lastmodified":1601422982,
+    "wof:lastmodified":1706240706,
     "wof:name":"Chashan",
     "wof:parent_id":85679599,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209247873
+    ],
     "wof:tags":[]
 },
   "bbox": [

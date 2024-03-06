@@ -41,6 +41,9 @@
     "name:zho_x_preferred":[
         "\u5c0f\u99ac"
     ],
+    "name:zho_x_variant":[
+        "\u5c0f\u99ac"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         85679623,
@@ -52,6 +55,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":6587933
+    },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1675596
+        ]
     },
     "wof:country":"TW",
     "wof:geomhash":"46a418cbf128495263c11ba81e5c5918",
@@ -66,13 +74,15 @@
         }
     ],
     "wof:id":1226670307,
-    "wof:lastmodified":1566590151,
+    "wof:lastmodified":1706240710,
     "wof:name":"Xiaoma",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343585453
+    ],
     "wof:tags":[]
 },
   "bbox": [

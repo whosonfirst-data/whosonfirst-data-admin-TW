@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"120.434875,24.069976,120.434875,24.069976",
@@ -15,7 +17,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:eng_x_preferred":[
         "Lugang"
@@ -40,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679593
+        85679593,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":890471595,
-    "wof:lastmodified":1601423025,
+    "wof:lastmodified":1706240703,
     "wof:name":"Lugang",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        102026695
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

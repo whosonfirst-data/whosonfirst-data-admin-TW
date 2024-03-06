@@ -51,6 +51,11 @@
     "wof:concordances":{
         "gn:id":1671021
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            1909848
+        ]
+    },
     "wof:country":"TW",
     "wof:geomhash":"6487e7511258db2b7d87e251a22519c3",
     "wof:hierarchy":[
@@ -63,13 +68,15 @@
         }
     ],
     "wof:id":1344174799,
-    "wof:lastmodified":1566588569,
+    "wof:lastmodified":1706240710,
     "wof:name":"Banlicun",
     "wof:parent_id":85679637,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1344248423
+    ],
     "wof:tags":[]
 },
   "bbox": [

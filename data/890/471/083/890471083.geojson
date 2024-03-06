@@ -9,6 +9,22 @@
     "geom:bbox":"120.22747,22.861406,120.22747,22.861406",
     "geom:latitude":22.861406,
     "geom:longitude":120.22747,
+    "gn:admin1_code":"02",
+    "gn:admin2_code":"KHH",
+    "gn:admin3_code":"E24",
+    "gn:admin4_code":"64000240002.0",
+    "gn:asciiname":"Dingliao",
+    "gn:country_code":"TW",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1667206,
+    "gn:latitude":22.86139,
+    "gn:longitude":120.22472,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Dingliao",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"120.20747,22.841406,120.24747,22.881406",
@@ -23,8 +39,17 @@
     "name:eng_x_variant":[
         "Dingliao Village"
     ],
+    "name:und_x_variant":[
+        "Ting-liao"
+    ],
     "name:zho_tw_x_preferred":[
         "\u9802\u5bee\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "Ting-liao-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "\u9802\u5bee"
     ],
     "qs:name":"\u9802\u5bee\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -40,11 +65,12 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808547,
-        85679547
+        85679547,
+        1108808547
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1667206,
         "gp:id":28753768,
         "qs_pg:id":65785
     },
@@ -61,13 +87,15 @@
         }
     ],
     "wof:id":890471083,
-    "wof:lastmodified":1601422989,
+    "wof:lastmodified":1706240709,
     "wof:name":"Dingliao",
     "wof:parent_id":85679547,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209427797
+    ],
     "wof:tags":[]
 },
   "bbox": [

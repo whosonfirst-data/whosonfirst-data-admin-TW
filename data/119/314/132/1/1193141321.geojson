@@ -67,6 +67,11 @@
     "wof:concordances":{
         "gn:id":1667693
     },
+    "wof:concordances_alt":{
+        "gn:id":[
+            7536186
+        ]
+    },
     "wof:country":"TW",
     "wof:geomhash":"921ee97ab330b24dddaa9e0e0dd8a361",
     "wof:hierarchy":[
@@ -79,13 +84,15 @@
         }
     ],
     "wof:id":1193141321,
-    "wof:lastmodified":1566589278,
+    "wof:lastmodified":1706240710,
     "wof:name":"Dadi",
     "wof:parent_id":85679635,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1225862587
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -9,7 +9,23 @@
     "geom:bbox":"121.304419,22.96979,121.304419,22.96979",
     "geom:latitude":22.96979,
     "geom:longitude":121.304419,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V07",
+    "gn:admin4_code":"10014070003.0",
+    "gn:asciiname":"Donghe",
     "gn:country":"TW",
+    "gn:country_code":"TW",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666643,
+    "gn:latitude":22.96806,
+    "gn:longitude":121.30361,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Donghe",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"121.284419,22.94979,121.324419,22.98979",
@@ -18,14 +34,42 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:deu_x_preferred":[
+        "Donghe"
+    ],
     "name:eng_x_preferred":[
         "Donghe"
     ],
     "name:eng_x_variant":[
         "Donghe Village"
     ],
+    "name:hak_x_preferred":[
+        "T\u00fbng-h\u00f2-hi\u00f4ng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u6771\u6cb3\u90f7"
+    ],
+    "name:kor_x_preferred":[
+        "\ub465\ud5c8\ud5a5"
+    ],
+    "name:und_x_variant":[
+        "Ta-ma",
+        "Ta-ma-wu-tu",
+        "Tung-ho"
+    ],
+    "name:vie_x_preferred":[
+        "\u0110\u00f4ng H\u00e0"
+    ],
     "name:zho_tw_x_preferred":[
         "\u6771\u6cb3\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "Ta-ma-wu-k\u2019u"
+    ],
+    "name:zho_x_variant":[
+        "Tung-ho-ts\u2019un",
+        "\u6771\u6cb3",
+        "\u6771\u6cb3\u9109"
     ],
     "qs:name":"\u6771\u6cb3\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -39,16 +83,18 @@
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
     "wof:belongsto":[
+        85679623,
         102191569,
         85632403,
         1108499511,
-        1108808557,
-        85679623
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1666643,
         "gp:id":28753390,
-        "qs_pg:id":1088640
+        "qs_pg:id":1088640,
+        "wk:page":"Donghe,_Taitung"
     },
     "wof:country":"TW",
     "wof:created":1469053806,
@@ -64,13 +110,15 @@
         }
     ],
     "wof:id":890470177,
-    "wof:lastmodified":1601422990,
+    "wof:lastmodified":1706240707,
     "wof:name":"Donghe",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1260188485
+    ],
     "wof:tags":[]
 },
   "bbox": [

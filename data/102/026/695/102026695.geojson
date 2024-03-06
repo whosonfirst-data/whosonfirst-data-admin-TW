@@ -11,7 +11,9 @@
     "geom:longitude":120.432129,
     "gn:latitude":24.05583,
     "gn:longitude":120.435,
+    "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.414875,24.049976,120.454875,24.089976",
     "lbl:latitude":24.061506,
     "lbl:longitude":120.427241,
     "lbl:max_zoom":18.0,
@@ -78,6 +80,9 @@
     "name:zho_min_nan_x_preferred":[
         "Lo\u030dk-k\u00e1ng-t\u00ecn"
     ],
+    "name:zho_tw_x_preferred":[
+        "\u9e7f\u6e2f\u93ae"
+    ],
     "name:zho_x_preferred":[
         "\u9e7f\u6e2f\u93ae"
     ],
@@ -92,7 +97,18 @@
     "qs:level":"locality",
     "qs:loc":"Lugang",
     "qs:loc_lc":"1672557",
+    "qs:name":"\u9e7f\u6e2f\u93ae",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u5f70\u5316\u7e23",
+    "qs:photos":3590,
+    "qs:photos_1k":727,
+    "qs:photos_9k":16,
+    "qs:photos_9r":12,
+    "qs:photos_all":3590,
+    "qs:photos_sr":21,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
@@ -107,6 +123,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1672557,
+        "gp:id":2306201,
+        "qs_pg:id":220102,
         "wd:id":"Q701693",
         "wk:page":"Lukang, Changhua"
     },
@@ -122,13 +140,15 @@
         }
     ],
     "wof:id":102026695,
-    "wof:lastmodified":1690875919,
+    "wof:lastmodified":1706240703,
     "wof:name":"Lugang",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890471595
+    ],
     "wof:tags":[]
 },
   "bbox": [

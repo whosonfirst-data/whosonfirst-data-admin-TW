@@ -11,7 +11,9 @@
     "geom:longitude":121.2243,
     "gn:latitude":24.86556,
     "gn:longitude":121.21361,
+    "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"121.1952705,24.8455525,121.2352705,24.8855525",
     "lbl:latitude":24.84166,
     "lbl:longitude":121.219823,
     "lbl:max_zoom":18.0,
@@ -66,6 +68,9 @@
     "name:yue_x_preferred":[
         "\u9f8d\u6f6d\u5340"
     ],
+    "name:zho_tw_x_preferred":[
+        "\u9f8d\u6f6d\u6751"
+    ],
     "name:zho_x_preferred":[
         "Lung-t\u2019an-chuang"
     ],
@@ -82,7 +87,18 @@
     "qs:level":"locality",
     "qs:loc":"Longtan",
     "qs:loc_lc":"1672422",
+    "qs:name":"\u9f8d\u6f6d\u6751",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u6843\u5712\u7e23",
+    "qs:photos":6,
+    "qs:photos_1k":1,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":6,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
@@ -96,6 +112,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1672422,
+        "gp:id":28758196,
+        "qs_pg:id":994810,
         "wd:id":"Q713346",
         "wk:page":"Longtan District, Taoyuan"
     },
@@ -111,13 +129,15 @@
         }
     ],
     "wof:id":102026693,
-    "wof:lastmodified":1690875917,
+    "wof:lastmodified":1706240703,
     "wof:name":"Longtan",
     "wof:parent_id":85679589,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890469791
+    ],
     "wof:tags":[]
 },
   "bbox": [

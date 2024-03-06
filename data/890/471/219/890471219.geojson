@@ -9,6 +9,22 @@
     "geom:bbox":"120.997753,22.604819,120.997753,22.604819",
     "geom:latitude":22.604819,
     "geom:longitude":120.997753,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TTT",
+    "gn:admin3_code":"V15",
+    "gn:admin4_code":"10014140002.0",
+    "gn:asciiname":"Zhengxing",
+    "gn:country_code":"TW",
+    "gn:dem":39,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":6602598,
+    "gn:latitude":22.60417,
+    "gn:longitude":120.9975,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Zhengxing",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"120.977753,22.584819,121.017753,22.624819",
@@ -23,8 +39,16 @@
     "name:eng_x_variant":[
         "Zhengxing Village"
     ],
+    "name:und_x_variant":[
+        "Jhengsing",
+        "Zhengxing",
+        "Cheng-hsing"
+    ],
     "name:zho_tw_x_preferred":[
         "\u6b63\u8208\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "\u6b63\u8208"
     ],
     "qs:name":"\u6b63\u8208\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -40,11 +64,12 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679623
+        85679623,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":6602598,
         "gp:id":28753345,
         "qs_pg:id":1285971
     },
@@ -61,13 +86,15 @@
         }
     ],
     "wof:id":890471219,
-    "wof:lastmodified":1601423078,
+    "wof:lastmodified":1706240709,
     "wof:name":"Zhengxing",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326930843
+    ],
     "wof:tags":[]
 },
   "bbox": [

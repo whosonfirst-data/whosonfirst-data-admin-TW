@@ -9,6 +9,22 @@
     "geom:bbox":"120.497299,23.7575,120.497299,23.7575",
     "geom:latitude":23.7575,
     "geom:longitude":120.497299,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"YUN",
+    "gn:admin3_code":"P09",
+    "gn:admin4_code":"10009090001.0",
+    "gn:asciiname":"Citong",
+    "gn:country_code":"TW",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666323,
+    "gn:latitude":23.75751,
+    "gn:longitude":120.49965,
+    "gn:modification_date":"2018-03-09",
+    "gn:name":"Citong",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"120.4772995,23.7375,120.5172995,23.7775",
@@ -23,8 +39,18 @@
     "name:eng_x_variant":[
         "Citong Village"
     ],
+    "name:und_x_variant":[
+        "Cihtong"
+    ],
     "name:zho_tw_x_preferred":[
         "\u83bf\u6850\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "Tz\u2019u-t\u2019ung-chuang"
+    ],
+    "name:zho_x_variant":[
+        "\u83bf\u6850",
+        "Tz\u2019u-t\u2019ung"
     ],
     "qs:name":"\u83bf\u6850\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -40,13 +66,15 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679619
+        85679619,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1666323,
         "gp:id":28760000,
-        "qs_pg:id":1286944
+        "qs_pg:id":1286944,
+        "wk:page":"Citong,_Yunlin"
     },
     "wof:country":"TW",
     "wof:created":1469053692,
@@ -61,13 +89,15 @@
         }
     ],
     "wof:id":890468147,
-    "wof:lastmodified":1601422985,
+    "wof:lastmodified":1706240705,
     "wof:name":"Citong",
     "wof:parent_id":85679619,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1276234005
+    ],
     "wof:tags":[]
 },
   "bbox": [

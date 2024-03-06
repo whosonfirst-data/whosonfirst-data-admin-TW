@@ -11,7 +11,9 @@
     "geom:longitude":120.684849,
     "gn:latitude":23.9793,
     "gn:longitude":120.6841,
+    "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.665501,23.960606,120.705501,24.000606",
     "lbl:latitude":23.991259,
     "lbl:longitude":120.679512,
     "lbl:max_zoom":18.0,
@@ -84,6 +86,9 @@
     "name:zho_min_nan_x_preferred":[
         "Chh\u00e1u-t\u016bn-t\u00ecn"
     ],
+    "name:zho_tw_x_preferred":[
+        "\u8349\u5c6f\u93ae"
+    ],
     "name:zho_x_preferred":[
         "\u8349\u5c6f\u93ae"
     ],
@@ -100,7 +105,18 @@
     "qs:level":"locality",
     "qs:loc":"Caotun",
     "qs:loc_lc":"1666855",
+    "qs:name":"\u8349\u5c6f\u93ae",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u5357\u6295\u7e23",
+    "qs:photos":824,
+    "qs:photos_1k":167,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":824,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
@@ -115,6 +131,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1666855,
+        "gp:id":2304997,
+        "qs_pg:id":1207979,
         "wd:id":"Q708408"
     },
     "wof:country":"TW",
@@ -129,13 +147,15 @@
         }
     ],
     "wof:id":102026625,
-    "wof:lastmodified":1690875923,
+    "wof:lastmodified":1706240702,
     "wof:name":"Caotun",
     "wof:parent_id":85679611,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890470591
+    ],
     "wof:tags":[]
 },
   "bbox": [

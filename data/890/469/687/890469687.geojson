@@ -9,6 +9,22 @@
     "geom:bbox":"120.2622,22.954637,120.2622,22.954637",
     "geom:latitude":22.954637,
     "geom:longitude":120.2622,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"TNN",
+    "gn:admin3_code":"R27",
+    "gn:admin4_code":"67000270006.0",
+    "gn:asciiname":"Xintian",
+    "gn:country_code":"TW",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674834,
+    "gn:latitude":22.95583,
+    "gn:longitude":120.26389,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Xintian",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"120.2422,22.934637,120.2822,22.974637",
@@ -17,14 +33,30 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
+    "name:ceb_x_preferred":[
+        "Xintian"
+    ],
+    "name:deu_x_preferred":[
+        "Xintian"
+    ],
     "name:eng_x_preferred":[
         "Xintian"
     ],
     "name:eng_x_variant":[
         "Xintian Village"
     ],
+    "name:und_x_variant":[
+        "Sintian"
+    ],
     "name:zho_tw_x_preferred":[
         "\u65b0\u7530\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "\u65b0\u7530"
+    ],
+    "name:zho_x_variant":[
+        "Hsin-t\u2019ien",
+        "\u65b0\u7530\u9109"
     ],
     "qs:name":"\u65b0\u7530\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -40,11 +72,12 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808553,
-        85679553
+        85679553,
+        1108808553
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1674834,
         "gp:id":28754439,
         "qs_pg:id":990989
     },
@@ -61,13 +94,15 @@
         }
     ],
     "wof:id":890469687,
-    "wof:lastmodified":1601423069,
+    "wof:lastmodified":1706240706,
     "wof:name":"Xintian",
     "wof:parent_id":85679553,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1209010367
+    ],
     "wof:tags":[]
 },
   "bbox": [

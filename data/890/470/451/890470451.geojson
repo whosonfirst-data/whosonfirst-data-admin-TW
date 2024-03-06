@@ -9,6 +9,22 @@
     "geom:bbox":"120.850167,24.574914,120.850167,24.574914",
     "geom:latitude":24.574914,
     "geom:longitude":120.850167,
+    "gn:admin1_code":"04",
+    "gn:admin2_code":"MIA",
+    "gn:admin3_code":"K08",
+    "gn:admin4_code":"10005120001.0",
+    "gn:asciiname":"Touwu",
+    "gn:country_code":"TW",
+    "gn:dem":44,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1666975,
+    "gn:latitude":24.5762,
+    "gn:longitude":120.8511,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Touwu",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"120.830167,24.554914,120.870167,24.594914",
@@ -26,6 +42,13 @@
     "name:zho_tw_x_preferred":[
         "\u982d\u5c4b\u6751"
     ],
+    "name:zho_x_preferred":[
+        "T\u2019ou-wu-ts\u2019un"
+    ],
+    "name:zho_x_variant":[
+        "K\u2019an-t\u2019ou-wu",
+        "T\u2019ou-wu"
+    ],
     "qs:name":"\u982d\u5c4b\u6751",
     "qs:name_adm0":"\u81fa\u7063",
     "qs:name_adm1":"\u82d7\u6817\u7e23",
@@ -40,13 +63,15 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679575
+        85679575,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1666975,
         "gp:id":28758178,
-        "qs_pg:id":1089068
+        "qs_pg:id":1089068,
+        "wk:page":"Touwu,_Miaoli"
     },
     "wof:country":"TW",
     "wof:created":1469053819,
@@ -61,13 +86,15 @@
         }
     ],
     "wof:id":890470451,
-    "wof:lastmodified":1601423059,
+    "wof:lastmodified":1706240708,
     "wof:name":"Touwu",
     "wof:parent_id":85679575,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343762421
+    ],
     "wof:tags":[]
 },
   "bbox": [

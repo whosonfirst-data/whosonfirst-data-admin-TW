@@ -9,6 +9,22 @@
     "geom:bbox":"121.56814,23.98041,121.56814,23.98041",
     "geom:latitude":23.98041,
     "geom:longitude":121.56814,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HUA",
+    "gn:admin3_code":"U05",
+    "gn:admin4_code":"10015050005.0",
+    "gn:asciiname":"Qingfeng",
+    "gn:country_code":"TW",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1678171,
+    "gn:latitude":23.97944,
+    "gn:longitude":121.5675,
+    "gn:modification_date":"2017-09-24",
+    "gn:name":"Qingfeng",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"121.54814,23.96041,121.58814,24.00041",
@@ -23,8 +39,21 @@
     "name:eng_x_variant":[
         "Qingfeng Village"
     ],
+    "name:und_x_variant":[
+        "Cingfeng",
+        "Qingfeng"
+    ],
     "name:zho_tw_x_preferred":[
         "\u6176\u8c50\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "\u6176\u8c50"
+    ],
+    "name:zho_x_variant":[
+        "Kung-ch\u2019ien",
+        "Ch\u2019ing-feng-ts\u2019un",
+        "Kuan-ch\u2019ien",
+        "Ch\u2019ing-feng"
     ],
     "qs:name":"\u6176\u8c50\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -40,11 +69,12 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679607
+        85679607,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1678171,
         "gp:id":28759094,
         "qs_pg:id":229605
     },
@@ -61,13 +91,15 @@
         }
     ],
     "wof:id":890471819,
-    "wof:lastmodified":1601423042,
+    "wof:lastmodified":1706240709,
     "wof:name":"Qingfeng",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1343394221
+    ],
     "wof:tags":[]
 },
   "bbox": [

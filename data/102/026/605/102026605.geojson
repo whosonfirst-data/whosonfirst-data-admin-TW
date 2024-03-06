@@ -11,7 +11,9 @@
     "geom:longitude":120.569458,
     "gn:latitude":23.96113,
     "gn:longitude":120.57209,
+    "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.555363,23.934861,120.595363,23.974861",
     "lbl:latitude":23.956136,
     "lbl:longitude":120.569458,
     "lbl:max_zoom":18.0,
@@ -81,6 +83,9 @@
     "name:war_x_preferred":[
         "Yuanlin"
     ],
+    "name:zho_tw_x_preferred":[
+        "\u54e1\u6797\u93ae"
+    ],
     "name:zho_x_preferred":[
         "T\u2019ai-chung-hsien"
     ],
@@ -99,7 +104,18 @@
     "qs:loc":"Yuanlin",
     "qs:loc_alt":"\u54e1\u6797\u93ae",
     "qs:loc_lc":"1665443",
+    "qs:name":"\u54e1\u6797\u93ae",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u5f70\u5316\u7e23",
+    "qs:photos":5000,
+    "qs:photos_1k":1000,
+    "qs:photos_9k":22,
+    "qs:photos_9r":14,
+    "qs:photos_all":5000,
+    "qs:photos_sr":24,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "qs:type":"Town",
     "src:geom":"quattroshapes",
@@ -115,6 +131,8 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1665443,
+        "gp:id":2303609,
+        "qs_pg:id":241730,
         "wd:id":"Q713331"
     },
     "wof:country":"TW",
@@ -129,13 +147,15 @@
         }
     ],
     "wof:id":102026605,
-    "wof:lastmodified":1690875917,
+    "wof:lastmodified":1706240702,
     "wof:name":"Yuanlin",
     "wof:parent_id":85679593,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890472005
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -3,7 +3,9 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2024-01-19",
     "edtf:inception":"uuuu",
+    "edtf:superseded":"2024-01-19",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
     "geom:bbox":"121.57,23.96417,121.57,23.96417",
@@ -30,7 +32,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Tao-hsiang",
@@ -52,7 +54,7 @@
         "gn:id":6254483
     },
     "wof:country":"TW",
-    "wof:geomhash":"22ccb9a98b244b31dbad38f8e02d4701",
+    "wof:geomhash":"8215f80000e988d234bb37ef2d63d462",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,20 +65,22 @@
         }
     ],
     "wof:id":1259607229,
-    "wof:lastmodified":1566590076,
+    "wof:lastmodified":1706240709,
     "wof:name":"Daoxiang",
     "wof:parent_id":85679607,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        890471429
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
     121.57,
-    23.96417000000001,
+    23.96417,
     121.57,
-    23.96417000000001
+    23.96417
 ],
-  "geometry": {"coordinates":[121.56999999999999,23.96417000000001],"type":"Point"}
+  "geometry": {"coordinates":[121.56999999999999,23.96417],"type":"Point"}
 }

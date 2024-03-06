@@ -12,7 +12,9 @@
     "gn:latitude":22.99083,
     "gn:longitude":120.21333,
     "gn:population":771235,
+    "gp:adm0":23424971,
     "iso:country":"TW",
+    "lbl:bbox":"120.160862,22.977209,120.200862,23.017209",
     "lbl:latitude":23.109964,
     "lbl:longitude":120.301152,
     "lbl:max_zoom":13.0,
@@ -265,6 +267,9 @@
     "name:zha_x_preferred":[
         "Daiznanz"
     ],
+    "name:zho_tw_x_preferred":[
+        "\u53f0\u5357\u5e02"
+    ],
     "name:zho_x_preferred":[
         "\u81fa\u5357\u5e02"
     ],
@@ -373,7 +378,18 @@
     "qs:level":"locality",
     "qs:loc":"Tainan",
     "qs:loc_lc":"1668355",
+    "qs:name":"\u53f0\u5357\u5e02",
+    "qs:name_adm0":"\u81fa\u7063",
+    "qs:name_adm1":"\u53f0\u5357\u5e02",
+    "qs:photos":814,
+    "qs:photos_1k":165,
+    "qs:photos_9k":360,
+    "qs:photos_9r":26,
+    "qs:photos_all":81139,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
     "qs:pop":0,
+    "qs:pop_sr":"0",
     "qs:source":"Nquattroshapes",
     "src:geom":"quattroshapes",
     "src:geom_alt":[
@@ -391,10 +407,16 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":1668355,
+        "gp:id":2306182,
         "ne:id":1159149109,
         "qs_pg:id":1027047,
         "wd:id":"Q140631",
         "wk:page":"Tainan"
+    },
+    "wof:concordances_alt":{
+        "qs_pg:id":[
+            224412
+        ]
     },
     "wof:country":"TW",
     "wof:geom_alt":[
@@ -411,7 +433,7 @@
         }
     ],
     "wof:id":102026643,
-    "wof:lastmodified":1690875915,
+    "wof:lastmodified":1706240702,
     "wof:megacity":1,
     "wof:name":"Tainan",
     "wof:parent_id":85679553,
@@ -420,7 +442,9 @@
     "wof:population_rank":11,
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        890471629
+    ],
     "wof:tags":[]
 },
   "bbox": [

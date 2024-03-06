@@ -9,6 +9,22 @@
     "geom:bbox":"121.078217,24.775761,121.078217,24.775761",
     "geom:latitude":24.775761,
     "geom:longitude":121.078217,
+    "gn:admin1_code":"4.0",
+    "gn:admin2_code":"HSZ",
+    "gn:admin3_code":"J10",
+    "gn:admin4_code":"10004070010.0",
+    "gn:asciiname":"Xionglin",
+    "gn:country_code":"TW",
+    "gn:dem":97,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":1674599,
+    "gn:latitude":24.77528,
+    "gn:longitude":121.07917,
+    "gn:modification_date":"2018-03-12",
+    "gn:name":"Xionglin",
+    "gn:population":0,
+    "gn:timezone":"Asia/Taipei",
     "gp:adm0":23424971,
     "iso:country":"TW",
     "lbl:bbox":"121.0582175,24.755761,121.0982175,24.795761",
@@ -23,8 +39,33 @@
     "name:eng_x_variant":[
         "Xionglin Village"
     ],
+    "name:hak_x_preferred":[
+        "Khi\u00fbng-l\u00ecm-hi\u00f4ng"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e5\u30a6\u6797\u90f7"
+    ],
+    "name:kor_x_preferred":[
+        "\ucda9\ub9b0\ud5a5"
+    ],
+    "name:und_x_variant":[
+        "Shiung-Lin",
+        "Xionglin",
+        "Syonglin",
+        "Hsiung-lin"
+    ],
+    "name:vie_x_preferred":[
+        "Khung L\u00e2m"
+    ],
     "name:zho_tw_x_preferred":[
         "\u828e\u6797\u6751"
+    ],
+    "name:zho_x_preferred":[
+        "Ch\u2019iung-lin"
+    ],
+    "name:zho_x_variant":[
+        "\u828e\u6797",
+        "\u828e\u6797\u9109"
     ],
     "qs:name":"\u828e\u6797\u6751",
     "qs:name_adm0":"\u81fa\u7063",
@@ -40,13 +81,15 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        1108808557,
-        85679563
+        85679563,
+        1108808557
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "gn:id":1674599,
         "gp:id":28757524,
-        "qs_pg:id":911750
+        "qs_pg:id":911750,
+        "wk:page":"Qionglin"
     },
     "wof:country":"TW",
     "wof:created":1469053797,
@@ -61,13 +104,15 @@
         }
     ],
     "wof:id":890470009,
-    "wof:lastmodified":1601423070,
+    "wof:lastmodified":1706240707,
     "wof:name":"Xionglin",
     "wof:parent_id":85679563,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-tw",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1326530863
+    ],
     "wof:tags":[]
 },
   "bbox": [
