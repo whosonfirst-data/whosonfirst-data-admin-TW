@@ -25,6 +25,12 @@
     "name:deu_x_preferred":[
         "Songshan"
     ],
+    "name:eng_x_preferred":[
+        "Songshan"
+    ],
+    "name:eng_x_variant":[
+        "Songshan District"
+    ],
     "name:fra_x_preferred":[
         "Songshan"
     ],
@@ -52,8 +58,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679583,
-        1108808545
+        1108808545,
+        85679583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -74,8 +80,8 @@
         }
     ],
     "wof:id":890468693,
-    "wof:lastmodified":1566589820,
-    "wof:name":"Songshan District",
+    "wof:lastmodified":1730095153,
+    "wof:name":"Songshan",
     "wof:parent_id":85679583,
     "wof:placetype":"localadmin",
     "wof:population":0,

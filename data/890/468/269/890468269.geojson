@@ -19,6 +19,12 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":12.0,
+    "name:eng_x_preferred":[
+        "Da\u2019an"
+    ],
+    "name:eng_x_variant":[
+        "Da\u2019an District"
+    ],
     "name:hak_x_preferred":[
         "Thai-\u00f4n-kh\u00ee"
     ],
@@ -48,8 +54,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679583,
-        1108808545
+        1108808545,
+        85679583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -70,8 +76,8 @@
         }
     ],
     "wof:id":890468269,
-    "wof:lastmodified":1566589822,
-    "wof:name":"Da\u2019an District",
+    "wof:lastmodified":1730095153,
+    "wof:name":"Da\u2019an",
     "wof:parent_id":85679583,
     "wof:placetype":"localadmin",
     "wof:population":0,

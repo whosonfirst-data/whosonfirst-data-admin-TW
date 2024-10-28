@@ -25,6 +25,12 @@
     "name:deu_x_preferred":[
         "Nangang"
     ],
+    "name:eng_x_preferred":[
+        "Nangang"
+    ],
+    "name:eng_x_variant":[
+        "Nangang District"
+    ],
     "name:eus_x_preferred":[
         "Nangang"
     ],
@@ -61,8 +67,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679583,
-        1108808545
+        1108808545,
+        85679583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -83,8 +89,8 @@
         }
     ],
     "wof:id":890468749,
-    "wof:lastmodified":1566589825,
-    "wof:name":"Nangang District",
+    "wof:lastmodified":1730095153,
+    "wof:name":"Nangang",
     "wof:parent_id":85679583,
     "wof:placetype":"localadmin",
     "wof:population":0,

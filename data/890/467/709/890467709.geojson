@@ -23,6 +23,10 @@
         "Xinyi"
     ],
     "name:eng_x_preferred":[
+        "Sinyi"
+    ],
+    "name:eng_x_variant":[
+        "Sinyi District",
         "Xinyi District"
     ],
     "name:hak_x_preferred":[
@@ -67,8 +71,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679583,
-        1108808545
+        1108808545,
+        85679583
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -90,8 +94,8 @@
         }
     ],
     "wof:id":890467709,
-    "wof:lastmodified":1566589756,
-    "wof:name":"Sinyi District",
+    "wof:lastmodified":1730095153,
+    "wof:name":"Sinyi",
     "wof:parent_id":85679583,
     "wof:placetype":"localadmin",
     "wof:population":0,
