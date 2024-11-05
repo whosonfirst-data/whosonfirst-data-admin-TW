@@ -41,6 +41,9 @@
         "Hualien"
     ],
     "name:eng_x_preferred":[
+        "Hualien"
+    ],
+    "name:eng_x_variant":[
         "Hualien City"
     ],
     "name:epo_x_preferred":[
@@ -172,8 +175,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679607,
-        1108808557
+        1108808557,
+        85679607
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -195,8 +198,8 @@
         }
     ],
     "wof:id":890468761,
-    "wof:lastmodified":1690876018,
-    "wof:name":"Hualien City",
+    "wof:lastmodified":1730271683,
+    "wof:name":"Hualien",
     "wof:parent_id":85679607,
     "wof:placetype":"localadmin",
     "wof:population":0,

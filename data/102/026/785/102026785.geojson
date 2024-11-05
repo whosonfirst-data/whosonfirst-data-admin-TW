@@ -47,6 +47,9 @@
         "\u03a4\u03b1\u03ca\u03c4\u03bf\u03cd\u03bd\u03b3\u03ba"
     ],
     "name:eng_x_preferred":[
+        "Taitung"
+    ],
+    "name:eng_x_variant":[
         "Taitung City"
     ],
     "name:epo_x_preferred":[
@@ -180,8 +183,8 @@
     "wof:belongsto":[
         102191569,
         85632403,
-        85679623,
-        1108808557
+        1108808557,
+        85679623
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -209,8 +212,8 @@
         }
     ],
     "wof:id":102026785,
-    "wof:lastmodified":1690875920,
-    "wof:name":"Taitung City",
+    "wof:lastmodified":1730271679,
+    "wof:name":"Taitung",
     "wof:parent_id":85679623,
     "wof:placetype":"locality",
     "wof:population":109584,
